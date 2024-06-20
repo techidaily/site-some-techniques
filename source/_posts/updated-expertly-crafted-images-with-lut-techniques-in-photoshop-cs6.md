@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expertly Crafted Images with LUT Techniques in Photoshop CS6"
-date: 2024-05-26T16:52:44.945Z
-updated: 2024-05-27T16:52:44.945Z
+date: 2024-06-10T13:34:15.388Z
+updated: 2024-06-11T13:34:15.388Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Expertly Crafted Images with LUT Techniques in Photoshop CS6"
 excerpt: "This Article Describes [Updated] Expertly Crafted Images with LUT Techniques in Photoshop CS6"
 keywords: "LUT Photoshop Tips,Photoshop CS6 Image Editing,Expert Images with LUTs,Advanced Photo LUT Techniques,Professional LUT PS Adjustments,Creative LUT Usage in Photoshop,Precision LUT Image Crafting"
-thumbnail: https://www.lifewire.com/thmb/HL-ngH30s9INJM_qSrE7jnobmyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/zfold5-64c9634a900e4e3295c663e12af0e4aa.jpeg
+thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe0f9cb4aa8918882c26356a6.jpeg
 ---
 
 ## Expertly Crafted Images with LUT Techniques in Photoshop CS6

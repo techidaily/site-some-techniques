@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Hobbyist to Pro  The Audacity Journey\""
-date: 2024-05-26T17:44:47.254Z
-updated: 2024-05-27T17:44:47.254Z
+date: 2024-06-10T13:34:13.276Z
+updated: 2024-06-11T13:34:13.276Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Hobbyist to Pro: The Audacity Journey\""
 excerpt: "\"This Article Describes 2024 Approved: From Hobbyist to Pro: The Audacity Journey\""
 keywords: "HobbyistProJourney,FromHobbyistToPro,AudaciousAudition,AuditionJourneyPro,ProFromAmateur,JourneyToExpertise,AmateursToPros"
-thumbnail: https://www.lifewire.com/thmb/Yem3HIULZftUxBFec7M2Dhovrnw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/googlemeet-a87010251a134a7194b0767e843d5694.jpg
+thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg
 ---
 
 ## From Hobbyist to Pro: The Audacity Journey

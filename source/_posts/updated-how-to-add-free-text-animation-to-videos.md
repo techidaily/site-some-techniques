@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Add Free Text Animation to Videos"
-date: 2024-05-26T17:49:18.537Z
-updated: 2024-05-27T17:49:18.538Z
+date: 2024-06-10T13:34:10.269Z
+updated: 2024-06-11T13:34:10.269Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How to Add Free Text Animation to Videos"
 excerpt: "This Article Describes [Updated] How to Add Free Text Animation to Videos"
 keywords: "\"Video Animation Tips,Free Text in Vids,Adding Text Effects,Video Enhancement Techniques,Cost-Free Video Animations,Integrating Text Into Videos,No-Cost Animation Guide\""
-thumbnail: https://www.lifewire.com/thmb/gCSZAjEnOtdgxJcq6vhDPQVmlVw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Max-vs-Disney-Plus-5278f0eb97be4792a590f349124be08b.jpg
+thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da38e3f5b8b4a33a2f717ba587.jpg
 ---
 
 ## How to Add Free Text Animation to Videos

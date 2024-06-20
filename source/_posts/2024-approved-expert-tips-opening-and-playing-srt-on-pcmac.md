@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Tips  Opening and Playing SRT on PC/Mac\""
-date: 2024-05-26T16:39:21.458Z
-updated: 2024-05-27T16:39:21.458Z
+date: 2024-06-10T13:34:18.706Z
+updated: 2024-06-11T13:34:18.706Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expert Tips: Opening and Playing SRT on PC/Mac\""
 excerpt: "\"This Article Describes 2024 Approved: Expert Tips: Opening and Playing SRT on PC/Mac\""
 keywords: "PC SRT Guide,Mac SRT Basics,Play SRT OnPC,Open SRT File,PC Media Player,Mac Video Support,Start SRT Content"
-thumbnail: https://www.lifewire.com/thmb/5Hk3OeMwXnJsYVlAr-DvpgKR1cA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Netflix-vs-Max-314e297891b54d66ba48792cae9b2934.jpg
+thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc18d6b9abd17e301fcbcbc6e6.jpg
 ---
 
 ## Expert Tips: Opening and Playing SRT on PC/Mac

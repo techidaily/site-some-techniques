@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] HDR Rating  Does Aurora Deliver Quality?\""
-date: 2024-05-26T17:11:41.455Z
-updated: 2024-05-27T17:11:41.455Z
+date: 2024-06-10T13:34:19.824Z
+updated: 2024-06-11T13:34:19.824Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] HDR Rating: Does Aurora Deliver Quality?\""
 excerpt: "\"This Article Describes [Updated] HDR Rating: Does Aurora Deliver Quality?\""
 keywords: "HDR Quality,Aurora HDR,High Dynamic Range (HDRI),Image Clarity,Video HDR Ratings,Lighting Enhancement,Color Vibrancy"
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## HDR Rating: Does Aurora Deliver Quality?

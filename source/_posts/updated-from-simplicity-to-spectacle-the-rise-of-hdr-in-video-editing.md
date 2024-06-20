@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Simplicity to Spectacle  The Rise of HDR in Video Editing\""
-date: 2024-05-26T16:30:04.001Z
-updated: 2024-05-27T16:30:04.001Z
+date: 2024-06-10T13:34:18.236Z
+updated: 2024-06-11T13:34:18.236Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] From Simplicity to Spectacle: The Rise of HDR in Video Editing\""
 excerpt: "\"This Article Describes [Updated] From Simplicity to Spectacle: The Rise of HDR in Video Editing\""
 keywords: "HDR Video Editing,HDR Spectacle Rise,Video Editing Simplicity,Spectacle HDR Growth,Simplicity to HD Quality,Rise in HDR Technology,HDR Visual Enhancement"
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## From Simplicity to Spectacle: The Rise of HDR in Video Editing

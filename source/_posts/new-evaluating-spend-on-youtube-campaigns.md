@@ -1,7 +1,7 @@
 ---
 title: "[New] Evaluating Spend on YouTube Campaigns"
-date: 2024-05-26T16:50:06.258Z
-updated: 2024-05-27T16:50:06.258Z
+date: 2024-06-10T13:34:17.585Z
+updated: 2024-06-11T13:34:17.585Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Evaluating Spend on YouTube Campaigns"
 excerpt: "This Article Describes [New] Evaluating Spend on YouTube Campaigns"
 keywords: "YouTube Ad Budget Analysis,YouTuber Cost Evaluation,Video Marketing Expense Review,Content Promotion Spending,Digital Advertising on YouTube,Campaign Investment Assessment,YouTube Marketing Outlay"
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Evaluating Spend on YouTube Campaigns

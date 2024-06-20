@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fade to Darkness Instantaneously"
-date: 2024-05-26T18:53:27.300Z
-updated: 2024-05-27T18:53:27.300Z
+date: 2024-06-10T13:34:13.164Z
+updated: 2024-06-11T13:34:13.164Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Fade to Darkness Instantaneously"
 excerpt: "This Article Describes In 2024, Fade to Darkness Instantaneously"
 keywords: "Fade to Black Now,Instant Darkening Effect,Sudden Shadowfall,Lightout Immediate,Abrupt Dimming Quick,Swift Nightfall,Rapid Eclipse Mode"
-thumbnail: https://www.lifewire.com/thmb/DNPG_95493kmlqsKtggkKrArSlc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/bardgoogledocs-e78434a9fb304eadb5960c6f4402fd45.jpg
+thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf45e09881a1912be2c7963695.jpg
 ---
 
 ## Fade to Darkness Instantaneously

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Concept to Screen  Writing a Winning Docu-Script\""
-date: 2024-05-26T16:34:16.867Z
-updated: 2024-05-27T16:34:16.867Z
+date: 2024-06-10T13:34:12.818Z
+updated: 2024-06-11T13:34:12.818Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Concept to Screen: Writing a Winning Docu-Script\""
 excerpt: "\"This Article Describes [New] From Concept to Screen: Writing a Winning Docu-Script\""
 keywords: "\"Scriptwriting Success,Docu-Script Creation,Film Development Stages,Documentary Storytelling,Script To Screen Transition,Winning Docuscript Craft,Conceptualizing Films\""
-thumbnail: https://www.lifewire.com/thmb/GELB-p7k6yWIAZVaDeXmU_bKb6g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-send-digital-business-card-1-90ab69a95cc64716be4b1ddb301d5f19.jpg
+thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756c762090fd4b289d5054368b.jpg
 ---
 
 ## From Concept to Screen: Writing a Winning Docu-Script

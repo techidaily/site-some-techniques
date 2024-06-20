@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Facing Video Display Issues with Sony A6400\""
-date: 2024-05-26T19:12:06.315Z
-updated: 2024-05-27T19:12:06.315Z
+date: 2024-06-10T13:34:19.788Z
+updated: 2024-06-11T13:34:19.788Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Facing Video Display Issues with Sony A6400\""
 excerpt: "\"This Article Describes 2024 Approved: Facing Video Display Issues with Sony A6400\""
 keywords: "Sony A6400 Fix,A6400 Video Error,Sony A6400 Display,A6400 Screen Issue,Sony Camera Troubleshoot,A6400 Playback Problem,Resolve A6400 Video"
-thumbnail: https://www.lifewire.com/thmb/XuYrRPCOK72waHStn6mcmYJjfFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/000-how-to-make-high-resolution-images-on-your-computer-or-smartphone-4588802-5c83b08746e0fb0001136657.jpg
+thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c6f73b5cf48b17efe5272ad6.jpg
 ---
 
 ## Facing Video Display Issues with Sony A6400

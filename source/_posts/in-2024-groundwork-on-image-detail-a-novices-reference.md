@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Groundwork on Image Detail  A Novice's Reference\""
-date: 2024-05-26T19:14:32.160Z
-updated: 2024-05-27T19:14:32.160Z
+date: 2024-06-10T13:34:14.846Z
+updated: 2024-06-11T13:34:14.846Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Groundwork on Image Detail: A Novice's Reference\""
 excerpt: "\"This Article Describes In 2024, Groundwork on Image Detail: A Novice's Reference\""
 keywords: "Beginner's ImgDets Guide,Pixels and Details Explained,Basic PhotoDetailing Tips,Image Clarity Fundamentals,Novice Images Enhancement,Learning Image Detail,Starting with Image Details"
-thumbnail: https://www.lifewire.com/thmb/2XDVyL2caIKeRAo1samzvy7xQM8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/female-traveller-texting-at-airport-check-in-desk-142309131-5a0b352813f1290037c17caf.jpg
+thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daaffc99f79faac8fc9b5eb352.jpg
 ---
 
 ## Groundwork on Image Detail: A Novice's Reference

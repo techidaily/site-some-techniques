@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, High-Ranking 12 Cameras  Onboard GPS for Motion Capture\""
-date: 2024-05-26T18:16:20.791Z
-updated: 2024-05-27T18:16:20.791Z
+date: 2024-06-10T13:34:16.294Z
+updated: 2024-06-11T13:34:16.294Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, High-Ranking 12 Cameras: Onboard GPS for Motion Capture\""
 excerpt: "\"This Article Describes In 2024, High-Ranking 12 Cameras: Onboard GPS for Motion Capture\""
 keywords: "MotionCaptureCam,HighGPSCamera,OnboardGPSTracker,PrecisionMotionCam,RankedMotionCams,GPSMotionTechnology,TopGPSCaptureDevices"
-thumbnail: https://www.lifewire.com/thmb/2XDVyL2caIKeRAo1samzvy7xQM8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/female-traveller-texting-at-airport-check-in-desk-142309131-5a0b352813f1290037c17caf.jpg
+thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daaffc99f79faac8fc9b5eb352.jpg
 ---
 
 ## High-Ranking 12 Cameras: Onboard GPS for Motion Capture

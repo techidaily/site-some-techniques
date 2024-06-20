@@ -1,7 +1,7 @@
 ---
 title: "[New] Highlighted Screenplay Scenes Bundle"
-date: 2024-05-26T17:30:16.533Z
-updated: 2024-05-27T17:30:16.533Z
+date: 2024-06-10T13:34:12.670Z
+updated: 2024-06-11T13:34:12.670Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Highlighted Screenplay Scenes Bundle"
 excerpt: "This Article Describes [New] Highlighted Screenplay Scenes Bundle"
 keywords: "Script Highlighter Set,Screenplay Bundle Highlights,Scene Marker Collection,Premium Plot Sections,Director's Cut Edits,Film Scenes Mastery Kit,Writing Workshop Samples"
-thumbnail: https://www.lifewire.com/thmb/d4UbfpCSlRGaSW5gWFzzWZx8WGw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/refurb-mac-mini-2020_AV2-878ca9627b2448f7a4261e42d209236a.jpg
+thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6fb318adf671f70aacd812852.jpg
 ---
 
 ## Highlighted Screenplay Scenes Bundle

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fade To Black In Premiere Pro\""
-date: 2024-05-26T19:34:02.432Z
-updated: 2024-05-27T19:34:02.432Z
+date: 2024-06-10T13:34:18.135Z
+updated: 2024-06-11T13:34:18.135Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Fade To Black In Premiere Pro\""
 excerpt: "\"This Article Describes 2024 Approved: Fade To Black In Premiere Pro\""
 keywords: "Black Palette Adjust,Premiere Fade Effects,Dark Color Correction,Gradient Black Transition,Film Noir Editing Tech,Pro Video Shadowing,Cinematic Black Transition"
-thumbnail: https://www.lifewire.com/thmb/ptJRWjuxgGi4z_RocHeofAowbvw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/kilian-seiler-PZLgTUAhxMM-unsplash-3c3f238654c44171a5febe7a0f5749c5.jpg
+thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06b50eb65c4dc48b9a72515ec.jpg
 ---
 
 ## 1 Minute To Fade To Black In Premiere Pro

@@ -1,7 +1,7 @@
 ---
 title: "\"Iconic Screenplays  A Cinematic Legacy for 2024\""
-date: 2024-05-26T19:31:21.539Z
-updated: 2024-05-27T19:31:21.539Z
+date: 2024-06-10T13:34:08.837Z
+updated: 2024-06-11T13:34:08.837Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Iconic Screenplays: A Cinematic Legacy for 2024\""
 excerpt: "\"This Article Describes Iconic Screenplays: A Cinematic Legacy for 2024\""
 keywords: "Iconic Film Scripts,Screenplay Classics,Legendary Screenplays,Cinematic Writings,Film Writing Heritage,Historical Scripts,Screenplay Icons"
-thumbnail: https://www.lifewire.com/thmb/1oTLM8c4-z9nA7_v0didGYoARWc=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/CherieKloss1-c0ada8b85c6a4e1d819a441e25dbfeb1.jpeg
+thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d158884cb761f8f838fb72e26.jpeg
 ---
 
 ## Iconic Screenplays: A Cinematic Legacy

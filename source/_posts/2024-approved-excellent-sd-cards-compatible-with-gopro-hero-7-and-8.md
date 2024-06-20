@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Excellent SD Cards Compatible with GoPro Hero 7 & 8\""
-date: 2024-05-26T16:30:43.475Z
-updated: 2024-05-27T16:30:43.475Z
+date: 2024-06-10T13:34:16.244Z
+updated: 2024-06-11T13:34:16.244Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Excellent SD Cards Compatible with GoPro Hero 7 & 8\""
 excerpt: "\"This Article Describes 2024 Approved: Excellent SD Cards Compatible with GoPro Hero 7 & 8\""
 keywords: "\"GoPro SD Cards,GoPro Hero 7 SD,GoPro Hero 8 SD Card,Excellent SDHC,High-Performance SD,Compatible GoPro Cards,GoPro HERO 7/8 SD Accessories\""
-thumbnail: https://www.lifewire.com/thmb/hxXMxDKqxngPDng-AdjJYVIRzVc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f0772ca21d903055c2189241e19.jpg
 ---
 
 ## Excellent SD Cards Compatible with GoPro Hero 7 & 8

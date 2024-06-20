@@ -1,7 +1,7 @@
 ---
 title: "How Do I Delete Or Close My Old LinkedIn Account (Solved) for 2024"
-date: 2024-05-26T18:41:11.244Z
-updated: 2024-05-27T18:41:11.244Z
+date: 2024-06-10T13:34:10.845Z
+updated: 2024-06-11T13:34:10.845Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How Do I Delete Or Close My Old LinkedIn Account (Solved) for 2024"
 excerpt: "This Article Describes How Do I Delete Or Close My Old LinkedIn Account (Solved) for 2024"
 keywords: "Deleting LinkedIn Account,Closing LinkedIn Profile,Disable LinkedIn,Unlinked In Exit,Delete LinkedIn,Close Old LinkedIn,End LinkedIn Access"
-thumbnail: https://www.lifewire.com/thmb/2gxAzAc_OikfHgs7hZQUd2KPfAc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Photos-b2b85ad036374eb1b6a01076ce3bbacd.jpg
+thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc985ca7253a27ff290bf8c11.jpg
 ---
 
 ## Disabling and Erasing Your Old, Unused LinkedIn Profile

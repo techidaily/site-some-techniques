@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Filmmaker's Checklist  On-the-Go Gear Guide\""
-date: 2024-05-26T18:46:43.244Z
-updated: 2024-05-27T18:46:43.244Z
+date: 2024-06-10T13:34:14.478Z
+updated: 2024-06-11T13:34:14.478Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Filmmaker's Checklist: On-the-Go Gear Guide\""
 excerpt: "\"This Article Describes [Updated] Filmmaker's Checklist: On-the-Go Gear Guide\""
 keywords: "\"Filmmaking Essentials,Quick Gear Guide,Travel Filmmaker Kit,Portable Film Tools,Mobile Movie Setup,On-the-Go Camera Tips,Freelance Film Gear List\""
-thumbnail: https://www.lifewire.com/thmb/5bAauqi_bb7ys9ioKuCAGL8Irhw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2016-08-30-at-10.48.32-PM-57c670023df78cc16e8d0bfa.png
+thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595ba3ecd2f30cf7442df5bd214.png
 ---
 
 ## Filmmaker's Checklist: On-the-Go Gear Guide

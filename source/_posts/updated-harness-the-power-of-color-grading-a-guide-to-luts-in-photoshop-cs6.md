@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Harness the Power of Color Grading  A Guide to LUTs in Photoshop CS6\""
-date: 2024-05-26T17:07:36.630Z
-updated: 2024-05-27T17:07:36.630Z
+date: 2024-06-10T13:34:12.203Z
+updated: 2024-06-11T13:34:12.203Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Harness the Power of Color Grading: A Guide to LUTs in Photoshop CS6\""
 excerpt: "\"This Article Describes [Updated] Harness the Power of Color Grading: A Guide to LUTs in Photoshop CS6\""
 keywords: "Color Grading Basics,Photoshop LUT Tutorial,Professional Color Correction,Adobe Photoshop Editing,Improve Photo Quality,Enhance Image Vibrance,LUTs for Color Grading"
-thumbnail: https://www.lifewire.com/thmb/Bvvt5grcKJTS_iH0DvTCVNGQLLw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-play-1bde744425134868ba33def6d47150a7.png
+thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e431174596ef739d111ede45824dcdd.png
 ---
 
 ## Harness the Power of Color Grading: A Guide to LUTs in Photoshop CS6

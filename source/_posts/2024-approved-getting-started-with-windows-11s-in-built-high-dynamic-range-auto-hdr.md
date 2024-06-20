@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)\""
-date: 2024-05-26T18:05:33.634Z
-updated: 2024-05-27T18:05:33.634Z
+date: 2024-06-10T13:34:14.921Z
+updated: 2024-06-11T13:34:14.921Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)\""
 excerpt: "\"This Article Describes 2024 Approved: Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)\""
 keywords: "Windows 11 HDR Features,Learn Windows 11 Auto HDR,HDR in Windows 11 Start Guide,Windows 11 High Dynamic Range,Mastering Windows 11 HDR,Windows 11 HDR Functionality,Introduction to Windows 11 HDR"
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)

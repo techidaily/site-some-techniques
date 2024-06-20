@@ -1,7 +1,7 @@
 ---
 title: "[New] Infinite Free Design Inspiration for Corporate Slideshows"
-date: 2024-05-26T18:26:23.505Z
-updated: 2024-05-27T18:26:23.505Z
+date: 2024-06-10T13:34:18.023Z
+updated: 2024-06-11T13:34:18.023Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Infinite Free Design Inspiration for Corporate Slideshows"
 excerpt: "This Article Describes [New] Infinite Free Design Inspiration for Corporate Slideshows"
 keywords: "\"Free Slide Designs,Infinite Slideshow Ideas,Corporate Design Tips,Creative Slideshows,Design-Inspired Slides,Corporate Presentation Sketches,Infinitely Inspiring Slides\""
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Infinite Free Design Inspiration for Corporate Slideshows

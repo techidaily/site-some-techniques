@@ -1,7 +1,7 @@
 ---
 title: "\"Gold Medal Glory  Olympic Speed Skating Short Track Highlights for 2024\""
-date: 2024-05-26T17:54:34.904Z
-updated: 2024-05-27T17:54:34.904Z
+date: 2024-06-10T13:34:11.358Z
+updated: 2024-06-11T13:34:11.358Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Gold Medal Glory: Olympic Speed Skating Short Track Highlights for 2024\""
 excerpt: "\"This Article Describes Gold Medal Glory: Olympic Speed Skating Short Track Highlights for 2024\""
 keywords: "Olympian Speed Skating,Gold Medal Winners,Speed Track Highlights,Short Track Glory,Olympic Ice Racing,Glory Gold Champions,Ice Skating Podiums"
-thumbnail: https://www.lifewire.com/thmb/Y7SypD6PvHXtCRwqrd6s12LZPhw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-13at12.25.09PM-aa52f1508d6b489b84df85c774669e89.png
+thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211ca4fd673ea682421459ce79.png
 ---
 
 ## Gold Medal Glory: Olympic Speed Skating Short Track Highlights

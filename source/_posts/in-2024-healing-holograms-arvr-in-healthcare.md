@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Healing Holograms  AR/VR in Healthcare\""
-date: 2024-05-26T18:10:40.817Z
-updated: 2024-05-27T18:10:40.817Z
+date: 2024-06-10T13:34:09.360Z
+updated: 2024-06-11T13:34:09.360Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Healing Holograms: AR/VR in Healthcare\""
 excerpt: "\"This Article Describes In 2024, Healing Holograms: AR/VR in Healthcare\""
 keywords: "VR HealTech,HoloTherapy,AR Wellness,Virtual Care,Immersive Rehab,AR Medicine,Healing Holograms"
-thumbnail: https://www.lifewire.com/thmb/iZiCpbRSCz8RojdrehWr4_jeUDI=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/TravelTech_GettyImages-1410662282_CROPPED_d3sign-03c2cdf5be314894b99757426813be51.jpg
+thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e096f758fd9b3624bcd8211ec.jpg
 ---
 
 ## Healing Holograms: AR/VR in Healthcare

@@ -1,7 +1,7 @@
 ---
 title: "How Long Does a 20MB Video Last for 2024"
-date: 2024-05-26T16:28:53.757Z
-updated: 2024-05-27T16:28:53.757Z
+date: 2024-06-10T13:34:19.176Z
+updated: 2024-06-11T13:34:19.176Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How Long Does a 20MB Video Last for 2024"
 excerpt: "This Article Describes How Long Does a 20MB Video Last for 2024"
 keywords: "\"Video Longevity,20MB Video Duration,Max Video Life Span,20Mb File Age Estimate,Short-Term Video Endurance,Long-Lasting MP4 Lifespan,Storage Time for 20MB HD\""
-thumbnail: https://www.lifewire.com/thmb/pOkByEjDQfGUJyqDzFJ4mpWuXnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-453316837-56a6a5b93df78cf7728f9379.jpg
+thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eaca41f020a72559cf27e30f77.jpg
 ---
 
 ## How Long Does a 20MB Video Last?

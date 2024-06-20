@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] High-Five Lookout Breakdown\""
-date: 2024-05-26T18:38:22.654Z
-updated: 2024-05-27T18:38:22.654Z
+date: 2024-06-10T13:34:15.499Z
+updated: 2024-06-11T13:34:15.499Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] High-Five Lookout Breakdown\""
 excerpt: "\"This Article Describes [Updated] High-Five Lookout Breakdown\""
 keywords: "\"High-Five Viewpoint,Lookout Tower Collapse,Breaking Down High-Five Summit,Summit Structural Failure,High Five Lookout Dismantled,Breakdown at Peak Lookout,Lookout Closure\""
-thumbnail: https://www.lifewire.com/thmb/94K5GqwuKdK6K1JaENti-KWnxDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dvd-head-unit-rick-5806a1235f9b5805c2869f14-5bd33997c9e77c002612bbc8.jpg
+thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880f152e3279a23ce2f1e6acd7.jpg
 ---
 
 ## High-Five Lookout Breakdown

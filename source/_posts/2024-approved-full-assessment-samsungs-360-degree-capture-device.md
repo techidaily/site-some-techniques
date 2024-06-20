@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Full Assessment  Samsung's 360-Degree Capture Device\""
-date: 2024-05-26T18:48:47.901Z
-updated: 2024-05-27T18:48:47.901Z
+date: 2024-06-10T13:34:09.026Z
+updated: 2024-06-11T13:34:09.026Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Full Assessment: Samsung's 360-Degree Capture Device\""
 excerpt: "\"This Article Describes 2024 Approved: Full Assessment: Samsung's 360-Degree Capture Device\""
 keywords: "Samsung 360 Camera,Dual Lens Tech,Full Visual Scan,Omnidirectional Video,Complete Device Review,Comprehensive Gadget Test,Advanced Capture Technology"
-thumbnail: https://www.lifewire.com/thmb/E-A9X9SPpZ3Y3P5rGzbCm_XC7tc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/03LW4149830HeroSquare-75b852929c9e44b4b6e93f27c26f1410.jpg
+thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616170701a3383a08e8dcec924.jpg
 ---
 
 ## Full Assessment: Samsung's 360-Degree Capture Device

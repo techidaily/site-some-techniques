@@ -1,7 +1,7 @@
 ---
 title: "Fabricate Comical Artwork, Adobe Style for 2024"
-date: 2024-05-26T18:35:30.475Z
-updated: 2024-05-27T18:35:30.475Z
+date: 2024-06-10T13:34:14.318Z
+updated: 2024-06-11T13:34:14.318Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Fabricate Comical Artwork, Adobe Style for 2024"
 excerpt: "This Article Describes Fabricate Comical Artwork, Adobe Style for 2024"
 keywords: "Humorous Art Adobe,Adobe Funny Designs,Creative Adobe Art,Adobe Laughter Graphics,Whimsical Art Adobe,Elegant Comic Art Adobe,Adobe Joyful Imagery"
-thumbnail: https://www.lifewire.com/thmb/9-8N1hD2MYqTcjuzb69k4fYxXsk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-469187056-57cdf0a45f9b5829f4457c9a.jpg
+thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e202aee43a31b71787185171a.jpg
 ---
 
 ## Fabricate Comical Artwork, Adobe Style

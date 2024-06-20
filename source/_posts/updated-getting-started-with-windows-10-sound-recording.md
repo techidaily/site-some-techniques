@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Getting Started with Windows 10 Sound Recording"
-date: 2024-05-26T17:24:17.846Z
-updated: 2024-05-27T17:24:17.846Z
+date: 2024-06-10T13:34:14.888Z
+updated: 2024-06-11T13:34:14.888Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Getting Started with Windows 10 Sound Recording"
 excerpt: "This Article Describes [Updated] Getting Started with Windows 10 Sound Recording"
 keywords: "Windows 10 Audio Basics,Beginning Sound Recording Win10,Windows 10 Recording Guide,Setup Windows 10 Recording,Capturing Sounds on Win10,Audio Tools in Windows 10,Start Win10 Audio Recording"
-thumbnail: https://www.lifewire.com/thmb/8jAJox8ex8XnWv26MEFKz69po5g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/82039841-56a104725f9b58eba4b6ac84.jpg
+thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f885c10acf9d70c8e5fd03d37.jpg
 ---
 
 ## Getting Started with Windows 10 Sound Recording

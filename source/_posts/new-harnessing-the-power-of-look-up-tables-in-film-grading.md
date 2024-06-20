@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Harnessing the Power of Look-Up Tables in Film Grading\""
-date: 2024-05-26T19:09:53.632Z
-updated: 2024-05-27T19:09:53.632Z
+date: 2024-06-10T13:34:17.297Z
+updated: 2024-06-11T13:34:17.297Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Harnessing the Power of Look-Up Tables in Film Grading\""
 excerpt: "\"This Article Describes [New] Harnessing the Power of Look-Up Tables in Film Grading\""
 keywords: "\"LUT Filmmaking,Film Grading Techniques,Color Correction Basics,Digital Imaging Processing,Visual Effects Look-Up,HDR Grading Strategies,Image Color Transformation\""
-thumbnail: https://www.lifewire.com/thmb/jBnabVblnU-pVzdwjWgW35QXhjQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PreetAnand-4c9eb5ff333041e2a6a25710d87b4a34.png
+thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab605d1c55ebd68e10c11778128.png
 ---
 
 ## Harnessing the Power of Look-Up Tables in Film Grading

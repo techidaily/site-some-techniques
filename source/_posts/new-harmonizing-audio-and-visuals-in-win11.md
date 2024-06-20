@@ -1,7 +1,7 @@
 ---
 title: "[New] Harmonizing Audio and Visuals in Win11"
-date: 2024-05-26T18:09:55.800Z
-updated: 2024-05-27T18:09:55.800Z
+date: 2024-06-10T13:34:12.536Z
+updated: 2024-06-11T13:34:12.536Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Harmonizing Audio and Visuals in Win11"
 excerpt: "This Article Describes [New] Harmonizing Audio and Visuals in Win11"
 keywords: "\"Win11 Audio-Visual Balance,Enhancing Win11 Sync,Windows 11 Harmony,Visual Aural Win11,Audio Alignment in Win11,Visuals & Sound Win11,Synced Win11 Media\""
-thumbnail: https://www.lifewire.com/thmb/bbeiFr7M7Hblm82AcPyl3Z3IAu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-fix-it-when-roku-tv-sound-is-not-working-5198644-bc2ace5bd66c4dcb9ba516eac5fc3df8.jpg
+thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
 ---
 
 ## Harmonizing Audio and Visuals in Win11

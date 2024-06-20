@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Explore Chrome's Full-Screen Multitasking Capabilities\""
-date: 2024-05-26T17:24:41.604Z
-updated: 2024-05-27T17:24:41.604Z
+date: 2024-06-10T13:34:12.367Z
+updated: 2024-06-11T13:34:12.367Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Explore Chrome's Full-Screen Multitasking Capabilities\""
 excerpt: "\"This Article Describes [New] Explore Chrome's Full-Screen Multitasking Capabilities\""
 keywords: "Chrome Fullscreen MultiTask,Chrome ScreenMultitask,FullScreen ChromeTabs,Chrome FullTaskSwitch,ChromesFullScreenMax,TaskChromeFullView,Chrome MultiscreenMode"
-thumbnail: https://www.lifewire.com/thmb/iRkXYQUsWhTrBfLK5hj5S9Ua6m8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-532278630-36a33d636e4b4e2b93d43e8861a1bb71.jpg
+thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb278836c3c88e9ce1c38fad2ba00.jpg
 ---
 
 ## Explore Chrome's Full-Screen Multitasking Capabilities

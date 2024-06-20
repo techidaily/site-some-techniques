@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illustrate Effortlessly  Prime iOS Design Software\""
-date: 2024-05-26T18:39:07.270Z
-updated: 2024-05-27T18:39:07.270Z
+date: 2024-06-10T13:34:13.957Z
+updated: 2024-06-11T13:34:13.957Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Illustrate Effortlessly: Prime iOS Design Software\""
 excerpt: "\"This Article Describes [New] Illustrate Effortlessly: Prime iOS Design Software\""
 keywords: "IOS Design Tools,Effortless UI/UX,Creative App Development,Pristine iOS Graphics,Seamless UI Solutions,Prime Design Software,Simplified iOS Designing"
-thumbnail: https://www.lifewire.com/thmb/0hl6X6YrycGsqkYdOW8_cJPpWFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/netflixlogo-56a4b4183df78cf77283d151.jpg
+thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f1438428a2471f9b4a0fdcaefb.jpg
 ---
 
 ## Illustrate Effortlessly: Prime iOS Design Software

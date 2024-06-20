@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Seconds in a 20Mb Video File for 2024"
-date: 2024-05-26T17:16:02.232Z
-updated: 2024-05-27T17:16:02.232Z
+date: 2024-06-10T13:34:12.566Z
+updated: 2024-06-11T13:34:12.566Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Evaluating Seconds in a 20Mb Video File for 2024"
 excerpt: "This Article Describes Evaluating Seconds in a 20Mb Video File for 2024"
 keywords: "\"Video File Seconds Evaluation,Mb Video Duration Analysis,Efficient 20Mb Video Timing,Short-Term 20Mb Video Assessment,Optimizing Video Playtime 20Mb,Seconds Count in 20MB Video,20Mb Video Speed Check\""
-thumbnail: https://www.lifewire.com/thmb/YZAAAXpFP89HTtOXXQp1a6W9Cvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1.Clicks-arealkeyboardforiPhone-a038b4613f264346891315547780718f.jpg
+thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d559912a6d4e6e048b474186.jpg
 ---
 
 ## Evaluating Seconds in a 20Mb Video File

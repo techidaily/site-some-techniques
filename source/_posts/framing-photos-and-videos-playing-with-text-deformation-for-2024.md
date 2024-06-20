@@ -1,7 +1,7 @@
 ---
 title: "\"Framing Photos & Videos  Playing With Text Deformation for 2024\""
-date: 2024-05-26T18:15:55.372Z
-updated: 2024-05-27T18:15:55.372Z
+date: 2024-06-10T13:34:13.454Z
+updated: 2024-06-11T13:34:13.454Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Framing Photos & Videos: Playing With Text Deformation for 2024\""
 excerpt: "\"This Article Describes Framing Photos & Videos: Playing With Text Deformation for 2024\""
 keywords: "Photo Frame Art,Video Text Distortion,Visual Transformation,Imagery Warping Techniques,Altered Image Design,Photographic Editing Tricks,Dynamic Text Animation"
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Framing Photos & Videos: Playing With Text Deformation

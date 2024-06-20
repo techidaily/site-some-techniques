@@ -1,7 +1,7 @@
 ---
 title: "\"Imagery Inspiration  Skillful Grading Techniques for 2024\""
-date: 2024-05-26T19:22:12.410Z
-updated: 2024-05-27T19:22:12.410Z
+date: 2024-06-10T13:34:11.478Z
+updated: 2024-06-11T13:34:11.478Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Imagery Inspiration: Skillful Grading Techniques for 2024\""
 excerpt: "\"This Article Describes Imagery Inspiration: Skillful Grading Techniques for 2024\""
 keywords: "Grading Tips,Art Skills,Improve Grading,Grade Perfection,Creative Grading,Skilled Grading,Artistic Techniques"
-thumbnail: https://www.lifewire.com/thmb/kQx2DsRKOZTFIw_OObOtQHRAif8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-474327705-57c5b6885f9b5855e5cfa753.jpg
+thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a00c30d76ebc074f7652f887.jpg
 ---
 
 ## Imagery Inspiration: Skillful Grading Techniques

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Expertise in HDR  Perfecting Dynamic Range in Photoshop\""
-date: 2024-05-26T17:16:51.649Z
-updated: 2024-05-27T17:16:51.649Z
+date: 2024-06-10T13:34:16.173Z
+updated: 2024-06-11T13:34:16.173Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Expertise in HDR: Perfecting Dynamic Range in Photoshop\""
 excerpt: "\"This Article Describes [Updated] Expertise in HDR: Perfecting Dynamic Range in Photoshop\""
 keywords: "HDR Mastery Photoshop,Dynamic Range Advancement,Photography HDR Techniques,Enhancing Photos PS,Dynamic Exposure PS,High Dynamic Imaging PS,Perfected HDR Artifacts"
-thumbnail: https://www.lifewire.com/thmb/mjIJFCo03dTiW_sWBiKGYCEP8Ho=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-953660514-5b1410543de42300371597a7.jpg
+thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f342702915251fd121c5a13e0.jpg
 ---
 
 ## Expertise in HDR: Perfecting Dynamic Range in Photoshop

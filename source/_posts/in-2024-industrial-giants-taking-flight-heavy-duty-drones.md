@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Industrial Giants Taking Flight  Heavy-Duty Drones\""
-date: 2024-05-26T18:55:57.283Z
-updated: 2024-05-27T18:55:57.283Z
+date: 2024-06-27T18:28:45.082Z
+updated: 2024-06-28T18:28:45.082Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Industrial Giants Taking Flight: Heavy-Duty Drones\""
 excerpt: "\"This Article Describes In 2024, Industrial Giants Taking Flight: Heavy-Duty Drones\""
 keywords: "\"Drone Industry Leaders,Powerful Drones,Mega Companies in UAVs,Strong Drones Takeoff,Heavy-Duty Aerial Tech,Giant Drone Innovators,UAV Titan Firms\""
-thumbnail: https://www.lifewire.com/thmb/dMPS7xdJyHFzVyJkCHD1luzOMsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1307216070-0e099dda13034522b872849a6b02d975.jpg
+thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8de831308f2fd3fe15c5bbed.jpg
 ---
 
 ## Industrial Giants Taking Flight: Heavy-Duty Drones
@@ -58,7 +58,7 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
-#### 2\. [DJI S900](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
+#### 2\. DJI S900
 
 [dji s900](https://images.wondershare.com/filmora/article-images/dji-s900.jpg) ](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
 
@@ -66,7 +66,7 @@ The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (profe
 
 The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to its ability to lift well about its weight with a payload capability of 8.2 kg. Because it is so light, but capable of working hard, this drone is the perfect piece of equipment for professional videographers or researchers to take with them wherever they are working. With a flight time of 18 min., the DJI S900 will also give you a large window of opportunity to make sure you are able to get the shots you need. The motor of the DJI S900 is designed in order to give you the best possible performance, as well as a reliable one.
 
-#### 3\. [DJI S1000](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
+#### 3\. DJI S1000
 
 [dji s1000](https://images.wondershare.com/filmora/article-images/dji-s1000.jpg) ](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
 
@@ -74,7 +74,7 @@ The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to it
 
 Know for being a safe, and stable drone, the DJI S1000 is also capable of being used as a light heavy lifting drone for those looking to push there outdoor discovery, and video shooting to the next level. With a 7 kg payload capacity and a 15 min. flight time, the easy-to-use DJI S1000 is perfect for professionals, as well as people who are new to drones. Thanks to the DJI S1000's dampening design you will be able to get better, clearer and sharper images thanks to the reduced vibration and noise.
 
-#### 4\. [DJI MATRICE 600](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
+#### 4\. DJI MATRICE 600
 
 [dji matrice 600](https://images.wondershare.com/filmora/article-images/dji-matrice-600.jpg)](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
 
@@ -82,7 +82,7 @@ Know for being a safe, and stable drone, the DJI S1000 is also capable of being 
 
 With the capability of taking off with a payload of about 6 kg, the DJI Matrice 600 is designed for pro video shooting, as well as industrial research, and imaging. Because this drone has the capability of being a heavy lift drone, it is the perfect tool for those looking to get the perfect shot indoors, or even outdoors. However, the DJI Matrice 600 can do more than just lift heavy, it is also capable of smooth flight, and has easy-to-learn handling, as well as a flight time of around 16 min.
 
-#### 5\. [DJI MATRICE 100](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
+#### 5\. DJI MATRICE 100
 
 [dji matrice 100](https://images.wondershare.com/filmora/article-images/dji-matrice-100.jpg) ](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
 
@@ -110,7 +110,7 @@ As the need for drones that can do some seriously heavy lifting has increased, t
 
 The Vulcan UAV Raven is an absolute workhorse of a multicopter. Purpose-designed to be able to handle the toughest of jobs, this drone is capable of carrying a payload of up to 20 kg thanks to its high-grade carbon fibre and aluminium frame. This tough design is also one of the most safe drones on the market, as the Vulcan UAV Raven is built to be able to survive within the tough, and demanding worlds of both commercial and personal usage.
 
-#### 4\. [FREEFLY ALTA 8](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
+#### 4\. FREEFLY ALTA 8
 
 [freefly alta 8](https://images.wondershare.com/filmora/article-images/freefly-alta-8.jpg) ](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
 
@@ -170,7 +170,7 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
-#### 2\. [DJI S900](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
+#### 2\. DJI S900
 
 [dji s900](https://images.wondershare.com/filmora/article-images/dji-s900.jpg) ](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
 
@@ -178,7 +178,7 @@ The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (profe
 
 The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to its ability to lift well about its weight with a payload capability of 8.2 kg. Because it is so light, but capable of working hard, this drone is the perfect piece of equipment for professional videographers or researchers to take with them wherever they are working. With a flight time of 18 min., the DJI S900 will also give you a large window of opportunity to make sure you are able to get the shots you need. The motor of the DJI S900 is designed in order to give you the best possible performance, as well as a reliable one.
 
-#### 3\. [DJI S1000](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
+#### 3\. DJI S1000
 
 [dji s1000](https://images.wondershare.com/filmora/article-images/dji-s1000.jpg) ](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
 
@@ -186,7 +186,7 @@ The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to it
 
 Know for being a safe, and stable drone, the DJI S1000 is also capable of being used as a light heavy lifting drone for those looking to push there outdoor discovery, and video shooting to the next level. With a 7 kg payload capacity and a 15 min. flight time, the easy-to-use DJI S1000 is perfect for professionals, as well as people who are new to drones. Thanks to the DJI S1000's dampening design you will be able to get better, clearer and sharper images thanks to the reduced vibration and noise.
 
-#### 4\. [DJI MATRICE 600](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
+#### 4\. DJI MATRICE 600
 
 [dji matrice 600](https://images.wondershare.com/filmora/article-images/dji-matrice-600.jpg)](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
 
@@ -194,7 +194,7 @@ Know for being a safe, and stable drone, the DJI S1000 is also capable of being 
 
 With the capability of taking off with a payload of about 6 kg, the DJI Matrice 600 is designed for pro video shooting, as well as industrial research, and imaging. Because this drone has the capability of being a heavy lift drone, it is the perfect tool for those looking to get the perfect shot indoors, or even outdoors. However, the DJI Matrice 600 can do more than just lift heavy, it is also capable of smooth flight, and has easy-to-learn handling, as well as a flight time of around 16 min.
 
-#### 5\. [DJI MATRICE 100](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
+#### 5\. DJI MATRICE 100
 
 [dji matrice 100](https://images.wondershare.com/filmora/article-images/dji-matrice-100.jpg) ](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
 
@@ -222,7 +222,7 @@ As the need for drones that can do some seriously heavy lifting has increased, t
 
 The Vulcan UAV Raven is an absolute workhorse of a multicopter. Purpose-designed to be able to handle the toughest of jobs, this drone is capable of carrying a payload of up to 20 kg thanks to its high-grade carbon fibre and aluminium frame. This tough design is also one of the most safe drones on the market, as the Vulcan UAV Raven is built to be able to survive within the tough, and demanding worlds of both commercial and personal usage.
 
-#### 4\. [FREEFLY ALTA 8](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
+#### 4\. FREEFLY ALTA 8
 
 [freefly alta 8](https://images.wondershare.com/filmora/article-images/freefly-alta-8.jpg) ](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
 
@@ -282,7 +282,7 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
-#### 2\. [DJI S900](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
+#### 2\. DJI S900
 
 [dji s900](https://images.wondershare.com/filmora/article-images/dji-s900.jpg) ](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
 
@@ -290,7 +290,7 @@ The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (profe
 
 The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to its ability to lift well about its weight with a payload capability of 8.2 kg. Because it is so light, but capable of working hard, this drone is the perfect piece of equipment for professional videographers or researchers to take with them wherever they are working. With a flight time of 18 min., the DJI S900 will also give you a large window of opportunity to make sure you are able to get the shots you need. The motor of the DJI S900 is designed in order to give you the best possible performance, as well as a reliable one.
 
-#### 3\. [DJI S1000](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
+#### 3\. DJI S1000
 
 [dji s1000](https://images.wondershare.com/filmora/article-images/dji-s1000.jpg) ](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
 
@@ -298,7 +298,7 @@ The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to it
 
 Know for being a safe, and stable drone, the DJI S1000 is also capable of being used as a light heavy lifting drone for those looking to push there outdoor discovery, and video shooting to the next level. With a 7 kg payload capacity and a 15 min. flight time, the easy-to-use DJI S1000 is perfect for professionals, as well as people who are new to drones. Thanks to the DJI S1000's dampening design you will be able to get better, clearer and sharper images thanks to the reduced vibration and noise.
 
-#### 4\. [DJI MATRICE 600](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
+#### 4\. DJI MATRICE 600
 
 [dji matrice 600](https://images.wondershare.com/filmora/article-images/dji-matrice-600.jpg)](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
 
@@ -306,7 +306,7 @@ Know for being a safe, and stable drone, the DJI S1000 is also capable of being 
 
 With the capability of taking off with a payload of about 6 kg, the DJI Matrice 600 is designed for pro video shooting, as well as industrial research, and imaging. Because this drone has the capability of being a heavy lift drone, it is the perfect tool for those looking to get the perfect shot indoors, or even outdoors. However, the DJI Matrice 600 can do more than just lift heavy, it is also capable of smooth flight, and has easy-to-learn handling, as well as a flight time of around 16 min.
 
-#### 5\. [DJI MATRICE 100](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
+#### 5\. DJI MATRICE 100
 
 [dji matrice 100](https://images.wondershare.com/filmora/article-images/dji-matrice-100.jpg) ](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
 
@@ -334,7 +334,7 @@ As the need for drones that can do some seriously heavy lifting has increased, t
 
 The Vulcan UAV Raven is an absolute workhorse of a multicopter. Purpose-designed to be able to handle the toughest of jobs, this drone is capable of carrying a payload of up to 20 kg thanks to its high-grade carbon fibre and aluminium frame. This tough design is also one of the most safe drones on the market, as the Vulcan UAV Raven is built to be able to survive within the tough, and demanding worlds of both commercial and personal usage.
 
-#### 4\. [FREEFLY ALTA 8](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
+#### 4\. FREEFLY ALTA 8
 
 [freefly alta 8](https://images.wondershare.com/filmora/article-images/freefly-alta-8.jpg) ](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
 
@@ -394,7 +394,7 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
-#### 2\. [DJI S900](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
+#### 2\. DJI S900
 
 [dji s900](https://images.wondershare.com/filmora/article-images/dji-s900.jpg) ](https://www.amazon.com/gp/product/B00MEBTDRY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MEBTDRY&linkId=66e45295337a54bff961119800e62cb4)
 
@@ -402,7 +402,7 @@ The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (profe
 
 The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to its ability to lift well about its weight with a payload capability of 8.2 kg. Because it is so light, but capable of working hard, this drone is the perfect piece of equipment for professional videographers or researchers to take with them wherever they are working. With a flight time of 18 min., the DJI S900 will also give you a large window of opportunity to make sure you are able to get the shots you need. The motor of the DJI S900 is designed in order to give you the best possible performance, as well as a reliable one.
 
-#### 3\. [DJI S1000](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
+#### 3\. DJI S1000
 
 [dji s1000](https://images.wondershare.com/filmora/article-images/dji-s1000.jpg) ](https://www.amazon.com/gp/product/B00QTZMD3W/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QTZMD3W&linkId=2df96d6a990e0d9b849ec8b910a17710)
 
@@ -410,7 +410,7 @@ The DJI S900 weights only 3.3 kg, but can act as a heavy lift drone thanks to it
 
 Know for being a safe, and stable drone, the DJI S1000 is also capable of being used as a light heavy lifting drone for those looking to push there outdoor discovery, and video shooting to the next level. With a 7 kg payload capacity and a 15 min. flight time, the easy-to-use DJI S1000 is perfect for professionals, as well as people who are new to drones. Thanks to the DJI S1000's dampening design you will be able to get better, clearer and sharper images thanks to the reduced vibration and noise.
 
-#### 4\. [DJI MATRICE 600](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
+#### 4\. DJI MATRICE 600
 
 [dji matrice 600](https://images.wondershare.com/filmora/article-images/dji-matrice-600.jpg)](https://www.amazon.com/gp/product/B01EL8TO30/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EL8TO30&linkId=9f03876d06312ced48f0ac961ef74bc4)
 
@@ -418,7 +418,7 @@ Know for being a safe, and stable drone, the DJI S1000 is also capable of being 
 
 With the capability of taking off with a payload of about 6 kg, the DJI Matrice 600 is designed for pro video shooting, as well as industrial research, and imaging. Because this drone has the capability of being a heavy lift drone, it is the perfect tool for those looking to get the perfect shot indoors, or even outdoors. However, the DJI Matrice 600 can do more than just lift heavy, it is also capable of smooth flight, and has easy-to-learn handling, as well as a flight time of around 16 min.
 
-#### 5\. [DJI MATRICE 100](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
+#### 5\. DJI MATRICE 100
 
 [dji matrice 100](https://images.wondershare.com/filmora/article-images/dji-matrice-100.jpg) ](https://www.amazon.com/gp/product/B0134Z7FYG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0134Z7FYG&linkId=a59c7f77d8316ad2fad63db14d480093)
 
@@ -446,7 +446,7 @@ As the need for drones that can do some seriously heavy lifting has increased, t
 
 The Vulcan UAV Raven is an absolute workhorse of a multicopter. Purpose-designed to be able to handle the toughest of jobs, this drone is capable of carrying a payload of up to 20 kg thanks to its high-grade carbon fibre and aluminium frame. This tough design is also one of the most safe drones on the market, as the Vulcan UAV Raven is built to be able to survive within the tough, and demanding worlds of both commercial and personal usage.
 
-#### 4\. [FREEFLY ALTA 8](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
+#### 4\. FREEFLY ALTA 8
 
 [freefly alta 8](https://images.wondershare.com/filmora/article-images/freefly-alta-8.jpg) ](https://www.amazon.com/gp/product/B01IPYJM8I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPYJM8I&linkId=94a786b60aab874baf4feb7315107813)
 

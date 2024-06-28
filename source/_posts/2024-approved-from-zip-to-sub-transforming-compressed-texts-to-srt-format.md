@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Zip to Sub  Transforming Compressed Texts to SRT Format\""
-date: 2024-05-26T17:26:18.003Z
-updated: 2024-05-27T17:26:18.003Z
+date: 2024-06-27T18:28:46.912Z
+updated: 2024-06-28T18:28:46.912Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Zip to Sub: Transforming Compressed Texts to SRT Format\""
 excerpt: "\"This Article Describes 2024 Approved: From Zip to Sub: Transforming Compressed Texts to SRT Format\""
 keywords: "ZipToSubSrtConversion,SRTFormatTransformation,CompressedTextZIPtoSRT,TextCompressionToolsSubstitution,SubSrtFromZipReformatting,ConvertZipToSubtitleSRT,TextEncodeSubsToSRTFormat"
-thumbnail: https://www.lifewire.com/thmb/gkhGnQxi6URFuEsVAhFCn5nYDTU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-pixel-8a-35b919eee7b247e98ca33a021103cd34.png
+thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d892b35c869decc7b55413a7.png
 ---
 
 ## From Zip to Sub: Transforming Compressed Texts to SRT Format

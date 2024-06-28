@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Garageband Guide  Gently Dissolve Decibels\""
-date: 2024-05-26T18:20:44.441Z
-updated: 2024-05-27T18:20:44.441Z
+date: 2024-06-27T18:28:39.027Z
+updated: 2024-06-28T18:28:39.027Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Garageband Guide: Gently Dissolve Decibels\""
 excerpt: "\"This Article Describes [New] Garageband Guide: Gently Dissolve Decibels\""
 keywords: "GarageBand Tutorial,Sound Mixing Basics,Beat Reduction Guide,Audio Level Management,Home Studio Solutions,Dissolve Decibels Method,Low Volume Techniques"
-thumbnail: https://www.lifewire.com/thmb/mK-HmnWarrLiD8ffOlJlcSgm-2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-6870a02faf0b4509a94bb66c2b174d72.jpg
+thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f1310799ac0e990b393370971b6be4.jpg
 ---
 
 ## Garageband Guide: Gently Dissolve Decibels

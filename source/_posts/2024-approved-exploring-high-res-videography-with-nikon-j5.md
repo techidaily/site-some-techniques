@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring High-Res Videography with Nikon J5\""
-date: 2024-05-26T17:36:43.624Z
-updated: 2024-05-27T17:36:43.624Z
+date: 2024-06-27T18:28:42.982Z
+updated: 2024-06-28T18:28:42.982Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Exploring High-Res Videography with Nikon J5\""
 excerpt: "\"This Article Describes 2024 Approved: Exploring High-Res Videography with Nikon J5\""
 keywords: "Nikon J5 Video Quality,High Res HD Photography,Nikon J5 Imaging Tech,Premium Videography Equipment,Professional Nikon Lens Shoot,Superior Image Clarity Camera,Nikon J5 Advanced Cinematics"
-thumbnail: https://www.lifewire.com/thmb/jgYC2LQD_DfpMsJmfadVTJNxl5c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Strong-AI-vs-Weak-AI-d04f84282874473da514a4e4ad8b8690.jpg
+thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81962cec51e81800c7f637654.jpg
 ---
 
 ## Exploring High-Res Videography with Nikon J5

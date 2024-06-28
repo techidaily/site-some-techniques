@@ -1,7 +1,7 @@
 ---
 title: "\"Four-K Faceoff  SJ6 Legend Versus Xiaomi's Yi Prototype for 2024\""
-date: 2024-05-26T19:27:18.461Z
-updated: 2024-05-27T19:27:18.461Z
+date: 2024-06-27T18:28:42.219Z
+updated: 2024-06-28T18:28:42.219Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Four-K Faceoff: SJ6 Legend Versus Xiaomi's Yi Prototype for 2024\""
 excerpt: "\"This Article Describes Four-K Faceoff: SJ6 Legend Versus Xiaomi's Yi Prototype for 2024\""
 keywords: "\"SJ6 Vs. Xiaomi Yi,Folding Phones Showdown,Leading Smartphones Clash,Innovative Screen Designs Face-Off,Prototype Versus Legend,High-End Foldable Tech Battle,Xiaomi's Yi Experiment\""
-thumbnail: https://www.lifewire.com/thmb/FS5Gk68xWgkA8f3C7mSUdhpjCms=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/wwdc-2024-d4e7a013ffd94036a6c5e0f8a23eb2a0.png
+thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61c9d02d5a4f78ba177103c47.png
 ---
 
 ## Four-K Faceoff: SJ6 Legend Versus Xiaomi's Yi Prototype

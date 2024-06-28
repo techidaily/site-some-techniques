@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Initial Steps to Professional Motion Graphics"
-date: 2024-05-26T17:17:23.742Z
-updated: 2024-05-27T17:17:23.742Z
+date: 2024-06-27T18:28:39.676Z
+updated: 2024-06-28T18:28:39.676Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Initial Steps to Professional Motion Graphics"
 excerpt: "This Article Describes [Updated] Initial Steps to Professional Motion Graphics"
 keywords: "Pro Motion Design Start,Motion Graphic Beginnings,Prof Motion Artwork,Early Motion Graphics,Motion Design Foundation,Graphic Motion Basics,Initial Motion Designing"
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Initial Steps to Professional Motion Graphics

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Garmin VIRB Ultra 30 Action Camera Review"
-date: 2024-05-26T18:01:47.918Z
-updated: 2024-05-27T18:01:47.918Z
+date: 2024-06-27T18:28:40.815Z
+updated: 2024-06-28T18:28:40.815Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Garmin VIRB Ultra 30 Action Camera Review"
 excerpt: "This Article Describes [Updated] Garmin VIRB Ultra 30 Action Camera Review"
 keywords: "Garmin Virb Review,VIRB Ultra Action Camera,Ultra 30 Cam Quality,Action Video Cameras,Garmin Camera Reviews,Virb 30H Action Features,VIRB Ultimate HD Capture"
-thumbnail: https://www.lifewire.com/thmb/1i3oq9smFKn81c4WYVSI492gaLU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/blu-ray-disc-player-information-1846364-ccbae6fd80244359a2a5fada4cd53e40.png
+thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png
 ---
 
 ## Garmin's Ultra 30 Action Camera Revealed in Full Detail

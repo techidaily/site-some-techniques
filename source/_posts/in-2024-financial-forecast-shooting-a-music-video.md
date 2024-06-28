@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Financial Forecast  Shooting a Music Video\""
-date: 2024-05-26T16:34:30.284Z
-updated: 2024-05-27T16:34:30.284Z
+date: 2024-06-27T18:28:46.531Z
+updated: 2024-06-28T18:28:46.531Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Financial Forecast: Shooting a Music Video\""
 excerpt: "\"This Article Describes In 2024, Financial Forecast: Shooting a Music Video\""
 keywords: "Music Video Budget,Fiscal Planning for Film,Music Video Finance,Artist Investment Guide,VFX Cost Forecasting,Shooting Schedule Budget,Creative Industry Expenses"
-thumbnail: https://www.lifewire.com/thmb/S38L-iV0SaOTCbQndhFff22cEEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/EsiT5fdXEAEs0A3-503736188b9943edba694c60b3be7776.jpg
+thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b373b3c35d45e36e3b5fdd2147.jpg
 ---
 
 ## Financial Forecast: Shooting a Music Video

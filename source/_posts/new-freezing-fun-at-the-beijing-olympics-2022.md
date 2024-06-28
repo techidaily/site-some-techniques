@@ -1,7 +1,7 @@
 ---
 title: "[New] Freezing Fun at the Beijing Olympics 2022"
-date: 2024-05-26T17:57:02.792Z
-updated: 2024-05-27T17:57:02.792Z
+date: 2024-06-27T18:28:44.511Z
+updated: 2024-06-28T18:28:44.511Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Freezing Fun at the Beijing Olympics 2022"
 excerpt: "This Article Describes [New] Freezing Fun at the Beijing Olympics 2022"
 keywords: "Ice Skating China Olympics,Winter Olympics Beijing,Freeze Games 2022,Olympic Ice Fun,2022 Beijing Sports,Cold Olympics Event,Olympics Ice Challenge"
-thumbnail: https://www.lifewire.com/thmb/aGZqNAAWZxGqTIdxV5jFhxBFP10=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/firetvremoteapp-5c05dd3546e0fb0001924ea6.jpg
+thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45d452041bd7c83bf359b02fd.jpg
 ---
 
 ## Freezing Fun at the Beijing Olympics 2022

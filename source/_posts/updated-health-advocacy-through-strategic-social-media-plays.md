@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Health Advocacy Through Strategic Social Media Plays"
-date: 2024-05-26T17:39:19.816Z
-updated: 2024-05-27T17:39:19.816Z
+date: 2024-06-27T18:28:45.556Z
+updated: 2024-06-28T18:28:45.556Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Health Advocacy Through Strategic Social Media Plays"
 excerpt: "This Article Describes [Updated] Health Advocacy Through Strategic Social Media Plays"
 keywords: "Social Media Health Lead,Strategic Media Wellness,Social Advocate Care,Media Play Heal Promo,Health Awareness Engage,Strategize Social Impact,Networking for Health Growth"
-thumbnail: https://www.lifewire.com/thmb/N1gZqeYPtYPjx-jCkHgnlF3Fpgk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Supervised-vs-Unsupervised-Learning-85da94eaf40b4082a0e9ecf9caa5cc48.jpg
+thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d680177b5f240dd8a8230542393a.jpg
 ---
 
 ## Health Advocacy Through Strategic Social Media Plays

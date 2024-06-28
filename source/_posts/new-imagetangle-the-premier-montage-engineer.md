@@ -1,7 +1,7 @@
 ---
 title: "\"[New] ImageTangle  The Premier Montage Engineer\""
-date: 2024-05-26T18:25:00.829Z
-updated: 2024-05-27T18:25:00.829Z
+date: 2024-06-27T18:28:39.293Z
+updated: 2024-06-28T18:28:39.293Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] ImageTangle: The Premier Montage Engineer\""
 excerpt: "\"This Article Describes [New] ImageTangle: The Premier Montage Engineer\""
 keywords: "ToneMaster,ImageMashupPro,CreativeMontageTool,VideoTileCraft,PixelBlendExpert,StoryboardBuilder,VisualSculptorAI"
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## ImageTangle: The Premier Montage Engineer

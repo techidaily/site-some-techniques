@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Figure Skating Highlights 2022 Winter Olympics"
-date: 2024-05-26T16:40:38.448Z
-updated: 2024-05-27T16:40:38.448Z
+date: 2024-06-27T18:28:44.609Z
+updated: 2024-06-28T18:28:44.609Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Figure Skating Highlights 2022 Winter Olympics"
 excerpt: "This Article Describes In 2024, Figure Skating Highlights 2022 Winter Olympics"
 keywords: "IceSkatingOly2022High,OlympicIceShowcase,FreeStyleSkateWinter,SkaterTokensOly2022,WinterGoldFigures,OlySkatespecial,HighlightsOlyiceSkating"
-thumbnail: https://www.lifewire.com/thmb/bBjL4RQrpU3Is7hygFsLYpWveBE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-d43fab70fbba4bc39949f9a4c84a80d0.png
+thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba4a1808a078297c558520a47.png
 ---
 
 ## Figure Skating Highlights 2022 Winter Olympics

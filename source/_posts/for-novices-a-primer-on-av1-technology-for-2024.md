@@ -1,7 +1,7 @@
 ---
 title: "\"For Novices  A Primer on AV1 Technology for 2024\""
-date: 2024-05-26T17:42:49.149Z
-updated: 2024-05-27T17:42:49.149Z
+date: 2024-06-27T18:28:38.572Z
+updated: 2024-06-28T18:28:38.572Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes For Novices: A Primer on AV1 Technology for 2024\""
 excerpt: "\"This Article Describes For Novices: A Primer on AV1 Technology for 2024\""
 keywords: "AV1 Basics for Beginners,Introduction to AV1 Tech,Novice Guide to AV1,Understanding AV1,First Steps in AV1 Technology,Basic AV1 Primer,Learning AV1 Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## For Novices: A Primer on AV1 Technology

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Innovation at Hand  Creating 3D Textures with PHOTO\""
-date: 2024-05-26T19:17:57.868Z
-updated: 2024-05-27T19:17:57.868Z
+date: 2024-06-27T18:28:38.720Z
+updated: 2024-06-28T18:28:38.720Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Innovation at Hand: Creating 3D Textures with PHOTO\""
 excerpt: "\"This Article Describes [New] Innovation at Hand: Creating 3D Textures with PHOTO\""
 keywords: "Drone Media Shoot,Innovate Shooting,Media Drones Use,Creative Drone Film,Drones in Media Art,Media Photography Drones,Innovative Aerial Media"
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## Innovation at Hand: Creating 3D Textures with PHOTO

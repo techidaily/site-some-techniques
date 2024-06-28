@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Hand-In-The-Wind  Understanding Its Types\""
-date: 2024-05-26T17:07:12.348Z
-updated: 2024-05-27T17:07:12.348Z
+date: 2024-06-27T18:28:45.520Z
+updated: 2024-06-28T18:28:45.520Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Hand-In-The-Wind: Understanding Its Types\""
 excerpt: "\"This Article Describes In 2024, Hand-In-The-Wind: Understanding Its Types\""
 keywords: "\"Wind Handling,Wind Varieties,Wind Dynamics,Wind Patterns,Wind Mechanics,Wind Behaviors,Hand-Wind Types\""
-thumbnail: https://www.lifewire.com/thmb/BFH4IjacJgo8OjvfJ9Ze8PwUVIM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1212937831-e325a23541f44dbcacab2ea0a3a13ca8.jpg
+thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a686ee8cbfaaa30ee82b5b40.jpg
 ---
 
 ## Hand-In-The-Wind: Understanding Its Types
@@ -98,7 +98,7 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ### Guidance With Steps
 
-Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
+Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows) app on your PC. Once installed, launch it and follow these instructions step-by-step:
 
 **Install OpenCV and MediaPipe**
 
@@ -254,7 +254,7 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ### Guidance With Steps
 
-Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
+Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows) app on your PC. Once installed, launch it and follow these instructions step-by-step:
 
 **Install OpenCV and MediaPipe**
 

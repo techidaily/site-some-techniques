@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Flash Fiction Directorial Map\""
-date: 2024-05-26T17:07:45.546Z
-updated: 2024-05-27T17:07:45.546Z
+date: 2024-06-27T18:28:47.454Z
+updated: 2024-06-28T18:28:47.454Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Flash Fiction Directorial Map\""
 excerpt: "\"This Article Describes 2024 Approved: Flash Fiction Directorial Map\""
 keywords: "Flash Fiction Guide,Directional Maps,Flash Plot Overview,Story Mapping Tools,Quick Fiction Planning,Narrative Sketching,Short Tale Directions"
-thumbnail: https://www.lifewire.com/thmb/DNPG_95493kmlqsKtggkKrArSlc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/bardgoogledocs-e78434a9fb304eadb5960c6f4402fd45.jpg
+thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf45e09881a1912be2c7963695.jpg
 ---
 
 ## Flash Fiction Directorial Map
@@ -110,9 +110,9 @@ When everything is done, hit the “Create” button, and you'll see several opt
 
 Don't be afraid to start writing your next (or first) short film! It might seem like a daunting task, but it's well worth doing. I hope these tips will help you create a unique short film built from your own perspective that is well within your limits to have created. Nothing has the same feeling as seeing your words come to life on screen!
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
@@ -192,9 +192,9 @@ When everything is done, hit the “Create” button, and you'll see several opt
 
 Don't be afraid to start writing your next (or first) short film! It might seem like a daunting task, but it's well worth doing. I hope these tips will help you create a unique short film built from your own perspective that is well within your limits to have created. Nothing has the same feeling as seeing your words come to life on screen!
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

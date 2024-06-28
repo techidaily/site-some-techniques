@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Free Acting Availability Pledge\""
-date: 2024-05-26T17:08:35.432Z
-updated: 2024-05-27T17:08:35.432Z
+date: 2024-06-27T18:28:43.258Z
+updated: 2024-06-28T18:28:43.258Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Free Acting Availability Pledge\""
 excerpt: "\"This Article Describes 2024 Approved: Free Acting Availability Pledge\""
 keywords: "\"Free Acting Access,No-Cost Performances,Open Availability Promise,Act for Free Now,Unlimited Stage Time,Zero Cost Performances,Perform at No Charge\""
-thumbnail: https://www.lifewire.com/thmb/9aGZb31pXGeRkVeAvnKJEVuFRjQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/airpods-wont-connect-to-macbook-heres-the-fix-be843bfa8ef849ddb13b5fe5e734078d.jpg
+thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d14974522694c6300224ce7ee050ff.jpg
 ---
 
 ## Free Acting Availability Pledge
@@ -101,13 +101,13 @@ thumbnail: https://www.lifewire.com/thmb/9aGZb31pXGeRkVeAvnKJEVuFRjQ=/400x300/fi
 
 ## Part 4: free download and print talent release forms
 
-### 1. [Film sourcing](https://www.filmsourcing.com/blog/production-documents/)
+### 1. Film sourcing
 
  Film Sourcing is a one stop solution to equip you with all sorts of Film production documents templates and that too, for free.
 
  From pre-production documents like talent release forms / film release forms to marketing templates or samples, you’re going to find it all right here stacked up in one place.
 
-### 2. [123FormBuilder](https://www.123formbuilder.com/free-form-templates/Video-Release-Form-3491443/)
+### 2. 123FormBuilder
 
  Next, we have mentioned the 123FormBuilder that offers you free talent / video release forms.
 
@@ -119,13 +119,13 @@ thumbnail: https://www.lifewire.com/thmb/9aGZb31pXGeRkVeAvnKJEVuFRjQ=/400x300/fi
 
 ![123FormBuilder](https://images.wondershare.com/filmora/filmorapro/123FormBuilder.jpg)
 
-### 3. [Social Brite](https://www.socialbrite.org/sharing-center/law/model-release-form-for-video-producers-and-photographers/)
+### 3. Social Brite
 
  Social Brite offers a basic template of an Actor / Model / talent release form for filmmakers or still photographers.
 
  You can simply copy the content from the aforementioned URL, paste it over a word document, and get it modified as per your preference. Print it and get it signed to protect your rights, simple as that.
 
-### 4. [PDF filler](https://www.pdffiller.com/en/catalog/video-release-form)
+### 4. PDF filler
 
  PDF filler is another website that offers fillable film / video / talent release forms templates.
 
@@ -226,13 +226,13 @@ Follow @Ollie Mattison
 
 ## Part 4: free download and print talent release forms
 
-### 1. [Film sourcing](https://www.filmsourcing.com/blog/production-documents/)
+### 1. Film sourcing
 
  Film Sourcing is a one stop solution to equip you with all sorts of Film production documents templates and that too, for free.
 
  From pre-production documents like talent release forms / film release forms to marketing templates or samples, you’re going to find it all right here stacked up in one place.
 
-### 2. [123FormBuilder](https://www.123formbuilder.com/free-form-templates/Video-Release-Form-3491443/)
+### 2. 123FormBuilder
 
  Next, we have mentioned the 123FormBuilder that offers you free talent / video release forms.
 
@@ -244,13 +244,13 @@ Follow @Ollie Mattison
 
 ![123FormBuilder](https://images.wondershare.com/filmora/filmorapro/123FormBuilder.jpg)
 
-### 3. [Social Brite](https://www.socialbrite.org/sharing-center/law/model-release-form-for-video-producers-and-photographers/)
+### 3. Social Brite
 
  Social Brite offers a basic template of an Actor / Model / talent release form for filmmakers or still photographers.
 
  You can simply copy the content from the aforementioned URL, paste it over a word document, and get it modified as per your preference. Print it and get it signed to protect your rights, simple as that.
 
-### 4. [PDF filler](https://www.pdffiller.com/en/catalog/video-release-form)
+### 4. PDF filler
 
  PDF filler is another website that offers fillable film / video / talent release forms templates.
 
@@ -351,13 +351,13 @@ Follow @Ollie Mattison
 
 ## Part 4: free download and print talent release forms
 
-### 1. [Film sourcing](https://www.filmsourcing.com/blog/production-documents/)
+### 1. Film sourcing
 
  Film Sourcing is a one stop solution to equip you with all sorts of Film production documents templates and that too, for free.
 
  From pre-production documents like talent release forms / film release forms to marketing templates or samples, you’re going to find it all right here stacked up in one place.
 
-### 2. [123FormBuilder](https://www.123formbuilder.com/free-form-templates/Video-Release-Form-3491443/)
+### 2. 123FormBuilder
 
  Next, we have mentioned the 123FormBuilder that offers you free talent / video release forms.
 
@@ -369,13 +369,13 @@ Follow @Ollie Mattison
 
 ![123FormBuilder](https://images.wondershare.com/filmora/filmorapro/123FormBuilder.jpg)
 
-### 3. [Social Brite](https://www.socialbrite.org/sharing-center/law/model-release-form-for-video-producers-and-photographers/)
+### 3. Social Brite
 
  Social Brite offers a basic template of an Actor / Model / talent release form for filmmakers or still photographers.
 
  You can simply copy the content from the aforementioned URL, paste it over a word document, and get it modified as per your preference. Print it and get it signed to protect your rights, simple as that.
 
-### 4. [PDF filler](https://www.pdffiller.com/en/catalog/video-release-form)
+### 4. PDF filler
 
  PDF filler is another website that offers fillable film / video / talent release forms templates.
 
@@ -476,13 +476,13 @@ Follow @Ollie Mattison
 
 ## Part 4: free download and print talent release forms
 
-### 1. [Film sourcing](https://www.filmsourcing.com/blog/production-documents/)
+### 1. Film sourcing
 
  Film Sourcing is a one stop solution to equip you with all sorts of Film production documents templates and that too, for free.
 
  From pre-production documents like talent release forms / film release forms to marketing templates or samples, you’re going to find it all right here stacked up in one place.
 
-### 2. [123FormBuilder](https://www.123formbuilder.com/free-form-templates/Video-Release-Form-3491443/)
+### 2. 123FormBuilder
 
  Next, we have mentioned the 123FormBuilder that offers you free talent / video release forms.
 
@@ -494,13 +494,13 @@ Follow @Ollie Mattison
 
 ![123FormBuilder](https://images.wondershare.com/filmora/filmorapro/123FormBuilder.jpg)
 
-### 3. [Social Brite](https://www.socialbrite.org/sharing-center/law/model-release-form-for-video-producers-and-photographers/)
+### 3. Social Brite
 
  Social Brite offers a basic template of an Actor / Model / talent release form for filmmakers or still photographers.
 
  You can simply copy the content from the aforementioned URL, paste it over a word document, and get it modified as per your preference. Print it and get it signed to protect your rights, simple as that.
 
-### 4. [PDF filler](https://www.pdffiller.com/en/catalog/video-release-form)
+### 4. PDF filler
 
  PDF filler is another website that offers fillable film / video / talent release forms templates.
 

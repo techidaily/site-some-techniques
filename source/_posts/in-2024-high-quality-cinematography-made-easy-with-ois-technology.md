@@ -1,7 +1,7 @@
 ---
 title: "In 2024, High Quality Cinematography Made Easy With OIS Technology"
-date: 2024-05-26T16:27:01.108Z
-updated: 2024-05-27T16:27:01.108Z
+date: 2024-06-27T18:28:44.762Z
+updated: 2024-06-28T18:28:44.762Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, High Quality Cinematography Made Easy With OIS Technology"
 excerpt: "This Article Describes In 2024, High Quality Cinematography Made Easy With OIS Technology"
 keywords: "\"Easy Cinematic Tech,OIS Film Advantage,High-Quality Cinematography,Simplified OIS Cinematography,Improved Image Stability,Easy OIS Cinematic Tech,Quality Cinematography OIS\""
-thumbnail: https://www.lifewire.com/thmb/PrGY8pAgKjzqmXRv8UVAznKJhN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mobile-application-of-cloud-storage-471510877-5b1eb0158023b90036f2f175.jpg
+thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0aa2219c94653cd1097dc9a0c.jpg
 ---
 
 ## High Quality Cinematography Made Easy With OIS Technology
@@ -38,7 +38,7 @@ Some years ago, the OIS was a unique function accessible on high-end smartphones
 
 The ability to shoot smooth footage is in high demand, and companies are accommodating even their affordable phone with OIS, even if only through software trickery. Some of the best ones are as follows:
 
-### 1\. [iPhone 13 Pro Max](https://www.apple.com/iphone-13-pro/)
+### 1\. iPhone 13 Pro Max
 
 The new iPhone 13 Pro Max was launched on September 14, 2021\. Its versions are based on Apple's new A15 Bionic SoC, which features a 6-core CPU with two top-performance and four effective cores, as well as a 16-core Neural Engine. The tablet also gains increased brightness and Apple's ProMotion 120Hz refresh rate.
 
@@ -46,7 +46,7 @@ The iPhone 13 Pro Max also includes a new 77mm telescopic camera with a 3X optic
 
 It has a dual-pixel PDAF and sensor-shift OIS for smooth video capture. Moreover, the iPhone 13 Pro Max is now available for purchase, with prices beginning at $1,099 for 128GB of storage. Upgrading to 256GB costs $1,199, and 512GB costs $1,399.
 
-### 2\. [Samsung S21 Ultra](https://www.samsung.com/us/smartphones/galaxy-s21-ultra-5g/)
+### 2\. Samsung S21 Ultra
 
 The Samsung Galaxy S21 Ultra, launched in January 2021, has one of the largest screens currently available on the phone. The official price of the Samsung S21 Ultra is $1249\. This is a 6.8-inch QHD+ AMOLED display with a 3200 x 1440 and a pixel resolution of 551ppi. The display also has an Advanced 120Hz refresh rate, improving gaming performance.
 
@@ -54,7 +54,7 @@ The main camera lens of the Galaxy S21 Ultra is 108MP, featuring optical image s
 
 It has an Infinity-O display, a blow cut-out for the solitary front camera, and HDR10+ approved. There is also an ultrasonic in-display fingerprint scanner on the screen—the Exynos 2100 processor powers the Samsung Galaxy S21 Ultra.
 
-### 3\. [Huawei P50 Pro](https://consumer.huawei.com/en/phones/p50-pro/)
+### 3\. Huawei P50 Pro
 
 The Huawei P50 Pro, released in August 2021, costs $1177.99\. It is the newest P-series high-end smartphone from a Chinese company. A large-sensor main camera is combined with a 13 mm ultra-wide, a 90 mm telephoto, a monochrome lens, and a hyperspectral color temperature sensor to optimize brightness levels and color reproduction.
 
@@ -62,7 +62,7 @@ The primary camera lens has a 50-megapixel sensor (12.5-megapixel output) and a 
 
 The monochrome sensor increases detail work representation and noise reduction, especially in low-light situations. It also aids in the measurement of depth for the artificial bokeh effect.
 
-### 4\. [OnePlus 9 Pro](https://www.oneplus.com/global/9-pro)
+### 4\. OnePlus 9 Pro
 
 The OnePlus 9 Pro is made of aluminum and glass, weighs 0.43 pounds, and is 8.7 mm thick. OnePlus 9 Pro was launched on March 11, 2021, and has a retail price of $899\. It is also IP68 certified, ensuring it is dirt and water-resistant. It also has a 6.7-inch QHD+ (3216x1440 pixel) resolution AMOLED curving panel with LTPO backplane innovation and a frame rate of 120Hz.
 
@@ -70,7 +70,7 @@ The LTPO technology lets the OnePlus 9 Pro optimally allocate less power while a
 
 The OnePlus 9 Pro has four cameras on the back, including a main 48MP lens with a Sony IMX789 technology, an f/1.8 aperture, and OIS capability.
 
-### 5\. [VIVO X70 Pro](https://www.vivo.com/en/products/x70pro)
+### 5\. VIVO X70 Pro
 
 The Snapdragon 888+ chipset is included in the Vivo X70 series. The X70 has a porcelain body atop the glass, a Fluorite AG surface, and a highly immersive 3D curving display for luxury design aesthetics. VIVO X70 was launched on September 30, 2021, and is available for $725 in 128GB ROM and 8GB RAM.
 
@@ -78,7 +78,7 @@ The X70 also has an avant-garde appearance in Enigma Black. The phone also has t
 
 It has four rear cameras: a 50-megapixel main sensor, a 48-megapixel auxiliary camera with such an f/1.6 ultra-wide aperture, and Gimbal compatibility. It also features a 12-megapixel portraits sensor along with an 8-megapixel sensor that has a periscope-shaped optic with OIS.
 
-### 6\. [Oppo Find X3 Pro](https://www.oppo.com/en/smartphones/series-find-x/find-x3-pro/)
+### 6\. Oppo Find X3 Pro
 
 Oppo's March 2021 flagship takes a drastically different approach than its predecessor when it comes to the camera arrangement. It is available on the market for $996.88.
 
@@ -86,7 +86,7 @@ Whereas most rear camera devices include a powerful telephoto lens, the Find X3 
 
 The Oppo Find X3 Pro has four cameras on the back, including a main 50MP lens omnidirectional, an f/1.8 aperture, and OIS capability.
 
-### 7\. [iQOO 7 Legend](https://www.iqoo.com/in/products/iqoo7legend)
+### 7\. iQOO 7 Legend
 
 This year, Vivo has chosen to release several of its gaming-oriented iQOO phones internationally, beginning with the iQOO 7 Legend on April 26, 2021\. It is available on the marketplace for $579.
 
@@ -94,7 +94,7 @@ An HRR OLED display with a 120Hz refresh rate is on hand, and the Snapdragon 888
 
 It is among the few game phones with a telephoto camera. It only has a 2x optical zoom, but it's more than chopping from the primary camera. The ultra-wide is also 13MP rather than the more normal 8MP, and the primary 48MP camera has OIS.
 
-### 8\. [Google Pixel 6 Pro](https://store.google.com/product/pixel%5F6%5Fpro)
+### 8\. Google Pixel 6 Pro
 
 Google has shaken things up for 2021, releasing the Pixel 6 and Pixel 6 Pro on October 28, 2021, featuring the company's new Tensor hardware and a revised Android 12 experience and an entirely new design a considerably improved triple back camera.
 
@@ -114,7 +114,7 @@ Since the announcement of the iPhone 12 Pro Max, the sensor-shift OIS (optical i
 
 The three 12Mp sensors (a primary, 120° ultra-wide, and 2.5x optical zoom telephoto) shot with a satisfying uniformity and assurance that competing camera phones don't have.
 
-### 10\. [Xiaomi Mi Note 10](https://www.mi.com/global/mi-note-10/)
+### 10\. Xiaomi Mi Note 10
 
 The Xiaomi Mi Note 10 has a quality finish and equipment that distinguishes it from the competition. The phone has a higher frame rate of 90Hz, which offers a smooth experience, and it is HDR10+ approved. It features a selfie camera blow cut-out in the top-left quadrant, giving the display 19.5:9 ratios.
 
@@ -158,7 +158,7 @@ Some years ago, the OIS was a unique function accessible on high-end smartphones
 
 The ability to shoot smooth footage is in high demand, and companies are accommodating even their affordable phone with OIS, even if only through software trickery. Some of the best ones are as follows:
 
-### 1\. [iPhone 13 Pro Max](https://www.apple.com/iphone-13-pro/)
+### 1\. iPhone 13 Pro Max
 
 The new iPhone 13 Pro Max was launched on September 14, 2021\. Its versions are based on Apple's new A15 Bionic SoC, which features a 6-core CPU with two top-performance and four effective cores, as well as a 16-core Neural Engine. The tablet also gains increased brightness and Apple's ProMotion 120Hz refresh rate.
 
@@ -166,7 +166,7 @@ The iPhone 13 Pro Max also includes a new 77mm telescopic camera with a 3X optic
 
 It has a dual-pixel PDAF and sensor-shift OIS for smooth video capture. Moreover, the iPhone 13 Pro Max is now available for purchase, with prices beginning at $1,099 for 128GB of storage. Upgrading to 256GB costs $1,199, and 512GB costs $1,399.
 
-### 2\. [Samsung S21 Ultra](https://www.samsung.com/us/smartphones/galaxy-s21-ultra-5g/)
+### 2\. Samsung S21 Ultra
 
 The Samsung Galaxy S21 Ultra, launched in January 2021, has one of the largest screens currently available on the phone. The official price of the Samsung S21 Ultra is $1249\. This is a 6.8-inch QHD+ AMOLED display with a 3200 x 1440 and a pixel resolution of 551ppi. The display also has an Advanced 120Hz refresh rate, improving gaming performance.
 
@@ -174,7 +174,7 @@ The main camera lens of the Galaxy S21 Ultra is 108MP, featuring optical image s
 
 It has an Infinity-O display, a blow cut-out for the solitary front camera, and HDR10+ approved. There is also an ultrasonic in-display fingerprint scanner on the screen—the Exynos 2100 processor powers the Samsung Galaxy S21 Ultra.
 
-### 3\. [Huawei P50 Pro](https://consumer.huawei.com/en/phones/p50-pro/)
+### 3\. Huawei P50 Pro
 
 The Huawei P50 Pro, released in August 2021, costs $1177.99\. It is the newest P-series high-end smartphone from a Chinese company. A large-sensor main camera is combined with a 13 mm ultra-wide, a 90 mm telephoto, a monochrome lens, and a hyperspectral color temperature sensor to optimize brightness levels and color reproduction.
 
@@ -182,7 +182,7 @@ The primary camera lens has a 50-megapixel sensor (12.5-megapixel output) and a 
 
 The monochrome sensor increases detail work representation and noise reduction, especially in low-light situations. It also aids in the measurement of depth for the artificial bokeh effect.
 
-### 4\. [OnePlus 9 Pro](https://www.oneplus.com/global/9-pro)
+### 4\. OnePlus 9 Pro
 
 The OnePlus 9 Pro is made of aluminum and glass, weighs 0.43 pounds, and is 8.7 mm thick. OnePlus 9 Pro was launched on March 11, 2021, and has a retail price of $899\. It is also IP68 certified, ensuring it is dirt and water-resistant. It also has a 6.7-inch QHD+ (3216x1440 pixel) resolution AMOLED curving panel with LTPO backplane innovation and a frame rate of 120Hz.
 
@@ -190,7 +190,7 @@ The LTPO technology lets the OnePlus 9 Pro optimally allocate less power while a
 
 The OnePlus 9 Pro has four cameras on the back, including a main 48MP lens with a Sony IMX789 technology, an f/1.8 aperture, and OIS capability.
 
-### 5\. [VIVO X70 Pro](https://www.vivo.com/en/products/x70pro)
+### 5\. VIVO X70 Pro
 
 The Snapdragon 888+ chipset is included in the Vivo X70 series. The X70 has a porcelain body atop the glass, a Fluorite AG surface, and a highly immersive 3D curving display for luxury design aesthetics. VIVO X70 was launched on September 30, 2021, and is available for $725 in 128GB ROM and 8GB RAM.
 
@@ -198,7 +198,7 @@ The X70 also has an avant-garde appearance in Enigma Black. The phone also has t
 
 It has four rear cameras: a 50-megapixel main sensor, a 48-megapixel auxiliary camera with such an f/1.6 ultra-wide aperture, and Gimbal compatibility. It also features a 12-megapixel portraits sensor along with an 8-megapixel sensor that has a periscope-shaped optic with OIS.
 
-### 6\. [Oppo Find X3 Pro](https://www.oppo.com/en/smartphones/series-find-x/find-x3-pro/)
+### 6\. Oppo Find X3 Pro
 
 Oppo's March 2021 flagship takes a drastically different approach than its predecessor when it comes to the camera arrangement. It is available on the market for $996.88.
 
@@ -206,7 +206,7 @@ Whereas most rear camera devices include a powerful telephoto lens, the Find X3 
 
 The Oppo Find X3 Pro has four cameras on the back, including a main 50MP lens omnidirectional, an f/1.8 aperture, and OIS capability.
 
-### 7\. [iQOO 7 Legend](https://www.iqoo.com/in/products/iqoo7legend)
+### 7\. iQOO 7 Legend
 
 This year, Vivo has chosen to release several of its gaming-oriented iQOO phones internationally, beginning with the iQOO 7 Legend on April 26, 2021\. It is available on the marketplace for $579.
 
@@ -214,7 +214,7 @@ An HRR OLED display with a 120Hz refresh rate is on hand, and the Snapdragon 888
 
 It is among the few game phones with a telephoto camera. It only has a 2x optical zoom, but it's more than chopping from the primary camera. The ultra-wide is also 13MP rather than the more normal 8MP, and the primary 48MP camera has OIS.
 
-### 8\. [Google Pixel 6 Pro](https://store.google.com/product/pixel%5F6%5Fpro)
+### 8\. Google Pixel 6 Pro
 
 Google has shaken things up for 2021, releasing the Pixel 6 and Pixel 6 Pro on October 28, 2021, featuring the company's new Tensor hardware and a revised Android 12 experience and an entirely new design a considerably improved triple back camera.
 
@@ -234,7 +234,7 @@ Since the announcement of the iPhone 12 Pro Max, the sensor-shift OIS (optical i
 
 The three 12Mp sensors (a primary, 120° ultra-wide, and 2.5x optical zoom telephoto) shot with a satisfying uniformity and assurance that competing camera phones don't have.
 
-### 10\. [Xiaomi Mi Note 10](https://www.mi.com/global/mi-note-10/)
+### 10\. Xiaomi Mi Note 10
 
 The Xiaomi Mi Note 10 has a quality finish and equipment that distinguishes it from the competition. The phone has a higher frame rate of 90Hz, which offers a smooth experience, and it is HDR10+ approved. It features a selfie camera blow cut-out in the top-left quadrant, giving the display 19.5:9 ratios.
 
@@ -278,7 +278,7 @@ Some years ago, the OIS was a unique function accessible on high-end smartphones
 
 The ability to shoot smooth footage is in high demand, and companies are accommodating even their affordable phone with OIS, even if only through software trickery. Some of the best ones are as follows:
 
-### 1\. [iPhone 13 Pro Max](https://www.apple.com/iphone-13-pro/)
+### 1\. iPhone 13 Pro Max
 
 The new iPhone 13 Pro Max was launched on September 14, 2021\. Its versions are based on Apple's new A15 Bionic SoC, which features a 6-core CPU with two top-performance and four effective cores, as well as a 16-core Neural Engine. The tablet also gains increased brightness and Apple's ProMotion 120Hz refresh rate.
 
@@ -286,7 +286,7 @@ The iPhone 13 Pro Max also includes a new 77mm telescopic camera with a 3X optic
 
 It has a dual-pixel PDAF and sensor-shift OIS for smooth video capture. Moreover, the iPhone 13 Pro Max is now available for purchase, with prices beginning at $1,099 for 128GB of storage. Upgrading to 256GB costs $1,199, and 512GB costs $1,399.
 
-### 2\. [Samsung S21 Ultra](https://www.samsung.com/us/smartphones/galaxy-s21-ultra-5g/)
+### 2\. Samsung S21 Ultra
 
 The Samsung Galaxy S21 Ultra, launched in January 2021, has one of the largest screens currently available on the phone. The official price of the Samsung S21 Ultra is $1249\. This is a 6.8-inch QHD+ AMOLED display with a 3200 x 1440 and a pixel resolution of 551ppi. The display also has an Advanced 120Hz refresh rate, improving gaming performance.
 
@@ -294,7 +294,7 @@ The main camera lens of the Galaxy S21 Ultra is 108MP, featuring optical image s
 
 It has an Infinity-O display, a blow cut-out for the solitary front camera, and HDR10+ approved. There is also an ultrasonic in-display fingerprint scanner on the screen—the Exynos 2100 processor powers the Samsung Galaxy S21 Ultra.
 
-### 3\. [Huawei P50 Pro](https://consumer.huawei.com/en/phones/p50-pro/)
+### 3\. Huawei P50 Pro
 
 The Huawei P50 Pro, released in August 2021, costs $1177.99\. It is the newest P-series high-end smartphone from a Chinese company. A large-sensor main camera is combined with a 13 mm ultra-wide, a 90 mm telephoto, a monochrome lens, and a hyperspectral color temperature sensor to optimize brightness levels and color reproduction.
 
@@ -302,7 +302,7 @@ The primary camera lens has a 50-megapixel sensor (12.5-megapixel output) and a 
 
 The monochrome sensor increases detail work representation and noise reduction, especially in low-light situations. It also aids in the measurement of depth for the artificial bokeh effect.
 
-### 4\. [OnePlus 9 Pro](https://www.oneplus.com/global/9-pro)
+### 4\. OnePlus 9 Pro
 
 The OnePlus 9 Pro is made of aluminum and glass, weighs 0.43 pounds, and is 8.7 mm thick. OnePlus 9 Pro was launched on March 11, 2021, and has a retail price of $899\. It is also IP68 certified, ensuring it is dirt and water-resistant. It also has a 6.7-inch QHD+ (3216x1440 pixel) resolution AMOLED curving panel with LTPO backplane innovation and a frame rate of 120Hz.
 
@@ -310,7 +310,7 @@ The LTPO technology lets the OnePlus 9 Pro optimally allocate less power while a
 
 The OnePlus 9 Pro has four cameras on the back, including a main 48MP lens with a Sony IMX789 technology, an f/1.8 aperture, and OIS capability.
 
-### 5\. [VIVO X70 Pro](https://www.vivo.com/en/products/x70pro)
+### 5\. VIVO X70 Pro
 
 The Snapdragon 888+ chipset is included in the Vivo X70 series. The X70 has a porcelain body atop the glass, a Fluorite AG surface, and a highly immersive 3D curving display for luxury design aesthetics. VIVO X70 was launched on September 30, 2021, and is available for $725 in 128GB ROM and 8GB RAM.
 
@@ -318,7 +318,7 @@ The X70 also has an avant-garde appearance in Enigma Black. The phone also has t
 
 It has four rear cameras: a 50-megapixel main sensor, a 48-megapixel auxiliary camera with such an f/1.6 ultra-wide aperture, and Gimbal compatibility. It also features a 12-megapixel portraits sensor along with an 8-megapixel sensor that has a periscope-shaped optic with OIS.
 
-### 6\. [Oppo Find X3 Pro](https://www.oppo.com/en/smartphones/series-find-x/find-x3-pro/)
+### 6\. Oppo Find X3 Pro
 
 Oppo's March 2021 flagship takes a drastically different approach than its predecessor when it comes to the camera arrangement. It is available on the market for $996.88.
 
@@ -326,7 +326,7 @@ Whereas most rear camera devices include a powerful telephoto lens, the Find X3 
 
 The Oppo Find X3 Pro has four cameras on the back, including a main 50MP lens omnidirectional, an f/1.8 aperture, and OIS capability.
 
-### 7\. [iQOO 7 Legend](https://www.iqoo.com/in/products/iqoo7legend)
+### 7\. iQOO 7 Legend
 
 This year, Vivo has chosen to release several of its gaming-oriented iQOO phones internationally, beginning with the iQOO 7 Legend on April 26, 2021\. It is available on the marketplace for $579.
 
@@ -334,7 +334,7 @@ An HRR OLED display with a 120Hz refresh rate is on hand, and the Snapdragon 888
 
 It is among the few game phones with a telephoto camera. It only has a 2x optical zoom, but it's more than chopping from the primary camera. The ultra-wide is also 13MP rather than the more normal 8MP, and the primary 48MP camera has OIS.
 
-### 8\. [Google Pixel 6 Pro](https://store.google.com/product/pixel%5F6%5Fpro)
+### 8\. Google Pixel 6 Pro
 
 Google has shaken things up for 2021, releasing the Pixel 6 and Pixel 6 Pro on October 28, 2021, featuring the company's new Tensor hardware and a revised Android 12 experience and an entirely new design a considerably improved triple back camera.
 
@@ -354,7 +354,7 @@ Since the announcement of the iPhone 12 Pro Max, the sensor-shift OIS (optical i
 
 The three 12Mp sensors (a primary, 120° ultra-wide, and 2.5x optical zoom telephoto) shot with a satisfying uniformity and assurance that competing camera phones don't have.
 
-### 10\. [Xiaomi Mi Note 10](https://www.mi.com/global/mi-note-10/)
+### 10\. Xiaomi Mi Note 10
 
 The Xiaomi Mi Note 10 has a quality finish and equipment that distinguishes it from the competition. The phone has a higher frame rate of 90Hz, which offers a smooth experience, and it is HDR10+ approved. It features a selfie camera blow cut-out in the top-left quadrant, giving the display 19.5:9 ratios.
 
@@ -398,7 +398,7 @@ Some years ago, the OIS was a unique function accessible on high-end smartphones
 
 The ability to shoot smooth footage is in high demand, and companies are accommodating even their affordable phone with OIS, even if only through software trickery. Some of the best ones are as follows:
 
-### 1\. [iPhone 13 Pro Max](https://www.apple.com/iphone-13-pro/)
+### 1\. iPhone 13 Pro Max
 
 The new iPhone 13 Pro Max was launched on September 14, 2021\. Its versions are based on Apple's new A15 Bionic SoC, which features a 6-core CPU with two top-performance and four effective cores, as well as a 16-core Neural Engine. The tablet also gains increased brightness and Apple's ProMotion 120Hz refresh rate.
 
@@ -406,7 +406,7 @@ The iPhone 13 Pro Max also includes a new 77mm telescopic camera with a 3X optic
 
 It has a dual-pixel PDAF and sensor-shift OIS for smooth video capture. Moreover, the iPhone 13 Pro Max is now available for purchase, with prices beginning at $1,099 for 128GB of storage. Upgrading to 256GB costs $1,199, and 512GB costs $1,399.
 
-### 2\. [Samsung S21 Ultra](https://www.samsung.com/us/smartphones/galaxy-s21-ultra-5g/)
+### 2\. Samsung S21 Ultra
 
 The Samsung Galaxy S21 Ultra, launched in January 2021, has one of the largest screens currently available on the phone. The official price of the Samsung S21 Ultra is $1249\. This is a 6.8-inch QHD+ AMOLED display with a 3200 x 1440 and a pixel resolution of 551ppi. The display also has an Advanced 120Hz refresh rate, improving gaming performance.
 
@@ -414,7 +414,7 @@ The main camera lens of the Galaxy S21 Ultra is 108MP, featuring optical image s
 
 It has an Infinity-O display, a blow cut-out for the solitary front camera, and HDR10+ approved. There is also an ultrasonic in-display fingerprint scanner on the screen—the Exynos 2100 processor powers the Samsung Galaxy S21 Ultra.
 
-### 3\. [Huawei P50 Pro](https://consumer.huawei.com/en/phones/p50-pro/)
+### 3\. Huawei P50 Pro
 
 The Huawei P50 Pro, released in August 2021, costs $1177.99\. It is the newest P-series high-end smartphone from a Chinese company. A large-sensor main camera is combined with a 13 mm ultra-wide, a 90 mm telephoto, a monochrome lens, and a hyperspectral color temperature sensor to optimize brightness levels and color reproduction.
 
@@ -422,7 +422,7 @@ The primary camera lens has a 50-megapixel sensor (12.5-megapixel output) and a 
 
 The monochrome sensor increases detail work representation and noise reduction, especially in low-light situations. It also aids in the measurement of depth for the artificial bokeh effect.
 
-### 4\. [OnePlus 9 Pro](https://www.oneplus.com/global/9-pro)
+### 4\. OnePlus 9 Pro
 
 The OnePlus 9 Pro is made of aluminum and glass, weighs 0.43 pounds, and is 8.7 mm thick. OnePlus 9 Pro was launched on March 11, 2021, and has a retail price of $899\. It is also IP68 certified, ensuring it is dirt and water-resistant. It also has a 6.7-inch QHD+ (3216x1440 pixel) resolution AMOLED curving panel with LTPO backplane innovation and a frame rate of 120Hz.
 
@@ -430,7 +430,7 @@ The LTPO technology lets the OnePlus 9 Pro optimally allocate less power while a
 
 The OnePlus 9 Pro has four cameras on the back, including a main 48MP lens with a Sony IMX789 technology, an f/1.8 aperture, and OIS capability.
 
-### 5\. [VIVO X70 Pro](https://www.vivo.com/en/products/x70pro)
+### 5\. VIVO X70 Pro
 
 The Snapdragon 888+ chipset is included in the Vivo X70 series. The X70 has a porcelain body atop the glass, a Fluorite AG surface, and a highly immersive 3D curving display for luxury design aesthetics. VIVO X70 was launched on September 30, 2021, and is available for $725 in 128GB ROM and 8GB RAM.
 
@@ -438,7 +438,7 @@ The X70 also has an avant-garde appearance in Enigma Black. The phone also has t
 
 It has four rear cameras: a 50-megapixel main sensor, a 48-megapixel auxiliary camera with such an f/1.6 ultra-wide aperture, and Gimbal compatibility. It also features a 12-megapixel portraits sensor along with an 8-megapixel sensor that has a periscope-shaped optic with OIS.
 
-### 6\. [Oppo Find X3 Pro](https://www.oppo.com/en/smartphones/series-find-x/find-x3-pro/)
+### 6\. Oppo Find X3 Pro
 
 Oppo's March 2021 flagship takes a drastically different approach than its predecessor when it comes to the camera arrangement. It is available on the market for $996.88.
 
@@ -446,7 +446,7 @@ Whereas most rear camera devices include a powerful telephoto lens, the Find X3 
 
 The Oppo Find X3 Pro has four cameras on the back, including a main 50MP lens omnidirectional, an f/1.8 aperture, and OIS capability.
 
-### 7\. [iQOO 7 Legend](https://www.iqoo.com/in/products/iqoo7legend)
+### 7\. iQOO 7 Legend
 
 This year, Vivo has chosen to release several of its gaming-oriented iQOO phones internationally, beginning with the iQOO 7 Legend on April 26, 2021\. It is available on the marketplace for $579.
 
@@ -454,7 +454,7 @@ An HRR OLED display with a 120Hz refresh rate is on hand, and the Snapdragon 888
 
 It is among the few game phones with a telephoto camera. It only has a 2x optical zoom, but it's more than chopping from the primary camera. The ultra-wide is also 13MP rather than the more normal 8MP, and the primary 48MP camera has OIS.
 
-### 8\. [Google Pixel 6 Pro](https://store.google.com/product/pixel%5F6%5Fpro)
+### 8\. Google Pixel 6 Pro
 
 Google has shaken things up for 2021, releasing the Pixel 6 and Pixel 6 Pro on October 28, 2021, featuring the company's new Tensor hardware and a revised Android 12 experience and an entirely new design a considerably improved triple back camera.
 
@@ -474,7 +474,7 @@ Since the announcement of the iPhone 12 Pro Max, the sensor-shift OIS (optical i
 
 The three 12Mp sensors (a primary, 120° ultra-wide, and 2.5x optical zoom telephoto) shot with a satisfying uniformity and assurance that competing camera phones don't have.
 
-### 10\. [Xiaomi Mi Note 10](https://www.mi.com/global/mi-note-10/)
+### 10\. Xiaomi Mi Note 10
 
 The Xiaomi Mi Note 10 has a quality finish and equipment that distinguishes it from the competition. The phone has a higher frame rate of 90Hz, which offers a smooth experience, and it is HDR10+ approved. It features a selfie camera blow cut-out in the top-left quadrant, giving the display 19.5:9 ratios.
 

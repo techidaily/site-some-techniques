@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Examining DJI Phantom 3’S Advanced Video Capture Tech"
-date: 2024-05-26T17:43:16.232Z
-updated: 2024-05-27T17:43:16.232Z
+date: 2024-06-27T18:28:45.724Z
+updated: 2024-06-28T18:28:45.724Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Examining DJI Phantom 3’S Advanced Video Capture Tech"
 excerpt: "This Article Describes In 2024, Examining DJI Phantom 3’S Advanced Video Capture Tech"
 keywords: "\"P3 Video Capabilities,DJI Phantom VideoTech,High-Res Drone Videography,Advanced Phantom Capture,DJI Tech Innovation,Ultra Drones Visuals,Phantom 3 Video Features\""
-thumbnail: https://www.lifewire.com/thmb/xXXXABZAmSAt0BL3NSr1kTD8CVM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/b3d61cb315de3688d633dcaa1de969d34c57d2ef4835c89401c3246551696a45.png
 ---
 
 ## Examining DJI Phantom 3’S Advanced Video Capture Tech

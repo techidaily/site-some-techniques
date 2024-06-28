@@ -1,7 +1,7 @@
 ---
 title: "[New] Fundamentals of Hue Adjustments in Photoshop"
-date: 2024-05-26T18:30:32.847Z
-updated: 2024-05-27T18:30:32.847Z
+date: 2024-06-27T18:28:43.716Z
+updated: 2024-06-28T18:28:43.716Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Fundamentals of Hue Adjustments in Photoshop"
 excerpt: "This Article Describes [New] Fundamentals of Hue Adjustments in Photoshop"
 keywords: "PhotoHueBasics,HueAdjustPhotoshop,ColorCorrectionHS,HueEditingTips,PSPhotoHueFundamentals,AdjustColorHSMode,PhotoshopHueMastery"
-thumbnail: https://www.lifewire.com/thmb/CYuMInxhqGfsz5AC53n9L4-L5n8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chris-briggs-Rr6KMv_NYog-unsplash-ca2d5c709f434b72a9e61f973e2edf69.jpg
+thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b542178679b34754816329310d98db4.jpg
 ---
 
 ## Fundamentals of Hue Adjustments in Photoshop

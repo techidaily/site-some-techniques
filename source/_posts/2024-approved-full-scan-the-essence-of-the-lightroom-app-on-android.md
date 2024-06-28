@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Full Scan  The Essence of the Lightroom App on Android\""
-date: 2024-05-26T19:15:23.021Z
-updated: 2024-05-27T19:15:23.021Z
+date: 2024-06-19T17:06:32.536Z
+updated: 2024-06-20T17:06:32.536Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Full Scan: The Essence of the Lightroom App on Android\""
 excerpt: "\"This Article Describes 2024 Approved: Full Scan: The Essence of the Lightroom App on Android\""
 keywords: "\"Lightroom Full Scan,Mobile Full Scan LR,Android Lightroom Essence,Lightroom App FullScan,Essence of Lightroom APP,Lightroom Scan Android,LR Full-Scanning App\""
-thumbnail: https://www.lifewire.com/thmb/ppKJHMiBSGTcJo7ZO_c42xw7lhY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e811859d2e2792db0d3e9e3a.jpg
 ---
 
 ## Full Scan: The Essence of the Lightroom App on Android

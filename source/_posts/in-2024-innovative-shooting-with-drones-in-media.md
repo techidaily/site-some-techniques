@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Innovative Shooting with Drones in Media"
-date: 2024-05-26T17:48:14.056Z
-updated: 2024-05-27T17:48:14.056Z
+date: 2024-06-19T17:06:30.837Z
+updated: 2024-06-20T17:06:30.837Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Innovative Shooting with Drones in Media"
 excerpt: "This Article Describes In 2024, Innovative Shooting with Drones in Media"
 keywords: "Drone Media Shoot,Innovate Shooting,Media Drones Use,Creative Drone Film,Drones in Media Art,Media Photography Drones,Innovative Aerial Media"
-thumbnail: https://www.lifewire.com/thmb/P3hB6tFikUScsduyvJradG34nT0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/5332755892_99f55416a7_b-kenny-louie-5804eaff5f9b5805c2b40553.jpg
+thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e824658f017eeb7cc4b43fd88.jpg
 ---
 
 ## Innovative Shooting with Drones in Media

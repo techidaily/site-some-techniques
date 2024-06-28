@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Amateur to Pro  Video Editing Mastery Using Windows Movie Maker (Windows 8)\""
-date: 2024-05-26T18:34:07.420Z
-updated: 2024-05-27T18:34:07.420Z
+date: 2024-06-19T17:06:39.413Z
+updated: 2024-06-20T17:06:39.413Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Amateur to Pro: Video Editing Mastery Using Windows Movie Maker (Windows 8)\""
 excerpt: "\"This Article Describes [New] From Amateur to Pro: Video Editing Mastery Using Windows Movie Maker (Windows 8)\""
 keywords: "WinMovieMakerProTips,ProVideoEditingWin,WindowsMovieEditor,AmateurToProEdit,MovieMakerMastery,VideoEditsForWindows,FromAmateurProWindows"
-thumbnail: https://www.lifewire.com/thmb/1GNoj79Wd2P3m5NhvYCQDjqSocU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1147622423-211c8ae1f88a4b1bae8f277422e23d3d.jpg
+thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5dfa6d1b3e758e9ac9f354ba6.jpg
 ---
 
 ## From Amateur to Pro: Video Editing Mastery Using Windows Movie Maker (Windows 8)

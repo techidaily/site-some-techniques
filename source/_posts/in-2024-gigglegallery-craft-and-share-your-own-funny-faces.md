@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, GiggleGallery  Craft and Share Your Own Funny Faces\""
-date: 2024-05-26T18:14:19.892Z
-updated: 2024-05-27T18:14:19.892Z
+date: 2024-06-19T17:06:42.334Z
+updated: 2024-06-20T17:06:42.334Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, GiggleGallery: Craft and Share Your Own Funny Faces\""
 excerpt: "\"This Article Describes In 2024, GiggleGallery: Craft and Share Your Own Funny Faces\""
 keywords: "Funny Face Creation,Humorous Portraits,Giggle Gallery,Crafty Chuckles,Meme Face Art,Share Laughter Photos,Comedy Faces DIY"
-thumbnail: https://www.lifewire.com/thmb/ZOjx6qoOgacS0nkioW0MRpwFWw0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-maps-traffic-tablet-1e4db031d7cc44cc9de00bd3bf3780a4.jpg
+thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c686fb1e190a7cb786bdcbab.jpg
 ---
 
 ## GiggleGallery: Craft and Share Your Own Funny Faces

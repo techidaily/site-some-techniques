@@ -1,7 +1,7 @@
 ---
 title: "[New] Framework for Visual Storytelling"
-date: 2024-05-26T17:53:23.930Z
-updated: 2024-05-27T17:53:23.930Z
+date: 2024-06-19T17:06:32.763Z
+updated: 2024-06-20T17:06:32.763Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Framework for Visual Storytelling"
 excerpt: "This Article Describes [New] Framework for Visual Storytelling"
 keywords: "Visual StoryTelling Framework,Frameworks for Stories,Storytelling with Frames,Visual Narrative Methods,StoryVisualization Tools,Imaginative Tale Building,Artistic Story Blueprint"
-thumbnail: https://www.lifewire.com/thmb/euGB2OxWSMCs0I-pIsw21DKONQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/singled-out-687864396-593c83153df78c537b5d9e50.jpg
+thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9fa867d443daa8eb75630573f.jpg
 ---
 
 ## Framework for Visual Storytelling

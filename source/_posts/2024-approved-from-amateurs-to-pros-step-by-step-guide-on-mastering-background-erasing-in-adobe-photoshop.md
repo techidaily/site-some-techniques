@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Amateurs to Pros  Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop\""
-date: 2024-05-26T19:01:56.772Z
-updated: 2024-05-27T19:01:56.772Z
+date: 2024-06-19T17:06:36.429Z
+updated: 2024-06-20T17:06:36.429Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Amateurs to Pros: Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop\""
 excerpt: "\"This Article Describes 2024 Approved: From Amateurs to Pros: Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop\""
 keywords: "Premiere Sound Reduction,Soft Audio Techniques,Soundproofing Premiere,Lower Audio Levels,Quiet Video Production,Decibel Control in Pro,Volume Reduction Guide"
-thumbnail: https://www.lifewire.com/thmb/V0RRiEvZYrwixkOfRK2EGYZoZsI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-c9049f74e5ac46deb36ed212a4e8709b.png
+thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c7637037d5e86d15b1b9eaa1.png
 ---
 
 ## From Amateurs to Pros: Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop
@@ -64,7 +64,7 @@ When you enable the Background Eraser tool in Photoshop, you will see that the c
 
 ![bruch preset picker function in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/bruch-preset-picker-function-in-background-eraser-tool.png)
 
-The **Brush Preset Picker** is the first option that opens up a panel to let you adjust the size of your brush, its hardness, spacing, and tolerance. You can also change the size using the **Left Bracket ( \[ )** and **Right Bracket ( \] )**  keys on your PC keyboard.
+The **Brush Preset Picker** is the first option that opens up a panel to let you adjust the size of your brush, its hardness, spacing, and tolerance. You can also change the size using the **Left Bracket (\[)** and **Right Bracket (\])**  keys on your PC keyboard.
 
 To adjust the hardness, press the **"Shift+ Left Bracket"** or **"Shift+Right Bracket"** keys. We recommend that you set it to **100%** when erasing the pixels from your image.
 
@@ -178,11 +178,9 @@ If your Photoshop Eraser Tool is not accessible, make sure you have no active se
 
 You can find the Background Eraser Tool in the **Toolbar** on the left-hand side of the screen. Right-click the **"Eraser"** tool and select **"Background Eraser"** from the menu.
 
-## A Bonus Video Tutorial: Background Change Tutorial with Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## A Bonus Video Tutorial: Background Change Tutorial with Wondershare Filmora
 
-Hopefully, you find this article informative and can now easily use the Background Eraser tool in Adobe Photoshop. Additionally, as artists or creators' world consists of various types of expression, images and videos are among them. Apart from the tutorial of removing images' backgrounds in Photoshop, we also provided you with a video tutorial to remove the video's background. If you have any interests, you can watch it and have fun!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+Hopefully, you find this article informative and can now easily use the Background Eraser tool in Adobe Photoshop. Additionally, as artists or creators' world consists of various types of expression, images and videos are among them. Apart from the tutorial of removing images' backgrounds in Photoshop, we also provided you with a video tutorial to remove the video's background. If you have any interests, you can watch it and have fun![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 

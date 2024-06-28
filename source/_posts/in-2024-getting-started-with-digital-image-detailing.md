@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Getting Started with Digital Image Detailing"
-date: 2024-05-26T18:20:22.240Z
-updated: 2024-05-27T18:20:22.240Z
+date: 2024-06-19T17:06:30.512Z
+updated: 2024-06-20T17:06:30.512Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Getting Started with Digital Image Detailing"
 excerpt: "This Article Describes In 2024, Getting Started with Digital Image Detailing"
 keywords: "PhotoDetailArt,DigitalImageBeginning,ArtfulPhotoDetal,DigiPhotographyStart,PictureDetailingBasics,ImageDetailStarter,PhotodetailGuideStart"
-thumbnail: https://www.lifewire.com/thmb/dVn4l0H_Q4lS9y54mPgaZ7x5VtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/snow-tracks-of-senior-couple-walking-to-trees-and-mountain-range--sattelbergalm--tyrol--austria-592233383-c47ecd50c6ee406687da83916a3f2ff1.jpg
+thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd1c8126cb50df85aef146e19.jpg
 ---
 
 ## Getting Started with Digital Image Detailing

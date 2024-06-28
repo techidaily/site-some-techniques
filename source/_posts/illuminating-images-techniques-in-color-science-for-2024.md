@@ -1,7 +1,7 @@
 ---
 title: "\"Illuminating Images  Techniques in Color Science for 2024\""
-date: 2024-05-26T19:27:06.481Z
-updated: 2024-05-27T19:27:06.481Z
+date: 2024-06-19T17:06:31.182Z
+updated: 2024-06-20T17:06:31.182Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Illuminating Images: Techniques in Color Science for 2024\""
 excerpt: "\"This Article Describes Illuminating Images: Techniques in Color Science for 2024\""
 keywords: "Image Color Science,Brightening Imagery,Color Techniques Art,Luminous Picture Arts,Colored Photography Tips,Lighting in Photos,Visual Color Tricks"
-thumbnail: https://www.lifewire.com/thmb/KAfSjj-IqhTZHQvyAxdtpAFCDK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mskrissy1-eb3f2530735c446d9e3d8cdf8d42e729.png
+thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191cb1e756a607d3720738205f.png
 ---
 
 ## Illuminating Images: Techniques in Color Science

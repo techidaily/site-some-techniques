@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Ordinary to Extraordinary  Creating HDR in Lightroom\""
-date: 2024-05-26T18:00:39.025Z
-updated: 2024-05-27T18:00:39.025Z
+date: 2024-06-19T17:06:34.600Z
+updated: 2024-06-20T17:06:34.600Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] From Ordinary to Extraordinary: Creating HDR in Lightroom\""
 excerpt: "\"This Article Describes [Updated] From Ordinary to Extraordinary: Creating HDR in Lightroom\""
 keywords: "HDR Photography Tips,Lightroom Advanced Editing,Enhancing Photos with HDR,HDR Effects Lightroom,Creating Extraordinary Images,Bold Image Processing,Professional HDR Techniques"
-thumbnail: https://www.lifewire.com/thmb/EIcWtL1mbjgCQwl6s00JSD8qVnI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-project-xcloud-4796426-d7a90d6136d64a819292085e1962e8f6.jpg
+thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0bfe904b409f7e84863affb55.jpg
 ---
 
 ## From Ordinary to Extraordinary: Creating HDR in Lightroom

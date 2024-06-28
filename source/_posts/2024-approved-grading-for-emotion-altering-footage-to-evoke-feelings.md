@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Grading for Emotion  Altering Footage to Evoke Feelings\""
-date: 2024-05-26T19:07:02.758Z
-updated: 2024-05-27T19:07:02.758Z
+date: 2024-06-19T17:06:36.991Z
+updated: 2024-06-20T17:06:36.991Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Grading for Emotion: Altering Footage to Evoke Feelings\""
 excerpt: "\"This Article Describes 2024 Approved: Grading for Emotion: Altering Footage to Evoke Feelings\""
 keywords: "\"Film Grading Moods,Emotional Video Edit,Feelings in Footage,Affective Image Alteration,Sentimental Scene Modification,Emotionally-Driven Edits,Thematic Footage Transformation\""
-thumbnail: https://www.lifewire.com/thmb/ZsN5sh9vpp5x2EIZHwDv0qxi-C4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-815594930-822451a1a0fd4b4ba4de1f59d070efc1.jpg
+thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363eb8989d8b988649bee9d94b.jpg
 ---
 
 ## Grading for Emotion: Altering Footage to Evoke Feelings

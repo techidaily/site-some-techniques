@@ -1,7 +1,7 @@
 ---
 title: "\"High-Speed SD Accessory for Sony A7C Model for 2024\""
-date: 2024-05-26T18:51:43.342Z
-updated: 2024-05-27T18:51:43.342Z
+date: 2024-06-19T17:06:27.829Z
+updated: 2024-06-20T17:06:27.829Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes High-Speed SD Accessory for Sony A7C Model for 2024\""
 excerpt: "\"This Article Describes High-Speed SD Accessory for Sony A7C Model for 2024\""
 keywords: "\"SD Card Adapter A7C,Sony A7C SD Sync,Quick-Accessory A7C SD,Fast SD Accessory A7C,Sony A7C SD Compatible,SD Speed Upgrade for A7C,Ultra-Fast SD Adapter A7C\""
-thumbnail: https://www.lifewire.com/thmb/f6LwVnjgkjO0lgkhXUvMzpITldQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1660541874-8541f466453c45f7b48a810a39548f4a.jpg
+thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c7ecdd3b24dbb573f2037e37.jpg
 ---
 
 ## High-Speed SD Accessory for Sony A7C Model

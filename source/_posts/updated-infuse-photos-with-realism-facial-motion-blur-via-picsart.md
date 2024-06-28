@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Infuse Photos with Realism  Facial Motion Blur via Picsart\""
-date: 2024-05-26T17:14:12.172Z
-updated: 2024-05-27T17:14:12.172Z
+date: 2024-06-19T17:06:38.340Z
+updated: 2024-06-20T17:06:38.340Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Infuse Photos with Realism: Facial Motion Blur via Picsart\""
 excerpt: "\"This Article Describes [Updated] Infuse Photos with Realism: Facial Motion Blur via Picsart\""
 keywords: "\"Realistic Photo Edits,Picsart Motion Blur,Facial Blur Effects,Enhanced Photography,Layered Image Editing,Artistic Photo Tips,High-Quality Image Improvement\""
-thumbnail: https://www.lifewire.com/thmb/Un1YEqbiCg7tvkvdPUwFi2fhkms=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pairquesttophone-5ea84b24d0684dab893fe33c5a25b5fa.png
+thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834317c4e6bfcb9abc42eeaf14.png
 ---
 
 ## Infuse Photos with Realism: Facial Motion Blur via Picsart

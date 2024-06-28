@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Foremost Top 5 Lightweight Video Capturers Guide\""
-date: 2024-05-26T17:24:33.288Z
-updated: 2024-05-27T17:24:33.288Z
+date: 2024-06-19T17:06:28.996Z
+updated: 2024-06-20T17:06:28.996Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Foremost Top 5 Lightweight Video Capturers Guide\""
 excerpt: "\"This Article Describes 2024 Approved: Foremost Top 5 Lightweight Video Capturers Guide\""
 keywords: "\"Top Lightweight Vids,Best Light Videos,Videographer's Guide,Light Vid Capture,Low-Weight Camcorder,Video Recorder Tips,Capture Guide for Vids\""
-thumbnail: https://www.lifewire.com/thmb/zw0Z-bfGqX8i4XVXOnsXnouDZuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-watch-the-crow-movies-in-order-742a37ba4e0748e3a691420484c36796.jpg
+thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3db5eda647c388c8800cd490f.jpg
 ---
 
 ## Foremost Top 5 Lightweight Video Capturers Guide
@@ -43,8 +43,7 @@ thumbnail: https://www.lifewire.com/thmb/zw0Z-bfGqX8i4XVXOnsXnouDZuE=/400x300/fi
 
 #### 1\. GoPro Hero5 Black ($399)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
  It is the most rugged camera unit that makes users always ready for adventure; you can easily carry this camera for underwater adventure, on rough terrains, to skies on in order tough conditions like snow, dirt, sand and concrete etc. Hero Black is designed to serve best recording with single button operation and once you have finished your video then touch screen offers you immediate playback along with footage editing option. Some of the incredible features of Hero5 Black are:
 
@@ -65,21 +64,19 @@ thumbnail: https://www.lifewire.com/thmb/zw0Z-bfGqX8i4XVXOnsXnouDZuE=/400x300/fi
 
  This camera unit possess GPS and WiFi facility along with water resistant body so that you can mount it anywhere as per need. It can record videos with 1080p resolution and for images you will have 16MP clarity. Maximum storage offered by microSD card is 64GB whereas Remote + ANT compatibility makes it much easier to monitor and control. The water resistant design along with flexible mounting options make it more suitable for hiking needs. With advanced digital image stabilization feature you can mount this camera on vehicle, bicycle, quadcopter and any other moving object. Automatic noise correction filters are activated on lens surface to create breathtaking results for each footage.
 
-#### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
+#### 3\. Olympus TG-Tracker
 
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc)
 
  The TG tracker camera is always ready to capture all your action sports activities with UHD 4K resolution at 30fps. You need not to buy additional protective housing for this camera as its body is already tough with shockproof and water proof design up to 98.4’. TG-Tracker can resist temperature ranges as low as up to 14 degree F and its dust proof design allows you to carry it to the risky mountains. The ultra wide lens offers total coverage of 204 degrees whereas users will be able to take benefits from so many inbuilt sensors like barometer, thermometer, altitude and location sensor etc. You can control this device from mobile phones directly using TG Track app.
 
-#### 4\. [Sony FDR-X1000V](https://tools.techidaily.com/wondershare/filmora/download/) ($399.99)
+#### 4\. Sony FDR-X1000V
 
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
 
  This 4K action cam can be worn on wrist while climbing mountains and it is also compatible with so many commonly available mounting accessories. You can easily place it over tripod, static location, vehicles or on bikes. The Wi-Fi connectivity and RM-LVR2 app provides remote control feature to this camera. 4K recording can be done at 30fps with advanced bit rate of 100BMbps whereas for 24p you need to follow 60Mbps bit rate. Sony has developed this product with improved steady image stabilization feature with 170 degree ultra wide lens makes everything easy to cover.
 
@@ -87,8 +84,7 @@ thumbnail: https://www.lifewire.com/thmb/zw0Z-bfGqX8i4XVXOnsXnouDZuE=/400x300/fi
 
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8)
 
  This camera is equipped with ultra wide lenses of 204 degree coverage capacity and its compact and attractive construction make it action ready device. The 4K resolution can be obtained with 30 frames per second rate and you can even record at rough locations with this shock resistant camera. It can go under water up to 65’ and can stay there up to two hours without any trouble whereas freezing temperature is adjusted to its maximum value of 14 degrees.
 
@@ -121,8 +117,7 @@ Follow @Max Wales
 
 #### 1\. GoPro Hero5 Black ($399)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
  It is the most rugged camera unit that makes users always ready for adventure; you can easily carry this camera for underwater adventure, on rough terrains, to skies on in order tough conditions like snow, dirt, sand and concrete etc. Hero Black is designed to serve best recording with single button operation and once you have finished your video then touch screen offers you immediate playback along with footage editing option. Some of the incredible features of Hero5 Black are:
 
@@ -143,21 +138,19 @@ Follow @Max Wales
 
  This camera unit possess GPS and WiFi facility along with water resistant body so that you can mount it anywhere as per need. It can record videos with 1080p resolution and for images you will have 16MP clarity. Maximum storage offered by microSD card is 64GB whereas Remote + ANT compatibility makes it much easier to monitor and control. The water resistant design along with flexible mounting options make it more suitable for hiking needs. With advanced digital image stabilization feature you can mount this camera on vehicle, bicycle, quadcopter and any other moving object. Automatic noise correction filters are activated on lens surface to create breathtaking results for each footage.
 
-#### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
+#### 3\. Olympus TG-Tracker
 
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc)
 
  The TG tracker camera is always ready to capture all your action sports activities with UHD 4K resolution at 30fps. You need not to buy additional protective housing for this camera as its body is already tough with shockproof and water proof design up to 98.4’. TG-Tracker can resist temperature ranges as low as up to 14 degree F and its dust proof design allows you to carry it to the risky mountains. The ultra wide lens offers total coverage of 204 degrees whereas users will be able to take benefits from so many inbuilt sensors like barometer, thermometer, altitude and location sensor etc. You can control this device from mobile phones directly using TG Track app.
 
-#### 4\. [Sony FDR-X1000V](https://tools.techidaily.com/wondershare/filmora/download/) ($399.99)
+#### 4\. Sony FDR-X1000V
 
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
 
  This 4K action cam can be worn on wrist while climbing mountains and it is also compatible with so many commonly available mounting accessories. You can easily place it over tripod, static location, vehicles or on bikes. The Wi-Fi connectivity and RM-LVR2 app provides remote control feature to this camera. 4K recording can be done at 30fps with advanced bit rate of 100BMbps whereas for 24p you need to follow 60Mbps bit rate. Sony has developed this product with improved steady image stabilization feature with 170 degree ultra wide lens makes everything easy to cover.
 
@@ -165,8 +158,7 @@ Follow @Max Wales
 
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8)
 
  This camera is equipped with ultra wide lenses of 204 degree coverage capacity and its compact and attractive construction make it action ready device. The 4K resolution can be obtained with 30 frames per second rate and you can even record at rough locations with this shock resistant camera. It can go under water up to 65’ and can stay there up to two hours without any trouble whereas freezing temperature is adjusted to its maximum value of 14 degrees.
 
@@ -199,8 +191,7 @@ Follow @Max Wales
 
 #### 1\. GoPro Hero5 Black ($399)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
  It is the most rugged camera unit that makes users always ready for adventure; you can easily carry this camera for underwater adventure, on rough terrains, to skies on in order tough conditions like snow, dirt, sand and concrete etc. Hero Black is designed to serve best recording with single button operation and once you have finished your video then touch screen offers you immediate playback along with footage editing option. Some of the incredible features of Hero5 Black are:
 
@@ -221,21 +212,19 @@ Follow @Max Wales
 
  This camera unit possess GPS and WiFi facility along with water resistant body so that you can mount it anywhere as per need. It can record videos with 1080p resolution and for images you will have 16MP clarity. Maximum storage offered by microSD card is 64GB whereas Remote + ANT compatibility makes it much easier to monitor and control. The water resistant design along with flexible mounting options make it more suitable for hiking needs. With advanced digital image stabilization feature you can mount this camera on vehicle, bicycle, quadcopter and any other moving object. Automatic noise correction filters are activated on lens surface to create breathtaking results for each footage.
 
-#### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
+#### 3\. Olympus TG-Tracker
 
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc)
 
  The TG tracker camera is always ready to capture all your action sports activities with UHD 4K resolution at 30fps. You need not to buy additional protective housing for this camera as its body is already tough with shockproof and water proof design up to 98.4’. TG-Tracker can resist temperature ranges as low as up to 14 degree F and its dust proof design allows you to carry it to the risky mountains. The ultra wide lens offers total coverage of 204 degrees whereas users will be able to take benefits from so many inbuilt sensors like barometer, thermometer, altitude and location sensor etc. You can control this device from mobile phones directly using TG Track app.
 
-#### 4\. [Sony FDR-X1000V](https://tools.techidaily.com/wondershare/filmora/download/) ($399.99)
+#### 4\. Sony FDR-X1000V
 
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
 
  This 4K action cam can be worn on wrist while climbing mountains and it is also compatible with so many commonly available mounting accessories. You can easily place it over tripod, static location, vehicles or on bikes. The Wi-Fi connectivity and RM-LVR2 app provides remote control feature to this camera. 4K recording can be done at 30fps with advanced bit rate of 100BMbps whereas for 24p you need to follow 60Mbps bit rate. Sony has developed this product with improved steady image stabilization feature with 170 degree ultra wide lens makes everything easy to cover.
 
@@ -243,8 +232,7 @@ Follow @Max Wales
 
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8)
 
  This camera is equipped with ultra wide lenses of 204 degree coverage capacity and its compact and attractive construction make it action ready device. The 4K resolution can be obtained with 30 frames per second rate and you can even record at rough locations with this shock resistant camera. It can go under water up to 65’ and can stay there up to two hours without any trouble whereas freezing temperature is adjusted to its maximum value of 14 degrees.
 
@@ -277,8 +265,7 @@ Follow @Max Wales
 
 #### 1\. GoPro Hero5 Black ($399)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
  It is the most rugged camera unit that makes users always ready for adventure; you can easily carry this camera for underwater adventure, on rough terrains, to skies on in order tough conditions like snow, dirt, sand and concrete etc. Hero Black is designed to serve best recording with single button operation and once you have finished your video then touch screen offers you immediate playback along with footage editing option. Some of the incredible features of Hero5 Black are:
 
@@ -299,21 +286,19 @@ Follow @Max Wales
 
  This camera unit possess GPS and WiFi facility along with water resistant body so that you can mount it anywhere as per need. It can record videos with 1080p resolution and for images you will have 16MP clarity. Maximum storage offered by microSD card is 64GB whereas Remote + ANT compatibility makes it much easier to monitor and control. The water resistant design along with flexible mounting options make it more suitable for hiking needs. With advanced digital image stabilization feature you can mount this camera on vehicle, bicycle, quadcopter and any other moving object. Automatic noise correction filters are activated on lens surface to create breathtaking results for each footage.
 
-#### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
+#### 3\. Olympus TG-Tracker
 
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc)
 
  The TG tracker camera is always ready to capture all your action sports activities with UHD 4K resolution at 30fps. You need not to buy additional protective housing for this camera as its body is already tough with shockproof and water proof design up to 98.4’. TG-Tracker can resist temperature ranges as low as up to 14 degree F and its dust proof design allows you to carry it to the risky mountains. The ultra wide lens offers total coverage of 204 degrees whereas users will be able to take benefits from so many inbuilt sensors like barometer, thermometer, altitude and location sensor etc. You can control this device from mobile phones directly using TG Track app.
 
-#### 4\. [Sony FDR-X1000V](https://tools.techidaily.com/wondershare/filmora/download/) ($399.99)
+#### 4\. Sony FDR-X1000V
 
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
 
  This 4K action cam can be worn on wrist while climbing mountains and it is also compatible with so many commonly available mounting accessories. You can easily place it over tripod, static location, vehicles or on bikes. The Wi-Fi connectivity and RM-LVR2 app provides remote control feature to this camera. 4K recording can be done at 30fps with advanced bit rate of 100BMbps whereas for 24p you need to follow 60Mbps bit rate. Sony has developed this product with improved steady image stabilization feature with 170 degree ultra wide lens makes everything easy to cover.
 
@@ -321,8 +306,7 @@ Follow @Max Wales
 
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8)
 
  This camera is equipped with ultra wide lenses of 204 degree coverage capacity and its compact and attractive construction make it action ready device. The 4K resolution can be obtained with 30 frames per second rate and you can even record at rough locations with this shock resistant camera. It can go under water up to 65’ and can stay there up to two hours without any trouble whereas freezing temperature is adjusted to its maximum value of 14 degrees.
 

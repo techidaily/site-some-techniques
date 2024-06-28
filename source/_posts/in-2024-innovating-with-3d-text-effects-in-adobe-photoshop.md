@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Innovating with 3D Text Effects in Adobe Photoshop"
-date: 2024-05-26T17:45:02.312Z
-updated: 2024-05-27T17:45:02.312Z
+date: 2024-06-19T17:06:38.299Z
+updated: 2024-06-20T17:06:38.299Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Innovating with 3D Text Effects in Adobe Photoshop"
 excerpt: "This Article Describes In 2024, Innovating with 3D Text Effects in Adobe Photoshop"
 keywords: "Quick Blend Photos,Picshot Perfect Shot,Instant Photo Editing,Picshot Mix Artwork,Fast Photo Blending,Picshot Creative Craft,Blended Picshots Quick"
-thumbnail: https://www.lifewire.com/thmb/Pc02X6UByoQd3JZSqe8i2ct8aeE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-12-17at1.09.03PM-76f8bca0f2f44a3987bca5104dbb7e35.png
+thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb6668830fc6d1ed96db57dfa6c.png
 ---
 
 ## Innovating with 3D Text Effects in Adobe Photoshop

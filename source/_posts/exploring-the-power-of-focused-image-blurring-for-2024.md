@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Power of Focused Image Blurring for 2024"
-date: 2024-05-26T16:28:42.511Z
-updated: 2024-05-27T16:28:42.511Z
+date: 2024-06-19T17:06:35.718Z
+updated: 2024-06-20T17:06:35.718Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Exploring the Power of Focused Image Blurring for 2024"
 excerpt: "This Article Describes Exploring the Power of Focused Image Blurring for 2024"
 keywords: "ImageBlurFocus,FocusBlurPower,BlurSharpShift,ClearDefineBlur,SharpenImageSmooth,ImagePrecisionLess,ContrastBlurEffect"
-thumbnail: https://www.lifewire.com/thmb/mb1mWQEoLpMGF56NQIThsBx-R_k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-95580139-58b6df383df78cdcd83a3cc0-c406246bb39a40fe956b182b1676994f.jpg
+thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd5329788d0569c467b1120f3.jpg
 ---
 
 ## Exploring the Power of Focused Image Blurring

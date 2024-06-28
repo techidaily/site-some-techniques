@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Hyper-Resolution Hub  Top 8K Cameras Decoded\""
-date: 2024-05-26T18:32:18.517Z
-updated: 2024-05-27T18:32:18.517Z
+date: 2024-06-19T17:06:40.049Z
+updated: 2024-06-20T17:06:40.049Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Hyper-Resolution Hub: Top 8K Cameras Decoded\""
 excerpt: "\"This Article Describes [New] Hyper-Resolution Hub: Top 8K Cameras Decoded\""
 keywords: "\"8K Camera Guide,Ultra High-Res Imaging,Top 8K Cameras Review,Resolution Hub Exploration,Advanced 8K Cam Technology,8K Video Capture Insights,High-Definition Camera Selection\""
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Hyper-Resolution Hub: Top 8K Cameras Decoded
@@ -62,7 +62,7 @@ Even though 8K cameras have been on the market for the larger part of this decad
 
 The rumors that Canon is working on its first 8K camera surfaced in early 2019, but as the year’s end approaches it is still unclear when and if the manufacturer will present its first 8K camera to the world. The Canon’s first 8K full-frame camera should have **a CMOS sensor** that resembles the Super 35mm sensor, although the exact specifications are still not available to the public.
 
-![Canon EOS 5DS R DSLR Camera ](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
+![Canon EOS 5DS R DSLR Camera](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
 
 Image resource: Cannon
 
@@ -76,7 +76,7 @@ Even though Nikon is one of the leading camera manufacturers in the world, there
 
 At the moment the [Nikon D850](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d850.html) is the closest to an 8K camera this manufacturer has to offer since this 47.5 MP camera can record time-lapses in 8K resolution, although only by combining the footage captured with two D850 models.
 
-![Nikon D850 8K Timelapse Camera ](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
+![Nikon D850 8K Timelapse Camera](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
 
 Image resource: Nikon
 
@@ -98,7 +98,7 @@ It features two **AUDIO IN XLR type 3 pins** and one **MIC IN XLR type 5 pin**. 
 
 Professional cinematographers don’t need an introduction to Sony’s cameras, as the Japanese camera manufacturer has been at the forefront of the digital camera market for decades. Their [F65 CineAlta](https://pro.sony/ue%5FUS/products/digital-cinema-cameras/f65#SATD501220TheF65Cinealta-f65) was released in 2016, but it is still one of the best 8K cameras you can buy in 2024\. This speaks volumes about the F65’s capabilities, much like the fact that professional cinematographers have nothing but praise for this Sony’s camera model.
 
-![Sony F65 CineAlta 8K Camera ](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
+![Sony F65 CineAlta 8K Camera](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
 
 Image resource: Sony
 
@@ -110,7 +110,7 @@ The camera has **14 stops of exposure latitude**, so if you are shooting RAW vid
 
 Ikegami is a well-known manufacturer of professional broadcast cameras, so it comes as no surprise that the first handheld 8K UHD Television Camera System was produced by this Japanese television equipment manufacturer. Their [SHK-810 8K Super Hi-Vision Camera System](https://www.ikegami.com/archives/menu1/shk-810) features a **Super 35mm 33 million-pixel CMOS Sensor** as well as **4,000 TV lines** which enables the camera to capture highly-detailed images.
 
-![ikegami 8K Super Hi-Vision Camera System ](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
+![ikegami 8K Super Hi-Vision Camera System](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
 
 Image resource: ikegami
 
@@ -188,7 +188,7 @@ Even though 8K cameras have been on the market for the larger part of this decad
 
 The rumors that Canon is working on its first 8K camera surfaced in early 2019, but as the year’s end approaches it is still unclear when and if the manufacturer will present its first 8K camera to the world. The Canon’s first 8K full-frame camera should have **a CMOS sensor** that resembles the Super 35mm sensor, although the exact specifications are still not available to the public.
 
-![Canon EOS 5DS R DSLR Camera ](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
+![Canon EOS 5DS R DSLR Camera](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
 
 Image resource: Cannon
 
@@ -202,7 +202,7 @@ Even though Nikon is one of the leading camera manufacturers in the world, there
 
 At the moment the [Nikon D850](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d850.html) is the closest to an 8K camera this manufacturer has to offer since this 47.5 MP camera can record time-lapses in 8K resolution, although only by combining the footage captured with two D850 models.
 
-![Nikon D850 8K Timelapse Camera ](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
+![Nikon D850 8K Timelapse Camera](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
 
 Image resource: Nikon
 
@@ -224,7 +224,7 @@ It features two **AUDIO IN XLR type 3 pins** and one **MIC IN XLR type 5 pin**. 
 
 Professional cinematographers don’t need an introduction to Sony’s cameras, as the Japanese camera manufacturer has been at the forefront of the digital camera market for decades. Their [F65 CineAlta](https://pro.sony/ue%5FUS/products/digital-cinema-cameras/f65#SATD501220TheF65Cinealta-f65) was released in 2016, but it is still one of the best 8K cameras you can buy in 2024\. This speaks volumes about the F65’s capabilities, much like the fact that professional cinematographers have nothing but praise for this Sony’s camera model.
 
-![Sony F65 CineAlta 8K Camera ](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
+![Sony F65 CineAlta 8K Camera](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
 
 Image resource: Sony
 
@@ -236,7 +236,7 @@ The camera has **14 stops of exposure latitude**, so if you are shooting RAW vid
 
 Ikegami is a well-known manufacturer of professional broadcast cameras, so it comes as no surprise that the first handheld 8K UHD Television Camera System was produced by this Japanese television equipment manufacturer. Their [SHK-810 8K Super Hi-Vision Camera System](https://www.ikegami.com/archives/menu1/shk-810) features a **Super 35mm 33 million-pixel CMOS Sensor** as well as **4,000 TV lines** which enables the camera to capture highly-detailed images.
 
-![ikegami 8K Super Hi-Vision Camera System ](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
+![ikegami 8K Super Hi-Vision Camera System](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
 
 Image resource: ikegami
 
@@ -314,7 +314,7 @@ Even though 8K cameras have been on the market for the larger part of this decad
 
 The rumors that Canon is working on its first 8K camera surfaced in early 2019, but as the year’s end approaches it is still unclear when and if the manufacturer will present its first 8K camera to the world. The Canon’s first 8K full-frame camera should have **a CMOS sensor** that resembles the Super 35mm sensor, although the exact specifications are still not available to the public.
 
-![Canon EOS 5DS R DSLR Camera ](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
+![Canon EOS 5DS R DSLR Camera](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
 
 Image resource: Cannon
 
@@ -328,7 +328,7 @@ Even though Nikon is one of the leading camera manufacturers in the world, there
 
 At the moment the [Nikon D850](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d850.html) is the closest to an 8K camera this manufacturer has to offer since this 47.5 MP camera can record time-lapses in 8K resolution, although only by combining the footage captured with two D850 models.
 
-![Nikon D850 8K Timelapse Camera ](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
+![Nikon D850 8K Timelapse Camera](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
 
 Image resource: Nikon
 
@@ -350,7 +350,7 @@ It features two **AUDIO IN XLR type 3 pins** and one **MIC IN XLR type 5 pin**. 
 
 Professional cinematographers don’t need an introduction to Sony’s cameras, as the Japanese camera manufacturer has been at the forefront of the digital camera market for decades. Their [F65 CineAlta](https://pro.sony/ue%5FUS/products/digital-cinema-cameras/f65#SATD501220TheF65Cinealta-f65) was released in 2016, but it is still one of the best 8K cameras you can buy in 2024\. This speaks volumes about the F65’s capabilities, much like the fact that professional cinematographers have nothing but praise for this Sony’s camera model.
 
-![Sony F65 CineAlta 8K Camera ](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
+![Sony F65 CineAlta 8K Camera](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
 
 Image resource: Sony
 
@@ -362,7 +362,7 @@ The camera has **14 stops of exposure latitude**, so if you are shooting RAW vid
 
 Ikegami is a well-known manufacturer of professional broadcast cameras, so it comes as no surprise that the first handheld 8K UHD Television Camera System was produced by this Japanese television equipment manufacturer. Their [SHK-810 8K Super Hi-Vision Camera System](https://www.ikegami.com/archives/menu1/shk-810) features a **Super 35mm 33 million-pixel CMOS Sensor** as well as **4,000 TV lines** which enables the camera to capture highly-detailed images.
 
-![ikegami 8K Super Hi-Vision Camera System ](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
+![ikegami 8K Super Hi-Vision Camera System](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
 
 Image resource: ikegami
 
@@ -440,7 +440,7 @@ Even though 8K cameras have been on the market for the larger part of this decad
 
 The rumors that Canon is working on its first 8K camera surfaced in early 2019, but as the year’s end approaches it is still unclear when and if the manufacturer will present its first 8K camera to the world. The Canon’s first 8K full-frame camera should have **a CMOS sensor** that resembles the Super 35mm sensor, although the exact specifications are still not available to the public.
 
-![Canon EOS 5DS R DSLR Camera ](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
+![Canon EOS 5DS R DSLR Camera](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
 
 Image resource: Cannon
 
@@ -454,7 +454,7 @@ Even though Nikon is one of the leading camera manufacturers in the world, there
 
 At the moment the [Nikon D850](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d850.html) is the closest to an 8K camera this manufacturer has to offer since this 47.5 MP camera can record time-lapses in 8K resolution, although only by combining the footage captured with two D850 models.
 
-![Nikon D850 8K Timelapse Camera ](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
+![Nikon D850 8K Timelapse Camera](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
 
 Image resource: Nikon
 
@@ -476,7 +476,7 @@ It features two **AUDIO IN XLR type 3 pins** and one **MIC IN XLR type 5 pin**. 
 
 Professional cinematographers don’t need an introduction to Sony’s cameras, as the Japanese camera manufacturer has been at the forefront of the digital camera market for decades. Their [F65 CineAlta](https://pro.sony/ue%5FUS/products/digital-cinema-cameras/f65#SATD501220TheF65Cinealta-f65) was released in 2016, but it is still one of the best 8K cameras you can buy in 2024\. This speaks volumes about the F65’s capabilities, much like the fact that professional cinematographers have nothing but praise for this Sony’s camera model.
 
-![Sony F65 CineAlta 8K Camera ](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
+![Sony F65 CineAlta 8K Camera](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
 
 Image resource: Sony
 
@@ -488,7 +488,7 @@ The camera has **14 stops of exposure latitude**, so if you are shooting RAW vid
 
 Ikegami is a well-known manufacturer of professional broadcast cameras, so it comes as no surprise that the first handheld 8K UHD Television Camera System was produced by this Japanese television equipment manufacturer. Their [SHK-810 8K Super Hi-Vision Camera System](https://www.ikegami.com/archives/menu1/shk-810) features a **Super 35mm 33 million-pixel CMOS Sensor** as well as **4,000 TV lines** which enables the camera to capture highly-detailed images.
 
-![ikegami 8K Super Hi-Vision Camera System ](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
+![ikegami 8K Super Hi-Vision Camera System](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
 
 Image resource: ikegami
 

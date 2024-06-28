@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Focus on the Frame  Advanced Cropping Tips\""
-date: 2024-05-26T17:46:47.313Z
-updated: 2024-05-27T17:46:47.313Z
+date: 2024-06-19T17:06:32.508Z
+updated: 2024-06-20T17:06:32.508Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Focus on the Frame: Advanced Cropping Tips\""
 excerpt: "\"This Article Describes [Updated] Focus on the Frame: Advanced Cropping Tips\""
 keywords: "Frame Crop Basics,Pro Cropping Techniques,Advanced Image Edits,Editing Focus Points,Perfect Cropping Skills,Masterful Image Trimming,Precision Cropping Guide"
-thumbnail: https://www.lifewire.com/thmb/Dd7T82dGMkHY5br1ZwaLgN_nGgs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/best-samsung-smart-tv-apps-1847456-3ff4f2926f38431bb8623c7525c3c5ed.png
+thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e492050e0d16896d960da5c49a16.png
 ---
 
 ## Focus on the Frame: Advanced Cropping Tips

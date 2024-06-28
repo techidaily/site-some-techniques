@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Galaxy S8 Review - A New Era for Superior Smartphones\""
-date: 2024-05-26T19:35:37.976Z
-updated: 2024-05-27T19:35:37.976Z
+date: 2024-06-19T17:06:34.826Z
+updated: 2024-06-20T17:06:34.826Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Galaxy S8 Review - A New Era for Superior Smartphones\""
 excerpt: "\"This Article Describes 2024 Approved: Galaxy S8 Review - A New Era for Superior Smartphones\""
 keywords: "\"Galaxy S8 Review,Samsung Galaxy S8,S8 Phone Analysis,Superior Smartphone Galaxy,High-End Galaxy S8,Galaxy Innovation Review,Smartphones Top Performers Galaxy S8\""
-thumbnail: https://www.lifewire.com/thmb/6jpoPegXRX8McokesqszRR7iEZk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/firmbee-com-eMemmpUojlw-unsplash-78781d3f0a424890af91ca16a6e636a0.jpg
+thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9a0f3270b71a79e318ccd253.jpg
 ---
 
 ## Galaxy S8 Review - A New Era for Superior Smartphones

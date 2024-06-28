@@ -1,7 +1,7 @@
 ---
 title: "[New] Getting to Grips with Apple Podcasts Installation"
-date: 2024-05-26T16:42:51.751Z
-updated: 2024-05-27T16:42:51.751Z
+date: 2024-06-19T17:06:42.167Z
+updated: 2024-06-20T17:06:42.167Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Getting to Grips with Apple Podcasts Installation"
 excerpt: "This Article Describes [New] Getting to Grips with Apple Podcasts Installation"
 keywords: "AniGraph Basics,Graph Animation Starter,Learn AnimGraph,Basic AnimGraph Guide,Animatory Fundamentals,Grasping AniGraph,AniGraph Essentials"
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Getting to Grips with Apple Podcasts Installation

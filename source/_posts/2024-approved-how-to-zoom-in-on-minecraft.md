@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Zoom in on Minecraft\""
-date: 2024-05-26T17:05:55.464Z
-updated: 2024-05-27T17:05:55.464Z
+date: 2024-06-19T17:06:30.413Z
+updated: 2024-06-20T17:06:30.413Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Zoom in on Minecraft\""
 excerpt: "\"This Article Describes 2024 Approved: How to Zoom in on Minecraft\""
 keywords: "\"Zoom MiniGloM,Close-Up MCView,Enhance Minecraft Visibility,Adjust MC Scope,Increase Minecraft Detail,Tighten Minecraft Scene,Sharpen Minecraft Look\""
-thumbnail: https://www.lifewire.com/thmb/XAvL4eRfgpDx8YVxn2ewPZ27roY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-02-16at10.57.40AM-800b0250dce34954be14a81444e6015b.png
+thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c3295829397bcf7ff50f7e4bad5d7.png
 ---
 
 ## How to Zoom in on Minecraft

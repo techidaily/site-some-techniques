@@ -1,7 +1,7 @@
 ---
 title: "\"Innovative Color Grading  Integrating FREE LUT Resources for 2024\""
-date: 2024-05-26T18:20:34.933Z
-updated: 2024-05-27T18:20:34.933Z
+date: 2024-06-19T17:06:29.781Z
+updated: 2024-06-20T17:06:29.781Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Innovative Color Grading: Integrating FREE LUT Resources for 2024\""
 excerpt: "\"This Article Describes Innovative Color Grading: Integrating FREE LUT Resources for 2024\""
 keywords: "Free LUT Guide,Color Grading Tools,Innovative LUT Tech,LUT Integration Methods,LUT Creative Editing,FREE Color Enhancement,Advanced Grading Resources"
-thumbnail: https://www.lifewire.com/thmb/2Nx-EdeC7xRrRbSsAaq7lIuWtrw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/What-Is-Internet-Trolling-3485891-788ddb5e8e244259a8619c7cc2ebd600.png
+thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc531569d56d79c1b10e2acedb4321.png
 ---
 
 ## Innovative Color Grading: Integrating FREE LUT Resources
@@ -64,7 +64,7 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
-### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
+### 1\. Frost Zombie (Technical Showcase)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 

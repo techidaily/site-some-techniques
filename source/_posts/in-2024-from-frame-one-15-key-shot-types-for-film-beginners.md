@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Frame One  15 Key Shot Types for Film Beginners\""
-date: 2024-05-26T17:59:40.642Z
-updated: 2024-05-27T17:59:40.642Z
+date: 2024-06-19T17:06:40.972Z
+updated: 2024-06-20T17:06:40.972Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, From Frame One: 15 Key Shot Types for Film Beginners\""
 excerpt: "\"This Article Describes In 2024, From Frame One: 15 Key Shot Types for Film Beginners\""
 keywords: "Film Beginner Shots,Basic Shot Types Film,Intro to Filming Shots,Learning Film Shots,Shots for Novice Films,Essential Film Shots Intro,Fundamentals of Film Shots"
-thumbnail: https://www.lifewire.com/thmb/5q5VAPO1_mABa8lvNdiyg5-xmIs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg
+thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c604ae901531790591bfbc5dab.jpg
 ---
 
 ## From Frame One: 15 Key Shot Types for Film Beginners

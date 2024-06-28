@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring the Power of Focused Image Blurring"
-date: 2024-05-26T18:43:31.021Z
-updated: 2024-05-27T18:43:31.021Z
+date: 2024-06-19T17:06:30.172Z
+updated: 2024-06-20T17:06:30.172Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Exploring the Power of Focused Image Blurring"
 excerpt: "This Article Describes In 2024, Exploring the Power of Focused Image Blurring"
 keywords: "ImageBlurFocus,FocusBlurPower,BlurSharpShift,ClearDefineBlur,SharpenImageSmooth,ImagePrecisionLess,ContrastBlurEffect"
-thumbnail: https://www.lifewire.com/thmb/VvuHnDpS4EJ9t4f5Kuwv3T94pw0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-watch-the-alien-movies-in-order-612898751c874dffb6c6f3990444f8fe.jpg
+thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3469f152eba0254ae0b7e1bc.jpg
 ---
 
 ## Exploring the Power of Focused Image Blurring

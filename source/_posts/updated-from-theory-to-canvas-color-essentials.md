@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Theory to Canvas  Color Essentials\""
-date: 2024-05-26T18:12:34.033Z
-updated: 2024-05-27T18:12:34.033Z
+date: 2024-06-19T17:06:30.711Z
+updated: 2024-06-20T17:06:30.711Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] From Theory to Canvas: Color Essentials\""
 excerpt: "\"This Article Describes [Updated] From Theory to Canvas: Color Essentials\""
 keywords: "Colour Basics Art,Artistic Color Fundamentals,Canvas Color Principles,Essential Paint Colors,Color Theory Applied,Foundations of Color Art,Practical Color Strategies"
-thumbnail: https://www.lifewire.com/thmb/ZMruKpVw6zACdr1FRoY3AjKsdfU=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59980553349e15164e2adbb30.jpg
 ---
 
 ## From Theory to Canvas: Color Essentials

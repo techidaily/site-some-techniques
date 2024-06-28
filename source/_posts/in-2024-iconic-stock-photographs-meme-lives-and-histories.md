@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Iconic Stock Photographs  Meme Lives and Histories\""
-date: 2024-05-26T16:45:16.249Z
-updated: 2024-05-27T16:45:16.249Z
+date: 2024-06-19T17:06:42.063Z
+updated: 2024-06-20T17:06:42.063Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Iconic Stock Photographs: Meme Lives and Histories\""
 excerpt: "\"This Article Describes In 2024, Iconic Stock Photographs: Meme Lives and Histories\""
 keywords: "Memes Stock Photos,Iconic Stock Memes,Historical Meme Images,Memorable Stock Memes,Iconic Meme Photographs,Stock Shots with Memes,Histories in Stock Memes"
-thumbnail: https://www.lifewire.com/thmb/-vafUpSgeycKmsSh-eI5NbQWVpU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-e515218d114c4c8684edc781c0b8a6e9.png
+thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573825bcc3d502f312c1d75f0b.png
 ---
 
 ## Iconic Stock Photographs: Meme Lives and Histories

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expedited Photographic Viewing in Windows 10"
-date: 2024-05-26T18:36:54.908Z
-updated: 2024-05-27T18:36:54.908Z
+date: 2024-06-19T17:06:41.095Z
+updated: 2024-06-20T17:06:41.095Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Expedited Photographic Viewing in Windows 10"
 excerpt: "This Article Describes [Updated] Expedited Photographic Viewing in Windows 10"
 keywords: "W10 PhotoView Speed,Fast Windows Photo,Expedit View Window,Quick Windows Photos,Instant Photo Win,Accelerated PhotoWin,Rapid Windows Photo"
-thumbnail: https://www.lifewire.com/thmb/M4Q2meAJjRut6RxJ2zRK2nCzWRk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/twitter-5b58d4f546e0fb0078cc1f23.jpg
+thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c5fe49411fd5c4ce5c94643b.jpg
 ---
 
 ## Expedited Photographic Viewing in Windows 10

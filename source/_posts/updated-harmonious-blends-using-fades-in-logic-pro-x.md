@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Harmonious Blends  Using Fades in Logic Pro X\""
-date: 2024-05-26T19:00:30.491Z
-updated: 2024-05-27T19:00:30.491Z
+date: 2024-06-19T17:06:42.307Z
+updated: 2024-06-20T17:06:42.307Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Harmonious Blends: Using Fades in Logic Pro X\""
 excerpt: "\"This Article Describes [Updated] Harmonious Blends: Using Fades in Logic Pro X\""
 keywords: "Logic Pro X Fade Techniques,Harmonious Audio Mixing,Creative Logic Fading,Music Production Blends,Advanced Sound Transitions,Logic Pro X Editing Tips,Professional Audio Syncing"
-thumbnail: https://www.lifewire.com/thmb/zS8rM_hJABi8RgxM19O2Zw9Bt7E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Roblox_MeepCity-5978fbc0054ad90010302587.jpg
+thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac6bf71f33265c2968e32a513.jpg
 ---
 
 ## Harmonious Blends: Using Fades in Logic Pro X

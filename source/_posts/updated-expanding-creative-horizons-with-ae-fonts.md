@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expanding Creative Horizons with AE Fonts"
-date: 2024-05-26T17:22:21.625Z
-updated: 2024-05-27T17:22:21.625Z
+date: 2024-06-19T17:06:41.968Z
+updated: 2024-06-20T17:06:41.968Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Expanding Creative Horizons with AE Fonts"
 excerpt: "This Article Describes [Updated] Expanding Creative Horizons with AE Fonts"
 keywords: "Creativity Fonts Expansion,AE Fonts Innovations,AE Typeface Evolution,Artistic Typography Growth,Creative Design Typography,AE Fonts Development,Horizons in Typography"
-thumbnail: https://www.lifewire.com/thmb/BWYABouSAKXfjY1r0C4zjwI_cVI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/john-schnobrich-yFbyvpEGHFQ-unsplash-932cb35776654b588521bd997297760c.jpg
+thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8834da223e912daed0885bd1.jpg
 ---
 
 ## Expanding Creative Horizons with AE Fonts

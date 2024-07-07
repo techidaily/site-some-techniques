@@ -1,0 +1,727 @@
+---
+title: "\"2024 Approved  FFmpeg's Capabilities for Unaltered Audio Extraction\""
+date: 2024-05-26T16:57:54.783Z
+updated: 2024-05-27T16:57:54.783Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes 2024 Approved: FFmpeg's Capabilities for Unaltered Audio Extraction\""
+excerpt: "\"This Article Describes 2024 Approved: FFmpeg's Capabilities for Unaltered Audio Extraction\""
+keywords: "FFmpeg Audio Extraction,Unaltered Sound Retrieval,Audio Extraction Tool,FFmpeg Raw Audio,Pure Audio Recovery,FFmpeg Extract Audio,Untouched Audio Extraction"
+thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+---
+
+## FFmpeg's Capabilities for Unaltered Audio Extraction
+
+Are you looking for software that can extract audio files from the videos? If yes, then you're in the right place.
+
+We'll explain one of the best audio extracting software; FFmpeg. Extracting audios has become a need these days.
+
+It could be challenging for the users to choose reliable software. You can save time by using one of the best software; FFmpeg.
+
+Now you’ll be thinking about how to use FFmpeg to extract audio. We’re here to help you with that. This article will also walk you through the complete guide on extracting audio from video files.
+
+Does it sound interesting? Let’s have a look at it.
+
+1. [Features](#part1-1)
+2. [Supported OS](#part1-2)
+3. [Best for](#part1-3)
+4. [Our verdict](#part1-4)
+5. [Does FFmpeg reduce audio quality](#part1-5)
+
+* [How to Use FFmpeg Extract the Audio without Re-encoding](#part2)
+* [The Best FFmpeg Alternative to Extract Audio from Video](#part3)
+* [Hot FAQs on FFmpeg Extracting Audio](#part4)
+
+## Overview: What is FFmpeg, and is it Good Enough?
+
+[FFmpeg](https://ffmpeg.org/) is a command-based video and audio converter and a free, open-source tool. You can command lines to extract an audio track from mp4\. Apart from that, FFmpeg can also record, convert, and combine video and audio files.
+
+It supports almost all uncertain and old media file formats existing. It also contains libavcodec, libavutil, libavformat, libavfilter and more.
+
+FFmpeg is widely used for format [transcoding](https://en.wikipedia.org/wiki/Transcoding), basic editing, video scaling, video [post-production](https://en.wikipedia.org/wiki/Post-production) effects, and standards compliance.
+
+### Features
+
+FFmpeg offers the following segments for its users. It provides excellent features and beneficial functions. Some of them are as follows.
+
+* It allows you to convert any media files.
+* It has accelerated technology for fast-speed conversion.
+* It has easy customization of size and sample rate.
+* It provides you with a massive list of codecs.
+* FFmpeg has broad platform compatibility.
+* It allows basic editing skills such as crop, trim, merge and cut your media files.
+* It has numerous commands, and supports a wide variety of codecs.
+
+### Supported OS
+
+It supports various systems, including Windows, macOS, and Linux.
+
+| Value for money | ★★★★☆ |
+| --------------- | ----- |
+| Support         | ★★★★★ |
+| Effectiveness   | ★★★★★ |
+
+### Best for
+
+FFmpeg is excellent software that is leading for professional media enthusiasts. It's free software with multiple video codecs. Many companies use FFmpeg because it's an open-source program; anyone can modify it.
+
+It's perfect for scaling to different systems with varying hardware specifications, such as Android devices that come in all shapes, specifications, and sizes. It's an excellent tool for quickly changing an AV file's format or quality, extracting audio, and creating GIFs.
+
+### Our verdict
+
+FFmpeg is considered a golden standard for media conversion, processing, and streaming. It's also a console-based program, but its primary operations are easy. If you're tired of using the usual underpowered adware-packed freeware, then you should use FFmpeg.
+
+In professionalism, FFmpeg is a great media software. That is made possible by its multiple incredible features. It holds unique functions that are suitable for your grind. Overall, fantastic affectivity is sure in FFmpeg.
+
+| **Overall rating: 9.5**  |
+| ------------------------ |
+| Features: **9.4**        |
+| Effectively: **9.6**     |
+| Professionalism: **9.5** |
+
+ Pros
+
+* The FFmpeg is straightforward to use. Also, it is an all-in-one software.
+* You can also use it for preparing an adaptive VOD.
+* FFmpeg is suitable for live streaming solutions.
+* Professional users can use this.
+* You can compress huge files.
+
+ Cons
+
+* Sometimes it’s confusing.
+* It has a technical barrier.
+* It also has a CLI, serving as a disadvantage for beginners.
+* In windows, the compiled library is complicated.
+
+### Does FFmpeg reduce audio quality?
+
+The quality of the audio is decreased by audio compression. But it also creates smaller audio files. You can use FFmpeg to compress the audio file by reducing the file's bitrate. You can use various bit rates depending on your goal.
+
+## How to Use FFmpeg Extract the Audio without Re-encoding
+
+In our digital life, we use software and programs without realizing that we are using a different program employed by our main program.
+
+FFmpeg is a perfect example of this description. This software powers many widespread media-based applications, such as iTunes, Youtube, and the famous video player VLC.
+
+FFmpeg has many valuable features; one is extracting audio from the video file. We all have been in such a situation when we have some video file, but we only need its audio. That's what we will be discussing in the following paragraphs.
+
+You’ll need to follow the guide to extract the audio without Re-encoding
+
+### Step1 Install FFmpeg
+
+To install FFmpeg, go to the [website](https://ffmpeg.org/download.html) and type the following update command to download package information from all configured sources:
+
+`sudo apt update`
+
+Ensure that the first command is implemented correctly. Type the below-given command and press **Enter** to install the project:
+
+`Sudo apt install FFmpeg`
+
+After implementing the preceding command, FFmpeg will be installed onto your device, and add the FFmpeg binary to the path variable. So now you can use the FFmpeg command in the command line.
+
+### Step2 Start FFmpeg
+
+First, you need to download a short clip. For instance, download the MPEG-4 media file at the link given below.
+
+<https://ia802304.us.archive.org/28/items/cn%5Fepisodes/%20k.mp4>
+
+**Output**
+
+``` `` ```
+
+Resolving ia802304.us.archive.org (ia802304.us.archive.org) ... 207.241.228.44
+
+``` `` ```
+
+Connecting to ia802304.us.archive.org (ia802304.us.archive.org) |207.241.228.44|:443... connected.
+
+``` `` ```
+
+HTTP request sent, awaiting response... 200 OK
+
+``` `` ```
+
+Length: 4346697 (4.1M) \[video/mp4\]
+
+``` `` ```
+
+Saving to: ' k.mp4'
+
+Video will be saved on your device. Now rename the file name with mp4\. Then check the below command:
+
+`mv ' k.mp4' video.mp4`
+
+`ls`
+
+**Output**
+
+`video.mp4`
+
+### Step3 Check Media Files Information
+
+Check and familiarize yourselves with basic metadata about video files. You can have this by using the -I command line argument without specifying an output.
+
+`FFmpeg -i video.mp4`
+
+**Output**
+
+`Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'video.mp4':`
+
+`Metadata:`
+
+`major_brand : isom`
+
+`minor_version: 1`
+
+`compatible_brands: isomavc1`
+
+`creation_time : 2012-09-04T13:47:56.000000Z`
+
+`Duration: 00:01:54.99, start: 0.000000, bitrate: 302 kb/s`
+
+`Stream #0:0(und): Video: (avc1 / 0x31637661), yuv420p, 720x576 [SAR 1:1 DAR 5:4], 269 kb/s, 25 fps, 25 tbr, 100 tbn, 50 TBC (default)`
+
+`Metadata:`
+
+`creation_time : 2012-09-04T13:47:56.000000Z`
+
+`vendor_id : [0][0][0][0]`
+
+`Stream #0:1(und): Audio: mp4a / 0x6134706D, 48000 Hz, stereo, flip, 30 kb/s (default)`
+
+`Metadata:`
+
+`creation_time : 2012-09-04T13:47:57.000000Z`
+
+`handler_name: GPAC ISO Audio Handler`
+
+`vendor_id : [0][0][0][0]`
+
+### Step4 Extracting Audio from Video
+
+There are two beneficial ways so we can extract audio from an input video file. You can achieve this by removing raw audio (without re-encoding it), or by re-encoding it.
+
+A file not preceded by the -i command line switch is treated as an output file in FFmpeg commands. This software uses as many inputs and outputs as you provide. You can also specify the output file name using the –y command.
+
+### Step5 Extracting an Audio Out of a Video File Without Re-encoding
+
+`ffmpeg -i video.mp4 -vn -acodec`
+
+You can understand this part as removing only the video and leaving the audio. You can use the -vn command line flag to remove the video, then copy the audio file from the source to the destined folder without re-encoding it using the -acodec copy command line. Let's have a look at the below-mentioned command to understand.
+
+If you executed the command utility, you could notice that your extracted audio file is under the name **audio.acc**, as we specified in the proceeding command ls
+
+**Output**
+
+`video.mp4`
+
+It also allows you to use the -map flag to select all audio streams or a specific part of the audio.
+
+## The Best FFmpeg Alternative to Extract Audio from Video
+
+FFmpeg is the leading multimedia framework that allows to decode, encode, transcode, mux, demux, stream, filter, and play almost anything humans have created. FFmpeg also supports the most uncertain ancient formats up to the cutting edge. It is a very popular Video Converter in the audio & music category.
+
+Sometimes it becomes difficult for users to extract audio from video files due to errors occurring while using FFmpeg. There are multiple alternatives to FFmpeg for various platforms, including Windows, Mac, Linux, BSD, and Android.
+
+The best alternative is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is both accessible and Open source. FFmpeg alternatives are mostly Video Converters but may also be Audio Converters or YouTube Downloaders. If you want a narrower list of alternatives or looking for specific functionality of FFmpeg, filter by these
+
+### [Wondershare Filmora:](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+It is a video editing software that allows you to create incredible videos using various editing tools. You can use the intuitive designs of filmora. It helps you to become a great video editor.
+
+You can use multiple editing functions and also export videos up to 4K resolution. Its color tuning feature allows you to adjust its clips' white balance and dynamic range. You can also edit the text's color, font, size, and animation. Following are the features of the Wondershare filmora.
+
+![wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-3.jpg)
+
+Now, you’re aware of the details and features of Wondershare Filmora. To extract the audio from the video file, you need to follow the steps mentioned below.
+
+### Step1 Download Filmora
+
+Firstly, visit the [website](https://tools.techidaily.com/wondershare/filmora/download/) of filmora. Click on download. After downloading, install it.
+
+### Step2 Import video files
+
+Run Wondershare filmora. Click the "Import" button to locate and add your desired video. You can also drag and drop the idea into the program directly. The video will be shown in the library as shown in the picture:
+
+![import video files](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-1.jpg)
+
+### Step3 Start extracting audio from video
+
+After importing, drag the video from the media library to the video timeline. Then right-click on the clip and choose "Audio Detach" to extract the audio from the clip. After some time, audio and video will be displayed on different tracks.
+
+![start extracting audio from video](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-2.jpg)
+
+You can also remove the video file (if you don’t want it). For this, right-click on it and choose “Delete” to remove it from the video timeline.
+
+### Step4 Editing of extracted audio
+
+You need to click on the extracted file in the audio track. You'll see the audio editing panel.
+
+![editing of extracted audio](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-5.jpg)
+
+You can use the following effects.
+
+* Fade-in/Fade-out
+* Change the sound volume
+* Adjust pitch
+* Change voice
+* Etc.
+
+If you find some unwanted sounds in the extracted audio file and want to delete them, just put the cursor where you would like the deletion to start and press the "Split" button.
+
+### Step5 Save the edited audio file
+
+After editing the audio file, Click on the "Export" button. You'll see multiple formats, in the " Device " tab, such as MP3, MP4, WMV, AVI, etc., in the "Device" tab.
+
+You can adjust the encoder, Bit Rate, Sample Rate, or channel settings. After that, click on the "Setting'' button to start.
+
+![save the edited audio file](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-4.jpg)
+
+You can also share the edited content on YouTube directly.
+
+ Pros
+
+* It has a pleasing interface
+* It’s Inexpensive
+* It has lots of effects and overlays
+* Filmora has good title and text tools
+* It is fast rendering in test
+
+ Cons
+
+* It has not a touch-friendly interface
+* Sometimes laggy.
+* It has no DVD menu or chapter authoring.
+
+## Hot FAQs on FFmpeg Extracting Audio
+
+### 1\. What will FFmpeg command line syntax pull the audio from a video file and save it as an MP3?
+
+Follow the command mentioned below to extract the audio from the video file.
+
+`FFmpeg -i input-file.wav -vn -ar 44100 -ac 2 -b:a 192k output-file.mp3`
+
+* **\-i** point to the input video file.
+* **\-map 0:a** pick up the available audio stream.
+* **\-acodec copy** copies the picked audio streams (without re-encoding)
+
+You can extract the video using the –vn switch and save the audio as a 256kps MP3 file by –ab switch. Such as
+
+`FFmpeg –i video. Mp$ -vn –vn 256 audio. mp3`
+
+### 2\. How to extract a single soundtrack from a CD?
+
+You can extract single audio from a CD through FFmpeg using the following command.
+
+`ffmpeg -f libcdio -ss 0 -i /dev/sr0 dump.flac`
+
+### 3\. Can FFmpeg convert WAV to MP3?
+
+FFmpeg can convert the WAV file to MP3 by following the command line below.
+
+`FFmpeg -i input.wav -ac 1 -ab 64000 -ar 22050 output.mp3`
+
+## Conclusion
+
+In this article, we've seen you through the different steps of extracting audio from video files. We also explained how to use FFmpeg audio encoders to get another container format with better or lower quality. These commands will come in handy for you for sure.
+
+Knowing every detail of FFmpeg is a remarkable experience. We all are aware of FFmpeg as media software. It's very unique because of the different commands. Although, some users are still having a hard time using this. Therefore, an alternative like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is essential.
+
+Overview: What is FFmpeg, and is it Good Enough?
+
+[FFmpeg](https://ffmpeg.org/) is a command-based video and audio converter and a free, open-source tool. You can command lines to extract an audio track from mp4\. Apart from that, FFmpeg can also record, convert, and combine video and audio files.
+
+It supports almost all uncertain and old media file formats existing. It also contains libavcodec, libavutil, libavformat, libavfilter and more.
+
+FFmpeg is widely used for format [transcoding](https://en.wikipedia.org/wiki/Transcoding), basic editing, video scaling, video [post-production](https://en.wikipedia.org/wiki/Post-production) effects, and standards compliance.
+
+### Features
+
+FFmpeg offers the following segments for its users. It provides excellent features and beneficial functions. Some of them are as follows.
+
+* It allows you to convert any media files.
+* It has accelerated technology for fast-speed conversion.
+* It has easy customization of size and sample rate.
+* It provides you with a massive list of codecs.
+* FFmpeg has broad platform compatibility.
+* It allows basic editing skills such as crop, trim, merge and cut your media files.
+* It has numerous commands, and supports a wide variety of codecs.
+
+### Supported OS
+
+It supports various systems, including Windows, macOS, and Linux.
+
+| Value for money | ★★★★☆ |
+| --------------- | ----- |
+| Support         | ★★★★★ |
+| Effectiveness   | ★★★★★ |
+
+### Best for
+
+FFmpeg is excellent software that is leading for professional media enthusiasts. It's free software with multiple video codecs. Many companies use FFmpeg because it's an open-source program; anyone can modify it.
+
+It's perfect for scaling to different systems with varying hardware specifications, such as Android devices that come in all shapes, specifications, and sizes. It's an excellent tool for quickly changing an AV file's format or quality, extracting audio, and creating GIFs.
+
+### Our verdict
+
+FFmpeg is considered a golden standard for media conversion, processing, and streaming. It's also a console-based program, but its primary operations are easy. If you're tired of using the usual underpowered adware-packed freeware, then you should use FFmpeg.
+
+In professionalism, FFmpeg is a great media software. That is made possible by its multiple incredible features. It holds unique functions that are suitable for your grind. Overall, fantastic affectivity is sure in FFmpeg.
+
+| **Overall rating: 9.5**  |
+| ------------------------ |
+| Features: **9.4**        |
+| Effectively: **9.6**     |
+| Professionalism: **9.5** |
+
+ Pros
+
+* The FFmpeg is straightforward to use. Also, it is an all-in-one software.
+* You can also use it for preparing an adaptive VOD.
+* FFmpeg is suitable for live streaming solutions.
+* Professional users can use this.
+* You can compress huge files.
+
+ Cons
+
+* Sometimes it’s confusing.
+* It has a technical barrier.
+* It also has a CLI, serving as a disadvantage for beginners.
+* In windows, the compiled library is complicated.
+
+### Does FFmpeg reduce audio quality?
+
+The quality of the audio is decreased by audio compression. But it also creates smaller audio files. You can use FFmpeg to compress the audio file by reducing the file's bitrate. You can use various bit rates depending on your goal.
+
+## How to Use FFmpeg Extract the Audio without Re-encoding
+
+In our digital life, we use software and programs without realizing that we are using a different program employed by our main program.
+
+FFmpeg is a perfect example of this description. This software powers many widespread media-based applications, such as iTunes, Youtube, and the famous video player VLC.
+
+FFmpeg has many valuable features; one is extracting audio from the video file. We all have been in such a situation when we have some video file, but we only need its audio. That's what we will be discussing in the following paragraphs.
+
+You’ll need to follow the guide to extract the audio without Re-encoding
+
+### Step1 Install FFmpeg
+
+To install FFmpeg, go to the [website](https://ffmpeg.org/download.html) and type the following update command to download package information from all configured sources:
+
+`sudo apt update`
+
+Ensure that the first command is implemented correctly. Type the below-given command and press **Enter** to install the project:
+
+`Sudo apt install FFmpeg`
+
+After implementing the preceding command, FFmpeg will be installed onto your device, and add the FFmpeg binary to the path variable. So now you can use the FFmpeg command in the command line.
+
+### Step2 Start FFmpeg
+
+First, you need to download a short clip. For instance, download the MPEG-4 media file at the link given below.
+
+<https://ia802304.us.archive.org/28/items/cn%5Fepisodes/%20k.mp4>
+
+**Output**
+
+``` `` ```
+
+Resolving ia802304.us.archive.org (ia802304.us.archive.org) ... 207.241.228.44
+
+``` `` ```
+
+Connecting to ia802304.us.archive.org (ia802304.us.archive.org) |207.241.228.44|:443... connected.
+
+``` `` ```
+
+HTTP request sent, awaiting response... 200 OK
+
+``` `` ```
+
+Length: 4346697 (4.1M) \[video/mp4\]
+
+``` `` ```
+
+Saving to: ' k.mp4'
+
+Video will be saved on your device. Now rename the file name with mp4\. Then check the below command:
+
+`mv ' k.mp4' video.mp4`
+
+`ls`
+
+**Output**
+
+`video.mp4`
+
+### Step3 Check Media Files Information
+
+Check and familiarize yourselves with basic metadata about video files. You can have this by using the -I command line argument without specifying an output.
+
+`FFmpeg -i video.mp4`
+
+**Output**
+
+`Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'video.mp4':`
+
+`Metadata:`
+
+`major_brand : isom`
+
+`minor_version: 1`
+
+`compatible_brands: isomavc1`
+
+`creation_time : 2012-09-04T13:47:56.000000Z`
+
+`Duration: 00:01:54.99, start: 0.000000, bitrate: 302 kb/s`
+
+`Stream #0:0(und): Video: (avc1 / 0x31637661), yuv420p, 720x576 [SAR 1:1 DAR 5:4], 269 kb/s, 25 fps, 25 tbr, 100 tbn, 50 TBC (default)`
+
+`Metadata:`
+
+`creation_time : 2012-09-04T13:47:56.000000Z`
+
+`vendor_id : [0][0][0][0]`
+
+`Stream #0:1(und): Audio: mp4a / 0x6134706D, 48000 Hz, stereo, flip, 30 kb/s (default)`
+
+`Metadata:`
+
+`creation_time : 2012-09-04T13:47:57.000000Z`
+
+`handler_name: GPAC ISO Audio Handler`
+
+`vendor_id : [0][0][0][0]`
+
+### Step4 Extracting Audio from Video
+
+There are two beneficial ways so we can extract audio from an input video file. You can achieve this by removing raw audio (without re-encoding it), or by re-encoding it.
+
+A file not preceded by the -i command line switch is treated as an output file in FFmpeg commands. This software uses as many inputs and outputs as you provide. You can also specify the output file name using the –y command.
+
+### Step5 Extracting an Audio Out of a Video File Without Re-encoding
+
+`ffmpeg -i video.mp4 -vn -acodec`
+
+You can understand this part as removing only the video and leaving the audio. You can use the -vn command line flag to remove the video, then copy the audio file from the source to the destined folder without re-encoding it using the -acodec copy command line. Let's have a look at the below-mentioned command to understand.
+
+If you executed the command utility, you could notice that your extracted audio file is under the name **audio.acc**, as we specified in the proceeding command ls
+
+**Output**
+
+`video.mp4`
+
+It also allows you to use the -map flag to select all audio streams or a specific part of the audio.
+
+## The Best FFmpeg Alternative to Extract Audio from Video
+
+FFmpeg is the leading multimedia framework that allows to decode, encode, transcode, mux, demux, stream, filter, and play almost anything humans have created. FFmpeg also supports the most uncertain ancient formats up to the cutting edge. It is a very popular Video Converter in the audio & music category.
+
+Sometimes it becomes difficult for users to extract audio from video files due to errors occurring while using FFmpeg. There are multiple alternatives to FFmpeg for various platforms, including Windows, Mac, Linux, BSD, and Android.
+
+The best alternative is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is both accessible and Open source. FFmpeg alternatives are mostly Video Converters but may also be Audio Converters or YouTube Downloaders. If you want a narrower list of alternatives or looking for specific functionality of FFmpeg, filter by these
+
+### [Wondershare Filmora:](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+It is a video editing software that allows you to create incredible videos using various editing tools. You can use the intuitive designs of filmora. It helps you to become a great video editor.
+
+You can use multiple editing functions and also export videos up to 4K resolution. Its color tuning feature allows you to adjust its clips' white balance and dynamic range. You can also edit the text's color, font, size, and animation. Following are the features of the Wondershare filmora.
+
+![wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-3.jpg)
+
+Now, you’re aware of the details and features of Wondershare Filmora. To extract the audio from the video file, you need to follow the steps mentioned below.
+
+### Step1 Download Filmora
+
+Firstly, visit the [website](https://tools.techidaily.com/wondershare/filmora/download/) of filmora. Click on download. After downloading, install it.
+
+### Step2 Import video files
+
+Run Wondershare filmora. Click the "Import" button to locate and add your desired video. You can also drag and drop the idea into the program directly. The video will be shown in the library as shown in the picture:
+
+![import video files](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-1.jpg)
+
+### Step3 Start extracting audio from video
+
+After importing, drag the video from the media library to the video timeline. Then right-click on the clip and choose "Audio Detach" to extract the audio from the clip. After some time, audio and video will be displayed on different tracks.
+
+![start extracting audio from video](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-2.jpg)
+
+You can also remove the video file (if you don’t want it). For this, right-click on it and choose “Delete” to remove it from the video timeline.
+
+### Step4 Editing of extracted audio
+
+You need to click on the extracted file in the audio track. You'll see the audio editing panel.
+
+![editing of extracted audio](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-5.jpg)
+
+You can use the following effects.
+
+* Fade-in/Fade-out
+* Change the sound volume
+* Adjust pitch
+* Change voice
+* Etc.
+
+If you find some unwanted sounds in the extracted audio file and want to delete them, just put the cursor where you would like the deletion to start and press the "Split" button.
+
+### Step5 Save the edited audio file
+
+After editing the audio file, Click on the "Export" button. You'll see multiple formats, in the " Device " tab, such as MP3, MP4, WMV, AVI, etc., in the "Device" tab.
+
+You can adjust the encoder, Bit Rate, Sample Rate, or channel settings. After that, click on the "Setting'' button to start.
+
+![save the edited audio file](https://images.wondershare.com/filmora/article-images/2022/07/ffmpeg-audio-review-4.jpg)
+
+You can also share the edited content on YouTube directly.
+
+ Pros
+
+* It has a pleasing interface
+* It’s Inexpensive
+* It has lots of effects and overlays
+* Filmora has good title and text tools
+* It is fast rendering in test
+
+ Cons
+
+* It has not a touch-friendly interface
+* Sometimes laggy.
+* It has no DVD menu or chapter authoring.
+
+## Hot FAQs on FFmpeg Extracting Audio
+
+### 1\. What will FFmpeg command line syntax pull the audio from a video file and save it as an MP3?
+
+Follow the command mentioned below to extract the audio from the video file.
+
+`FFmpeg -i input-file.wav -vn -ar 44100 -ac 2 -b:a 192k output-file.mp3`
+
+* **\-i** point to the input video file.
+* **\-map 0:a** pick up the available audio stream.
+* **\-acodec copy** copies the picked audio streams (without re-encoding)
+
+You can extract the video using the –vn switch and save the audio as a 256kps MP3 file by –ab switch. Such as
+
+`FFmpeg –i video. Mp$ -vn –vn 256 audio. mp3`
+
+### 2\. How to extract a single soundtrack from a CD?
+
+You can extract single audio from a CD through FFmpeg using the following command.
+
+`ffmpeg -f libcdio -ss 0 -i /dev/sr0 dump.flac`
+
+### 3\. Can FFmpeg convert WAV to MP3?
+
+FFmpeg can convert the WAV file to MP3 by following the command line below.
+
+`FFmpeg -i input.wav -ac 1 -ab 64000 -ar 22050 output.mp3`
+
+## Conclusion
+
+In this article, we've seen you through the different steps of extracting audio from video files. We also explained how to use FFmpeg audio encoders to get another container format with better or lower quality. These commands will come in handy for you for sure.
+
+Knowing every detail of FFmpeg is a remarkable experience. We all are aware of FFmpeg as media software. It's very unique because of the different commands. Although, some users are still having a hard time using this. Therefore, an alternative like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is essential.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-impress-and-captivate-in-solo-podcasting/"><u>[New] Innovate, Impress, and Captivate in Solo Podcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-communication-microsoft-azure-speech-to-text-explained/"><u>[New] Innovating Communication  Microsoft Azure Speech to Text Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-generate-custom-online-comedic-artwork/"><u>[Updated] Generate Custom Online Comedic Artwork</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-paper-to-cloud-preserving-old-family-photographs-for-2024/"><u>From Paper to Cloud  Preserving Old Family Photographs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-professional-slideshow-resources-for-entrepreneurs/"><u>In 2024, Free Professional Slideshow Resources for Entrepreneurs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-food-videography-how-to-shoot-food-videos/"><u>[Updated] Food Videography  How to Shoot Food Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-famed-stop-motion-movies-15-of-all-time/"><u>[New] Famed Stop-Motion Movies #15 of All Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-and-capture-mountains-with-best-cameras/"><u>2024 Approved  Explore and Capture Mountains with Best Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-dialogue-architect-forum/"><u>In 2024, Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1716769555249-new-how-many-seconds-is-a-20mb-video/"><u>[New] How Many Seconds Is a 20Mb Video?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-expense-of-youtube-channel-growth-for-2024/"><u>Exploring the Expense of YouTube Channel Growth for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-virtual-engagement-harnessing-the-power-of-zoom-in-gmail/"><u>[New] Innovative Virtual Engagement  Harnessing the Power of Zoom in Gmail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-independent-analysis-unveiling-the-mysteries-of-3dr/"><u>In 2024, Independent Analysis  Unveiling the Mysteries of '3DR'</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-lg-bp350-monitors-unique-features/"><u>[Updated] Exploring the LG BP350 Monitor's Unique Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-top-tier-ios-video-playback-tools-top-10/"><u>[New] Explore Top-Tier iOS Video Playback Tools (Top 10)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-drone-flight-q500-typhoon-review/"><u>[Updated] Innovative Drone Flight - Q500 Typhoon Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-htc-vive-comfort-zone-8-strategies-for-clear-skin/"><u>2024 Approved  HTC Vive Comfort Zone  8 Strategies for Clear Skin</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>In 2024, Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-yt-music-streams-into-videos-for-2024/"><u>Incorporating YT Music Streams Into Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-the-best-online-subtitle-converters-for-no-cost-for-2024/"><u>Find the Best Online Subtitle Converters for No Cost for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-progressive-audio-diminishment-via-lumafusion/"><u>2024 Approved  Guide to Progressive Audio Diminishment via Lumafusion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-the-actual-fix-for-exporting-srt-from-premiere-not-working/"><u>In 2024, The Actual Fix for Exporting SRT From Premiere Not Working</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>[Updated] From Viral Beats to Ringtones  Transforming TikTok Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-showdown-sj6-versus-yi-4k-innovator-for-2024/"><u>High Definition Showdown  SJ6 Versus Yi 4K Innovator for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-numbers-tips-for-tiktok-video-enhancements/"><u>2024 Approved  Innovating with Numbers  Tips for TikTok Video Enhancements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grasping-chroma-key-magic-a-complete-beginners-guide-to-green-screens/"><u>[Updated] Grasping Chroma Key Magic  A Complete Beginner's Guide to Green Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ordinary-to-outstanding-mastering-instagram-unboxing-creation/"><u>2024 Approved  From Ordinary to Outstanding  Mastering Instagram Unboxing Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-finest-top-8-android-mp3-downloader-apps/"><u>In 2024, Explore the Finest  Top 8 Android MP3 Downloader Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22-for-2024/"><u>From Blurry to Crystal Clear  The Ultimate Guide to VCE 2.2 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-environments-for-digital-streaming/"><u>[New] Ideal Environments for Digital Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6/"><u>[New] From Recording to Reality  A Detailed Look at the SJ-CAM S6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-expert-a-complete-guide-to-srt-creation/"><u>2024 Approved  From Novice to Expert  A Complete Guide to SRT Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guiding-through-graphic-image-alteration/"><u>[New] Guiding Through Graphic Image Alteration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-industrys-choice-our-miniature-dvd-players-guide/"><u>[Updated] Industry's Choice  Our Miniature DVD Players Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques/"><u>2024 Approved  From Pure to Perfected  Enhancing Photo Dynamics with Illustrator Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovating-film-viewing-with-iphone-tricks/"><u>[Updated] Innovating Film Viewing with iPhone Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hearing-heroism-essential-online-picks-for-tts-files/"><u>In 2024, Hearing Heroism  Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-time-action-cam-purchases-decoded/"><u>In 2024, First-Time Action Cam Purchases Decoded</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-concept-to-completion-a-windows-10-video-editors-journey/"><u>In 2024, From Concept to Completion  A Windows 10 Video Editor’s Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-lightrooms-power-to-create-dynamic-hdr-photos/"><u>In 2024, Harness Lightroom's Power to Create Dynamic HDR Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-a-collage-on-iphone/"><u>[Updated] How to Make a Collage on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-flight-stability-best-gimbals-for-2024/"><u>Innovative Flight Stability  Best Gimbals for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-superior-screen-capture-for-ubuntu-users-for-2024/"><u>[New] Superior Screen Capture for Ubuntu Users for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-reviewers-circle-downloads-for-critique/"><u>Recording Reviewers Circle  Downloads for Critique</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-itop-screen-recorder-review-should-you-install-it/"><u>[Updated] ITop Screen Recorder Review  Should You Install It?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/masterful-moments-a-deep-dive-into-youtube-to-facebook-sharing/"><u>Masterful Moments  A Deep Dive Into YouTube-to-Facebook Sharing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-tips-and-tricks-for-designing-memorable-discord-pfps/"><u>2024 Approved  Tips and Tricks for Designing Memorable Discord PFPs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-exploring-instagrams-hidden-gems-accessing-no-cost-filters/"><u>[Updated] In 2024, Exploring Instagram's Hidden Gems  Accessing No-Cost Filters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-tivo-or-comcast-which-dvr-service-comes-out-on-top-in-2024/"><u>New TiVo or Comcast Which DVR Service Comes Out on Top, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-macpc-compatible-tiktok-uploads/"><u>[Updated] In 2024, Mastering MAC/PC Compatible TikTok Uploads</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-gaming-on-a-budget-top-10-free-game-download-sites-for-pc-and-android-for-2024/"><u>New Gaming on a Budget Top 10 Free Game Download Sites for PC and Android for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-creating-professional-level-xbox-screen-recordings/"><u>[Updated] Creating Professional-Level Xbox Screen Recordings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cross-platform-video-editing-35-top-rated-software-solutions/"><u>2024 Approved Cross-Platform Video Editing 35 Top-Rated Software Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/trending-platforms-clash-a-look-at-tiktok-and-snaps-features/"><u>Trending Platforms Clash  A Look at TikTok & Snap's Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-m6-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco M6 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-get-crisp-videos-for-free-top-online-video-quality-enhancement-tools/"><u>Updated In 2024, Get Crisp Videos for Free Top Online Video Quality Enhancement Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tips-of-playing-m4a-audio-files-on-android-devices/"><u>New 2024 Approved Tips of Playing M4A Audio Files on Android Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-growth-in-a-saturated-tiktok-market/"><u>[Updated] In 2024, Mastering the Art of Growth in a Saturated TikTok Market</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-transform-slide-show-into-video-format/"><u>[New] Transform Slide Show Into Video Format</u></a></li>
+</ul></div>
+

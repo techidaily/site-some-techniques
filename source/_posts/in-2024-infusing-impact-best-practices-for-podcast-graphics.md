@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Infusing Impact  Best Practices for Podcast Graphics\""
-date: 2024-05-26T18:47:30.511Z
-updated: 2024-05-27T18:47:30.511Z
+date: 2024-07-06T23:56:47.524Z
+updated: 2024-07-07T23:56:47.524Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Infusing Impact: Best Practices for Podcast Graphics\""
 excerpt: "\"This Article Describes In 2024, Infusing Impact: Best Practices for Podcast Graphics\""
 keywords: "Podcast Graphic Tips,Graphic Design in Podcasts,Effective Podcast Visuals,Podcast Branding Graphics,Impactful Podcast Images,Best Podcast Graphics Practices,Enhancing Podcast Aesthetics"
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Infusing Impact: Best Practices for Podcast Graphics

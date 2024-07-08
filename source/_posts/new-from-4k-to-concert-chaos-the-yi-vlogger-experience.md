@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From 4K to Concert Chaos  The Yi Vlogger Experience\""
-date: 2024-05-26T17:29:53.608Z
-updated: 2024-05-27T17:29:53.608Z
+date: 2024-07-06T23:56:51.413Z
+updated: 2024-07-07T23:56:51.413Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From 4K to Concert Chaos: The Yi Vlogger Experience\""
 excerpt: "\"This Article Describes [New] From 4K to Concert Chaos: The Yi Vlogger Experience\""
 keywords: "\"Yi Vlog 4K Streaming,Concert Live Vlogging,High-Res Music Videos,Vlog in Crowded Events,From K U To Fest Chaos,Digital Music Experience,Videography at Concerts\""
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## From 4K to Concert Chaos: The Yi Vlogger Experience

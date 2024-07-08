@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fast-Forward Features Unveiled  The Editor's Guidebook\""
-date: 2024-05-26T18:50:16.213Z
-updated: 2024-05-27T18:50:16.213Z
+date: 2024-07-06T23:56:57.185Z
+updated: 2024-07-07T23:56:57.185Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Fast-Forward Features Unveiled: The Editor's Guidebook\""
 excerpt: "\"This Article Describes [Updated] Fast-Forward Features Unveiled: The Editor's Guidebook\""
 keywords: "\"Fast-Forward Edits,Guidebook Tips,Editor's Insights,Quick Editing,Video Editing Guide,Feature Unveiling,Media Editors\""
-thumbnail: https://www.lifewire.com/thmb/z6jZiVGeAgf_gcYmmUMroOqg-f4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/where-to-sell-used-movies-1388973-942c9160b2094effb9c8adb5cb1d1b6d.png
+thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a1d0ceb2c3d06364d867bc68.png
 ---
 
 ## Fast-Forward Features Unveiled: The Editor's Guidebook
@@ -326,7 +326,7 @@ Step2 Move the Speed slider to the right or left to increase or decrease the pla
 
 Step3 Select the Play button in the Preview box or use the Spacebar to get a glimpse of the changes. To apply the modifications, hit OK in the lower right corner.
 
-### Method 2: [Speed Customization](https://www.youtube.com/watch?v=1hLf3tzc95w&t=77s)
+### Method 2: Speed Customization
 
 Using [Speed Ramping](https://www.youtube.com/watch?v=58kkvq8V40M), where the playback rate of a clip varies interactively, you may produce adjustable speed effects in addition to continuous speed variations in Uniform Speed. Multiple playback velocities can be adjusted for each segment of the video.
 
@@ -638,7 +638,7 @@ Step2 Move the Speed slider to the right or left to increase or decrease the pla
 
 Step3 Select the Play button in the Preview box or use the Spacebar to get a glimpse of the changes. To apply the modifications, hit OK in the lower right corner.
 
-### Method 2: [Speed Customization](https://www.youtube.com/watch?v=1hLf3tzc95w&t=77s)
+### Method 2: Speed Customization
 
 Using [Speed Ramping](https://www.youtube.com/watch?v=58kkvq8V40M), where the playback rate of a clip varies interactively, you may produce adjustable speed effects in addition to continuous speed variations in Uniform Speed. Multiple playback velocities can be adjusted for each segment of the video.
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How Automatic High Dynamic Range Enhances Image Quality"
-date: 2024-05-26T17:44:04.614Z
-updated: 2024-05-27T17:44:04.614Z
+date: 2024-07-06T23:56:46.762Z
+updated: 2024-07-07T23:56:46.762Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How Automatic High Dynamic Range Enhances Image Quality"
 excerpt: "This Article Describes [Updated] How Automatic High Dynamic Range Enhances Image Quality"
 keywords: "HDR Image Boosting,Auto HDR Imaging,Dynamic HDR Quality,Higher Dynamic Image,Automated HDR Uplift,Enhanced HDR Picture,Improved HDR Visuals"
-thumbnail: https://www.lifewire.com/thmb/aAfu0U3ot2I6BH2mrIgJWPDLpAE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamhallmarkchannel-fbbd67185b124b4d8187dd8d015ad7cc.jpg
+thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e891bb1e1f9fc06be1f08b00.jpg
 ---
 
 ## How Automatic High Dynamic Range Enhances Image Quality

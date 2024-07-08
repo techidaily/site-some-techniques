@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Gaming Gains Graphed  Income Insights on Finn\""
-date: 2024-05-26T17:17:40.482Z
-updated: 2024-05-27T17:17:40.482Z
+date: 2024-07-06T23:56:53.970Z
+updated: 2024-07-07T23:56:53.970Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Gaming Gains Graphed: Income Insights on Finn\""
 excerpt: "\"This Article Describes [Updated] Gaming Gains Graphed: Income Insights on Finn\""
 keywords: "Game Earnings Finland,FinTech Gamer Revenue,Profit Patterns in Gaming,Finnish Gaming Income Data,Graphed Gamer Earnings,Gaming Industry Earnings,Income Trends in Finnish Games"
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## Gaming Gains Graphed: Income Insights on Finn
@@ -32,7 +32,7 @@ Let’s first start with the basic identity and financial information of Felix A
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Name             | Felix Arvid Ulf                                                                                                                                                                                                      |
 | Last Name              | Kjellberg                                                                                                                                                                                                            |
-| Net Worth ( 2022 )     | $35-$55 Million                                                                                                                                                                                                      |
+| Net Worth (2022)     | $35-$55 Million                                                                                                                                                                                                      |
 | Monthly Income Salary  | $400000 +                                                                                                                                                                                                            |
 | Yearly Income          | $5 Million +                                                                                                                                                                                                         |
 | Birth Date             | 24th October, 1989                                                                                                                                                                                                   |
@@ -129,7 +129,7 @@ This is an interesting video of PewDiePie that features a collection of funny mo
 
 ![funny gaming montage](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-07.jpg)
 
-3\. [Jabba the Hutt ( PewDiePie song by Schmoyoho)](https://www.youtube.com/watch?v=lxw3C5HJ2XU&feature=emb%5Fimp%5Fwoyt)
+3\. [Jabba the Hutt (PewDiePie song by Schmoyoho)](https://www.youtube.com/watch?v=lxw3C5HJ2XU&feature=emb%5Fimp%5Fwoyt)
 
 This is another popular video of PewDiePie that features a song which is dedicated to one of PewDiePie’s pet dogs- Maya. The video also has a collection of moments from his videos.
 
@@ -289,7 +289,7 @@ This is an interesting video of PewDiePie that features a collection of funny mo
 
 ![funny gaming montage](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-07.jpg)
 
-3\. [Jabba the Hutt ( PewDiePie song by Schmoyoho)](https://www.youtube.com/watch?v=lxw3C5HJ2XU&feature=emb%5Fimp%5Fwoyt)
+3\. [Jabba the Hutt (PewDiePie song by Schmoyoho)](https://www.youtube.com/watch?v=lxw3C5HJ2XU&feature=emb%5Fimp%5Fwoyt)
 
 This is another popular video of PewDiePie that features a song which is dedicated to one of PewDiePie’s pet dogs- Maya. The video also has a collection of moments from his videos.
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Graceful Gallops on Frozen Ground"
-date: 2024-05-26T17:33:31.831Z
-updated: 2024-05-27T17:33:31.831Z
+date: 2024-07-06T23:56:45.549Z
+updated: 2024-07-07T23:56:45.549Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Graceful Gallops on Frozen Ground"
 excerpt: "This Article Describes [New] Graceful Gallops on Frozen Ground"
 keywords: "Graceful Horse Runs,Winter Horse Jumps,Frosty Equestrian Display,Frozen Track Gymnastics,Icy Fields Horsework,Snowbound Galloping Beauty,Chill Steeds Gliding Fast"
-thumbnail: https://www.lifewire.com/thmb/dMPS7xdJyHFzVyJkCHD1luzOMsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1307216070-0e099dda13034522b872849a6b02d975.jpg
+thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8de831308f2fd3fe15c5bbed.jpg
 ---
 
 ## Graceful Gallops on Frozen Ground

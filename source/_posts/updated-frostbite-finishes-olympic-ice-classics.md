@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Frostbite Finishes  Olympic Ice Classics\""
-date: 2024-05-26T16:38:18.718Z
-updated: 2024-05-27T16:38:18.718Z
+date: 2024-07-06T23:56:54.253Z
+updated: 2024-07-07T23:56:54.253Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Frostbite Finishes: Olympic Ice Classics\""
 excerpt: "\"This Article Describes [Updated] Frostbite Finishes: Olympic Ice Classics\""
 keywords: "Olympic Ice Artistry,Classic Frostbite Games,Cold Climates Olympics,Historical Ice Competition,Ice Sports Legends,Arctic Winter Events,Chilly Championship Classics"
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Frostbite Finishes: Olympic Ice Classics

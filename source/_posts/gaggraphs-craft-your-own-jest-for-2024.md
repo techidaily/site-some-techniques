@@ -1,7 +1,7 @@
 ---
 title: "\"GagGraphs  Craft Your Own Jest for 2024\""
-date: 2024-05-26T18:30:44.180Z
-updated: 2024-05-27T18:30:44.180Z
+date: 2024-07-06T23:56:53.923Z
+updated: 2024-07-07T23:56:53.923Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes GagGraphs: Craft Your Own Jest for 2024\""
 excerpt: "\"This Article Describes GagGraphs: Craft Your Own Jest for 2024\""
 keywords: "Joke Creation Tips,Humorous Content Making,Crafting Satirical Pieces,Designing Comedy Skits,Writing Funny Stories,Jest Generation Guide,Witful Artisan Techniques"
-thumbnail: https://www.lifewire.com/thmb/5Hk3OeMwXnJsYVlAr-DvpgKR1cA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Netflix-vs-Max-314e297891b54d66ba48792cae9b2934.jpg
+thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc18d6b9abd17e301fcbcbc6e6.jpg
 ---
 
 ## GagGraphs: Craft Your Own Jest

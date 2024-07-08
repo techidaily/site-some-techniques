@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How to Use GoPro Hero5 Black  Tips for Shooting Great Photos and Video\""
-date: 2024-05-26T19:08:10.942Z
-updated: 2024-05-27T19:08:10.942Z
+date: 2024-07-06T23:56:48.411Z
+updated: 2024-07-07T23:56:48.411Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, How to Use GoPro Hero5 Black: Tips for Shooting Great Photos and Video\""
 excerpt: "\"This Article Describes In 2024, How to Use GoPro Hero5 Black: Tips for Shooting Great Photos and Video\""
 keywords: "Hero5 Black Tips,GoPro Photo Guide,Hero5 Video Shooting,GoPro HERO5 Photography,Hero5 Black Techniques,Video Capture with HERO5,Best GoPro Shots HERO5"
-thumbnail: https://www.lifewire.com/thmb/Pc02X6UByoQd3JZSqe8i2ct8aeE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-12-17at1.09.03PM-76f8bca0f2f44a3987bca5104dbb7e35.png
+thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb6668830fc6d1ed96db57dfa6c.png
 ---
 
 ## From Amateurs to Experts: Shooting Spectacentic Photos & Videos

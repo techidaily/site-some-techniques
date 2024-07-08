@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)"
-date: 2024-05-26T17:23:16.157Z
-updated: 2024-05-27T17:23:16.157Z
+date: 2024-07-06T23:56:52.844Z
+updated: 2024-07-07T23:56:52.844Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)"
 excerpt: "This Article Describes [Updated] How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)"
 keywords: "Podcast Recording iOS,IPhone Podcast Setup,IPad Podcast Recording,Best Interview Podcasting,Travel Podcast on iPhone,Podcast Tips for Travelers,Interview Podcast Guide iPhone"
-thumbnail: https://www.lifewire.com/thmb/RRKXQWYn0C-sbzhneexTYj_P8Pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-509041912-6b358cdad4ba438095010813f16feb17.jpg
+thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8ecd95c240012aa4c932f917.jpg
 ---
 
 ## How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Free, Versatile Tools for Amateurs & Professionals in AR"
-date: 2024-05-26T16:56:08.941Z
-updated: 2024-05-27T16:56:08.941Z
+date: 2024-07-06T23:56:52.227Z
+updated: 2024-07-07T23:56:52.227Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Free, Versatile Tools for Amateurs & Professionals in AR"
 excerpt: "This Article Describes [Updated] Free, Versatile Tools for Amateurs & Professionals in AR"
 keywords: "\"Free AR Tools,Versatile AR Software,Amateur AR Guides,Professional AR Apps,Cost-Free AR Resources,Accessible AR Kits,Expert AR Solutions\""
-thumbnail: https://www.lifewire.com/thmb/AW1jhGryXGG4EP2FvtFvhUOapCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ChatGPT-vs-Gemini-5b3a3afa5db547caac70eb4e607bc48c.jpg
+thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc610ca573f8ea2783fc3752f47.jpg
 ---
 
 ## Free, Versatile Tools for Amateurs & Professionals in AR
@@ -64,7 +64,7 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
-### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
+### 1\. Frost Zombie (Technical Showcase)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
@@ -111,11 +111,11 @@ Given how beautifully Glitter Rain was received, I believed it would be fitting 
 
 Spark AR is an amazing website for LUTs and color grading. Whether you're a new student or a seasoned pro, Spark AR Studio has all the features and capabilities you need to become a good video editor. You can download free LUTs from Spark AR and apply them to your videos. The article guides on how to use LUTs in Spark AR and how to download free LUTs. So, Spark AR is one of the best online websites for LUTs I have tried.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

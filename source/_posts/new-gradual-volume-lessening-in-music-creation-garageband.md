@@ -1,7 +1,7 @@
 ---
 title: "[New] Gradual Volume Lessening in Music Creation (Garageband)"
-date: 2024-05-26T19:01:51.092Z
-updated: 2024-05-27T19:01:51.092Z
+date: 2024-07-06T23:56:54.072Z
+updated: 2024-07-07T23:56:54.072Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Gradual Volume Lessening in Music Creation (Garageband)"
 excerpt: "This Article Describes [New] Gradual Volume Lessening in Music Creation (Garageband)"
 keywords: "\"GarageBand Vol-Reducing Techniques,Gradual Sound Decline Making,Harmonics Ease Transitioning,Music Volume Reduction Methods,Tone Lowering Strategies Garageband,Soft Volume Alteration in Tracks,Diminishing Decibels Practice Guide\""
-thumbnail: https://www.lifewire.com/thmb/9FaL0Oh-fcC_offamutmYHTACXQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-588fc25767134c248543d3de511ed5ea.jpg
+thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ead792a165abad33ef124056a.jpg
 ---
 
 ## Gradual Volume Lessening in Music Creation (Garageband)

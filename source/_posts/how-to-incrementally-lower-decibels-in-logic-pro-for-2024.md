@@ -1,7 +1,7 @@
 ---
 title: "How to Incrementally Lower Decibels in Logic Pro for 2024"
-date: 2024-05-26T18:00:30.377Z
-updated: 2024-05-27T18:00:30.377Z
+date: 2024-07-06T23:56:55.497Z
+updated: 2024-07-07T23:56:55.497Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Incrementally Lower Decibels in Logic Pro for 2024"
 excerpt: "This Article Describes How to Incrementally Lower Decibels in Logic Pro for 2024"
 keywords: "Low Decibel Techniques in Pro,Reducing Noise Levels LPro,Gradual Volume Reduction Logic Pro,Decreasing Sound Intensity LogiPro,Volume Control Strategies LogicPro,Sound Level Adjustments LogPro,Decibels Lowering Steps in Logic"
-thumbnail: https://www.lifewire.com/thmb/DyoHit2PNu7-aSHxtkhq-lAOR7c=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-459261809-357446c3aca34ee38c08d3aebe7502f3.jpg
+thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e970aa7acf9eb30479f71c91.jpg
 ---
 
 ## How to Incrementally Lower Decibels in Logic Pro

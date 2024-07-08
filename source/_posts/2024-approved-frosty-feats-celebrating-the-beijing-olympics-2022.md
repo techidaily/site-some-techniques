@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Frosty Feats  Celebrating the Beijing Olympics, 2022\""
-date: 2024-05-26T18:37:58.075Z
-updated: 2024-05-27T18:37:58.075Z
+date: 2024-07-06T23:56:53.165Z
+updated: 2024-07-07T23:56:53.165Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Frosty Feats: Celebrating the Beijing Olympics, 2022\""
 excerpt: "\"This Article Describes 2024 Approved: Frosty Feats: Celebrating the Beijing Olympics, 2022\""
 keywords: "Olympic Beijing 2022,Frosty Feats Olympics,Winter Games Beijing,Ice Festivities China,Beijing Winter Event,Celebrating Olympics Beijing,2022 Olympic Games Beijing"
-thumbnail: https://www.lifewire.com/thmb/DCkyrrIKF6IlOibLq3FWXS7tDbE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Google-Nest-Audio-vs-Google-Nest-Mini-2-85c4f29a43b24769a97f645fc3dd5687.jpg
+thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050db781f6bcdf9e50e7619aa67.jpg
 ---
 
 ## Frosty Feats: Celebrating the Beijing Olympics, 2022

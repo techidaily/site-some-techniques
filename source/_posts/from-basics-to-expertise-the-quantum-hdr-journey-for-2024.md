@@ -1,7 +1,7 @@
 ---
 title: "\"From Basics to Expertise  The Quantum HDR Journey for 2024\""
-date: 2024-05-26T19:19:03.826Z
-updated: 2024-05-27T19:19:03.826Z
+date: 2024-07-06T23:56:49.419Z
+updated: 2024-07-07T23:56:49.419Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Basics to Expertise: The Quantum HDR Journey for 2024\""
 excerpt: "\"This Article Describes From Basics to Expertise: The Quantum HDR Journey for 2024\""
 keywords: "Quantum HDR Essentials,Advanced Quantum HDR,Quantum HDR Mastery,Quantum HDR Progression,Basic to Expertise in HDR,Quantum Techniques for HDR,Becoming an HDR Virtuoso"
-thumbnail: https://www.lifewire.com/thmb/w_dEKfQJMn0nm64gUL--TYv_DkU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/james-yarema-ZYVrM9caRpU-unsplash-ab032eae5afc45d7bdbc2b4e11f00a47.jpg
+thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98f5f309c7652fc768db4746d.jpg
 ---
 
 ## From Basics to Expertise: The Quantum HDR Journey

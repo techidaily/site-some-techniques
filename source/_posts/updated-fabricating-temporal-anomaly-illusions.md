@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fabricating Temporal Anomaly Illusions"
-date: 2024-05-26T18:39:21.745Z
-updated: 2024-05-27T18:39:21.745Z
+date: 2024-07-06T23:56:53.885Z
+updated: 2024-07-07T23:56:53.885Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Fabricating Temporal Anomaly Illusions"
 excerpt: "This Article Describes [Updated] Fabricating Temporal Anomaly Illusions"
 keywords: "\"Canon Mastery Techniques,Advanced Capture Technology,Tempura Photography Guide,Ultimate Shutter Speed Mastery,Perfect Timing in Photo Capture,Pro Canon Temporal Sync,Capturing Time-Lapse with Canon\""
-thumbnail: https://www.lifewire.com/thmb/10Q4hHr9IgxCwz67SC0glf8anLU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/AirPods-Max-8806e530eded46a8af7efefc00c658d9.jpg
+thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2607e912d55b8b85ab2b5c83.jpg
 ---
 
 ## Fabricating Temporal Anomaly Illusions

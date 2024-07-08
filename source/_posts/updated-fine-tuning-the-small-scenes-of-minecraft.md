@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fine-Tuning the Small Scenes of Minecraft\""
-date: 2024-05-26T17:55:25.476Z
-updated: 2024-05-27T17:55:25.476Z
+date: 2024-07-06T23:56:53.481Z
+updated: 2024-07-07T23:56:53.481Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Fine-Tuning the Small Scenes of Minecraft\""
 excerpt: "\"This Article Describes [Updated] Fine-Tuning the Small Scenes of Minecraft\""
 keywords: "Minecraft NPC Optimization,Mini Scene Tweak Guide,Custom World Details,Crafting Quality Enhancements,Pixel Perfect Blocks,Scales in Small Maps,Artisan Block Arrangement"
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Fine-Tuning the Small Scenes of Minecraft

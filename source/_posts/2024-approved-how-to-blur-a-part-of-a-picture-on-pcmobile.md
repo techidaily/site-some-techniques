@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Blur a Part of a Picture on PC/Mobile\""
-date: 2024-05-26T17:11:35.028Z
-updated: 2024-05-27T17:11:35.028Z
+date: 2024-07-06T23:56:46.862Z
+updated: 2024-07-07T23:56:46.862Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Blur a Part of a Picture on PC/Mobile\""
 excerpt: "\"This Article Describes 2024 Approved: How to Blur a Part of a Picture on PC/Mobile\""
 keywords: "Blur Photo PC,Mobile Image Blur,Edit Photos Blur,Picture Blur Tool,Selective Blur Methods,Digital Image Blurring,Partial Picture Blur Tech"
-thumbnail: https://www.lifewire.com/thmb/IX3aINoOmR5VNVYyRo1nRxzDyXs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/businessman-working-at-computer-in-office-620926129-574488533df78c6bb041d5e9.jpg
+thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa0838cef669c3e3be16ac8df.jpg
 ---
 
 ## Learn How to Blur a Part of a Picture on PC/Mobile

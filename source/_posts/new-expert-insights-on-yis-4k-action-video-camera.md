@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Insights on YI’s 4K Action Video Camera"
-date: 2024-05-26T17:30:54.517Z
-updated: 2024-05-27T17:30:54.517Z
+date: 2024-07-06T23:56:45.615Z
+updated: 2024-07-07T23:56:45.615Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Expert Insights on YI’s 4K Action Video Camera"
 excerpt: "This Article Describes [New] Expert Insights on YI’s 4K Action Video Camera"
 keywords: "\"4K Yi Camera,Expert 4K Video,Yi Action Cam,4K High-Res Camera,Professional Yi Cam,Insightful Yi 4K,Advanced Yi 4K Action\""
-thumbnail: https://www.lifewire.com/thmb/iiWVzm4s4kgB56je2Puyg9dJC24=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a2009d979134d6c02c0bbdb8.jpg
 ---
 
 ## Expert Insights on YI’s 4K Action Video Camera

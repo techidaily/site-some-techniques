@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fun-Filled Photography  How To Use Lens on Snapchat for Playfulness\""
-date: 2024-05-26T19:10:21.353Z
-updated: 2024-05-27T19:10:21.353Z
+date: 2024-07-06T23:56:46.051Z
+updated: 2024-07-07T23:56:46.051Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Fun-Filled Photography: How To Use Lens on Snapchat for Playfulness\""
 excerpt: "\"This Article Describes [New] Fun-Filled Photography: How To Use Lens on Snapchat for Playfulness\""
 keywords: "Fun Snaps & Snapchat,Creative Photo Snapchat,Playful Snapchat Lenses,Snapchat Photography Fun,Lighthearted Snap Taking,Joyful Snapchat Shots,Snapchatting with Lens"
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Fun-Filled Photography: How To Use Lens on Snapchat for Playfulness

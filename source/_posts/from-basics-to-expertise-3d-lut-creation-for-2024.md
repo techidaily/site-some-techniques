@@ -1,7 +1,7 @@
 ---
 title: "\"From Basics to Expertise  3D LUT Creation for 2024\""
-date: 2024-05-26T19:23:16.575Z
-updated: 2024-05-27T19:23:16.575Z
+date: 2024-07-06T23:56:51.156Z
+updated: 2024-07-07T23:56:51.156Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Basics to Expertise: 3D LUT Creation for 2024\""
 excerpt: "\"This Article Describes From Basics to Expertise: 3D LUT Creation for 2024\""
 keywords: "LUT Creation Basics,3D LUT Fundamentals,Mastering LUTs,Advanced LUT Design,Expert LUT Techniques,Professional LUT Making,Skilled 3D Color Grading"
-thumbnail: https://www.lifewire.com/thmb/A9lp-TVKNjN87xTqZYQ6TV5uPrM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/AfroFreelancer1-da88b7a239f349e2a8870e670a7496fe.png
+thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb296646cc458aad0041a1d229.png
 ---
 
 ## From Basics to Expertise: 3D LUT Creation

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring the Power of YI 4K Cameras"
-date: 2024-05-26T18:44:15.154Z
-updated: 2024-05-27T18:44:15.154Z
+date: 2024-07-06T23:56:49.131Z
+updated: 2024-07-07T23:56:49.131Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Exploring the Power of YI 4K Cameras"
 excerpt: "This Article Describes In 2024, Exploring the Power of YI 4K Cameras"
 keywords: "\"Yi 4K Camera Strength,4K Powered YI Cams,Yi High-Res Video,YI 4K Cinematic Shots,Ultra Clear Yi Videography,Yi Resolution Surge,Powerful Yi 4K Cameras\""
-thumbnail: https://www.lifewire.com/thmb/s9VHU5LMeg9KU4DM9zhmatq9l7o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1383931877-d30a0dc431b04187b8004e7c1bcfaf08.jpg
+thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce34f31fb21e5a5f2109ae3299.jpg
 ---
 
 ## Exploring the Power of YI 4K Cameras

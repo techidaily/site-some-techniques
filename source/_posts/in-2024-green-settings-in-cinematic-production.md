@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Green Settings in Cinematic Production"
-date: 2024-05-26T17:28:59.029Z
-updated: 2024-05-27T17:28:59.029Z
+date: 2024-07-06T23:56:50.710Z
+updated: 2024-07-07T23:56:50.710Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Green Settings in Cinematic Production"
 excerpt: "This Article Describes In 2024, Green Settings in Cinematic Production"
 keywords: "\"Eco-Friendly Film Set,Sustainable Cinema,Green Production Scenes,Eco Cinematography,Film Eco Practices,Sustainable Movie Sets,Environmental Filming Methods\""
-thumbnail: https://www.lifewire.com/thmb/TSZ_Vw5p-v557Gf7TAMUa0a95eQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-929731418-5b564d78c9e77c001a7729f7.jpg
+thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e452b20253ad5c2d81a1eb51a.jpg
 ---
 
 ## Green Settings in Cinematic Production

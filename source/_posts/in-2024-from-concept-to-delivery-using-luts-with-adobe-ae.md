@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Concept to Delivery  Using LUTs with Adobe AE\""
-date: 2024-05-26T18:57:36.274Z
-updated: 2024-05-27T18:57:36.274Z
+date: 2024-07-06T23:56:51.564Z
+updated: 2024-07-07T23:56:51.564Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, From Concept to Delivery: Using LUTs with Adobe AE\""
 excerpt: "\"This Article Describes In 2024, From Concept to Delivery: Using LUTs with Adobe AE\""
 keywords: "\"LUT in Adobe AE,Adobe AE LUT Use,Delivering Designs: LUTs,Concept to Delivery Adobe,LUT Utilization in AE,Adobe AE Rendering,LUT for Efficient Design\""
-thumbnail: https://www.lifewire.com/thmb/qPJTUENRkfpjv_HjgIphdxJcKus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fortniteparentalcontrols-a24a692130cc4142a960da30e43b013f.jpg
+thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54ae99a71f15e709bfd0f373c.jpg
 ---
 
 ## From Concept to Delivery: Using LUTs with Adobe AE

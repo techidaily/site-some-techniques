@@ -1,7 +1,7 @@
 ---
 title: "Innovative Metaverse Gags & Their Creators for 2024"
-date: 2024-05-26T17:20:59.247Z
-updated: 2024-05-27T17:20:59.247Z
+date: 2024-07-06T23:56:52.303Z
+updated: 2024-07-07T23:56:52.303Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Innovative Metaverse Gags & Their Creators for 2024"
 excerpt: "This Article Describes Innovative Metaverse Gags & Their Creators for 2024"
 keywords: "Metaverse Jokes Trendsetters,Metaverse Humor Craftsmen,Innovative Virtual Comedy,Metaverse Wit Makers,Future Gags Visionaries,Creative Metaverse Laughter,Pioneering Metaverse Skits"
-thumbnail: https://www.lifewire.com/thmb/FSEnoGCMAP0T58dNwB2d4-upLhA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-688982955-596fff12519de200112ef724.jpg
+thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1e91d61e1ddb527be75674b2.jpg
 ---
 
 ## Innovative Metaverse Gags & Their Creators

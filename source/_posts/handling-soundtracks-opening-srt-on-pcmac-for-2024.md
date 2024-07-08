@@ -1,7 +1,7 @@
 ---
 title: "\"Handling Soundtracks  Opening SRT on PC/Mac for 2024\""
-date: 2024-05-26T17:44:17.189Z
-updated: 2024-05-27T17:44:17.189Z
+date: 2024-07-06T23:56:47.381Z
+updated: 2024-07-07T23:56:47.381Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Handling Soundtracks: Opening SRT on PC/Mac for 2024\""
 excerpt: "\"This Article Describes Handling Soundtracks: Opening SRT on PC/Mac for 2024\""
 keywords: "PC/Mac SRT Playback,Handling SRT Files,Open SRT Windows,Mac SRT Management,Soundtrack SRT Viewing,PC Audio SRT Edit,Music Tracks on Mac SRT"
-thumbnail: https://www.lifewire.com/thmb/CAyu-hL_7SmLC0EkFP9Yz_OwnP0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/car-block-heater-frozen-north-534833-e1ea6a5455884f7b85b7ed8c6ba902e8.png
+thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07942af07cd489ff374cb4abd.png
 ---
 
 ## Handling Soundtracks: Opening SRT on PC/Mac

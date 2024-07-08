@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Blur Faces/Background/Images in Photoshop"
-date: 2024-05-26T18:51:46.490Z
-updated: 2024-05-27T18:51:46.490Z
+date: 2024-07-06T23:56:49.373Z
+updated: 2024-07-07T23:56:49.373Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, How to Blur Faces/Background/Images in Photoshop"
 excerpt: "This Article Describes In 2024, How to Blur Faces/Background/Images in Photoshop"
 keywords: "FaceBlurringPhotoshopTips,BackgroundBlurInPsImage,ImageBlurringGuidePS,BlurFacesOnImagesPS,PhotoshopFaceMaskCreation,PSBackgroundBlurringHacks,QuickBlurPSFacesMethods"
-thumbnail: https://www.lifewire.com/thmb/JLGKov-NY8__Hrmk-5FFFcAzeT4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/arnel-hasanovic-4oWSXdeAS2g-unsplash-3aa9018ab1a74e9796b929882a9e133e.jpg
+thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1fa4122648e108e1ee1f91de.jpg
 ---
 
 ## Learn How to Blur Faces/Background/Images in Photoshop

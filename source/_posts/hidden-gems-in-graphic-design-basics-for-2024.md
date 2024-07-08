@@ -1,7 +1,7 @@
 ---
 title: "Hidden Gems in Graphic Design Basics for 2024"
-date: 2024-05-26T18:44:42.335Z
-updated: 2024-05-27T18:44:42.335Z
+date: 2024-07-06T23:56:53.184Z
+updated: 2024-07-07T23:56:53.184Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Hidden Gems in Graphic Design Basics for 2024"
 excerpt: "This Article Describes Hidden Gems in Graphic Design Basics for 2024"
 keywords: "Hidden Design Secrets,Basic Gem Techniques,Graphic Design Foundations,Secret Design Tips,Hidden Styling Insights,Core Design Basics,Undercover Design Skills"
-thumbnail: https://www.lifewire.com/thmb/kzhXnto5YaKtx2YNWpCRYXSY7Jo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/watchdiscoveryplusonfiretv-80c6af19513042b381046dbca54d43d3.jpg
+thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac3562475afaa223146d9d0657f5f7.jpg
 ---
 
 ## Hidden Gems in Graphic Design Basics

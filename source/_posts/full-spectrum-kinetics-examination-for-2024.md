@@ -1,7 +1,7 @@
 ---
 title: "Full Spectrum Kinetics Examination for 2024"
-date: 2024-05-26T16:50:00.539Z
-updated: 2024-05-27T16:50:00.539Z
+date: 2024-07-06T23:56:49.860Z
+updated: 2024-07-07T23:56:49.860Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Full Spectrum Kinetics Examination for 2024"
 excerpt: "This Article Describes Full Spectrum Kinetics Examination for 2024"
 keywords: "Full Spectrum Kinesis,Kinetic Assessment,Spectrum Analysis,Complete Kinetics,Dynamic Range Check,Broad Kinetic Review,Comprehensive Movement Test"
-thumbnail: https://www.lifewire.com/thmb/MlwaJMBkgv5AdUUFqmutbxLipO8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1224786282-2d9033313a164d34a921f3bbf068ae50.jpg
+thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3f2637bf212870351e0edf0f.jpg
 ---
 
 ## Full Spectrum Kinetics Examination

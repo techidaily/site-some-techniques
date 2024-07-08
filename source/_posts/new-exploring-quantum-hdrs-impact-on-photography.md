@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring Quantum HDR's Impact on Photography"
-date: 2024-05-26T18:07:49.845Z
-updated: 2024-05-27T18:07:49.845Z
+date: 2024-07-06T23:56:45.204Z
+updated: 2024-07-07T23:56:45.204Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Exploring Quantum HDR's Impact on Photography"
 excerpt: "This Article Describes [New] Exploring Quantum HDR's Impact on Photography"
 keywords: "Quantum HDR Photograpy,Photo Impact Quantum,HDR in Photo Science,Photography with Quantum,Quantum HDR Effect,HDR Evolution Photos,Quantum Advances Imaging"
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## Exploring Quantum HDR's Impact on Photography

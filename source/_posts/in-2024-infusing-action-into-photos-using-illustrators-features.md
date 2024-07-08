@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Infusing Action Into Photos Using Illustrator's Features"
-date: 2024-05-26T18:46:41.350Z
-updated: 2024-05-27T18:46:41.350Z
+date: 2024-07-06T23:56:45.374Z
+updated: 2024-07-07T23:56:45.374Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Infusing Action Into Photos Using Illustrator's Features"
 excerpt: "This Article Describes In 2024, Infusing Action Into Photos Using Illustrator's Features"
 keywords: "Actions in Imagery,Photo Illustration,Illustrator Staging,Visual Impact Enhance,Creative Editing Art,Dynamic Image Design,Photographic Features Use"
-thumbnail: https://www.lifewire.com/thmb/9nO-4SAhKv2fMtcY3f2sR16dFNk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-verizon-down-or-is-it-just-you-5069423-437db7b54e7c4a758e5f445dfa5edaea.jpg
+thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94f81e88dbd632b404f3b4368.jpg
 ---
 
 ## Infusing Action Into Photos Using Illustrator's Features

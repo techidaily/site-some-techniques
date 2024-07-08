@@ -1,7 +1,7 @@
 ---
 title: "\"From Beginner to Master  A Stepwise Guide for Excellent Posts for 2024\""
-date: 2024-05-26T19:20:09.212Z
-updated: 2024-05-27T19:20:09.212Z
+date: 2024-07-06T23:56:46.450Z
+updated: 2024-07-07T23:56:46.450Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Beginner to Master: A Stepwise Guide for Excellent Posts for 2024\""
 excerpt: "\"This Article Describes From Beginner to Master: A Stepwise Guide for Excellent Posts for 2024\""
 keywords: "Beginner Post Tips,Writing Mastery Guide,Post Excellence Steps,From Novice Authoring,Article Crafting Journey,Masterful Blog Posts,Steps to Great Writing"
-thumbnail: https://www.lifewire.com/thmb/XV2DVVK-WUARc5HX9NbKMjUKlUo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-73cf43c8e3ae418bb426cb3b0b450125.png
+thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a8ac533f579ade7f75a2ecaa.png
 ---
 
 ## From Beginner to Master: A Stepwise Guide for Excellent Posts
@@ -96,7 +96,7 @@ Some important rules to follow:
 
 ### Reddiquettes
 
-Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an[official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
+Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an [official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
 
 The goal behind this is to make Reddit a safer and more enjoyable platform to use. However, if you do not follow proper reddiquette, you will usually see the adverse effects in your Karma points. In other words, your Reddit Karma will decrease.
 

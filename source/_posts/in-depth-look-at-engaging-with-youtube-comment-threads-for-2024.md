@@ -1,7 +1,7 @@
 ---
 title: "\"In-Depth Look at Engaging with YouTube Comment Threads for 2024\""
-date: 2024-05-26T17:59:26.371Z
-updated: 2024-05-27T17:59:26.371Z
+date: 2024-07-26T14:00:51.405Z
+updated: 2024-07-27T14:00:51.405Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In-Depth Look at Engaging with YouTube Comment Threads for 2024\""
 excerpt: "\"This Article Describes In-Depth Look at Engaging with YouTube Comment Threads for 2024\""
 keywords: "YouTubEngagement,VideoCommentInteract,CommentThreadAnalysis,YouTubeDiscussions,EngageYouTubeComments,ThoughtfulVideoResponses,InteractiveVideoCommunities"
-thumbnail: https://www.lifewire.com/thmb/bKMAfQ7W24MzcNL6ld2aPyX4h4E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559c1a26eb52ce7f94ac706c0b.jpg
 ---
 
 ## In-Depth Look at Engaging with YouTube Comment Threads
@@ -44,6 +44,13 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -72,6 +79,9 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
@@ -82,12 +92,19 @@ Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -112,8 +129,17 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -150,3 +176,42 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-clearing-the-path-free-facebook-videos-from-interruptions-for-2024/"><u>[New] Clearing the Path  Free Facebook Videos From Interruptions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>[New] Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-perfect-videos-with-these-1-10-zoom-editors/"><u>[New] Frame Perfect Videos with These #1-10 Zoom Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-idea-to-implementation-crafting-a-powerful-documntary-narrative/"><u>[New] From Idea to Implementation  Crafting a Powerful Documntary Narrative</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-transforming-videos-using-vida/"><u>[New] From Novice to Pro  Transforming Videos Using Vida</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-fade-music-on-windowsmac/"><u>[New] How to Fade Music on Windows/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-stop-motion-creations-15-greatest-of-all-time/"><u>[New] Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-intellectual-property-rules-for-instagram-beats/"><u>[New] In 2024, Intellectual Property Rules for Instagram Beats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-perfect-focus-in-teams-meetings-mastering-background-blur/"><u>[New] In 2024, Perfect Focus in Teams Meetings  Mastering Background Blur</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-your-macs-microphone-usage-with-this-guide-to-audacity-for-2024/"><u>[New] Perfect Your Mac's Microphone Usage with This Guide to Audacity for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-goovision-pro-high-quality-chromecasting/"><u>[Updated] 2024 Approved  GooVision Pro  High-Quality Chromecasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-cutting-edge-techniques-in-vivacut-detailed-review-and-guide-2024/"><u>[Updated] Explore Cutting Edge Techniques in VivaCut  Detailed Review & Guide 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube-for-2024/"><u>[Updated] Gain More Loyal Viewers  Unlock Top Strategies for Enhancing Viewer Retention on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacking-back-photo-viewing-in-windows-11-easily/"><u>[Updated] Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-speed-window-pictorial-interface/"><u>[Updated] High-Speed Window Pictorial Interface</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-narratives-distributed-among-8-movie-segments/"><u>[Updated] Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-realm-of-free-c-span-video-archives/"><u>2024 Approved  Explore the Realm of Free C-Span Video Archives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-exploration-decoding-googles-podcast-app/"><u>2024 Approved  Full Exploration  Decoding Google's Podcast App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-examination-the-working-of-googles-podcast-application/"><u>2024 Approved  In-Depth Examination  The Working of Google's Podcast Application</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-perfecting-presentations-with-zoom-screenshares/"><u>2024 Approved  Perfecting Presentations with Zoom Screenshares</u></a></li>
+<li><a href="https://windows11.techidaily.com/battle-of-the-packagers-chocolatey-or-wm-on-windows-pcs/"><u>Battle of the Packagers: Chocolatey or WM on Windows PCs</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-websites-to-add-emojis-to-photos-online-for-2024/"><u>Best Websites to Add Emojis to Photos Online for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-picks-optimal-vr-for-drone-pilots-for-2024/"><u>Expert Picks  Optimal VR for Drone Pilots for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/film-fanatics-unite-ioss-best-free-and-paid-filmmaking-tools-for-2024/"><u>Film-Fanatics Unite! IOS's Best Free & Paid Filmmaking Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-tools-to-master-voice-manipulation-and-sound-design-for-2024/"><u>Free Tools to Master Voice Manipulation and Sound Design for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-dull-to-dynamic-a-guide-to-chromatic-finesse-for-2024/"><u>From Dull to Dynamic  A Guide to Chromatic Finesse for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/imagepurityplus-professional-photo-editing-suite-for-2024/"><u>ImagePurityPlus  Professional Photo Editing Suite for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/immersive-windows-display-snapshots-for-2024/"><u>Immersive Windows Display Snapshots for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-preview-cut-compilation/"><u>In 2024, Exclusive Preview Cut Compilation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>In 2024, From Concept to Delivery  Using LUTs with Adobe AE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world/"><u>In 2024, Get Laughter in Minutes  Install and Revel in iFunny's Meme World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-quality-evaluating-luminances-performance/"><u>In 2024, HDR Quality  Evaluating Luminance's Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-channel-your-inner-metaverse-wit/"><u>In 2024, How to Channel Your Inner Metaverse Wit</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/leveraging-technology-tips-for-screenrec-utilization/"><u>Leveraging Technology  Tips for ScreenRec Utilization</u></a></li>
+</ul></div>

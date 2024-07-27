@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring the Power of YI 4K Cameras"
-date: 2024-07-06T23:56:49.131Z
-updated: 2024-07-07T23:56:49.131Z
+date: 2024-07-26T15:10:36.535Z
+updated: 2024-07-27T15:10:36.535Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
 # YI 4K Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -129,6 +135,14 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -244,6 +258,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -269,6 +286,9 @@ Follow @Max Wales
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -303,6 +323,9 @@ Follow @Max Wales
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -359,6 +382,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -375,6 +401,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -506,3 +535,49 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-top-free-tools-for-youtube-image-downloads/"><u>[New] 2024 Approved  Discover the Top Free Tools for YouTube Image Downloads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-discovering-and-demystifying-tiktoks-pfp-symbol/"><u>[New] 2024 Approved  Discovering and Demystifying TikTok's PFP Symbol</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-cutting-edge-encoders-for-live-media/"><u>[New] Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-chromes-full-screen-multitasking-capabilities/"><u>[New] Explore Chrome's Full-Screen Multitasking Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immerse-viewers-advanced-tiktok-visuals/"><u>[New] Immerse Viewers  Advanced TikTok Visuals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-webinar-video-archive-creation-for-2024/"><u>[New] Webinar Video Archive Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram/"><u>[Updated] Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[Updated] Expert Recommendations  The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-max-360-vs-hero-11-which-takes-the-lead/"><u>[Updated] GoPro Max 360 vs Hero 11  Which Takes the Lead?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-ranked-live-streamers-with-local-channel-access-2024/"><u>[Updated] Highest-Ranked Live Streamers with Local Channel Access, 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-digital-game-chronicles/"><u>[Updated] In 2024, Digital Game Chronicles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-origami-like-folded-havens-in-mc/"><u>[Updated] In 2024, Origami-Like Folded Havens in MC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-deep-dive-into-streamlining-your-google-podcast-process/"><u>2024 Approved  A Deep Dive Into Streamlining Your Google Podcast Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>2024 Approved  From Novice to Pro  Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>2024 Approved  Game-Centric TVs  Top Picks for PS5/Xbox Series X</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-record-league-of-legends/"><u>2024 Approved  How to Record League of Legends</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-huntings-top-5-high-quality-video-recorders/"><u>2024 Approved  Hunting's Top 5 High-Quality Video Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-video-player-apps-for-windows-os-enthusiasts/"><u>2024 Approved  Ideal Video Player Apps for Windows OS Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-soft-cessation-of-sounds-using-audacity-procedures/"><u>2024 Approved  Implementing Soft Cessation of Sounds Using Audacity Procedures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-breakdown-stream-yourself-successfully-via-zoom-and-youtube/"><u>2024 Approved  In-Depth Breakdown  Stream Yourself Successfully via Zoom and YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-8-upgrades-for-webcam-visual-quality/"><u>2024 Approved  Innovative 8 Upgrades for Webcam Visual Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-essentials-for-elevated-gopro-usage-for-2024/"><u>Expert Essentials for Elevated GoPro Usage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion-for-2024/"><u>From Grainy Greyscale to Dynamic Highs  A Complete HDR Conversion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hours-of-videography-expected-gb-usage-for-2024/"><u>Hours of Videography  Expected GB Usage for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-much-footage-does-instagram-allow-in-2024/"><u>How Much Footage Does Instagram Allow, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora-for-2024/"><u>How to Convert AVI to GIF on Windows and Mac with Filmora for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-manipulate-iphone-pics-flip-tilt-and-more-for-2024/"><u>How to Manipulate iPhone Pics  Flip, Tilt & More for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hype-generating-headline-author-for-2024/"><u>Hype-Generating Headline Author for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-termination-immersive-reality-for-2024/"><u>Ideal Termination  Immersive Reality for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-ventures-how-google-cardboard-stacks-up-against-samsung-vr-for-2024/"><u>Immersive Ventures  How Google Cardboard Stacks Up Against Samsung VR for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-6-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 6 Plus/iPad/iPod</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>In 2024, FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-gain-graph-finns-financial-flux/"><u>In 2024, Gaming Gain Graph  Finn's Financial Flux</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incredible-virtual-films-to-explore/"><u>In 2024, Incredible Virtual Films to Explore</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-video-selfie-mastery-tips-from-top-youtubers/"><u>In 2024, Video Selfie Mastery  Tips From Top YouTubers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-your-iphone-step-by-step-guide-to-podcast-acquisition-for-2024/"><u>Mastering Your iPhone  Step-by-Step Guide to Podcast Acquisition for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-still-to-stunning-how-to-achieve-the-ken-burns-effect/"><u>New 2024 Approved From Still to Stunning How to Achieve the Ken Burns Effect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-removing-fisheye-from-gopro-footage/"><u>Tips for Removing Fisheye From GoPro Footage</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/windows-stellar-file-cleaner-set-up-automated-erasure-of-files-and-folders/"><u>Windows Stellar File Cleaner: Set Up Automated Erasure of Files & Folders</u></a></li>
+</ul></div>

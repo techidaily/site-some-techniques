@@ -1,7 +1,7 @@
 ---
 title: "Excellent Storage Upgrade for Sony A7S II Cameras for 2024"
-date: 2024-06-19T17:07:41.588Z
-updated: 2024-06-20T17:07:41.588Z
+date: 2024-07-26T16:35:24.016Z
+updated: 2024-07-27T16:35:24.016Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -121,3 +134,58 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame/"><u>[New] 2024 Approved  Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-make-a-splash-with-instagram-reels-using-tried-and-true-tiktok-hacks/"><u>[New] 2024 Approved  Make a Splash with Instagram Reels Using Tried-and-True TikTok Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>[New] Free Graphic Goldmine  A Roadmap to Premium Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-analog-archives-to-digital-epics-creating-videos-from-older-photographs/"><u>[New] From Analog Archives to Digital Epics  Creating Videos From Older Photographs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-galaxy-s8-review-a-new-era-for-superior-smartphones/"><u>[New] Galaxy S8 Review - A New Era for Superior Smartphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-garageband-strategies-for-perfect-podcast-editing/"><u>[New] GarageBand Strategies for Perfect Podcast Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>[New] Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-stunning-mosaic-photo-collage/"><u>[New] How to Create Stunning Mosaic Photo Collage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-instant-mp3-download-from-facebook-vids-directly/"><u>[New] In 2024, Instant MP3 Download  From Facebook Vids Directly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-industry-standards-prime-gimbals-for-drones/"><u>[New] Industry Standards  Prime Gimbals for Drones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-blend-modes-for-perfect-clip-integration-for-2024/"><u>[Updated] Blend Modes for Perfect Clip Integration for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-narrative-template-for-online-educational-videos-for-2024/"><u>[Updated] Crafting a Narrative Template for Online Educational Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>[Updated] Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faithful-melodies-downloaded-tips-for-personalization/"><u>[Updated] Faithful Melodies Downloaded  Tips for Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giggle-guild-creepy-cybernetic-comedians/"><u>[Updated] Giggle Guild  Creepy Cybernetic Comedians</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>[Updated] Hands-On with HP Envy 27  Pushing Screen Tech to Limits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-virtual-reality-systems-for-drones/"><u>[Updated] Ideal Virtual Reality Systems for Drones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-bringing-imagery-elements-into-harmony/"><u>[Updated] In 2024, Bringing Imagery Elements Into Harmony</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ownership-deciphering-in-instasongs/"><u>[Updated] In 2024, Ownership Deciphering in InstaSongs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-powerpoints-voice-recognition-lands-market/"><u>[Updated] Navigating PowerPoint's Voice Recognition Lands Market</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-techniques-for-targeted-youtube-video-download/"><u>[Updated] Unveiling Techniques for Targeted YouTube Video Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-power-for-gopro-hero5-official-sources-and-alternatives/"><u>2024 Approved  Exceptional Power for GoPro Hero5  Official Sources & Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-the-top-10-places-to-snag-pristine-photos/"><u>2024 Approved  Exclusive Listing  The Top 10 Places to Snag Pristine Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>2024 Approved  Exploring HoloLens by Microsoft  A 3D Dream Come True</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-content-sequence-android-video-workaround/"><u>2024 Approved  Flip Content Sequence  Android Video Workaround</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software/"><u>2024 Approved  From Imagination to Illustration  Ranking the Best 8 iPhone Drawing Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-handheld-vr-camera-stability-enhancer/"><u>2024 Approved  Handheld VR Camera Stability Enhancer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/"><u>2024 Approved  Maximizing Viewability & Engagement  Understanding Facebook Video Ratios</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-sharpscope-zoommax7-precision-in-size-adjustment/"><u>2024 Approved  SharpScope ZoomMax7  Precision in Size Adjustment</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-collabs-that-attract-and-retain-viewers/"><u>Crafting Collabs that Attract and Retain Viewers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-photography-crafting-exceptional-time-lapses-with-black-hero5-for-2024/"><u>Elevate Photography  Crafting Exceptional Time-Lapses with Black Hero5 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-top-picks-for-high-resolution-4k-panels-for-2024/"><u>Explore Top Picks for High-Resolution 4K Panels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmora-tutorial-converting-avi-to-gif-seamlessly-for-2024/"><u>Filmora Tutorial  Converting AVI to GIF Seamlessly for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-speech-analysis-and-command-execution-for-2024/"><u>Free Speech Analysis & Command Execution for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-hero5-captured-life-review-for-2024/"><u>GoPro Hero5 Captured Life Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-change-netflix-playback-speed-in-2024/"><u>How to Change Netflix Playback Speed, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-platforms-creating-movies-from-photo-galleries-for-2024/"><u>Ideal Platforms  Creating Movies From Photo Galleries for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia C12 Plus</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-free-after-effects-resources/"><u>In 2024, Explore the Best FREE After Effects Resources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-impressions-engaging-podcast-intros/"><u>In 2024, First Impressions  Engaging Podcast Intros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-archive-copyright-free-gaming-harmonies/"><u>In 2024, Free Online Archive  Copyright-Free Gaming Harmonies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-visual-magic-for-your-videos-online/"><u>In 2024, Free Visual Magic for Your Videos Online</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-enable-speech-to-text-in-powerpoint-a-step-by-step-guide/"><u>In 2024, How to Enable Speech-to-Text in PowerPoint  A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hps-visionary-color-display-dissecting-the-z32x-monitor/"><u>In 2024, HP’s Visionary Color Display  Dissecting the Z32X Monitor</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>Melody of Affection  Greatest Love Songs to Sweeten a Proposal</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unveiling-the-power-of-video-conferencing-on-android-for-2024/"><u>Unveiling the Power of Video Conferencing on Android for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-bluetooth-issue-here-are-9-quick-cures-to-restore-your-link/"><u>Win 11'S Bluetooth Issue? Here Are 9 Quick Cures to Restore Your Link</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Highest Scoring Smartphone Cameras for Video Making for 2024"
-date: 2024-05-26T19:26:35.559Z
-updated: 2024-05-27T19:26:35.559Z
+date: 2024-07-26T16:17:02.834Z
+updated: 2024-07-27T16:17:02.834Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Highest Scoring Smartphone Cameras for Video Making for 2024"
 excerpt: "This Article Describes Highest Scoring Smartphone Cameras for Video Making for 2024"
 keywords: "\"Best Smart Cam Tech,Top Photo HDR Cameras,Premium Mobile Cinematography,High-Res Mobile Imaging,Pro Video Phone Camera,Ultimate Pixel Quality,Clearest Mobile HD Capture\""
-thumbnail: https://www.lifewire.com/thmb/HPANbAemZhl50CLJNEqH0zHeTrI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Samsung-S24-Series-14a268a53c3742229c06a7eb76ad5052.jpg
+thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb1733f1b9948bd185f0bb490.jpg
 ---
 
 ## Highest Scoring Smartphone Cameras for Video Making
@@ -56,6 +56,9 @@ Other cutting-edge features and functionality that you should have come to antic
 
 Plus, you often receive a lengthy battery life with a huge 5000 mAh battery. Nevertheless, the S20 Ultra is loaded with extra functions that, depending on which ones you activate, may result in variable battery efficiency. This phone is tough with IP68 water and dust protection, but it's thicker and heavier than other phones for vlogging, so for the most comfortable experience, you might want to use it with a selfie stick or handheld gimbal. It also ranks among our top 5G smartphones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Huawei P30 Pro
 
 The Huawei P30 Pro is designed incredibly well, inside, and out. It features a snappy Kirin 980 processor that keeps everything running smoothly. Plus, it also offers IP68 dust and water resistance for added durability. The curved, 6.47-inch display looks great, and the metal chassis feels premium in your hands. We were impressed that the P30’s display was made from Corning Gorilla Glass so it’s more scratch and shatter-resistant than many other phones.
@@ -70,6 +73,10 @@ three cameras on the back (40MP + 20MP + 8MP) and one on the front (32MP), you�
 
 The phone can shoot video at 4K resolution at 30 frames per second, so you’ll always get the sharpest video around. We were impressed by Huawei’s Optical Image Stabilisation (OIS), as well. It uses that same AI to stabilize your shots – in both video and still images – which is really helpful overall. It’s one of the best Chinese smartphones on our list.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Google Pixel 6
 
 A second 12MP ultrawide camera with a 114-degree viewing angle is there in addition to the enormous 50MP wide-angle primary camera with optical image stabilization. Both Full HD (1080p) and 4K at 60 frames per second are supported for video output.
@@ -94,12 +101,18 @@ The iPhone XS maintains a high standard of design quality and usability in accor
 
 The iPhone does not offer any form of expandable storage but is available in a range of storage capacities from 64GB to 512GB. A pricier model will be required if you require additional storage. With the iPhone XS, battery life is respectable. Normal use should allow you to use it for the majority of the day but capturing a 4K video may cause the batteries to deplete more quickly. Therefore, if you plan to vlog all day, we suggest bringing the finest portable charge
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Oppo Reno6 Pro 5G
 
 Due to its great functionality for recording videos, the Reno6 Pro 5G is the ideal tool for vloggers. You can record portrait movies thanks to Oppo's Bokeh Flare Portrait Video mode, which is powered by AI intelligence. By enabling you to blur out the undesired subjects in the backdrop, this function will be very helpful considering that you will be vlogging outside most of the time.
 
 A Live HDR option has also been added to Reno6 Pro 5G, which enhances the ambient light in your films and provides you with additional information. And if that weren't enough, the Ultra Night Video option uses AI technologies to increase brightness while adding extra glitz and context to your recordings. Focus tracking ensures that the main topic of your video is always in focus and shown with exceptional clarity. The brain behind all this filming prowess is the primary 64MP rear camera.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Samsung Galaxy Z Flip3 5G
 
 The newest flip phone from Samsung is also on our list because it provides you with something unique. And we're not just referring to form factor. On this gadget, even the camera features have been adjusted to function. Dual 12-megapixel rear cameras on the Galaxy Z Flip3 5G allow for both wide- and ultra-angle photography. The most inventive thing Samsung has done is to use the front cover screen as a viewfinder when taking selfies with the rear cameras. This not only produces superior images but also enables you to photograph from various angles and include more subjects in the picture.
@@ -112,12 +125,18 @@ Xiaomi 11T Pro 5G is yet another powerful and feature-packed device. You get a 5
 
 The Hi-Res dual symmetrical speakers are tuned by Harman Kardon for a cinematic sound experience. Additionally, you also get Dolby Atmos certification for even more sound immersion. There is a 5000mAh battery that charges through a 120W HyperCharge, which takes the phone from 0 to 100 percent in just 17 minutes. The phone supports a wide range of 5G bands to make your purchase future-proof. Additionally, Xiaomi is also promising 3 generations of Android upgrades and 4 years of security patches for peace of mind. Overall, this is one of the best feature-packed camera phones you can buy for vlogging.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### iQOO 9 Pro 5G
 
 One more option for a smartphone for vlogging is the freshly released flagship from iQOO. It is equipped with the most recent Qualcomm Snapdragon 8 Gen 1 Mobile Platform, which boosts GPU performance by up to 30% and the CPU performance by 20%. You receive a 50MP GN5 Gimbal camera with gimbal image stabilization, a 16MP portrait lens with optical image stabilization, and a 50MP 150-degree Fisheye camera in terms of optics, allowing you to shoot videos anyway you like and obtain the ideal closeup of every subject. For brighter and more detailed night and low-light images, you also get Super Night Mode. With a 4700mAh battery and 120W FlashCharge capability, the smartphone can be charged to 50% in just 8 minutes. Additionally, 50W wireless
 
 fast charging is supported. The device's front features a 6.78-inch 2K E5 AMOLED screen with 10-bit color and 1500 nits of maximum brightness for vivid and colorful image reproduction. Additionally, you get a huge 3D ultrasonic fingerprint sensor for quick and simple verification, dual stereo speakers for theatrical sound, 300Hz touch sampling rate support for snappy displays, and more. Overall, if you want a vlogging phone, this is the best option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Mi 11X Pro 5G
 
 Although the Mi 11X Pro 5G is a mid-range flagship, there isn't much in its feature set to imply otherwise. With its ultra-wide, macro, and triple-rear 108MP sensor, vloggers may make amazing vlogs with the necessary adaptability. The numerous capabilities that the Mi 11X Pro offers give it quite a punch when it comes to videos.
@@ -172,6 +191,10 @@ Even slim mirrorless cameras need a separate pocket to be carried because they c
 
 Over the course of several days, we investigated and evaluated over 20 possibilities in order to assist you in finding the best phones for vlogging. We identified the most important qualities and capabilities to take into account when it comes to especially vlogging during our investigation. For this reason, we advise you to opt for a smartphone with a camera that can produce stunning, clear, and detailed still photographs as well as high- definition films. The top smartphones for vlogging can capture 4K video at up to 60 frames per second. To ensure that you never have to worry about breaking your phone when filming on the go, you should also seek for a phone with a long battery life, brilliant displays, and additional durability.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Samsung Galaxy S20 Ultra
 
 There is no denying that the Samsung Galaxy S20 Ultra has one of the most sophisticated cameras available for a smartphone. The Galaxy S20 Ultra is tough to top with a really cutting-edge 108-megapixel sensor, 10x lossless zoom capability, and mind-blowing 100x digital zoom (dubbed as Space Zoom). It can record vlogging videos in stunning 8K resolution at 24 frames per second for incredibly detailed, bright, and colorful content.
@@ -182,6 +205,9 @@ Other cutting-edge features and functionality that you should have come to antic
 
 Plus, you often receive a lengthy battery life with a huge 5000 mAh battery. Nevertheless, the S20 Ultra is loaded with extra functions that, depending on which ones you activate, may result in variable battery efficiency. This phone is tough with IP68 water and dust protection, but it's thicker and heavier than other phones for vlogging, so for the most comfortable experience, you might want to use it with a selfie stick or handheld gimbal. It also ranks among our top 5G smartphones.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Huawei P30 Pro
 
 The Huawei P30 Pro is designed incredibly well, inside, and out. It features a snappy Kirin 980 processor that keeps everything running smoothly. Plus, it also offers IP68 dust and water resistance for added durability. The curved, 6.47-inch display looks great, and the metal chassis feels premium in your hands. We were impressed that the P30’s display was made from Corning Gorilla Glass so it’s more scratch and shatter-resistant than many other phones.
@@ -196,6 +222,9 @@ three cameras on the back (40MP + 20MP + 8MP) and one on the front (32MP), you�
 
 The phone can shoot video at 4K resolution at 30 frames per second, so you’ll always get the sharpest video around. We were impressed by Huawei’s Optical Image Stabilisation (OIS), as well. It uses that same AI to stabilize your shots – in both video and still images – which is really helpful overall. It’s one of the best Chinese smartphones on our list.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Google Pixel 6
 
 A second 12MP ultrawide camera with a 114-degree viewing angle is there in addition to the enormous 50MP wide-angle primary camera with optical image stabilization. Both Full HD (1080p) and 4K at 60 frames per second are supported for video output.
@@ -238,6 +267,9 @@ Xiaomi 11T Pro 5G is yet another powerful and feature-packed device. You get a 5
 
 The Hi-Res dual symmetrical speakers are tuned by Harman Kardon for a cinematic sound experience. Additionally, you also get Dolby Atmos certification for even more sound immersion. There is a 5000mAh battery that charges through a 120W HyperCharge, which takes the phone from 0 to 100 percent in just 17 minutes. The phone supports a wide range of 5G bands to make your purchase future-proof. Additionally, Xiaomi is also promising 3 generations of Android upgrades and 4 years of security patches for peace of mind. Overall, this is one of the best feature-packed camera phones you can buy for vlogging.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### iQOO 9 Pro 5G
 
 One more option for a smartphone for vlogging is the freshly released flagship from iQOO. It is equipped with the most recent Qualcomm Snapdragon 8 Gen 1 Mobile Platform, which boosts GPU performance by up to 30% and the CPU performance by 20%. You receive a 50MP GN5 Gimbal camera with gimbal image stabilization, a 16MP portrait lens with optical image stabilization, and a 50MP 150-degree Fisheye camera in terms of optics, allowing you to shoot videos anyway you like and obtain the ideal closeup of every subject. For brighter and more detailed night and low-light images, you also get Super Night Mode. With a 4700mAh battery and 120W FlashCharge capability, the smartphone can be charged to 50% in just 8 minutes. Additionally, 50W wireless
@@ -252,6 +284,9 @@ The camera has capabilities like time-freeze for cinematic effects, magic zoom t
 
 Everyone enjoys taking time-lapse videos, and the Mi 11X Pro elevates the genre with night support. The ideal would be to capture the skyline at night with the moonlight. Additional features include an upside-down parallel world mode and time-freeze video. Additionally, the audio zoom option that expands the audio in your movie deserves special note.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. What lighting do you need?
 
 There is no one-size-fits-all approach because every YouTube content creator has a unique style, from unfiltered vlogs to elaborate studio settings. A compact, portable, light-weight choice would probably work best for you if you frequently film on the go. You should look for a light that can be powered by batteries and possibly one that can connect to your phone or camera directly. Particularly effective here are ring lights and small LED panels.
@@ -270,6 +305,9 @@ The color temperature of the light is particularly crucial if you intend to use 
 
 However, you'll need a light that can be tuned to 3200K or a tungsten setting in order to match the warmer indoor lighting if you're planning on filming with a combination of video lights and conventional incandescent lights.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. What recording settings do you need?
 
 The iPhone 6s and later models can capture 4K video. iPhone 6s/7 (Plus) support 4K at 30 frames per second. The iPhone 8 and later models can capture 4K films at 24, 30, and 60 frames per second. Use 4K instead of 1080p if you don't mind a bigger file size and prefer a sharper image. When it comes to the iPhone's 4K recording settings, it's all about frame rate. Which among 4K 24 fps, 4K 30 fps, and 4K 60 fps should you choose?
@@ -310,3 +348,37 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagrams-latest-trends-reels-and-stories/"><u>[New] 2024 Approved  Mastering Instagram's Latest Trends  Reels and Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-breezing-through-igtv-acquisition-on-smartphones-and-tablets/"><u>[New] Breezing Through IGTV Acquisition on Smartphones and Tablets</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-creating-simple-videos-top-10-youtube-projects-anyone-can-do/"><u>[New] Creating Simple Videos  Top 10 YouTube Projects Anyone Can Do</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-beginner-to-star-top-25-vlogging-ideas/"><u>[New] From Beginner to Star  Top 25 Vlogging Ideas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-kitchens-to-cameras-7-essentials-for-flavorful-filmmaking/"><u>[New] From Kitchens to Cameras  7 Essentials for Flavorful Filmmaking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hazy-days-no-more-ensuring-clean-gopro-images/"><u>[New] Hazy Days No More  Ensuring Clean GoPro Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-black-in-action-essential-shooting-advice-for-amazing-results/"><u>[New] Hero5 Black in Action  Essential Shooting Advice for Amazing Results</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-sell-your-brand-through-innovative-youtuber-collaborations/"><u>[New] How To Sell Your Brand Through Innovative YouTuber Collaborations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-improving-video-quality-during-iphone-shoots/"><u>[New] Improving Video Quality During iPhone Shoots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-recording-in-audacity/"><u>[New] Innovative Strategies for Recording in Audacity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-fast-play-videos-in-ppt-sessions/"><u>[New] Mastering Fast-Play Videos in PPT Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-online-destinations-for-budget-friendly-vectr-creations/"><u>[Updated] Excellent Online Destinations for Budget-Friendly Vectr Creations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-leading-3d-modeling-platforms-for-animation-artists/"><u>[Updated] Exploring Leading 3D Modeling Platforms for Animation Artists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-rotational-photography-versus-3d-scanning/"><u>[Updated] Full-Rotational Photography versus 3D Scanning</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-eye-catcher-gaming-creating-striking-template-designs/"><u>[Updated] In 2024, Eye Catcher Gaming  Creating Striking Template Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-8-best-free-3d-video-player-for-window-and-mac/"><u>2024 Approved  8 Best Free 3D Video Player for Window and Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-paid-to-free-embracing-the-world-of-fcp/"><u>2024 Approved  From Paid to Free  Embracing the World of FCP</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-hdri-vs-sdr-a-comparative-analysis-for-filmmakers/"><u>2024 Approved  HDRI Vs. SDR  A Comparative Analysis for Filmmakers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approach-wearable-unlocks-your-mac/"><u>2024 Approved  Innovative Approach  Wearable Unlocks Your Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-innovative-ios-tools-for-ps2-game-replication/"><u>2024 Approved  Innovative IOS Tools for PS2 Game Replication</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-6-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 6 Plus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>Capture Clarity  Best Webcams to Elevate Your Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-sierra-icloud-drives-a-complete-overview-for-2024/"><u>Exploring Sierra iCloud Drives – A Complete Overview for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-ideal-frame-rates-in-slow-mo-vids-for-2024/"><u>Identifying Ideal Frame Rates in Slow-Mo Vids for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>In 2024, Get the Perfect Slideshow Design  10 Places to Download for Inspiration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hymn-based-ringtone-options-for-every-believer/"><u>In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-creative-spark-choosing-from-the-best-6-nft-services/"><u>In 2024, Ignite Creative Spark  Choosing From the Best 6 NFT Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-virtual-reality-gaming-the-2023-update/"><u>In 2024, Innovating Virtual Reality Gaming - The 2023 Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-to-enhance-mp4s-with-srt/"><u>In 2024, Innovative Approach to Enhance MP4s with SRT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracking-and-tallying-windows-app-sizes/"><u>Tracking and Tallying Windows App Sizes</u></a></li>
+</ul></div>

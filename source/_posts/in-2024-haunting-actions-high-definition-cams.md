@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Haunting Actions  High Definition Cams\""
-date: 2024-05-26T18:04:52.191Z
-updated: 2024-05-27T18:04:52.191Z
+date: 2024-07-26T14:09:20.515Z
+updated: 2024-07-27T14:09:20.515Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes In 2024, Haunting Actions: High Definition Cams\""
 excerpt: "\"This Article Describes In 2024, Haunting Actions: High Definition Cams\""
 keywords: "HD Ghost Hunts,HDR Hauntings,High Res EVPs,Ultra Clear Phantoms,Sharp Ghosts View,Superior Ghost Cams,High Definition Paranormal"
-thumbnail: https://www.lifewire.com/thmb/fL3sieVuZApZBM3scIUavadDQsQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/googlebardgmail-5a6d6f4364b84af5918abd606bacfc47.jpg
+thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e3aae650ea39b1f4ae6fa12f.jpg
 ---
 
 ## Haunting Actions: High Definition Cams
 
 # Drift Innocations Ghost-S Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,10 +33,25 @@ thumbnail: https://www.lifewire.com/thmb/fL3sieVuZApZBM3scIUavadDQsQ=/400x300/fi
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -109,6 +127,9 @@ thumbnail: https://www.lifewire.com/thmb/fL3sieVuZApZBM3scIUavadDQsQ=/400x300/fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -204,6 +225,9 @@ Follow @Max Wales
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -224,6 +248,9 @@ Follow @Max Wales
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -299,6 +326,9 @@ Follow @Max Wales
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -319,6 +349,10 @@ Follow @Max Wales
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -426,3 +460,40 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-mobile-privacy-the-best-7-adblocker-apps-for-android/"><u>[New] Essential Mobile Privacy  The Best 7 AdBlocker Apps for Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-instagrams-unpredictable-video-playback/"><u>[New] Exploring Instagram's Unpredictable Video Playback</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-making-a-channels-story-visible-in-snippets/"><u>[New] In 2024, Making a Channel's Story Visible in Snippets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[New] In 2024, Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-apowersoft-free-software-review-for-techies/"><u>[Updated] Apowersoft Free Software Review for Techies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-best-5-quick-filming-diy-hacks-to-try-at-home/"><u>[Updated] Best 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>[Updated] Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insights-top-30-hidden-windows-11-tips-uncovered/"><u>[Updated] Exclusive Insights  Top 30 Hidden Windows 11 Tips Uncovered</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fly-higher-10-must-have-uav-extras-revealed/"><u>[Updated] Fly Higher  10 Must-Have UAV Extras Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garmins-virb-ultra-30-action-cam-in-depth-features-analysis/"><u>[Updated] Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-groundbreaking-method-to-insert-gopro-clips-into-virtual-panoramic-movies/"><u>[Updated] Groundbreaking Method to Insert GoPro Clips Into Virtual Panoramic Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-qp-for-gradual-video-playback/"><u>[Updated] Highest QP for Gradual Video Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-30plus-best-no-spend-templates-for-after-effects-wizards/"><u>2024 Approved  30+ Best No-Spend Templates for After Effects Wizards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-speed-photo-inspector-for-windows-11/"><u>2024 Approved  High-Speed Photo Inspector for Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrator-tips-achieving-natural-motion-blur/"><u>2024 Approved  Illustrator Tips  Achieving Natural Motion Blur</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-mcuicnt-file-execution-failure-on-windows/"><u>Addressing McUICnt File Execution Failure on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-12-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 12 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-art-of-audio-mixdowns-via-crossfade-for-2024/"><u>Exploring the Art of Audio Mixdowns via Crossfade for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/external-microphones-to-elevate-film-quality-for-2024/"><u>External Microphones to Elevate Film Quality for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basics-to-expertise-the-quantum-hdr-journey-for-2024/"><u>From Basics to Expertise  The Quantum HDR Journey for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-finding-perfect-music-for-unpack-videos-for-2024/"><u>Guide  Finding Perfect Music For Unpack Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hack-your-webcam-efficient-recording-techniques/"><u>Hack Your Webcam  Efficient Recording Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-volume-dial-down-with-fl-studio-features-for-2024/"><u>Harmonizing Volume Dial-Down with FL Studio Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/haul-videography-unlocked-step-by-step-guide-for-enthusiasts-for-2024/"><u>Haul Videography Unlocked  Step-by-Step Guide for Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-post-a-picture-on-youtube-for-2024/"><u>How to Post a Picture on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-zooming-experience-with-microsoft-teams-for-2024/"><u>Immersive Zooming Experience with Microsoft Teams for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-handsome-horizons-premium-pc-backgrounds-online/"><u>In 2024, Handsome Horizons  Premium PC Backgrounds Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-burst-mode-enhances-gopro-videos/"><u>In 2024, How Burst Mode Enhances GoPro Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hunt-down-the-best-free-vfx-platforms-for-your-editing-needs/"><u>In 2024, Hunt Down the Best Free VFX Platforms for Your Editing Needs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>In 2024, The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-12-mini-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 12 mini</u></a></li>
+</ul></div>

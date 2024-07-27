@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, High-Capacity SD Card for Sony A7S Series\""
-date: 2024-05-26T16:48:32.514Z
-updated: 2024-05-27T16:48:32.514Z
+date: 2024-07-26T12:10:52.509Z
+updated: 2024-07-27T12:10:52.509Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes In 2024, High-Capacity SD Card for Sony A7S Series\""
 excerpt: "\"This Article Describes In 2024, High-Capacity SD Card for Sony A7S Series\""
 keywords: "\"Sony A7S SD Card,High Capacity A7S SD,A7S Series Memory Expansion,Ultra-HD Sony A7S Storage,Sony A7S Large SD,Professional A7S Flash Drive,Enhanced Sony A7S Card\""
-thumbnail: https://www.lifewire.com/thmb/YDbqv0KlCSwJ6pxbiAiduwvZbiQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-735894879-59a33461519de20010087422.jpg
+thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d762e94ab1bade24154e68d3e.jpg
 ---
 
 ## High-Capacity SD Card for Sony A7S Series
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -67,6 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/YDbqv0KlCSwJ6pxbiAiduwvZbiQ=/400x300/fi
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +111,9 @@ thumbnail: https://www.lifewire.com/thmb/YDbqv0KlCSwJ6pxbiAiduwvZbiQ=/400x300/fi
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -158,6 +167,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -196,6 +208,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -212,6 +227,11 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -410,3 +430,51 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-earths-highest-paid-online-video-personality/"><u>[New] 2024 Approved  Earth's Highest-Paid Online Video Personality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-mobile-enhancements-with-androids-lightroom-app/"><u>[New] Examining Mobile Enhancements with Android's Lightroom App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>[New] From Kitchen to Screen  Unveiling the Top 7 Cooking Film Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hps-visionary-color-display-dissecting-the-z32x-monitor/"><u>[New] HP’s Visionary Color Display  Dissecting the Z32X Monitor</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-crafting-captivating-facebook-biographies-a-comprehensive-guide/"><u>[New] In 2024, Crafting Captivating Facebook Biographies - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovation-in-your-hands-the-sonic-experience-of-xperia-xz/"><u>[New] Innovation in Your Hands  The Sonic Experience of Xperia XZ</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-mobile-photography-a-look-at-iphone-x/"><u>[New] Innovations in Mobile Photography  A Look at iPhone X</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-android-internal-sound-record-without-root-access/"><u>[Updated] 2024 Approved  Android Internal Sound Record Without Root Access</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-ai-driven-shooting-modes-in-todays-cameras/"><u>[Updated] Exploring the AI-Driven Shooting Modes in Today's Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extending-the-frame-in-depth-slomo-app-assessment-2024/"><u>[Updated] Extending the Frame  In-Depth SloMo App Assessment, 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flavorful-footage-the-ultimate-guide-to-delicious-food-vids/"><u>[Updated] Flavorful Footage  The Ultimate Guide to Delicious Food Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-ordinary-to-outstanding-transforming-your-meetings-with-zoom-filters/"><u>[Updated] From Ordinary to Outstanding  Transforming Your Meetings with Zoom Filters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-start-to-finish-itunes-video-logging-for-2024/"><u>[Updated] From Start to Finish  ITunes Video Logging for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-headstarts-curated-spots-with-the-best-music-picks/"><u>[Updated] Harmonic Headstarts  Curated Spots with the Best Music Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-no-cost-game-recorders-the-essential-selection-list/"><u>[Updated] No-Cost Game Recorders  The Essential Selection List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pioneering-insights-into-asmr-video-content/"><u>[Updated] Pioneering Insights Into ASMR Video Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-10-best-sites-to-download-free-slideshow-templates-filmora/"><u>2024 Approved  10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>2024 Approved  Exclusive Guide  The Intricate Process of Media Import in W11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-e-learning-title-engineer/"><u>2024 Approved  Expert E-Learning Title Engineer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-five-fantastic-iphones-for-podcast-fans/"><u>2024 Approved  Five Fantastic iPhones for Podcast Fans</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-art-to-cinematic-masterpiece-utilizing-luts-from-cg-central/"><u>2024 Approved  From Concept Art to Cinematic Masterpiece  Utilizing Luts From CG Central</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-tracking-deciphered-a-users-guide/"><u>2024 Approved  Hand Tracking Deciphered  A User's Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-stabilize-iphone-videos/"><u>2024 Approved  How to Stabilize iPhone Videos?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-vr-bicycle-journeys-to-try/"><u>2024 Approved  Immersive VR Bicycle Journeys to Try</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-watch-over-instagrams-friendship-shifts/"><u>2024 Approved  Watch Over Instagram's Friendship Shifts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-strategies-for-soundless-video/"><u>Advanced Strategies for Soundless Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-path-fixing-windows-11-writable-errors/"><u>Clearing the Path: Fixing Windows 11' Writable Errors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/excellent-video-and-picture-capture-for-iphones-and-androids-here-in-2024/"><u>Excellent Video & Picture Capture for iPhones & Androids Here, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gold-medal-glory-olympic-speed-skating-short-track-highlights-for-2024/"><u>Gold Medal Glory  Olympic Speed Skating Short Track Highlights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-turning-tiktok-music-into-your-cell-phone-ringtone-for-2024/"><u>Guide to Turning TikTok Music Into Your Cell Phone Ringtone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guidelines-to-broaden-youtube-content-area-for-2024/"><u>Guidelines to Broaden YouTube Content Area for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-in-transition-crafting-crossfade-effects-for-2024/"><u>Harmony in Transition  Crafting Crossfade Effects for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-does-apples-m1-compare-to-traditional-editing-workstations-for-2024/"><u>How Does Apple’s M1 Compare to Traditional Editing Workstations for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-companionship-through-metaverse-adventures/"><u>In 2024, Best Companionship Through Metaverse Adventures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-film-timeframe-determining-gb-storage-requirement/"><u>In 2024, Film Timeframe  Determining GB Storage Requirement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flashy-flights-prime-pc-and-mobile-game-hits/"><u>In 2024, Flashy Flights  Prime PC and Mobile Game Hits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-kinemaster-app-transform-your-gaming-world/"><u>In 2024, In-Depth Analysis  KineMaster App - Transform Your Gaming World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-inject-photos-with-rotational-blur-effects-in-photosoph/"><u>In 2024, Inject Photos with Rotational Blur Effects in PHOTOSOPH</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-syma-x8c-evaluation-for-2024/"><u>In-Depth Syma X8C Evaluation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intense-action-iphone-tips-for-artistic-motion-blur-photos-for-2024/"><u>Intense Action  IPhone Tips for Artistic Motion-Blur Photos for 2024</u></a></li>
+</ul></div>

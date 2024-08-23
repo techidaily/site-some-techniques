@@ -1,7 +1,7 @@
 ---
 title: "Optimized with the Help of Cookiebot: Your Pathway to Enhanced SEO Performance"
-date: 2024-08-21 15:18:48
-updated: 2024-08-22 11:57:46
+date: 2024-08-22T06:08:05.688Z
+updated: 2024-08-23T06:08:05.688Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4082ac6c30e6e25f75285938.jpg
@@ -56,12 +56,21 @@ Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern od
 
 Typische Anwender von OCR-Lösungen sind unter anderem Organisationen, die damit zur Einhaltung von behördlichen und unternehmensinternen Vorschriften große Mengen an Papier- und digitalen Dokumenten in barrierefreie und durchsuchbare Formate umwandeln, Anwaltskanzleien, die gedruckte Verträge in bearbeitbare digitale Formate für die Suche, eDiscovery und Datenanalyse umwandeln, Unternehmen des Gesundheitswesens, die Patientenakten auf ihr Computersystem übertragen, um die Einhaltung des HIPAA zu gewährleisten, Bibliotheken und Archive, die historische Dokumente in digitaler Form aufbewahren, damit die Mitarbeiter eines Unternehmens ihre tägliche Arbeit mit Dokumenten effizient erledigen können, und Softwareentwickler, die Inhaltsdienste, digitale Archivierung, Dokumentenverwaltungssysteme (DMS) und ECM-Lösungen (Enterprise Content Management) entwickeln.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Was ist IDP?
 
 [Intelligente Dokumentenverarbeitung](https://tools.techidaily.com/abbyy/products/) **(IDP) ermöglicht die durchgängige Verarbeitung von Dokumenten durch automatisches Erfassen, Extrahieren und Verarbeiten von Daten, die in Geschäftsdokumenten eingebettet sind,** in nahezu jedem Prozess in jeder Branche.
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wie es funktioniert
 
 IDP beinhaltet eine optische Zeichenerkennung (OCR), um gedruckten oder handschriftlichen Text in ein maschinenlesbares Format umzuwandeln. IDP nutzt darüber hinaus Techniken der künstlichen Intelligenz (KI) und des maschinellen Lernens (ML), um strukturierte, halbstrukturierte und unstrukturierte Daten in Dokumenten wie ein Mensch zu lesen, zu verstehen und zu verarbeiten.
@@ -105,6 +114,10 @@ So kann IDP beispielsweise eine Rechnung lesen, ihren Inhalt mit einer entsprech
 | **Technologie**              | Bildverbesserung, Objekterkennung OCR / ICR                                                                                                                                                                                                                        | Klassifizierung Deep Machine Learning Fast Machine Learning Extraktionsregeln Segmentierung Erkennung von Eigennamen (NER) Natural Language Processing (NLP)                                                                                                                                      |
 | **Typische Anwendungsfälle** | Bietet Zugang zu maschinenlesbarem Text als Grundlage für: PDF-Konvertierung, Digitale Archivierung / Suche eDiscovery Erweiterte Suche / Digitale Forensik Datenanalyse Intelligente Dokumentenverarbeitung (IDP)                                                 | Automatisierung aller dokumentenzentrierten Geschäftsprozesse: Automatisierung der Kreditorenbuchhaltung Neukundenaufnahme / KYC Kreditbearbeitung Automatisierung von Transport- und Logistikdokumentation Bearbeitung von Versicherungsansprüchen                                               |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Beispiele für OCR und IDP in Geschäftsprozessen
 
 #### Bearbeitung von Rechnungen
@@ -123,6 +136,9 @@ Studien zufolge stellen 90% der Unternehmen fest, dass potenzielle Kunden den di
 
 Mit intelligenter Dokumentenverarbeitung können Sie die Hindernisse beseitigen, die zu Abbrüchen veranlassen. [Unternehmen können die IDP-Technologie für den Identitätsnachweis](https://tools.techidaily.com/abbyy/products/) und die Identitätsbestätigung nutzen, was das Ganze für Kunden einfacher und für Unternehmen sicherer macht. IDP kann Ausweisdokumente wie Führerscheine oder Reisepässe oder unterstützende Dokumente wie Kontoauszüge oder Rechnungen von Versorgungsunternehmen erfassen und klassifizieren, die zum Nachweis der Adresse benötigt werden. Sie kann beispielsweise von Kraftfahrzeugbehörden für die Verlängerung eines Führerscheins oder von einer Bank für Hypothekenanträge verwendet werden.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OCR vs. IDP: Was ist für Ihr Unternehmen am besten?
 
 **Bei der OCR geht es in erster Linie darum, den vollständigen Text aus Bildern und Dokumenten zu extrahieren, damit er am Computerbildschirm dargestellt und bearbeitet werden kann.** OCR erkennt verschiedene Schriftarten, Bilder und handschriftliche Notizen und wandelt sie in bearbeitbaren und durchsuchbaren digitalen Text um. Für Unternehmen, die Lösungen zur digitalen Archivierung suchen oder unterstützende Technologien entwickeln wollen, die eine hervorragende Texterkennung, PDF-Konvertierung und Datenerfassungsfunktionen erfordern, ist eine OCR-Lösung am besten geeignet. Mit dem [OCR Software Development Kit (SDK) von ABBYY](https://tools.techidaily.com/abbyy/products/) erhalten Sie hervorragende Funktionen für die Dokumentenerfassung.
@@ -179,6 +195,9 @@ Slavena Hristova ist Direktorin für Produktmarketing, Vantage bei ABBYY. Hristo
 
 Verbinden Sie sich mit Slavena auf [LinkedIn](https://www.linkedin.com/in/slavena-hristova-r%C3%B6%C3%9Fler-044aa05a/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Gefällt mir, teilen oder neu posten 
 
 Teilen 
@@ -237,3 +256,38 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/rafting-fast-fortnite-icons-in-minutes-for-2024/"><u>[New] Crafting Fast Fortnite Icons in Minutes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-new-frontiers-with-vr-game-engines/"><u>[New] Exploring New Frontiers with VR Game Engines</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonize-with-inshots-music-load-functionality/"><u>[New] Harmonize with InShot's Music Load Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>[New] Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-traffic-on-youtube-mastering-the-art-of-video-outros-for-2024/"><u>[Updated] Boosting Traffic on YouTube  Mastering the Art of Video Outros for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-html5-video-tools-you-must-check/"><u>[Updated] Excellent HTML5 Video Tools You Must Check</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-lineup-top-10-sources-for-vector-imagery/"><u>[Updated] Exclusive Lineup  Top 10 Sources for Vector Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-flipping-and-tilting-iphone-images/"><u>[Updated] Expert Techniques for Flipping & Tilting iPhone Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-financial-plan-for-crafting-a-song-to-screen/"><u>[Updated] Financial Plan for Crafting a Song to Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-base-to-pro-level-gopro-hero5-black-vs-hero4-silver-showdown/"><u>[Updated] From Base to Pro-Level  GoPro Hero5 Black vs Hero4 Silver Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-quality-ai-voice-to-text-software/"><u>[Updated] Highest Quality AI Voice to Text Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-iconic-locales-for-stream-video-quality/"><u>[Updated] Iconic Locales for Stream Video Quality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-dissecting-apowersoft-an-in-depth-screen-recorder-study/"><u>[Updated] In 2024, Dissecting Apowersoft  An In-Depth Screen Recorder Study</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-lut-creation/"><u>[Updated] Innovative Approaches to LUT Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-every-frame-windows-11-and-storyremix-combo-guide-to-video-editing/"><u>[Updated] Perfect Every Frame  Windows 11 & StoryRemix Combo Guide to Video Editing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-professional-thumbnails-for-engaging-igtv-posts-for-2024/"><u>[Updated] Professional Thumbnails for Engaging IGTV Posts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-endless-buffering-solving-photo-booth-freezes/"><u>2024 Approved  Endless Buffering  Solving Photo Booth Freezes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-face-editing-tools-for-iphones-and-samsungs/"><u>2024 Approved  Prime Face-Editing Tools for iPhones and Samsungs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-elite-cloud-solutions-your-2024-selection-guide/"><u>Exploring Elite Cloud Solutions  Your 2024 Selection Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gaming-at-its-peak-platform-9-insights-for-2024/"><u>Gaming at Its Peak  Platform #9 Insights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-real-time-broadcast-frameworks-for-2024/"><u>High-Quality Real-Time Broadcast Frameworks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds-for-2024/"><u>How to Find Elite Instagram Tones and Craft Unique Alarm Sounds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-zoom-in-on-kinemaster-for-2024/"><u>How to Zoom in on Kinemaster for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>In 2024, From Fragmented Footage to Fluid Editing  Inshot's Pathway to Perfection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-featured-sierra-drives-files-and-more/"><u>In 2024, Full-Featured Sierra  Drives, Files, and More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-windows-11s-high-dynamic-range-auto-hdr-for-better-visuals/"><u>In 2024, Harnessing Windows 11'S High Dynamic Range (Auto HDR) for Better Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-holographic-horizons-reimagined-movies/"><u>In 2024, Holographic Horizons  Reimagined Movies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-c53-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme C53 FRP Without Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unveiling-top-win11-videography-software-selections/"><u>In 2024, Unveiling Top Win11 Videography Software Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-comparison-can-inshot-outshine-competitors-for-2024/"><u>In-Depth Comparison  Can InShot Outshine Competitors for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>Updated 2024 Approved Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
+</ul></div>

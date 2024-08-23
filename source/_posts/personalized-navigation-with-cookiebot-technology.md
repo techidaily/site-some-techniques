@@ -1,7 +1,7 @@
 ---
 title: Personalized Navigation with Cookiebot Technology
-date: 2024-08-19 14:57:20
-updated: 2024-08-22 11:26:45
+date: 2024-08-22T06:12:35.197Z
+updated: 2024-08-23T06:12:35.197Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5eeabfb4f334c0a2440c4fac.jpeg
@@ -47,6 +47,9 @@ Lorsque l’on se penche sur les processus de trésorerie avec les lunettes de l
 
 Par exemple, la Process Intelligence peut révéler qu’une étape spécifique du processus, comme la vérification d’une commande, prend trop de temps et entraîne ainsi des retards qui ont des répercussions sur l’ensemble du processus. Ou bien, la PI peut révéler des cas où des étapes capitales telles que la vérification des crédits sont oubliées, ce qui se traduit par un risque financier accru pour l’entreprise. La Process intelligence offre une perspective globale et peut fournir des informations essentielles sur la dynamique des processus et les possibilités d’optimisation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Qu’est-ce que la business intelligence (BI) ?
 
 **La Business intelligence, pour sa part, est un processus technologique qui couvre l’analyse et la présentation des informations de l’entreprise.**  Son premier objectif est d’aider les entreprises à prendre des décisions éclairées en leur fournissant des renseignements sur leurs opérations, le comportement de leurs clients, les tendances du marché et le paysage concurrentiel.
@@ -62,6 +65,9 @@ Ce que la BI ne pourra pas vous dire, du moins pas sans un travail de développe
 
 Par exemple, pouvez-vous déterminer, dans les cas où certains vendeurs ont reçu le plus grand nombre de commandes, si cela coïncide avec des interactions efficaces avec les clients auxquels on a rapidement répondu ? Et inversement, pouvez-vous déterminer si des niveaux faibles de commandes correspondent à des délais de réponse lents ou à des demandes de clients passées à la trappe ? C’est là que la BI n’est plus à la hauteur, car elle n’est pas en mesure d’établir ou de prouver ces corrélations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Différences-clés entre la process intelligence et la business intelligence
 
 ### Focus
@@ -72,10 +78,16 @@ La **Process intelligence** se focalise sur l’analyse et l’optimisation des 
 
 La **Process intelligence** utilise les journaux des événements, les tableaux d’audit, les interactions des utilisateurs et les activités de l’ordinateur comme premières sources de données. La **Business intelligence** utilise les données tirées de différentes sources en lien avec une étape/une partie spécifique d’un processus métier, afin d’analyser et de visualiser les schémas, les tendances et les anomalies.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Résultats
 
 La **Process intelligence** fournit des renseignements qui aident les entreprises à optimiser leurs processus métier, en leur offrant une meilleure compréhension du contexte global des étapes spécifiques et des variations entre les différents processus. La **Business intelligence** fournit des renseignements qui aident les entreprises à prendre des décisions éclairées, basées sur les données.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Outils
 
 Les outils de **Process intelligence** comprennent des fonctionnalités de process mining, de task mining, d’analyse, de suivi, de prédiction et de simulation. Les outils de   **Business intelligence** comprennent habituellement des fonctionnalités de tableaux de bord, de reporting, d’analyse de données et de visualisation.
@@ -98,6 +110,9 @@ Il est important, pour ceux qui ne connaissent pas la process intelligence et le
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -108,6 +123,10 @@ Ayant 30 ans d’expérience dans le secteur informatique, Scott a créé et dé
 
 Précédemment, Scott a également occupé les fonctions de Vice-Président Senior, Chargé du développement marketing & commercial de webMethods (aujourd’hui Software AG), où il était également responsable de la commercialisation, du développement commercial et de la planification stratégique pour les produits. Il a rejoint webMethods suite à son acquisition d’IntelliFrame Corporation, fournisseur de produits d’intégration des données, et du flux intégré InVista, ainsi que de la plateforme BPM qu’il a cofondée. Scott a également occupé de nombreuses fonctions de cadre dans la technologie, le marketing et le développement commercial, tant pour des entreprises publiques que privées.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Aimer, partager ou reposter 
 
 Share 
@@ -170,3 +189,55 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-best-of-breed-top-rated-youtubers-streaming-arsenal/"><u>[New] 2024 Approved  Best of Breed  Top-Rated Youtuber's Streaming Arsenal</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>[New] 2024 Approved  Gameplay Revolution  Elevating Ram Usage for Minecraft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expedite-excitement-fast-video-on-android/"><u>[New] Expedite Excitement  Fast Video on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-greatest-vr-handhelds-listed/"><u>[New] Explore Greatest VR Handhelds Listed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>[New] Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-quality-faceoff-hero-black-and-keymission-camera/"><u>[New] Film Quality Faceoff  HERO Black and Keymission Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-googles-ar-stickers-an-overview-with-comparison-to-rival-products/"><u>[New] Google's AR Stickers  An Overview with Comparison to Rival Products</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>[New] Guide to Optimal VR Headset Selection  Freedom or Connection?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guided-steps-to-decrease-audio-intensity-using-lumafusion/"><u>[New] Guided Steps to Decrease Audio Intensity Using Lumafusion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-performance-mac-editors-ranked-1-to-5/"><u>[New] High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-spiritual-sounds-on-cellphones/"><u>[New] Incorporating Spiritual Sounds on Cellphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-fun-in-feeds-animating-instagram-text-on-stories/"><u>[New] Infusing Fun in Feeds  Animating Instagram Text on Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-straightforward-guide-switch-video-direction-in-vlc/"><u>[New] Straightforward Guide  Switch Video Direction in VLC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-role-of-crossfade-in-modern-music-mixing/"><u>[New] The Role of Crossfade in Modern Music Mixing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-keeping-the-flow-alive-2023-guide-to-live-video-repairs-on-fb/"><u>[Updated] 2024 Approved  Keeping the Flow Alive  2023 Guide to Live Video Repairs on FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>[Updated] Exclusive List  Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-efficient-video-editing-with-gopro-studio/"><u>[Updated] Expert Strategies for Efficient Video Editing with GoPro Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-fundamentals-of-av1-encoding/"><u>[Updated] Exploring the Fundamentals of AV1 Encoding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-to-time-lapse-magic-on-samsung-phones/"><u>[Updated] Fast Track to Time-Lapse Magic on Samsung Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22/"><u>[Updated] From Blurry to Crystal Clear  The Ultimate Guide to VCE 2.2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[Updated] From Novice to Master  The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gradual-dimming-of-sound-in-audacity-masterclass/"><u>[Updated] Gradual Dimming of Sound in Audacity Masterclass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-personalize-videos-adding-captions-in-the-photos-app/"><u>[Updated] How to Personalize Videos  Adding Captions in the Photos App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reimagine-photos-with-picshots-simple-techniques/"><u>[Updated] Reimagine Photos with Picshot’s Simple Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-uploading-subtitles-a-compreenas-guide-for-all-social-media-users-for-2024/"><u>[Updated] Uploading Subtitles  A Compreenas Guide for All Social Media Users for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-the-power-of-intova-x/"><u>2024 Approved  Exploring The Power of Intova X</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/7-ideal-monitors-for-digital-artists-for-2024/"><u>7 Ideal Monitors for Digital Artists for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dissecting-revenue-allocation-for-shortform-content-makers/"><u>Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-and-yi-the-2023-ultimate-actions-camera-verdict-for-2024/"><u>GoPro & YI  The 2023 Ultimate Actions Camera Verdict for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-sony-xperia-5-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Sony Xperia 5 V?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-subtitles-to-windows-media-player-for-2024/"><u>How to Add Subtitles to Windows Media Player for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-ensure-optimal-performance-updating-drivers-for-epsons-wf-7620-printer-in-windows-environments/"><u>How to Ensure Optimal Performance: Updating Drivers for Epson's WF-7620 Printer in Windows Environments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>In 2024, Evolving Videography  Redefining Social Sharing with Periscope Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-text-plugin-compendium/"><u>In 2024, Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-to-the-best-10-vector-images-online/"><u>In 2024, Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-sub-to-srt-tools-top-8-guide-reviewed/"><u>In 2024, Expert Recommended Sub to SRT Tools  Top 8 Guide Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-finest-free-luts-of-the-year/"><u>In 2024, Explore the Finest FREE LUTs of the Year</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extreme-sports-showdown-hero5-black-versus-hero4-silver/"><u>In 2024, Extreme Sports Showdown  Hero5 Black Versus Hero4 Silver</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-v30-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-animation-and-graphic-expression/"><u>In 2024, Fundamentals of Animation and Graphic Expression</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-nokia-130-music-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Nokia 130 Music To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-maximizing-creativity-with-picsart/"><u>In 2024, In-Depth Guide to Maximizing Creativity with PicsArt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-humor-into-your-social-media-posts/"><u>In 2024, Infusing Humor Into Your Social Media Posts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-groups-shaping-future-of-vr-worlds-for-2024/"><u>Innovative Groups Shaping Future of VR Worlds for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10-4gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10 4GFRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-language-learning-the-power-of-chatgpt-plus/"><u>Mastering Language Learning: The Power of ChatGPT Plus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>Setting the Scene  A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-130-music-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nokia 130 Music Users</u></a></li>
+</ul></div>

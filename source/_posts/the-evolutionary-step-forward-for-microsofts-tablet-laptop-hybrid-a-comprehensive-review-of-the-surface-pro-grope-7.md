@@ -1,0 +1,222 @@
+---
+title: The Evolutionary Step Forward for Microsoft's Tablet-Laptop Hybrid - A Comprehensive Review of the Surface Pro Grope 7
+date: 2024-08-22T06:24:23.731Z
+updated: 2024-08-23T06:24:23.731Z
+categories:
+  - BestProducts
+description: This Article Describes The Evolutionary Step Forward for Microsoft's Tablet-Laptop Hybrid - A Comprehensive Review of the Surface Pro Grope 7
+excerpt: This Article Describes The Evolutionary Step Forward for Microsoft's Tablet-Laptop Hybrid - A Comprehensive Review of the Surface Pro Grope 7
+thumbnail: https://www.lifewire.com/thmb/Y8YsdK515I1EIquz9XnT0gfimpo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Microsoft-Surface-Pro-7-Computer-1-9f5f2e0b77a446068ba1bd42e29964b6.jpg
+---
+
+## Comprehensive Review of the Compact and Reliable AUDEW Portable Air Pump - Functionality Unmatched
+
+4.3
+
+## Audew Portable Air Compressor Pump
+
+![Audew Portable Air Compressor Pump](https://www.lifewire.com/thmb/cFdj6kL0x5ji7kWglykgMkpAMoM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Audew-Tire-Inflator_HeroSquare-918a4d5f24ed473594c14775a3110898.jpg)
+
+Lifewire / Jeffrey Daniel Chadwick
+
+ What We Like
+
+* Easy to understand and operate
+* Quick fill times
+* Low price-tag
+
+ What We Don't Like
+
+* Substandard LED light
+* Limited range
+* Awkward cord and hose storage
+
+ The Audew Portable Air Compressor Pump has some small design foibles that are easily forgiven on account of its utility, reliability and price-tag.
+
+[View On Audew.com](https://www.audew.com/Audew-12V-150PSI-Triangle-Tire-Inflator-with-10-ft-Power-Cord-LCD-Digital-Display-p-182023.html)
+
+4.3
+
+## Audew Portable Air Compressor Pump
+
+![Audew Portable Air Compressor Pump](https://www.lifewire.com/thmb/oqYlb0kfEKI_L1jXrcVUnxqWgy0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Audew-Tire-Inflator_HeroSquare-918a4d5f24ed473594c14775a3110898.jpg)
+
+Lifewire / Jeffrey Daniel Chadwick
+
+[View On Audew.com](https://www.audew.com/Audew-12V-150PSI-Triangle-Tire-Inflator-with-10-ft-Power-Cord-LCD-Digital-Display-p-182023.html)
+
+ in this article
+
+ Expand
+
+* [Design and Features](https://review-au.sjv.io/wqnrq3)
+* [Setup Process](https://dreoaffiliateprogram.pxf.io/k0ezjl)
+* [Performance](https://turtlebeachus.sjv.io/vmebyo)
+* [Price](https://imp.i110150.net/r5bmpn)
+* [Competition](https://laganoo.pxf.io/5g6ygn)
+* [Final Verdict](https://bluettide.pxf.io/ekmjb2)
+* [Specs](https://turtlebeacheu.sjv.io/1r0r59)
+
+ _We purchased the Audew Portable Air Compressor Pump so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
+
+ The Audew Portable Air Compressor Pump is a portable tire inflator that’s budget-friendly, convenient, and discreet. You can expect it to perform reliably and efficiently whenever you pull it out of your trunk. It’s not only a good just-in-case device for unexpected flats, but also for regular pressure maintenance so you get the most out of your tires. It loses some points for subpar instructions, but the pump is so intuitive that it shouldn’t matter. For the price, there’s not much to complain about.
+
+ Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Design and Features: Easy enough for anyone**
+
+ The most convenient thing about the Audew portable air compressor is that all its essential components are integrated into one unit. Hose, compressor, and power cord are all together and assembled. All you have to do is connect it to power and then a tire.
+
+ This portable tire inflator has a unique triangular design. The heavy-duty plastic case is mostly black with bright yellow accents. This makes it easy to spot during daylight hours and the yellow trim makes it a bit more visible at night.
+
+ The LED bulb is quite small and isn’t very bright. You should only expect to illuminate only a few inches directly in front of the device.
+
+ The built-in LED light provides enhanced visibility for the device itself and for the tire or object you’re inflating. However, the bulb is quite small and isn’t very bright. You should only expect to illuminate only a few inches directly in front of you.
+
+ When it isn’t in use, the 21-inch air-hose wraps around the edge of the triangular casing, and the nozzle fits nicely in its notch, locking the cord in place, which makes it more compact and convenient to store. The 10-foot power cord and attached 12V adapter fit snugly, if imperfectly, on the back.
+
+ However, don’t expect to fit the entire cord in the provided grooves, they’re simply not enough room. A portion of the cord will always be hanging out of the side. But once it’s in the carrying case, that visual foible doesn’t matter.
+
+ The[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) control panel is a simple affair. You get three buttons and a small LED display. Once you have it plugged in and attached to your tire, simply set the PSI level (pounds per square inch) you want, hit the R button and the pump immediately goes to work. When the desired PSI level is reached, the pump automatically shuts down to prevent overfill.
+
+ This tire pump can inflate tires and other objects up to 150 PSI. You’ll rarely, if ever, need to pump something that tight but it’s nice to know that you can. Generally speaking, tires on a sedan should be filled between 30 to 32 PSI. Check your car’s owner’s manual for your model’s specific needs.
+
+ In addition to PSI, this mini tire pump also displays pressure in the metric system’s BAR and KPA units. This is useful if you intend to use the device outside of the US or use it with products that measure pressure using the metric or SI system.
+
+ This portable air compressor draws power from[12V “cigarette lighter”](https://www.lifewire.com/car-cigarette-lighter-12v-socket-534754) adapter attached to the power cord. This makes it convenient for use with a vehicle, but also limits its usefulness for situations where a vehicle with the proper socket isn’t available.
+
+ This tire pump can inflate tires and other objects up to 150 PSI. You’ll rarely, if ever, need to pump something that tight but it’s nice to know that you can.
+
+ Audew includes a discreet, black carrying case with this portable car pump. It’s a compact 9.2 x 8.3 x 4.3 inches (HWD), square and fits easily in your trunk, garage shelves or wherever you keep just-in-case items such as jumper cables and flashlights.
+
+ Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Setup Process: Language Barriers Overcome with Simplicity**
+
+ Despite the Audew being so intuitive and straightforward, you’ll definitely want to take at least a few minutes to familiarize yourself with it because it has a few foibles. The most notable stumbling block is the instruction manual and warranty card. It is printed in, at best, broken English. The instructions themselves are brief and only cover the most basic aspects of the device. Fortunately, the air compressor is intuitive enough to grasp after only a few minutes, but you definitely want those minutes to be spent in your driveway. However, once you have a good grasp of it, you should be able to take the Audew portable air compressor out, hook it up, and get it running in less than a minute.
+
+ Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## **Performance: Fast filling for the road**
+
+ To put the portable tire inflator through its paces, we took it road tripping through the American Mountain West for several days. We stopped at gas stations and rest stops along the way to simulate real-life situations where you’d be using it on the go.
+
+ You can operate the pump for about eight minutes at a time before it has to power down and rest for three minutes.
+
+ Our first test involved deflating all four tires on our car to 20 PSI (the point where they’re considered dangerously low), and timing how long it took to inflate them to the recommended 32 PSI. On average, it took the Audew Portable Air Compressor Pump just over one minute to complete this task. This is pretty quick, only one other portable air compressor we tested had a faster average fill time.
+
+ You can operate the pump for about eight minutes at a time before it has to power down and rest for three minutes. However, throughout our week of testing portable tire pumps, we never had to run it that long to fill a tire. To hit eight minutes of continuous use, you’d have to be inflating something like a large swimming pool or a bouncy castle.
+
+ To test the accuracy of this pump, we routinely checked the air pressure displayed on the screen with that of a simple stick tire pressure gauge. Their readings consistently came within 1 PSI of each other. So while you can trust its accuracy, you can’t throw your pressure gauge out since the pump isn’t very convenient or quick for measuring tire pressure.
+
+ When in use, the loudest it got was 99 decibels, generally hovering around 97-98 decibels. For comparison, an average conversation is about 60 decibels.
+
+ We also used a decibel meter to measure how loud the pump got. When in use, the loudest it got was 99 decibels, generally hovering around 97-98 decibels. For comparison, an average conversation is about 60 decibels. So, while it probably won’t wake the neighbors or cause hearing damage, don’t expect to have a particularly intelligible conversation while it’s running.
+
+ Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Price: Great for budget hawks**
+
+ The list price for the Audew Portable Air Compressor Pump is about $32 on Amazon, making it one of the most budget-friendly portable tire inflators out there. However, if you shop around, it’s very easy to find it cheaper, making it an even more attractive deal.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Audew Portable Air Compressor Pump vs. Jaco SmartPro Digital Tire Inflator**
+
+ If you’re willing to spend a little extra money on your portable air compressor, the Jaco SmartPro Digital Tire Inflator has many of the benefits of the Audew, with some enhancements thrown in.
+
+ The Jaco’s is about as small as the Audew. Its rectangular design includes superior air hose and power cord storage—they actually fit in their compartments. Additionally, the built-in LED light seems bright as a lighthouse compared to the small bulb in the Audew. More importantly, the Jaco SmartPro inflator can run continually for half an hour before you have to cycle down and rest, much better than the mere eight minutes you get with the Audew.
+
+ If you’re on a budget, there’s nothing wrong with the Audew. But the SmartPro Digital Tire Inflator offers a better set of features for the price.
+
+[Jaco SmartPro Digital Tire Inflator Review](https://www.lifewire.com/jaco-smartpro-digital-tire-inflator-review-4776811)
+
+ Final Verdict
+
+**A simple, easy to use pump for your tires.**
+
+ The Audew Portable Air Compressor Pump has a lot going for it. It’s simple to operate, fills your tires quickly, and has an inexpensive price tag. It’s a basic device with a couple of quirks, but they’re easy to get past. If your goal is to be prepared for an unexpected flat or perform routine tire pressure maintenance, this pump is a cheap and reliable way to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Specs
+
+* Product Name  Portable Air Compressor Pump
+* Product Brand  Audew
+* UPC  X001ETBXFD
+* Price  $31.99
+* Release Date  May 2017
+* Weight  2.65 lbs.
+* Product Dimensions  9.2 x 8.3 x 4.3 in.
+* Warranty  1 Year
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boosting-viewership-mastery-in-youtube-shorts-design-for-2024/"><u>[New] Boosting Viewership  Mastery in YouTube Shorts Design for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>[New] Expressive Photography Techniques  Applying Motion Blur to Faces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-review-gopro-hero4-silver/"><u>[New] Extensive Review  GoPro HERO4 Silver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eyeview-scrutiny-exploration/"><u>[Updated] Eyeview Scrutiny Exploration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-video-retrieval-the-top-5-software-compared/"><u>[Updated] FB Video Retrieval  The Top 5 Software Compared</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-googles-musical-sidekick-ringers-guide/"><u>[Updated] Google's Musical Sidekick Ringers Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-groundbreaking-method-to-insert-gopro-clips-into-virtual-panoramic-movies/"><u>[Updated] Groundbreaking Method to Insert GoPro Clips Into Virtual Panoramic Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-qp-for-gradual-video-playback/"><u>[Updated] Highest QP for Gradual Video Playback</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-stay-grounded-in-virtual-reality-spaces/"><u>[Updated] How to Stay Grounded in Virtual Reality Spaces</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>[Updated] In 2024, How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-mastering-facetunes-complete-features/"><u>[Updated] In-Depth Review  Mastering Facetune's Complete Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-qanda-strategy-for-attracting-audio-lovers/"><u>[Updated] Innovative Q&A Strategy for Attracting Audio Lovers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-orbitmaster-high-definition-full-touch-desktops/"><u>[Updated] OrbitMaster  High Definition Full Touch Desktops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>[Updated] Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tools-for-photography-driven-film-production/"><u>2024 Approved  Expert Tools for Photography-Driven Film Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-file-funneling-transfer-techniques-for-your-computer/"><u>2024 Approved  File Funneling  Transfer Techniques for Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-utilization-of-final-cut-pro-an-in-depth-guide/"><u>2024 Approved  Full Utilization of Final Cut Pro  An In-Depth Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>2024 Approved  Ideal Editing Tools  Best Phones' Options for GoPro Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-high-tech-worldly-wonders-with-toms-hardware-guides/"><u>Dive Into High-Tech Worldly Wonders with Tom's Hardware Guides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-mobile-enhancements-with-androids-lightroom-app-for-2024/"><u>Examining Mobile Enhancements with Android's Lightroom App for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-silence-to-sonata-cropping-and-mixing-music-into-video-content-for-2024/"><u>From Silence to Sonata  Cropping & Mixing Music Into Video Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-guide-to-adobe-cloud-storage-and-best-alternatives-for-2024/"><u>Full Guide to Adobe Cloud Storage and Best Alternatives for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-finding-perfect-music-for-unpack-videos-for-2024/"><u>Guide  Finding Perfect Music For Unpack Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-volume-dial-down-with-fl-studio-features-for-2024/"><u>Harmonizing Volume Dial-Down with FL Studio Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-post-a-picture-on-youtube-for-2024/"><u>How to Post a Picture on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-discovering-instagrams-most-followed-ae-presets/"><u>In 2024, Discovering Instagram's Most Followed AE Presets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-ultimate-fcp-efficiency/"><u>In 2024, Expert Tips for Ultimate FCP Efficiency</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-handsome-horizons-premium-pc-backgrounds-online/"><u>In 2024, Handsome Horizons  Premium PC Backgrounds Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-tech-equipment-picking-game/"><u>In 2024, High-Tech Equipment Picking Game</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustration-elevation-incorporating-text-into-3d-artwork/"><u>In 2024, Illustration Elevation  Incorporating Text Into 3D Artwork</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-microsoft-azure-transcription-capabilities/"><u>In 2024, Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovation-unleashed-cutting-edge-ar-games-for-2024/"><u>Innovation Unleashed  Cutting-Edge AR Games for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-meteorological-measurements-on-windows-11-pcs/"><u>Mastering Meteorological Measurements on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-speed-and-productivity-expert-strategies-for-a-fully-functional-windows-aturated-with-keywords-clear-language-and-action-oriented-phrases/"><u>Maximize Speed and Productivity: Expert Strategies for a Fully Functional Windows Aturated with Keywords, Clear Language, and Action-Oriented Phrases</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/parable-pioneers-guild-premier-peak/"><u>Parable Pioneers Guild – Premier Peak</u></a></li>
+</ul></div>

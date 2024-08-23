@@ -1,7 +1,7 @@
 ---
 title: "Tireless Workforce Unveiled: Exploring the World of Software Automation by ABBYY"
-date: 2024-08-19 12:23:41
-updated: 2024-08-22 12:33:24
+date: 2024-08-22T06:09:09.562Z
+updated: 2024-08-23T06:09:09.562Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be14bb05420507854521a636d.jpg
@@ -31,6 +31,9 @@ One of the main advantages of RPA is the relative ease of its implementation. It
 
 A good example is Siemens medical unit - Siemens Healthcare – which recently implemented the RPA system, which collects genetic data of clients for diagnosis of diseases. The solution automatically sets parameters for analysis using more than 90 different settings. The robot extracts the necessary data in 15 mouse clicks, after which the results are entered into Excel to compile various reports. In 2017 Ernst & Young [introduced 700 robots](http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwjbuvWv6pPaAhWDFSwKHXrICuQQFgg-MAM&url=https%3A%2F%2Fblogs.wsj.com%2Fcio%2F2018%2F03%2F22%2Fno-coffee-breaks-needed-companies-add-software-robots-to-workforce%2F&usg=AOvVaw3y9Aj5gtY8TTiatrlR36BT) that search for information in the knowledge base on personnel issues, collect data from resumes, and even remind employees about meetings and hotel reservations. The company plans to save more than 2 million hours on routine actions within a year and a half.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Important considerations before implementing RPA**
 
 Despite companies' interest in RPA, almost 30% of such projects end in failure. Most of the problems are in scaling the solution, managing and controlling the robots. Here are a few factors to consider for successful implementation of RPA projects.
@@ -43,8 +46,15 @@ Despite companies' interest in RPA, almost 30% of such projects end in failure. 
 
 ![Dmitry Shushkin ABBYY](https://static1.abbyy.com/abbyycommedia/25703/dmitryshushkin-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dmitry Shushkin
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -107,3 +117,43 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-art-of-instagram-story-layering-a-visual-journey/"><u>[New] 2024 Approved  The Art of Instagram Story Layering  A Visual Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-connecting-live-streamers-easily-share-from-twitch-to-fb/"><u>[New] Connecting Live Streamers  Easily Share From Twitch to FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-tech-recording-movies-in-win-11/"><u>[New] Essential Tech  Recording Movies in Win 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-picks-optimal-vr-for-drone-pilots/"><u>[New] Expert Picks  Optimal VR for Drone Pilots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-forming-inspiring-collage-photos/"><u>[New] Expertise in Forming Inspiring Collage Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expressive-iphone-comicals/"><u>[New] Expressive iPhone Comicals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grading-inshot-does-it-reign-supreme/"><u>[New] Grading InShot  Does It Reign Supreme?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hilarityhatcher-create-comedy-with-a-click/"><u>[New] HilarityHatcher  Create Comedy with a Click</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-begin-your-google-meet-on-devices-in-2024/"><u>[New] How to Begin Your Google Meet on Devices, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>[New] Ideal iPhone & Android GoPro Apps  Cutting-Edge Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-premium-online-vectors-image-repositories/"><u>[Updated] 10 Premium Online Vectors Image Repositories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>[Updated] 2024 Approved  Elevate Engagement  Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-audio-freedom-with-pazeras-2024-tools-review/"><u>[Updated] Experience Audio Freedom with Pazera's 2024 Tools Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basic-to-spectaculr-the-best-cams-gear-guide/"><u>[Updated] From Basic to Spectaculr  The Best Cams' Gear Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-proof-your-data-with-top-30-free-unlimited-1tbplus-options/"><u>[Updated] Future-Proof Your Data with Top 30 Free, Unlimited (1TB+) Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry/"><u>[Updated] GIF Genius Unleashed  The Best Tools and Methods of Memetic Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-various-video-recording-devices/"><u>[Updated] Guide to Various Video Recording Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hasty-steps-ios-photos-and-videos-on-windows/"><u>[Updated] Hasty Steps  IOS Photos & Videos on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-end-vector-sites-ranked-1-to-10/"><u>[Updated] High-End Vector Sites Ranked 1 to 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hilarity-unleashed-prime-meme-text-generators/"><u>[Updated] Hilarity Unleashed  Prime Meme Text Generators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-inspire-chuckles-designing-memes-on-kapwing/"><u>2024 Approved  Inspire Chuckles – Designing Memes on Kapwing</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-note-12t-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi Note 12T Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevate-your-farm-adventure-uncovering-stardews-top-7-mods-for-2024/"><u>Elevate Your Farm Adventure  Uncovering Stardew's Top 7 Mods for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-editions-selecting-high-quality-blu-ray-players-freepaid-for-2024/"><u>Expert Editions  Selecting High-Quality Blu-Ray Players (Free/Paid) for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-reason-behind-automatic-song-selection-in-apple-music-on-ios-devices/"><u>Exploring the Reason Behind Automatic Song Selection in Apple Music on iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-improve-gopro-battery-life-for-2024/"><u>How to Improve GoPro Battery Life for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-reactive-customizable-preferences-errors/"><u>How to Resolve Non-Reactive Customizable Preferences Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-fcp-strategies-and-tactics-exposed/"><u>In 2024, Free FCP  Strategies and Tactics Exposed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-feature-dissection-the-sony-fdr-x1000-videographer/"><u>In 2024, Full Feature Dissection - The Sony FDR-X1000 Videographer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grading-and-correcting-with-ease-top-11-video-editing-tips/"><u>In 2024, Grading and Correcting with Ease  Top 11 Video Editing Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamlining-the-process-of-google-voice-call-capture/"><u>In 2024, Streamlining the Process of Google Voice Call Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-gopro-hero5-testing-report-for-2024/"><u>In-Depth GoPro Hero5 Testing Report for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionary-acer-drivers-update-in-win11/"><u>Revolutionary Acer Drivers Update in Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-troubleshooting-manual-for-user32dll-errors-not-found/"><u>The Definitive Troubleshooting Manual for User32.dll Errors Not Found</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+</ul></div>

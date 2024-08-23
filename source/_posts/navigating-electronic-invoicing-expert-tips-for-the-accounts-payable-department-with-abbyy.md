@@ -1,7 +1,7 @@
 ---
 title: "Navigating Electronic Invoicing: Expert Tips for the Accounts Payable Department with ABBYY"
-date: 2024-08-20 16:44:18
-updated: 2024-08-22 10:25:52
+date: 2024-08-22T06:06:57.594Z
+updated: 2024-08-23T06:06:57.594Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa43faa2585a2bbac8dade3639.jpg
@@ -38,6 +38,9 @@ Electronic Invoicing ([e-invoicing](https://tools.techidaily.com/abbyy/products/
 
 Per definition, the main goal of an e-invoice is the automated import into the AP system. A visual representation of the data in a human-readable format (such as PDF) is, while possible, secondary, not obligatory, and not considered part of the invoice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How does e-invoicing work?
 
 E-invoicing automates the entire invoicing process, from invoice creation and data transfer to validation and integration with the customer's systems, resulting in a more efficient, accurate, and streamlined accounts payable workflow.
@@ -57,8 +60,14 @@ However, its primary driver is closing the [“VAT Gap”](https://www.allenover
 
 ![guide-to-e-invoicing-accounts-payable-a-848x44](https://content.abbyy.com/-/jssmedia/Project/Abbyy/Abbyy/Insights/Blog/A%20Guide%20to%20E-invoicing%20in%20Accounts%20Payable/guide-to-e-invoicing-accounts-payable-a-848x44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 The [2022 VAT in the Digital Age (ViDA)](https://www.ey.com/en%5Fgr/tax/tax-alerts/eu-proposals-for-vat-in-the-digital-age-vida) proposal aims to implement cross-border digital reporting using e-invoicing for B2B transactions, while [PEPPOL](https://peppol.org/about/for-end-users/) invoices are becoming mandatory for B2G transactions. Many EU states plan to enforce e-invoicing in B2B transactions within four years, reflecting a growing trend towards regulatory adoption of e-invoicing standards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What impact does e-invoicing have on accounts payable processes? 
 
 The benefits of e-invoicing for the state treasury are undeniable, and the initial results are already impressive. From the business perspective, there are also significant efficiency benefits in moving from scanning and manually processing paper and PDF invoices to standardized electronic formats.
@@ -75,6 +84,12 @@ At least in theory, the concept promises to solve many efficiency hurdles. But p
 
 ![guide-to-e-invoicing-accounts-payable-a-848x44](https://content.abbyy.com/-/jssmedia/Project/Abbyy/Abbyy/Insights/Blog/A%20Guide%20to%20E-invoicing%20in%20Accounts%20Payable/guide-to-e-invoicing-accounts-payable-b-848x44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is e-invoicing the answer to all AP automation dreams?
 
 While e-invoicing adoption is accelerating, it is important to keep in mind that it will be implemented in a phased roll-out depending on the jurisdiction.
@@ -91,6 +106,9 @@ With governments across the globe acting as catalysts for the adoption of e-invo
 
 Although the theory behind e-invoicing sounds like every automation team’s dream, the reality is that the complexity of regulations, maturity, adoption, standards and formats leaves global companies still dealing with a messy reality, that requires new solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Choosing the right AP automation solution for your e-invoicing
 
 The bottom line is that hybrid [invoice automation](https://tools.techidaily.com/abbyy/products/) is here to stay for the foreseeable future. Being able to deal with this complexity requires purpose-built [AI solutions](https://tools.techidaily.com/abbyy/products/), such as [Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/), capable of intelligently analyzing, classifying, capturing and normalizing data from invoices of any type, format and language into a single structured stream into their ERP system.
@@ -182,3 +200,75 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-echo-of-you-customizing-your-speak-on-reels-and-stories/"><u>[New] 2024 Approved  The Echo of You  Customizing Your Speak on Reels & Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-discover-ultimate-sites-for-stunning-sky-photos-for-2024/"><u>[New] Discover Ultimate Sites for Stunning Sky Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fabulous-review-and-diverse-options/"><u>[New] Fabulous Review & Diverse Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fading-flourishes-invisible-audio-adjustments-in-garageband/"><u>[New] Fading Flourishes  Invisible Audio Adjustments in Garageband</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finest-choices-free-streaming-tools-suitable-everywhere/"><u>[New] Finest Choices   Free Streaming Tools Suitable Everywhere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-font-fusion-merging-style-and-content-in-after-effects/"><u>[New] Font Fusion  Merging Style & Content in After Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-cut-to-connect-advanced-editing-with-kinemaster/"><u>[New] From Cut to Connect  Advanced Editing with Kinemaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-mobile-funimate-apk-setup-simplified/"><u>[New] Game On Mobile  Funimate APK Setup Simplified</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-prepared-for-macos-11-big-sur-upgrade/"><u>[New] Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>[New] Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-resolution-drone-flights-a-mi-examination/"><u>[New] High-Resolution Drone Flights  A MI Examination</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-huntings-top-5-high-quality-video-recorders/"><u>[New] Hunting's Top 5 High-Quality Video Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>[New] Image Enhancement 101  Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-picture-perfect-moments-for-morale-boost/"><u>[New] In 2024, Picture Perfect Moments for Morale Boost</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-block-code-on-snapchat/"><u>[Updated] 2024 Approved  Deciphering the Block Code on Snapchat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-revamping-imagery-leading-insta-edits-explored/"><u>[Updated] 2024 Approved  Revamping Imagery  Leading Insta Edits Explored</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-manual-pinning-people-on-snapchat/"><u>[Updated] 2024 Approved  The Ultimate Manual  Pinning People on Snapchat</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-high-quality-video-playback-with-av1-on-youtube/"><u>[Updated] 2024 Approved  Unlock High-Quality Video Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-women-rule-the-top-10-youtube-stars-amongst-genders/"><u>[Updated] 2024 Approved  Women Rule  The Top 10 YouTube Stars Amongst Genders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-no-cost-premiere-pro-resource-pack/"><u>[Updated] Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-selecting-the-ideal-video-aspect-ratio/"><u>[Updated] Expert Tips on Selecting the Ideal Video Aspect Ratio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmographys-finest-shots-the-best-camera-and-lighting-tips/"><u>[Updated] Filmography's Finest Shots  The Best Camera & Lighting Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-gameplay-roblox-closer-scan-guide/"><u>[Updated] Fine-Tuning Gameplay  Roblox Closer Scan Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-iphones-persistent-out-of-focus-photos/"><u>[Updated] Fixing iPhone's Persistent Out-of-Focus Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-formulating-flashy-podcast-moments/"><u>[Updated] Formulating Flashy Podcast Moments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-kits-to-set-the-tone-right-away/"><u>[Updated] Free Video Kits to Set the Tone Right Away</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>[Updated] Frugal Flight Assemblies  Budget-Friendly Drones Ranking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-mobility-examination-2023/"><u>[Updated] Full Mobility Examination 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-geniusedit-ai-precision-in-photo-mastery/"><u>[Updated] GeniusEdit AI  Precision in Photo Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-10-virtual-photo-backdrop-modifiers/"><u>[Updated] Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-can-inshot-outshine-competitors/"><u>[Updated] In-Depth Comparison  Can InShot Outshine Competitors?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>[Updated] In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-for-proficiency-in-powerdirector-2024-edition/"><u>[Updated] Step-by-Step Guide for Proficiency in PowerDirector - 2024 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>[Updated] The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-beyond-one-angle-explore-our-11-multicam-review/"><u>2024 Approved  Beyond One Angle  Explore Our #11 Multicam Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-etiquette-ceasing-connections/"><u>2024 Approved  Instagram Etiquette  Ceasing Connections</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pixel-perfection-your-path-to-exceptional-edits/"><u>2024 Approved  Pixel Perfection  Your Path to Exceptional Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-virtual-marketplaces-ringtone-selections/"><u>2024 Approved  Prime Virtual Marketplaces  Ringtone Selections</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-the-magic-advanced-techniques-for-tiktok-videos/"><u>2024 Approved  Unlocking the Magic  Advanced Techniques for TikTok Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beats-for-chats-adding-sound-to-whatsapp-for-2024/"><u>Beats for Chats  Adding Sound to WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decode-iphone-camera-issues-a-guide-to-identifying-and-fixing-the-top-7-snags/"><u>Decode iPhone Camera Issues: A Guide to Identifying and Fixing the Top 7 Snags</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>Expertise Essentials  Removing Unwanted Backdrops with Canva</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-started-with-seamless-sound-transitions-for-2024/"><u>Getting Started with Seamless Sound Transitions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hasty-hacks-for-enhancing-personal-movie-making-for-2024/"><u>Hasty Hacks for Enhancing Personal Movie Making for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-octane-recordings-top-7-camcorder-picks-for-2024/"><u>High-Octane Recordings  Top 7 Camcorder Picks for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-6-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 6 Without a Home Button</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-realme-11-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Realme 11 5G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-chromes-picture-in-progress-screensuitably-across-platforms-for-2024/"><u>How to Use Chrome’s Picture In Progress Screensuitably Across Platforms for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audiophiles-pathway-starting-with-the-fade-in-functionality/"><u>In 2024, Audiophile's Pathway  Starting with the Fade-In Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-iphones-hdr-features-for-professional-photography/"><u>In 2024, Exploring iPhone's HDR Features for Professional Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-cluttered-canvases-to-crystal-clear-captures-using-photopea/"><u>In 2024, From Cluttered Canvases to Crystal Clear Captures Using Photopea</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>In 2024, From Ordinary to Outstanding  Making Effortless Slow-Motion Videos in Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gimp-ultimate-editing-course-review/"><u>In 2024, GIMP Ultimate Editing Course Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-disable-recommended-podcast-features-in-spotify/"><u>In 2024, Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarity-in-harmony-great-ringtone-websites/"><u>In 2024, Hilarity in Harmony  Great Ringtone Websites</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-15-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 15 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-much-video-can-64gb128gb-hold/"><u>In 2024, How Much Video Can 64GB/128GB Hold?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-note-30-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Note 30 Pro Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-pace-perfectly-on-iphone-capturing-and-editing-slowed-down-videos/"><u>In 2024, How to Pace Perfectly on iPhone  Capturing & Editing Slowed Down Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imaginary-giggles-generate-with-kapwings-maker/"><u>In 2024, Imaginary Giggles  Generate with Kapwing's Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-the-dji-phantom-3-experience/"><u>In 2024, In-Depth Examination  The DJI Phantom 3 Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>In 2024, Mastering Facebook Vids  The Top 20 Marketing Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-choosing-vocal-change-software/"><u>In 2024, The Ultimate Guide to Choosing Vocal Change Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-pursuit-with-panasonics-hx-a1-wearable-cameras-for-2024/"><u>In Pursuit with Panasonic’s HX-A1 Wearable Cameras for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pro-rated-list-the-best-5-hd-webcams-with-capture-microphones/"><u>Pro-Rated List  The Best 5 HD Webcams with Capture Microphones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-dark-side-of-star-wars-battlefront-ii-fixes-for-the-infamous-black-screen-issue/"><u>Resolved: Dark Side of Star Wars Battlefront II - Fixes for the Infamous Black Screen Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-deleting-a-user-account-on-twitch/"><u>The Ultimate Walkthrough for Deleting a User Account on Twitch</u></a></li>
+</ul></div>

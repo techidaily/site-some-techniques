@@ -1,0 +1,177 @@
+---
+title: "\"[New] Exploring the Infinite  A Look at LG's VR Technology\""
+date: 2024-08-22T06:31:06.670Z
+updated: 2024-08-23T06:31:06.670Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] Exploring the Infinite: A Look at LG's VR Technology\""
+excerpt: "\"This Article Describes [New] Exploring the Infinite: A Look at LG's VR Technology\""
+keywords: "\"LG VR Tech Innovation,VR in Infinite Worlds,Exploring VR Limits,VR Advancements by LG,Virtual Reality Technology,Infinite Realms: LG's VR,VR Exploration with LG\""
+thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e936ddda4c95b0a712854944.jpg
+---
+
+## Exploring the Infinite: A Look at LG's VR Technology
+
+# LG 360 VR Headset Review
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## First Impression of LG 360 VR
+
+### Design of LG 360 VR
+
+ The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
+
+### Accessories of LG 360 VR
+
+ Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
+
+### Product Packaging of LG 360 VR
+
+ Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+### How to Set up LG 360 VR headset
+
+* First of all, connect the USB connector of the headset on to your smartphone. It will take a few minutes. When the headset is on, the screen of your phone will become off, and now you can use your phone as a touchpad.
+* The headset will not work normally when it is connected to the LG G5 phone if you have connected LG Hi-Fi plus, LG CAM Plus or any other device that is not of the G5 module.
+* The LG 360 VR turns off if your phone remains idle without playing any video or application for a minimum of 15 minutes in order to save the battery of your phone.
+* Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### LG 360 VR Performance
+
+ When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Key features of the LG 360 VR headset
+
+* It has 1.88 inches IPS LCD display.
+* The PPE resolution is 920 x 720.
+* The PPI is 639.
+* It consists of adjustable lenses.
+* It has field-of-view of 80 degrees.
+* It is connected via USB Type-C.
+* A headphone jack of 3.5mm
+* A 6-axis proximity sensor is also present.
+* It weighs 116g
+* It’s an LG product.
+* Price is $220 approx.
+
+##### Pros
+
+* It can be a good option if you are using LG G5.
+* It can be something than nothing.
+* It can be a good gift to someone you don’t like.
+
+##### Cons
+
+* Its design is very poor.
+* It does not work properly
+* It is uncomfortable to wear
+* It is very expensive as compared to other headsets.
+* It also does not have any special apps to install
+* You can not experience the VR properly.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Comparison of Samsung Gear VR and LG 360 VR
+
+| |  LG 360 VR  | Samsung Gear VR                         |                                                                         |
+| ------------- | --------------------------------------- | ----------------------------------------------------------------------- |
+| Connection    | Via a USB-C cable                       | Via a Micro-USB connector                                               |
+| Dimensions    | 164.1x185.6x45.9mm with arms protracted | 92.6x201.9x116.4 mm                                                     |
+| Weight        | 134.4g                                  | 318g, 171g with phone                                                   |
+| Compatibility | Works with LG G5                        | Works with Samsung Galaxy S6, S6 Edge, S6 Edge+, Note 5, S7 and S7 Edge |
+| Resolution    | 960x720 pixels at 693ppi                | 1,280x1,440 pixels, at 518-577ppi also depends on phone                 |
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### More about LG 360 VR headset
+
+ LG 360 VR is a virtual reality device designed by LG. It was actually released with LG G5 and used to promote this phone. LG 360 VR has an internal built-in display, unlike the Gear VR designed by Samsung, which also provides a unit plugging for power directly to the phone. The headset can be controlled from the smartphone screen by just tapping and swiping. LG, however, designed this device to enjoy the virtual reality experience, but the device is not up to the mark. If you haven’t bought this device yet, it is highly advised not to buy this one. It is not a very good design and its performance is also not very good.
+
+ However, with a cost of around $200 to $220, LG 360 VR is a very expensive device with a doubly cost of Samsung Gear VR. In addition to that, it only is compatible with LG G5\. Now, it was better if, with this price and compatibility of just one, 360 VR provided a better experience, but it is not a good device to use.
+
+ In crux, LG’s this device isn't somewhat you'd want to attire in public, and when you ponder that one of the assistances of a mobile headset is that you are not tied to a luxurious gaming rig, LG certainly should have put in some more energy when it comes to the design of 360 VR. If we are going to turn out to be a realm of VR zombies with headsets continually tied to our skulls, then we would probably want those units which let us live in style.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-vs-yi-4k-the-ultimate-showdown-in-cam-tech/"><u>[New] GoPro Hero5 Vs. Yi 4K  The Ultimate Showdown in Cam Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-iphone-downloads-top-podcast-strategies/"><u>[New] Harnessing iPhone Downloads  Top Podcast Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iphone-photo-burst-how-to-take-burst-images/"><u>[New] IPhone Photo Burst  How to Take Burst Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-make-waves-with-a-new-look-customize-pre-designed-brand-symbols/"><u>[New] Make Waves with a New Look  Customize Pre-Designed Brand Symbols</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-of-premium-3d-blu-ray-players-reviewed/"><u>[Updated] Exclusive List of Premium 3D Blu-Ray Players Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eyepoint-expertise-essay/"><u>[Updated] Eyepoint Expertise Essay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-srt-to-sub-transforming-playback-sequences/"><u>[Updated] From SRT to SUB  Transforming Playback Sequences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-scan-the-essence-of-the-lightroom-app-on-android/"><u>[Updated] Full Scan  The Essence of the Lightroom App on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusion-of-visuals-and-sound-photo-to-video-journey/"><u>[Updated] Fusion of Visuals and Sound  Photo to Video Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>[Updated] Harmonizing Hue and Shade  The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-border-to-instagram-video-3-ways-for-2024/"><u>[Updated] How to Add Border to Instagram Video? [3 Ways] for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-keywords-for-seo/"><u>[Updated] Incorporating Keywords for SEO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-dvd-production-modern-techniques-for-mac-users/"><u>[Updated] Innovative DVD Production  Modern Techniques for Mac Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>2024 Approved  Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-the-samsung-ue590-a-freesync-dream-tv-review/"><u>2024 Approved  Game On with the Samsung UE590  A FreeSync Dream TV Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-huntings-top-5-best-video-recorders/"><u>2024 Approved  Hunting's Top 5 Best Video Recorders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-out-key-equipment-and-software-for-vlogging/"><u>2024 Approved  Starting Out  Key Equipment & Software for Vlogging</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-whisper-of-opulence-from-beoplays-h8i-headphones/"><u>A Whisper of Opulence From Beoplay's H8i Headphones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/download-instagram-reels-effortlessly-anytime-for-2024/"><u>Download Instagram Reels Effortlessly, Anytime for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-step-by-step-downloading-and-setting-up-hp-officejet-4650-windows-drivers/"><u>Easy Step-by-Step: Downloading and Setting up HP Officejet 4650 Windows Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-instagrams-unusual-video-aspect-ratio-anomalies-for-2024/"><u>Examining Instagram's Unusual Video Aspect Ratio Anomalies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-best-iphone-selfie-boosters-all-free-and-upgraded-for-2024/"><u>Explore Best iPhone Selfie Boosters - All Free and Upgraded for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-top-tier-no-cost-webm-video-streamers-for-browsers-for-2024/"><u>Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-compressed-to-captioned-zip-to-srt-effortlessly-for-2024/"><u>From Compressed To Captioned  Zip to .Srt Effortlessly for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusion-of-visuals-and-sound-photo-to-video-journey-for-2024/"><u>Fusion of Visuals and Sound  Photo to Video Journey for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/glowing-android-video-guide-simplified-methods-for-2024/"><u>Glowing Android Video Guide - Simplified Methods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humorous-haven-gratuitous-meme-makers-for-2024/"><u>Humorous Haven  Gratuitous Meme Makers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hyperfast-picture-explorer-on-windows-11-for-2024/"><u>Hyperfast Picture Explorer on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-conference-calls-on-zoom-platform/"><u>In 2024, Boost Conference Calls on Zoom Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-photographic-moments-into-sequential-action/"><u>In 2024, Evolving Photographic Moments Into Sequential Action</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-discovery-of-the-best-10-sites-for-pristine-images/"><u>In 2024, Exclusive Discovery of the Best 10 Sites for Pristine Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funnyframe-factory-quick-meme-crafters/"><u>In 2024, FunnyFrame Factory  Quick Meme Crafters</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lava-yuva-3-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>In 2024, Icy Acceleration  Olympics' Best From 2022 Short Tracks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-e-commerce-avenues-for-aesthetic-box-personalization/"><u>In 2024, Ideal E-Commerce Avenues for Aesthetic Box Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-mkv-player-apps-windows-pc/"><u>In 2024, Ideal MKV Player Apps  Windows PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infinite-free-design-inspiration-for-corporate-slideshows-for-2024/"><u>Infinite Free Design Inspiration for Corporate Slideshows for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-vibrancy-mastering-music-integration-in-social-media-videos-for-2024/"><u>Infuse Vibrancy  Mastering Music Integration in Social Media Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-to-prolonging-gopros-energy-capacity/"><u>Secrets to Prolonging GoPro's Energy Capacity</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

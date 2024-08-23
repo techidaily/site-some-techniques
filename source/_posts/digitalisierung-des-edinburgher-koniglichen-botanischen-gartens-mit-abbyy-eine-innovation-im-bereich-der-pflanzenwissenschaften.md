@@ -1,7 +1,7 @@
 ---
 title: "Digitalisierung Des Edinburgher Königlichen Botanischen Gartens Mit ABBYY: Eine Innovation Im Bereich Der Pflanzenwissenschaften"
-date: 2024-08-20 10:40:47
-updated: 2024-08-22 12:47:42
+date: 2024-08-22T06:08:35.619Z
+updated: 2024-08-23T06:08:35.619Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a430b43148a19a35d32e38f9.jpg
@@ -93,6 +93,9 @@ Der RBGE ist außerdem sehr zufrieden mit dem erweiterten Zugang zu seinen Samml
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -113,3 +116,57 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-moment-of-glory-snapshots-in-win-os/"><u>[New] 2024 Approved  Moment of Glory  Snapshots in Win OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-6-best-gopro-helmet-mounts-and-how-to-use-them/"><u>[New] 6 Best GoPro Helmet Mounts and How to Use Them</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-websites-for-3d-metallic-type-imagery/"><u>[New] Excellent Websites for 3D Metallic Type Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-world-of-montage-image-magic/"><u>[New] Exploring the World of Montage Image Magic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flight-finesse-crafting-the-top-10-endurance-drone-lineup/"><u>[New] Flight Finesse  Crafting the Top 10 Endurance Drone Lineup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>[New] From Sound to Web  Crafting a Standout Podcast RSS Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>[New] Frosty Slopes Showdown  Olympic Snowboard Cross Action</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>[New] Gaming on the Green  Comprehenive Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook/"><u>[New] Gopro Expertise Unleashed  Livestreams Directed at Periscope & Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-acquiring-free-picture-frame-videos/"><u>[New] Guide to Acquiring Free Picture Frame Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-iphone-with-the-world-of-podcasts/"><u>[New] Harmonizing iPhone with the World of Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-ranking-12-cameras-onboard-gps-for-motion-capture/"><u>[New] High-Ranking 12 Cameras  Onboard GPS for Motion Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-import-photos-and-videos-in-windows-11-deepest-secret/"><u>[New] How to Import Photos and Videos in Windows 11 (Deepest Secret)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-realms-history-of-vr/"><u>[New] Innovating Realms  History of VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-list-top-free-photo-stockpile-locales/"><u>[New] Master List  Top Free Photo Stockpile Locales</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-chrome-drawing-programs-the-ultimate-list/"><u>[New] Prime Chrome Drawing Programs  The Ultimate List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flick-flashback-an-old-school-take-on-the-goofys/"><u>[Updated] Flick Flashback  An Old-School Take on The Goofys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flip-the-script-design-your-own-video-finale-for-free/"><u>[Updated] Flip the Script  Design Your Own Video Finale for Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>[Updated] From Lesser Known to YouTube Star  Amassing an Army of Admirers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-game-on-in-reality-discover-the-top-5-samsung-vr-titles/"><u>[Updated] Game On in Reality! Discover the Top 5 Samsung VR Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hands-on-instructions-for-iphone-content-syncing/"><u>[Updated] Hands-On Instructions for iPhone Content Syncing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>[Updated] Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-dynamic-images-in-ios/"><u>[Updated] Harnessing the Power of Dynamic Images in iOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-haunting-actions-high-definition-cams/"><u>[Updated] Haunting Actions  High Definition Cams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hearing-heroism-essential-online-picks-for-tts-files/"><u>[Updated] Hearing Heroism  Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-activities-for-the-modern-podcaster/"><u>[Updated] Innovative Activities for the Modern Podcaster</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerating-powerpoint-visuals-for-smooth-viewings/"><u>2024 Approved  Accelerating PowerPoint Visuals for Smooth Viewings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstart-your-video-playback-snapchat-speed-optimization/"><u>2024 Approved  Jumpstart Your Video Playback  Snapchat Speed Optimization</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-7-fps-gaming-list/"><u>2024 Approved  The Ultimate 7 FPS Gaming List</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-go-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark Go (2023) without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-selected-top-ergonomic-keyboards-for-optimal-comfort/"><u>Expertly Selected Top Ergonomic Keyboards for Optimal Comfort</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimbal-insights-7-best-in-market-for-2024/"><u>Gimbal Insights  7 Best in Market for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-remove-signature-background-in-seconds-for-2024/"><u>How to Remove Signature Background in Seconds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hue-harmony-professionals-transforming-photos-for-2024/"><u>Hue Harmony  Professionals Transforming Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-illusions-how-vr-transforms-media-consumption-for-2024/"><u>Immersive Illusions  How VR Transforms Media Consumption for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-5-leading-resources-to-masterfully-add-text-flair-online/"><u>In 2024, 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-power-of-luts-color-grading-made-easy-in-pro/"><u>In 2024, Exploring the Power of LUTs  Color Grading Made Easy in Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-fantastic-the-top-10-lut-sources/"><u>In 2024, Free & Fantastic  The Top 10 LUT Sources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freesync-freedom-meets-4k-excellence-in-samsung-ue590/"><u>In 2024, FreeSync Freedom Meets 4K Excellence in Samsung UE590</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-players-to-gamers-paradise-the-kinemaster-android-experience/"><u>In 2024, From Basic Players to Gamers' Paradise  The KineMaster Android Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-notorious-top-20-vlogging-ideas/"><u>In 2024, From Novice to Notorious  Top 20 Vlogging Ideas</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y36i-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y36i FRP Locks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarious-hits-for-iphones/"><u>In 2024, Hilarious Hits for iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hue-alignment-assistant/"><u>In 2024, Hue Alignment Assistant</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-ingenuity-funnyflick-studio/"><u>In 2024, Image Ingenuity  FunnyFlick Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-content-strategies-brands-and-youtube-alliance/"><u>In 2024, Innovating Content Strategies  Brands & YouTube Alliance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-lg-bp350s-visual-clarity-and-color-range-for-2024/"><u>In-Depth Analysis  LG BP350's Visual Clarity and Color Range for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-rhythms-into-your-whatsapp-story-for-2024/"><u>Infuse Rhythms Into Your WhatsApp Story for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-build-wisdom-from-toms-hardware-community/"><u>Mastering Your PC Build: Wisdom From Tom's Hardware Community</u></a></li>
+</ul></div>

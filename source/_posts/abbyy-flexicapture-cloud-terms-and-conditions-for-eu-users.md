@@ -1,7 +1,7 @@
 ---
 title: "ABBYY FlexiCapture Cloud: Terms and Conditions for EU Users"
-date: 2024-08-21 18:33:48
-updated: 2024-08-22 11:44:34
+date: 2024-08-22T06:08:16.418Z
+updated: 2024-08-23T06:08:16.418Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a958555a8cf5d9869ea65371d4.jpg
@@ -325,6 +325,9 @@ You are required to take all reasonable measures to avoid and reduce damages.
 
 13.14\. **Applicable Law and Jurisdiction**. This Agreement shall be governed by and construed in accordance with the laws of the Federal Republic of Germany excluding the Convention for the International Sale of Goods. The parties agree that they shall submit any and all disputes, controversies or differences that in the opinion of a party cannot be settled amicably, to the court of Munich, Germany. This clause shall in no event be construed so as to deprive a party to institute interim injunction proceedings at a different court of another country.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Appendix A
 
 Data Protection Addendum
@@ -565,3 +568,76 @@ General practices. ABBYY has implemented and will maintain for the Services appr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-finest-9-cross-platform-video-conferencing-apps-for-iphonestablets/"><u>[New] 2024 Approved  The Finest 9 Cross-Platform Video Conferencing Apps for iPhones/Tablets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-astonishing-freeness-of-screen-dance-duels/"><u>[New] Astonishing Freeness of Screen Dance Duels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-quieter-sounds-a-garageband-expertise/"><u>[New] Crafting Quieter Sounds  A Garageband Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-elevate-iphone-picture-quality/"><u>[New] Expert Tips to Elevate iPhone Picture Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-ultimate-selection-of-transition-apps/"><u>[New] Explore the Ultimate Selection of Transition Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-eyemosaic-the-essential-photo-patcher/"><u>[New] EyeMosaic  The Essential Photo Patcher</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>[New] Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-zero-to-hero-in-advertising-top-strategies-unveiled-by-experts/"><u>[New] From Zero to Hero in Advertising  Top Strategies Unveiled by Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-feature-analysis-videon-plus-suite-the-edit-experience/"><u>[New] Full Feature Analysis  Videon Plus Suite – The Edit Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-glimpses-innovation-highlights/"><u>[New] Ghostly Glimpses  Innovation Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>[New] Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>[New] How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-11-tricks-for-facebook-video-marketing-to-drive-more-traffic/"><u>[New] In 2024, 11 Tricks for Facebook Video Marketing to Drive More Traffic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-visual-identity-with-ae-titles/"><u>[New] Innovating Visual Identity with AE Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>[New] Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exemplar-storyboard-creators-circle/"><u>[Updated] Exemplar Storyboard Creator's Circle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedited-files-scanning-on-windows-os/"><u>[Updated] Expedited Files Scanning on Windows OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-net-archives-downloading-personal-tones/"><u>[Updated] Expert Net Archives  Downloading Personal Tones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-why-filmmakers-cherish-filmora-features/"><u>[Updated] Exploring Why Filmmakers Cherish Filmora Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-fantasy-to-feasibility-vrs-milestones/"><u>[Updated] From Fantasy to Feasibility  VR's Milestones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-unlocking-the-secrets-of-easy-downloads/"><u>[Updated] Funimate  Unlocking the Secrets of Easy Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-diy-vr-headgear-crafting-a-personalized-google-model/"><u>[Updated] Guide to DIY VR Headgear  Crafting a Personalized Google Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-video-playback-acceleration/"><u>[Updated] Harnessing the Power of Video Playback Acceleration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-windows-11-for-high-impact-visually-striking-videos/"><u>[Updated] Harnessing Windows 11 for High-Impact, Visually Striking Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi/"><u>[Updated] High Definition Face-Off  Ultimate Legend SJ6 Vs. Xiaomi's Yi</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-move-and-manage-your-social-snapshots-locally/"><u>[Updated] How To Move and Manage Your Social SnapShots Locally</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-5-monitors-for-enhanced-ps5-experience/"><u>[Updated] Ideal 5 Monitors for Enhanced PS5 Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-programs-for-vector-drawing-and-design-mastery/"><u>[Updated] Ideal Programs for Vector Drawing and Design Mastery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-excellent-alternatives-top-5-to-replace-twitter/"><u>[Updated] In 2024, Excellent Alternatives  Top 5 to Replace Twitter</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-royale-champions-the-defining-battle-royale-titles/"><u>[Updated] Royale Champions  The Defining Battle Royale Titles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-streamline-your-path-to-youtubes-srt-files-for-2024/"><u>[Updated] Streamline Your Path to YouTube's SRT Files for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-30-marketing-moments-that-can-transform-your-fb-game/"><u>[Updated] The 30 Marketing Moments That Can Transform Your FB Game</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-loop-friendly-tv-setups-integrating-youtube-videos/"><u>2024 Approved  Loop-Friendly TV Setups  Integrating YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-insights-into-asmr-video-content/"><u>2024 Approved  Pioneering Insights Into ASMR Video Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-dual-defense-opt-for-single-antivirus-in-windows-systems/"><u>Avoid Dual Defense: Opt for Single Antivirus in Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-c67-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme C67 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-across-continents-an-insight-into-facebook-twitter-instagram-youtube/"><u>Connecting Across Continents: An Insight Into Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/direct-to-streamer-duel-obs-vs-shadowtoolkit-for-2024/"><u>Direct-to-Streamer Duel  OBS Vs. ShadowToolkit for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-simple-shelter-strategies-in-mc-for-2024/"><u>Essential Simple Shelter Strategies in MC for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/flashback-to-fame-vimeo-glimpse-for-2024/"><u>Flashback to Fame  Vimeo Glimpse for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech-for-2024/"><u>GoPro Hero Vs. Yi 4K  Which Takes the Prize in Latest Tech for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdmi-display-showdown-the-creme-de-la-creme-monitors-for-2024/"><u>HDMI Display Showdown  The Crème De La Crème Monitors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-speed-fb-video-techniques-for-smooth-playback-for-2024/"><u>High-Speed FB Video Techniques for Smooth Playback for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humorous-highlights-create-with-kapwing-meme-maker-for-2024/"><u>Humorous Highlights  Create with Kapwing Meme Maker for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-choice-7-premium-videos-on-mac/"><u>In 2024, Excellent Choice  7 Premium Videos on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>In 2024, Expert Guide to Video Editing  Leveraging Power of Movies Maker on Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmora-edits-explained-addressing-common-concerns-and-questions/"><u>In 2024, Filmora Edits Explained  Addressing Common Concerns and Questions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-flat-to-fantastic-3d-text-creation-tips/"><u>In 2024, From Flat to Fantastic  3D Text Creation Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-acquainted-with-picsarts-latest-a-comprehensive-guide-and-review/"><u>In 2024, Getting Acquainted with PicsArt's Latest - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-match-up-ultimate-buyers-analysis/"><u>In 2024, Gopro Match-Up  Ultimate Buyer's Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-mozilla-revolutionized-screen-splitting-with-ffxp/"><u>In 2024, How Mozilla Revolutionized Screen Splitting with FFXP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-to-face-with-picsart/"><u>In 2024, How to Add Motion Blur to Face with Picsart</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A25 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-p40plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel P40+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-incorporating-youtubes-creative-commons-in-video-making/"><u>In 2024, Incorporating YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-pinnacle-audio-refinement-toolkit-for-videos-on-desktop-systems-updated/"><u>In 2024, Pinnacle Audio Refinement Toolkit for Videos on Desktop Systems (Updated )</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-stealthy-video-streamer-reviews-1-8/"><u>In 2024, Stealthy Video Streamer Reviews  #1-8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-taming-figmas-backgrounds-a-comprehensive-guide/"><u>In 2024, Taming Figma's Backgrounds  A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-your-iphones-selfie-quality-the-10-best-free-apps-for-2024/"><u>Innovate Your iPhone's Selfie Quality  The 10 Best Free Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-artists-guide-to-best-free-3d-psds-for-2024/"><u>Innovative Artists' Guide to Best Free 3D PSDs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-high-definition-software-top-8-free-listings-for-2024/"><u>Innovative High Definition Software  Top 8 FREE Listings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-prime-lenses-for-top-tier-film-projects-for-2024/"><u>Innovative Prime Lenses for Top-Tier Film Projects for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-the-mechanics-of-mobile-video-capture/"><u>Mastering the Mechanics of Mobile Video Capture</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saying-happy-birthday-worldwide/"><u>Saying Happy Birthday Worldwide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-business-symbols-edit-refine-and-download-logos-from-template-basics-for-2024/"><u>Unique Business Symbols  Edit, Refine, and Download Logos From Template Basics for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y02t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y02T Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>

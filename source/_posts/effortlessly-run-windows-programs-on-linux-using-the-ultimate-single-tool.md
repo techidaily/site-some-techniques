@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Run Windows Programs on Linux Using the Ultimate Single Tool
-date: 2024-08-27 12:25:45
-updated: 2024-08-29 10:25:18
+date: 2024-09-01T01:22:09.666Z
+updated: 2024-09-02T01:22:09.666Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows is the most commonly targeted platform for viruses and other malware, so there are risks to running Windows applications. Wine gives Windows applications access to your home drive with the same permissions and authority as you. Any malware you pick up has the same permissions. Bottles helps by sandboxing each Windows application, effectively acting as a container to confine the activities of applications and malware alike.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Install Bottles
 
  The best way to install Bottles is via Flatpak. In fact, it’s the only way to install Bottles that provides the full sandboxing capability, and it’s the officially recommended way.
@@ -57,6 +60,9 @@ flatpak run com.usebottles.bottles
 
 ![The output from Bottles the first time it is launched](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  Soon, Bottles launches, displaying the Welcome to Bottles introduction screens.
 
 ![The Bottles welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-3.png) 
@@ -69,6 +75,9 @@ flatpak run com.usebottles.bottles
 
 ![Bottles' final welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Click the blue “Start using Bottles” button to start using Bottles.
 
 ![The Bottles application straight after installation, with no bottles created](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-4.png) 
@@ -79,8 +88,23 @@ flatpak run com.usebottles.bottles
 
 ![The Bottles icon in the GNOME application search results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/24.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you see the Bottles icon, click it to launch the application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Don't Forget to Adjust Bottles Preferences
 
  Bottles has a lot of settings that you can use to fine tune how your bottles are created, and what resources such as run time dependencies and DLLs are available for the applications inside your bottles.
@@ -95,14 +119,23 @@ flatpak run com.usebottles.bottles
 
 ![The Preferences option in the Bottles hamburger menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The "Preferences" dialog appears.
 
 ![The "Bottles Directory" option in the General tab of the Prefrences dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The bottom option on the “General” tab is “Bottles Directory.” Click the button at the end of that line to open a file browser dialog.
 
 ![The file dialog that allows you to browse to a location and set it as the location for the bottles you create](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Browse to the location you wish to use, then click the orange “Select” button.
 
 ##  The Different Types of Bottle
@@ -127,6 +160,9 @@ flatpak run com.usebottles.bottles
 
 ![The output while Bottles creates a new bottle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/15-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  Bottles configures your bottle and Wine, then tells you the process is complete.
 
 ![The confirmation when a bottle has been created](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/16-1.png) 
@@ -135,6 +171,9 @@ flatpak run com.usebottles.bottles
 
 ![The details of the new bottle, and the options that can be used to fine tune and use it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Running Our Windows Application
 
  The “Install Programs” option lets you install some commonly used applications, wrapped by members of the Bottles user community. The “Dependencies” option lets you install resources that your application might need, such as runtimes, DLLs, or Microsoft fonts,
@@ -145,10 +184,16 @@ flatpak run com.usebottles.bottles
 
 ![Browsing to, and selecting, the installation file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/18.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
  We see the usual Notepad++ installation dialog.
 
 ![The Notepad++ installation dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  Work your way through the installation screens.
 
 ![The Notepad++ installation  dialog welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20.png) 
@@ -161,12 +206,18 @@ flatpak run com.usebottles.bottles
 
 ![The Windows application, Notepad++ running on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/22.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  Back in Bottles, you’ll see Notepad++ is listed as an installed program.
 
 ![Notepad++ listed as an installed application in our new bottle, with the run icon highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/23.png) 
 
  Clicking the arrow head icon launches Notepad++ for us, whenever we wish to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Fantastic, But Not Perfect
 
  There are Linux equivalents to most Windows applications, but they sometimes do things differently or don’t replicate all the functionality of their Windows equivalent. This can flummox newcomers to Linux. Sometimes, especially with games, there simply are no Linux equivalents.
@@ -189,3 +240,59 @@ flatpak run com.usebottles.bottles
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/the-ascent-understanding-its-unforeseen-launch-hurdles-and-status-update/"><u>'The Ascent': Understanding Its Unforeseen Launch Hurdles and Status Update</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-slide-to-video-software/"><u>[New] 2024 Approved  Premier Slide-to-Video Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/est-webcams-unveiled-a-youtube-livestreamers-handbook-for-2024/"><u>[New] Best Webcams Unveiled  A YouTube Livestreamer's Handbook for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-compelling-compositions-with-magix-fruity-loops/"><u>[New] Crafting Compelling Compositions with Magix Fruity Loops</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-easy-ways-to-screen-record-instagram-story/"><u>[New] Easy Ways to Screen Record Instagram Story</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[New] Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-on-selecting-the-ideal-video-aspect-ratio/"><u>[New] Expert Tips on Selecting the Ideal Video Aspect Ratio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>[New] For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-sphere-photos-and-video-on-apple-devices/"><u>[New] Full-Sphere Photos and Video on Apple Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-online-destinations-for-video-promotion/"><u>[New] Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-srt-creation-and-enhancement/"><u>[New] Innovative Strategies for SRT Creation and Enhancement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-streamline-your-videography-insta-to-mp4-made-simple/"><u>[New] Streamline Your Videography  Insta-to-MP4 Made Simple</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-taking-control-the-hidden-tips-and-tricks-for-power-users-of-window-11-for-2024/"><u>[New] Taking Control  The Hidden Tips and Tricks for Power Users of WINDOW 11 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-iphones-hdr-features-for-professional-photography/"><u>[Updated] Exploring iPhone's HDR Features for Professional Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamers-guide-to-best-4k-laptop-models/"><u>[Updated] Gamer's Guide to Best 4K Laptop Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gaming-revolution-with-vegaspro-2019/"><u>[Updated] Gaming Revolution with VegasPro 2019</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-transform-your-in-game-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>[Updated] How to Transform Your In-Game Voice and Sound Presence Naturally  Expert Tips for FREE</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-comprehensive-introduction-to-color-grading-with-luts/"><u>[Updated] In 2024, A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-brand-identity-complimentary-logo-templates-customization/"><u>[Updated] Innovate Brand Identity  Complimentary Logo Templates Customization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-designs-in-syma-x8c/"><u>[Updated] Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators-for-2024/"><u>[Updated] The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-methods-for-documenting-overwatch-games/"><u>2024 Approved  Essential Methods for Documenting Overwatch Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-level-techniques-to-upgrade-your-iphone-photo-game/"><u>2024 Approved  Pro-Level Techniques to Upgrade Your iPhone Photo Game</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-your-meetings-using-zoom-with-win11/"><u>2024 Approved  Streamlining Your Meetings  Using Zoom with Win11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-applying-skin-secrets-establishing-an-online-beauty-platform/"><u>2024 Approved  The Art of Applying Skin Secrets  Establishing an Online Beauty Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/avoiding-common-pitfalls-in-your-search-for-spectacular-pexels-photos/"><u>Avoiding Common Pitfalls in Your Search for Spectacular Pexels Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>Competitor Cameras Rising  The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862827894-experience-unmatched-gaming-performance-with-innocns-27-inch-240hz-ips-monitor-at-a-steal-only-199/"><u>Experience Unmatched Gaming Performance with Innocn's 27-Inch 240Hz IPS Monitor at a Steal - Only $199</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigglegenius-funniest-memes-await-for-2024/"><u>GiggleGenius  Funniest Memes Await for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-windows-11s-high-dynamic-range-auto-hdr-for-better-visuals-for-2024/"><u>Harnessing Windows 11'S High Dynamic Range (Auto HDR) for Better Visuals for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hollywood-hacks-a-filmmakers-guide-to-cinematic-excellence-for-2024/"><u>Hollywood Hacks  A Filmmaker’s Guide to Cinematic Excellence for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-amds-epyc-9755-128-core-cpu-became-a-multi-threading-behemoth-scoring-over-108000-on-cpu-z/"><u>How AMD's EPYC 9755 128-Core CPU Became a Multi-Threading Behemoth, Scoring Over 108,000 on CPU-Z</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-choices-11-beginner-waterproof-cams-for-child-videographers-for-2024/"><u>Ideal Choices  11 Beginner Waterproof Cams For Child Videographers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>In 2024, Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-skies-in-4k-with-mi-drone/"><u>In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-online-destinations-for-sparkling-3d-typography/"><u>In 2024, Exquisite Online Destinations for Sparkling 3D Typography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-versatile-tools-for-amateurs-and-professionals-in-ar/"><u>In 2024, Free, Versatile Tools for Amateurs & Professionals in AR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>In 2024, From Two-Dimensions to Three  Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-circle-camera-unboxing-and-tests/"><u>In 2024, Full Circle Camera Unboxing & Tests</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>In 2024, Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-extracting-srt-from-a-zip-archive/"><u>In 2024, Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a54-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A54 5G Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-what-is-google-ar-sticker-and-are-there-alternatives/"><u>In 2024, What Is Google AR Sticker and Are There Alternatives?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-methodology-for-adding-srt-in-mp4-files-for-2024/"><u>In-Depth Methodology for Adding SRT in MP4 Files for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-in-digital-animation-the-art-of-creating-gifs/"><u>Masterclass in Digital Animation  The Art of Creating GIFs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-canon-printer-non-operational-in-windows-10/"><u>Quick Fixes for Canon Printer Non-Operational in Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-screens-on-chrome-os/"><u>Streamlined Screens on Chrome OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-tip-keeping-dells-audio-fresh-and-compatible/"><u>Tech Tip: Keeping Dell's Audio Fresh and Compatible</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-of-selecting-a-virtual-reality-device-tethered-connections-vs-mobility-freedom-in-2024/"><u>Unraveling the Mystery of Selecting a Virtual Reality Device  Tethered Connections vs Mobility Freedom, In 2024</u></a></li>
+</ul></div>

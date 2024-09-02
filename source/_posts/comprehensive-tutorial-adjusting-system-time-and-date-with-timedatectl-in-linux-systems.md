@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-08-26 22:52:51
-updated: 2024-08-29 10:30:51
+date: 2024-09-01T01:20:07.749Z
+updated: 2024-09-02T01:20:07.749Z
 tags:
   - desktop
 categories:
@@ -50,6 +50,9 @@ timedatectl status
 
 ![The output from the tidedatectl command using the status operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/1-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Actually, you can drop the status and you'll still get the same output.
 
 timedatectl
@@ -72,6 +75,9 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
@@ -82,6 +88,9 @@ timedatectl list-timezones | grep "America/" | less
 
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Setting the Time Zone
 
  If you look through the unfiltered list of time zones supported by `timedatectl` you'll see places as well as time zones. To set a time zone you can specify it by name like EST or GMT, or you can pick a location in the same time zone as you, like London or New York.
@@ -98,6 +107,9 @@ timedatectl
 
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  Manually Setting the Time and Date
 
  Although manually setting the time and date is possible, usually you won't need to. Using time synchronization and NTP is the preferred way to keep your computer's time and date accurate. If you try to change your computers' date or time you'll probably get an error, telling you that time synchronization is in use.
@@ -120,6 +132,9 @@ timedatectl
 
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
 
  If you have internet access, as soon as you restore the time synchronization service the time is retrieved and all of the details are correctly reset.
@@ -130,6 +145,9 @@ timedatectl
 
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  RTC: UTC or LTZ?
 
  It's possible to have your real-time clock set to your local time zone time instead of to UTC—possible, but inadvisable. If you make the change, you'll see a warning about the dire effects this may have on your system in the future.
@@ -152,6 +170,9 @@ timedatectl
 
 timedatectl set-local-rtc 0
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Set It and Forget It
 
  Unless you made an error during the installation of your Linux distribution, or you relocate there's usually no reason to be modifying the settings of your system and real-time clocks.
@@ -174,3 +195,46 @@ timedatectl set-local-rtc 0
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ancient-warriors-new-battlegrounds-top-games-like-the-japanese-epic/"><u>[New] 2024 Approved  Ancient Warriors, New Battlegrounds  Top Games Like the Japanese Epic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-practices-8-steps-for-digital-sound-preservation/"><u>[New] Best Practices  8 Steps for Digital Sound Preservation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing/"><u>[Updated] Evaluating SNS HDR's Value & Alternatives for HDR Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-step-by-step-approach-to-masterful-screen-recordings-on-hp-systems/"><u>[Updated] In 2024, A Step-by-Step Approach to Masterful Screen Recordings on HP Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-transform-your-in-game-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>[Updated] In 2024, How to Transform Your In-Game Voice and Sound Presence Naturally  Expert Tips for FREE</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-visual-voyage-amds-radeon-reborn-for-2024/"><u>[Updated] Visual Voyage  AMD's Radeon Reborn for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-digital-workforce-evolution-the-driving-force-behind-corporate-change/"><u>1. Digital Workforce Evolution: The Driving Force Behind Corporate Change</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c67-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C67 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbau-von-zahlungsverzogerungen-bei-metro-ag-schnellerer-transaktionsfluss-fur-grosshandler-bis-zu-90/"><u>Abbau Von Zahlungsverzögerungen Bei Metro AG: Schnellerer Transaktionsfluss Für Großhändler Bis Zu 90%%</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-advanced-tracking-technology/"><u>Enhanced User Experience with Advanced Tracking Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-web-analytics-with-the-help-of-cookiebot-technology/"><u>Enhanced Web Analytics with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-presence-with-advanced-cookiebot-technology/"><u>Enhancing Online Presence with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-visibility-through-strategic-webpage-content-mastery/"><u>Enhancing Online Visibility Through Strategic Webpage Content Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explorez-clairement-tous-les-bienfaits-de-lutilisation-dabbyy-recognition-server-avec-rewalk/"><u>Explorez Clairement Tous Les Bienfaits De L'utilisation D’ABBYY Recognition Server Avec Rewalk</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-convert-and-transfer-your-kindle-ebooks-to-a-barnes-and-noble-nook-device/"><u>How to Convert and Transfer Your Kindle eBooks to a Barnes & Noble Nook Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-v30t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme V30T Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/integration-of-abbyy-flexicapture-with-paperstream-nx-manager-maximizing-efficiency-for-pfu-applications/"><u>Integration of ABBYY FlexiCapture with PaperStream NX Manager: Maximizing Efficiency for PFU Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Analytics and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-advanced-analytics-via-cookiebot-integration/"><u>Leveraging Advanced Analytics via Cookiebot Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/masterclass-by-abbyy-enhancing-user-engagement-through-innovative-onboarding-techniques/"><u>Masterclass by ABBYY: Enhancing User Engagement Through Innovative Onboarding Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-e-invoice-management-in-ap-comprehensive-strategies-using-abbyy-software/"><u>Mastering E-Invoice Management in AP: Comprehensive Strategies Using ABBYY Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-financial-exposure-a-comprehensive-guide-on-reducing-libor-contract-vulnerabilities/"><u>Mastering Financial Exposure: A Comprehensive Guide on Reducing LIBOR Contract Vulnerabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/neueste-entwicklungen-im-handelskredit-bereich-bewaltigen-sie-die-zukunftigen-hindernisse-mit-kreativitat/"><u>Neueste Entwicklungen Im Handelskredit Bereich: Bewältigen Sie Die Zukünftigen Hindernisse Mit Kreativität</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimize-with-cookiebot-advanced-tracking-solutions-tailored-for-seo-success/"><u>Optimize with Cookiebot: Advanced Tracking Solutions Tailored for SEO Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-engagement-with-advanced-analytics-powered-by-cookiebot-technology/"><u>Optimized Engagement with Advanced Analytics - Powered by Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/pioneering-intuitive-cross-modal-transport-systems-exploring-innovations-at-abbyy/"><u>Pioneering Intuitive Cross-Modal Transport Systems: Exploring Innovations at ABBYY</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/secure-your-media-download-vimeo-to-mp4-for-2024/"><u>Secure Your Media  Download Vimeo to MP4 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/tech-sector-sees-software-automation-workforce-surge-up-50-within-next-24-months-predictions-for-future-growth/"><u>Tech Sector Sees Software Automation Workforce Surge up 50%% Within Next 24 Months: Predictions for Future Growth</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-5-star-fluids-and-flows-in-video-games/"><u>The Ultimate 5-Star Fluids and Flows in Video Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/time-saving-ways-to-log-vimeo-media/"><u>Time-Saving Ways to Log Vimeo Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-7-essential-competencies-needed-for-successful-navigation-of-transit-and-supply-chain-management-on-the-abbyy-platform/"><u>Top 7 Essential Competencies Needed for Successful Navigation of Transit and Supply Chain Management on the ABBYY Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transforming-organizational-strategy-with-digital-intelligence-insights-from-an-abbyy-expert/"><u>Transforming Organizational Strategy with Digital Intelligence: Insights From an ABBYY Expert</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y100i-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y100i IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ultimate-guide-mastering-the-art-of-effective-web-pages/"><u>Ultimate Guide: Mastering the Art of Effective Web Pages</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/user-engagement-boost-with-advanced-cookiebot-technology-solutions/"><u>User Engagement Boost with Advanced Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/zentralisierte-digitale-transformation-der-rechtspraxis-erleben-sie-die-innovation-von-norton-rose-llp-mit-abbyy-foto-und-handschriftserkennung/"><u>Zentralisierte Digitale Transformation Der Rechtspraxis: Erleben Sie Die Innovation Von Norton Rose LLP Mit ABBYY Foto- Und Handschriftserkennung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1724312721327-abbyy/"><u>ヘルスケア業界での効果的なプロセスマイニング技術 - ABBYYブログ</u></a></li>
+</ul></div>

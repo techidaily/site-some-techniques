@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer"
-date: 2024-08-28 21:30:58
-updated: 2024-08-29 10:29:47
+date: 2024-09-01T01:20:13.217Z
+updated: 2024-09-02T01:20:13.217Z
 tags:
   - desktop
 categories:
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
  You can save web apps in other browsers, too. In Chrome, tap the three-dot menu button, go to More Tools > Create Shortcut, check "Open as Window", and click "Create". In Edge, click the three-dot menu button and go to Apps > Install This Site as an App.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Run the Copilot iPad App on Your Mac
 
  While there isn't a dedicated Mac app for Copilot, the [iPad app is available](https://remote-screen-capture.techidaily.com/new-voice-record-hacks-3-ways-to-get-it-right-on-ipad-for-2024/) in the Mac App Store. If you're using a Mac powered by Apple Silicon, it could be the better option.
@@ -49,16 +52,28 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
 
  Click the three-dot menu button in the top right and select "Show All Tones" to change the conversation style. You can choose from Creative, Balanced, and Precise. You can access your chat history here, too.
 
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use Copilot on Windows for the Full Experience
 
  Microsoft Copilot on a Mac doesn't give you the deeper system integration you get on Windows—you can't launch apps or control your Bluetooth devices, for example. But it's great for things like getting information, creating lists, basic coding, and generating images. And it works as well through the web app or iPad app as on any other platform.
@@ -77,3 +92,69 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-esteemed-experts-premium-instragram-highlight-designs-online/"><u>[New] 2024 Approved  Esteemed Experts  Premium Instragram Highlight Designs Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-initiating-into-the-world-of-facebook-video-content-creation/"><u>[New] 2024 Approved  Initiating Into the World of Facebook Video Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-pathway-youtube-trailer-creation-with-filmora-for-2024/"><u>[New] Filmmaker's Pathway  YouTube Trailer Creation with Filmora for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-best-practices-for-exporting-youtube-videos-to-facebook-for-2024/"><u>[Updated] Best Practices for Exporting YouTube Videos to Facebook for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-quick-clip-creations-role-and-music-tango/"><u>[Updated] In 2024, Quick Clip Creations  Role & Music Tango</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-webinar-recording-a-step-by-step-masterclass-guide/"><u>[Updated] In 2024, Webinar Recording  A Step-by-Step Masterclass Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-maintaining-meetings-in-google-recorder-for-2024/"><u>[Updated] Maintaining Meetings in Google Recorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[Updated] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display/"><u>2024 Approved  Breaking Down Sync  A Thorough Review of LG's UHD68 Display</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebooks-top-visual-discoveries-a-guide/"><u>2024 Approved  Facebook's Top Visual Discoveries  A Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-transition-incorporating-effective-jump-cuts/"><u>2024 Approved  Master the Transition  Incorporating Effective Jump Cuts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-v30-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme V30 PC | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automatyzacja-processow-przezwazajac-zadania-w-projektach-oceniaj-wyniki-process-mining/"><u>Automatyzacja Processów: Przezważając Zadania W Projektach - Oceniaj Wyniki Process Mining</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-sites-performance-using-the-cutting-edge-technology-of-cookiebot/"><u>Boost Your Site's Performance Using the Cutting-Edge Technology of Cookiebot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-traffic-with-our-cutting-edge-cookiebot-technology/"><u>Boost Your Traffic with Our Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-analytics-and-personalization-for-websites/"><u>Cookiebot-Driven Analytics & Personalization for Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-customization-enhance-your-website-with-tailored-user-experiences/"><u>Cookiebot-Driven Customization: Enhance Your Website with Tailored User Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabled-enhancing-your-websites-analytics-with-automation/"><u>Cookiebot-Enabled: Enhancing Your Website's Analytics with Automation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-boosting-your-websites-performance/"><u>Cookiebot-Enhanced: Boosting Your Website's Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-efficient-and-user-friendly-web-tracking-solutions/"><u>Cookiebot: Efficient and User-Friendly Web Tracking Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabling-advanced-analytics-and-personalization/"><u>Cookiebot: Enabling Advanced Analytics and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-the-prime-tool-for-lead-generation/"><u>Cookiebot: The Prime Tool for Lead Generation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/damping-down-display-dynamics-in-acer-systems/"><u>Damping Down Display Dynamics in Acer Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/deutsche-post-dhl-group-verdoppelt-effizienz-durch-rpa-integration-mit-abbyy-idp-steigerung-von-bis-zu-70/"><u>Deutsche Post DHL Group Verdoppelt Effizienz Durch RPA-Integration Mit ABBYY IDP - Steigerung Von Bis Zu 70%%</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/driving-sales-success-through-cookiebot-enabled-analytics-tools/"><u>Driving Sales Success Through Cookiebot-Enabled Analytics Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-hp-laserjet-5200-drivers-on-microsofts-operating-systems-windows-11-10-and-8/"><u>Easy Installation of HP LaserJet 5200 Drivers on Microsoft's Operating Systems: Windows 11, 10 & 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/efficiently-managing-core-records-pwcs-use-of-abbyy-advanced-ocr-technologies/"><u>Efficiently Managing Core Records: PwC's Use of ABBYY Advanced OCR Technologies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/elevating-business-efficiency-with-abbyys-hyperautomation-combining-advanced-computer-vision-llm-technology-and-seamless-idp-connectivity/"><u>Elevating Business Efficiency with ABBYY's Hyperautomation: Combining Advanced Computer Vision, LLM Technology, and Seamless IDP Connectivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/empower-your-site-with-cookiebots-advanced-conversion-optimization-features/"><u>Empower Your Site with Cookiebot's Advanced Conversion Optimization Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/empowering-multitaskers-song-lyrics-capture-extended-screen-real-estate-and-smartphone-revival-insights-from-abbyy-experts/"><u>Empowering Multitaskers: Song Lyrics Capture, Extended Screen Real Estate & Smartphone Revival | Insights From ABBYY Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-analytics-with-our-cookiebot-technology-solutions/"><u>Enhance Analytics with Our Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-digital-marketing-efforts-through-smart-analytics-discover-the-benefits-of-cookiebot-technology/"><u>Enhance Digital Marketing Efforts Through Smart Analytics - Discover the Benefits of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-online-visibility-smart-insights-via-the-power-of-cookiebot-technology/"><u>Enhance Online Visibility: Smart Insights via the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-website-insights-using-cookiebot-driven-tracking-solutions/"><u>Enhance Website Insights Using Cookiebot-Driven Tracking Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-smart-automation-how-abbyy-and-blue-prism-revolutionize-digital-labor/"><u>Enhancing Smart Automation: How ABBYY & Blue Prism Revolutionize Digital Labor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-subcontracting-options-for-enhancing-abpp-solutions/"><u>Expert Subcontracting Options for Enhancing ABPP Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-different-techniques-in-process-mining-insights-from-abbyys-new-study/"><u>Exploring Different Techniques in Process Mining: Insights From ABBYY's New Study</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-regulatory-standards-and-client-satisfaction-in-the-finance-sector/"><u>Harmonizing Regulatory Standards and Client Satisfaction in the Finance Sector</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-strength-of-cookiebots-advanced-tracking-solutions/"><u>Harness the Strength of Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-smart-tracking-solutions-discover-how-cookiebot-empowers-your-website/"><u>Harnessing the Power of Smart Tracking Solutions - Discover How Cookiebot Empowers Your Website</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hdr-tech-showdown-sns-vs-alternatives/"><u>HDR Tech Showdown  SNS vs Alternatives</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-edge-40mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Edge 40Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a58-4g-by-drfone-android/"><u>How to Bypass FRP from Oppo A58 4G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-reno-8t-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo Reno 8T 5G Without PUK Codes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-narzo-n53-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme Narzo N53 Without PUK Codes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-selective-alarm-tones-optimal-websites-list/"><u>In 2024, Selective Alarm Tones  Optimal Websites List</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-6-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic 6 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/inside-nurs-success-story-achieving-full-digital-transformation-with-dhl-a-comprehensive-video-guide/"><u>Inside Nur's Success Story: Achieving Full Digital Transformation with DHL – A Comprehensive Video Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/la-cabinet-juridique-centralise-par-norton-rose-llp-digitisation-et-solutions-abbyy-recognition-server/"><u>La Cabinet Juridique Centralisé Par Norton Rose LLP: Digitisation Et Solutions ABBYY Recognition Server</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-insights-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Insights and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-the-power-of-cookiebot-for-optimized-website-analytics/"><u>Leveraging the Power of Cookiebot for Optimized Website Analytics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-audio-archives-the-essential-guide-with-8-key-techniques/"><u>Mastering Audio Archives  The Essential Guide with 8 Key Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-financial-kyc-protocols-through-advanced-ai-and-machine-learning-strategies-ebook/"><u>Mastering Financial KYC Protocols Through Advanced AI and Machine Learning Strategies | eBook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-the-next-wave-in-tech-why-legally-harnessing-ai-is-key-expert-analysis-by-abbyy/"><u>Mastering the Next Wave in Tech: Why Legally Harnessing AI Is Key | Expert Analysis by ABBYY</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-free-3d-animation-apps-for-android-and-ios-devices/"><u>New Discover the Best Free 3D Animation Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-mp4-compression-artifacts/"><u>Repairing MP4 Compression Artifacts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/speed-up-or-slow-down-your-camtasia-recordings-for-2024/"><u>Speed Up or Slow Down Your Camtasia Recordings for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-hdr-photography-selecting-superior-models/"><u>Unlocking HDR Photography  Selecting Superior Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/aiocr-abbyy/"><u>モバイル用AIによるOCR領収書管理製品 - ABBYYモバイルキャプチャ</u></a></li>
+</ul></div>

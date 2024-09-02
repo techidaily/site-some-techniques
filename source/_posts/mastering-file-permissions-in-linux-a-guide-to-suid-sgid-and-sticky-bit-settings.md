@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings"
-date: 2024-08-27 12:12:33
-updated: 2024-08-29 12:26:41
+date: 2024-09-01T01:21:23.600Z
+updated: 2024-09-02T01:21:23.600Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  On Linux, stored passwords are protected in two ways: they're encrypted, and only someone with `root` privileges can access the file that contains the passwords. That might sound fine, but it presents a quandary: If only people with `root` privileges can access stored passwords, how do those who don't have that access change their passwords?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Elevating Your Status
 
  Usually, Linux commands and programs run with the same set of permissions as the person who launches the program. When `root` runs the passwd command [to change a password](http://man7.org/linux/man-pages/man1/passwd.1.html), it runs with `root`’s permissions. That means the passwd command can freely access the stored passwords in the /etc/shadow file.
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  The above scenario is precisely what the Set User ID bit (`SUID`) does. It runs programs and commands with the permissions of the file owner, rather than the permissions of the person who launches the program.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  You're Elevating the Program's Status
 
  There is another quandary, though. The person has to be prevented from meddling with anyone else's password. Linux incorporates the `SUID` scheme which allows it to run applications with a set of temporarily borrowed permissions—but that's only half of the security story.
@@ -56,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  With the core Linux commands and utilities, you can be confident they've got security baked into them and that the code has been reviewed many times. Of course, there's always the threat of as-yet-unknown exploits. However, patches or updates are quick to appear to counter any newly identified vulnerabilities.
 
  It's third-party software—especially any that isn't open-source—you need to be extremely careful about using `SUID` with. We're not saying don't do it, but, if you do, you want to make sure it won't expose your system to risk. You don't want to elevate the privileges of a program that isn't going to correctly self-govern itself and the person running it.
@@ -76,6 +85,10 @@ ls -l /usr/bin/passwd
 
 ![List of Linux commands that have their SUID bit set, in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Note the filenames are highlighted in red, which indicates the SUID bit is set.
 
  The permissions on a file or directory are usually represented by three groups of three characters: rwx. These stand for read, write and execute. If the letters are present, that permission has been granted. If a hyphen (`-`) instead of a letter is present, though, that permission hasn't been given.
@@ -104,6 +117,9 @@ ps -e -f | grep passwd
 
  We can see the `passwd` process runs the same as it would if `root` had launched it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ##  Setting the SUID Bit
 
  It's easy to change the `SUID` bit with `[chmod](https://extra-guidance.techidaily.com/new-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/)`. The `u+s` symbolic mode sets the `SUID` bit and the `u-s` symbolic mode clears the `SUID` bit.
@@ -140,6 +156,9 @@ htg
 
 ![The htg program running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Even though `dave` launched the program, the effective ID is set to the `root` user. So, if `mary` launches the program, the same thing happens, as shown below:
 
 htg
@@ -164,6 +183,9 @@ ls -lh /usr/local/bin/htg
 
 ![sudo chown root:mary /usr/local/bin/htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  You can see the `SGID` bit denoted by the "s" in the group permissions. Also, note the group is set to `mary` and the file name is now highlighted in yellow.
 
  Before we run the program, let's establish which groups `dave` and `mary` belong to. We'll use the `id` command with the -G (groups) option, [to print all group IDs](http://man7.org/linux/man-pages/man1/id.1.html). Then, we'll run the `htg` program as `dave`.
@@ -218,6 +240,9 @@ ls -lh useful.sh
 
 ![touch useful.sh in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The group of the new file is automatically set to "geek."
 
 ##  The Sticky Bit
@@ -244,12 +269,18 @@ ls -lh -d /var/tmp
 
 ![mkdir shared in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  If the sticky bit is set, the executable bit of the "other" set of file permissions is set to "t." The file name is also highlighted in blue.
 
  The `/tmp` and `/var/tmp` folders are two examples of directories that have all the file permissions set for the owner, group, and others (that's why they're highlighted in green). They're used as shared locations for temporary files.
 
  With those permissions, anyone should, theoretically, be able to do anything. However, the sticky bit overrides them, and no one can delete a file that doesn't belong to him.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reminders
 
  The following is a quick checklist of what we covered above for future reference:
@@ -275,3 +306,48 @@ ls -lh -d /var/tmp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-micro-photography-and-film-production/"><u>[New] Expert Insights Into Micro Photography and Film Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extraordinary-assessment-and-alternative-choices/"><u>[New] Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pages-to-production-creating-a-movie-blueprint/"><u>[New] From Pages to Production  Creating a Movie Blueprint</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hues-harmony-crafting-colorful-artistry/"><u>[New] Hues Harmony  Crafting Colorful Artistry</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-best-travel-youtube-channels-to-follow/"><u>[New] In 2024, 10 Best Travel Youtube Channels to Follow</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtubes-short-form-content-key-tips-revealed-for-2024/"><u>[New] Mastering YouTube's Short-Form Content  Key Tips Revealed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-crafting-content-that-captivates-for-virality-on-ig/"><u>[Updated] 2024 Approved  Crafting Content that Captivates for Virality on IG</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-streamlining-presentations-in-microsoft-teams-through-snap-capture/"><u>[Updated] 2024 Approved  Streamlining Presentations in Microsoft Teams Through Snap Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-windows-tunes-hub/"><u>[Updated] Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hidden-harmonics-discreetly-lowering-garageband-tones/"><u>[Updated] Hidden Harmonics  Discreetly Lowering Garageband Tones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>[Updated] How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ice-warriors-top-performances-at-2022-olympics/"><u>[Updated] Ice Warriors  Top Performances at 2022 Olympics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screenflow-exploration-a-mac-focused-journey-through-video-editing/"><u>[Updated] In 2024, ScreenFlow Exploration  A Mac-Focused Journey Through Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-influencing-your-drones-performance-choosing-right-propellers/"><u>[Updated] Influencing Your Drone's Performance  Choosing Right Propellers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-collage-concepts-lighting-up-your-life/"><u>[Updated] Innovative Collage Concepts  Lighting Up Your Life</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-the-art-of-moving-twitter-videos-into-whatsapp-for-2024/"><u>[Updated] Mastering the Art of Moving Twitter Videos Into WhatsApp for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-virtual-reality-terms-you-should-know/"><u>[Updated] Virtual Reality Terms You Should Know</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-precision-steps-for-hassle-free-ipad-and-iphone-recordings/"><u>2024 Approved  Precision Steps for Hassle-Free iPad & iPhone Recordings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-pick-best-vr-devices-of-the-year/"><u>2024 Approved  Prime Pick  Best VR Devices of the Year</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-resolving-windows-audio-glitches-error-code-9999/"><u>Efficiently Resolving Windows Audio Glitches: Error Code 9999</u></a></li>
+<li><a href="https://fox-info.techidaily.com/epic-tvs-for-xbox-series-x-and-playstation-5-gamers-for-2024/"><u>Epic TVs for Xbox Series X & PlayStation 5 Gamers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hasten-haste-in-videos-with-top-apps-android-for-2024/"><u>Hasten Haste in Videos with Top Apps, Android for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heaviest-heroes-in-the-air-drone-power-list-for-2024/"><u>Heaviest Heroes in the Air  Drone Power List for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-to-epic-iphones-best-landscape-tricks/"><u>In 2024, From Ordinary to Epic  IPhone's Best Landscape Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-maximizing-apple-podcast-listing-chances/"><u>In 2024, Guide  Maximizing Apple Podcast Listing Chances</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-cutzone-pro-review-unveiled/"><u>In 2024, In-Depth Analysis  CutZone Pro Review Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initial-steps-to-master-the-art-of-pixel-mapping/"><u>In 2024, Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-stories-enhancing-background-blur-technique/"><u>Insta Stories  Enhancing Background Blur Technique</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-logitech-c920x-streaming-studio-driver-on-windows-11-devices/"><u>Install Logitech C920x Streaming Studio Driver on Windows 11 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/personalize-your-site-effortlessly-with-advanced-cookiebot-features-for-seo-success/"><u>Personalize Your Site Effortlessly with Advanced Cookiebot Features for SEO Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/personalized-content-with-cookiebot-technology-for-optimized-engagement/"><u>Personalized Content with Cookiebot Technology for Optimized Engagement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-sound-on-the-move-top-wireless-headsets-2024/"><u>Premium Sound on The Move - Top Wireless Headsets 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-labor-with-rpa-an-in-depth-look-at-abbyys-vision-for-occupational-evolution-the-global-workforce-chronicle/"><u>Revolutionizing Labor with RPA: An In-Depth Look at ABBYY’s Vision for Occupational Evolution – The Global Workforce Chronicle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-legal-processes-embrace-modernization-and-automation-with-insights-from-an-abbyy-guru/"><u>Revolutionizing Legal Processes: Embrace Modernization & Automation with Insights From an ABBYY Guru</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/snapshot-of-essential-thoughts-before-buying-vr-equipment/"><u>Snapshot of Essential Thoughts Before Buying VR Equipment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-most-economical-cellular-contracts-this-year/"><u>Uncovering the Most Economical Cellular Contracts This Year</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unlocking-personalized-advertising-potential-elevate-your-campaigns-using-cookiebot-technology/"><u>Unlocking Personalized Advertising Potential: Elevate Your Campaigns Using Cookiebot Technology</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/zooming-in-a-comprehensive-tutorial-for-win11-enthusiasts/"><u>Zooming In  A Comprehensive Tutorial for Win11 Enthusiasts</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Compatibility with Windows 11: A Guide to Running Linux Applications"
-date: 2024-08-27 19:32:31
-updated: 2024-08-29 10:52:18
+date: 2024-09-01T01:22:31.550Z
+updated: 2024-09-02T01:22:31.550Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -44,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
@@ -66,12 +73,18 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ###  Windows and Linux File System Integration
 
  Windows and Linux File System Integration simplifies moving files between your Ubuntu WSL setup and your Windows 11 desktop. Here's how to utilize this feature.
@@ -86,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 cd /mnt/c
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Update your Ubuntu WSL app
 
  It is good practice to update your Ubuntu WSL app from time to time, otherwise programs will stop working. Here's how to do it on Windows 11.
@@ -120,8 +136,14 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, applications can be started from the Windows 11 start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
@@ -154,3 +176,62 @@ wsl --update
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/c-this-method-thats-what-are-you-able-to-calculate-how-many-moles-or-something-more-than-when-the-second-one/"><u>(C. This Method That's-What Are You Able to Calculate How Many Moles or Something More than when the Second One</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-engage-viewers-with-3-innovative-description-styles-on-instagram-vids/"><u>[New] Engage Viewers with 3 Innovative Description Styles on Instagram Vids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-advanced-techniques-using-jump-cuts-effectively/"><u>[New] In 2024, Advanced Techniques  Using Jump Cuts Effectively</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-navigate-to-the-5-preferred-android-ps2-emulator-apps/"><u>[New] In 2024, Navigate to the 5 Preferred Android PS2 Emulator Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-pro-tip-speedy-like-video-strategies-for-2024/"><u>[New] Instagram Pro Tip  Speedy Like-Video Strategies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-sound-system-advances-announced-for-2024/"><u>[New] Sound System Advances Announced for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-trailblazing-the-future-of-3d-color-grading-tools/"><u>[New] Trailblazing the Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quick-guide-automating-mac-screenshot-via-shortcuts/"><u>[Updated] 2024 Approved  Quick Guide  Automating Mac Screenshot via Shortcuts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-advanced-techniques-to-save-snapchat-stories-on-devices/"><u>[Updated] Advanced Techniques to Save Snapchat Stories on Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cut-expenses-create-wow-download-high-quality-templates-for-videos-for-2024/"><u>[Updated] Cut Expenses, Create Wow - Download High-Quality Templates for Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-x-record-pc-suite-release/"><u>[Updated] In 2024, X-Record PC Suite Release</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-save-while-you-teach-hosting-low-cost-seminars-via-youtube/"><u>[Updated] Save While You Teach  Hosting Low-Cost Seminars via YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spark-interest-fast-unique-bios-and-hashtags-for-tinder-success/"><u>2024 Approved  Spark Interest Fast  Unique Bios and Hashtags for Tinder Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/50-der-deutschen-bevolkerung-bevorzugen-es-unbeliebte-arbeiten-an-roboter-zu-delegieren/"><u>50%% Der Deutschen Bevölkerung Bevorzugen Es, Unbeliebte Arbeiten an Roboter Zu Delegieren</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-and-amedia-unite-to-develop-innovative-ocr-reader-app-tailored-for-vision-challenged-users/"><u>ABBYY and Amedia Unite to Develop Innovative OCR Reader App Tailored for Vision-Challenged Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-online-platform-use-policy-binding-legal-framework-with-integrated-gdpr-provisions-for-user-privacy-and-data-security/"><u>ABBYY Online Platform Use Policy - Binding Legal Framework with Integrated GDPR Provisions for User Privacy and Data Security</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/adapting-perspectives-in-tech-the-role-of-ai-according-to-abbyy-experts/"><u>Adapting Perspectives in Tech: The Role of AI According to ABBYY Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/butagaz-partners-with-abbyy-digital-intelligence-for-seamless-energy-provider-transitions/"><u>Butagaz Partners with ABBYY Digital Intelligence for Seamless Energy Provider Transitions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprehensive-digital-revolution-guide-essential-steps-for-the-insurance-industry-with-abbyy/"><u>Comprehensive Digital Revolution Guide: Essential Steps for the Insurance Industry with ABBYY</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-marketing-enhance-your-visitor-tracking/"><u>Cookiebot-Driven Marketing: Enhance Your Visitor Tracking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-website-performance-optimization/"><u>Cookiebot-Driven Website Performance Optimization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-delivering-tailored-content-and-analytics-through-advanced-tracking-technologies/"><u>Cookiebot: Delivering Tailored Content and Analytics Through Advanced Tracking Technologies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-the-spoken-word-writing-compelling-narratives-for-2024/"><u>Crafting the Spoken Word  Writing Compelling Narratives for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/decouvrez-comment-utiliser-le-processus-mining-et-le-task-mining-a-votre-avantage-grace-au-qanda-de-abbyy-et-nelsonhall-suivez-la-lecture-pour-plus-dinforma22/"><u>Découvrez Comment Utiliser Le Processus Mining Et Le Task Mining À Votre Avantage Grâce Au Q&A De ABBYY Et NelsonHall : Suivez La Lecture Pour Plus D'informations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-access-archived-messages-and-notifications-on-iphone/"><u>Discover How to Access Archived Messages and Notifications on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/elevate-conversions-using-cookiebot-technology-the-secret-ingredient-of-successful-online-marketing/"><u>Elevate Conversions Using Cookiebot Technology - The Secret Ingredient of Successful Online Marketing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-personalization-with-cookiebot-the-ultimate-ai-driven-marketing-solution/"><u>Enhanced Personalization with Cookiebot: The Ultimate AI-Driven Marketing Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-user-engagement-with-advanced-cookiebot-solutions/"><u>Enhancing User Engagement with Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-abbyys-diverse-talent-pool-discovering-more-than-just-roles-and-responsibilities/"><u>Exploring ABBYY's Diverse Talent Pool: Discovering More than Just Roles and Responsibilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/head-of-innovation-patrick-jeans-dual-role-in-tech-strategy-at-abbyy-cpo-and-cto/"><u>Head of Innovation - Patrick Jean's Dual Role in Tech Strategy at ABBYY (CPO & CTO)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A58 4G</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kensuns-top-notch-compact-tire-pump-durability-meets-portability/"><u>Kensun's Top-Notch Compact Tire Pump: Durability Meets Portability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-cookiebot-technology-for-superior-online-engagement/"><u>Leveraging Cookiebot Technology for Superior Online Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigate-the-future-of-intelligent-docuprocessing-discover-abbyy-within-everest-groups-peak-matrix-for-top-tier-assessment-in-2/"><u>Navigate the Future of Intelligent DocuProcessing: Discover ABBYY Within Everest Group’s PEAK Matrix for Top-Tier Assessment in 2#</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-electronic-invoicing-expert-tips-for-the-accounts-payable-department-with-abbyy/"><u>Navigating Electronic Invoicing: Expert Tips for the Accounts Payable Department with ABBYY</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-the-terms-and-conditions-of-abbyys-cloud-offerings-protecting-user-consent-and-compliance/"><u>Navigating the Terms and Conditions of ABBYY's Cloud Offerings: Protecting User Consent and Compliance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimisez-votre-positionnement-unique-dans-le-secteur-financier-avec-la-checklist-abbyy-guide-pratique/"><u>Optimisez Votre Positionnement Unique Dans Le Secteur Financier Avec La Checklist ABBYY : Guide Pratique</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-with-cookiebot-enhancing-your-sites-seo/"><u>Optimized with Cookiebot: Enhancing Your Site's SEO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-with-the-help-of-cookiebot-your-pathway-to-enhanced-seo-performance/"><u>Optimized with the Help of Cookiebot: Your Pathway to Enhanced SEO Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/personalize-your-site-effortlessly-with-advanced-cookiebot-features-for-seo-success/"><u>Personalize Your Site Effortlessly with Advanced Cookiebot Features for SEO Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/personalized-content-with-cookiebot-technology-for-optimized-engagement/"><u>Personalized Content with Cookiebot Technology for Optimized Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-efficiency-the-quartet-transforming-process-enhancement-strategies/"><u>Revolutionizing Efficiency: The Quartet Transforming Process Enhancement Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-labor-with-rpa-an-in-depth-look-at-abbyys-vision-for-occupational-evolution-the-global-workforce-chronicle/"><u>Revolutionizing Labor with RPA: An In-Depth Look at ABBYY’s Vision for Occupational Evolution – The Global Workforce Chronicle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-the-cfos-desk-costain-enhances-financial-operations-with-abbyys-advanced-analytics/"><u>Revolutionizing the CFO's Desk: Costain Enhances Financial Operations with ABBYY's Advanced Analytics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/serbia-welcomes-abbyys-cutting-edge-development-hub-advancing-intelligent-automation-solutions/"><u>Serbia Welcomes ABBYY's Cutting-Edge Development Hub, Advancing Intelligent Automation Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/streamlining-cancer-tracking-at-usc-automated-record-systems-meet-precision-with-abbyy-compliance-tools/"><u>Streamlining Cancer Tracking at USC: Automated Record Systems Meet Precision with ABBYY Compliance Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-selling-through-influence-5-key-strategies-on-instagram-for-2024/"><u>The Art of Selling Through Influence  5 Key Strategies on Instagram for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-mice-for-ipads/"><u>The Best Mice for iPads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word-for-2024/"><u>Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-executive-move-adrian-jones-takes-on-the-role-of-abbyys-chief-revenue-officer/"><u>Top Executive Move: Adrian Jones Takes on the Role of ABBYY's Chief Revenue Officer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solutions-for-chivalry-ii-crashes-now-fixed/"><u>Troubleshooting and Solutions for Chivalry II Crashes - Now Fixed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitta-visuals-audio-extraction-services/"><u>Twitta Visuals  Audio Extraction Services</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-google-pixel-fold-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Google Pixel Fold.</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-the-power-of-technology-with-toms-hardware-guides/"><u>Unveiling the Power of Technology with Tom's Hardware Guides</u></a></li>
+</ul></div>

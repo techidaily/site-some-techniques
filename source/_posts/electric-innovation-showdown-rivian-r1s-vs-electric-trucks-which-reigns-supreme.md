@@ -1,7 +1,7 @@
 ---
 title: "Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?"
-date: 2024-08-27 14:15:17
-updated: 2024-08-29 10:16:32
+date: 2024-09-01T01:24:46.944Z
+updated: 2024-09-02T01:24:46.944Z
 tags:
   - cutting-edge
 categories:
@@ -90,6 +90,9 @@ Expand
 
  The Rivian R1S starts at $78,000 and includes a 260-mile range, being able to seat seven passengers. The quad-motor AWD trim I tested had a top range of 303 miles because it added a large battery pack, which was slightly offset by its 22-inch sport wheels. The review unit had a retail price of $95,500.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ##  R1S External Design and Features
 
 ![Rivian R1S in silver facing away from view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ab2d9268-0aa3-4b68-bddb-7db4d3473049.JPG) 
@@ -106,14 +109,24 @@ Tyler Hayes / How-To Geek
 
 ![Rivian R1S with the top lift gate open and the bottom portion closed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/419084e5-a85a-4947-933d-c31fac3a1cbb.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  This luxurious touch helps keep items from falling out when the rear door is opened. But I suppose the lower half could also provide a place for people to sit too. It let my legs dangle off comfortably. Only the top part was powered. The smaller bottom section needed to be manually lowered or raised.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Interior Design: (Mostly) Comfortable Seating With a Third Row
 
 ![Looking into the back of the Rivian R1S with all the seats down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5e4dca55-2894-4958-adc7-bdb80cac7f74.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The driver's cockpit of the R1S is so similar to the R1T that there were a couple of times I forgot I was driving the SUV and thought I was driving the truck. (This applies to the way the vehicle drives, too.) Sitting in the driver’s seat, looking forward, it was nearly impossible to tell which Rivian I was in.
@@ -124,6 +137,9 @@ Tyler Hayes / How-To Geek
 
 ![Rivian R1S third-row seats have storage and a USB-C charging port in the armrests](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/cc261bbe-af7e-4a91-96d2-048dd116d765.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 Storage and USB-C charging port in the armrests for the third-row
@@ -132,6 +148,9 @@ Storage and USB-C charging port in the armrests for the third-row
 
 ![Looking at the third-row seats in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/53657a5d-252e-469a-b9f3-401f2ab3a0e1.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 Peaking into the third-row seats
@@ -168,6 +187,10 @@ Tyler Hayes / How-To Geek
 
 ![The large 15.3-inch display in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/32a07ad3-f53a-4cb1-a4bf-fc37817d38b7.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Comfort, driving, and exterior design were all great, but the technology in the R1S shouldn't be ignored. The amount of technical features doesn’t quite match what Tesla’s vehicles offer, but Rivian isn’t far behind. There was at least one meaningful feature that surpassed what Tesla offers.
@@ -194,6 +217,9 @@ Tyler Hayes / How-To Geek
 
 ![Screenshots from the Rivian App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rivian-app-shots.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Rivian
 
  I had to use a keyfob for this review because of an issue gaining access to the Rivian app—available for [iPhone](https://apps.apple.com/us/app/rivian/id1570215232) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000533/https://play.google.com/store/apps/details?id=com.rivian.android.consumer&hl=en%5FUS&gl=US). I did use the app as my vehicle key for my previous review, and it worked great. The app allows for most of the interactions you'd want for your car remotely, like setting a charging schedule, setting a charging limit, unlocking it, opening the hood, controlling the climate, and so on. This is a modern vehicle app, similar to Tesla's, unlike the myVW one offered for the ID.4.
@@ -202,6 +228,9 @@ Rivian
 
 ![Rivian R1S plugged into a charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5a610b3a-82e5-4a05-94d1-0a45e3cda10f.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The R1S has a Combined Charging Standard (CCS) charging port, but the [company has said it will switch to the North American Charging Standard (NACS)](https://rivian.com/newsroom/article/rivian-accelerates-electrification-through-adoption-of-north-american-charging-standard-and-access-to-teslas-supercharger-network) sometime in 2024\. While I was able to find a DC fast charger near my house, there were only a couple of them, compared to the more than 30 Tesla fast chargers in the same vicinity, which use NASC connectors. It means that this current crop of R1S vehicles is kinda stuck in an awkward phase. If you can [hold off on buying an R1S](https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-editing-software-with-split-screen-capability-online-and-offline/) until the port is changed, that might be ideal, but if not, an adapter converting the CCS port to NASC chargers will be available to customers at some point.
@@ -212,6 +241,9 @@ Tyler Hayes / How-To Geek
 
 ![The charging screen on the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/2e2365f9-e5be-4335-8a3a-c8142ba0633b.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  What I really liked about the Rivian charging experience as is, however, was how proactive it was about providing all the charging information I wanted to see. For example, it showed how fast the station was charging at, when it would finish, how many miles had been added, and what the total range would be for the different driving modes when finished. This is in direct opposition to [how unhelpful VW's ID.4 was in regard to charging](https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v27-device-by-drfone-android/).
@@ -258,6 +290,9 @@ Tyler Hayes / How-To Geek
 
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Rivian R1S
@@ -282,3 +317,39 @@ From city streets to far-off trails, explore all types of terrain through all ki
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-capture-clarity-strip-away-background-noise/"><u>[New] In 2024, Capture Clarity  Strip Away Background Noise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-revolutionizing-call-recording-with-facetime-advancements/"><u>[New] In 2024, Revolutionizing Call Recording with FaceTime Advancements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-digital-recorder-hits-the-ultimate-list/"><u>[Updated] Digital Recorder Hits  The Ultimate List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-gen-vr-engines-the-2023-rundown/"><u>[Updated] Next-Gen VR Engines  The 2023 Rundown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-transform-your-iphone-into-a-scanning-powerhouse-advanced-ocr-document-digitization-with-finereader/"><u>1. Transform Your iPhone Into a Scanning Powerhouse: Advanced OCR Document Digitization with FINEREADER</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2-digital-revolution-in-nakano-ku-tokyo-how-japanese-governments-achieve-workload-and-cost-reductions-of-up-to-er-through-abbyys-advanced-solutions/"><u>2. Digital Revolution in Nakano-Ku, Tokyo: How Japanese Governments Achieve Workload and Cost Reductions of Up to Er%% Through ABBYY's Advanced Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-quirky-and-funny-creating-memes-anytime/"><u>2024 Approved  Quick, Quirky, and Funny  Creating Memes Anytime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-flexicapture-cloud-terms-and-conditions-for-eu-users/"><u>ABBYY FlexiCapture Cloud: Terms and Conditions for EU Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-leader-predicts-shift-from-general-to-targeted-ai-innovations-in-todays-automation-landscape/"><u>ABBYY Leader Predicts Shift From General to Targeted AI Innovations in Today's Automation Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-promotes-vonburg-to-new-role-of-chief-customer-officer/"><u>ABBYY Promotes vonBurg to New Role of Chief Customer Officer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-recognition-server-hochleistungstauglich-auf-dem-gipfel/"><u>ABBYY Recognition Server: Hochleistungstauglich Auf Dem Gipfel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-takes-the-crown-in-automated-process-discovery-insights-from-nelsonhalls-expert-analysis/"><u>ABBYY Takes the Crown in Automated Process Discovery - Insights From NelsonHall's Expert Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyys-revolutionary-bookscanner-the-ultimate-solution-for-hassle-free-digitalizing-your-reading/"><u>ABBYY's Revolutionary BookScanner: The Ultimate Solution for Hassle-Free Digitalizing Your Reading</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/accelerate-your-international-billing-using-advanced-abbyy-artificial-intelligence/"><u>Accelerate Your International Billing Using Advanced ABBYY Artificial Intelligence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/add-cinematic-shake-to-images-using-ps-for-2024/"><u>Add Cinematic Shake to Images Using PS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automated-lead-generation-with-cutting-edge-cookiebot-technology/"><u>Automated Lead Generation with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automated-with-cookiebot-the-secret-behind-our-dynamic-website/"><u>Automated with Cookiebot: The Secret Behind Our Dynamic Website!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-website-traffic-with-lead-generation-introducing-cookiebot-powered-solutions/"><u>Boost Your Website Traffic with Lead Generation: Introducing Cookiebot-Powered Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comment-nickel-utilise-abbyy-pour-stimuler-sa-developpement-au-marche-francais/"><u>Comment Nickel Utilise ABBYY Pour Stimuler Sa Développement Au Marché Français</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/experience-professional-facebook-profile-picture-design-with-these-tools/"><u>Experience Professional Facebook Profile Picture Design with These Tools</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-photo-collage-using-iphoto-in-2024/"><u>How to Make a Photo Collage Using iPhoto, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-tecno-spark-10-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Tecno Spark 10 4G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-data-insights-and-personalization-with-state-of-the-art-cookiebot-solutions/"><u>Revolutionizing Data Insights and Personalization with State-of-the-Art Cookiebot Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-energy-companies-finance-with-abbyys-advanced-invoice-processing-technology-for-improved-profitability-and-management/"><u>Revolutionizing Energy Companies’ Finance With ABBYY’s Advanced Invoice Processing Technology for Improved Profitability and Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/rpa/"><u>RPA強化のための包括的プロセス洞察力プラットフォームの最適化</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/teredo-struggles-with-eligibility-understanding-the-challenges/"><u>Teredo Struggles with Eligibility: Understanding the Challenges</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-images-into-editable-text-on-iphone-using-pdfscanpro-app/"><u>Transform Your Images Into Editable Text on iPhone Using PDFScanPro App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformation-von-herkommlichen-zu-digitalisierten-geschaftsmodellen-durch-automation/"><u>Transformation Von Herkömmlichen Zu Digitalisierten Geschäftsmodellen Durch Automation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-process-mining-when-does-it-fall-short-insights-from-industry-experts-at-abbyy/"><u>Understanding Process Mining - When Does It Fall Short? Insights From Industry Experts at ABBYY</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unlocking-advanced-efficiency-leveraging-abbyy-vantages-hyperautomation-ml-and-nlp-capabilities/"><u>Unlocking Advanced Efficiency: Leveraging ABBYY Vantage's Hyperautomation, ML and NLP Capabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477194927-unsuccessful-iphoneipad-os-update-try-these-9-fixes-immediately/"><u>Unsuccessful iPhone/iPad OS Update? Try These 9 Fixes Immediately</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/utilizing-cookiebot-technology-for-improved-user-tracking-and-engagement/"><u>Utilizing Cookiebot Technology for Improved User Tracking & Engagement</u></a></li>
+</ul></div>

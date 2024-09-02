@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-08-28 21:42:49
-updated: 2024-08-29 11:51:58
+date: 2024-09-01T01:22:27.176Z
+updated: 2024-09-02T01:22:27.176Z
 tags:
   - desktop
 categories:
@@ -32,16 +32,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
 
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  You should always use a unique password for every website, service, or app you use, and [make sure they are strong](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/).
@@ -54,6 +65,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
@@ -72,6 +86,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If your device is stolen, you should remotely wipe it if it is supported on your [iOS](https://facebook-record-videos.techidaily.com/video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks-for-2024/) or [Android](https://some-techniques.techidaily.com/incor-writes-photo-kinetic-vibrance-for-2024/) device.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  If Someone Asks For Something Out Of The Usual, Check In With Them
 
  Impersonation scams—where a scammer impersonates your friend, family member, or colleague to get you to send them money or information—are becoming increasingly common. Scammers can even use AI tools to impersonate voices, so if someone texts, emails, or even calls you with an unusual request for money or information (which could be used for later scams), find another way to contact that person to confirm that it's actually them asking.
@@ -88,6 +105,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
@@ -102,6 +122,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
 
  If something isn't working as expected on your device, stay calm. Don't start mashing buttons or swiping all over the place, as you'll only lose track of where you are or make things worse. By randomly tapping on alerts and notifications in frustration, you could grant a virus access to something accidentally (for example, by allowing one of the UAC prompts discussed above).
@@ -122,3 +145,48 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-art-of-amplification-a-comprehensive-guide-to-sharing-videos-on-facebook/"><u>[New] 2024 Approved  The Art of Amplification  A Comprehensive Guide to Sharing Videos on Facebook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-guide-to-softening-volume-levels-on-lumafusion/"><u>[New] The Guide to Softening Volume Levels on Lumafusion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-loop-a-video-on-iphone-in-2024/"><u>[Updated] How to Loop A Video on iPhone, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-transform-your-iphone-into-a-scanning-powerhouse-advanced-ocr-document-digitization-with-finereader/"><u>1. Transform Your iPhone Into a Scanning Powerhouse: Advanced OCR Document Digitization with FINEREADER</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2-digital-revolution-in-nakano-ku-tokyo-how-japanese-governments-achieve-workload-and-cost-reductions-of-up-to-er-through-abbyys-advanced-solutions/"><u>2. Digital Revolution in Nakano-Ku, Tokyo: How Japanese Governments Achieve Workload and Cost Reductions of Up to Er%% Through ABBYY's Advanced Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>2024 Approved  Unlock the Secrets  Essential TikTok Video Editing Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y56-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y56 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 6 Plus | Stellar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-flexicapture-cloud-terms-and-conditions-for-eu-users/"><u>ABBYY FlexiCapture Cloud: Terms and Conditions for EU Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-leader-predicts-shift-from-general-to-targeted-ai-innovations-in-todays-automation-landscape/"><u>ABBYY Leader Predicts Shift From General to Targeted AI Innovations in Today's Automation Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-promotes-vonburg-to-new-role-of-chief-customer-officer/"><u>ABBYY Promotes vonBurg to New Role of Chief Customer Officer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-recognition-server-hochleistungstauglich-auf-dem-gipfel/"><u>ABBYY Recognition Server: Hochleistungstauglich Auf Dem Gipfel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-takes-the-crown-in-automated-process-discovery-insights-from-nelsonhalls-expert-analysis/"><u>ABBYY Takes the Crown in Automated Process Discovery - Insights From NelsonHall's Expert Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyys-revolutionary-bookscanner-the-ultimate-solution-for-hassle-free-digitalizing-your-reading/"><u>ABBYY's Revolutionary BookScanner: The Ultimate Solution for Hassle-Free Digitalizing Your Reading</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/accelerate-your-international-billing-using-advanced-abbyy-artificial-intelligence/"><u>Accelerate Your International Billing Using Advanced ABBYY Artificial Intelligence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automated-lead-generation-with-cutting-edge-cookiebot-technology/"><u>Automated Lead Generation with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automated-with-cookiebot-the-secret-behind-our-dynamic-website/"><u>Automated with Cookiebot: The Secret Behind Our Dynamic Website!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bid-goodbye-to-bluetech-troubles-exclusive-fixed-windows-11s-nonstop-bluescreen-issue-heres-how-done/"><u>Bid Goodbye To BlueTech Troubles - Exclusive Fixed Windows 11'S Nonstop Bluescreen Issue – Here’s How! (Done)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-website-traffic-with-lead-generation-introducing-cookiebot-powered-solutions/"><u>Boost Your Website Traffic with Lead Generation: Introducing Cookiebot-Powered Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-and-performance-combined-expert-analysis-of-the-tp-link-archer-a6-ac1200-wireless-router/"><u>Budget and Performance Combined: Expert Analysis of the TP-Link Archer A6 AC1200 Wireless Router</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comment-nickel-utilise-abbyy-pour-stimuler-sa-developpement-au-marche-francais/"><u>Comment Nickel Utilise ABBYY Pour Stimuler Sa Développement Au Marché Français</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-video-threads-on-youtube-for-2024/"><u>Exploring Video Threads on YouTube for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-pova-5-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-2023s-facebook-video-grabber-windowsmacosandroid/"><u>In 2024, 2023'S Facebook Video Grabber  Windows/macOS/Android</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-fastest-way-to-scan-windows-files/"><u>In 2024, The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you-can/"><u>New 2024 Approved Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-conversion-tracking-using-the-powerful-features-of-cookiebot-technology/"><u>Optimized Conversion Tracking Using the Powerful Features of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revealing-hidden-insights-into-effective-digital-evolution-tactics/"><u>Revealing Hidden Insights Into Effective Digital Evolution Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-data-insights-and-personalization-with-state-of-the-art-cookiebot-solutions/"><u>Revolutionizing Data Insights and Personalization with State-of-the-Art Cookiebot Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-energy-companies-finance-with-abbyys-advanced-invoice-processing-technology-for-improved-profitability-and-management/"><u>Revolutionizing Energy Companies’ Finance With ABBYY’s Advanced Invoice Processing Technology for Improved Profitability and Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/rpa/"><u>RPA強化のための包括的プロセス洞察力プラットフォームの最適化</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-best-way-to-setup-games-on-the-windows-xbox-app/"><u>The Best Way to Setup Games on the Windows Xbox App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-images-into-editable-text-on-iphone-using-pdfscanpro-app/"><u>Transform Your Images Into Editable Text on iPhone Using PDFScanPro App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformation-von-herkommlichen-zu-digitalisierten-geschaftsmodellen-durch-automation/"><u>Transformation Von Herkömmlichen Zu Digitalisierten Geschäftsmodellen Durch Automation</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-wolfenstein-2-crash-dump-problems/"><u>Troubleshooting Guide: Fixing 'Wolfenstein 2' Crash Dump Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-process-mining-when-does-it-fall-short-insights-from-industry-experts-at-abbyy/"><u>Understanding Process Mining - When Does It Fall Short? Insights From Industry Experts at ABBYY</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unlocking-advanced-efficiency-leveraging-abbyy-vantages-hyperautomation-ml-and-nlp-capabilities/"><u>Unlocking Advanced Efficiency: Leveraging ABBYY Vantage's Hyperautomation, ML and NLP Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-user-errors-fixing-invalid-profiles-in-w1111/"><u>Unraveling User Errors: Fixing Invalid Profiles in W11/11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/utilizing-cookiebot-technology-for-improved-user-tracking-and-engagement/"><u>Utilizing Cookiebot Technology for Improved User Tracking & Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-over-wifi-woes-effective-techniques-to-get-airpods-working-on-windows-11/"><u>Win Over WiFi Woes: Effective Techniques to Get AirPods Working on Windows 11</u></a></li>
+</ul></div>

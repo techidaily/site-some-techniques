@@ -1,7 +1,7 @@
 ---
 title: "Printing Without Your Own Device: Top Ways to Get the Job Done"
-date: 2024-08-27 17:38:40
-updated: 2024-08-29 12:47:23
+date: 2024-09-01T01:20:26.747Z
+updated: 2024-09-02T01:20:26.747Z
 tags:
   - desktop
 categories:
@@ -31,26 +31,41 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
  After you have the PDF, you'll need to move it somewhere for printing. You could put it on a USB drive and take that to the printing place. Another option is to save it to a cloud storage service—[such as Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/)—if you will be able to access the internet on a computer with a printer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Visit a Library
 
  The typical library offers much more than just the ability to check out physical books. Many of them have computers and printers that you can use for free. Some will charge a fee if you have a lot to print, but it's often the most affordable option.
 
  Check your local library's website for information about the services they provide. You may even find some [other reasons to pick up a library card](https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-note-30-vip-racing-edition-phone-withwithout-imei-number-by-drfone-android/) while you're there.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Head to a Shipping Center
 
  It's pretty common for places that deal with shipping packages to also have printing services. [UPS](https://www.theupsstore.com/print) and [FedEx](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205532/https://www.fedex.com/en-us/office.html) are two businesses that do this and are found in many places. You may think of them for printing posters and signs, but they can also do standard-size documents.
 
  Unlike the library, you'll probably pay more for printing at these places. Still, the cost for a basic 8.5"x11" document is typically very low. Expect to pay around $0.10 for single-sided black-and-white pages.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Print at Work
 
 ![Brother HL-L3295CDW-Color Laser Printer Main Drawer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/brother-hl-l3295cdw-color-laser-printer-main-drawer-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  Depending on where you work, you may already have access to a printer that you can use for free. It's often totally fair game to use your work printer for personal use. However—and this is a big however—you need to make sure it's okay. Nobody wants to get fired for using a few pages of company paper. Check with the people in charge if it's okay to use the printer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Ask Your Friends
 
  As a last resort—or maybe the first resort, if you don't mind—you can simply ask a friend or family member if you can borrow their printer. We don't like to stereotype, but there's a good chance your older acquaintances still have a printer. It's pretty common to keep a printer around for many years. It may not work well, but it's free. Don't be afraid to ask.
@@ -73,3 +88,56 @@ Patrick Campanale / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-everything-about-metaverse-marketing-example-strategies-and-more/"><u>[New] Everything About Metaverse Marketing  Example, Strategies, and More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-choice-the-very-best-8-cameras-for-streamers/"><u>[New] Expert Choice  The Very Best 8 Cameras For Streamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-facetune-deep-dive-elevating-your-photography-game/"><u>[New] Facetune Deep Dive  Elevating Your Photography Game</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framefixer-feedback-complete-editor-analysis/"><u>[New] FrameFixer Feedback – Complete Editor Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-highway-tailored-joke-routes-for-each-occasion/"><u>[New] Humor Highway  Tailored Joke Routes for Each Occasion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-interest-a-list-of-30-video-themes/"><u>[New] Ignite Interest  A List of 30 Video Themes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illusion-of-movement-facial-motion-blur-with-picsart/"><u>[New] Illusion of Movement  Facial Motion Blur with Picsart</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-iphone-7-proven-strategies-for-screen-capture/"><u>[New] IPhone 7  Proven Strategies for Screen Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-silent-insights-into-improving-visual-elements-for-2024/"><u>[New] Silent Insights Into Improving Visual Elements for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cam-repaired-obs-recovery-successful-for-2024/"><u>[Updated] Cam Repaired  OBS Recovery Successful for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>[Updated] Explore the World of Photo-Videos  Your Pixiz Companion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frame-your-shot-ultimate-software-guide-image-editors/"><u>[Updated] Frame Your Shot  Ultimate Software Guide Image Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-hobbyist-to-pro-selecting-top-drone-editing-tools/"><u>[Updated] From Hobbyist to Pro  Selecting Top Drone Editing Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-subdued-to-striking-the-art-of-post-color-correction/"><u>[Updated] From Subdued to Striking  The Art of Post-Color Correction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-unlocked-a-complete-experience/"><u>[Updated] Funimate Unlocked  A Complete Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-rated-10-online-subtitle-tools/"><u>[Updated] Highest-Rated 10 Online Subtitle Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-lgs-27uhd68-enhances-gaming-experience/"><u>[Updated] How LG's 27UHD68 Enhances Gaming Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-tools-for-creating-animation-with-models/"><u>[Updated] Ideal Tools for Creating Animation with Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immediate-view-of-windows-pics/"><u>[Updated] Immediate View of Windows Pics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-steps-to-permanently-delete-your-instagram-profile-the-complete-guide/"><u>[Updated] In 2024, Steps to Permanently Delete Your Instagram Profile  The Complete Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>2024 Approved  Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>2024 Approved  Free Graphic Goldmine  A Roadmap to Premium Visuals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>2024 Approved  Professional Stabilizers Roundup  Securing Smooth Cinematography</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/command-corporate-conversations-and-elevate-performance/"><u>Command Corporate Conversations and Elevate Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-unmatched-gaming-at-a-bargain-with-the-ibuypower-custom-pc-comprehensive-analysis/"><u>Experience Unmatched Gaming at a Bargain with the Ibuypower Custom PC - Comprehensive Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/green-settings-in-cinematic-production-for-2024/"><u>Green Settings in Cinematic Production for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts-for-2024/"><u>Hustle Smart, Listen Hard  Top Tasks for Podcast Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iconic-stop-motion-animations-15-best-ever-for-2024/"><u>Iconic Stop-Motion Animations - #15 Best Ever for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-sites-to-discover-3d-golden-tinted-typography-for-2024/"><u>Ideal Sites to Discover 3D Golden Tinted Typography for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-magix-multimedia-software/"><u>In 2024, Evaluating MAGIX Multimedia Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expedited-files-scanning-on-windows-os/"><u>In 2024, Expedited Files Scanning on Windows OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-creativity-best-drawing-software-for-ipados/"><u>In 2024, Explore Creativity  Best Drawing Software for iPadOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-future-with-advanced-vr-finger-tech/"><u>In 2024, Explore the Future with Advanced VR Finger Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-huawei-p10s-network-performance-and-coverage/"><u>In 2024, Exploring Huawei P10's Network Performance & Coverage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-10-the-best-subtitles-tools/"><u>In 2024, Free Online 10  The Best Subtitles Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-high-quality-the-best-srt-translation-tools-ranked/"><u>In 2024, Free, High-Quality  The Best SRT Translation Tools Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-concept-to-recording-best-practices-for-iphoneipad-podcasts/"><u>In 2024, From Concept to Recording  Best Practices for iPhone/iPad Podcasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-gratuitous-text-animations/"><u>In 2024, Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-performance-drone-gimbals/"><u>In 2024, High-Performance Drone Gimbals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-change-photo-color-like-a-pro/"><u>In 2024, How to Change Photo Color Like A Pro?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-identifying-ideal-release-moments-for-podcasts/"><u>In 2024, Identifying Ideal Release Moments for Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>In 2024, In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analyzing-lgs-4k-wuhd-hdr-performance-for-2024/"><u>In Depth  Analyzing LG's 4K WUHD HDR Performance for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/miniature-movie-dialogue-draft-for-2024/"><u>Miniature Movie Dialogue Draft for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mastering-video-editing-a-guide-for-sony-camcorder-footage/"><u>New 2024 Approved Mastering Video Editing A Guide for Sony Camcorder Footage</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-zte-blade-a73-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on ZTE Blade A73 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-guide-downloading-and-installing-obs-for-macos/"><u>Step-by-Step Guide  Downloading & Installing OBS for macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-evolutionary-step-forward-for-microsofts-tablet-laptop-hybrid-a-comprehensive-review-of-the-surface-pro-grope-7/"><u>The Evolutionary Step Forward for Microsoft's Tablet-Laptop Hybrid - A Comprehensive Review of the Surface Pro Grope 7</u></a></li>
+</ul></div>

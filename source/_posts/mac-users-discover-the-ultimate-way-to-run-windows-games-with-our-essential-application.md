@@ -1,7 +1,7 @@
 ---
 title: "Mac Users: Discover the Ultimate Way to Run Windows Games with Our Essential Application!"
-date: 2024-08-26 21:53:51
-updated: 2024-08-29 11:29:22
+date: 2024-09-01T01:20:18.688Z
+updated: 2024-09-02T01:20:18.688Z
 tags:
   - desktop
 categories:
@@ -38,10 +38,17 @@ thumbnail: https://thmb.techidaily.com/ca106d3a1759df91ff994491e604d7b2503de3936
 
 ![The Whisky website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-05-at-6-00-26-am.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Downloading directly through the website didn't put Whisky on my Mac's application list, so I recommend pinning it to your Dock for easy access.
 
  Or, if you have package manager Homebrew, you can grab it directly through Terminal using this command: **brew install --cask whisky** 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  How to Create a Bottle in Whisky
 
  Once installed, open Whisky and it will ask you to create your first bottle. Bottles are a feature that differentiate Whisky from other Windows emulators. They are contained profiles which you can attach a game or application to and then configure individually—beneficial when presets and settings work well for one game, but not for another.
@@ -52,12 +59,22 @@ thumbnail: https://thmb.techidaily.com/ca106d3a1759df91ff994491e604d7b2503de3936
 
 ![Creating a new bottle in Whisky.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Configure a Bottle in Whisky
 
  Once you have created your bottle, select it from the left-hand list. This lets you assign a program to it, and to manage settings specific to this bottle.
 
 ![The options of a new bottle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-21-27-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you haven't already, download the game or application you want to emulate through Whisky. If an application is available for multiple systems, like Steam, you should get the Windows version.
 
  Once downloaded, select "Pin Program", click "Browse" to find the path that the executable was installed to, and give it a name. When done, click "Pin."
@@ -78,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/ca106d3a1759df91ff994491e604d7b2503de3936
 
  For any other issues, browse [Whisky's startup guide](https://docs.getwhisky.app/guide.html).
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  My Experience Playing Games With Whisky
 
  To test that my games were emulating correctly and to get some benchmarks on performance, I used three games: _Persona 3 Reload_, _Bomb Rush Cyberfunk_, and _Hi-Fi Rush_. These are mid-range games that aren’t particularly graphically intensive. I performed these tests on a 2020 M1 MacBook Air; models with M2 and M3 chips will likely see more impressive performance.
@@ -106,3 +126,46 @@ _Bomb Rush Cyberfunk_ and _Hi-Fi Rush_ ran excellently, with both hitting a cons
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-experts-choice-optimal-vehicle-monitoring-tech/"><u>[New] Expert's Choice  Optimal Vehicle Monitoring Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-srt-translation-leaders-a-select-8-guide/"><u>[New] Free SRT Translation Leaders  A Select 8 Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] Full Breakdown  Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-silver-meets-sjcam-sj7/"><u>[New] GoPro Hero5 Silver Meets SJCAM SJ7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-picking-best-free-online-srt-translation-providers/"><u>[New] Guide to Picking Best Free Online SRT Translation Providers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-install-and-modify-whatsapp-alerts-on-both-platforms/"><u>[New] How to Install & Modify WhatsApp Alerts on Both Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-turn-up-your-pexels-photo-game/"><u>[New] How to Turn Up Your Pexels Photo Game</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-transitions-for-professional-videos/"><u>[New] Innovative Transitions for Professional Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revealing-the-smarts-of-z2-play-mobile/"><u>[New] Revealing the Smarts of Z2 Play Mobile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-sacred-melodies-a-christian-ringtones-compendium/"><u>[New] Selecting Sacred Melodies  A Christian Ringtones Compendium</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-essence-of-scripting-for-film-for-2024/"><u>[New] The Essence of Scripting for Film for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unzip-excitement-funimate-pros-apk-unwrapped/"><u>[New] Unzip Excitement - Funimate Pro's APK Unwrapped</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-the-future-of-mobile-gaming-iphone-vr-leaderboard/"><u>[Updated] Experience the Future of Mobile Gaming  IPhone VR Leaderboard</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-for-new-gopro-users-here-are-essential-accessories/"><u>[Updated] For New GoPro Users, Here Are Essential Accessories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-google-upload-mastery-a-step-by-step-guide/"><u>[Updated] Google Upload Mastery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>[Updated] Horizon Haven  The Leading 5 Cloud Platforms to Consider</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-retrieve-individual-frames-from-windows-media-files/"><u>[Updated] How To Retrieve Individual Frames From Windows Media Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imagepurityplus-professional-photo-editing-suite/"><u>[Updated] ImagePurityPlus  Professional Photo Editing Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-your-android-footage-with-astonishing-time-lapses-2024/"><u>[Updated] Innovate Your Android Footage with Astonishing Time-Lapses 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing/"><u>[Updated] Unbox the Ultimate Experience  Master Windows PC Screen Capturing and Editing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/accelerated-buy-interstellar-scene-improvement/"><u>Accelerated Buy: Interstellar Scene Improvement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ensuring-your-safety-how-regularly-contributing-to-microsoft-helps-maintain-windows-10s-secure-status-post-2025/"><u>Ensuring Your Safety: How Regularly Contributing to Microsoft Helps Maintain Windows 10'S Secure Status Post-2025</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-g2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo G2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-itel-p40-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Itel P40</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-ai-plagiarism-risks-and-management/"><u>Identifying AI Plagiarism Risks and Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-4k-capture-gear-the-18-best-ones/"><u>In 2024, Excellent 4K Capture Gear - The 18 Best Ones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flight-friendly-robot-categories/"><u>In 2024, Flight-Friendly Robot Categories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-disjointed-to-cohesive-perfecting-video-transition-artistry-on-inshot/"><u>In 2024, From Disjointed to Cohesive  Perfecting Video Transition Artistry on Inshot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-personalized-installing-unique-ringtones-and-sounds-on-android/"><u>In 2024, From Standard to Personalized  Installing Unique Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-guide-to-share-igtv-with-minimal-hassle/"><u>In 2024, Guide to Share IGTV with Minimal Hassle</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23with/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-time-travel-teleportation-effects/"><u>In 2024, How to Create Time Travel Teleportation Effects?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiating-seamless-zoom-gatherings/"><u>In 2024, Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reviving-dull-images-the-most-effective-10-web-editing-aids/"><u>In 2024, Reviving Dull Images  The Most Effective 10 Web Editing Aids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-image-quality-with-advanced-exposure-controls/"><u>In 2024, Revolutionizing Image Quality with Advanced Exposure Controls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-writers-guide-to-dialogic-depth-in-screenplays/"><u>In 2024, The Writers' Guide to Dialogic Depth in Screenplays</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-itel-p40plus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Itel P40+ to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-magic-vs-2-by-fonelab-android-recover-music/"><u>The way to get back lost music from Magic Vs 2</u></a></li>
+</ul></div>

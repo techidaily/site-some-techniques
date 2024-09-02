@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2024-08-27 11:38:33
-updated: 2024-08-29 12:44:46
+date: 2024-09-01T01:20:57.463Z
+updated: 2024-09-02T01:20:57.463Z
 tags:
   - desktop
 categories:
@@ -28,12 +28,18 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Introducing Apple M4 Silicon
 
  On the surface, the M4 is the fourth iteration of Apple's M-branded system-on-a-chip (SoC) that houses a nine or 10-core CPU, a 10-core GPU, and a 16-core Neural Engine. Currently, it is only available in two configurations (where one variant has more processing cores than the other) [on the 2024 iPad Pro](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/). However, Apple could soon add more variants to the M4 lineup.
 
 ![Apple's M4 Silicon mascot on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-chip-announced-with-2024-ipad-pro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  For now, we have the baseline M4 chip based on TSMC's second-generation fabrication process, which makes it slightly more efficient than the M3 chips that came before it (more on that later). Apple M4's transistor count has increased to 28 billion from 25 billion, while its memory bandwidth is 120 Gbps, 20 Gbps more than that of the M3 chip.
@@ -56,6 +62,9 @@ Apple
 
  Another Geekbench listing (spotted by [MacRumors](https://www.macrumors.com/2024/05/13/m4-chip-9-core-cpu-benchmark-result/)) reveals that the lower-specced M4 (with a nine-core CPU) is about 13% faster than the M3 chip in multi-core tasks. Even though the scores are from different devices, they give us a fair idea of M4's peak performance, which should also reflect in day-to-day usage. Moreover, we're looking at around 13 to 20% improvements, which might not sound incredible on paper but certainly aren't worth overlooking either.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  M4's GPU Gets an Incremental Update
 
  In the official [press release](https://www.apple.com/in/newsroom/2024/05/apple-introduces-m4-chip/), Apple mentions that the M4's 10-core GPU "builds on the next-generation GPU architecture introduced in M3." However, the two GPUs look quite similar on paper. Both the M4 and the M3 feature a 10-core GPU that supports advanced features like mesh shading and [hardware-accelerated ray tracing](https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-premium-androidpc-video-editors/). While these features are new to the iPad, they have been around on M3-powered MacBooks for a while. The new chip also features Dynamic Caching.
@@ -74,12 +83,18 @@ Apple
 
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 Apple
 
  However, a report by [Tom's Hardware](https://tools.techidaily.com)highlights how the M3 and M4 Silicon are rated using different computing standards. While Apple rated the M3 using FP16 (half-precision floating-point), the M4 is rated with INT8 (Integer 8-bit). Equalizing both chips' to INT8 precision, the publication concludes that the Neural Engine on the M4 is about 5% more powerful than the M3 (in terms of TOPS).
 
  Another report by [MacWorld](https://www.macworld.com/article/2328448/m4-ipad-pro-benchmarks-single-multi-core-neural-engine-scores.html) claims that the new chip scores about 12% more points in the Geekbench ML test than the baseline M3\. However, since the variant listed on Geekbench features 16GB of RAM, the one with 8GB of RAM won't perform as well. To sum up, the Neural Engine on the M4 Silicon is more powerful than the one on the M3, but not by a significant margin.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Is M4 More Efficient Than M3?
 
  Since M4 is based on the second generation of TSMC's 3nm fabrication process, it should be more efficient than M3\. However, that is the extent of information about the chip's efficiency. Apple does mention that "M4 can deliver the same performance as M2 using just half the power,_"_ but it doesn't compare the M4 directly to the M3\. Further, the company says its latest chip can deliver the same performance as the newest PC chip in a thin, light laptop using just a fourth of the power.
@@ -98,6 +113,9 @@ Apple
 
 ![Apple's M3 Max MacBook Pro in Space Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/apple-m3-max-macbook-pro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Apple
 
  If you want an entry-level [MacBook Air powered by the baseline M3 chip](https://youtube-data.techidaily.com/ed-2024-approved-unveiling-the-mysteries-of-video-monetization/), go for it. Given that it has been a few good months since the launch, there's a chance that you may find the notebook at a discounted price. Further, it offers excellent performance, a day's worth of battery life, and several years of operating system updates.
@@ -122,3 +140,78 @@ Apple
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-accelerating-streamed-instagram-content-mobile-hacks/"><u>[New] 2024 Approved  Accelerating Streamed Instagram Content  Mobile Hacks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-android-flips-video-frames-for-the-ages/"><u>[New] 2024 Approved  How Android Flips Video Frames for the Ages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-look-at-quantum-hdr/"><u>[New] A Comprehensive Look at Quantum HDR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-choice-of-5-fpv-vision-technology/"><u>[New] Expert Choice of 5 FPV Vision Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-edits-for-an-uncluttered-tiktok-archive/"><u>[New] Expert Edits for an Uncluttered TikTok Archive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-note-taking-experience-on-mematic/"><u>[New] Exquisite Note-Taking Experience on Mematic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-video-openings-that-stand-out-today/"><u>[New] Free Video Openings That Stand Out Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-guide-to-vscos-camera-app/"><u>[New] Full Guide to VSCO's Camera App</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>[New] Game On  The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highest-quality-noiseless-text-converters/"><u>[New] Highest Quality Noiseless Text Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-download-and-make-unique-instagram-ringtone-solo/"><u>[New] How to Download & Make Unique Instagram Ringtone Solo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-make-fortnite-thumbnail-in-30-seconds/"><u>[New] How to Make Fortnite Thumbnail in 30 Seconds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-fps-levels-in-slow-motion-cinema/"><u>[New] Ideal FPS Levels in Slow Motion Cinema</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-to-use-free-youtube-downloader-with-mp3-support/"><u>[New] In 2024, Easy-to-Use Free YouTube Downloader with MP3 Support</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-index-of-varied-photographic-and-videography-instruments/"><u>[New] Index of Varied Photographic and Videography Instruments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-mobile-multimedia-tools-to-transform-photos/"><u>[New] Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-selections-top-10-sports-streaming-apps-soccer-focus/"><u>[New] Innovative Selections  Top 10 Sports Streaming Apps, Soccer Focus</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-pioneering-popularity-with-powerful-instagram-videos/"><u>[New] Pioneering Popularity with Powerful Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-step-by-step-youtube-editing-walkthrough/"><u>[New] The Ultimate Step-by-Step YouTube Editing Walkthrough</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-chucklechisel-designing-memes-in-adobe/"><u>[Updated] 2024 Approved  ChuckleChisel  Designing Memes in Adobe</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-direct-streaming-use-vlc-for-webcam-video/"><u>[Updated] 2024 Approved  Direct Streaming  Use VLC for Webcam Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] 2024 Approved  How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aperture-authority-picking-the-top-10-camera-lenses/"><u>[Updated] Aperture Authority  Picking the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-choice-top-16-no-cost-viewers/"><u>[Updated] Expert's Choice  Top 16 No-Cost Viewers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-covert-sound-suppression-with-audacity/"><u>[Updated] Expertise in Covert Sound Suppression with Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-time-filmmakers-camera-essentials-and-picks/"><u>[Updated] First-Time Filmmaker’s Camera Essentials & Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-digital-artistry-the-meme-generator/"><u>[Updated] Free Digital Artistry  The Meme Generator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-pros-the-learning-curve-in-magix-music-maker-2024/"><u>[Updated] From Basics to Pros  The Learning Curve in Magix Music Maker 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-frames-to-frequencies-the-video-transformation/"><u>[Updated] From Frames to Frequencies  The Video Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>[Updated] Harmonizing Movement with Music  Instagram's Reel Synergy Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ifunny-meme-seamless-download-and-enjoyment/"><u>[Updated] IFunny Meme  Seamless Download and Enjoyment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[Updated] In 2024, Revenue Revolution  Leveraging the YouTube Premium Opportunity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinity-in-motion-aerospaces-longest-flying-wonders/"><u>[Updated] Infinity in Motion  Aerospace's Longest-Flying Wonders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-list-of-non-fbx-game-recording-solutions/"><u>[Updated] Ultimate List of Non-FBX Game Recording Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-harnessing-power-of-movie-maker-in-windows-8/"><u>2024 Approved  The Complete Guide to Harnessing Power of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-crescendo-camera-making-music-videos-on-mobile-devices/"><u>2024 Approved  The Crescendo Camera  Making Music Videos on Mobile Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>2024 Approved  Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-stronger-motives-to-embrace-microsoft-copilot/"><u>4 Stronger Motives to Embrace Microsoft Copilot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/achieve-your-fitness-goals-easier-using-the-built-in-gps-and-wellness-apps-on-fitbit-versa-3/"><u>Achieve Your Fitness Goals Easier Using the Built-In GPS and Wellness Apps on Fitbit Versa 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-for-starters-join-the-discussion-in-these-9-spaces/"><u>AI for Starters: Join the Discussion in These 9 Spaces</u></a></li>
+<li><a href="https://win-answers.techidaily.com/batman-arkham-knight-rapid-remedies-for-fatal-glitches-and-system-collapses/"><u>Batman: Arkham Knight - Rapid Remedies for Fatal Glitches and System Collapses</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000517479-enhanced-bioshock-2-remaster-gameplay-and-graphics-revitalized-for-todays-consoles/"><u>Enhanced BioShock 2 Remaster - Gameplay and Graphics Revitalized for Today's Consoles!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962604385-essential-update-tips-for-optimal-performance-of-dells-233amoons-laser-printer-latest-drivers-unlocked/"><u>Essential Update Tips for Optimal Performance of Dell's 233Amoons Laser Printer - Latest Drivers Unlocked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giroptics-virtual-sphere-breakdown-for-2024/"><u>Giroptic's Virtual Sphere Breakdown for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero5-mastery-a-comprehensive-guide-to-photo-and-video-excellence-for-2024/"><u>Hero5 Mastery  A Comprehensive Guide to Photo and Video Excellence for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr-in-2024/"><u>Highlighted Visions  Is Intensified Lighting the Future of HD in HDR, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-random-non-functionality-in-wireless-mice-across-windows-1110-computers/"><u>How to Address Random Non-Functionality in Wireless Mice Across Windows 11/10 Computers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-wirecasts-features-against-competitors/"><u>In 2024, Examining WireCast's Features Against Competitors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expedite-tech-advancement-how-to-embrace-macos-11-big-sur/"><u>In 2024, Expedite Tech Advancement  How to Embrace macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-potential-of-color-grading-through-luts-and-ar/"><u>In 2024, Explore the Potential of Color Grading Through LUTs and AR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-windows-and-mac-8-best-3d-video-apps-for-free/"><u>In 2024, Explore Windows & Mac  8 Best 3D Video Apps for FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-appraisal-a-look-into-bublcam-360/"><u>In 2024, Extensive Appraisal  A Look Into Bublcam 360</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-srt-to-the-future-mastering-xmlssattml-transforms/"><u>In 2024, From SRT to the Future  Mastering XML/SSA/TTML Transforms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100t-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y100t FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-v-purse-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor V Purse FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>In 2024, Gazing Into Clarity  In-Depth on the HP Z32X Monitor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-handling-soundtracks-opening-srt-on-pcmac/"><u>In 2024, Handling Soundtracks  Opening SRT on PC/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-canons-power-explore-10-basic-free-luts-and-more/"><u>In 2024, Harness Canon's Power  Explore 10 Basic Free LUTs and More</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-n53-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo N53 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-lg-bp350s-visual-clarity-and-color-range/"><u>In 2024, In-Depth Analysis  LG BP350's Visual Clarity and Color Range</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-iphone-and-ipad-video-players-the-10-best-options/"><u>In 2024, Innovative iPhone & iPad Video Players  The 10 Best Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-lecture-title-composing-system-for-2024/"><u>Innovative Lecture Title Composing System for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-logitech-hd-webcam-c27-downloads-for-the-latest-windows-operating-systems-windows-1011/"><u>Official Logitech HD Webcam C27) Downloads for the Latest Windows Operating Systems (Windows 10/11)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-6-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic 6? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reactivate-lost-windows-11-sound-with-drivers/"><u>Reactivate Lost Windows 11 Sound with Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-unresponsive-touchscreen/"><u>Resolving Lenovo Unresponsive Touchscreen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-zte-axon-40-lite-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-5-tunefab-screen-recording-tips-and-tricks-for-2024/"><u>Top 5 Tunefab Screen Recording Tips & Tricks for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-mobile-playlists-discovering-the-ultimate-melodies-for-your-android-device/"><u>Updated In 2024, Top Mobile Playlists Discovering the Ultimate Melodies for Your Android Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/wireless-woes-no-more-a-comprehensive-guide-to-sync-your-airpods-with-windows-pcs/"><u>Wireless Woes No More: A Comprehensive Guide to Sync Your AirPods with Windows PCs</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-08-27 21:14:17
-updated: 2024-08-29 11:48:45
+date: 2024-09-01T01:24:11.187Z
+updated: 2024-09-02T01:24:11.187Z
 tags:
   - deals
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Upgrade an Unsupported PC?
 
  First, let's be clear: If you're on the fence, we recommend against [upgrading](https://common-error.techidaily.com/guide-solving-the-problem-of-dysfunctional-usb-mouse-and-keyboard-under-windows-vistawindows-7/) an unsupported PC to Windows 11\. Windows 10 will be officially [supported with security updates until October 2025](https://remote-screen-capture.techidaily.com/new-in-2024-screenflow-unleashed-the-ultimate-macos-experience/).
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  In some situations, you can make your PC officially supported with a configuration change or two.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  How to See Why Your PC Is Unsupported
 
  You can [check if Windows 11 supports your PC](https://remote-screen-capture.techidaily.com/2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/) by downloading and running [Microsoft's PC Health Check app](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck).
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Enable TPM 2.0
 
 [Windows 11 officially requires TPM 2.0](https://vp-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-impactful-patient-storytelling-in-video/). (However, there's an [easy way to install Windows 11 if your PC only has TPM 1.2](https://extra-lessons.techidaily.com/2024-approved-crafting-podcast-descriptions-that-stick-strategies-and-samples/), which we'll cover below.)
@@ -67,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 Benj Edwards / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Enable Secure Boot
 
  If PC Health Check reports your computer isn't using [Secure Boot](https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-x6-drfone-by-drfone-virtual-android/), you should also look in UEFI firmware settings for a "Secure Boot" option and enable it, if possible.
@@ -77,6 +89,9 @@ Benj Edwards / How-To Geek
 
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Benj Edwards / How-To Geek
 
 ##  How to Fix No UEFI (MBR Instead of GPT)
@@ -87,6 +102,10 @@ Benj Edwards / How-To Geek
 
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
 
  If your only problem is that your computer has an unsupported CPU and/or that it only has TPM 1.2 instead of TPM 2.0, this is the easiest problem to get around.
@@ -111,6 +130,9 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
 
 ![Enter &quot;1&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/set-registry-value.png) 
@@ -155,3 +177,40 @@ AllowUpgradesWithUnsupportedTPMOrCPU
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-creating-an-individualistic-tiktok-identifier/"><u>[New] 2024 Approved  Creating an Individualistic TikTok Identifier</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-apeaksofts-screen-tech-revolution-2023-review-for-2024/"><u>[New] Apeaksoft's Screen Tech Revolution  2023 Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-guide-merging-srt-captions-with-mp4-video-content/"><u>[New] Expert Guide  Merging SRT Captions with MP4 Video Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>[New] Fine-Tuning Frames  A Comprehensible Approach to iPhone Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-generate-individual-meme-crafts-today/"><u>[New] Generate Individual Meme Crafts Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>[New] Go Pro  Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopros-top-5-marine-filter-companions/"><u>[New] GoPro's Top 5 Marine Filter Companions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-your-pcs-power-for-high-dynamic-range-video-magic/"><u>[New] Harness Your PC's Power for High Dynamic Range Video Magic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos/"><u>[New] How to Use GoPro Hero5 Black  Tips for Shooting Great Photos and Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts/"><u>[New] In 2024, Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instagram-a-listers-reviving-snapchats-flavor/"><u>[New] Instagram A-Listers  Reviving Snapchat's Flavor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-action-quick-tips-for-online-photo-trimming/"><u>[Updated] Expertise in Action  Quick Tips for Online Photo Trimming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-review-gopro-hero4-slr4-black-edition/"><u>[Updated] Extensive Review  GoPro Hero4 SLR4 Black Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamers-selection-top-livestraning-tech-picks/"><u>[Updated] Gamer's Selection  Top Livestraning Tech Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-the-glamour-swipes-masterful-tinder-profile-secrets-revealed/"><u>[Updated] Get the Glamour Swipes - Masterful Tinder Profile Secrets Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-securing-superior-quality-pics-without-charges/"><u>[Updated] Guide to Securing Superior Quality Pics without Charges</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-husqvarnas-sky-high-adventure-with-h501s-x4-review-for-2024/"><u>[Updated] Husqvarna's Sky-High Adventure with H501S X4 Review for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-the-art-of-gamers-intros-top-12-yt-videographers-lists-for-2024/"><u>[Updated] Mastering the Art of Gamers' Intros  Top 12 YT Videographers' Lists for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>2024 Approved  The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-about-dji-inspire-1-in-depth-analysis-for-2024/"><u>All About  DJI Inspire 1 in Depth Analysis for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-htc-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on HTC U23 Pro?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-create-a-negative-like-image-look-for-2024/"><u>How to Create a Negative-Like Image Look for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-12-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 12</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extended-appraisal-hero4-black-performance/"><u>In 2024, Extended Appraisal  Hero4 Black Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-firefoxs-pip-explained-a-users-handbook/"><u>In 2024, Firefox's PIP Explained  A User's Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fuse-video-narratives-with-acoustic-elements-in-premiere-pro/"><u>In 2024, Fuse Video Narratives with Acoustic Elements in Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-change-your-phones-ringtone-picking-from-viral-tiktok-sounds/"><u>In 2024, How To Change Your Phone's Ringtone  Picking From Viral TikTok Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustrator-tutorial-bringing-text-to-life/"><u>In 2024, Illustrator Tutorial  Bringing Text to Life</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-complete-revamp-of-facetune-app/"><u>In 2024, In-Depth Analysis  Complete Revamp of Facetune App</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mobile-onboarding-process-demonstration/"><u>Mobile Onboarding Process Demonstration</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/record-like-a-pro-top-10-webcam-software-for-windows-10/"><u>Record Like a Pro Top 10 Webcam Software for Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-6-typical-windows-display-issues/"><u>Troubleshooting 6 Typical Windows Display Issues</u></a></li>
+</ul></div>

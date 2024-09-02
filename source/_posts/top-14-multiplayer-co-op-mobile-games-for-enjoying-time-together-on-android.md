@@ -1,7 +1,7 @@
 ---
 title: Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android
-date: 2024-08-28 19:39:20
-updated: 2024-08-29 10:13:28
+date: 2024-09-01T01:19:56.139Z
+updated: 2024-09-02T01:19:56.139Z
 tags:
   - mobile
 categories:
@@ -40,6 +40,9 @@ _Otherworld Legends_ is my favorite roguelite Android game of all time. It's gre
 
 _Minecraft_ is probably the most versatile game you can play with friends, as it's a sandbox where only your creativity is the limit. It features both online and offline multiplayer; you can even play it cross-platform, as long as it's the _Bedrock_ and not the _Java Edition_. While offline is fine if you play it with a family member, I strongly recommend finding or [hosting your own server](https://docs.mcsmanager.com/setup%5Fbedrock%5Fedition.html) so that your friends and you can play independently as well. It also has a default high player limit of 20, which can be increased in server settings.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 [Gunfire Reborn](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.duoyihk.m2m1&hl=en%5FUS) 
 
  I first played _Gunfire Reborn_ on PC and absolutely loved it, so I was ecstatic to hear that the game is out on Android, too (though it only supports cross-platform between Android and iOS). It's a fun roguelite first-person shooter with low-poly, cel-shaded graphics reminiscent of the _Borderlands_ franchise. You and up to three other friends work together to kill enemies (including bosses), collect loot, and unlock talents.
@@ -48,6 +51,14 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
 _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure game you've ever seen. It's one of the few games with 100% cross-platform co-op, meaning you can play it with friends on PC or consoles as well. You spend a lot of time just exploring the world, so it's a perfect game to play while discussing unrelated topics with your friends.
@@ -56,6 +67,9 @@ _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure g
 
 _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, as Otherworld Legends. Although these two games have the same pixel art style and share the same core mechanics, they're still distinct games with different feelings, gameplay, characters, enemies, and spells. There's also the [_Soul Knight Prequel_](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel) once you're done with the original game. Just like Otherworlds Legends, you can play co-op with up to three other players.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7 [Bloons TD 6](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=en%5FUS) 
 
 _Bloons TD 6_ is one of the best tower defense games on Android, so it's great that it supports 4-player co-op. The goal of any tower defense game is to build towers that shoot down enemy waves that are trying to go past your defenses to destroy your base. The charm of Bloons is that the towers are monkeys, and the enemies are balloons, so it's a perfect game to play with your kids.
@@ -72,14 +86,24 @@ _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where y
 
 _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The puzzles are fairly straightforward, as they mostly involve moving around objects to progress. I find that the charm hides in the different environments that you explore, so the game is perfect for couples. This delightful little game has 50 different levels, the first ten being free.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11 [Maximus 2](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.FourFats.Maximus2) 
 
 _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too seriously. The game supports co-op with up to four players, but the coolest part is that you can all play on a single device if you have Bluetooth controllers. You progress through different levels, fight bosses, and you heal and revive your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12 [Northgard](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.playdigious.northgard) 
 
  Good strategy games on Android are rare, and multiplayer ones are even rarer. So, I'm glad to say that _Northgard_ fits the description perfectly. You build settlements, assign workers, manage resources while trying to survive the harsh Northgard winter, and combat enemies. The game supports up to six players, and you can play with or against them, so it's perfect if you want to play 2v2 or 3v3 with friends.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 13 [TMNT: Shredder's Revenge](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.netflix.NGP.TMNTShreddersRevenge&hl=en) 
 
  Here we have another 2D beat-em-up side-scroller, but this time, it's a childhood franchise we all love and cherish—_Teenage Mutant Ninja Turtles_. _TMNT: Shredder's Revenge_ supports six-player cross-platform co-op; you can play as one of the four iconic turtles, but there are a few other characters as well, like Splinter and April. By the way, you can heal your friends by [high-fiving](https://screenrant.com/tmnt-shredders-revenge-how-to-heal-teammates-guide/) them.
@@ -106,3 +130,49 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/-professionals-playbook-to-profitable-youtube-ventures-for-2024/"><u>[New] A Professional's Playbook to Profitable YouTube Ventures for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-stellar-titling/"><u>[New] Expert Techniques for Stellar Titling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ffmpeg-audioscape-maintaining-original-audio-formats/"><u>[New] FFmpeg Audioscape  Maintaining Original Audio Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[New] Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-for-beginners-the-top-8-versatile-cameras-under-400/"><u>[New] For Beginners  The Top 8 Versatile Cameras Under $400</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-futures-edge-the-top-10-sci-fi-movies-shaping-new-realities/"><u>[New] Future's Edge  The Top 10 Sci-Fi Movies Shaping New Realities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>[New] Game On, Pioneer  Top Choices in Windows 10’S New Games and Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-get-still-on-the-move-gopro-stability-tips/"><u>[New] How to Get Still on the Move  GoPro Stability Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-revert-macos-from-latest-to-classic-el-capitan/"><u>[New] How to Revert MacOS From Latest to Classic - El Capitan</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-stop-motion-animations-15-best-ever/"><u>[New] Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-in-post-processing-colors/"><u>[Updated] Expert Strategies in Post-Processing Colors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero-5-black-vs-nikon-keymission-170-action-camera-which-is-better/"><u>[Updated] GoPro Hero 5 Black vs Nikon Keymission 170 Action Camera  Which Is Better?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films/"><u>[Updated] High-Quality Methodology  Stitching GoPro Sequences in Virtual Reality Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-overcome-sony-a6400-video-viewing-failure/"><u>[Updated] How to Overcome Sony A6400 Video Viewing Failure</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hype-generator-chief-architect/"><u>[Updated] Hype Generator Chief Architect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-timekeepers-top-10-androidios-apps-for-your-big-day/"><u>[Updated] Ideal Timekeepers  Top 10 Android/iOS Apps for Your Big Day</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-requirements-how-to-upload-a-video-on-twitter-for-2024/"><u>[Updated] Twitter Video Requirements | How to Upload a Video on Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-videotwitteraudio-direct-conversion-for-2024/"><u>[Updated] VideoTwitterAudio  Direct Conversion for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-stepping-through-the-art-of-subtle-volume-lowering-in-audacity/"><u>2024 Approved  Stepping Through the Art of Subtle Volume Lowering in Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1723036597891-amazingly-durable-and-lightweight-comprehensive-guide-to-the-lg-gram-156-notebook-2018-model/"><u>Amazingly Durable and Lightweight - Comprehensive Guide to the LG Gram 15.6 Notebook (2018 Model)!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects/"><u>Bring Your Vision to Life  Incorporating Free LUT Filters Into OBS Projects</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/formatting-your-macs-storage-simplified-an-instructional-video/"><u>Formatting Your Mac's Storage Simplified: An Instructional Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-intensify-your-gaming-view-on-roblox-platforms-for-2024/"><u>How to Intensify Your Gaming View on Roblox Platforms for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-samsung-galaxy-f34-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-dreamlight-valley-from-crashing-a-guide-with-six-essential-fixes/"><u>How To Stop Dreamlight Valley From Crashing: A Guide With Six Essential Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v29-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V29 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-culmination-in-virtual-ventures-for-2024/"><u>Ideal Culmination in Virtual Ventures for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-android-3d-video-enthusiasts-choice/"><u>In 2024, Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experience-the-next-level-of-virtual-reality-with-htcs-vive-headset/"><u>In 2024, Experience the Next Level of Virtual Reality with HTC's Vive Headset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-tint-enhancer/"><u>In 2024, Flawless Tint Enhancer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-se-2022-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone SE (2022)? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-review-capturing-every-angle-in-one-device-samsung/"><u>In 2024, Full Review  Capturing Every Angle in One Device - Samsung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero-session-vs-hero-session-duel/"><u>In 2024, Hero Session Vs Hero Session Duel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hexed-harmonics-can-you-really-change-your-tone-discover-other-ways/"><u>In 2024, Hexed Harmonics  Can You Really Change Your Tone? Discover Other Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlighting-the-best-ways-to-convert-youtube-to-mp4/"><u>In 2024, Highlighting the Best Ways to Convert YouTube to MP4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-luts-revolutionize-color-balance-in-images/"><u>In 2024, How LUTs Revolutionize Color Balance in Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-manipulate-iphone-pics-flip-tilt-and-more/"><u>In 2024, How to Manipulate iPhone Pics  Flip, Tilt & More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hypervision-pro-all-in-one-4k-screen-desks/"><u>In 2024, HyperVision Pro  All-in-One 4K Screen Desks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-and-methods-with-morphvox-sound-alteration-for-2024/"><u>In-Depth Analysis and Methods with MorphVOX Sound Alteration for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-photo-display-solutions-for-2024/"><u>Innovative Photo Display Solutions for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-camera-roll-sharing-in-just-a-few-steps-for-2024/"><u>Mastering Camera Roll Sharing in Just a Few Steps for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-issues-with-amd-radeon-driver-updates/"><u>Troubleshooting and Fixing Issues with AMD Radeon Driver Updates</u></a></li>
+</ul></div>

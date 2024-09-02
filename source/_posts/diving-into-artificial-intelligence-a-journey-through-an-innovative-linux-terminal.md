@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal"
-date: 2024-08-27 16:55:39
-updated: 2024-08-29 12:35:12
+date: 2024-09-01T01:22:08.191Z
+updated: 2024-09-02T01:22:08.191Z
 tags:
   - desktop
 categories:
@@ -40,12 +40,18 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
 ![The Downloads directory being displayed with the context menu open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-download-directory-in-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  To install Warp on Linux Mint (and other Debian-based distros) using the DEB package, run this command:
 
 sudo apt install warp-terminal_*.deb
 
 ![The Linux terminal showing the process of installing Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/installing-warp-terminal-on-linux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  After installing, open the application from the app drawer or run this command:
 
 warp-terminal
@@ -74,6 +80,9 @@ Close
 
 ![Warp Terminal window opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-window.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Looks cool to me. But how will it stand as a Linux terminal? Let's find out.
 
 ##  It's a Powerful Editor
@@ -84,6 +93,9 @@ Close
 
 ![An instance of Warp terminal blocks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-blocks.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If you unintentionally make a mistake in a command and run it, the block becomes red for easy recognition while scrolling through the terminal feed. While typing a command, you can hover over each part of the command to inspect it in case you don't understand that part. There is also syntax highlighting for commands, arguments, flags, variables, and sub-commands. Errors are also underlined in red, so you can notice them easily.
 
  The typing experience felt like being at home. It's more like you're typing on a regular text editor rather than a terminal. You have all the common keyboard shortcuts for selecting, copy-pasting, and moving the cursor (a big one for me). If you want to use Vim keybindings, you can do that as well.
@@ -94,6 +106,9 @@ Close
 
 ![Warp command history panel opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-command-history.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Warp AI Can Save You Tons of Googling
 
  Even as an experienced Linux user, I often rely on Google to solve problems and [AI tools to enhance my Linux experience](https://digital-screen-recording.techidaily.com/new-the-7-best-total-war-games-for-2024/) further. So having an AI assistant built into the terminal is extremely useful.
@@ -102,12 +117,22 @@ Close
 
 ![Asking Warp AI how to do a specific task](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asking-warp-ai-how-to-do-a-specific-task.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  If I don't understand a command, I can ask Warp AI to explain it. If there's an output I don't understand, I can ask for clarification.
 
  Debugging errors and writing Bash scripts are also useful. You could do any of these using any other AI tools on the web. However, that means you have to open a browser, go to that website, type in your problem, copy-paste the solution to your terminal, then go back to the AI tool for more questions, and so on. Having an integrated AI saves you from that. Other than that, you can also type "#" into the terminal prompt to get AI command suggestions.
 
 ![An instance of Warp AI command suggestions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-ai-command-suggestions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ##  Warp Drive Is Your Personal Workflow Bank
 
  Warp comes with Warp Drive, a vault for saving your most used commands, workflows, and notebooks. You can access it by clicking the icon in the top left corner of the terminal or hitting Ctrl+Shift+\\.
@@ -120,6 +145,9 @@ Close
 
 ![Warp Terminal workflow about killing a process running on a certain port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-workflow-about-killing-a-process-running-on-a-certain-port.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  You can add as many arguments as needed. Another great thing I found is that you can search for your workflows by name. Again, no need to remember the syntax or even the command names.
 
  Notebooks are interactive blocks of text created in the Markdown format. Notebooks can contain text, code blocks, lists, shell snippets, and more. Think of it as a mix of [Notion](https://extra-approaches.techidaily.com/updated-prime-focus-the-top-10-high-res-shoulder-rigs/) and Jupyter Notebook. You can export your notebooks in Markdown format and also import existing ones into Warp from your system.
@@ -132,6 +160,9 @@ Close
 
 ![An instance of using split windows in Warp terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks-feature.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You Can Collaborate in the Terminal
 
  Warp allows you to create teams and add members. To find this option, you need to go to the same menu as Warp Drive. You can give a name to your team.
@@ -140,6 +171,9 @@ Close
 
  Once created, you can invite others via email or a custom link. Your team members can access workflows and notebooks you share with the team. On the free plan, you can have up to three members, and share up to three notebooks and 10 workflows. Moreover, you can share sessions, command-line controls, and terminal input-output blocks with members.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  There Are Some Catches
 
  A terminal emulator that requires signing up for an account might not stand well with many Linux users, especially when it's closed-sourced. The bright side is, though, when you move to a different device altogether, you won't lose any of your saved workflows because once you log in, you get access to everything.
@@ -170,3 +204,46 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-efficient-strategies-for-deleting-an-overdue-linkedin-profile-for-2024/"><u>[New] Efficient Strategies for Deleting an Overdue LinkedIn Profile for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-and-outshine-cheapest-cloud-plans-for-every-need-2024/"><u>[New] Explore & Outshine  Cheapest Cloud Plans for Every Need, 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[New] Fine-Tune Your Cinematography  Mastering Kinemaster Zoom Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gamers-ultimate-guide-to-9-streams/"><u>[New] Gamer's Ultimate Guide to #9 Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-go-beyond-basics-with-these-advanced-whatsapp-features/"><u>[New] Go Beyond Basics with These Advanced WhatsApp Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-a-successful-live-stream/"><u>[New] How to Create A Successful Live Stream</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>[New] Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-valheims-optimal-seed-selection-strategies/"><u>[New] In 2024, Valheim's Optimal Seed Selection Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-tactics-for-cutting-edge-macro-video-creation/"><u>[New] Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cutting-edge-zoom-techniques-for-peak-call-quality/"><u>[Updated] 2024 Approved  Cutting Edge Zoom Techniques for Peak Call Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-ae-text-preset-collection-the-best-of-both-worlds/"><u>[Updated] AE Text Preset Collection  The Best of Both Worlds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-dive-into-fun-snapchats-world-of-cartoon-lenses-for-2024/"><u>[Updated] Dive Into Fun  Snapchat's World of Cartoon Lenses for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-hues-from-textbooks-to-canvas/"><u>[Updated] Exploring Hues  From Textbooks to Canvas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-vivacut-the-full-2024-video-editing-review/"><u>[Updated] Exploring VivaCut  The Full 2024 Video Editing Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-onscreen-power-expert-tips-on-cropping-images/"><u>[Updated] Harnessing Onscreen Power  Expert Tips on Cropping Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-quality-noiseless-text-converters/"><u>[Updated] Highest Quality Noiseless Text Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>[Updated] How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-proiphone-close-ups-unlocking-stunning-image-potential/"><u>[Updated] Proiphone Close-Ups  Unlocking Stunning Image Potential</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-video-freedom-top-8-tools-transforming-youtube-into-avis/"><u>[Updated] Video Freedom  Top 8 Tools Transforming YouTube Into Avis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bluetooth-compatibility-upgrade-premium-msi-driver-software-tailored-for-windows-11-and-10-free-download/"><u>Bluetooth Compatibility Upgrade: Premium MSI Driver Software Tailored for Windows 11 & 10 - Free Download!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-v29-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo V29 Pro?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-globally-with-leading-platforms-a-look-into-facebook-twitter-instagram-and-youtube/"><u>Connecting Globally with Leading Platforms: A Look Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flashback-flair-top-80s-video-tricks-for-a-contemporary-edge/"><u>Flashback Flair  Top 80S Video Tricks for a Contemporary Edge</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo V27 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-amplifying-tiktok-videos-using-zoom-settings/"><u>In 2024, Amplifying TikTok Videos Using Zoom Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-opinion-on-slomo-recording-softwares-latest-version/"><u>In 2024, Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-the-art-of-recording-in-audacity/"><u>In 2024, Fine-Tuning the Art of Recording in Audacity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero5-black-secrets-elevating-your-cinematic-craft/"><u>In 2024, GoPro Hero5 Black Secrets  Elevating Your Cinematic Craft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hasty-and-hassle-free-images-on-windows-11/"><u>In 2024, Hasty & Hassle-Free Images on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-path-to-stellar-android-video-quality/"><u>In 2024, Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustration-ingenuity-3d-text-magic/"><u>In 2024, Illustration Ingenuity  3D Text Magic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-tools-in-live-encoding-technology-for-2024/"><u>Innovative Tools in Live Encoding Technology for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-mystery-of-a-missing-shell32dll-file-a-step-by-step-guide/"><u>Resolving the Mystery of a Missing Shell32.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-twitch-is-down-or-if-its-your-internet/"><u>Troubleshooting Connection Issues: How to Tell If Twitch Is Down or If It's Your Internet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-pc-crashes-in-wolcen-lords-of-mayhem/"><u>Troubleshooting Guide: Fixing PC Crashes in Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>Unleashing Full Potential  Nikon 1J5 in 4K Videography</u></a></li>
+</ul></div>

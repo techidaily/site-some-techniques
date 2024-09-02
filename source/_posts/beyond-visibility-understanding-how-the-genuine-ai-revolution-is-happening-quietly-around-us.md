@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-08-27 16:15:23
-updated: 2024-08-29 12:57:18
+date: 2024-09-01T01:19:22.646Z
+updated: 2024-09-02T01:19:22.646Z
 tags:
   - mobile
 categories:
@@ -41,6 +41,9 @@ Corbin Davenport / How-To Geek
 
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ##  What’s Old Is New
 
  The word “AI” has lost most of its meaning over the past year or two, much like “crypto” became meaningless during [the last cryptocurrency bubble](https://en.wikipedia.org/wiki/Cryptocurrency%5Fbubble#2020%E2%80%932022%5Fcryptocurrency%5Fbubble). It might mean large language models that require expensive datacenters, or it might be the image processing algorithms used when taking a photo on a modern smartphone. There are also many AI-enabled devices that are clearly just using the term for the hype value, like [rice cookers](https://www.youtube.com/watch?v=F%5FHOrMmWoMA) with “AI Smart Cooking Technology.”
@@ -65,3 +68,71 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-simplify-your-internet-experience-step-by-step-guide-to-disabling-youtube-on-devices/"><u>[New] 2024 Approved  Simplify Your Internet Experience  Step-by-Step Guide to Disabling Youtube on Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-universe-of-gesture-technology/"><u>[New] Exploring the Universe of Gesture Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flexistabilizer-the-ultimate-videographers-tool/"><u>[New] FlexiStabilizer  The Ultimate Videographer's Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-one-to-another-mastering-playlists-pivoting/"><u>[New] From One to Another  Mastering Playlists Pivoting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-virtual-anonymity-to-facebook-fame-how-to-expand-your-audience-for-2024/"><u>[New] From Virtual Anonymity to Facebook Fame  How to Expand Your Audience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-turn-on-windows-11s-dynamic-hdr-mode/"><u>[New] Guide  Turn on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word/"><u>[New] Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-quality-drones-that-accommodate-gopro-cameras/"><u>[New] High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-ideas-for-eye-catching-podcast-artwork/"><u>[New] Innovative Ideas for Eye-Catching Podcast Artwork</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos/"><u>[New] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unseen-elements-in-instagram-stories-for-the-curious-viewer/"><u>[New] Unseen Elements in Instagram Stories  For the Curious Viewer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-on-chromebooks-and-zoom/"><u>[Updated] Expert Advice on Chromebooks and Zoom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-changing-user-numbers-on-tiktok/"><u>[Updated] Expert Guide to Changing User Numbers on TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-tailored-shots-with-10-initial-free-customizable-lut-packages/"><u>[Updated] Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-imovies-automated-size-control/"><u>[Updated] Exploring iMovie's Automated Size Control</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>[Updated] Exploring Tech Worlds  Dissecting AR, MR, & VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extraordinary-top-ranked-vr-game-perks/"><u>[Updated] Extraordinary Top-Ranked VR Game Perks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-find-the-top-10-affordable-online-image-format-switchers/"><u>[Updated] Find the Top 10 Affordable Online Image Format Switchers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>[Updated] Fine-Tuning Frames  A Comprehensible Approach to iPhone Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-jumble-to-flow-kinemasters-editing-masterclass/"><u>[Updated] From Jumble to Flow  Kinemaster's Editing Masterclass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-pro-apk-review-and-how-to-guide/"><u>[Updated] Funimate Pro APK Review and How-To Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-definition-spectacle-top-ten-4ks/"><u>[Updated] High Definition Spectacle – Top Ten 4Ks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illuminating-the-role-of-color-in-editing-mastery/"><u>[Updated] Illuminating the Role of Color in Editing Mastery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-ultra-short-timelapse-capture-methods/"><u>[Updated] In 2024, Top Ultra-Short Timelapse Capture Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-cost-effective-clouds-for-the-budget-conscious/"><u>[Updated] Unlocking Cost-Effective Clouds for the Budget-Conscious</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supercharging-video-views-fbs-secrets-revealed/"><u>2024 Approved  Supercharging Video Views  FB's Secrets Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-your-favorite-5-book-vtts/"><u>2024 Approved  The Ultimate Guide to Choosing Your Favorite 5 Book VTTs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/adjust-default-snapshot-savings-in-mac/"><u>Adjust Default Snapshot Savings in Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-testing-dell-visuals-elite-active-noise-cancellation-headset-and-sharp-quality-webcam/"><u>Explore the Best: Testing Dell Visuals, Elite Active Noise Cancellation Headset, and Sharp Quality Webcam</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-grammarly-disabled-status-on-windows-pcs/"><u>Fixing Grammarly Disabled Status on Windows PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garmin-virb-ultra-30-action-camera-review-for-2024/"><u>Garmin VIRB Ultra 30 Action Camera Review for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-stabilizing-palworld-game-performance-on-pcs/"><u>Guide to Stabilizing PalWorld Game Performance on PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-successful-driver-installation-for-hp-d1360/"><u>Hardware Setup: Successful Driver Installation for HP D1360?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-organize-photo-album-on-iphone-and-icloud-for-2024/"><u>How To Organize Photo Album On iPhone And iCloud for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-spark-20-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Spark 20 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 8 Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-strategies-for-efficient-whatsapp-use/"><u>In 2024, Expert Strategies for Efficient WhatsApp Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-enhancing-photos-via-online-tools/"><u>In 2024, Expertise in Enhancing Photos via Online Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>In 2024, Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-films-finest-high-definition-4k-screens-for-editors/"><u>In 2024, Film's Finest  High Definition 4K Screens for Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flipping-video-content-easily-in-android-applications/"><u>In 2024, Flipping Video Content Easily in Android Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fusing-iphones-audio-and-visuals-together/"><u>In 2024, Fusing iPhones' Audio and Visuals Together</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hand-tracking-mastery-all-methods-unveiled/"><u>In 2024, Hand-Tracking Mastery  All Methods Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-your-camera-and-drone-with-a-pro-gimbal/"><u>In 2024, Harmonizing Your Camera and Drone with a Pro Gimbal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-external-light-for-cozy-interior-spaces/"><u>In 2024, Harnessing External Light for Cozy Interior Spaces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-horizon-unveiled-an-elite-list-of-online-sky-sites/"><u>In 2024, HDR Horizon Unveiled  An Elite List of Online Sky Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highpoint-artist-suite-evaluation/"><u>In 2024, Highpoint Artist Suite Evaluation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-augmentation-changes-our-reality-view/"><u>In 2024, How Augmentation Changes Our Reality View</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>In 2024, How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hurdle-free-humor-your-guide-to-the-ifunny-app-world/"><u>In 2024, Hurdle-Free Humor  Your Guide to the iFunny App World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/influencing-cultures-through-memetic-expression-for-2024/"><u>Influencing Cultures Through Memetic Expression for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-stop-motion-cinema-ranking-the-best-15-for-2024/"><u>Innovative Stop-Motion Cinema  Ranking the Best 15 for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/insight-into-the-benefits-and-reasons-of-multiple-profiles-on-one-facebook-account/"><u>Insight Into the Benefits and Reasons of Multiple Profiles on One Facebook Account</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oneplus-12-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from OnePlus 12</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/screenstream-worldwide-live-including-exclusive-locals/"><u>ScreenStream  Worldwide Live, Including Exclusive Locals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shop-the-latest-fantastic-offers-on-new-and-used-ipads-now/"><u>Shop the Latest Fantastic Offers on New and Used iPads Now</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/solving-the-data-recovery-loop-on-your-iphone-effective-strategies/"><u>Solving the 'Data Recovery' Loop on Your iPhone: Effective Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spearhead-presentation-innovation-using-chatgpts-capabilities/"><u>Spearhead Presentation Innovation Using ChatGPT's Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-imovie-videos-on-your-youtube-channel-for-2024/"><u>Step-by-Step  IMovie Videos on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-reverting-windows-folders-to-full-editability/"><u>Tips for Reverting Windows Folders to Full Editability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-cpu-benchmarks-key-metrics-that-truly-matter/"><u>Understanding CPU Benchmarks: Key Metrics That Truly Matter</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-does-just-feed-mean-for-your-social-media-experience/"><u>What Does 'Just Feed' Mean for Your Social Media Experience?</u></a></li>
+</ul></div>

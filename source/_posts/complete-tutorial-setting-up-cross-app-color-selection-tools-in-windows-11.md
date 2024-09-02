@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11"
-date: 2024-08-27 18:59:22
-updated: 2024-08-29 12:58:58
+date: 2024-09-01T01:22:54.922Z
+updated: 2024-09-02T01:22:54.922Z
 tags:
   - deals
 categories:
@@ -30,24 +30,39 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
 
 ![Ensure the PowerToys color picker is enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/power-toy-color-picker.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  By default, you'll use Windows+Shift+C to activate the color picker. You can change this keyboard shortcut to your preferred one from this screen, if you like.
 
  Next, close PowerToys and get ready to grab some colors. The PowerToys Settings app does not need to be running for Color Picker to work.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Activate Color Picker With a Keyboard Shortcut
 
  Once Color Picker is enabled, you can use it at any time by pressing Windows+Shift+C (or whatever keyboard shortcut you chose) on your keyboard. After pressing the shortcut, you'll see a small pop-up box beside your mouse cursor that shows a square preview of the color you're pointing to and the [hexadecimal code](https://tech-hub.techidaily.com/discover-the-best-no-cost-audiobook-sites-for-young-readers-and-adolescents/) (often called "hex" for short) for that color.
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
@@ -70,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
  To leave Color Picker at any time, press Escape on your keyboard or click somewhere to call up the detail window again and click the "X" button in the upper-right corner to close the window. Whenever you need Color Picker again, just hit Windows+Shift+C from anywhere and you'll be back to picking colors in no time.
@@ -90,3 +108,46 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximizing-meeting-impact-with-effective-snap-usage/"><u>[New] 2024 Approved  Maximizing Meeting Impact with Effective Snap Usage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expedite-your-experience-quick-iphone-time-lapse/"><u>[New] Expedite Your Experience  Quick iPhone Time-Lapse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-moving-multimedia-on-apple-gear/"><u>[New] Expert Advice  Moving Multimedia on Apple Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-immersive-videography-the-360-journey/"><u>[New] Exploring Immersive Videography  The 360° Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-digital-artistry-the-meme-generator/"><u>[New] Free Digital Artistry  The Meme Generator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-outstanding-transforming-your-meetings-with-zoom-filters/"><u>[New] From Ordinary to Outstanding  Transforming Your Meetings with Zoom Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-drone-review/"><u>[New] GoPro Karma Drone Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[New] Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-of-slomo-video-capture-tool/"><u>[New] In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-excellent-srt-into-your-mp4-projects-a-2024-guide/"><u>[New] Incorporating Excellent SRT Into Your MP4 Projects – A 2024 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-mastery-uploading-subtitles-to-gain-visibility-in-online-communities/"><u>[New] Step-by-Step Mastery  Uploading Subtitles to Gain Visibility in Online Communities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimizing-your-imovie-content-for-vimeo-display/"><u>[Updated] 2024 Approved  Optimizing Your iMovie Content for Vimeo Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-face-editing-showdown-polaroid-cube-vs-gopro-hero-series/"><u>[Updated] Face-Editing Showdown  Polaroid Cube Vs. GoPro Hero Series</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flipping-fun-facts-into-memes-with-kinemaster/"><u>[Updated] Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-maestro-professional-photography-and-cinematography-techniques/"><u>[Updated] From Novice to Maestro  Professional Photography & Cinematography Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-premiere-pro-full-screen-preview/"><u>[Updated] Full Guide to Premiere Pro Full Screen Preview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hours-of-videography-expected-gb-usage/"><u>[Updated] Hours of Videography  Expected GB Usage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-keep-viewers-engaged-with-these-videos/"><u>[Updated] How to Keep Viewers Engaged with These Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-excellence-squad-selecting-top-7-fps-games/"><u>[Updated] In 2024, Excellence Squad  Selecting Top 7 FPS Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>2024 Approved  Sky-High Quality  Unveiling the Best 4K Video Converters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enabling-googles-generative-ai-uncovering-the-power-of-google-search-experience/"><u>Enabling Google's Generative AI: Uncovering the Power of Google Search Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-system-audio-windows-11-mixer-configuration-steps/"><u>Fine-Tuning System Audio: Windows 11 Mixer Configuration Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/haunting-shots-next-gen-action-hddc-for-2024/"><u>Haunting Shots  Next-Gen Action HDDC for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-achieve-lightning-fast-periscope-transmission-for-2024/"><u>How to Achieve Lightning-Fast Periscope Transmission for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-lenovo-thinkphone-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Lenovo ThinkPhone Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-asus-proart-329q-4k-monitor-capabilities/"><u>In 2024, Exploring the Asus ProArt 329Q 4K Monitor Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-snap-to-stunning-photo-editing-secrets/"><u>In 2024, From Snap to Stunning  Photo Editing Secrets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-guide-quick-tips-for-meme-artistry/"><u>In 2024, Giggle Guide  Quick Tips for Meme Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonyhub-combining-ios-and-macos-photo-videos/"><u>In 2024, HarmonyHub  Combining iOS & macOS Photo-Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-improve-video-quality-in-zoom-meetings/"><u>In 2024, How to Improve Video Quality in Zoom Meetings?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-color-grading-navigating-luts-in-adobe-premiere-pro/"><u>In 2024, Immersive Color Grading  Navigating LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiate-flawless-zoom-sessions-today/"><u>In 2024, Initiate Flawless Zoom Sessions Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-giroptic-360-angle-reviews-for-2024/"><u>In-Depth Giroptic 360-Angle Reviews for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-mosaic-photography-for-2024/"><u>Innovative Approaches for Mosaic Photography for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rapid-response-to-mtp-connection-issues/"><u>Rapid Response to MTP Connection Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/samsungs-visionary-leap-the-ubd-k850-ultrablade-2023-for-2024/"><u>Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-did-my-imessage-turn-into-a-text-on-iphone/"><u>Why Did My iMessage Turn Into a Text on iPhone?</u></a></li>
+</ul></div>

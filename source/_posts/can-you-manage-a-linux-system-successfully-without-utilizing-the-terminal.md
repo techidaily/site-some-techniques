@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2024-08-27 10:14:22
-updated: 2024-08-29 12:11:47
+date: 2024-09-01T01:21:00.412Z
+updated: 2024-09-02T01:21:00.412Z
 tags:
   - desktop
 categories:
@@ -35,16 +35,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For this experiment, I'll be using [Linux Mint](https://smart-video-creator.techidaily.com/updated-in-2024-cutting-edge-video-editing-top-3-4k8k-software-solutions/), one of the most GUI-friendly Linux distros. It's also considered a [great distro for beginners](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/), as most distros geared towards newcomers have great GUI experience.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  Installing New Software
 
 ![The homepage of the Software Manager on Linux Mint displaying different kinds of software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/software-manager-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Dealing with software is likely the biggest use of the command line. By issuing simple commands, you can install, update, and delete any software from your system. But it's not the only way to deal with software. Popular Linux distros like Ubuntu, Linux Mint, Fedora, and Pop!\_OS come with a dedicated software center (similar to the [Microsoft Store](https://on-screen-recording.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps/)). On Linux Mint, it's known as Software Manager.
 
  Suppose I want to install VLC media player. I will search for it using the search bar and simply press the "Install" button to install it. Sometimes, you might be prompted to install some dependencies. But that's about it. Your software should be installed in no time. If I want to uninstall it, I can do so from the same place in Software Manager or the start menu.
 
 ![An instance of Installing VLC on Linux Mint using Software Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installing-vlc-on-linux-mint-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  But what if you need to update some software? There's an update manager too. You can open it from time to time and see what packages have updates available. Then you can press the "Install Updates" button to update selected software or all of them.
 
 ![An example of the Update Manager user interface on Linux Mint for updating installed software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/update-manager-linux-mint.png) 
@@ -61,6 +70,9 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![The System settings in Linux Mint displaying different types of options and settings you can change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/system-settings-in-linux-mint-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  Getting deep into the heart of Linux and playing with the settings is something pro-Linux users prefer the command line for. But it's amazing how much you can do with a GUI settings menu on Linux nowadays. Linux Mint has a comprehensive settings menu containing most of the things you'll ever need. You can tweak network settings, display options, hardware, firewall, and even other administration settings.
 
  However, with the command line, you get more power and control. Many system settings are stored in configuration files located throughout the Linux file system. Accessing and editing these files directly in the terminal grants you granular control and configuration options beyond what's available in the GUI settings.
@@ -79,6 +91,9 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An example of the context menu opened of a file on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/context-menu-of-a-file-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  But then, why would you use the terminal for simple things like copying or deleting files to begin with? As it turns out, you can do more than that using the terminal. Think of batch activities. You can rename multiple files and folders according to certain patterns or criteria. You can also move or copy files based on specific criteria such as file extension, modification date, or size.
 
  You can use commands such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/), [sed](https://visual-screen-recording.techidaily.com/new-in-2024-forward-thinking-ios-for-ps2-emulation/), and [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to search for specific text patterns within files and make changes based on the search results. If you want to go further, you can use regular expressions for more powerful filtering. Wildcards enable you to perform mass operations on multiple files across multiple directories.
@@ -95,6 +110,13 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An instance of a text document opened in the xed text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xed-text-editor-on-linux-mint.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ##  Programming and Development
 
  Linux makes programming much more fun because it handles some of the tedious setups for you. You open a code editor and start writing code. Hence, many people, including me, [prefer Linux over Windows](https://program-issues.techidaily.com/solved-forza-horizon-4-crash-on-pc/) for programming.
@@ -119,12 +141,19 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  There are a bunch of GUI tools available out there, including GNOME Tweaks, Dconf Editor, and KDE System Settings. You can play between different options to get your preferred look and feel. Sure, the command line unlocks a new world of customization opportunities. But if it's customization work I'm doing, then GUI tools seem to do pretty well considering there's no learning curve.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Other Advanced Tasks
 
  When it comes to advanced tasks, the command line mostly reigns supreme. Some of these include system administration, network configuration, system monitoring, troubleshooting, disk management and partitioning, user and group management, and system security maintenance, among other things.
 
  You may find a few GUI tools, either built-in or from third parties. However, most of these activities require basic to intermediate knowledge of the Linux system, commands, and Bash scripting. So if you're planning to use Linux for any of these works, the terminal would be your daily companion.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ##  No Command Line, No Problem!
 
  For the most part, you can use Linux distros without ever touching the terminal, depending on your use case. Using the terminal might be convenient for some tasks, but nowadays, with a bit of searching, you can find GUI tools for many things. For power users, though, using the terminal is the way to get the most out of your Linux experience.
@@ -145,3 +174,67 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-record-skype-with-obs/"><u>[New] 2024 Approved  How to Record Skype with OBS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-pioneering-the-future-the-art-of-sensory-based-filmmaking/"><u>[New] 2024 Approved  Pioneering the Future  The Art of Sensory-Based Filmmaking</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elevating-camera-experience-mavic-pro-review-for-2024/"><u>[New] Elevating Camera Experience - Mavic Pro Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[New] Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[New] Fine-Tune Your Cinematography  Mastering Kinemaster Zoom Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-flashfreeze-video-interruption-tip-for-2024/"><u>[New] FlashFreeze Video Interruption Tip for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>[New] For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gamers-ultimate-guide-to-9-streams/"><u>[New] Gamer's Ultimate Guide to #9 Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-go-beyond-basics-with-these-advanced-whatsapp-features/"><u>[New] Go Beyond Basics with These Advanced WhatsApp Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-a-successful-live-stream/"><u>[New] How to Create A Successful Live Stream</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-online-destinations-for-video-promotion/"><u>[New] Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>[New] Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-studyhistory-10-essential-youtube-historical-channels/"><u>[New] In 2024, StudyHistory  10 Essential YouTube Historical Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-srt-creation-and-enhancement/"><u>[New] Innovative Strategies for SRT Creation and Enhancement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-tactics-for-cutting-edge-macro-video-creation/"><u>[New] Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-2-step-plan-to-a-viral-youtube-video/"><u>[New] The 2-Step Plan to a Viral YouTube Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-release-dates-for-podcast-episodes/"><u>[Updated] Best Release Dates for Podcast Episodes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-hues-from-textbooks-to-canvas/"><u>[Updated] Exploring Hues  From Textbooks to Canvas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-iphones-hdr-features-for-professional-photography/"><u>[Updated] Exploring iPhone's HDR Features for Professional Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-vivacut-the-full-2024-video-editing-review/"><u>[Updated] Exploring VivaCut  The Full 2024 Video Editing Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamers-guide-to-best-4k-laptop-models/"><u>[Updated] Gamer's Guide to Best 4K Laptop Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-onscreen-power-expert-tips-on-cropping-images/"><u>[Updated] Harnessing Onscreen Power  Expert Tips on Cropping Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-quality-noiseless-text-converters/"><u>[Updated] Highest Quality Noiseless Text Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>[Updated] How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-transform-your-in-game-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>[Updated] How to Transform Your In-Game Voice and Sound Presence Naturally  Expert Tips for FREE</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-delving-into-detail-with-minecraft-views/"><u>[Updated] In 2024, Delving Into Detail with Minecraft Views</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-brand-identity-complimentary-logo-templates-customization/"><u>[Updated] Innovate Brand Identity  Complimentary Logo Templates Customization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-designs-in-syma-x8c/"><u>[Updated] Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-your-contents-reach-without-breaching-laws/"><u>2024 Approved  Elevating Your Content's Reach Without Breaching Laws</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixels-musical-ensemble-unveiled-online/"><u>2024 Approved  Pixel's Musical Ensemble Unveiled Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-zte-nubia-flip-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your ZTE Nubia Flip 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c02-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C02?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/corporate-decisions-five-momentous-reasons-against-gpt-deployment/"><u>Corporate Decisions: Five Momentous Reasons Against GPT Deployment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hollywood-hacks-a-filmmakers-guide-to-cinematic-excellence-for-2024/"><u>Hollywood Hacks  A Filmmaker’s Guide to Cinematic Excellence for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-engage-fans-through-real-time-streams-mobile-edition/"><u>How to Engage Fans Through Real-Time Streams  Mobile Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-clearer-sound-with-these-ipad-tips/"><u>In 2024, Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-discover-the-art-of-following-facebook-live-events/"><u>In 2024, Discover the Art of Following Facebook Live Events</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-enhancing-twits-visuals-to-fhd-standards/"><u>In 2024, Enhancing Twit's Visuals to FHD Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>In 2024, Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-opinion-on-slomo-recording-softwares-latest-version/"><u>In 2024, Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-skies-in-4k-with-mi-drone/"><u>In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-online-destinations-for-sparkling-3d-typography/"><u>In 2024, Exquisite Online Destinations for Sparkling 3D Typography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-the-art-of-recording-in-audacity/"><u>In 2024, Fine-Tuning the Art of Recording in Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>In 2024, From Two-Dimensions to Three  Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>In 2024, Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero5-black-secrets-elevating-your-cinematic-craft/"><u>In 2024, GoPro Hero5 Black Secrets  Elevating Your Cinematic Craft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-extracting-srt-from-a-zip-archive/"><u>In 2024, Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hasty-and-hassle-free-images-on-windows-11/"><u>In 2024, Hasty & Hassle-Free Images on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-storm-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Storm 5G Phone that is Locked?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-path-to-stellar-android-video-quality/"><u>In 2024, Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustration-ingenuity-3d-text-magic/"><u>In 2024, Illustration Ingenuity  3D Text Magic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/intuitive-ui-and-robust-capabilities-meet-stellars-12v-upgrade/"><u>Intuitive UI & Robust Capabilities: Meet Stellar's 12v Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/raider-ge78-triumph-top-tier-performance-at-a-price/"><u>Raider GE78 Triumph: Top-Tier Performance at a Price</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-note-30i-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Note 30i with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamlined-mobile-posting-from-apple-devices/"><u>Streamlined Mobile Posting From Apple Devices</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-s23plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel S23+.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubes-rewind-feat-unraveling-sequence-with-a-single-click-for-2024/"><u>YouTube's Rewind Feat  Unraveling Sequence with a Single Click for 2024</u></a></li>
+</ul></div>

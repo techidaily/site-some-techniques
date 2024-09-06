@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Enhances Photos Application with Key Visual Interface Upgrades
-date: 2024-09-01T01:21:59.711Z
-updated: 2024-09-02T01:21:59.711Z
+date: 2024-09-05T05:27:32.995Z
+updated: 2024-09-06T05:27:32.995Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,25 @@ Microsoft is now rolling out an updated Photos app to Windows 11 users on the Ca
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
@@ -28,6 +46,18 @@ Close
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -35,10 +65,28 @@ Close
 Microsoft
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)  
 Microsoft
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  Today, the Windows 11 Photos app is fairly robust. It can remove image backgrounds, connect to third-party services like iCloud, and import images from external devices. So, Microsoft is now taking the time to fine-tune Photos with smaller UI changes and under-the-hood upgrades.
@@ -120,7 +168,3 @@ Close
 <li><a href="https://buynow-reviews.techidaily.com/the-ultimate-waterproof-and-affordable-camera-nikon-w100/"><u>The Ultimate Waterproof and Affordable Camera? Nikon W100</u></a></li>
 <li><a href="https://some-techniques.techidaily.com/tropico-6-game-evaluation-ruining-a-blissful-island-utopia/"><u>Tropico 6 Game Evaluation: Ruining a Blissful Island Utopia</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->

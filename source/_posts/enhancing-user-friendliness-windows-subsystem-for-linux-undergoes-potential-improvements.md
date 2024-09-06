@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User-Friendliness: Windows Subsystem for Linux Undergoes Potential Improvements"
-date: 2024-09-01T01:21:09.607Z
-updated: 2024-09-02T01:21:09.607Z
+date: 2024-09-05T05:27:32.294Z
+updated: 2024-09-06T05:27:32.294Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing User-Friendliness: Windows Subsystem for Linux Undergoes Potential Improvements
 
 Microsoft introduced the Windows Subsystem for Linux in Windows 10, giving people a way to easily run (most) Linux software on top of Windows. However, it can be a bit complicated to set up and manage, and Microsoft might fix that soon.
@@ -19,6 +25,12 @@ Microsoft introduced the Windows Subsystem for Linux in Windows 10, giving peopl
 
 ![Screenshot of Windows Subsystem for Linux interface with options to manage Linux distributions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/305230142-e2d2a380-ac0f-4a19-b1dd-8e7038f7a7f0.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  The feature proposal explains, “Currently the Windows Subsystem for Linux is a command line focused application. There isn't an easy built-in way for users to discover, interact with, or manage WSL through a graphical interface. This feature would focus on making WSL functionality available through GUI, to increase discovery and usability for a wider range of users.”
@@ -76,7 +88,3 @@ Microsoft
 <li><a href="https://win11-tips.techidaily.com/stop-windows-from-tracking-your-apps/"><u>Stop Windows From Tracking Your Apps</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-top-10-free-video-editors-for-mp4-files-for-2024/"><u>Updated Unleash Your Creativity Top 10 Free Video Editors for MP4 Files for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

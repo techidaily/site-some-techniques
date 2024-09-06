@@ -1,7 +1,7 @@
 ---
 title: Phase-Out of VBScript in Windows 11 Update 24H2 Announced
-date: 2024-09-01T01:20:25.194Z
-updated: 2024-09-02T01:20:25.194Z
+date: 2024-09-05T05:27:31.727Z
+updated: 2024-09-06T05:27:31.727Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Phase-Out of VBScript in Windows 11 Update 24H2 Announced
 
 Visual Basic Scripting Edition, or VBScript, has been a scripting language and automation tool for Windows since it was introduced in 1996\. Microsoft has now confirmed VBScript will be made optional in Windows 11 later this year, before its eventual removal.
@@ -106,7 +118,3 @@ Visual Basic Scripting Edition, or VBScript, has been a scripting language and a
 <li><a href="https://win-answers.techidaily.com/step-by-step-solutions-addressing-pc-gameplay-issues-with-robocop-rogue-city/"><u>Step-by-Step Solutions: Addressing PC Gameplay Issues with RoboCop: Rogue City</u></a></li>
 <li><a href="https://extra-information.techidaily.com/zooming-into-the-details-with-team-meetings/"><u>Zooming Into the Details with Team Meetings</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

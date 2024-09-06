@@ -1,7 +1,7 @@
 ---
 title: Assessing Google's Pixel 8 Pro Performance at One Year Mark - Is It Time for a Switch to Pixel 9?
-date: 2024-09-01T01:19:21.078Z
-updated: 2024-09-02T01:19:21.078Z
+date: 2024-09-05T05:27:30.926Z
+updated: 2024-09-06T05:27:30.926Z
 tags:
   - mobile
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/pixel8pro-10months-tn.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assessing Google's Pixel 8 Pro Performance at One Year Mark - Is It Time for a Switch to Pixel 9?
 
 Can you believe the Pixel 8 Pro is already about to be replaced? It's barely been 10 months since this thing launched, but already Google is showing off the Pixel 9 series as part of an earlier-than-usual refresh for its flagship smartphone.
@@ -77,7 +89,3 @@ Can you believe the Pixel 8 Pro is already about to be replaced? It's barely bee
 <li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>In 2024, In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
 <li><a href="https://some-techniques.techidaily.com/the-evolutionary-step-forward-for-microsofts-tablet-laptop-hybrid-a-comprehensive-review-of-the-surface-pro-grope-7/"><u>The Evolutionary Step Forward for Microsoft's Tablet-Laptop Hybrid - A Comprehensive Review of the Surface Pro Grope 7</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->

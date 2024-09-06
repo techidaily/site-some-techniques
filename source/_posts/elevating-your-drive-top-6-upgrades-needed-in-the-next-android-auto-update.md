@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your Drive: Top 6 Upgrades Needed in the Next Android Auto Update"
-date: 2024-09-01T01:19:30.526Z
-updated: 2024-09-02T01:19:30.526Z
+date: 2024-09-05T05:27:31.048Z
+updated: 2024-09-06T05:27:31.048Z
 tags:
   - mobile
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a0ff9dab5d25b004c909ef6a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Elevating Your Drive: Top 6 Upgrades Needed in the Next Android Auto Update
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Bring Back Android Auto for Phones](https://vp-tips.techidaily.com/no-money-no-problem-master-fcp-legally/)
@@ -22,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  Android Auto has made it drastically easier to enjoy the features of your phone safely while driving. Maps, music, and messages are easily in sight and can be controlled without looking away from the road. However, Android Auto is far from perfect–here are some things that could make it even better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  Bring Back Android Auto for Phones 
 
  In the early days of Android Auto, Google had a version that could run on phone screens. That functionality was eventually removed in 2022 and replaced by "Google Assistant Driving Mode." It was a more limited experience contained inside the Google Maps app, and that was [eventually removed as well in early 2024](https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/).
@@ -29,15 +47,15 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  So, we're left with no official method for running a simplified, car-focused UI on our Android phones. That's a shame because, while it is [easier (and cheaper) than you think to get Android Auto in your car](https://youtube-web.techidaily.com/ed-dazzle-and-stand-out-50-free-youtube-branding-pieces/), a lot of people prefer to have their phone in a mount. There should be an official way to do that safely.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2  Reporting Road Conditions With Voice Commands 
 
 [Like Waze](https://youtube-help.techidaily.com/2024-approved-maximizing-traffic-with-effective-youtube-titles/) (which is also owned by Google), it's possible to report road conditions in Google Maps. Things like crashes, speed traps, construction, etc. However, it's not very easy to do this while driving. A feature that would make this instantly better is voice commands. "Hey Google, report a speed trap." Boom, easy.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3  Remember Settings for Specific Head Units 
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
@@ -49,22 +67,19 @@ Joe Fedewa / How-To Geek
  This means that if you use more than one vehicle with Android Auto, certain settings will follow you. For example, you can choose to have media start playing when connected to your car automatically, but that means the same will happen when you connect to your partner's vehicle ([or your bike](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/)). The setting is not vehicle-specific. Same goes for Google Maps views. Admittedly, this is not a big problem, but it can be annoying.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4  Using Google Maps on Your Phone While Navigating With Android Auto 
 
  Here's another pretty simple one: let me use Google Maps on my phone while Android Auto is navigating. I'm not talking about while I'm driving–this is for passengers, only. It's very frustrating to be the passenger trying to find the next stop on your phone, and Google keeps kicking you out of the Maps app or ends navigation altogether.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  Better Use of Split Screen View 
 
 ![CarPlay activated on car's internal display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-10-at-6-31-19-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Apple
 
  Android Auto's split screen view is essentially a 2/3 split, with the navigation app always taking up the bigger area. I have no problem with that–it's the smaller section that could be used better.
@@ -72,7 +87,10 @@ Apple
  Most of the time the small third of the screen is showing media controls and suggested locations. The suggestions are actually useful maybe 25% of the time I'm driving somewhere. Instead, it'd be nice if that corner of the display could give me extra navigation information, like [how Apple does it with CarPlay](https://i.pcmag.com/imagery/articles/01ypBwaEp6WRCjX7hpKnVRM-33.fit%5Flim.size%5F768x.png). 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6  Voice Prompt for Text Message Notifications 
 

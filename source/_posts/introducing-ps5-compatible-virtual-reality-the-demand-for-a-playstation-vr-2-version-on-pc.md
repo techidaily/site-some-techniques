@@ -1,7 +1,7 @@
 ---
 title: "Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC"
-date: 2024-08-27 10:46:37
-updated: 2024-08-29 10:14:46
+date: 2024-09-05T05:26:10.277Z
+updated: 2024-09-06T05:26:10.277Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2152da5539a4a5d5cb3e57e3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is PlayStation VR 2?](https://screen-sharing-recording.techidaily.com/updated-in-2024-midgard-alliance-defenders-of-ragnarok/)
@@ -38,6 +50,12 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
 ![31NLGzA5upL._SL500_-7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 A Great VR Experience
 
 #####  Oculus Quest 2 256GB
@@ -66,10 +84,28 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
 
 ![Horizon Zero Dawn PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Horizon-Zero-Dawn-PC.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Sony has slowly started releasing PC ports of some formerly exclusive games like Horizon: Zero Dawn. This has yet to happen with VR games or with PlayStation 5 exclusive games, but we can foresee a future where PC versions of PlayStation VR 2 games come to PC. If those games can only be fully experienced with the Sony headset, it does make sense to allow PC users access.
 
  There is some precedent for this. The DualSense controller works as a standard controller on PC and mobile devices, albeit without the full haptic experience. Some specific games, such as Metro Exodus, do support the full DualSense experience on something that isn't a PlayStation. So we know Sony isn't entirely averse to the idea.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Hard Would PC Compatibility Be?
 
  The original PSVR used external camera tracking using the PlayStation 4 camera. That device doesn't have a standard interface, so there has been no way to connect it to a USB port until recently. Sony had to issue an [adapter](https://www.reviewgeek.com/59201/heres-how-to-request-a-free-ps5-adapter-for-your-psvr-camera/) so that the PSVR could be used with a PlayStation 5, which only features USB ports.
@@ -78,6 +114,12 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
 
  The PlayStation VR 2 uses a standard USB-C connection, so we don't foresee any fundamental hardware issues. Getting the PlayStation VR 2 to work with a PC is likely down to software drivers. We have no doubt that enterprising hackers will eventually produce a third-party driver for the PlayStation VR 2, which is even more reason for Sony to step in and make that move itself.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Will PlayStation VR 2 Be a Loss-leader?
 
  There is one big question: Console makers are known to sell their hardware at a loss in order to establish an install base, making their money through software sales. This is the "loss-leader" strategy and there's a good chance Sony will employ it with the PlayStation VR 2.
@@ -100,3 +142,45 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-conquer-job-interviews-with-confidence-and-excellence/"><u>[New] Conquer Job Interviews with Confidence & Excellence</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unending-suspension-how-to-erase-youtube-shorts/"><u>[Updated] 2024 Approved  Unending Suspension  How to Erase YouTube Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro/"><u>2024 Approved  Unlocking Creative Potential  The Artful Application of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-youtubes-earnings-blueprint/"><u>2024 Approved  Unveiling YouTube’s Earnings Blueprint</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 5 Quickly | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-honor-90-gtmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor 90 GTMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-windows-keyboard-keys-that-wont-unstick-a-comprehensive-guide/"><u>How to Fix Windows Keyboard Keys That Won't Unstick: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-note-30-vip-racing-edition-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Note 30 VIP Racing Edition to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-compelling-narratives-with-b-cut-footage/"><u>In 2024, Crafting Compelling Narratives with B-Cut Footage</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-hot-40-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Hot 40 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Ultra Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-cyberpowers-cp685avrg-uninterruptible-power-supply-reliable-protection-for-essential-devices/"><u>In-Depth Analysis of Cyberpower's CP685AVRG Uninterruptible Power Supply: Reliable Protection for Essential Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/introducing-dall-e-microsofts-new-image-creation-feature-in-bing-chat/"><u>Introducing DALL-E: Microsoft's New Image Creation Feature in Bing Chat</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Landscapes with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-safely-in-a-world-of-artificebotica-the-hidden-dangers-of-ai-production/"><u>Navigating Safely in a World of Artificebotica: The Hidden Dangers of AI Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/no-more-waitlists-microsoft-designer-now-opens-immediately/"><u>No More Waitlists: Microsoft Designer Now Opens Immediately!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/phoenix-travelers-can-now-rely-on-waymos-autonomous-vehicles-for-airport-transfers/"><u>Phoenix Travelers Can Now Rely on Waymo's Autonomous Vehicles for Airport Transfers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ready-to-experience-cinema-creations-from-advanced-ai-technology/"><u>Ready to Experience Cinema Creations From Advanced AI Technology?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/reigniting-your-passion-for-creativity-how-artificnial-intelligence-helped/"><u>Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/reviving-my-passion-for-pc-vr-the-impact-of-steam-link-on-the-oculus-quest-experience/"><u>Reviving My Passion for PC VR: The Impact of Steam Link on the Oculus Quest Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/save-on-oculus-quest-2-vr-kits-enjoy-a-50-discount-now-on-amazon/"><u>Save on Oculus Quest 2 VR Kits - Enjoy a $50 Discount Now on Amazon!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/secure-significant-savings-with-elegoos-latest-phecda-laser-cutting-and-engraving-machine-via-kickstarter/"><u>Secure Significant Savings with Elegoo's Latest PHECDA Laser Cutting & Engraving Machine via Kickstarter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/soothing-screenscape-shivers-in-pro-7/"><u>Soothing Screenscape Shivers in Pro 7</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153363520-speak-like-a-socialite-learn-these-30-trending-acronyms-today/"><u>Speak Like a Socialite: Learn These 30 Trending Acronyms Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-setting-up-your-metamask-account-on-ios-and-android-devices/"><u>Step-by-Step Guide: Setting Up Your MetaMask Account on iOS and Android Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/surprise-reveal-the-unique-purpose-of-the-logitech-drawing-pen/"><u>Surprise Reveal: The Unique Purpose of the Logitech Drawing Pen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/telegram-tactics-for-aspiring-marketers-a-compreeher-guide/"><u>Telegram Tactics for Aspiring Marketers  A Compreeher Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-ultimate-guide-discover-the-top-tech-innovations-honored-at-ces-2024/"><u>The Ultimate Guide: Discover the Top Tech Innovations Honored at CES 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/this-seo-title-emphasizes-exploration-of-innovation-suggesting-that-viewers-will-not-only-watch-but-also-understand-and-learn-from-the-event/"><u>This SEO Title Emphasizes Exploration of Innovation, Suggesting that Viewers Will Not only Watch but Also Understand and Learn From the Event.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-features-to-consider-when-choosing-your-first-e-bike/"><u>Top Features to Consider When Choosing Your First E-Bike</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrative-access-every-time-for-your-windows-11-apps/"><u>Ultimate Guide: Ensuring Administrative Access Every Time for Your Windows 11 Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-artificial-intelligence-does-chatgpt-experience-hallucinations/"><u>Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-teslas-track-mode-functionality-and-operating-mechanics-explained/"><u>Understanding Tesla's Track Mode: Functionality and Operating Mechanics Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-distinction-between-electric-and-hybrid-vehicles/"><u>Understanding the Distinction Between Electric and Hybrid Vehicles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-valves-latest-policy-a-comprehensive-look-at-the-ban-on-steams-blockchain-nft-and-cryptocurrency-games/"><u>Understanding Valve's Latest Policy: A Comprehensive Look at the Ban on Steam's Blockchain, NFT, and Cryptocurrency Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unlock-personalized-ai-experiences-with-chatgpts-newly-available-free-generative-pre-trained-transformer-templates/"><u>Unlock Personalized AI Experiences with ChatGPT's Newly-Available Free Generative Pre-Trained Transformer Templates</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-09-01T01:17:42.145Z
-updated: 2024-09-02T01:17:42.145Z
+date: 2024-09-05T05:27:29.741Z
+updated: 2024-09-06T05:27:29.741Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f972b8ef6e36ebd7fc54a18cb3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Data Exposure Incident: Cooler Master's User Information Compromised
 
 You might be familiar with Cooler Master for its PC cooling components, but the company has also expanded into PC cases, peripherals, and other hardware categories over the past few years. If you're a customer of the company, and especially if you've had to use its website for warranty information, you might be affected by a new data breach.
@@ -84,7 +90,3 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 <li><a href="https://vp-tips.techidaily.com/seamless-onboarding-with-ai-enhancing-user-experience/"><u>Seamless Onboarding with AI: Enhancing User Experience</u></a></li>
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-asus-rog-phone-8-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Asus ROG Phone 8 Pro password or pattern lock</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

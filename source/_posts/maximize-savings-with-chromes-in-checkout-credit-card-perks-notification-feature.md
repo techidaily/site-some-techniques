@@ -1,7 +1,7 @@
 ---
 title: Maximize Savings with Chrome's In-Checkout Credit Card Perks Notification Feature
-date: 2024-09-01T01:18:36.227Z
-updated: 2024-09-02T01:18:36.227Z
+date: 2024-09-05T05:27:30.384Z
+updated: 2024-09-06T05:27:30.384Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/google-chrome-2-2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Maximize Savings with Chrome's In-Checkout Credit Card Perks Notification Feature
 
 Here's two features you didn't know you needed—Google Pay can now show your credit card benefits during checkout, and it will allow you to autofill payment details without entering a card's security code.
@@ -19,6 +25,18 @@ Here's two features you didn't know you needed—Google Pay can now show your cr
 
 ![Chrome browser showing credit card benefits while checking out at a travel website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/45.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  Sadly, Google Pay is also expanding its "Buy Now, Pay Later" (BNPL) feature to more websites. This feature taps into services like Affirm and Zip so you can finance purchases on websites that, under normal circumstances, do not offer direct BNPL integration. In my opinion, [BNPL services are predatory](https://howto.techidaily.com/stuck-at-android-system-recovery-of-honor-v-purse-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/) and should not be built into a payment processing platform like Google Pay. Imagine if Google Pay asked customers to sign up for a credit card during checkout—this is the exact same thing but without a credit check, without super-strict regulation, and without the purchase protection or rewards features of an actual credit card. It's gross.
@@ -105,7 +123,3 @@ Google
 <li><a href="https://facebook-video-share.techidaily.com/the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails-for-2024/"><u>The Mobile Filmmaker’s Playbook  Crafting Compelling YouTubes Thumbnails for 2024</u></a></li>
 <li><a href="https://facebook.techidaily.com/top-insights-into-metas-revised-data-protection-policy/"><u>Top Insights Into Meta’s Revised Data Protection Policy</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

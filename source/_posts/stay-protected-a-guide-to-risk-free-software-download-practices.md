@@ -1,7 +1,7 @@
 ---
 title: "Stay Protected: A Guide to Risk-Free Software Download Practices"
-date: 2024-09-01T01:21:34.291Z
-updated: 2024-09-02T01:21:34.291Z
+date: 2024-09-05T05:27:32.624Z
+updated: 2024-09-06T05:27:32.624Z
 tags:
   - desktop
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c673912341c93c2d4c06d1ec.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay Protected: A Guide to Risk-Free Software Download Practices
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Be cautious of malware disguised as popular software or websites promoted through search ads.
@@ -22,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
  The malicious search ads are just one way hackers can trick you into installing maclicious software, on top of all the other classic methods: fake emails, ads on other web content, social media, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Don't Download from Mirror Sites
 
  There are many sites that host copies of popular free software, which were especially popular in the 1990s and early 2000s. They were helpful in the era before search engines became more prevelant, but many of them used custom installers for software that would load up your PC with extra junk. Back in 2015, [we tried downloading the top 10 apps from Download.com](https://extra-approaches.techidaily.com/2024-approved-pinnacle-playwriting-sanctuary/), which installed conflicting malware/virus protection software and browser redirects.
@@ -29,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
  Some popular download sites have cleaned up their act since then, while others have shut down entirely, but it's still not a good idea to download software from anywhere other than the original source or an approved mirror. For example, if you want VLC Media Player, you should be downloading directly from [VideoLAN.org](https://www.videolan.org/) or the project's own listings on the [Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://play.google.com/store/apps/details?id=org.videolan.vlc), [Apple App Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://itunes.apple.com/app/apple-store/id650377962), or other official sources linked from that website.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Avoid Search Engine Ads
 
@@ -37,13 +58,19 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
 ![Screenshot of a Google search for "Chevy", with a sponsored link for Ford at the top, followed by another sponsored link for Chevrolet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-4-52-47-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Google, Bing, and other search engines are not great at validating these links, so sponsored/ad links for software could lead you to malware. It's safer to scroll past them and check the top non-sponsored results for a given search query.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check App Stores
 
@@ -54,15 +81,15 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 ![A screenshot of the Mac App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-5-08-00-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  There are definitely apps in both stores that can be regarded as spam or not useful, but actual malware is exceedingly rare. The Microsoft Store has [occasional problems with sketchy software](https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/), but they are removed when issues are discovered, and it has definitely been cleaned up over the past few years. Most big app developers ignored the Store for its first few years of existence, but now there are official listings for [Adobe Photoshop](https://apps.microsoft.com/detail/XPFD4T9N395QN6), [iTunes](https://apps.microsoft.com/detail/9PB2MZ1ZMB1S), [TikTok](https://apps.microsoft.com/detail/9NH2GPH4JZS4), [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM), [Mozilla Firefox](https://apps.microsoft.com/detail/9NZVDKPMR9RD), and more.
 
  Most desktop Linux distributions have integrated software repositories and package managers that effectively act like app stores, and there are third-party software repositories for many platforms . [Homebrew](https://brew.sh/) is a popular software repository for macOS, primarily aimed at command-line tools and developer utilities, and [Chocolatey](https://chocolatey.org/) is a similar alternative for Windows. However, you have to trust that malware isn't sneaking into those repositories.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Scan Your Downloads with VirusTotal
 
 [VirusTotal](http://www.virustotal.com) scans submitted files and links using a variety of different antivirus programs and compares the submitted file to other files on record. If you do download apps from potentially suspect places, or you just want to be extra sure, you can always [upload the file to VirusTotal to confirm that it is safe](https://extra-support.techidaily.com/pinnacle-tools-for-subs-to-srt-unveiling-the-top-8-win-and-mac-software-for-2024/). It isn't a perfect option, and may not catch every piece of malware out there, but it does provide another layer of security if you want it.

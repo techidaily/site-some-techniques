@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond"
-date: 2024-09-01T01:18:49.333Z
-updated: 2024-09-02T01:18:49.333Z
+date: 2024-09-05T05:27:30.550Z
+updated: 2024-09-06T05:27:30.550Z
 tags:
   - web
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01bc5aa8ad2d1b0ae91dc6763.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Proton Docs doesn't include generative AI features, unlike competing apps.
@@ -23,18 +41,36 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
 ![The document editor interface in Proton Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072812.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In my experience, generative text features are only useful if what you're writing needs to be predictable in content and sterile in tone. That's a rare need in my workflow and daily life, so I don't feel I'm missing much by using Proton Docs. Those menu options other apps have with the little "stars" icon that, for some reason, signifies generative AI have become an eyesore to me; there's nothing celestial about those tools.
 
  Proton Docs has the added benefit of being a cloud-based word processor that doesn't process my words for [LLM](https://extra-support.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/) training. Writing is a way of thinking, and it doesn't feel good to know my thoughts are being used to build a product that someone else is selling. Then there's the privacy issue: can I trust the people doing the processing to keep my data safe? Can I trust that the model being trained can never spit out personally-identifying info about me? These questions run through my head anytime I type somewhere I know data is being collected for training.
 
  Aside from that, I'm generally optimistic about the direction of the Proton suite. For about five years, [Proton's email](https://extra-guidance.techidaily.com/updated-maximizing-impact-with-googles-podcast-platform/) and VPN services have been mainstays for me. In that time I've had to stick to Google Docs when I needed a collaborative, cloud-based word processor. So I'm looking forward to using Proton Docs as an alternative, and without any pop-ups begging me to let a machine write for me.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Edit Documents With Proton
 
  You don't have to pay to try out Proton's Docs feature. You just need to create an account and go to [the Proton Drive website](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004047/https://proton.me/drive). Click the big "New" button followed by "New Document."
 
 ![Screenshot of the Proton Drive menu with annotations pointing to the 'New' button and 'New Document' menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072723.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You're then in the document edit mode and can start writing. You can also upload documents made in another editor and click "Open in Docs." There's no support for ODT documents yet, but again, there's still more to come with Proton Docs—just hopefully not involving generative AI.
 
 <ins class="adsbygoogle"
@@ -129,7 +165,3 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 <li><a href="https://data-wizards.techidaily.com/unique-steps-for-rejuvenating-corrupted-videos/"><u>Unique Steps for Rejuvenating Corrupted Videos</u></a></li>
 <li><a href="https://driver-install.techidaily.com/usb-compatibility-fixes-in-antique-windows-versions/"><u>USB Compatibility Fixes in Antique Windows Versions</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

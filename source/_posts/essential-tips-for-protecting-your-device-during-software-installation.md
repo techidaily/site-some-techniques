@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Protecting Your Device During Software Installation
-date: 2024-09-01T01:22:37.565Z
-updated: 2024-09-02T01:22:37.565Z
+date: 2024-09-05T05:27:33.494Z
+updated: 2024-09-06T05:27:33.494Z
 tags:
   - deals
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Essential Tips for Protecting Your Device During Software Installation
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Be cautious of malware disguised as popular software or websites promoted through search ads.
@@ -22,16 +28,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The malicious search ads are just one way hackers can trick you into installing maclicious software, on top of all the other classic methods: fake emails, ads on other web content, social media, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Don't Download from Mirror Sites
 
  There are many sites that host copies of popular free software, which were especially popular in the 1990s and early 2000s. They were helpful in the era before search engines became more prevelant, but many of them used custom installers for software that would load up your PC with extra junk. Back in 2015, [we tried downloading the top 10 apps from Download.com](https://extra-approaches.techidaily.com/2024-approved-pinnacle-playwriting-sanctuary/), which installed conflicting malware/virus protection software and browser redirects.
 
  Some popular download sites have cleaned up their act since then, while others have shut down entirely, but it's still not a good idea to download software from anywhere other than the original source or an approved mirror. For example, if you want VLC Media Player, you should be downloading directly from [VideoLAN.org](https://www.videolan.org/) or the project's own listings on the [Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://play.google.com/store/apps/details?id=org.videolan.vlc), [Apple App Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://itunes.apple.com/app/apple-store/id650377962), or other official sources linked from that website.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Avoid Search Engine Ads
 
  There's a simple way to avoid the scam download links that are becoming more common on search engine results: don't click anything that says "Sponsored" or "Ad". Those are results from companies paying to be at the top of a certain search query—for example, Ford paying to be the top result for someone searching for competing Chevy vehicles in the below screenshot.
@@ -39,12 +47,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Screenshot of a Google search for "Chevy", with a sponsored link for Ford at the top, followed by another sponsored link for Chevrolet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-4-52-47-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Google, Bing, and other search engines are not great at validating these links, so sponsored/ad links for software could lead you to malware. It's safer to scroll past them and check the top non-sponsored results for a given search query.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check App Stores
 
@@ -55,14 +69,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![A screenshot of the Mac App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-5-08-00-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  There are definitely apps in both stores that can be regarded as spam or not useful, but actual malware is exceedingly rare. The Microsoft Store has [occasional problems with sketchy software](https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/), but they are removed when issues are discovered, and it has definitely been cleaned up over the past few years. Most big app developers ignored the Store for its first few years of existence, but now there are official listings for [Adobe Photoshop](https://apps.microsoft.com/detail/XPFD4T9N395QN6), [iTunes](https://apps.microsoft.com/detail/9PB2MZ1ZMB1S), [TikTok](https://apps.microsoft.com/detail/9NH2GPH4JZS4), [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM), [Mozilla Firefox](https://apps.microsoft.com/detail/9NZVDKPMR9RD), and more.
 
  Most desktop Linux distributions have integrated software repositories and package managers that effectively act like app stores, and there are third-party software repositories for many platforms . [Homebrew](https://brew.sh/) is a popular software repository for macOS, primarily aimed at command-line tools and developer utilities, and [Chocolatey](https://chocolatey.org/) is a similar alternative for Windows. However, you have to trust that malware isn't sneaking into those repositories.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Scan Your Downloads with VirusTotal
 

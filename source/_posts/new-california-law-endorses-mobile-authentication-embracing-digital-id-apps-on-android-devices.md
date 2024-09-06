@@ -1,7 +1,7 @@
 ---
 title: "New California Law Endorses Mobile Authentication: Embracing Digital ID Apps on Android Devices"
-date: 2024-09-01T01:19:47.404Z
-updated: 2024-09-02T01:19:47.404Z
+date: 2024-09-05T05:27:31.242Z
+updated: 2024-09-06T05:27:31.242Z
 tags:
   - mobile
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff75322d1f48a2d2f5ab495fd.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New California Law Endorses Mobile Authentication: Embracing Digital ID Apps on Android Devices
 
 Carrying our IDs in a digital manner in our smartphones is pretty cool, but we can't do that with every single card just yet. Now, though, one more state is being added to the list: California.
@@ -110,7 +116,3 @@ Carrying our IDs in a digital manner in our smartphones is pretty cool, but we c
 <li><a href="https://fox-that.techidaily.com/troubleshooting-depth-effect-issues-on-ios-16-lockscreen-discover-7-solutions/"><u>Troubleshooting Depth Effect Issues on iOS 16 Lockscreen: Discover 7 Solutions</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/updated-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success-for-2024/"><u>Updated Unlocking TalkShopLive Pros and Tips for Live Shopping Success for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Phasing Out of Tor Browser on Windows 8 Platform: What's Next?"
-date: 2024-09-01T01:18:09.797Z
-updated: 2024-09-02T01:18:09.797Z
+date: 2024-09-05T05:27:30.089Z
+updated: 2024-09-06T05:27:30.089Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37948432465f45718cb2abd14.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Phasing Out of Tor Browser on Windows 8 Platform: What's Next?
 
 Tor Browser 13.5 is now available for desktop and mobile devices. This update refines some of the changes that were introduced in Tor Browser 13.0, specifically window letterboxing on desktop, and lays the groundwork for Connection Assist support in the Android-based Tor Browser. This will also be the last release for PCs running Windows 8.1 or older, and macOS 10.14 and older.
@@ -108,7 +114,3 @@ Close
 <li><a href="https://some-guidance.techidaily.com/unlock-your-movies-gratis-player-for-windowsmacos-for-2024/"><u>Unlock Your Movies  Gratis Player for Windows/MacOS for 2024</u></a></li>
 <li><a href="https://buynow-tips.techidaily.com/unveiling-power-and-panache-an-insightful-review-of-the-apple-imac-215-with-stunning-4k-resolution/"><u>Unveiling Power and Panache: An Insightful Review of the Apple iMac 21.5 with Stunning 4K Resolution</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->

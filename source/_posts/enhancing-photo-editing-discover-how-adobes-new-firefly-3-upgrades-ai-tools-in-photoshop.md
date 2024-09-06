@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Photo Editing: Discover How Adobe's New Firefly 3 Upgrades AI Tools in Photoshop"
-date: 2024-08-27 22:39:19
-updated: 2024-08-29 10:20:25
+date: 2024-09-05T05:27:04.239Z
+updated: 2024-09-06T05:27:04.239Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5a9a2ad4f10fdb3f8f16d4fd.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing Photo Editing: Discover How Adobe's New Firefly 3 Upgrades AI Tools in Photoshop
 
 Adobe's Photoshop CC 2024 release was a big update. While Adobe had already started playing around with AI features, last year's release was the first one to properly be outfitted for the generative AI era. The new "generative fill" feature allowed you to use AI to change parts of an image, expand images, and overall edit images to your will using AI. Now, a better version of this feature is coming to Photoshop's upcoming 2025 release.
@@ -19,6 +31,12 @@ Adobe's Photoshop CC 2024 release was a big update. While Adobe had already star
 
 ![Generate Similar_Heirloom Tomato](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/generate-similar_heirloom-tomato.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Adobe
 
  Generate Image allows users to just generate an image completely from scratch, like DALL-E 3 does, while Reference Image will allow you to take an existing image as reference for an AI generation. Generate Similar and Enhance Detail are also self-describing. Other additions include Adjustment Brush, Improved Font Browser, and Adjustment Presets.
@@ -41,3 +59,53 @@ Adobe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-software-for-mp4-recording/"><u>[New] 2024 Approved  The Ultimate Software for MP4 Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quiet-your-feed-stop-instagrams-suggestion-system/"><u>[New] In 2024, Quiet Your Feed  Stop Instagram's Suggestion System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>[Updated] 2024 Approved  Securely Growing Your Channel's Popularity  A One-Million Goal Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free/"><u>[Updated] In 2024, Cloaked Consumption  The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-top-mobile-apps-for-flawless-snapchat-story-filters-and-effects/"><u>[Updated] In 2024, Top Mobile Apps for Flawless Snapchat Story Filters & Effects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-most-popular-image-stickering-apps-iosandroid-edition-for-2024/"><u>[Updated] Most Popular Image Stickering Apps – iOS/Android Edition for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-estimate-income-from-youtube-video-snippets/"><u>2024 Approved  How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/affordable-and-powerful-open-source-options-to-replace-adobe-design-tools-in-windows-environment/"><u>Affordable and Powerful Open Source Options to Replace Adobe Design Tools in Windows Environment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/bridging-operating-systems-utilizing-wsl-for-running-ubuntu-apps-on-windows-11/"><u>Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprehensive-tutorial-adjusting-system-time-and-date-with-timedatectl-in-linux-systems/"><u>Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/dynamic-lighting-feature-available-on-logitech-accessories-with-windows-11/"><u>Dynamic Lighting Feature Available on Logitech Accessories with Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/efficiently-refresh-your-ubuntus-dns-cache-a-comprehensive-tutorial/"><u>Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/efficiently-rename-your-files-with-these-powerful-powershell-tips-and-techniques/"><u>Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-productivity-with-microsoft-copilot-tips-for-seamless-setup-on-a-mac-computer/"><u>Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/game-to-video-magic-full-obs-guide-for-ps4-recording/"><u>Game-to-Video Magic  Full OBS Guide for PS4 Recording</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g34-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G34 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-xs-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone XS Max with iTunes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-years-leading-tweets-on-twittersphere-viewer-counts/"><u>In 2024, Year's Leading Tweets on Twittersphere Viewer Counts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-file-permissions-in-linux-a-guide-to-suid-sgid-and-sticky-bit-settings/"><u>Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-the-underworld-of-pcs-explore-5-essential-terminal-commands-for-enhanced-system-control-on-windows/"><u>Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/microsoft-prepares-to-discontinue-paint-3d-what-it-means-for-users-and-creators/"><u>Microsoft Prepares to Discontinue Paint 3D – What It Means for Users and Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/move-beyond-windows-emulators-top-online-retailers-offering-authentic-linux-gaming-experiences/"><u>Move Beyond Windows Emulators: Top Online Retailers Offering Authentic Linux Gaming Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/nvidia-streamlines-its-array-of-pc-software-offerings/"><u>NVIDIA Streamlines Its Array of PC Software Offerings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimizing-system-speed-essential-steps-to-slim-down-windows-11/"><u>Optimizing System Speed: Essential Steps to Slim Down Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/speedy-strategies-find-any-exe-file-on-windows-1nus-plus-swiftly-and-easily/"><u>Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/stay-protected-a-guide-to-risk-free-software-download-practices/"><u>Stay Protected: A Guide to Risk-Free Software Download Practices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-discovering-and-organizing-images-on-your-windows-10-computer/"><u>Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-empower-your-pc-with-vivetool-for-cutting-edge-windows-functions/"><u>Step-by-Step Guide: Empower Your PC with ViVeTool for Cutting-Edge Windows Functions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-uncovering-the-secrets-of-your-windows-11-activation-code/"><u>Step-by-Step Guide: Uncovering the Secrets of Your Windows 11 Activation Code</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/streamline-your-arch-linux-experience-how-to-prevent-pacman-mishaps-with-smart-mirror-update-automation/"><u>Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/struggling-with-missing-migrated-documents-in-linux-examine-splits-and-directories/"><u>Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-rise-of-the-slabtop-revolutionary-ideas-for-personalizing-your-apple-laptops-design/"><u>The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency-discover-how/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency - Discover How!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-breakdown-of-preinstalled-applications-in-specific-windows-11-machines/"><u>Troubleshooting Breakdown of Preinstalled Applications in Specific Windows 11 Machines</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-why-wont-my-new-ssd-appear-on-windows-discover-solutions/"><u>Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ubuntu-tips-concealing-taskbar-and-launcher-a-comprehensive-guide/"><u>Ubuntu Tips: Concealing Taskbar & Launcher - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-90-gt-by-fonelab-android-recover-video/"><u>Undeleted lost videos from 90 GT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-quicktime-player-a-comprehensive-guide/"><u>Understanding QuickTime Player: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-role-of-ntuserdat-in-windows-systems/"><u>Understanding the Role of NTUSER.DAT in Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/upgrade-now-secure-your-windows-11-professional-copy-with-a-staggering-87-savings-opportunity/"><u>Upgrade Now: Secure Your Windows 11 Professional Copy with a Staggering 87% Savings Opportunity!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/why-microsofts-upscaler-is-essential-the-key-attraction-of-upgrading-to-a-copilotplus-gaming-pc/"><u>Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-11-clipboard-privacy-how-to-securely-wipe-out-past-copied-data/"><u>Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-11-enhances-convenience-seamlessly-connect-and-control-your-smartphone-directly-from-the-start-menu/"><u>Windows 11 Enhances Convenience: Seamlessly Connect and Control Your Smartphone Directly From the Start Menu</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-11-enhances-photos-application-with-key-visual-interface-upgrades/"><u>Windows 11 Enhances Photos Application with Key Visual Interface Upgrades</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-based-arm-desktops-powered-by-qualcomm-revolutionize-computing/"><u>Windows-Based ARM Desktops Powered by Qualcomm Revolutionize Computing</u></a></li>
+</ul></div>

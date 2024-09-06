@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2024-09-01T01:18:11.255Z
-updated: 2024-09-02T01:18:11.255Z
+date: 2024-09-05T05:27:30.103Z
+updated: 2024-09-06T05:27:30.103Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/authy.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Possible Authy Security Breach Exposes Users' Phone Numbers
 
 Authy is one of the best authentication services out there, as well as one of the most used. Given that, it would be absolutely catastrophic if someone managed to get a hold of internal data from that service that belongs to user. It seems like it kind of happened.
@@ -96,7 +102,3 @@ Authy is one of the best authentication services out there, as well as one of th
 <li><a href="https://instagram-clips.techidaily.com/the-straightforward-guide-for-instagram-chat-beginners-for-2024/"><u>The Straightforward Guide for Instagram Chat Beginners for 2024</u></a></li>
 <li><a href="https://win-dash.techidaily.com/troubleshooting-and-correcting-logitech-f710-mouse-drivers-across-various-windows-platforms/"><u>Troubleshooting and Correcting Logitech F710 Mouse Drivers Across Various Windows Platforms</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

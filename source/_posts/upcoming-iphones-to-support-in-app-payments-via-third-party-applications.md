@@ -1,7 +1,7 @@
 ---
 title: Upcoming iPhones to Support In-App Payments via Third-Party Applications
-date: 2024-09-01T01:20:03.490Z
-updated: 2024-09-02T01:20:03.490Z
+date: 2024-09-05T05:27:31.443Z
+updated: 2024-09-06T05:27:31.443Z
 tags:
   - mobile
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53213586619_ce8a78806c_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upcoming iPhones to Support In-App Payments via Third-Party Applications
 
 Third-party apps will soon gain access to the iPhone's advanced NFC and tap-to-pay functionality. Additionally, Apple will allow you to choose which NFC app opens when you double-tap the iPhone's power button.
@@ -98,7 +104,3 @@ Source: [Apple](https://www.apple.com/newsroom/2024/08/developers-can-soon-offer
 <li><a href="https://extra-hints.techidaily.com/visualizing-success-designing-captivating-teasers-and-trailers-for-your-podcasts/"><u>Visualizing Success  Designing Captivating Teasers and Trailers for Your Podcasts</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-magic-5-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Magic 5 Pro Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

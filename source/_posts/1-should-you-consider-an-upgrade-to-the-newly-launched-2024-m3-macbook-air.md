@@ -1,7 +1,7 @@
 ---
 title: 1. Should You Consider an Upgrade to the Newly Launched 2024 M3 MacBook Air?
-date: 2024-09-01T01:20:49.999Z
-updated: 2024-09-02T01:20:49.999Z
+date: 2024-09-05T05:27:32.043Z
+updated: 2024-09-06T05:27:32.043Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-macbook-air-m3-2024.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1. Should You Consider an Upgrade to the Newly Launched 2024 M3 MacBook Air?
 
 ### Quick Links
@@ -18,6 +24,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Should You Upgrade From an M1 MacBook Air?](https://tech-savvy.techidaily.com/decoding-claude-3s-features-and-potential/)
 * [Should You Upgrade From an Intel MacBook Air?](https://extra-approaches.techidaily.com/in-2024-mastering-image-merging-techniques/)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The M3 MacBook Air offers improved graphics performance, supports dual external monitors, and has a faster SSD than the M2 version.
@@ -26,6 +44,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The 2024 MacBook Air runs on Apple's M3 chip and is the most powerful model in the range to date. Does that mean you should upgrade from your existing MacBook Air? Let's take a look.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What's New in the M3 MacBook Air?
 
  The main selling point of the 2024 MacBook Air is that it brings Apple's M3 system-on-a-chip (SoC) to the series for the first time.
@@ -34,9 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Apple MacBook Air M3 2024 using two external monitors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-macbook-air-m3-2024-using-two-external-monitors.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Apple
 
  The M3 Air introduces a few other features. While the previous Apple Silicon Airs only supported one external monitor plus the display, you can connect two external displays to the M3 Air. You have to keep the lid closed, though. There's still no option for a third display, but this is a handy upgrade for those who prefer a multi-monitor setup.
@@ -44,16 +65,10 @@ Apple
  There's also a dedicated chip to provide hardware decoding for [the up-and-coming AV1 video codec](https://fox-info.techidaily.com/new-2024-approved-foundational-approach-to-gradual-volume-adjustment/), improved audio quality in FaceTime video calls, and [support for Wi-Fi 6E](https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/).
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  What Hasn't Changed?
 
@@ -67,9 +82,6 @@ Marcus Mears III / How-To Geek
 
  The thing about Apple Silicon Macs is that the RAM and SSD are soldered to the motherboard, so you cannot upgrade them at a later date. You have to buy what you need. The upgrade options are the same as before, and quite pricey—doubling the storage adds $200 to the price, and doubling both storage and memory adds $400.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Upgrade From an M2 MacBook Air?
 
  If you bought a base M2 MacBook Air and immediately found that you needed more RAM or storage, then, sure, go for the upgrade. You'll still get a great price selling your M2 Air to partly fund it. Otherwise, the differences are just too small to make it worthwhile.
@@ -80,18 +92,12 @@ Marcus Mears III / How-To Geek
 
  Is that enough to justify an upgrade? Not really. In truth, the speed difference is unlikely to be that noticeable in general use, and there's not much wisdom in upgrading from one base model to another so soon.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Upgrade From an M1 MacBook Air?
 
  The differences between the M3 and M1 MacBook Air are much greater. The newer SoC gives you a faster processor, better graphics performance, and a much more powerful Neural Engine for AI work. Overall, Apple claims that it's 60% faster than the M1.
 
 ![The difference between an M1 and M3 MacBook Air.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-showing-the-difference-between-an-m1-and-m3-macbook-air.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Apple
 
  And there are several smaller upgrades that collectively add up to quite a lot, like a MagSafe charging cable, a full HD webcam, and even the option of a 15-inch model (the M1 was limited to 13 inches). You also get a notch at the top of the display, which is not to everyone's taste.
@@ -99,7 +105,10 @@ Apple
  Yet the M1 MacBook Air is still going strong. The first generation of Apple Silicon was such a leap forward that it still delivers outstanding performance four years after its launch. Unless you have specific needs that the hardware can't handle—mostly that you need a memory or storage upgrade, as with the M2 model—then it should have plenty more life in it yet.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Upgrade From an Intel MacBook Air?
 
@@ -109,6 +118,12 @@ Apple
 
 ![How the performance of an M3 MacBook Air compares to an Intel MaxBook Air.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-showing-how-the-performance-of-an-m3-macbook-air-compares-to-an-intel-macbook-air.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Throw in the Neural Engine for AI and machine learning, which will become increasingly important, the better screen, improved webcam, and so on, and that upgrade is starting to look pretty enticing.
 
  Apple is looking to move beyond the Intel era and have all of its products powered by its own chips. [Ars Technica](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/) ran the numbers and concluded that the Intel MacBooks might not be updated beyond macOS 15 in 2024, and certainly not much after 2025\. The impending end of support definitely counts among the [reasons to upgrade your Mac](https://audio-editing.techidaily.com/new-in-2024-dissecting-sound-forge-an-experts-guide-to-audio-mastery/).

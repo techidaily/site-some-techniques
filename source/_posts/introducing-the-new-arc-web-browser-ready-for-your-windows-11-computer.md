@@ -1,7 +1,7 @@
 ---
 title: Introducing the New Arc Web Browser – Ready for Your Windows 11 Computer!
-date: 2024-09-01T01:17:57.500Z
-updated: 2024-09-02T01:17:57.500Z
+date: 2024-09-05T05:27:29.941Z
+updated: 2024-09-06T05:27:29.941Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/arc-browser.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing the New Arc Web Browser – Ready for Your Windows 11 Computer!
 
 Arc, a free web browser developed by The Browser Company, is now available on Windows 10\. The only caveat is that it doesn't work on Windows 10 build 1809, which Microsoft doesn’t support either.
@@ -19,6 +25,12 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 
 ![Arc browser running on macOS 13 Ventura](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/arc_browser_featured.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Arc is a new Chromium-based browser released in April 2022 that supports Chrome browser extensions from the Chrome Web Store out of the box. The app comes with [some interesting integrations](https://arc.net/integrations), like the ability to change visual elements of any page, with built-in apps hosted in a sidebar. In addition to Windows 10, Arc is available on iOS, iPadOS, macOS, iOS, and Windows 11\. Linux and Android are unsupported at the moment, but you can sign up for an [Android waitlist](https://browserco.typeform.com/to/i5p2MBU5) or a [Windows on ARM waitlist](https://browserco.typeform.com/Arc-Windows-ARM) to stay informed about when those versions will become available.
 
  Due to Apple's requirements, the iOS and iPadOS versions use Safari's WebKit layout engine. However, that could change for customers in the European Union, where Apple now permits third-party browsers with custom engines. For further information about the browser and what you can do with it, be sure to [peruse our Arc review](https://instagram-video-recordings.techidaily.com/the-art-of-sharing-horizontals-in-igtvs-vertical-world/).
@@ -77,7 +89,3 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 <li><a href="https://some-techniques.techidaily.com/in-2024-innovative-drone-archetypes/"><u>In 2024, Innovative Drone Archetypes</u></a></li>
 <li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-mms-a-comprehensive-guide-on-activating-multimedia-messaging/"><u>Unlocking the Power of MMS: A Comprehensive Guide on Activating Multimedia Messaging</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->

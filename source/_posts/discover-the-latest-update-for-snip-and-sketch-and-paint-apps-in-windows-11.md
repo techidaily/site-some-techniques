@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Update for Snip & Sketch and Paint Apps in Windows 11!
-date: 2024-09-01T01:22:06.861Z
-updated: 2024-09-02T01:22:06.861Z
+date: 2024-09-05T05:27:33.071Z
+updated: 2024-09-06T05:27:33.071Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover the Latest Update for Snip & Sketch and Paint Apps in Windows 11!
 
 Snipping Tool and Paint have already received several updates in Windows 11, but Microsoft isn’t stopping there. More changes are on the way, including new tools and emoji in Snipping Tool.
@@ -19,6 +31,12 @@ Snipping Tool and Paint have already received several updates in Windows 11, but
 
 ![Screenshot of Snipping Tool with emojis over a text chat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/untitled.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2024/05/09/snipping-tool-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 
  Snipping Tool can also now detect [QR codes](https://android-unlock.techidaily.com/how-to-change-lava-yuva-3-lock-screen-password-by-drfone-android/) in screenshots and provide a button for following the code’s link. If you see a QR code on your PC today that doesn’t have a clickable link version, there’s no built-in way to follow the link—this seems to be Microsoft’s solution to that issue. You still have to take the screenshot first, but at least you don’t need a third-party tool for it anymore.
@@ -27,6 +45,18 @@ Snipping Tool and Paint have already received several updates in Windows 11, but
 
 ![Snipping Tool screenshot with paint brush menu open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/untitled-2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2024/05/09/snipping-tool-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 
  Meanwhile, [the “Cocreator” AI image generation feature](https://tech-hub.techidaily.com/resolving-in-transit-issues-in-gpt-conversations/) in Paint is being renamed to “Image Creator.” That’s the same name Microsoft has settled on for its other AI image tools, so it makes sense to give Paint’s feature the same name. [Bing’s AI image generator](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/) was rebranded to “Image Creator from Designer” a while ago, for example. The actual functionality in Paint hasn’t changed, though.
@@ -94,7 +124,3 @@ Snipping Tool and Paint have already received several updates in Windows 11, but
 <li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-m14-4g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy M14 4G FRP</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-x7b-by-drfone-android/"><u>Three Ways to Sim Unlock Honor X7b</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

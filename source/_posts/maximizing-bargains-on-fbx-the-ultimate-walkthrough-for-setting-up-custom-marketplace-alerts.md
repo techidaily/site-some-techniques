@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Bargains on FBX: The Ultimate Walkthrough for Setting Up Custom Marketplace Alerts"
-date: 2024-09-01T01:18:37.544Z
-updated: 2024-09-02T01:18:37.544Z
+date: 2024-09-05T05:27:30.398Z
+updated: 2024-09-06T05:27:30.398Z
 tags:
   - web
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1ef1aeadb85afda988825dc9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Maximizing Bargains on FBX: The Ultimate Walkthrough for Setting Up Custom Marketplace Alerts
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Facebook Marketplace alerts help you find items quickly.
@@ -29,18 +41,48 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
 ![Search for an item.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-20_16-11-28.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now click the "Notify Me" button under the search bar.
 
 ![Click "Notify Me."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-20_16-09-29.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A little pop-up window will appear. Enter a minimum and maximum price and adjust the search radius if you'd like. Click "Create Alert" to finish.
 
 ![Fill out the search terms and click "Create Alert."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-20_16-12-27.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To edit or remove an alert, do the search again and click "Edit Alert." You'll have the option to adjust the parameters or "Remove Alert."
 
 ![Click "Remove Alert."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-20_16-16-57.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's all there is to it![Facebook Marketplace has a lot of advantages](https://extra-guidance.techidaily.com/masterful-marketing-essential-expressions-for-professionals-for-2024/) over Craigslist—though it's [certainly not perfect](https://fox-access.techidaily.com/updated-transform-overload-into-order-with-skillful-tiktok-saves-edits-for-2024/). If you do a lot of shopping in the Marketplace, you should take advantage of the alert feature.
 
 <ins class="adsbygoogle"
@@ -95,8 +137,3 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 <li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-a2plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi A2+ Reset Code | Dr.fone</u></a></li>
 <li><a href="https://driver-install.techidaily.com/tp-links-usb-wi-fi-driver-fast-download-for-pc-users/"><u>TP Link's USB Wi-Fi Driver: Fast Download for PC Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->

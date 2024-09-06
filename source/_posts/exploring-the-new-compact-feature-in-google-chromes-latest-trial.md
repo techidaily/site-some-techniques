@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Compact Feature in Google Chrome's Latest Trial
-date: 2024-09-01T01:18:27.666Z
-updated: 2024-09-02T01:18:27.666Z
+date: 2024-09-05T05:27:30.277Z
+updated: 2024-09-06T05:27:30.277Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/google-chrome-hero.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exploring the New Compact Feature in Google Chrome's Latest Trial
 
 Google Chrome’s default design has a lot of padding, which is great for touchscreens and larger monitors, but not so much for smaller and lower-resolution screens. Google is now trying to fix that with a new ‘Compact Mode’ option.
@@ -79,7 +85,3 @@ Google Chrome’s default design has a lot of padding, which is great for touchs
 <li><a href="https://hardware-updates.techidaily.com/more-than-15000-employees-face-job-loss-as-intel-hits-manufacturing-snags-with-meteor-lake-dividend-payments-on-pause/"><u>More than 15,000 Employees Face Job Loss as Intel Hits Manufacturing Snags with Meteor Lake; Dividend Payments on Pause</u></a></li>
 <li><a href="https://extra-hints.techidaily.com/top-4-sites-for-free-skype-tones/"><u>Top 4 Sites for Free Skype Tones</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

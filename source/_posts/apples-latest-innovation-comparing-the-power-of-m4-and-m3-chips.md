@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2024-09-01T01:20:57.463Z
-updated: 2024-09-02T01:20:57.463Z
+date: 2024-09-05T05:27:32.147Z
+updated: 2024-09-06T05:27:32.147Z
 tags:
   - desktop
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b1e2596cca527bf6aeb943f1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Introducing Apple M4 Silicon](https://facebook.techidaily.com/why-and-how-to-embrace-facebooks-latest-privacy-controls/)
@@ -29,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Introducing Apple M4 Silicon
 
@@ -38,7 +59,10 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 ![Apple's M4 Silicon mascot on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-chip-announced-with-2024-ipad-pro.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Apple
 
@@ -62,9 +86,6 @@ Apple
 
  Another Geekbench listing (spotted by [MacRumors](https://www.macrumors.com/2024/05/13/m4-chip-9-core-cpu-benchmark-result/)) reveals that the lower-specced M4 (with a nine-core CPU) is about 13% faster than the M3 chip in multi-core tasks. Even though the scores are from different devices, they give us a fair idea of M4's peak performance, which should also reflect in day-to-day usage. Moreover, we're looking at around 13 to 20% improvements, which might not sound incredible on paper but certainly aren't worth overlooking either.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  M4's GPU Gets an Incremental Update
 
  In the official [press release](https://www.apple.com/in/newsroom/2024/05/apple-introduces-m4-chip/), Apple mentions that the M4's 10-core GPU "builds on the next-generation GPU architecture introduced in M3." However, the two GPUs look quite similar on paper. Both the M4 and the M3 feature a 10-core GPU that supports advanced features like mesh shading and [hardware-accelerated ray tracing](https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-premium-androidpc-video-editors/). While these features are new to the iPad, they have been around on M3-powered MacBooks for a while. The new chip also features Dynamic Caching.
@@ -77,15 +98,18 @@ Apple
 
  On the brighter side, the M4's media engine now supports hardware-accelerated 8K H.264, HEVC, ProRes, and ProRes RAW formats, a clear upgrade over [2023's M3 chip](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What About the M4's Neural Engine?
 
  With [generative AI features right around the corner](https://sound-issues.techidaily.com/fixing-headphone-issues-on-windows-11-a-step-by-step-guide/), Apple is focusing heavily on the M4's Neural Engine. The new 16-core Neural Engine can perform up to 38 trillion operations per second (TOPS), compared to 18 TOPS for the 16-core Neural Engine on the M3 Silicon. Apple claims that the new Neural Engine is "faster than the neural processing unit of any AI PC today."
 
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 Apple
 
  However, a report by [Tom's Hardware](https://tools.techidaily.com)highlights how the M3 and M4 Silicon are rated using different computing standards. While Apple rated the M3 using FP16 (half-precision floating-point), the M4 is rated with INT8 (Integer 8-bit). Equalizing both chips' to INT8 precision, the publication concludes that the Neural Engine on the M4 is about 5% more powerful than the M3 (in terms of TOPS).
@@ -93,7 +117,10 @@ Apple
  Another report by [MacWorld](https://www.macworld.com/article/2328448/m4-ipad-pro-benchmarks-single-multi-core-neural-engine-scores.html) claims that the new chip scores about 12% more points in the Geekbench ML test than the baseline M3\. However, since the variant listed on Geekbench features 16GB of RAM, the one with 8GB of RAM won't perform as well. To sum up, the Neural Engine on the M4 Silicon is more powerful than the one on the M3, but not by a significant margin.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Is M4 More Efficient Than M3?
 
@@ -105,6 +132,12 @@ Apple
 
  Nonetheless, the M4 iPad Pro has become the longest-lasting iPad in [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs) tests, indicating that the chipset is indeed more efficient.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  M4 on MacBooks? It Might Happen Soon
 
  As noted, this is the first time Apple has debuted a new M-series chip in an iPad. Usually, new Apple Silicon chips debut in MacBooks, but that didn't happen this year. However, according to [Bloomberg's](https://www.bloomberg.com/news/articles/2024-04-11/apple-aapl-readies-m4-chip-mac-line-including-new-macbook-air-and-mac-pro) Mark Gurman, the first MacBooks to receive the M4 chip should arrive by the end of this year. These will include the 14-inch and 16-inch MacBook Pro models and the Mac mini.
@@ -113,9 +146,6 @@ Apple
 
 ![Apple's M3 Max MacBook Pro in Space Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/apple-m3-max-macbook-pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Apple
 
  If you want an entry-level [MacBook Air powered by the baseline M3 chip](https://youtube-data.techidaily.com/ed-2024-approved-unveiling-the-mysteries-of-video-monetization/), go for it. Given that it has been a few good months since the launch, there's a chance that you may find the notebook at a discounted price. Further, it offers excellent performance, a day's worth of battery life, and several years of operating system updates.

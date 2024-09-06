@@ -1,7 +1,7 @@
 ---
 title: "Discover YouTube's New Experimental Feature: Automatic Video Pause at Bedtime"
-date: 2024-09-01T01:18:25.007Z
-updated: 2024-09-02T01:18:25.007Z
+date: 2024-09-05T05:27:30.255Z
+updated: 2024-09-06T05:27:30.255Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214fab450eba00af5408d5f618.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover YouTube's New Experimental Feature: Automatic Video Pause at Bedtime
 
 YouTube is home to content of all kinds, from short, fun videos to really long video essays. If you're falling asleep, the latter ones can be annoying, and autoplay can just go on for hours without any checking in. Now, YouTube is trying out a sleep timer to solve that problem.
@@ -84,7 +90,3 @@ YouTube is home to content of all kinds, from short, fun videos to really long v
 <li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-connecting-and-using-multiple-bluetooth-speakers-with-a-single-source/"><u>Step-by-Step Instructions on Connecting and Using Multiple Bluetooth Speakers with a Single Source</u></a></li>
 <li><a href="https://desktop-recording.techidaily.com/the-complete-lowdown-on-using-showmores-recorder-for-2024/"><u>The Complete Lowdown on Using ShowMore's Recorder for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->

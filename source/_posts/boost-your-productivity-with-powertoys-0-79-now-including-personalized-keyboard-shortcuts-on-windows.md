@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows"
-date: 2024-09-01T01:20:58.846Z
-updated: 2024-09-02T01:20:58.846Z
+date: 2024-09-05T05:27:32.161Z
+updated: 2024-09-06T05:27:32.161Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/347a25eb4f4bdd698c061d29a22709a4fba3cca9fc17f4dc1dd558be67ab5c6f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows
 
 PowerToys is a utility from Microsoft that adds some great productivity features to Windows. PowerToys 0.79 is now available to download with updates to keyboard mapping, the color picker, and more.
@@ -17,12 +23,24 @@ PowerToys is a utility from Microsoft that adds some great productivity features
 
 ![Keyboard mapping settings in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/clipboard-mar-4-2024-at-2-53-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The update also improves the color picker, which can pick colors from anywhere on the screen after using the keyboard shortcut Windows+Shift+C. The color picker now matches the Fluent UI in Windows 11, with a larger toolbar and buttons that match the current Windows icons. You can still customize the activation keyboard shortcut and which color formats (hex, RGB, CMYK, etc.) are displayed in the popup.
 
  The rest of the changes aren’t all that exciting, but they’re still useful. The Peek preview feature can now preview drives, File Locksmith now appears in the main Windows 11 context menu, several functions were fixed in PowerToys Run, and a memory leak with FancyZones was fixed. There are also several fixes for language localization and related bugs.
 
 ![Screenshot of color picker in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/clipboard-mar-4-2024-at-3-33-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  PowerToys is a great utility, but it’s a bit confusing that it’s a Microsoft-led project and most of its features haven’t been promoted to built-in Windows features. Windows 11 could definitely benefit from a system-wide color picker, or key remapping, or the ability to quickly preview files, but those functions still require PowerToys or a third-party utility. It’s a similar situation as [the “Good Lock” app](https://extra-skills.techidaily.com/in-2024-metaverse-mastery-rapidly-assemble-your-digital-self/) on Samsung Galaxy phones, which unlocks some hidden settings in the One UI operating system.
 
  You can [download PowerToys from the Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld), or you can [get the installer package from GitHub](https://github.com/microsoft/PowerToys/releases/latest/). You need Windows 11 or Windows 10 version 2004 to run it, on either a 64-bit x86 processor or a 64-bit ARM processor. It’s a great utility for any Windows PC, even if you only end up using a few of the available features.
@@ -96,7 +114,3 @@ PowerToys is a utility from Microsoft that adds some great productivity features
 <li><a href="https://facebook-record-videos.techidaily.com/streamline-your-youtube-channel-url-with-these-tips-for-2024/"><u>Streamline Your YouTube Channel URL with These Tips for 2024</u></a></li>
 <li><a href="https://win-answers.techidaily.com/ue4-b4b-gobi-error-expert-tips-to-resolve-and-prevent-critical-game-crashes/"><u>UE4 B4B Gobi Error: Expert Tips to Resolve and Prevent Critical Game Crashes</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->

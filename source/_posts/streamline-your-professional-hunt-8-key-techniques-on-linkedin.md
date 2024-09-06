@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Professional Hunt: 8 Key Techniques on LinkedIn"
-date: 2024-09-01T01:18:42.101Z
-updated: 2024-09-02T01:18:42.101Z
+date: 2024-09-05T05:27:30.455Z
+updated: 2024-09-06T05:27:30.455Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5debc2a4e7c75f671463eb2ab.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Streamline Your Professional Hunt: 8 Key Techniques on LinkedIn
 
 ### Quick Links
@@ -24,6 +30,12 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  LinkedIn is the social media for business, but using it to find a new job can be tricky. Don’t trust the default filters or the LinkedIn algorithm. Instead, you can narrow down your LinkedIn job searches using these tips.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  Use the Hidden Sort Feature to Sort Jobs by Date 
 
  If you use LinkedIn’s search tool to look for jobs, you’ll notice an odd order to them. Jobs you might want to apply for will be crowded out by sponsored posts and other posts that the algorithm might deem as being more important. This isn’t a good user experience. Most job hunters want to find the newest job ads first.
@@ -32,6 +44,18 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn job search with an arrow pointing at the All filters button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-select-all-filters-button.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From the pop-up menu, click the “Most recent” radio button underneath the “Sort by” options, then select “Show results” to update your results.
 
 ![A LinkedIn job search, with the filter panel showing steps to sort by most recent.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-filter-job-results-by-most-recent.png) 
@@ -39,7 +63,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
  Your job search results will update immediately to show the earliest results starting from the top.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2  Use Advanced Search Operators 
 
@@ -55,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  You can use one or a combination of these to help narrow down your searches. These work across the LinkedIn search tool, so they will help you narrow down job searches, posts, events, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  Set Up Job Alerts for Searches 
 
  Want to keep an eye out for job ads that match your role? You can set up a job alert. LinkedIn will send you notifications on LinkedIn and via email when new jobs appear that match your search criteria.
@@ -66,12 +90,33 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn job search with an arrow pointing at the "Set alert" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-enable-job-alert.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can repeat this for other variations of your job title. Once activated, you can check your list of job searches by clicking the "Jobs" icon at the top. Your list of job searches will appear on the next page, where you can monitor them manually or edit or remove the alerts at a later date.
 
 ![A saved job search on LinkedIn in the Jobs section of the website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-show-saved-job-alerts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4  Filter Out Older Job Posts 
 
@@ -81,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![An example LinkedIn job search, with arrows pointing at the steps to narrow down a search result using the Date Posted filter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-narrow-job-searches-by-date-added.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  Filter by Number of Current Applicants 
 
  LinkedIn keeps a note of how many people apply for a job through its platform. It isn’t foolproof and may contain some false positives, but you can use this data to filter out posts that have ten or fewer applicants. Fewer applicants might mean that the job is more competitive to apply for.
@@ -92,9 +134,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![An example LinkedIn job search, with arrows showing the steps to apply the 'Under 10 Applicants' filter to narrow down the search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-enable-low-applicants-filter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6  Search for Specific Businesses 
 
  Is your heart set on a job with a specific company? You can use LinkedIn to only show jobs from that employer.
@@ -107,9 +146,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  Alternatively, you could use the AND search operator in your job search, but it's important to note that this won't guarantee to limit jobs from a single employer. A good example is Microsoft. Searching for IT Engineer AND Microsoft should locate jobs that include both IT Engineer and Microsoft in the ad. However, a job ad might mention Microsoft in the ad itself because job roles like Microsoft 365 Engineer exist.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7  Set Up Your Profile to Use the Easy Apply Function 
 
  Your LinkedIn profile isn’t just a way for potential employers to check you out. You can use it yourself to fill out job applications that support LinkedIn’s “Easy Apply” feature. Easy Apply allows you to apply for jobs without leaving LinkedIn, using the data on your profile to fill out the application.
@@ -123,7 +159,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ![A LinkedIn job search, filtered by Easy Apply ads only, with arrows pointing at the options to filter the results and apply for jobs with the Easy Apply functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-easy-apply-button-example.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8  Search for Hiring Posts 
 
@@ -135,12 +174,33 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn example search showing various types of search results, with arrows pointing to select the Posts option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-search-and-select-posts.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It’s not wise to trust the order of posts here, so bypass the algorithm by clicking the “Sort” button at the top, selecting “Latest”, then choosing “Show Results” to update the list of posts.
 
 ![A LinkedIn posts search, with arrows pointing at the options to sort the search results by the latest options first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-posts-search-filter-by-latest.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can then look through the posts made by employers looking for new jobs. If any of them take your interest, you can message the poster director or follow the instructions on the post they’ve made to apply for the job.
 

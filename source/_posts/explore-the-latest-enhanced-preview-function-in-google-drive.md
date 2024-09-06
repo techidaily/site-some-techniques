@@ -1,7 +1,7 @@
 ---
 title: Explore the Latest Enhanced Preview Function in Google Drive
-date: 2024-09-01T01:17:56.344Z
-updated: 2024-09-02T01:17:56.344Z
+date: 2024-09-05T05:27:29.925Z
+updated: 2024-09-06T05:27:29.925Z
 tags:
   - web
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-1.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Explore the Latest Enhanced Preview Function in Google Drive
 
 Google is constantly rolling out new features and changes to Drive, Docs, Sheets, Slides, and the rest of the Workspace suite. Now, a helpful preview feature has arrived in the Drive desktop web app.
@@ -17,6 +29,12 @@ Google is constantly rolling out new features and changes to Drive, Docs, Sheets
 
 ![Google Drive screenshot showing a preview of a Docs file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/preview-files-in-google-drive-with-new-hovercard-feature-55-dragged.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  The new previews are similar to the cards that already appear when hovering over external links in Docs, Sheets, or Slides documents. Hovering over an image file will show a small preview, hovering over a Docs file reveals a snippet of the first page, and so on. The previews aren’t interactive, though—if you want to scroll through a Docs or Sheets file, for example, you’ll have to open it as usual. The info panel will also still be required to see detailed information about the file and how it is shared.
@@ -83,7 +101,3 @@ Google
 <li><a href="https://program-issues.techidaily.com/optimizing-performance-fix-fluctuating-fps-and-lags-in-new-world/"><u>Optimizing Performance: Fix Fluctuating FPS and Lags in New World</u></a></li>
 <li><a href="https://facebook-video-content.techidaily.com/social-spectacle-snatcher-for-2024/"><u>Social Spectacle Snatcher for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->

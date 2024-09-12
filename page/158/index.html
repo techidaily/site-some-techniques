@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"some-techniques.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -264,8 +321,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="Some Techniques" type="application/atom+xml">
 </head>
 
@@ -709,8 +764,7 @@
 
                     <div class="home-article-content markdown-body">
                         
-                            ABBYY’s Smart Intelligence: Catalyzing Enterprise Digitization and Streamlining ProcessesBack to Newsroom 
-Intelligent captur...
+                            ABBYY’s Smart Intelligence: Catalyzing Enterprise Digitization and Streamlining ProcessesBack to Newsroom Intelligent captur...
                         
                     </div>
 
@@ -773,8 +827,7 @@ Intelligent captur...
 
                     <div class="home-article-content markdown-body">
                         
-                            ABBYY Study Reveals Key Factors Influencing the Outcomes of Smart Process AutomationBack to Newsroom 
-ABBYY Survey Identifies...
+                            ABBYY Study Reveals Key Factors Influencing the Outcomes of Smart Process AutomationBack to Newsroom ABBYY Survey Identifies...
                         
                     </div>
 
@@ -837,8 +890,7 @@ ABBYY Survey Identifies...
 
                     <div class="home-article-content markdown-body">
                         
-                            ABBYY Mobile OCR Software Revolutionizes Portable Loan Verification - Fun and FastBack to Customer stories 
-Financial Service...
+                            ABBYY Mobile OCR Software Revolutionizes Portable Loan Verification - Fun and FastBack to Customer stories Financial Service...
                         
                     </div>
 
@@ -901,11 +953,7 @@ Financial Service...
 
                     <div class="home-article-content markdown-body">
                         
-                            税収管理革新：ABBYY、トッパン・フォームズが中野区及び京都電子計算との共同模型構築Back to Newsroom 
-ABBYY、中野区、京都電子計算、トッパン・フォームズの４社共同で税収業務改善モデルを構築12月6日, 2022
-
- 
-住民税収...
+                            税収管理革新：ABBYY、トッパン・フォームズが中野区及び京都電子計算との共同模型構築Back to Newsroom ABBYY、中野区、京都電子計算、トッパン・フォームズの４社共同で税収業務改善モデルを構築12月6日, 2022 住民税収...
                         
                     </div>
 
@@ -968,9 +1016,7 @@ ABBYY、中野区、京都電子計算、トッパン・フォームズの４社
 
                     <div class="home-article-content markdown-body">
                         
-                            「日本語対応インボーズ自動化 - ABBYYフレックスキャプチャで処理簡素化」ニュースルーム 
-請求書処理の自動化を実現する 「ABBYY FlexiCapture for Invoices」 ついに日本語の請求書対応が可能に！9月4日, 2020
-...
+                            「日本語対応インボーズ自動化 - ABBYYフレックスキャプチャで処理簡素化」ニュースルーム 請求書処理の自動化を実現する 「ABBYY FlexiCapture for Invoices」 ついに日本語の請求書対応が可能に！9月4日, 2020 ...
                         
                     </div>
 
@@ -1033,9 +1079,7 @@ ABBYY、中野区、京都電子計算、トッパン・フォームズの４社
 
                     <div class="home-article-content markdown-body">
                         
-                            Utilizing Cookiebot Technology for Improved User Tracking &amp; EngagementBack to ABBYY Blog 
-OCR Engine UpdateJune 04, 2014
-...
+                            Utilizing Cookiebot Technology for Improved User Tracking &amp; EngagementBack to ABBYY Blog OCR Engine UpdateJune 04, 2014 ...
                         
                     </div>
 
@@ -1098,8 +1142,7 @@ OCR Engine UpdateJune 04, 2014
 
                     <div class="home-article-content markdown-body">
                         
-                            Unlocking Advanced Efficiency: Leveraging ABBYY Vantage’s Hyperautomation, ML and NLP CapabilitiesWhitepaper
-How to Successfu...
+                            Unlocking Advanced Efficiency: Leveraging ABBYY Vantage’s Hyperautomation, ML and NLP CapabilitiesWhitepaper How to Successfu...
                         
                     </div>
 
@@ -1162,8 +1205,7 @@ How to Successfu...
 
                     <div class="home-article-content markdown-body">
                         
-                            Understanding Process Mining - When Does It Fall Short? Insights From Industry Experts at ABBYYBack to ABBYY Blog 
-What Is Pr...
+                            Understanding Process Mining - When Does It Fall Short? Insights From Industry Experts at ABBYYBack to ABBYY Blog What Is Pr...
                         
                     </div>
 
@@ -1226,8 +1268,7 @@ What Is Pr...
 
                     <div class="home-article-content markdown-body">
                         
-                            Transformation Von Herkömmlichen Zu Digitalisierten Geschäftsmodellen Durch AutomationBack to Webinars 
-Mit Automatisierung v...
+                            Transformation Von Herkömmlichen Zu Digitalisierten Geschäftsmodellen Durch AutomationBack to Webinars Mit Automatisierung v...
                         
                     </div>
 
@@ -1290,10 +1331,7 @@ Mit Automatisierung v...
 
                     <div class="home-article-content markdown-body">
                         
-                            Transform Your Images Into Editable Text on iPhone Using PDFScanPro App 
- 
-ABBYY FineReader PDFfor iOS
-Intelligent capture as...
+                            Transform Your Images Into Editable Text on iPhone Using PDFScanPro App ABBYY FineReader PDFfor iOS Intelligent capture as...
                         
                     </div>
 

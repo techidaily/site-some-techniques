@@ -1,7 +1,7 @@
 ---
 title: "Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily"
-date: 2024-09-05T05:27:32.601Z
-updated: 2024-09-06T05:27:32.601Z
+date: 2024-09-11T20:16:34.701Z
+updated: 2024-09-12T20:16:34.701Z
 tags:
   - desktop
 categories:
@@ -12,17 +12,12 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ## Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Find an EXE from a Shortcut](https://fox-direct.techidaily.com/extensive-circular-camera-assessment-for-2024/)
@@ -37,21 +32,29 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
  If you're doing advanced troubleshooting or configuration of a Windows 10 application and need to locate the program's EXE file in [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/), there's a quick way to do it if you have access to a shortcut. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Find an EXE from a Shortcut
 
  First, locate a shortcut that points to the application whose EXE you need to find, because you will need to open its properties window. If the shortcut is on your desktop, right-click it and select "Properties."
 
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
 
@@ -63,30 +66,26 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll be taken directly to the EXE's location in File Explorer.
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  If You Can't Find a Shortcut to Use
 
  If a shortcut to the program whose EXE you want to find isn't easily available, you should first check "C:\\Program Files" or "C:\\Program Files (x86)" on your machine to find the application's main program folder. Look for a folder with a name similar to the publisher of the program, or the name of the application itself. Open it, and you might find the EXE you're looking for inside.
@@ -96,19 +95,20 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
  Apps you install from the Microsoft Store, and their executables, are stored in "C:\\Program Files\\WindowsApps."
@@ -123,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,49 +132,18 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-strategies-for-fbx-gameplay-capture/"><u>[New] 2024 Approved  Expert Strategies for FBX Gameplay Capture</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-comprehensible-guide-to-instagrams-latest-updates-for-2024/"><u>[New] A Comprehensible Guide to Instagram's Latest Updates for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-audiovisual-debut-breakdown-for-2024/"><u>[New] Audiovisual Debut Breakdown for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-craft-the-perfect-blurred-photo-with-these-essentials/"><u>[New] Craft the Perfect Blurred Photo with These Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-choice-the-very-best-8-cameras-for-streamers/"><u>[New] Expert Choice  The Very Best 8 Cameras For Streamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-framefixer-feedback-complete-editor-analysis/"><u>[New] FrameFixer Feedback – Complete Editor Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-humor-highway-tailored-joke-routes-for-each-occasion/"><u>[New] Humor Highway  Tailored Joke Routes for Each Occasion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ignite-interest-a-list-of-30-video-themes/"><u>[New] Ignite Interest  A List of 30 Video Themes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-youtubes-frame-advantage-five-free-tools/"><u>[Updated] 2024 Approved  Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-augmenting-your-stardew-experience-with-seven-top-mods-for-2024/"><u>[Updated] Augmenting Your Stardew Experience with Seven Top Mods for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frame-your-shot-ultimate-software-guide-image-editors/"><u>[Updated] Frame Your Shot  Ultimate Software Guide Image Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-subdued-to-striking-the-art-of-post-color-correction/"><u>[Updated] From Subdued to Striking  The Art of Post-Color Correction</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-getting-unstuck-troubleshooting-absent-fb-vids/"><u>[Updated] Getting Unstuck  Troubleshooting Absent FB Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-glacial-glory-celebrating-olympic-champions-and-their-epic-slopesideshow-22/"><u>[Updated] Glacial Glory  Celebrating Olympic Champions & Their Epic Slopesideshow '22</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-real-time-broadcast-frameworks/"><u>[Updated] High-Quality Real-Time Broadcast Frameworks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-rated-10-online-subtitle-tools/"><u>[Updated] Highest-Rated 10 Online Subtitle Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-lgs-27uhd68-enhances-gaming-experience/"><u>[Updated] How LG's 27UHD68 Enhances Gaming Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-tools-for-creating-animation-with-models/"><u>[Updated] Ideal Tools for Creating Animation with Models</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immediate-view-of-windows-pics/"><u>[Updated] Immediate View of Windows Pics</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elevating-your-live-experience-with-recorded-content/"><u>[Updated] In 2024, Elevating Your Live Experience with Recorded Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-path-to-digital-riches-on-facebook/"><u>[Updated] In 2024, The Path to Digital Riches on Facebook</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-demystifying-the-use-of-slug-lines-in-film-scripts/"><u>2024 Approved  Demystifying the Use of Slug Lines in Film Scripts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/capturing-motion-spectacle-with-polaroid-camplus-cube/"><u>Capturing Motion Spectacle with Polaroid Cam+ Cube</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-website-optimization-boost-your-online-presence/"><u>Cookiebot-Driven Website Optimization: Boost Your Online Presence</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/"><u>Crafting Seamless Audiovisual Mixes in Audacity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-unmatched-gaming-at-a-bargain-with-the-ibuypower-custom-pc-comprehensive-analysis/"><u>Experience Unmatched Gaming at a Bargain with the Ibuypower Custom PC - Comprehensive Analysis</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-c22-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia C22 FRP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts-for-2024/"><u>Hustle Smart, Listen Hard  Top Tasks for Podcast Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-sites-to-discover-3d-golden-tinted-typography-for-2024/"><u>Ideal Sites to Discover 3D Golden Tinted Typography for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/image-ingenuity-optimal-apps-and-platforms-for-frames-to-photos-for-2024/"><u>Image Ingenuity  Optimal Apps and Platforms for Frames to Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immerse-audiences-integrating-sound-effectively-in-canva-films-for-2024/"><u>Immerse Audiences  Integrating Sound Effectively in Canva Films for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-magix-multimedia-software/"><u>In 2024, Evaluating MAGIX Multimedia Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expedited-files-scanning-on-windows-os/"><u>In 2024, Expedited Files Scanning on Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-huawei-p10s-network-performance-and-coverage/"><u>In 2024, Exploring Huawei P10's Network Performance & Coverage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-10-the-best-subtitles-tools/"><u>In 2024, Free Online 10  The Best Subtitles Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-high-quality-the-best-srt-translation-tools-ranked/"><u>In 2024, Free, High-Quality  The Best SRT Translation Tools Ranked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-performance-drone-gimbals/"><u>In 2024, High-Performance Drone Gimbals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-change-photo-color-like-a-pro/"><u>In 2024, How to Change Photo Color Like A Pro?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>In 2024, In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagram-the-ultimate-video-cropping-techniques/"><u>In 2024, Mastering Instagram  The Ultimate Video Cropping Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-5-time-lapse-screen-recorders/"><u>In 2024, Top 5 Time-Lapse Screen Recorders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analyzing-lgs-4k-wuhd-hdr-performance-for-2024/"><u>In Depth  Analyzing LG's 4K WUHD HDR Performance for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-overcoming-post-malfunctions-on-your-pc/"><u>Step-by-Step Solutions for Overcoming POST Malfunctions on Your PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-evolutionary-step-forward-for-microsofts-tablet-laptop-hybrid-a-comprehensive-review-of-the-surface-pro-grope-7/"><u>The Evolutionary Step Forward for Microsoft's Tablet-Laptop Hybrid - A Comprehensive Review of the Surface Pro Grope 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Unlock Without Password</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bypass-iphone-security-how-to-erase-and-restore-without-knowing-your-password/"><u>Bypass iPhone Security: How to Erase and Restore Without Knowing Your Password</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-if-youve-been-banned-from-contacting-via-imessage/"><u>Identifying If You've Been Banned From Contacting via iMessage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-create-standout-videos-with-these-top-7-free-thumbnail-builders/"><u>In 2024, Create Standout Videos with These Top 7 Free Thumbnail Builders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/market-opens-up-for-third-party-iphone-components-amidst-apples-revised-policy-on-device-part-replacements/"><u>Market Opens Up for Third-Party iPhone Components Amidst Apple's Revised Policy on Device Part Replacements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/retro-innovation-in-tech-experience-iphones-echo-of-the-original-macintosh/"><u>Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revamping-iphone-privacy-how-to-modify-your-device-lock-screen-pinpassword/"><u>Revamping iPhone Privacy: How to Modify Your Device Lock Screen PIN/Password</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/secrets-to-stunning-nightscape-shots-for-2024/"><u>Secrets to Stunning Nightscape Shots for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/system-hiccups-at-apple-lead-to-widespread-crashes-of-iphone-apps/"><u>System Hiccups at Apple Lead to Widespread Crashes of iPhone Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-arrival-of-samsung-galaxy-watch-7-latest-updates-and-features-unveiled/"><u>The Arrival of Samsung Galaxy Watch 7: Latest Updates and Features Unveiled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-14-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-a-comprehensive-guide/"><u>Tom's Tech Review: A Comprehensive Guide</u></a></li>
 </ul></div>
+

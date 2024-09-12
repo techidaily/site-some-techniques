@@ -1,7 +1,7 @@
 ---
 title: "Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line"
-date: 2024-09-05T05:27:33.254Z
-updated: 2024-09-06T05:27:33.254Z
+date: 2024-09-11T20:17:16.635Z
+updated: 2024-09-12T20:17:16.635Z
 tags:
   - desktop
 categories:
@@ -9,13 +9,14 @@ categories:
 thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,11 +24,18 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To lock your Windows PC using Command Prompt, run "**Rundll32.exe user32.dll,LockWorkStation"** in the Command Prompt
@@ -36,18 +44,25 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -55,12 +70,20 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -71,11 +94,12 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With Command Prompt open, run this command.
 
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
@@ -86,12 +110,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -108,8 +126,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,42 +135,19 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-spice-up-viewers-innovative-cooking-channel-naming-tips/"><u>[New] Spice Up Viewers  Innovative Cooking Channel Naming Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1724313515797-abbyy/"><u>「日本語対応インボーズ自動化 - ABBYYフレックスキャプチャで処理簡素化」</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-dialogue-dynamics-balancing-verisimilitude-and-style/"><u>2024 Approved  Dialogue Dynamics  Balancing Verisimilitude and Style</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unseen-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>2024 Approved  Unseen Yet Seen  How to Conceal Faces and Objects Digitally</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1724313546384-abbyy/"><u>税収管理革新：ABBYY、トッパン・フォームズが中野区及び京都電子計算との共同模型構築</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-finereader-beim-deutschen-patent-und-markenamt-volltextsuche-fur-eine-effiziente-dokumentation/"><u>ABBYY FineReader Beim Deutschen Patent- Und Markenamt - Volltextsuche Für Eine Effiziente Dokumentation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-flexicapture-cloud-terms-and-conditions-us-based-api-services/"><u>ABBYY FlexiCapture Cloud Terms and Conditions - US-Based API Services</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-mobile-ocr-software-revolutionizes-portable-loan-verification-fun-and-fast/"><u>ABBYY Mobile OCR Software Revolutionizes Portable Loan Verification - Fun and Fast</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-study-reveals-key-factors-influencing-the-outcomes-of-smart-process-automation/"><u>ABBYY Study Reveals Key Factors Influencing the Outcomes of Smart Process Automation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyys-smart-intelligence-catalyzing-enterprise-digitization-and-streamlining-processes/"><u>ABBYY's Smart Intelligence: Catalyzing Enterprise Digitization and Streamlining Processes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-laptop-display-distortion-a-step-by-step-approach/"><u>Addressing Laptop Display Distortion: A Step-by-Step Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ancien-cadre-chez-hp-et-microsoft-robert-youngjohns-devient-le-nouveau-president-du-conseil-dadministration-dabbyy/"><u>Ancien Cadre Chez HP Et Microsoft, Robert Youngjohns Devient Le Nouveau Président Du Conseil D'Administration D'ABBYY</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/at-the-helm-of-client-satisfaction-meet-nina-walker-vp-of-customer-success-at-abbyy/"><u>At the Helm of Client Satisfaction - Meet Nina Walker, VP of Customer Success at ABBYY</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-empowering-websites-with-advanced-tracking-technology/"><u>Cookiebot: Empowering Websites with Advanced Tracking Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/customized-interactions-with-cookiebot-technology-for-improved-conversions/"><u>Customized Interactions with Cookiebot Technology for Improved Conversions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-tips-for-screen-recording-on-lenovo-devices-for-2024/"><u>Essential Tips for Screen Recording on Lenovo Devices for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-the-depths-of-asmr-audio-magic/"><u>Exploring the Depths of ASMR Audio Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/globale-partnerschaft-kodak-alaris-und-abbyy-treten-bei-der-weltweiten-verbraucherdatenerfassung-zusammen/"><u>Globale Partnerschaft: Kodak Alaris Und AbbyY Treten Bei Der Weltweiten Verbraucherdatenerfassung Zusammen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-advanced-traffic-analysis-with-our-cookiebot-technology-solutions/"><u>Harness Advanced Traffic Analysis with Our Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-cookiebots-power-optimize-your-site-for-superior-seo-results/"><u>Harnessing Cookiebot's Power: Optimize Your Site for Superior SEO Results</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hero4-black-vs-hero4-silver/"><u>Hero4 Black Vs Hero4 Silver</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/igniting-online-trends-crafting-viral-facebook-posts/"><u>Igniting Online Trends  Crafting Viral Facebook Posts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leadership-spotlight-abbyy-hails-as-a-premier-contender-on-the-202e-idp-peak-matrix-endorsement-by-everest-group/"><u>Leadership Spotlight: ABBYY Hails as a Premier Contender on the 202E IDP PEAK Matrix - Endorsement by Everest Group</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-the-web-discovering-your-perfect-page/"><u>Navigating the Web - Discovering Your Perfect Page</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/optimize-conversions-with-cookiebot-technology-integrated-into-your-website/"><u>Optimize Conversions with Cookiebot Technology Integrated Into Your Website</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/optimize-website-performance-with-advanced-cookiebot-solutions/"><u>Optimize Website Performance with Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/optimized-web-analytics-and-conversion-through-innovative-cookiebot-solutions/"><u>Optimized Web Analytics and Conversion Through Innovative Cookiebot Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/optimized-with-automated-tracking-the-power-of-cookiebot-technology/"><u>Optimized with Automated Tracking: The Power of Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/outperforming-the-finance-market-elevate-success-using-abbyy-strategies/"><u>Outperforming the Finance Market: Elevate Success Using ABBYY Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/personalized-navigation-with-cookiebot-technology/"><u>Personalized Navigation with Cookiebot Technology</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionary-wearable-camera-tech/"><u>Revolutionary Wearable Camera Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/revolutionizing-corporate-strategy-the-impact-of-digital-intellect-through-abbyy-expertise/"><u>Revolutionizing Corporate Strategy: The Impact of Digital Intellect Through ABBYY Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/say-it-like-you-mean-it-androids-voicegpt-guide/"><u>Say It Like You Mean It: Android’s VoiceGPT Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/smart-analytics-driven-by-cookiebot-technology/"><u>Smart Analytics Driven by Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transform-your-iphone-photos-into-searchable-pdfs-mastering-scan-ocr-and-file-conversion-in-finereader-app/"><u>Transform Your iPhone Photos Into Searchable PDFs: Mastering Scan, OCR, and File Conversion in FineReader App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unleashing-the-potential-of-smart-technology-turning-contract-analysis-into-strategic-business-advantages-with-abbyy/"><u>Unleashing the Potential of Smart Technology: Turning Contract Analysis Into Strategic Business Advantages with ABBYY</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/wie-deloitte-die-funktionalitat-ihres-ediscovery-suites-erweitert/"><u>Wie Deloitte Die Funktionalität Ihres eDiscovery Suites Erweitert</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-selecting-the-right-gear-a-filmmakers-checklist/"><u>[New] Selecting the Right Gear A Filmmaker's Checklist</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-holistic-harmony-the-best-online-yoga-channels/"><u>[Updated] 2024 Approved Holistic Harmony - The Best Online Yoga Channels</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-video-editing-mastering-green-screen-integration-for-2024/"><u>[Updated] Cutting Edge Video Editing Mastering Green Screen Integration for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-viewership-3-key-storytelling-approaches/"><u>[Updated] In 2024, Elevate Viewership 3 Key Storytelling Approaches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-one-source-livestream-perfection-a-streamers-blueprint/"><u>[Updated] One-Source Livestream Perfection A Streamer's Blueprint</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guide-to-top-6-instagram-reel-enhancements-for-2024/"><u>[Updated] The Ultimate Guide to Top 6 Instagram Reel Enhancements for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>[Updated] Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-spreadsheet-mastery-with-the-new-copilot-capability-in-microsoft-excel/"><u>Enhance Your Spreadsheet Mastery with the New Copilot Capability in Microsoft Excel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/essential-checklist-key-tips-when-purchasing-pre-owned-electric-vehicles/"><u>Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/essential-computer-components-a-buyers-guide-for-optimal-stable-diffusion-performance/"><u>Essential Computer Components: A Buyer’s Guide for Optimal Stable Diffusion Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-an-ai-generated-ultimate-nightmarish-yet-cozy-home-lounge/"><u>Experience an AI-Generated Ultimate Nightmarish Yet Cozy Home Lounge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-tomorrows-tech-today-with-groundbreaking-virtual-reality-shoot-innovations/"><u>Experience Tomorrow's Tech Today with Groundbreaking Virtual Reality Shoot Innovations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-quality-8-cam-transformations-for-streaming/"><u>High-Quality 8 Cam Transformations for Streaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
+

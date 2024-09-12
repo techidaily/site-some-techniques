@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-09-05T05:27:33.207Z
-updated: 2024-09-06T05:27:33.207Z
+date: 2024-09-11T20:17:12.906Z
+updated: 2024-09-12T20:17:12.906Z
 tags:
   - desktop
 categories:
@@ -9,32 +9,15 @@ categories:
 thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd615beb8c551d393f04156cd7b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is an SMC, and What Does It Do?](https://win-dash.techidaily.com/how-to-overcome-windows-10-bluetooth-drivers-errors-with-easy-to-follow-solutions/)
@@ -43,11 +26,18 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The SMC manages hardware functions like power, charging, and fans even when the Mac is off.
@@ -57,11 +47,18 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Is an SMC, and What Does It Do?
 
  The SMC is a dedicated chip on Intel Macs that manages lots of low-level hardware functions. It enables certain hardware features to work regardless of whether the Mac is powered on. The LED indicator on your charger will change color when you plug it in, even if your Mac is turned off, for example.
@@ -79,29 +76,18 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
 
  On Intel MacBooks with the T2 chip, which means most models from 2018 or later, Apple recommends an extra step before resetting the SMC. Shut down your Mac and press and hold the power button for 10 seconds. Wait a few extra seconds and then turn your Mac back on to see if the problem has been fixed.
 
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  If that doesn't work, shut your MacBook down again and use a combination of key presses to reset the SMC. Press and hold the following buttons:
@@ -114,11 +100,31 @@ Hannah Stryker / How-To Geek
 
  On desktop Macs with the T2 chip, it's far simpler. Just shut the Mac down and unplug the power cord. After 15 seconds, plug the power cord back in, wait another five seconds, and then power on your Mac.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Reset the SMC on Older Intel Macs
 
  On older Intel MacBooks from earlier than 2018, you reset the SMC by using a different combination of key presses. Start by shutting down the Mac.
 
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -143,8 +149,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,45 +158,15 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expert-insights-for-saving-and-curating-insta-stories/"><u>[New] 2024 Approved  Expert Insights for Saving and Curating Insta Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-superiority-gopros-max-and-hero-11-face-off/"><u>[New] Evaluating Superiority  GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-future-cinema-unleashed-1-blu-ray-devs/"><u>[New] Future Cinema Unleashed  #1 Blu-Ray Devs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-future-insight-alternate-pathways/"><u>[New] Future Insight  Alternate Pathways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gently-fading-sounds-in-os-environments/"><u>[New] Gently Fading Sounds in OS Environments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-transform-your-shopping-adventures-into-haul-masterpieces/"><u>[New] How to Transform Your Shopping Adventures Into Haul Masterpieces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illumination-in-high-dynamic-range-a-smart-option/"><u>[New] Illumination in High-Dynamic Range  A Smart Option?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-pc-gpus-for-high-res-editing/"><u>[New] Premium PC GPUs for High-Res Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>[Updated] Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-examination-of-vsco-image-tools/"><u>[Updated] Extensive Examination of VSCO Image Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-frame-freedom-in-photography/"><u>[Updated] Fast Frame Freedom in Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-formulate-funny-imagery-with-adobe/"><u>[Updated] Formulate Funny Imagery with Adobe</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-headset-face-off-googles-simplicity-and-samsungs-complexity/"><u>[Updated] Headset Face-Off  Google's Simplicity and Samsung's Complexity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-cheap-quality-gopro-cameras-today/"><u>[Updated] How to Get Cheap, Quality GoPro Cameras Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-identifying-the-best-iphone-watermarks-a-complete-guide/"><u>[Updated] Identifying the Best iPhone Watermarks  A Complete Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initiate-integrate-and-interact-the-basics-of-zoom-for-android/"><u>[Updated] Initiate, Integrate, and Interact  The Basics of Zoom for Android</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-innovative-text-additions-5-advanced-caption-methods-for-tiktok-for-2024/"><u>[Updated] Innovative Text Additions  5 Advanced Caption Methods for TikTok for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-and-easy-snapchat-image-manipulation-techniques-for-2024/"><u>[Updated] Quick and Easy Snapchat Image Manipulation Techniques for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>2024 Approved  Harmonious Histories  Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/al-domain-decisions-short-form-content-for-2024/"><u>Digital Domain Decisions  Short-Form Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-six-techniques-to-resolve-your-apple-watch-pairing-problems/"><u>Expert Tips: Six Techniques to Resolve Your Apple Watch Pairing Problems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-new-dimensions-of-virtual-reality-with-htc-vive-review/"><u>Explore New Dimensions of Virtual Reality with HTC Vive Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fortnite-audio-issues-how-to-fix-sound-stuttering-and-interruptions/"><u>Fortnite Audio Issues: How to Fix Sound Stuttering and Interruptions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/generate-funny-image-for-giphy-for-2024/"><u>Generate Funny Image for Giphy for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/generate-giggle-worthy-graphics-for-2024/"><u>Generate Giggle-Worthy Graphics for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-curate-christian-chimes-for-devotion-for-2024/"><u>How to Curate Christian Chimes for Devotion for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-online-tv-services-featuring-community-broadcasts/"><u>In 2024, Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-sustainable-scenes-for-filmmakers/"><u>In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-hobbyist-to-professional-your-guide-to-design-success/"><u>In 2024, From Hobbyist to Professional  Your Guide to Design Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>In 2024, Ideas to Paper  Top 8 iPhone Sketching Tools Compared</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-for-unwavering-viewership-within-limit/"><u>In 2024, Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-mac-live-streaming-options-ranked-1-5/"><u>In 2024, Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lava-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lava</u></a></li>
-<li><a href="https://games-able.techidaily.com/indie-game-mastery-unleashing-potential-through-itchio/"><u>Indie Game Mastery: Unleashing Potential Through Itch.io</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-world-of-grok-ai-understanding-purpose-and-pricing-from-elon-musk/"><u>Inside the World of Grok AI - Understanding Purpose & Pricing From Elon Musk</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-and-androids-best-in-class-top-10-skin-modifiers-reviewed-for-2024/"><u>IPhone & Android's Best in Class  Top 10 Skin Modifiers Reviewed for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastery-in-myths-and-modernity-the-yt-story-channels-of-23/"><u>Mastery in Myths and Modernity  The YT Story Channels of '23</u></a></li>
-<li><a href="https://program-issues.techidaily.com/participate-actively-in-continuous-learning-activities-including-webinars-workshops-training-sessions-to-improve-product-knowledge-and-stay-up-to-date-on-in402/"><u>Participate Actively in Continuous Learning Activities, Including Webinars, Workshops, Training Sessions to Improve Product Knowledge and Stay Up-to-Date on Industry Trends Relevant to Customer Support Best Practices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/peering-into-pitfalls-a-deep-dive-into-vr-shortcomings/"><u>Peering Into Pitfalls  A Deep Dive Into VR Shortcomings</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-90-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-handbook-for-telegram-web-newbies/"><u>[New] The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/download-premium-facebook-hd-content-anywhere-for-2024/"><u>Download Premium Facebook HD Content Anywhere for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g14-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G14 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/record-real-time-webcam-footage-easily/"><u>Record Real-Time Webcam Footage Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-distinction-between-electric-and-hybrid-vehicles/"><u>Understanding the Distinction Between Electric and Hybrid Vehicles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-valves-latest-policy-a-comprehensive-look-at-the-ban-on-steams-blockchain-nft-and-cryptocurrency-games/"><u>Understanding Valve's Latest Policy: A Comprehensive Look at the Ban on Steam's Blockchain, NFT, and Cryptocurrency Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unlock-personalized-ai-experiences-with-chatgpts-newly-available-free-generative-pre-trained-transformer-templates/"><u>Unlock Personalized AI Experiences with ChatGPT's Newly-Available Free Generative Pre-Trained Transformer Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unveiling-apples-modification-of-educational-pricing-strategy-in-us-markets/"><u>Unveiling Apple's Modification of Educational Pricing Strategy in U.S Markets</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Enhances Photos Application with Key Visual Interface Upgrades
-date: 2024-09-05T05:27:32.995Z
-updated: 2024-09-06T05:27:32.995Z
+date: 2024-09-11T20:16:57.781Z
+updated: 2024-09-12T20:16:57.781Z
 tags:
   - desktop
 categories:
@@ -20,25 +20,7 @@ Microsoft is now rolling out an updated Photos app to Windows 11 users on the Ca
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
@@ -46,18 +28,6 @@ Close
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -65,28 +35,10 @@ Close
 Microsoft
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)  
 Microsoft
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Today, the Windows 11 Photos app is fairly robust. It can remove image backgrounds, connect to third-party services like iCloud, and import images from external devices. So, Microsoft is now taking the time to fine-tune Photos with smaller UI changes and under-the-hood upgrades.
@@ -112,8 +64,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,48 +73,26 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fun-for-the-whole-family-revisiting-a-goofy-movie/"><u>[New] 'Fun for the Whole Family'  Revisiting a 'Goofy Movie'</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-capture-emotion-not-just-photos-iphone-images-through-leading-lines/"><u>[New] Capture Emotion, Not Just Photos  IPhone Images Through Leading Lines</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expedition-tools-for-storytelling-through-lenses/"><u>[New] Expedition Tools for Storytelling Through Lenses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>[New] Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[New] From Pixels to Power  The Ultra HD World of Samsung UE590</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-standard-to-spectacular-the-journey-with-vce-22/"><u>[New] From Standard to Spectacular  The Journey with VCE 2.2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-tech-review-auroras-place-among-leaders/"><u>[New] HDR Tech Review  Aurora's Place Among Leaders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hidden-treasures-the-undisclosed-window-11-tricks-youve-overlooked/"><u>[New] Hidden Treasures  The Undisclosed WINDOW 11 Tricks You've Overlooked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-improving-the-endurance-of-your-gopro-power-source/"><u>[New] Improving the Endurance of Your GoPro Power Source</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>[New] Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-capture-mastery-top-picks-of-free-pcmac-desktop-recorders/"><u>[Updated] Capture Mastery  Top Picks of Free PC/Mac Desktop Recorders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-m1s-potential-in-streamlining-editing-tasks/"><u>[Updated] Exploring M1’s Potential in Streamlining Editing Tasks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegif-builder/"><u>[Updated] GiggleGif Builder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopros-hero5-up-against-yis-high-res-adventures/"><u>[Updated] GoPro's Hero5 Up Against Yi's High-Res Adventures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-hacks-create-memes-free-and-easy/"><u>[Updated] Humor Hacks  Create Memes Free and Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hyperfast-picture-explorer-on-windows-11/"><u>[Updated] Hyperfast Picture Explorer on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-cloud-storage-solutions-for-your-android-device-2024-guide/"><u>[Updated] Ideal Cloud Storage Solutions for Your Android Device - 2024 Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[Updated] Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-search-of-next-level-video-streaming-alternatives/"><u>[Updated] In Search of Next-Level Video Streaming Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-impress-and-captivate-in-solo-podcasting/"><u>[Updated] Innovate, Impress, and Captivate in Solo Podcasting</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-stealthy-methods-to-watch-unseen-stories/"><u>2024 Approved  Stealthy Methods to Watch Unseen Stories</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/disable-video-halt-on-code-cx0d36c4/"><u>Disable Video Halt on Code Cx0d36c4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-handling-missing-msodll-files-in-your-system/"><u>Expert Tips on Handling 'Missing' Mso.dll Files in Your System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gif-to-sticker-guide-mastering-conversion-on-discord-whatsapp-telegram-for-2024/"><u>GIF to Sticker Guide  Mastering Conversion on Discord, WhatsApp, Telegram for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/glow-innovations-outshining-videos-through-design-for-2024/"><u>Glow Innovations  Outshining Videos Through Design for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-hero-5-black-vs-nikon-keymission-170-action-camera-which-is-better-in-2024/"><u>GoPro Hero 5 Black vs Nikon Keymission 170 Action Camera  Which Is Better, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-vs-yi-who-will-lead-the-high-quality-action-race-in-2024/"><u>GoPro Vs. YI  Who Will Lead the High-Quality Action Race, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero5-in-focus-advanced-photography-and-video-guide-for-gopro-for-2024/"><u>Hero5 in Focus  Advanced Photography & Video Guide for GoPro for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-disconnect-instagram-from-your-fb-profile/"><u>How to Disconnect Instagram From Your FB Profile</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-vllos-user-driven-feedback/"><u>In 2024, Examining VLLO's User-Driven Feedback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fading-audio-dynamics-a-logic-pro-approach/"><u>In 2024, Fading Audio Dynamics  A Logic Pro Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-the-best-prices-on-vr-headsets-from-china/"><u>In 2024, Finding the Best Prices on VR Headsets From China</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-satisfactory-to-superior-your-tech-upgrade-playbook/"><u>In 2024, From Satisfactory to Superior  Your Tech Upgrade Playbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-ready-to-win-more-with-this-purely-gratis-voice-modifier/"><u>In 2024, Get Ready to Win More with This Purely Gratis Voice Modifier</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-to-grips-with-snapseed-for-images/"><u>In 2024, Getting to Grips With Snapseed for Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hacky-podcast-transmission-tactic/"><u>In 2024, Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-word-writers-potential-voice-driven-document-creation/"><u>In 2024, Harnessing Word’ Writers' Potential  Voice-Driven Document Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-flight-testing-xiaomi-mi-drone-probe/"><u>In 2024, High-Definition Flight Testing - Xiaomi Mi Drone Probe</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-effortlessly-connect-zoom-with-gmail/"><u>In 2024, How to Effortlessly Connect Zoom with Gmail</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-picture-in-picture-in-browsing-with-edge/"><u>In 2024, Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-waterproof-and-affordable-camera-nikon-w100/"><u>The Ultimate Waterproof and Affordable Camera? Nikon W100</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/tropico-6-game-evaluation-ruining-a-blissful-island-utopia/"><u>Tropico 6 Game Evaluation: Ruining a Blissful Island Utopia</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-dive-into-dynamic-youtube-discussions-for-2024/"><u>[Updated] Dive Into Dynamic YouTube Discussions for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-choosing-pro-stream-vmix-vs-wirecast-battle/"><u>[Updated] In 2024, Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-the-gap-addressing-continuous-ps4-controller-disconnection/"><u>Bridge the Gap: Addressing Continuous PS4 Controller Disconnection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y28-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y28 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-features-in-chatgpt-plus-enhanced-pdf-examination-and-advanced-multi-modal-interaction-options/"><u>New Features in ChatGPT Plus: Enhanced PDF Examination & Advanced Multi-Modal Interaction Options</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y56-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y56 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/project-astra-googles-potential-game-changer-echoing-apples-impact-on-iphones-for-smart-wearables/"><u>Project Astra: Google's Potential Game-Changer, Echoing Apple’s Impact on iPhones for Smart Wearables</u></a></li>
+<li><a href="https://common-error.techidaily.com/quiet-your-console-effective-strategies-for-resolving-loud-playstation-4/"><u>Quiet Your Console: Effective Strategies for Resolving Loud PlayStation 4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/resolved-issue-with-responses-in-chatgpt-has-been-corrected/"><u>Resolved: Issue with Responses in ChatGPT Has Been Corrected</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revitalize-your-heritage-pictures-using-ai-say-goodbye-to-photoshop-for-image-enlargement-restoration-and-colorization/"><u>Revitalize Your Heritage Pictures Using AI: Say Goodbye to Photoshop for Image Enlargement, Restoration, and Colorization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/satellite-communication-technology-in-mobile-phones-how-can-it-improve-your-connectivity-experience/"><u>Satellite Communication Technology in Mobile Phones: How Can It Improve Your Connectivity Experience?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-solutions-for-overcoming-chatgpts-body-data-mishaps/"><u>Step-by-Step Solutions for Overcoming ChatGPT's Body Data Mishaps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-tale-of-htc-vive-and-total-immersion-for-2024/"><u>The Ultimate Tale of HTC Vive and Total Immersion for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-eye-catching-animations-top-10-text-generator-tools/"><u>Updated In 2024, Unlock Eye-Catching Animations Top 10 Text Generator Tools</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2024-09-05T05:27:31.761Z
-updated: 2024-09-06T05:27:31.761Z
+date: 2024-09-11T20:15:38.345Z
+updated: 2024-09-12T20:15:38.345Z
 tags:
   - desktop
 categories:
@@ -9,25 +9,27 @@ categories:
 thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d44fbc8bb793a1cd727c98e95.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Try a Keyboard Shortcut](https://instagram-clips.techidaily.com/the-key-to-viral-instagram-posts/)
 * [Force Quit Using Task Manager](https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s24-pattern-lock-screen-by-drfone-android/)
 * [Force Quit an App Using Command Prompt](https://fox-links.techidaily.com/expertly-crafted-images-with-lut-techniques-in-photoshop-cs6-for-2024/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * Run "tasklist" in Command Prompt find tasks, and then use "taskkill /im <program>.exe" to force quit the app.
 
  It’s not uncommon for an application to stop responding on Windows 10\. When it happens, you can force the app to shut down, effectively unfreezing said application. Here’s how to force quit an app on Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Try a Keyboard Shortcut
 
@@ -47,12 +56,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Force Quit Using Task Manager
 
  As the name implies, [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) is a tool that shows which apps are currently running (as well as other information like resource usage and process stats) and allows you to manage them appropriately.
@@ -67,29 +70,50 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ![Select the app you want to force quit, then click 'End Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-select-the-app-and-hit-end-task.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The frozen program will now close.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Force Quit an App Using Command Prompt
 
  You can find and force quit tasks from the Command Prompt. [Open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing **cmd** in the Windows search bar, and then selecting the “Command Prompt” app from the search results.
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
 
@@ -101,12 +125,6 @@ taskkill /im notepad.exe
 
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
 
 ---
@@ -119,8 +137,6 @@ taskkill /im notepad.exe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,44 +146,19 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-capture-your-games-in-stunning-detail-on-windows-11/"><u>[New] 2024 Approved  Capture Your Games in Stunning Detail on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-universe-of-gesture-technology/"><u>[New] Exploring the Universe of Gesture Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-turn-on-windows-11s-dynamic-hdr-mode/"><u>[New] Guide  Turn on Windows 11'S Dynamic HDR Mode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word/"><u>[New] Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-quality-drones-that-accommodate-gopro-cameras/"><u>[New] High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-revolutionizing-your-webinar-recordings-a-blueprint/"><u>[New] In 2024, Revolutionizing Your Webinar Recordings  A Blueprint</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-ideas-for-eye-catching-podcast-artwork/"><u>[New] Innovative Ideas for Eye-Catching Podcast Artwork</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-presence-instagrams-path-to-prominence-for-2024/"><u>[Updated] Elevate Your Presence  Instagram's Path to Prominence for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-changing-user-numbers-on-tiktok/"><u>[Updated] Expert Guide to Changing User Numbers on TikTok</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-tailored-shots-with-10-initial-free-customizable-lut-packages/"><u>[Updated] Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-imovies-automated-size-control/"><u>[Updated] Exploring iMovie's Automated Size Control</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>[Updated] Exploring Tech Worlds  Dissecting AR, MR, & VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extraordinary-top-ranked-vr-game-perks/"><u>[Updated] Extraordinary Top-Ranked VR Game Perks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-find-the-top-10-affordable-online-image-format-switchers/"><u>[Updated] Find the Top 10 Affordable Online Image Format Switchers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>[Updated] Fine-Tuning Frames  A Comprehensible Approach to iPhone Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-jumble-to-flow-kinemasters-editing-masterclass/"><u>[Updated] From Jumble to Flow  Kinemaster's Editing Masterclass</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-pro-apk-review-and-how-to-guide/"><u>[Updated] Funimate Pro APK Review and How-To Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-definition-spectacle-top-ten-4ks/"><u>[Updated] High Definition Spectacle – Top Ten 4Ks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminating-the-role-of-color-in-editing-mastery/"><u>[Updated] Illuminating the Role of Color in Editing Mastery</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-5-core-strategies-for-amplifying-your-digital-footprint-newbies-style/"><u>[Updated] In 2024, 5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-ranking-the-leading-15-affordable-online-image-editors/"><u>[Updated] In 2024, Ultimate Ranking  The Leading 15 Affordable Online Image Editors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-for-overcoming-graphics-library-malfunctions/"><u>Effective Techniques for Overcoming Graphics Library Malfunctions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/garmin-virb-ultra-30-action-camera-review-for-2024/"><u>Garmin VIRB Ultra 30 Action Camera Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-does-the-corsair-i500-mini-pc-stack-up-a-comprehensive-reception-and-assessment/"><u>How Does the Corsair I500 Mini PC Stack Up? A Comprehensive Reception and Assessment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-organize-photo-album-on-iphone-and-icloud-for-2024/"><u>How To Organize Photo Album On iPhone And iCloud for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-spark-20c-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Spark 20C</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>In 2024, Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-films-finest-high-definition-4k-screens-for-editors/"><u>In 2024, Film's Finest  High Definition 4K Screens for Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flipping-video-content-easily-in-android-applications/"><u>In 2024, Flipping Video Content Easily in Android Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-your-camera-and-drone-with-a-pro-gimbal/"><u>In 2024, Harmonizing Your Camera and Drone with a Pro Gimbal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-external-light-for-cozy-interior-spaces/"><u>In 2024, Harnessing External Light for Cozy Interior Spaces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-horizon-unveiled-an-elite-list-of-online-sky-sites/"><u>In 2024, HDR Horizon Unveiled  An Elite List of Online Sky Sites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highpoint-artist-suite-evaluation/"><u>In 2024, Highpoint Artist Suite Evaluation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>In 2024, How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hurdle-free-humor-your-guide-to-the-ifunny-app-world/"><u>In 2024, Hurdle-Free Humor  Your Guide to the iFunny App World</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/influencing-cultures-through-memetic-expression-for-2024/"><u>Influencing Cultures Through Memetic Expression for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-stop-motion-cinema-ranking-the-best-15-for-2024/"><u>Innovative Stop-Motion Cinema  Ranking the Best 15 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-real-time-engagement-critical-to-ai-knowledge-growth/"><u>Is Real-Time Engagement Critical to AI Knowledge Growth?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-aerial-vehicles-your-next-purchase/"><u>Optimal Aerial Vehicles  Your Next Purchase</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-mastering-the-art-of-writing-effective-reviews-on-google/"><u>Step-by-Step Guide: Mastering the Art of Writing Effective Reviews on Google</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-bridging-communication-gaps-effective-use-of-slack-and-filmora-for-2024/"><u>[New] Bridging Communication Gaps Effective Use of Slack and Filmora for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-face-id-vs-snapchats-face-unlock-the-apple-vs-samsung-debate/"><u>[New] Face ID Vs. Snapchat's Face Unlock The Apple Vs. Samsung Debate</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-irecorders-features/"><u>[Updated] In 2024, The Ultimate Guide to iRecorder's Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peerless-dialogue-creator-zone/"><u>[Updated] Peerless Dialogue Creator Zone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-figure-skating-highlights-2022/"><u>2024 Approved Figure Skating Highlights 2022</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/advanced-techniques-in-zooming-achieving-perfect-audio-quality-for-your-podcast/"><u>Advanced Techniques in Zooming Achieving Perfect Audio Quality for Your Podcast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-hiding-your-file-activity-from-others-using-windows-n-11-settings/"><u>Guide to Hiding Your File Activity From Others Using Windows N 11 Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-implementing-windows-11-on-non-certified-hardware-with-ease/"><u>Guide: Implementing Windows 11 on Non-Certified Hardware with Ease</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-nord-ce-3-lite-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Nord CE 3 Lite 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-check-the-specifics-of-your-windows-11-installation/"><u>How to Check the Specifics of Your Windows 11 Installation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-spot-and-dispose-of-malware-in-your-windows-system-efficiently/"><u>How to Spot and Dispose of Malware in Your Windows System Efficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-multilingual-typing-adjusting-keyboards-on-windows-11-systems/"><u>Mastering Multilingual Typing: Adjusting Keyboards on Windows 11 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/microsofts-latest-advancements-in-artificial-intelligence-may-impact-the-future-of-portable-gaming-pcs/"><u>Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Explore the Latest Enhanced Preview Function in Google Drive
-date: 2024-09-05T05:27:29.925Z
-updated: 2024-09-06T05:27:29.925Z
+date: 2024-09-11T20:13:25.788Z
+updated: 2024-09-12T20:13:25.788Z
 tags:
   - web
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-1.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explore the Latest Enhanced Preview Function in Google Drive
 
 Google is constantly rolling out new features and changes to Drive, Docs, Sheets, Slides, and the rest of the Workspace suite. Now, a helpful preview feature has arrived in the Drive desktop web app.
@@ -29,12 +17,6 @@ Google is constantly rolling out new features and changes to Drive, Docs, Sheets
 
 ![Google Drive screenshot showing a preview of a Docs file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/preview-files-in-google-drive-with-new-hovercard-feature-55-dragged.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Google
 
  The new previews are similar to the cards that already appear when hovering over external links in Docs, Sheets, or Slides documents. Hovering over an image file will show a small preview, hovering over a Docs file reveals a snippet of the first page, and so on. The previews aren’t interactive, though—if you want to scroll through a Docs or Sheets file, for example, you’ll have to open it as usual. The info panel will also still be required to see detailed information about the file and how it is shared.
@@ -53,8 +35,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,40 +44,28 @@ Google
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-analysis-of-srt-unpacking-its-significance/"><u>[New] Expert Analysis of SRT  Unpacking Its Significance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-high-quality-srgb-vs-rgb/"><u>[New] From Basics to High-Quality  Srgb vs Rgb</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-digital-image-detailing/"><u>[New] Getting Started with Digital Image Detailing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-film-equipment-roundup-2024-edition/"><u>[New] High-Definition Film Equipment Roundup, 2024 Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-skype-the-top-10-audio-capture-tools/"><u>[Updated] 2024 Approved  Skype  The Top 10 Audio Capture Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-magix-video-pro-xs-design/"><u>[Updated] Expert Insights Into Magix Video Pro X's Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fierce-competition-gopro-vs-sonys-dslr-for-adventure-films/"><u>[Updated] Fierce Competition  GoPro Vs. Sony's DSLR for Adventure Films</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-firefox-picture-in-picture-explained-for-efficiency/"><u>[Updated] Firefox Picture-in-Picture Explained for Efficiency</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-dimness-to-dazzle-a-guide-to-merging-in-lightroom/"><u>[Updated] From Dimness to Dazzle  A Guide to Merging in Lightroom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition/"><u>[Updated] Gear VR Compatibility  The Definitive Mobile Device List - 2023 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-face-by-face-guide-to-selectivity/"><u>[Updated] Gopro Face-By-Face Guide to Selectivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-holistic-motion-comprehensiveness-review/"><u>[Updated] Holistic Motion Comprehensiveness Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-vr-bicycle-journeys-to-try/"><u>[Updated] Immersive VR Bicycle Journeys to Try</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improving-zoom-video-fidelity-easy-steps/"><u>[Updated] Improving Zoom Video Fidelity  Easy Steps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-upside-down-up-in-popularity-the-instagram-way/"><u>[Updated] In 2024, Upside Down, Up in Popularity  The Instagram Way</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-insights-into-youtube-shorts-business-model/"><u>[Updated] Insights Into YouTube Shorts Business Model</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[Updated] The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chagpts-8-lucrative-side-gigs-for-the-modern-entrepreneur/"><u>ChaGPT's 8 Lucrative Side Gigs for the Modern Entrepreneur</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cost-effective-growth-tactic-for-youtube-fanbases/"><u>Cost-Effective Growth Tactic for YouTube Fanbases</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-stream-roku-content-without-owning-an-official-roku-player/"><u>Guide: Stream Roku Content Without Owning an Official Roku Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmony-and-hype-perfecting-film-teaser-tunes-for-2024/"><u>Harmony and Hype  Perfecting Film Teaser Tunes for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/how-to-record-and-edit-video-using-the-adobe-connect/"><u>How to Record and Edit Video Using the Adobe Connect</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminate-your-images-adding-life-with-illustrator-motion-for-2024/"><u>Illuminate Your Images  Adding Life with Illustrator Motion for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focused-frames-eliminating-jitterbugs/"><u>In 2024, Focused Frames  Eliminating Jitterbugs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-front-seat-pleasures-not-so-sporty-top-ten/"><u>In 2024, Front Seat Pleasures  Not So Sporty Top Ten</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funflicks-full-evaluation-and-instructions-24/"><u>In 2024, FunFlicks Full Evaluation & Instructions '24</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-6s-plus-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 6s Plus without Security Questions?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-camcorders-for-high-definition-podcasts/"><u>In 2024, Ideal Camcorders for High-Definition Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-mobile-file-exchange-in-ios/"><u>In 2024, In-Depth Guide to Mobile File Exchange in iOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/incorporating-secondary-footage-a-filmmakers-guide-for-2024/"><u>Incorporating Secondary Footage  A Filmmaker's Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimal-conclusion-to-vr-journeys/"><u>Optimal Conclusion to VR Journeys</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-fix-fluctuating-fps-and-lags-in-new-world/"><u>Optimizing Performance: Fix Fluctuating FPS and Lags in New World</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/social-spectacle-snatcher-for-2024/"><u>Social Spectacle Snatcher for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-beyond-likes-and-shares-the-concealed-factors-of-viewers/"><u>[Updated] 2024 Approved Beyond Likes & Shares The Concealed Factors of Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-factors-in-choosing-a-4k-cam-lens-upgrade/"><u>[Updated] Top 8 Factors in Choosing a 4K Cam Lens Upgrade</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultra-wealthy-digital-creators-for-2024/"><u>[Updated] Ultra-Wealthy Digital Creators for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-freshflicks-app-overview-and-score/"><u>2024 Approved FreshFlicks App Overview & Score</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/californias-bold-move-prohibiting-new-gasoline-vehicle-purchases-by-2035/"><u>California's Bold Move: Prohibiting New Gasoline Vehicle Purchases by 2035</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/chatgpt-vs-google-translate-which-provides-superior-translation-accuracy/"><u>ChatGPT Vs. Google Translate: Which Provides Superior Translation Accuracy?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comparing-ideograms-and-midjourney-a-comprehensive-showdown/"><u>Comparing Ideograms and Midjourney: A Comprehensive Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprehensive-assessment-of-the-chipolo-card-spot-innovative-tracking-device-mimicking-credit-card-design/"><u>Comprehensive Assessment of the Chipolo CARD Spot: Innovative Tracking Device Mimicking Credit Card Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/crafting-professional-bios-with-artificial-intelligence-is-it-worth-the-risk/"><u>Crafting Professional Bios With Artificial Intelligence: Is It Worth the Risk?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-exceptional-journey-coordination-by-harnessing-the-power-of-bings-artifice-intelligence/"><u>Discover Exceptional Journey Coordination by Harnessing the Power of Bing's Artifice Intelligence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-exquisite-anime-masterpieces-with-midjourney-a-complete-guide-on-using-the-powerful-model/"><u>Discover Exquisite Anime Masterpieces with MidJourney - A Complete Guide on Using the Powerful Model</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-9a-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 9A Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s17-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S17 FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>In 2024, Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-up-the-definitive-viewing-list-for-the-acclaimed-how-to-train-your-dragon-saga/"><u>Order Up! The Definitive Viewing List for the Acclaimed How To Train Your Dragon Saga</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-memes-with-white-background-step-by-step/"><u>Updated In 2024, How to Make Memes with White Background Step by Step</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

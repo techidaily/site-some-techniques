@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2024-09-05T05:27:30.602Z
-updated: 2024-09-06T05:27:30.602Z
+date: 2024-09-11T20:14:15.905Z
+updated: 2024-09-12T20:14:15.905Z
 tags:
   - mobile
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd58483ee49e8397ad83cab217.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Google and Android Are Not One and the Same](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c55-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/)
@@ -38,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Google and Android Are Not One and the Same
 
  Google is Android's primary developer, but the operating system is open source. Countless other companies are invested in the platform.
@@ -52,16 +34,24 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  While Android is free, Google has control over the primary way developers distribute their apps to Android users. In order for a company to ship the Play Store on their device, they must agree to include a bundle of Google apps and background services. The company has also been willing to pay big bucks to limit the creation of alternative Android app stores. In 2023, Google lost a case against Epic for monopolistic practices centered around the Play Store, as reported by the [BBC](https://www.bbc.com/news/business-67688720).
@@ -72,16 +62,24 @@ Jerome Thomas / How-To Geek
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  I Don't Want to Give All of My Data to Google
 
  I made efforts to de-Google my life years ago, deleting my Google account entirely. I re-created one years later when an organization I'm involved with wanted to use Google Calendar to manage our schedule. I started to use this same account to log into Google Play for apps, but that's about it.
@@ -93,17 +91,12 @@ Justin Duino / How-To Geek
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Some Preinstalled Apps Are Better Than Google's
 
  Even if I liked the Google ecosystem and actively took part in it, I would still be sad to see Android phone makers give up on making their own software. Some companies [do a better job at creating certain apps than Google does](https://extra-hints.techidaily.com/new-an-examination-of-photoshops-anti-shake-capabilities/).
@@ -128,6 +121,19 @@ Close
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
 ---
@@ -142,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,44 +157,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleash-creativity-on-instagrams-reels-frontier/"><u>[New] 2024 Approved  Unleash Creativity on Instagram's Reels Frontier</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-future-cinema-unleashed-1-blu-ray-devs/"><u>[New] Future Cinema Unleashed  #1 Blu-Ray Devs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gently-fading-sounds-in-os-environments/"><u>[New] Gently Fading Sounds in OS Environments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonious-hummingbird-hustle/"><u>[New] Harmonious Hummingbird Hustle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-five-lookout-breakdown/"><u>[New] High-Five Lookout Breakdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-transform-your-shopping-adventures-into-haul-masterpieces/"><u>[New] How to Transform Your Shopping Adventures Into Haul Masterpieces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-choices-for-comprehensive-movement-recording/"><u>[New] Ideal Choices for Comprehensive Movement Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illumination-in-high-dynamic-range-a-smart-option/"><u>[New] Illumination in High-Dynamic Range  A Smart Option?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-insta-success-when-to-share-your-content-for-2024/"><u>[New] Unlocking Insta Success  When to Share Your Content for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>[Updated] Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>[Updated] Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-future-of-interactive-headsets/"><u>[Updated] Exploring the Future of Interactive Headsets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-frame-freedom-in-photography/"><u>[Updated] Fast Frame Freedom in Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-your-audio-foothold-podcasts-or-youtube-to-lean-on/"><u>[Updated] Finding Your Audio Foothold  Podcasts or YouTube to Lean On?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-five-exceptional-sierra-dvd-editors-unveiled/"><u>[Updated] Five Exceptional Sierra DVD Editors Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-formulate-funny-imagery-with-adobe/"><u>[Updated] Formulate Funny Imagery with Adobe</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-headset-face-off-googles-simplicity-and-samsungs-complexity/"><u>[Updated] Headset Face-Off  Google's Simplicity and Samsung's Complexity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-historical-imagery-unleashed-from-copyrights/"><u>[Updated] Historical Imagery Unleashed From Copyrights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-identifying-the-best-iphone-watermarks-a-complete-guide/"><u>[Updated] Identifying the Best iPhone Watermarks  A Complete Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories/"><u>[Updated] In 2024, Battlefield Legends  The Ultimate List of Top 7 Total War Victories</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-make-youtube-banners-and-thumbnails/"><u>[Updated] In 2024, How to Make YouTube Banners and Thumbnails</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>2024 Approved  Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-guide-to-pacing-your-videos-on-snapchat/"><u>2024 Approved  The Ultimate Guide to Pacing Your Videos on Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/generate-funny-image-for-giphy-for-2024/"><u>Generate Funny Image for Giphy for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/generate-giggle-worthy-graphics-for-2024/"><u>Generate Giggle-Worthy Graphics for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/get-chrome-back-in-windows-11-quick-recovery-methods/"><u>Get Chrome Back in Windows 11 – Quick Recovery Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-qualcomm-chipset-compatible-usb-drivers-now-download-for-windows-10-11-and-earlier-versions/"><u>Get Your [Qualcomm Chipset Compatible] USB Drivers Now – Download for Windows 10, 11 & Earlier Versions!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giggles-in-a-box-iphone-fun-for-2024/"><u>Giggles in a Box (iPhone Fun) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-performance-mac-editors-ranked-1-to-5-for-2024/"><u>High-Performance Mac Editors - Ranked #1 to #5 for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-moto-g-stylus-5g-2023-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Moto G Stylus 5G (2023) Without PUK Codes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-ae-type-effects/"><u>In 2024, Comprehensive Guide to AE Type Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-online-tv-services-featuring-community-broadcasts/"><u>In 2024, Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-fun-turning-animated-art-into-sticky-messages-quickly/"><u>In 2024, Fast Track Fun  Turning Animated Art Into Sticky Messages Quickly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gratitude-freepaid-video-outro-template-gallery/"><u>In 2024, Gratitude  Free/Paid Video Outro Template Gallery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>In 2024, Ideas to Paper  Top 8 iPhone Sketching Tools Compared</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-and-create-chrome-oss-10-best-sketches-tools/"><u>In 2024, Innovate and Create  Chrome OS's 10 Best Sketches Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-for-unwavering-viewership-within-limit/"><u>In 2024, Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-drone-archetypes/"><u>In 2024, Innovative Drone Archetypes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-singe-sounds-to-complement-ppt-slides/"><u>In 2024, Singe Sounds to Complement PPT Slides</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-fresh-tp-link-ac-wireless-driver-on-your-computer-windows-supported/"><u>Install Fresh TP-Link AC Wireless Driver on Your Computer (Windows Supported)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-craft-compelling-snapchats-on-ios-and-android-top-6-apps/"><u>[Updated] Craft Compelling Snapchats on iOS & Android - Top 6 Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-discoverability-with-smart-thumbnails-for-2024/"><u>[Updated] Enhancing Video Discoverability with Smart Thumbnails for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-zoom-strategies-to-maximize-effective-skype-interactions/"><u>[Updated] In 2024, Zoom Strategies to Maximize Effective Skype Interactions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightning-windows-image-inspector/"><u>[Updated] Lightning Windows Image Inspector</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-essential-new-features-in-facebooks-repertoire/"><u>[Updated] The Essential New Features in Facebook's Repertoire</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boosting-linux-security-on-your-laptop-with-these-7-essential-tips/"><u>Boosting Linux Security on Your Laptop with These 7 Essential Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-fresh-tunes-with-apple-music-radio-your-gateway-to-the-latest-beats/"><u>Discover Fresh Tunes with Apple Music Radio: Your Gateway to the Latest Beats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-the-latest-update-for-snip-and-sketch-and-paint-apps-in-windows-11/"><u>Discover the Latest Update for Snip & Sketch and Paint Apps in Windows 11!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/diving-into-artificial-intelligence-a-journey-through-an-innovative-linux-terminal/"><u>Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effortlessly-run-windows-programs-on-linux-using-the-ultimate-single-tool/"><u>Effortlessly Run Windows Programs on Linux Using the Ultimate Single Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-seamlessly-add-pictures-to-youtube-videos-for-2024/"><u>How to Seamlessly Add Pictures to YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002963261-the-definitive-bioshock-2-experience-freshly-patched-and-ready-for-action/"><u>The Definitive BioShock 2 Experience - Freshly Patched and Ready for Action</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-singing-machine-sml385btbk-hands-free-user-friendly-karaoke-experience/"><u>Ultimate Guide to Singing Machine SML385BTBK: Hands-Free, User-Friendly Karaoke Experience</u></a></li>
 </ul></div>
+

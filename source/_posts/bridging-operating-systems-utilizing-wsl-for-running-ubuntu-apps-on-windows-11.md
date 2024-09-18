@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11"
-date: 2024-09-11T20:15:19.249Z
-updated: 2024-09-12T20:15:19.249Z
+date: 2024-09-16T16:50:26.790Z
+updated: 2024-09-18T16:03:29.078Z
 tags:
   - desktop
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -42,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
@@ -58,16 +51,22 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -80,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
@@ -94,21 +93,7 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
@@ -123,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Upon selecting "Linux," a folder named "Ubuntu-22.04" will appear. Right-click this folder and choose "Pin to Quick access." This action allows you to effortlessly access your Ubuntu files from Windows.
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
@@ -162,27 +154,20 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, applications can be started from the Windows 11 start menu.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -211,21 +196,14 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] In 2024, Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-photos-with-ease-using-basic-adobe-tools/"><u>2024 Approved Transform Photos with Ease Using Basic Adobe Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/detroit-lifted-how-detroit-become-human-overcame-pc-hurdles/"><u>Detroit Lifted - How 'Detroit: Become Human' Overcame PC Hurdles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/edgeai-enhanced-airjet-pak-coolers-frores-freeze-intro-series-for-up-to-25w-systems/"><u>EdgeAI Enhanced AirJet PAK Coolers: Frore's Freeze Intro Series for Up To 25W Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-gemini-ai-doubts-remain-over-its-efficacy-in-performing-assignments/"><u>Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-concept-of-immersion-in-vr-its-essential-value-explained/"><u>Exploring the Concept of Immersion in VR - Its Essential Value Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-future-the-immersive-experience-with-htc-vive-xr-elite/"><u>Exploring the Future: The Immersive Experience with HTC Vive XR Elite</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve-for-2024/"><u>Game Changers Gear Essentials Every Business Needs to Stay Ahead of the Curve for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-establishing-disposable-social-media-presence-for-vr-headset-enthusiasts/"><u>Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-acquiring-personalized-tracks-for-beat-saber-compatible-with-pc-and-quest-earphones/"><u>Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-converting-text-into-various-structures-using-chatgpt/"><u>Guide: Converting Text Into Various Structures Using ChatGPT</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-unfreeze-apex-legends-on-your-computer-top-troubleshooting-steps/"><u>How to Unfreeze Apex Legends on Your Computer : Top Troubleshooting Steps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-arena-of-games-100plus-channel-spectrums-galore/"><u>In 2024, Arena of Games 100+ Channel Spectrums Galore</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-through-podcast-land-iphoneipad-edition/"><u>In 2024, Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-smartphones-coming-soon-built-in-chatgpt-clones-without-needing-a-cloud-connection/"><u>Innovative Smartphones Coming Soon: Built-In ChatGPT Clones Without Needing a Cloud Connection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-cross-platform-success-televisions-and-facebook-collaboration/"><u>[New] Cross-Platform Success Televisions & Facebook Collaboration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-protect-your-privacy-from-chatgpt-opt-out-methods-revealed/"><u>How To Protect Your Privacy From ChatGPT - Opt Out Methods Revealed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-digital-maze-to-save-snaps-from-social-media/"><u>Navigating the Digital Maze to Save Snaps From Social Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfecting-zooms-visual-impact-smart-filters-use-for-2024/"><u>Perfecting Zoom's Visual Impact Smart Filters Use for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-tech-gadgets-for-effortless-virtual-meetings-capture-for-2024/"><u>Top Tech Gadgets for Effortless Virtual Meetings Capture for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-the-app-not-supported-on-pc-issue-in-windows-11-effective-solutions-and-tips/"><u>Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-windows-10-essential-programs-malfunctioning-across-various-computers/"><u>Troubleshooting Windows 10 Essential Programs Malfunctioning Across Various Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-and-resolving-wireless-connection-hiccups-on-the-latest-windows-11-operating-system/"><u>Understanding and Resolving Wireless Connection Hiccups on the Latest Windows 11 Operating System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wi-fi-evolution-unfolds-as-microsoft-initiates-trials-for-wi-fi-7-on-windows-11-platform/"><u>Wi-Fi Evolution Unfolds as Microsoft Initiates Trials for Wi-Fi 7 on Windows 11 Platform</u></a></li>
 </ul></div>
 

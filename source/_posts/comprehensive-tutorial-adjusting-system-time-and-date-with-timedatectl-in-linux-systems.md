@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-09-11T20:15:20.532Z
-updated: 2024-09-12T20:15:20.532Z
+date: 2024-09-14T16:33:59.570Z
+updated: 2024-09-18T16:27:59.544Z
 tags:
   - desktop
 categories:
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  On systemd-based Linux distributions, we use the `timedatectl` command to see or change those settings and values.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Getting Started With timedatectl
 
  To see the current data and time and other values, use the `timedatectl` command with the status operator.
@@ -62,13 +55,6 @@ timedatectl status
 timedatectl
 
 ![The output from the timedatectl command with no operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/2-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both sets of output show:
 
@@ -97,17 +83,10 @@ timedatectl list-timezones | grep "America/" | less
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting the Time Zone
@@ -124,6 +103,13 @@ timedatectl
 
 ![New time zone and time settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
 
 ##  Manually Setting the Time and Date
@@ -135,10 +121,10 @@ timedatectl set-time 10:30:00
 ![You can't set the time if time synchronization is in force](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/7-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Use this command to turn off the time synchronization service:
@@ -155,13 +141,6 @@ timedatectl
 
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
 
  If you have internet access, as soon as you restore the time synchronization service the time is retrieved and all of the details are correctly reset.
@@ -171,13 +150,6 @@ sudo systemctl start systemd-timesyncd.service
 timedatectl
 
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  RTC: UTC or LTZ?
 
@@ -194,19 +166,6 @@ timedatectl set-local-rtc 1
 timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I think they've made their feelings clear.
 
@@ -237,20 +196,19 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dominating-viewers-spaces-channel-empire-rules-for-2024/"><u>[New] Dominating Viewers' Spaces Channel Empire Rules for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-nintendo-switch-battle-selection-max-156/"><u>[Updated] 2024 Approved Elite Nintendo Switch Battle Selection (Max 156)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-revolutionizing-real-estate-with-metaverse-ads/"><u>[Updated] In 2024, Revolutionizing Real Estate with Metaverse Ads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-understanding-the-dynamics-of-ig-reels-vs-ig-stories-for-2024/"><u>[Updated] Understanding the Dynamics of IG Reels Vs IG Stories for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pixels-and-players-advanced-tactics-for-recording-gaming/"><u>2024 Approved Pixels and Players Advanced Tactics for Recording Gaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/best-free-open-source-video-conferencing-software-ranked-by-industry/"><u>Best Free Open Source Video Conferencing Software Ranked by Industry</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-activate-your-dolby-digital-live-sound-drivers-on-a-windows-11-pc/"><u>How To Activate Your Dolby Digital Live Sound Drivers on a Windows 11 PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inside-microsofts-visionary-hololens-innovation-for-2024/"><u>Inside Microsoft's Visionary HoloLens Innovation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-bing-chat-ai-the-future-of-mobile-conversations-on-your-devices-dashboard/"><u>Introducing Bing Chat AI: The Future of Mobile Conversations on Your Device's Dashboard</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-dall-e-microsofts-new-image-creation-feature-in-bing-chat/"><u>Introducing DALL-E: Microsoft's New Image Creation Feature in Bing Chat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-ps5-compatible-virtual-reality-the-demand-for-a-playstation-vr-2-version-on-pc/"><u>Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-stable-diffusion-xl-v10-a-new-era-of-improved-digital-artistry-begins/"><u>Introducing Stable Diffusion XL v1.0 - A New Era of Improved Digital Artistry Begins</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-midjourney-a-guide-to-producing-perfect-visuals-using-these-6-tips/"><u>Mastering MidJourney: A Guide to Producing Perfect Visuals Using These 6 Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-digital-assets-how-to-distinguish-between-crypto-tokens-and-coins/"><u>Navigating Digital Assets: How to Distinguish Between Crypto Tokens and Coins</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/next-big-thing-10-games-that-inspire-gta-v-for-2024/"><u>Next Big Thing 10 Games That Inspire GTA V for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-audio-capture-for-post-review-for-2024/"><u>[New] Audio Capture for Post-Review for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exploring-affordable-cloud-storage-solutions/"><u>[New] In 2024, Exploring Affordable Cloud Storage Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[New] Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-dialogue-draft-directory/"><u>[Updated] Prime Dialogue Draft Directory</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quickguide-optimizingyoucamrecord/"><u>2024 Approved QuickGuide OptimizingYouCamRecord</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/7-key-strategies-to-ensure-seamless-functionality-of-your-mobile-device/"><u>7 Key Strategies to Ensure Seamless Functionality of Your Mobile Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/acute-inflammation-typically-resolves-with-tissue-repair-or-regeneration-chronic-inflammation-can-result-in-fibrosis-and-scarring/"><u>Acute Inflammation Typically Resolves with Tissue Repair or Regeneration; Chronic Inflammation Can Result in Fibrosis and Scarring.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/anticipate-future-tech-marvels-googles-leaked-lineup-for-aug-2amoon-pixel-9-pro-xl-and-revolutionary-fold-on-display/"><u>Anticipate Future Tech Marvels: Google's Leaked Lineup for Aug 2Amoon - Pixel 9 Pro, XL, and Revolutionary Fold on Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/apple-defines-new-guidelines-on-app-store-for-emulator-software/"><u>Apple Defines New Guidelines on App Store for Emulator Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/assessing-googles-pixel-8-pro-performance-at-one-year-mark-is-it-time-for-a-switch-to-pixel-9/"><u>Assessing Google's Pixel 8 Pro Performance at One Year Mark - Is It Time for a Switch to Pixel 9?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-package-of-fun-everything-included-with-your-new-nintendo-switch/"><u>Complete Package of Fun: Everything Included with Your New Nintendo Switch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hp-zbook-firefly-15-g8-review-mobile-masterpiece/"><u>HP Zbook Firefly 15 G8 Review: Mobile Masterpiece</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-note-30-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix Note 30 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-11-enhancements-elevating-cortanas-assistance-revamping-the-photos-app-and-refining-widget-experience/"><u>Windows 11 Enhancements: Elevating Cortana's Assistance, Revamping the Photos App & Refining Widget Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-09-11T20:17:24.859Z
-updated: 2024-09-12T20:17:24.859Z
+date: 2024-09-16T17:55:38.195Z
+updated: 2024-09-18T17:51:16.106Z
 tags:
   - desktop
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ---
 
 ## Troubleshooting Guide: Resolving Discord Windows Mic Issues
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Yes" in the User Account Control prompt.
 
 ##  Test Your Mic in Another App and Give Discord Microphone Access
@@ -59,35 +39,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Record' highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-record-voice-sound-recorder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the app records your voice, the mic is functional. In this case, use the further fixes below. If the app doesn’t record your voice, the mic might be disabled in Windows Settings. [Enable the mic](https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-best-windows-10-photos-alternatives/) using the following steps.
 
  On a Windows 11 PC, head into Settings > Privacy & Security > Microphone. Turn on "Microphone Access" and "Let Apps Access Your Microphone."
 
 !['Microphone Access' and 'Let Apps Access Your Microphone' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-enable-mic-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Windows 10, navigate to Settings > Privacy > Microphone. On the right pane, select "Change" and turn on the toggle. On the same page, enable both "Allow Apps to Access Your Microphone" and "Allow Desktop Apps to Access Your Microphone" options.
 
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
 
@@ -97,22 +64,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
@@ -135,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Okay' highlighted in the 'Reset Voice Settings' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-reset-voice-settings-prompt-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Close and relaunch Discord](https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/) and check if your mic is working. 
 
 ---
@@ -163,21 +123,16 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-what-everyone-must-know-about-creating-short-form-videos/"><u>[New] 2024 Approved What Everyone Must Know About Creating Short-Form Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-deep-dive-into-durecorders-full-range/"><u>[Updated] A Deep Dive Into DuRecorder's Full Range</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-premium-podcasting-top-mic-picks/"><u>2024 Approved Guide to Premium Podcasting Top Mic Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/achieving-your-objectives-with-microsoft-word-the-ultimate-guide-to-digital-bullet-journalling/"><u>Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-correcting-ieframedll-errors-on-your-pc/"><u>Expert Advice: Correcting Ieframe.dll Errors on Your PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-kinemaster-the-ultimate-guide-to-smooth-video-edits/"><u>In 2024, Kinemaster The Ultimate Guide to Smooth Video Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nostruggle-livecast-how-to-simplify-your-podcast-broadcast-for-2024/"><u>NoStruggle Livecast How to Simplify Your Podcast Broadcast for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-harnessing-snapchat-spotlight/"><u>The Ultimate Guide to Harnessing Snapchat Spotlight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transform-your-listening-experience-with-this-compelling-vr-music-adventure-its-time-to-get-lost-in-sound/"><u>Transform Your Listening Experience with This Compelling VR Music Adventure - It's Time to Get Lost in Sound!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transform-your-video-experience-with-cutting-edge-nvidia-webcam-technology/"><u>Transform Your Video Experience with Cutting-Edge NVIDIA Webcam Technology</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-how-to-fix-zoom-video-problems-quickly/"><u>Ultimate Troubleshooting Guide: How to Fix Zoom Video Problems Quickly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-the-mechanics-behind-tesla-dog-mode-an-in-depth-look-at-its-operation/"><u>Understanding the Mechanics Behind Tesla Dog Mode: An In-Depth Look at Its Operation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unleashing-power-in-your-pocket-the-impact-of-qualcomms-new-snapdragon-chips-on-next-gen-android-phones/"><u>Unleashing Power in Your Pocket: The Impact of Qualcomm's New Snapdragon Chips on Next-Gen Android Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unpacking-the-true-value-the-apple-vision-pros-reasonable-pricing-explained/"><u>Unpacking the True Value: The Apple Vision Pro’s Reasonable Pricing Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-features-and-performance-of-western-digitals-data-lifeguard-diagnostics/"><u>Unveiling the Features and Performance of Western Digital's Data LifeGuard Diagnostics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/utilizing-microsoft-word-for-efficient-management-of-extended-text-files/"><u>Utilizing Microsoft Word for Efficient Management of Extended Text Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-get-more-likes-on-your-tiktok-unboxing-video-for-2024/"><u>[New] How to Get More Likes on Your TikTok Unboxing Video for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/canons-sx530-the-simple-starter-for-aspiring-photographers/"><u>Canon's SX530: The Simple Starter for Aspiring Photographers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-youtubes-new-experimental-feature-automatic-video-pause-at-bedtime/"><u>Discover YouTube's New Experimental Feature: Automatic Video Pause at Bedtime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-latest-upgrades-in-mozilla-firefox-introducing-vertical-tabs-and-enhanced-tab-organization-techniques/"><u>Explore the Latest Upgrades in Mozilla Firefox: Introducing Vertical Tabs and Enhanced Tab Organization Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-new-compact-feature-in-google-chromes-latest-trial/"><u>Exploring the New Compact Feature in Google Chrome's Latest Trial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-amazons-approach-to-product-recalls-is-falling-short-according-to-american-consumer-advocates/"><u>How Amazon's Approach to Product Recalls Is Falling Short According to American Consumer Advocates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-macbook-webcam-footage-for-2024/"><u>Mastering MacBook Webcam Footage for 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-t2-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from T2 5G</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-7-mp4-unifiers-the-ultimate-guide-to-seamlessly-blend-multiple-videos-into-a-single-file/"><u>Top 7 MP4 Unifiers: The Ultimate Guide to Seamlessly Blend Multiple Videos Into a Single File</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-non-loading-twitch-broadcasts-with-these-7-tips/"><u>Troubleshoot Non-Loading Twitch Broadcasts with These 7 Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726026771187-m4a-windows-1011/"><u>マスタリングM4A音楽ファイル: Windows 10/11による簡単なトリミング・合成・ボリューム調整技術</u></a></li>
 </ul></div>
 

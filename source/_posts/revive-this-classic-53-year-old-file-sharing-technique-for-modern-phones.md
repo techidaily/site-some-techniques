@@ -1,7 +1,7 @@
 ---
 title: Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
-date: 2024-09-11T20:15:40.848Z
-updated: 2024-09-12T20:15:40.848Z
+date: 2024-09-12T17:20:33.887Z
+updated: 2024-09-18T17:35:24.078Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Activate the FTP Server](https://extra-information.techidaily.com/best-buddy-list-in-the-virtual-realm-games/)
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * FTP is a 53-year old protocol still effective for moving files between devices on the same Wi-Fi network.
@@ -33,19 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is FTP?
 
  FTP stands for "File Transfer Protocol." Developer Abhay Bhushan created the protocol way back in 1971\. He was inducted into the Internet Hall of Fame in 2023.
@@ -53,10 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download an Alternative File Manager
@@ -66,13 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Many of the [best alternative file managers for Android](https://extra-lessons.techidaily.com/new-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/) come with FTP support. I like to recommend Material Files, since it's fully free and open source.
 
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
 
@@ -88,13 +61,6 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -106,10 +72,10 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
@@ -139,15 +105,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-powerful-path-to-stellar-videos-top-free-intro-makers/"><u>[New] The Powerful Path to Stellar Videos Top Free Intro Makers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-optimal-video-recording-best-fullscreen-tools-for-pcmac/"><u>[Updated] In 2024, Optimal Video Recording Best Fullscreen Tools for PC/Mac</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/breaking-boundaries-coordinated-video-watch-across-channels-for-2024/"><u>Breaking Boundaries Coordinated Video Watch Across Channels for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-z-fold-5-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy Z Fold 5 Lock Screen Password?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-solutions-for-frequent-amd-issues/"><u>Swift Solutions for Frequent AMD Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/total-war-rome-remastered-crashing-no-more-discover-the-fix-here/"><u>Total War: Rome Remastered Crashing No More? Discover The Fix Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-failed-windows-system-restore-expert-solutions-and-steps/"><u>Troubleshooting Failed Windows System Restore: Expert Solutions and Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-solving-the-mystery-of-an-unrecognized-new-hard-drive-on-windows/"><u>Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/uncontrollable-mouse-pointer-discover-methods-to-stop-it/"><u>Uncontrollable Mouse Pointer - Discover Methods to Stop It!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-noobs-guide-to-recording-twitch-games/"><u>[New] 2024 Approved The Noob's Guide to Recording Twitch Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-closer-look-at-huawei-p10s-security-measures/"><u>[Updated] A Closer Look at Huawei P10’s Security Measures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008849014-apex-legends-wont-load-master-these-simple-fixes/"><u>Apex Legends Won't Load? Master These Simple Fixes!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/august-6-edition-unlocking-the-secrets-of-421-in-todays-new-york-times-connection-puzzle/"><u>August 6 Edition: Unlocking the Secrets of #421 in Today's New York Times Connection Puzzle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cracking-the-new-york-times-june-sat-style-tests-insights-and-answers-for-exam-0729-day-38-414/"><u>Cracking The New York Times June SAT-Style Tests: Insights and Answers for Exam #0729, Day 38 (#414)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cracking-todays-nyt-connection-challenges-june-24th-puzzles-answered-379/"><u>Cracking Today’s NYT Connection Challenges, June 24Th Puzzles Answered (#379)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/data-exposure-incident-cooler-masters-user-information-compromised/"><u>Data Exposure Incident: Cooler Master's User Information Compromised</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/debunking-vpn-myths-unveiling-the-truth-behind-popular-security-misconceptions/"><u>Debunking VPN Myths: Unveiling the Truth Behind Popular Security Misconceptions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stability-monster-hunter-world-on-pc-connections/"><u>Fixing Stability: Monster Hunter World on PC Connections</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-seamlessly-capture-igtv-5-windows-and-mac-downloading-tips/"><u>How to Seamlessly Capture IGTV 5 Windows & Mac Downloading Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-stabilize-iphone-videos-3-ways-for-2024/"><u>How to Stabilize iPhone Videos? [3-Ways] for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-f25-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo F25 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-harmonizing-technology-with-taste-your-guide-to-mastering-audio-format-selection/"><u>New 2024 Approved Harmonizing Technology with Taste Your Guide to Mastering Audio Format Selection</u></a></li>
 </ul></div>
 

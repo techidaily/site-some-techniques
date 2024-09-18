@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2024-09-11T20:16:37.214Z
-updated: 2024-09-12T20:16:37.214Z
+date: 2024-09-14T16:14:56.135Z
+updated: 2024-09-18T16:55:02.999Z
 tags:
   - desktop
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ---
 
 ## Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  Have you ever [transferred some pictures to your PC](https://hardware-tips.techidaily.com/master-your-gadgets-with-innovative-solutions-from-toms-hardware-experts/) and then forget where you stored them? Or, maybe you've got a few storage hard drives and don't want to search them manually? Here's a simple way to get Windows to search for all your photos on your computer.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Find All Your Photos Manually
 
  Unfortunately, pictures get stored in different places on your PC depending on the where they come from. Windows itself stores images in your "Pictures" folder. Some syncing services try to respect that, but you'll often find pictures transferred from things like DropBox, iCloud, and OneDrive in their own folders. If you transfer pictures from your camera or another device directly to your PC, those pictures also can end up in different places depending on the transfer method. And if you download pictures from the internet, they'll usually end up in whatever download folder your browser is set to use.
@@ -52,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
  If you're feeling adventurous and want to search for your photos manually, the first two places you should look are your "Downloads" and "Pictures" folders, both of which you'll find in the "Quick Access" section of the pane on the left of a File Explorer window.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Better Way: Let Windows Search Find All Your Photos
 
@@ -72,28 +45,35 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
 ![/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That inserts the following operator into the search box. If you prefer, you can also type it there yourself to get the same results.
 
 kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, the results return everything from pictures used by the system to personal pictures contained within the folder and all its subfolders. The search includes images saved in JPG, PNG, GIF, and BMP formats, which are the most common formats used. If you've got pictures stored in another format, like RAW, you'll have to find them another way.
 
@@ -105,18 +85,18 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
@@ -124,22 +104,15 @@ kind:=picture
 
 ![Click the filter button, enter an image format, then click "Apply Filter."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-include-filter-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
@@ -170,16 +143,17 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-behind-the-scenes-insight-how-vimeo-record-works-for-2024/"><u>[Updated] Behind-the-Scenes Insight How Vimeo Record Works for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/decoding-the-new-york-times-daily-puzzle-hints-and-solutions-for-may-28th-352/"><u>Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-links-in-the-nyts-july-18-puzzle-teaser-and-solution-explained-403-edition/"><u>Discover the Links in The NYT's July 18 Puzzle: Teaser and Solution Explained (#403 Edition)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-youtubes-new-experimental-feature-automatic-video-pause-at-bedtime/"><u>Discover YouTube's New Experimental Feature: Automatic Video Pause at Bedtime</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/elevate-your-social-narrative-on-snapchat-a-selection-of-over-120-storytelling-ideas/"><u>Elevate Your Social Narrative on Snapchat A Selection of Over 120 Storytelling Ideas</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhanced-online-storefronts-in-3d/"><u>Enhanced Online Storefronts in 3D</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-latest-upgrades-in-mozilla-firefox-introducing-vertical-tabs-and-enhanced-tab-organization-techniques/"><u>Explore the Latest Upgrades in Mozilla Firefox: Introducing Vertical Tabs and Enhanced Tab Organization Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-new-compact-feature-in-google-chromes-latest-trial/"><u>Exploring the New Compact Feature in Google Chrome's Latest Trial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a23-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A23 5G</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-the-magic-of-video-editing-begins-on-youtube-for-2024/"><u>Where the Magic of Video Editing Begins on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-harmonizing-content-and-sound-in-instagram-reels/"><u>[New] In 2024, Harmonizing Content & Sound in Instagram Reels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-precision-and-performance-in-the-dell-p2715q-monitor-analysis/"><u>[New] In 2024, Precision and Performance in the Dell P2715Q Monitor Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-your-business-with-smart-smm-tactics/"><u>[Updated] Transforming Your Business with Smart SMM Tactics</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-amd-radeon-vega-64-up-to-date-download-and-install-drivers-easily-on-windows-pcs/"><u>Get Your AMD Radeon VEGA 64 Up to Date - Download & Install Drivers Easily on Windows PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-data-unveiling-critical-security-risks-in-chatbot-interactions/"><u>Protect Your Data: Unveiling Critical Security Risks in Chatbot Interactions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-booking-your-next-tech-support-session-with-apples-genius-bar/"><u>Step-by-Step Guide: Booking Your Next Tech Support Session with Apple's Genius Bar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-reversing-and-recapturing-actions-in-windows/"><u>Step-by-Step Guide: Reversing and Recapturing Actions in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/story-1-the-misconception-about-kissing-transmission/"><u>Story 1: The Misconception About Kissing Transmission</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-12-desired-upgrades-and-improvements-for-the-next-generation-windows-version-12/"><u>Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/whimsical-worlds-kids-fun-game-selection/"><u>Whimsical Worlds - Kids' Fun Game Selection</u></a></li>
 </ul></div>
 

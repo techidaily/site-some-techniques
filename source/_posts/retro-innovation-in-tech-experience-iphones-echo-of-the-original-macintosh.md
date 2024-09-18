@@ -1,7 +1,7 @@
 ---
 title: "Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh"
-date: 2024-09-11T20:14:27.207Z
-updated: 2024-09-12T20:14:27.207Z
+date: 2024-09-17T16:22:17.335Z
+updated: 2024-09-18T18:11:01.803Z
 tags:
   - mobile
 categories:
@@ -23,50 +23,17 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Try the Old Voices
 
  Most of the old MacinTalk voices have carried over to Apple’s modern platforms, including every iPhone and iPad. You can try them out by opening the Settings app and navigating to Accessibility > Live Speech. Turn on Live Speech if you haven’t already, then tap the menu for “English (US)” voices to see a full list.
 
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
 
  With a voice selected, press your power button three times to open the Live Speech menu. You can then type whatever you want, and press Send on the keyboard to say it in the selected voice.
 
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
 
@@ -85,16 +52,26 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-gamers-almanac-expert-tips-to-record-and-save-your-minecraft-sessions/"><u>[New] 2024 Approved Gamer's Almanac Expert Tips to Record and Save Your Minecraft Sessions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-watermarking-masters-the-leading-tools-reviewed-for-2024/"><u>[New] Watermarking Masters The Leading Tools Reviewed for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-android-without-a-wire-heres-your-free-games-list/"><u>2024 Approved Android Without A Wire? Here's Your Free Games List</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/macbook-air-by-walmart-leading-the-market-with-unbeatable-price/"><u>MacBook Air by Walmart: Leading the Market with Unbeatable Price</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/master-the-art-of-using-pipx-for-easy-python-app-deployment/"><u>Master the Art of Using Pipx for Easy Python App Deployment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-file-permissions-in-linux-a-guide-to-suid-sgid-and-sticky-bit-settings/"><u>Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-security-a-comprehensive-tutorial-on-utilizing-googles-password-manager-for-android-devices/"><u>Mastering Mobile Security: A Comprehensive Tutorial on Utilizing Google's Password Manager for Android Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-the-underworld-of-pcs-explore-5-essential-terminal-commands-for-enhanced-system-control-on-windows/"><u>Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/microsoft-prepares-to-discontinue-paint-3d-what-it-means-for-users-and-creators/"><u>Microsoft Prepares to Discontinue Paint 3D – What It Means for Users and Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-recording-success-a-step-by-step-approach-to-capturing-chats-on-messenger/"><u>[New] In 2024, Recording Success A Step-by-Step Approach to Capturing Chats on Messenger</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-strategic-sharing-of-tiktok-content-on-twitter/"><u>[Updated] 2024 Approved Strategic Sharing of TikTok Content on Twitter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-gaming-spaces-for-solo-play-in-apex-legends/"><u>[Updated] In 2024, Top Gaming Spaces for Solo Play in Apex Legends</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-psd-visual-enhancements/"><u>[Updated] Prime PSD Visual Enhancements</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-extract-soundtrack-of-fb-events/"><u>2024 Approved Extract Soundtrack of FB Events</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-inside-look-at-vimeo-and-youtubes-market-strategies/"><u>2024 Approved Inside Look at Vimeo and YouTube’s Market Strategies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-6s-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 6s Plus How to Bypass?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/tight-knit-community-seeks-quietude-as-neighboring-company-continues-test-flights/"><u>Tight-Knit Community Seeks Quietude as Neighboring Company Continues Test Flights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-6-ideal-applications-of-gpt-4-maximizing-conversational-ai/"><u>Top 6 Ideal Applications of GPT-4: Maximizing Conversational AI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-listening-experience-with-this-compelling-vr-music-adventure-its-time-to-get-lost-in-sound/"><u>Transform Your Listening Experience with This Compelling VR Music Adventure - It's Time to Get Lost in Sound!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-video-experience-with-cutting-edge-nvidia-webcam-technology/"><u>Transform Your Video Experience with Cutting-Edge NVIDIA Webcam Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-mechanics-behind-tesla-dog-mode-an-in-depth-look-at-its-operation/"><u>Understanding the Mechanics Behind Tesla Dog Mode: An In-Depth Look at Its Operation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unleashing-power-in-your-pocket-the-impact-of-qualcomms-new-snapdragon-chips-on-next-gen-android-phones/"><u>Unleashing Power in Your Pocket: The Impact of Qualcomm's New Snapdragon Chips on Next-Gen Android Phones</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

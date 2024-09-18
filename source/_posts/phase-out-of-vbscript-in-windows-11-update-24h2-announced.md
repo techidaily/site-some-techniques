@@ -1,7 +1,7 @@
 ---
 title: Phase-Out of VBScript in Windows 11 Update 24H2 Announced
-date: 2024-09-11T20:15:35.800Z
-updated: 2024-09-12T20:15:35.800Z
+date: 2024-09-15T16:42:49.279Z
+updated: 2024-09-18T16:13:44.092Z
 tags:
   - desktop
 categories:
@@ -40,30 +40,27 @@ Visual Basic Scripting Edition, or VBScript, has been a scripting language and a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-for-video-narration-implementation/"><u>[New] Step-By-Step Guide for Video Narration Implementation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-aeropixel-remastering-toolkit-windowsmac/"><u>2024 Approved AeroPixel Remastering Toolkit (Windows/Mac)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-satisfactory-to-superior-your-tech-upgrade-playbook/"><u>2024 Approved From Satisfactory to Superior Your Tech Upgrade Playbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/achieving-your-objectives-with-microsoft-word-the-ultimate-guide-to-digital-bullet-journalling/"><u>Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling</u></a></li>
-<li><a href="https://fox-http.techidaily.com/adeptness-at-mobile-app-development-for-luts-for-2024/"><u>Adeptness at Mobile App Development for LUTs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/charming-budget-friendly-usb-c-battery-charger-under-20/"><u>Charming, Budget-Friendly USB-C Battery Charger Under $20</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-xiaomi-14-ultra-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Xiaomi 14 Ultra to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-s23-tactical-edition-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy S23 Tactical Edition Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-linking-gadgets-to-your-bose-wireless-speaker/"><u>Step-by-Step Instructions for Linking Gadgets to Your Bose Wireless Speaker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unleashing-power-in-your-pocket-the-impact-of-qualcomms-new-snapdragon-chips-on-next-gen-android-phones/"><u>Unleashing Power in Your Pocket: The Impact of Qualcomm's New Snapdragon Chips on Next-Gen Android Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unpacking-the-true-value-the-apple-vision-pros-reasonable-pricing-explained/"><u>Unpacking the True Value: The Apple Vision Pro’s Reasonable Pricing Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/utilizing-microsoft-word-for-efficient-management-of-extended-text-files/"><u>Utilizing Microsoft Word for Efficient Management of Extended Text Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>[New] 2024 Approved Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-backdrop-blurring-techniques-on-youtube-videos/"><u>[New] 2024 Approved Step-by-Step Backdrop Blurring Techniques on YouTube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-direct-to-mp3-ease-select-10-video-to-audio-devices/"><u>[Updated] 2024 Approved Direct to Mp3 Ease Select 10 Video-to-Audio Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-conveniently-captivated-by-ifunnys-humor-hub/"><u>[Updated] In 2024, Conveniently Captivated by iFunny's Humor Hub</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-webcam-mastery-unique-ideas-explored/"><u>[Updated] Webcam Mastery Unique Ideas Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-in-class-android-storage-in-the-cloud-for-2024/"><u>Best-in-Class Android Storage in the Cloud for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expanding-your-instagram-audience-step-by-step-for-2024/"><u>Expanding Your Instagram Audience Step-by-Step for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-amazons-approach-to-product-recalls-is-falling-short-according-to-american-consumer-advocates/"><u>How Amazon's Approach to Product Recalls Is Falling Short According to American Consumer Advocates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-i-got-paid-just-for-browsing-with-microsofts-bing-your-guide-to-earning-extra-cash/"><u>How I Got Paid Just for Browsing with Microsoft's Bing - Your Guide to Earning Extra Cash!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-blueprint-mastering-movie-maker-with-windows-8/"><u>In 2024, Beginner's Blueprint Mastering Movie Maker with Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/july-16th-new-york-times-puzzles-decoded-exclusive-hints-and-solutions-to-challenge-401/"><u>July 16Th New York Times Puzzles Decoded - Exclusive Hints and Solutions to Challenge #401!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/july-26th-connection-insights-and-answers-from-todays-new-york-times-part-411/"><u>July 26Th Connection Insights & Answers From Today's New York Times, Part #411</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/july-9th-edition-of-nyt-insights-and-solutions-unlocking-clues-394/"><u>July 9Th Edition of 'NYT Insights & Solutions' – Unlocking Clues #394</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/maximize-savings-with-chromes-in-checkout-credit-card-perks-notification-feature/"><u>Maximize Savings with Chrome's In-Checkout Credit Card Perks Notification Feature</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essential-dictionary-of-casual-speech/"><u>The Essential Dictionary of Casual Speech</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

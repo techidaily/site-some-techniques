@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-09-11T20:14:41.602Z
-updated: 2024-09-12T20:14:41.602Z
+date: 2024-09-17T17:33:59.162Z
+updated: 2024-09-18T17:48:50.219Z
 tags:
   - mobile
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ---
 
 ## Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Outside The Hype
 
  I know what you’re thinking. You’re tired of hearing every tech company ramble about AI like it’s the magical solution to all the world’s problems. You’re sick of the AI features popping up in your favorite apps. Maybe you’re an artist, writer, or some other creator that heard [OpenAI’s CTO say](https://fortune.com/2024/06/24/ai-creative-industry-jobs-losses-openai-cto-mira-murati-skill-displacement/) that AI could kill some creative jobs that “shouldn’t have been there in the first place,” and you’re ready to burn it all down to the ground. I get that, and I agree most implementations of “AI” right now are solutions in search of a problem or actively harmful.
@@ -47,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Corbin Davenport / How-To Geek
 
  The ability to run large language models on a more typical smartphone, tablet, or PC opens up other interesting use cases. For example, the upcoming [“Apple Intelligence” on iPhones, iPads, and Macs](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) will use on-device AI to sort notifications and better understand spoken language in Siri. There are some features that are harder to build and scale when they require a powerful datacenter somewhere, and that’s what hardware makers are trying to change right now.
@@ -61,13 +40,6 @@ Corbin Davenport / How-To Geek
  There aren’t many applications and services that use on-device AI right now, because they can behave differently across different devices and operating systems, and not everyone has a phone or PC with the required processing power. Newer developer tools, like [NVIDIA’s TensorRT-LLM](https://blogs.nvidia.com/blog/ignite-rtx-ai-tensorrt-llm-chat-api/) and [Qualcomm’s AI Engine Direct SDK](https://www.qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk), are slowly making that part more accessible for software developers. Eventually, adding a feature that requires a powerful LLM won’t be much more complex than adding a feature that needs any other system function, and I expect that’s when we’ll see more apps adding useful features.
 
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What’s Old Is New
 
@@ -94,19 +66,25 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-practical-approach-to-scheduling-on-zoom-platforms/"><u>[New] 2024 Approved A Practical Approach to Scheduling on Zoom Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-apples-ios-a-treasure-trove-of-vr-game-hits/"><u>[New] Apple's iOS A Treasure Trove of VR Game Hits</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/est-approach-for-managing-cc-rights-and-usage-for-2024/"><u>[New] Best Approach for Managing CC Rights & Usage for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>2024 Approved Recording Techniques for Stellar Voice-Over Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-key-strategies-to-ensure-seamless-functionality-of-your-mobile-device/"><u>7 Key Strategies to Ensure Seamless Functionality of Your Mobile Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/acute-inflammation-typically-resolves-with-tissue-repair-or-regeneration-chronic-inflammation-can-result-in-fibrosis-and-scarring/"><u>Acute Inflammation Typically Resolves with Tissue Repair or Regeneration; Chronic Inflammation Can Result in Fibrosis and Scarring.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/anticipate-future-tech-marvels-googles-leaked-lineup-for-aug-2amoon-pixel-9-pro-xl-and-revolutionary-fold-on-display/"><u>Anticipate Future Tech Marvels: Google's Leaked Lineup for Aug 2Amoon - Pixel 9 Pro, XL, and Revolutionary Fold on Display</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/intels-recommended-power-specs-now-integrated-into-msi-motherboard-defaults-targeting-improved-performance-and-crash-prevention-for-core-i9-systems-under-in83/"><u>Intel's Recommended Power Specs Now Integrated Into MSI Motherboard Defaults, Targeting Improved Performance and Crash Prevention for Core I9 Systems Under Investigation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photo-vid-mosaic-designer-slideshows-for-sierra/"><u>Photo-Vid Mosaic Designer Slideshows for Sierra</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-workplace-and-chatgpt-understanding-how-its-use-might-impact-employment-stability-across-10-scenarios/"><u>The Workplace and ChatGPT: Understanding How Its Use Might Impact Employment Stability Across 10 Scenarios</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgraded-noctua-nh-d15-g2-enhanced-silence-and-efficiency-with-additional-heatpipes/"><u>Upgraded Noctua NH-D15 G2: Enhanced Silence and Efficiency with Additional Heatpipes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/wi-fi-evolution-unfolds-as-microsoft-initiates-trials-for-wi-fi-7-on-windows-11-platform/"><u>Wi-Fi Evolution Unfolds as Microsoft Initiates Trials for Wi-Fi 7 on Windows 11 Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhancements-elevating-cortanas-assistance-revamping-the-photos-app-and-refining-widget-experience/"><u>Windows 11 Enhancements: Elevating Cortana's Assistance, Revamping the Photos App & Refining Widget Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-epic-audio-essentials-top-10-for-trending-yt-shorts/"><u>[New] In 2024, Epic Audio Essentials Top 10 for Trending YT Shorts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-driving-engagement-and-growth-the-role-of-brand-in-youtube-success/"><u>2024 Approved Driving Engagement and Growth The Role of Brand in YouTube Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-next-gen-entertainment-experience-scrutiny/"><u>2024 Approved Next-Gen Entertainment Experience Scrutiny</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-growth-strategy-attracting-million-strong-fans/"><u>2024 Approved Youtube Growth Strategy Attracting Million-Strong Fans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-new-era-awakens-with-ai-redefining-progress-in-a-digital-world/"><u>A New Era Awakens with AI: Redefining Progress in a Digital World</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-itel-a60s-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel A60s Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-access-real-time-weather-updates-right-from-your-windows-1011-lock-screen/"><u>Enhanced User Experience: Access Real-Time Weather Updates Right From Your Windows 10/11 Lock Screen!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/essential-info-for-tweeting-videos-aspect-ratios-required-for-2024/"><u>Essential Info for Tweeting Videos Aspect Ratios Required for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-tech-savings-alert-grab-the-latest-apple-pencil-samsungs-galaxy-s2/"><u>Exclusive Tech Savings Alert: Grab the Latest Apple Pencil, Samsung's Galaxy S2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-greater-privacy-with-default-encryption-on-new-windows-11-update/"><u>Experience Greater Privacy with Default Encryption on New Windows 11 Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-how-to-perform-a-dns-flush-on-a-windows-10-computer/"><u>Expert Tips: How to Perform a DNS Flush on a Windows 10 Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-why-it-hasnt-released-yet-insights-and-updates/"><u>Guilty Gear Strive: Why It Hasn't Released Yet – Insights & Updates</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-itel-a05s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Itel A05s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

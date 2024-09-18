@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2024-09-11T20:14:49.209Z
-updated: 2024-09-12T20:14:49.209Z
+date: 2024-09-12T17:04:28.806Z
+updated: 2024-09-18T16:08:29.001Z
 tags:
   - mobile
 categories:
@@ -22,19 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg)  
 Justin Duino / How-To Geek  
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Google introduced new AI features but focused more on hype than substance and practicality.
 * Gemini is Google's new generative model taking over as the default assistant on Android phones.
 * While some features like Magic Editor and Call Notes seem gimmicky, data security remains a valid concern.
@@ -45,38 +32,17 @@ Justin Duino / How-To Geek
 
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Google
 
  “It's a complete end-to-end experience that only Google can deliver,” Rick Osterloh, Senior Vice President, Platforms & Devices at Google, told the assembled crowd. “For years, we've been pursuing our vision of a mobile AI assistant that you can work with as you work with a real-life personal assistant, but we've been limited by the bounds of what existing technologies could do.”
 
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google Goes All In on Generative AI
 
  Google is racing against industry rivals like Apple, OpenAI, Microsoft, Amazon, and Anthropic to maintain its AI leadership. It has integrated Gemini’s generative functionality into its Workspace app suite, allowing the machine learning system to leverage user data (specifically from Google Docs, Slides, Gmail, Drive, and Sheets) for personalized responses. Users can generate text and images for Google Docs, create presentation slides using natural language, or produce professional-looking reports based on Sheets spreadsheets.
 
 ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -91,10 +57,10 @@ Justin Duino / How-To Geek
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Google
@@ -114,16 +80,10 @@ Justin Duino / How-To Geek
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
@@ -147,21 +107,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-goovision-chromium-captures-on-screen/"><u>[New] 2024 Approved GooVision Chromium Captures On-Screen</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-uncomplicated-steps-for-archiving-gotomeeting-dialogues/"><u>[New] 2024 Approved Uncomplicated Steps for Archiving GoToMeeting Dialogues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-secrets-of-snapsharing-creating-invisible-chronicles/"><u>[New] In 2024, Secrets of Snapsharing Creating Invisible Chronicles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-splitscreen-study/"><u>[Updated] 2024 Approved SplitScreen Study</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-best-practices-for-video-editing-and-cropping/"><u>[Updated] Instagram's Best Practices for Video Editing & Cropping</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/50-monthly-price-drop-t-mobiles-5g-home-broadband-now-more-affordable/"><u>$50 Monthly Price Drop: T-Mobile's 5G Home Broadband Now More Affordable</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/android-dominance-how-google-has-emerged-as-the-top-creator-of-extra-apps/"><u>Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/android-version-15-update-now-in-beta-stage-4-release/"><u>Android Version 15 Update Now in Beta Stage 4 Release</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-note-30-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Note 30?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-se-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone SE in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-real-score-separating-authentic-from-artificial-subscribers-online/"><u>The Real Score Separating Authentic From Artificial Subscribers Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transform-your-smartphone-into-an-enhanced-nintendo-switch-experience-with-just-one-gadget/"><u>Transform Your Smartphone Into an Enhanced Nintendo Switch Experience with Just One Gadget</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-the-features-of-apples-icloud-plus-service/"><u>Understanding the Features of Apple's iCloud Plus Service</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unlocking-the-secret-of-transferring-files-with-a-classic-technique-aged-over-five-decades/"><u>Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/upcoming-iphones-to-support-in-app-payments-via-third-party-applications/"><u>Upcoming iPhones to Support In-App Payments via Third-Party Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-fullscreen-recorder-with-macpc-support/"><u>[New] In 2024, Ideal Fullscreen Recorder with Mac/PC Support</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-method-to-archive-webcam-discussions/"><u>[New] In 2024, Method to Archive Webcam Discussions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-voice-modification-apps-for-vtubing-success/"><u>2024 Approved 10 Best Voice Modification Apps for VTubing Success</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-g310-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia G310 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/alternate-escapades-where-the-gta-v-lives-are-missing/"><u>Alternate Escapades - Where the GTA V Lives Are Missing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-how-to-overcome-the-challenging-phase0exception-error-code-0x00000078/"><u>Comprehensive Fixes: How to Overcome the Challenging PHASE0_EXCEPTION, Error Code 0X00000078</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-memes-with-kapwings-design-toolkit-for-2024/"><u>Craft Memes with Kapwing's Design Toolkit for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/invisible-watch-top-5-stealthy-story-apps-for-2024/"><u>Invisible Watch Top 5 Stealthy Story Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-pinnacle-of-insta-grids-our-curated-list-of-best-tools-for-2024/"><u>The Pinnacle of Insta Grids Our Curated List of Best Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-solving-minecraft-crash-error-with-exit-code-1-on-windows/"><u>Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-windows-update-issues-for-essential-security-patch-installation/"><u>Troubleshooting Windows Update Issues for Essential Security Patch Installation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/uncover-the-stealthy-culprits-methods-to-detect-and-remove-secretive-startup-applications-that-sluggish-your-windows-system/"><u>Uncover the Stealthy Culprits: Methods to Detect and Remove Secretive Startup Applications That Sluggish Your Windows System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-smart-app-control-in-windows-11-activation-steps-explained/"><u>Understanding Smart App Control in Windows 11: Activation Steps Explained</u></a></li>
 </ul></div>
 

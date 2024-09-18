@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-09-11T20:15:48.453Z
-updated: 2024-09-12T20:15:48.453Z
+date: 2024-09-13T17:18:44.777Z
+updated: 2024-09-18T16:30:27.264Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Try launching the app as an administrator to resolve permission issues that may be causing the "This app can't run on your PC" error.
@@ -25,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * An app may be fundamentally incompatible with Windows 11 or your PC's hardware. In that case, you'll need to find another version of the app, or seek out an alternative that meets your needs.
 
  If you’ve encountered a “This app can't run on your PC” error, the app you’re trying to launch is likely incompatible with your system. There are other reasons this issue occurs, and we’ll show you various ways to fix it on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Review Your Startup App List
 
@@ -57,19 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use App Compatibility Troubleshooter
 
  It’s possible the app is not compatible with your Windows 11 system, causing your issue. In this case, run Windows’ built-in App Compatibility Troubleshooter to find and fix the app’s compatibility problems.
@@ -78,15 +51,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Activate Developer Mode
@@ -102,10 +82,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Quit Settings and launch your app.
@@ -120,33 +100,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the open prompt, select "Uninstall" to delete the app.
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
@@ -172,21 +138,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-2023-update-sony-bdp-s3700-in-depth-analysis/"><u>[New] 2023 Update Sony BDP-S3700 in Depth Analysis</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-accelerated-photography-browser-for-11-os-users/"><u>2024 Approved Accelerated Photography Browser for 11 OS Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/capturing-youtube-captions-3-easy-methods-of-srt-extraction-for-2024/"><u>Capturing YouTube Captions 3 Easy Methods of SRT Extraction for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/comprehensively-understanding-iphones-recording-feature/"><u>Comprehensively Understanding iPhone's Recording Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-how-to-perform-a-dns-flush-on-a-windows-10-computer/"><u>Expert Tips: How to Perform a DNS Flush on a Windows 10 Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-your-apps-executable-exe-fast-a-step-by-step-guide-for-windows-11-users/"><u>Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/future-proofing-after-windows-11-discontinuation-top-operating-systems-for-continuity/"><u>Future-Proofing After Windows 11 Discontinuation - Top Operating Systems for Continuity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-z-fold-5-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy Z Fold 5 Phones? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-wisdom-waves-prime-ed-channels-online/"><u>In 2024, Wisdom Waves Prime Ed Channels Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infiltrate-unseen-introducing-the-new-stealth-mode-feature-in-protonvpn-for-windows-users/"><u>Infiltrate Unseen: Introducing the New Stealth Mode Feature in ProtonVPN for Windows Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inside-story-crafting-microsofts-famous-3d-pipe-screen-saver-for-windows-operating-system/"><u>Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/lenovo-thinkpad-z13-gen-2-with-amd-the-new-era-of-ultraportability-unveiled/"><u>Lenovo ThinkPad Z13 Gen 2 with AMD - The New Era of Ultraportability Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-cross-platform-efficiency-running-ubuntu-applications-in-windows-11/"><u>Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-impact-partnering-with-influencers-on-youtube-for-2024/"><u>Maximizing Impact Partnering with Influencers on YouTube for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-pan-and-tilt-for-clearer-captures/"><u>Perfect Pan & Tilt for Clearer Captures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-templates-for-premiere-pro-free/"><u>2024 Approved Elite Templates for Premiere Pro - FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/crafting-professional-bios-with-artificial-intelligence-is-it-worth-the-risk/"><u>Crafting Professional Bios With Artificial Intelligence: Is It Worth the Risk?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-exceptional-journey-coordination-by-harnessing-the-power-of-bings-artifice-intelligence/"><u>Discover Exceptional Journey Coordination by Harnessing the Power of Bing's Artifice Intelligence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-exquisite-anime-masterpieces-with-midjourney-a-complete-guide-on-using-the-powerful-model/"><u>Discover Exquisite Anime Masterpieces with MidJourney - A Complete Guide on Using the Powerful Model</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y100-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y100 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-action-recorders-for-motion-compensation/"><u>In 2024, Premium Action Recorders for Motion Compensation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-game-crashes-on-your-computer-a-comprehensive-guide/"><u>Resolving Game Crashes on Your Computer : A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-future-of-virtual-showrooms/"><u>The Future of Virtual Showrooms</u></a></li>
 </ul></div>
 

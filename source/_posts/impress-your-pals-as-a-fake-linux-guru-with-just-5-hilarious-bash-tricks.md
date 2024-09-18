@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-09-11T20:16:23.210Z
-updated: 2024-09-12T20:16:23.210Z
+date: 2024-09-15T16:13:29.034Z
+updated: 2024-09-18T17:35:55.672Z
 tags:
   - desktop
 categories:
@@ -13,23 +13,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 While I am a Linux daily driver, and I do sprinkle the terminal with commands now and then, I'm by no means a hacker. That didn't stop me from looking the part, though, since it turns out several simple commands (and a whole app) exist to make you look like a star in a florid cyberthriller. Here they are and how to run them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  neofetch 
 
 ![neofetch command output on an Ubuntu operating system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-14_16h38_17.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Starting simple, neofetch is perfect for when you want to send your friends a screenshot of your sweet new Linux desktop with a terminal open to make it look like you know how to use it. You simply run the command and some stats about your system will be printed next to a big [ASCII art](https://en.wikipedia.org/wiki/ASCII%5Fart) version of your distro's logo. If you've ever checked out r/UnixPorn, you'll recognize it as one of the more popular outputs to have printed in an open terminal.
 
@@ -46,13 +32,6 @@ sudo dnf install neofetch
 sudo pacman -S neofetch
 
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  cmatrix 
 
@@ -78,13 +57,6 @@ cmatrix
 
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3  genact 
 
 Your browser does not support the video tag. 
@@ -102,10 +74,10 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -129,10 +101,10 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -162,18 +134,19 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-essential-enhancements-for-a-superstar-stardew-fan-for-2024/"><u>[New] The Essential Enhancements for a Superstar Stardew Fan for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-key-strategies-to-ensure-seamless-functionality-of-your-mobile-device/"><u>7 Key Strategies to Ensure Seamless Functionality of Your Mobile Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-restore-and-improve-auto-brightness-on-your-iphone/"><u>7 Proven Methods to Restore and Improve Auto-Brightness on Your iPhone</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-settings-for-smooth-run-as-functionality/"><u>Adjusting Settings for Smooth 'Run As' Functionality</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-realme-narzo-60-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme Narzo 60 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-apple-iphone-13-location-on-viber-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Fake Your Apple iPhone 13 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-craft-eye-catching-youtubes-end-titles/"><u>In 2024, How to Craft Eye-Catching YouTubes End Titles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-investigating-actives-prowess-in-recording-technology/"><u>In 2024, Investigating Active's Prowess in Recording Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-the-app-not-supported-on-pc-issue-in-windows-11-effective-solutions-and-tips/"><u>Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-windows-10-essential-programs-malfunctioning-across-various-computers/"><u>Troubleshooting Windows 10 Essential Programs Malfunctioning Across Various Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-and-resolving-wireless-connection-hiccups-on-the-latest-windows-11-operating-system/"><u>Understanding and Resolving Wireless Connection Hiccups on the Latest Windows 11 Operating System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/wi-fi-evolution-unfolds-as-microsoft-initiates-trials-for-wi-fi-7-on-windows-11-platform/"><u>Wi-Fi Evolution Unfolds as Microsoft Initiates Trials for Wi-Fi 7 on Windows 11 Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhancements-elevating-cortanas-assistance-revamping-the-photos-app-and-refining-widget-experience/"><u>Windows 11 Enhancements: Elevating Cortana's Assistance, Revamping the Photos App & Refining Widget Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube/"><u>[Updated] 2024 Approved Drive More Watch Time, Not Churn Discover the Top 6 Techniques on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-cross-platform-video-playback-free-solutions-guide/"><u>[Updated] Mastering Cross-Platform Video Playback Free Solutions Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-audio-wizardry-with-windows-10-a-complete-tutorial-for-professionals/"><u>2024 Approved Audio Wizardry with Windows 10 A Complete Tutorial for Professionals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-discover-instagram-stories-in-private-mode/"><u>2024 Approved Discover Instagram Stories In Private Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-windows-1n-update-installation-speed-and-efficiency/"><u>Enhanced Windows 1N Update Installation Speed and Efficiency</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-microsofts-copilot-its-journey-through-windows-11/"><u>Exploring Microsoft's Copilot: Its Journey Through Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-hiding-your-file-activity-from-others-using-windows-n-11-settings/"><u>Guide to Hiding Your File Activity From Others Using Windows N 11 Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-implementing-windows-11-on-non-certified-hardware-with-ease/"><u>Guide: Implementing Windows 11 on Non-Certified Hardware with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-check-the-specifics-of-your-windows-11-installation/"><u>How to Check the Specifics of Your Windows 11 Installation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-a14-4g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy A14 4G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-verdict-on-nest-audio-crafting-an-immersive-listening-journey-for-tune-seekers/"><u>The Verdict on Nest Audio: Crafting an Immersive Listening Journey for Tune Seekers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-expert-advice/"><u>Troubleshooting Common Sound Issues in Halo Infinite: Expert Advice</u></a></li>
 </ul></div>
 

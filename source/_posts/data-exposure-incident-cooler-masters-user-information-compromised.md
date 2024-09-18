@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-09-11T20:13:13.050Z
-updated: 2024-09-12T20:13:13.050Z
+date: 2024-09-15T17:06:15.689Z
+updated: 2024-09-18T16:26:35.004Z
 tags:
   - web
 categories:
@@ -38,28 +38,28 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-simplify-screen-views-transforming-fb-content-for-televisions/"><u>[New] In 2024, Simplify Screen Views Transforming FB Content for Televisions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>[Updated] Break It Down Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-fiscally-friendly-action-footage-gear-for-2024/"><u>[Updated] Fiscally-Friendly Action Footage Gear for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-efficiency-the-8-hidden-downsides-of-dependence-on-ai-chatbots-for-content-creation/"><u>Beyond Efficiency: The 8 Hidden Downsides of Dependence on AI Chatbots for Content Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-solutions-to-the-leading-6-challenges-in-using-chatgpt/"><u>Expert Solutions to the Leading 6 Challenges in Using ChatGPT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-amazons-approach-to-product-recalls-is-falling-short-according-to-american-consumer-advocates/"><u>How Amazon's Approach to Product Recalls Is Falling Short According to American Consumer Advocates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-i-got-paid-just-for-browsing-with-microsofts-bing-your-guide-to-earning-extra-cash/"><u>How I Got Paid Just for Browsing with Microsoft's Bing - Your Guide to Earning Extra Cash!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-13-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 13 Pro Max Without Backup? | Stellar</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-first-choice-top-15-videography-power-tools/"><u>In 2024, First Choice Top 15 Videography Power Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-editions-windowed-film-editing-software/"><u>Innovative Editions Windowed Film Editing Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/july-16th-new-york-times-puzzles-decoded-exclusive-hints-and-solutions-to-challenge-401/"><u>July 16Th New York Times Puzzles Decoded - Exclusive Hints and Solutions to Challenge #401!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/july-26th-connection-insights-and-answers-from-todays-new-york-times-part-411/"><u>July 26Th Connection Insights & Answers From Today's New York Times, Part #411</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/july-9th-edition-of-nyt-insights-and-solutions-unlocking-clues-394/"><u>July 9Th Edition of 'NYT Insights & Solutions' – Unlocking Clues #394</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximize-savings-with-chromes-in-checkout-credit-card-perks-notification-feature/"><u>Maximize Savings with Chrome's In-Checkout Credit Card Perks Notification Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximizing-bargains-on-fbx-the-ultimate-walkthrough-for-setting-up-custom-marketplace-alerts/"><u>Maximizing Bargains on FBX: The Ultimate Walkthrough for Setting Up Custom Marketplace Alerts</u></a></li>
-<li><a href="https://games-able.techidaily.com/thrifty-gamers-unite-best-buy-locations-for-discounted-video-games/"><u>Thrifty Gamers Unite: Best Buy Locations for Discounted Video Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-obs-tutorial-capturing-every-moment-of-gameplay/"><u>[New] In 2024, OBS Tutorial Capturing Every Moment of Gameplay</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-live-tv-access-a-top-ranked-list-review/"><u>[New] Mastering Live TV Access A Top-Ranked List Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-inside-the-engine-room-the-apple-m1-unveiled/"><u>[Updated] In 2024, Inside the Engine Room The Apple M1 Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tracking-your-channels-ad-revenue-accrual/"><u>[Updated] Tracking Your Channel's Ad Revenue Accrual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb/"><u>2024 Approved Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/7-days-with-kde-plasma-6-on-linux-key-takeaways-from-my-experience/"><u>7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/airpod-woes-top-8-solutions-for-persistent-connectivity-problems/"><u>AirPod Woes? Top 8 Solutions for Persistent Connectivity Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/apples-latest-innovation-comparing-the-power-of-m4-and-m3-chips/"><u>Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-productivity-with-powertoys-0-79-now-including-personalized-keyboard-shortcuts-on-windows/"><u>Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/can-you-manage-a-linux-system-successfully-without-utilizing-the-terminal/"><u>Can You Manage a Linux System Successfully Without Utilizing The Terminal?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-out-your-audience-youtubes-blueprint-for-2024/"><u>Charting Out Your Audience YouTube's Blueprint for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprehensive-guide-managing-access-rights-using-linuxs-access-control-lists/"><u>Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/continuing-windows-10-support-beyond-2025-what-you-need-to-know/"><u>Continuing Windows 10 Support Beyond 2025: What You Need to Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-7-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 7 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-monster-hunter-rise-wont-start-issue-a-step-by-step-fix/"><u>Solving Monster Hunter Rise Won't Start Issue: A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrading-performance-fresh-downloads-of-netgear-wi-fi-card-drivers-and-installation-steps/"><u>Upgrading Performance: Fresh Downloads of NETGEAR Wi-Fi Card Drivers & Installation Steps</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

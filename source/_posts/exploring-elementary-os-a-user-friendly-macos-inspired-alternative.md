@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2024-09-11T20:16:18.140Z
-updated: 2024-09-12T20:16:18.140Z
+date: 2024-09-11T18:28:31.686Z
+updated: 2024-09-18T16:07:27.256Z
 tags:
   - desktop
 categories:
@@ -11,19 +11,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ## Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * elementary OS is an alternative to Windows and macOS that prioritizes ease-of-use over customization.
@@ -31,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 * elementary OS is user-friendly but power users or tinkerers may want to look for a different distro.
 
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is elementary OS?
 
@@ -48,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installing elementary OS Is as Easy as It Gets
 
@@ -69,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Settling in Is Elementary
@@ -87,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
  By default, the AppStore is limited to elementary's curated apps. If that's not enough for you, and you need third-party software like Steam and LibreOffice, you'll need to enable [Flathub support](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) first. The reason for this extra step is that all that extra software hasn't been checked by the elementary team to integrate fully with the desktop and abide by its privacy and security guidelines. That said, I didn't personally experience any issues with the software I installed that way.
 
  Generally, the experience was far cleaner and more cohesive than most Linux desktops I've used. Navigating the desktop in general was a pleasant experience, without the endless subpages of settings and extravegent context menus some distros come with. I didn't experience unexplained freezes or mysterious blank screens on wake. I was able to connect a second monitor generally hassle-free, which isn't always the case for Linux.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Tinkerers Need Not Apply
 
@@ -107,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -136,16 +96,15 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-discover-the-best-in-igtv-every-week/"><u>[New] Discover the Best in IGTV Every Week</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-true-winner-in-apples-m1-competition/"><u>[New] Unveiling the True Winner in Apple's M1 Competition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[Updated] 2024 Approved Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-hybridmix-pro-for-dual-os/"><u>[Updated] 2024 Approved HybridMix Pro for Dual OS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-high-capacity-card-for-a7s-professional-use/"><u>2024 Approved High-Capacity Card for A7S Professional Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/efficiently-refresh-your-ubuntus-dns-cache-a-comprehensive-tutorial/"><u>Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/efficiently-rename-your-files-with-these-powerful-powershell-tips-and-techniques/"><u>Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-productivity-with-microsoft-copilot-tips-for-seamless-setup-on-a-mac-computer/"><u>Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-google-pixel-fold-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Google Pixel Fold</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-digital-media-seeker/"><u>In 2024, Digital Media Seeker</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-webinar-creation-kit/"><u>Premier Webinar Creation Kit</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-through-top-10-youtube-mp3-extractors/"><u>[Updated] In 2024, Navigating Through Top 10 YouTube Mp3 Extractors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>2024 Approved Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-emerges-googles-latest-ai-to-rival-chatgpt/"><u>Bard Emerges: Google's Latest AI to Rival ChatGPT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>In 2024, OBS and Wirecast Clash Which Tops in Live Broadcasting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-snaps-the-definitive-how-to-manual-for-turning-videos-backwards-in-snapchat/"><u>Revolutionize Your Snaps: The Definitive How-To Manual for Turning Videos Backwards in Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-curiosity-driving-users-to-hack-into-ai-chatbots-understanding-their-purpose-and-methods/"><u>The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/tight-knit-community-seeks-quietude-as-neighboring-company-continues-test-flights/"><u>Tight-Knit Community Seeks Quietude as Neighboring Company Continues Test Flights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-6-ideal-applications-of-gpt-4-maximizing-conversational-ai/"><u>Top 6 Ideal Applications of GPT-4: Maximizing Conversational AI</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/mkvavi-wmvm4v/"><u>오픈소스 MKV/AVI를 WMV/M4V로 자유성: 영상 코어 강조</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/makemkv-dvdblu-ray/"><u>ダウンロードできるMakeMKVキー: 制限なし・無料DVD/Blu-Rayリッピング手順</u></a></li>
 </ul></div>
 

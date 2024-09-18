@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-09-11T20:17:15.395Z
-updated: 2024-09-12T20:17:15.395Z
+date: 2024-09-17T16:37:15.309Z
+updated: 2024-09-18T16:33:51.888Z
 tags:
   - desktop
 categories:
@@ -11,19 +11,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ## Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Beware of deceptive macOS notifications leading to websites that offer unnecessary software or even malware.
@@ -31,19 +18,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 * Disable notification permissions in browser settings to turn off the feature if you never use it.
 
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What's Going On?
 
@@ -57,21 +31,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
 
@@ -84,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Avoid This Happening Again
@@ -97,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
@@ -124,19 +84,20 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-assessing-gopro-hero5-session-quality-for-2024/"><u>[Updated] Assessing GoPro Hero5 Session Quality for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/chatgpt-evolves-innovative-memory-function-to-craft-unique-user-interactions/"><u>ChatGPT Evolves: Innovative Memory Function to Craft Unique User Interactions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-rayne-neo-air-2s-head-mounted-display-assessment-a-personalized-projection-device-experience/"><u>Comprehensive Rayne Neo Air 2S Head-Mounted Display Assessment: A Personalized Projection Device Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/could-you-soon-need-to-shell-out-cash-the-future-of-googles-contentious-artificer/"><u>Could You Soon Need to Shell Out Cash? The Future of Google's Contentious Artificer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/creating-effective-alt-tags-with-free-ai-text-generation-software/"><u>Creating Effective Alt Tags with Free AI Text Generation Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/demystifying-ai-imagery-understanding-that-not-all-visuals-come-from-ai-technology/"><u>Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/electric-innovation-showdown-rivian-r1s-vs-electric-trucks-which-reigns-supreme/"><u>Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-economical-sky-craftsmen-top-5-budget-friendly-drones/"><u>In 2024, Economical Sky Craftsmen Top 5 Budget-Friendly Drones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-photoshop-pro-with-ai-intelligence/"><u>In 2024, Ultimate Photoshop Pro with AI Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-the-crypto-realm/"><u>Integrating ChatGPT Into the Crypto Realm</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-photo-distortion-techniques-in-ps/"><u>Mastering Photo Distortion Techniques in PS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-the-nuances-of-gamers-channel-templates-for-2024/"><u>Navigating the Nuances of Gamers' Channel Templates for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-overcoming-steam-account-login-problems/"><u>Solution Guide: Overcoming Steam Account Login Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-complete-process-of-converting-gifs-into-sticker-form-for-multi-platform-use/"><u>The Complete Process of Converting GIFs Into Sticker Form for Multi-Platform Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>[New] 2024 Approved Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-the-ultimate-methods-for-high-quality-video-conversion/"><u>[New] 2024 Approved Unveiling the Ultimate Methods for High Quality Video Conversion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-chapter-how-to-add-chapters-to-vimeo-video/"><u>[New] In 2024, Vimeo Chapter How to Add Chapters to Vimeo Video?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-empowering-tiktok-sharing-on-twitter-networks/"><u>[Updated] 2024 Approved Empowering TikTok Sharing on Twitter Networks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-recording-to-releasing-editing-in-garageband/"><u>[Updated] From Recording to Releasing Editing in GarageBand</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-fame-forecast-2024/"><u>Digital Fame Forecast 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-guide-on-transferring-your-favorite-tunes-from-youtube-directly-onto-your-flash-drive/"><u>Effortless Guide on Transferring Your Favorite Tunes From YouTube Directly Onto Your Flash Drive</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/key-obstacles-preventing-timely-iphone-upgrades-insights-and-solutions/"><u>Key Obstacles Preventing Timely iPhone Upgrades - Insights & Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/latest-apple-sports-app-enhancement-explore-the-new-features/"><u>Latest Apple Sports App Enhancement: Explore the New Features!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/liquefactive-necrosis/"><u>Liquefactive Necrosis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/never-miss-a-beat-with-smart-planning-for-whatsapp-updates-on-key-occasions/"><u>Never Miss a Beat with Smart Planning for WhatsApp Updates on Key Occasions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-california-law-endorses-mobile-authentication-embracing-digital-id-apps-on-android-devices/"><u>New California Law Endorses Mobile Authentication: Embracing Digital ID Apps on Android Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionize-your-home-viewing-experience-with-enhanced-google-tv-interface/"><u>Revolutionize Your Home Viewing Experience with Enhanced Google TV Interface</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-poco-c65-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Poco C65 | Dr.fone</u></a></li>
 </ul></div>
 

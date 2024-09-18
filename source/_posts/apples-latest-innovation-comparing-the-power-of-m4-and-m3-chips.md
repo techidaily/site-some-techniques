@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2024-09-11T20:16:04.281Z
-updated: 2024-09-12T20:16:04.281Z
+date: 2024-09-15T16:13:16.100Z
+updated: 2024-09-18T17:41:53.192Z
 tags:
   - desktop
 categories:
@@ -10,19 +10,6 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 ---
 
 ## Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 * [Is M4 More Efficient Than M3?](https://some-tips.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily-for-2024/)
 * [M4 on MacBooks? It Might Happen Soon](https://games-able.techidaily.com/compact-your-collection-smart-iso-size-cutting-via-chdman-method/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * For the first time, Apple launched a new M-series chip with an iPad - the M4 Silicon.
@@ -47,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 * Since the M4 is only available on the 2024 iPad Pro, those looking for a good all-rounder in the MacBook for factor should purchase the M3 MacBook Air.
 
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Introducing Apple M4 Silicon
 
@@ -70,16 +43,10 @@ Apple
  The M4 looks set to be a compelling upgrade over [the previous generation of iPad Pro](https://driver-download.techidaily.com/upgrade-and-enhance-performance-with-official-dell-wd19-graphics-drivers-download-guide/), which featured an M2 chip. But how does it compare to the M3 chip that never made it to an iPad? Although Apple has yet to directly compare the M4 with the M3, here's an early comparison of the two chipsets based on their specifications.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  M4 Gets More Efficiency Cores for Better Performance
@@ -89,6 +56,19 @@ Apple
  The new Apple M4 Silicon comes in two variants: one with a nine-core CPU with three performance and four efficiency cores, and another with a 10-core CPU with one additional performance core. Compared to the M4, [the M3 only ships with eight cores](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/), half of which tackle performance, while the other half looks after lighter tasks.
 
 ![Apple M4 Silicon's representative image highlighting the number of performance and efficiency cores.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-s-m4-chip-gets-more-efficiency-cores.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -108,18 +88,18 @@ Apple
 
  On the brighter side, the M4's media engine now supports hardware-accelerated 8K H.264, HEVC, ProRes, and ProRes RAW formats, a clear upgrade over [2023's M3 chip](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What About the M4's Neural Engine?
 
  With [generative AI features right around the corner](https://sound-issues.techidaily.com/fixing-headphone-issues-on-windows-11-a-step-by-step-guide/), Apple is focusing heavily on the M4's Neural Engine. The new 16-core Neural Engine can perform up to 38 trillion operations per second (TOPS), compared to 18 TOPS for the 16-core Neural Engine on the M3 Silicon. Apple claims that the new Neural Engine is "faster than the neural processing unit of any AI PC today."
 
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -133,22 +113,16 @@ Apple
 
 ![Screenshot of Apple M2 Silicon's features and specifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m2-chip-on-the-new-ipad-air.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  Nonetheless, the M4 iPad Pro has become the longest-lasting iPad in [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs) tests, indicating that the chipset is indeed more efficient.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  M4 on MacBooks? It Might Happen Soon
 
@@ -157,13 +131,6 @@ Apple
  Then, in mid-2025, Apple could refresh the [13-inch and 15-inch MacBook Air](https://network-issues.techidaily.com/swift-correction-of-diagonal-screen-gaps/) lineup with the M4 chips. Other devices like the iMac, Mac Studio, and Mac Pro will also feature the M4 chip (and its variants) by 2025\. Although Apple hasn't confirmed this, it comes from one of the most reliable industry sources. Hence, you'll see M4-powered MacBooks by the end of this year, which brings us to another very important question: should you wait for the M4 chip or get a suitable model of the M3 MacBook Air?
 
 ![Apple's M3 Max MacBook Pro in Space Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/apple-m3-max-macbook-pro.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -190,18 +157,19 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-popart-app-deep-dive-2024-edition/"><u>[New] PopArt App Deep Dive - 2024 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>[New] The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-practices-for-designing-compelling-youtube-video-thumbnails/"><u>[Updated] 2024 Approved Best Practices for Designing Compelling YouTube Video Thumbnails</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-best-apps-allow-you-to-transcribe-speech-to-text-offline/"><u>[Updated] Best Apps Allow You to Transcribe Speech to Text Offline</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-do-you-really-necessitate-a-windows-os-identifying-when-to-skip-it/"><u>1. Do You Really Necessitate a Windows OS? Identifying When to Skip It!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-explore-a-multitude-of-artificial-intelligence-chatbots-directly-from-your-personal-computer-using-this-revolutionary-application/"><u>1. Explore a Multitude of Artificial Intelligence Chatbots Directly From Your Personal Computer Using This Revolutionary Application</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-should-you-consider-an-upgrade-to-the-newly-launched-2024-m3-macbook-air/"><u>1. Should You Consider an Upgrade to the Newly Launched 2024 M3 MacBook Air?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-uncover-the-secrets-top-5-methods-to-keep-your-applications-in-front-of-you-on-windows-operating-systems/"><u>1. Uncover the Secrets: Top 5 Methods to Keep Your Applications in Front of You on Windows Operating Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2-step-by-step-guide-leveraging-windows-backup-functionality-for-hassle-free-pc-migration/"><u>2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ios-guide-your-step-by-step-vr-video-experience-for-2024/"><u>IOS Guide Your Step-by-Step VR Video Experience for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mediatrans-mit-winx-perfekt-zum-hochladen-and-herunterladen-von-fotos-musik-and-videos-zwischen-pc-und-ios-geraten/"><u>MediaTrans™ Mit WinX – Perfekt Zum Hochladen & Herunterladen Von Fotos, Musik & Videos Zwischen PC Und iOS Geräten</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-density-setback-windows-11-troubleshoot/"><u>Screen Density Setback - Windows 11 Troubleshoot</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/solving-the-problem-ensuring-new-dvds-are-compatible-with-your-home-media-device/"><u>Solving the Problem: Ensuring New DVDs Are Compatible with Your Home Media Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>[New] 2024 Approved Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ps4-live-recording-made-simple-with-obs-tutorial/"><u>[New] In 2024, PS4 Live Recording Made Simple with OBS Tutorial</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-inviolate-disengagement-protocol-for-compact-youtube-clips/"><u>[Updated] In 2024, Inviolate Disengagement Protocol for Compact YouTube Clips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-5-key-reasons-companies-shy-away-from-gpt-applications/"><u>Decoding 5 Key Reasons Companies Shy Away From GPT Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ended-device-drive-error-43/"><u>Ended Device Drive Error #43</u></a></li>
+<li><a href="https://article-posts.techidaily.com/expert-subtitle-transformation-made-simple-top-10-lists/"><u>Expert Subtitle Transformation Made Simple - Top 10 Lists</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guard-against-cyber-threats-recognizing-the-menace-of-these-nine-counterfeit-chatgpt-virus-and-malware-programs/"><u>Guard Against Cyber Threats: Recognizing the Menace of These Nine Counterfeit ChatGPT Virus and Malware Programs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y78t-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/reviving-my-passion-for-pc-vr-the-impact-of-steam-link-on-the-oculus-quest-experience/"><u>Reviving My Passion for PC VR: The Impact of Steam Link on the Oculus Quest Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/save-on-oculus-quest-2-vr-kits-enjoy-a-50-discount-now-on-amazon/"><u>Save on Oculus Quest 2 VR Kits - Enjoy a $50 Discount Now on Amazon!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/secure-significant-savings-with-elegoos-latest-phecda-laser-cutting-and-engraving-machine-via-kickstarter/"><u>Secure Significant Savings with Elegoo's Latest PHECDA Laser Cutting & Engraving Machine via Kickstarter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-setting-up-your-metamask-account-on-ios-and-android-devices/"><u>Step-by-Step Guide: Setting Up Your MetaMask Account on iOS and Android Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/surprise-reveal-the-unique-purpose-of-the-logitech-drawing-pen/"><u>Surprise Reveal: The Unique Purpose of the Logitech Drawing Pen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-09-11T20:16:28.197Z
-updated: 2024-09-12T20:16:28.197Z
+date: 2024-09-15T16:17:26.072Z
+updated: 2024-09-18T18:24:53.111Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
 ## Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Enable WSL and set terminal color to Matrix green for a hacker aesthetic.
@@ -25,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 * Use commands like dir /s, ping -t, cmatrix, genact, and hollywood to simulate the hacker aesthetics.
 
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
 
@@ -94,23 +80,16 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -144,10 +123,10 @@ Your browser does not support the video tag.
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
@@ -179,19 +158,6 @@ genact -m _module-name_
 genact -m cryptomining
 
 Your browser does not support the video tag. 
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
@@ -230,18 +196,20 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-craft-how-to-produce-mukbang-videos/"><u>[Updated] Mastering the Craft How to Produce Mukbang Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-silent-iphones-fix-the-ringtone-not-working-issue-today/"><u>Diagnosing Silent iPhones - Fix the Ringtone Not Working Issue Today</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/essential-steps-to-record-your-macbooks-display-for-2024/"><u>Essential Steps to Record Your MacBook's Display for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/european-altstore-applications-now-available-at-no-cost-enjoy-the-perks-of-free-pal/"><u>European AltStore Applications Now Available at No Cost – Enjoy the Perks of Free PAL</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-tcl-tab-10-with-cutting-edge-nxtpaper-display-and-long-lasting-all-day-battery-life-in-depth-review/"><u>Exploring the TCL TAB 10 with Cutting-Edge NXTPaper Display and Long-Lasting All-Day Battery Life - In-Depth Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-the-paprika-app-transformed-my-cooking-experience-dont-make-the-same-regret-as-me/"><u>How the Paprika App Transformed My Cooking Experience - Don't Make the Same Regret as Me</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-battery-icon-on-your-windows-10-system-easily-solved/"><u>How to Restore Battery Icon on Your Windows 10 System Easily [Solved]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-your-apple-watch-can-become-an-effective-video-recording-tool-a-guide/"><u>How Your Apple Watch Can Become an Effective Video Recording Tool: A Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-the-newly-launched-google-pixel-9-collection-features-prices-and-where-to-buy/"><u>Introducing the Newly Launched Google Pixel 9 Collection: Features, Prices & Where to Buy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/key-obstacles-preventing-timely-iphone-upgrades-insights-and-solutions/"><u>Key Obstacles Preventing Timely iPhone Upgrades - Insights & Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/standing-out-in-a-crowd-the-finest-thumbnail-font-options-for-2024/"><u>Standing Out in a Crowd The Finest Thumbnail Font Options for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-use-ai-chatbots-to-generate-windows-11-keys/"><u>Why You Shouldn’t Use AI Chatbots to Generate Windows 11 Keys</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-varieties-of-fb-video-screens/"><u>[New] 2024 Approved Varieties of FB Video Screens</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[Updated] 2024 Approved Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>[Updated] The Troubleshooting Companion Restoring SRT Functionality in Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-uncover-essential-tips-why-saving-money-on-budget-laptops-may-cost-more-long-term/"><u>1. Uncover Essential Tips: Why Saving Money on Budget Laptops May Cost More Long-Term</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581430573-9-english-grammar-tips-from-an-esl-speaker/"><u>9 English Grammar Tips From An ESL Speaker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/acer-unveils-pioneering-portfolio-the-new-wave-of-laptops-equipped-with-meteor-lake-chips-from-intel/"><u>Acer Unveils Pioneering Portfolio: The New Wave of Laptops Equipped with Meteor Lake Chips From Intel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/alternative-methods-for-acquiring-windows-10-iso-file-bypassing-microsofts-official-tools/"><u>Alternative Methods for Acquiring Windows 10 ISO File: Bypassing Microsoft's Official Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/arm-based-windows-systems-get-officially-supported-google-chrome/"><u>ARM-Based Windows Systems Get Officially Supported Google Chrome</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/capturing-windows-10-screen-shots-with-an-always-visible-mouse-pointer/"><u>Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/complete-tutorial-mastering-the-ctrlpluszy-combo-for-editing-in-windows-os/"><u>Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tial-gif-creation-best-tools-reviewed-and-compared-for-2024/"><u>Essential GIF Creation Best Tools Reviewed & Compared for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-unavailable-frontiers-of-pandora-feature-in-avatar-video-game-series/"><u>Fixing the Unavailable Frontiers of Pandora Feature in Avatar Video Game Series</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-5-lite-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-zte-nubia-flip-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for ZTE Nubia Flip 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-xp-a-timeless-classic-with-no-successor-equal-in-fame-or-functionality/"><u>Windows XP - A Timeless Classic, With No Successor Equal in Fame or Functionality</u></a></li>
 </ul></div>
 

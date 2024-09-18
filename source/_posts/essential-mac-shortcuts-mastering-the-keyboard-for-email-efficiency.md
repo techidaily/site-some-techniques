@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-09-11T20:16:15.644Z
-updated: 2024-09-12T20:16:15.644Z
+date: 2024-09-17T18:28:51.861Z
+updated: 2024-09-18T16:40:15.009Z
 tags:
   - desktop
 categories:
@@ -13,32 +13,11 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
 
 Once you integrate shortcuts into your workflow, you'll wonder how you ever worked without them. Apple's native Mail app has a host of custom commands that make quickly navigating your email simple. Not only do these shortcuts work in the Mac Mail app, they also work on iPads with [connected keyboards](https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/) and when using iCloud Mail through a browser.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Attach Files (Command+Shift+A) 
 
  To attach a file quickly and easily when composing an email, press Command+Shift+A. This will open up File Explorer and allow you to select and attach the file you're looking for.
 
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
 
@@ -50,29 +29,22 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
 
  The "junk" designation in email is extremely helpful, as it relegates most spam into a separate folder away from your main inbox. However, email clients are not perfect when it comes to sorting your mail. Sometimes, junk mail may still end up in your primary inbox, or genuine mail can accidentally be sorted as junk.
 
  If you see an email that has ended up in the wrong place, you can move it with a simple keyboard shortcut. To do so, select the email or emails you want to use, and press Command+Shift+J. This will move folders from your inbox into the junk folder, or vice versa.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Hide/Show Sidebar (Control+Command+S) 
 
@@ -83,10 +55,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail app with Sidebar, including folders, highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-5-16-59-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -110,21 +82,16 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-quest-conquerors-best-of-the-role-playing-worlds/"><u>[New] Quest Conquerors Best of the Role-Playing Worlds</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-master-recommendations-elite-ios-sound-artists-for-2024/"><u>[Updated] Master Recommendations Elite iOS Sound Artists for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-vintage-video-making-masterclass-complete-tutorial/"><u>[Updated] Vintage Video Making Masterclass Complete Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-conversation-titans-gpt-vs-bing-for-best-bot/"><u>AI Conversation Titans: GPT Vs. Bing for Best Bot</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-microsofts-window-file-format-cab-for-ease-of-use/"><u>Deciphering Microsoft's Window File Format (CAB) for Ease of Use</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-80-pro-straight-screen-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 80 Pro Straight Screen Edition without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x80d03801/"><u>Mastering the Resolution of Error 0X80D03801</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-launch-issues-with-tekken-8-on-your-pc/"><u>Troubleshooting Steps: Resolving Launch Issues with Tekken 8 on Your PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-the-role-of-ntuserdat-in-windows-systems/"><u>Understanding the Role of NTUSER.DAT in Windows Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/upgrade-now-secure-your-windows-11-professional-copy-with-a-staggering-87-savings-opportunity/"><u>Upgrade Now: Secure Your Windows 11 Professional Copy with a Staggering 87% Savings Opportunity!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/why-microsofts-upscaler-is-essential-the-key-attraction-of-upgrading-to-a-copilotplus-gaming-pc/"><u>Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-clipboard-privacy-how-to-securely-wipe-out-past-copied-data/"><u>Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhances-convenience-seamlessly-connect-and-control-your-smartphone-directly-from-the-start-menu/"><u>Windows 11 Enhances Convenience: Seamlessly Connect and Control Your Smartphone Directly From the Start Menu</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhances-photos-application-with-key-visual-interface-upgrades/"><u>Windows 11 Enhances Photos Application with Key Visual Interface Upgrades</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-based-arm-desktops-powered-by-qualcomm-revolutionize-computing/"><u>Windows-Based ARM Desktops Powered by Qualcomm Revolutionize Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas/"><u>[New] 2024 Approved From Fumbling Clips to Viral Videos YouTube Edits Made Easy with Sony Vegas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-blue-badge-on-facebook-your-pathway-unveiled-for-2024/"><u>[Updated] Blue Badge on Facebook Your Pathway Unveiled for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/extend-your-snapstreak-success-with-these-ideas/"><u>Extend Your Snapstreak Success with These Ideas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-100-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor 100 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-razr-40-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Razr 40 Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29e Phone without Google Account?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/maximize-your-interactions-6-proven-techniques-for-enhanced-ai-chatbot-engagement/"><u>Maximize Your Interactions: 6 Proven Techniques for Enhanced AI Chatbot Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-through-vrchats-expansive-universe-of-virtual-environments-an-insiders-perspective/"><u>Navigating Through VRChat's Expansive Universe of Virtual Environments: An Insider’s Perspective</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-uncertainty-what-lies-in-store-for-the-future-of-metas-innovative-quest-pro-gear/"><u>Navigating Uncertainty: What Lies in Store for the Future of Meta's Innovative Quest Pro Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/nostalgia-for-the-90s-internet-exploring-vrml-the-precursor-to-modern-metaverses/"><u>Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-unstick-your-dota-2-from-the-loading-screen/"><u>Ultimate Fix Guide: Unstick Your Dota 2 From the Loading Screen</u></a></li>
 </ul></div>
 

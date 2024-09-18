@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2024-09-11T20:13:38.465Z
-updated: 2024-09-12T20:13:38.465Z
+date: 2024-09-14T17:02:28.516Z
+updated: 2024-09-18T16:00:01.516Z
 tags:
   - web
 categories:
@@ -38,26 +38,23 @@ Authy is one of the best authentication services out there, as well as one of th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-different-versions-of-windowed-movie-crafting-for-2024/"><u>[New] Different Versions of Windowed Movie Crafting for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-dive-deep-into-tiktoks-pfp-symbol-your-complete-guide-for-2024/"><u>[New] Dive Deep Into TikTok’s PFP Symbol - Your Complete Guide for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-a05s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy A05s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-revisiting-the-golden-age-of-cinema-video-tutorials/"><u>2024 Approved Revisiting the Golden Age of Cinema Video Tutorials</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-on-the-mac-app-store-here-are-5-reasons-to-think-twice-before-installing/"><u>ChatGPT on the Mac App Store? Here Are 5 Reasons to Think Twice Before Installing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 12 mini</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-digital-assets-how-to-distinguish-between-crypto-tokens-and-coins/"><u>Navigating Digital Assets: How to Distinguish Between Crypto Tokens and Coins</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-safely-in-a-world-of-artificebotica-the-hidden-dangers-of-ai-production/"><u>Navigating Safely in a World of Artificebotica: The Hidden Dangers of AI Production</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/no-more-waitlists-microsoft-designer-now-opens-immediately/"><u>No More Waitlists: Microsoft Designer Now Opens Immediately!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/phoenix-travelers-can-now-rely-on-waymos-autonomous-vehicles-for-airport-transfers/"><u>Phoenix Travelers Can Now Rely on Waymo's Autonomous Vehicles for Airport Transfers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ready-to-experience-cinema-creations-from-advanced-ai-technology/"><u>Ready to Experience Cinema Creations From Advanced AI Technology?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/reigniting-your-passion-for-creativity-how-artificnial-intelligence-helped/"><u>Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>[Updated] 2024 Approved Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-inquiring-into-the-benefit-of-verified-online-self-portraits/"><u>[Updated] In 2024, Inquiring Into the Benefit of Verified Online Self-Portraits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/android-version-15-update-now-in-beta-stage-4-release/"><u>Android Version 15 Update Now in Beta Stage 4 Release</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-ultimate-capture-secrets-revealed-for-2024/"><u>Android's Ultimate Capture Secrets Revealed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-privacy-friendly-android-keyboard-apps-enjoy-them-for-free/"><u>Best Privacy-Friendly Android Keyboard Apps - Enjoy Them for Free!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effective-strategies-for-reducing-apple-watch-power-consumption-a-comprehensive-guide/"><u>Effective Strategies for Reducing Apple Watch Power Consumption: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foremost-virtual-environments-providers-for-2024/"><u>Foremost Virtual Environments Providers for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-samsung-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Samsung Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-low-end-pc-capture-programs-reviewed-for-2024/"><u>Prime Low-End PC Capture Programs Reviewed for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-final-cut-pro-for-beginners-rotating-and-flipping-clips-like-a-pro/"><u>Updated 2024 Approved Final Cut Pro for Beginners Rotating and Flipping Clips Like a Pro</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

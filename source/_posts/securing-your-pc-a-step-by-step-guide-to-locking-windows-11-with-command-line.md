@@ -1,7 +1,7 @@
 ---
 title: "Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line"
-date: 2024-09-11T20:17:16.635Z
-updated: 2024-09-12T20:17:16.635Z
+date: 2024-09-17T17:38:58.113Z
+updated: 2024-09-18T17:33:27.142Z
 tags:
   - desktop
 categories:
@@ -11,30 +11,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 ## Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 * Activate the lock screen timeout setting by running "**powercfg.exe /SETACTIVE SCHEME\_CURRENT"** after you set the timeout.
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Lock Your Windows 10 PC Using Command Prompt
 
@@ -69,20 +36,13 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -92,13 +52,6 @@ Rundll32.exe user32.dll,LockWorkStation
  To do this, you’ll need to [open Command Prompt as an admin](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do so by typing “cmd” in the Windows Search bar and then right-clicking “Command Prompt” from the results. Next, select “Run As Administrator” from the menu that appears.
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
 
@@ -118,6 +71,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
 <ins class="adsbygoogle"
@@ -135,19 +95,21 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-selecting-the-right-gear-a-filmmakers-checklist/"><u>[New] Selecting the Right Gear A Filmmaker's Checklist</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-holistic-harmony-the-best-online-yoga-channels/"><u>[Updated] 2024 Approved Holistic Harmony - The Best Online Yoga Channels</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-video-editing-mastering-green-screen-integration-for-2024/"><u>[Updated] Cutting Edge Video Editing Mastering Green Screen Integration for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-viewership-3-key-storytelling-approaches/"><u>[Updated] In 2024, Elevate Viewership 3 Key Storytelling Approaches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-one-source-livestream-perfection-a-streamers-blueprint/"><u>[Updated] One-Source Livestream Perfection A Streamer's Blueprint</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guide-to-top-6-instagram-reel-enhancements-for-2024/"><u>[Updated] The Ultimate Guide to Top 6 Instagram Reel Enhancements for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>[Updated] Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-your-spreadsheet-mastery-with-the-new-copilot-capability-in-microsoft-excel/"><u>Enhance Your Spreadsheet Mastery with the New Copilot Capability in Microsoft Excel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/essential-checklist-key-tips-when-purchasing-pre-owned-electric-vehicles/"><u>Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/essential-computer-components-a-buyers-guide-for-optimal-stable-diffusion-performance/"><u>Essential Computer Components: A Buyer’s Guide for Optimal Stable Diffusion Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-an-ai-generated-ultimate-nightmarish-yet-cozy-home-lounge/"><u>Experience an AI-Generated Ultimate Nightmarish Yet Cozy Home Lounge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-tomorrows-tech-today-with-groundbreaking-virtual-reality-shoot-innovations/"><u>Experience Tomorrow's Tech Today with Groundbreaking Virtual Reality Shoot Innovations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/high-quality-8-cam-transformations-for-streaming/"><u>High-Quality 8 Cam Transformations for Streaming</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-team-videos-to-foster-viewership-and-following/"><u>[New] In 2024, Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-digitize-effortlessly-turn-to-mematic/"><u>[New] In 2024, Digitize Effortlessly - Turn to Mematic</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-optimal-sites-for-pixel-sounds/"><u>[New] In 2024, Unveiling Optimal Sites for Pixel Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-zoomed-into-the-core-of-action-films/"><u>[Updated] 2024 Approved Zoomed Into the Core of Action Films</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-collect-premium-audio-for-video-editors-for-2024/"><u>[Updated] Collect Premium Audio for Video Editors for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-picks-for-retro-play-5-expert-picked-psone-emulators/"><u>[Updated] Top Picks for Retro Play 5 Expert-Picked PsOne Emulators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lg-virtual-reality-innovation-a-detailed-review/"><u>2024 Approved LG Virtual Reality Innovation A Detailed Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/section-3b-five-factaysis/"><u>Section 3B: Five Factaysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-designing-and-sharing-your-own-customized-sticker-packs-on-telegram/"><u>Step-by-Step Guide: Designing and Sharing Your Own Customized Sticker Packs on Telegram</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-cross-talk-between-these-pathways-is-complex-for-example-autophagy-can-serve-as-a-cell-survival-mechanism-but-can-also-facilitate-apoptosis-if-it-fails-47/"><u>The Cross-Talk Between These Pathways Is Complex; for Example, Autophagy Can Serve as a Cell Survival Mechanism but Can Also Facilitate Apoptosis if It Fails to Allewarthe Stress Conditions Within the Cell.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-significance-of-the-latest-iphone-os-update-why-ios-18-shakes-up-the-tech-world/"><u>The Significance of the Latest iPhone OS Update: Why iOS 18 Shakes Up the Tech World</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-stealthy-lens-approach-to-consuming-instagram-stories-on-desktop-and-mobile-devices/"><u>The Stealthy Lens Approach to Consuming Instagram Stories on Desktop & Mobile Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-14-multiplayer-co-op-mobile-games-for-enjoying-time-together-on-android/"><u>Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-6-amazing-ways-to-enhance-your-experience-with-samsung-dex/"><u>Top 6 Amazing Ways to Enhance Your Experience with Samsung DeX</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-smartphone-into-an-enhanced-nintendo-switch-experience-with-just-one-gadget/"><u>Transform Your Smartphone Into an Enhanced Nintendo Switch Experience with Just One Gadget</u></a></li>
 </ul></div>
 

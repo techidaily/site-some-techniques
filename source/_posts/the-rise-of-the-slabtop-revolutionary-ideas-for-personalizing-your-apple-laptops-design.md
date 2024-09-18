@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-09-11T20:16:44.060Z
-updated: 2024-09-12T20:16:44.060Z
+date: 2024-09-13T16:30:13.208Z
+updated: 2024-09-18T18:03:03.613Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 ## The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * A slabtop is a headless laptop with the display and lid removed, resembling home computers from the 80s.
@@ -26,19 +19,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is a Slabtop?
 
  A slabtop is a headless laptop, with MacBooks being popular choices for this type of conversion. A headless computer generally refers to a computer that has been designed for use without a monitor. Normally, this involves remote access software or a text-based interface like SSH. Servers are commonly designed to be headless, but headless machines can depend on a monitor from time to time, such as when troubleshooting.
@@ -46,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  In the context of a slabtop, headless simply means that the built-in monitor (and the lid that houses the monitor) has been removed. This results in a slab computer that houses all the components in the base. This isn't a million miles away from the home computers of the 80s (like the Commodore 64) where the keyboard _was_ the computer.
 
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
 
@@ -63,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  If all that's damaged is the display, your laptop likely still has plenty of life left in it. Even if you don't have an HDMI or DisplayPort output, your laptop can almost certainly output a video signal using a USB-C dongle or similar.
 
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  CalDigit USB-C Gen2 Dock
 
@@ -90,16 +50,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Your Own Display
@@ -117,16 +71,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Make Your Own Slabtop
@@ -168,15 +116,15 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-auditory-archetypes-premier-soundbites-in-googles-playlist/"><u>[New] Auditory Archetypes Premier Soundbites in Google’s Playlist</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-guide-top-10-photography-frame-tools/"><u>[Updated] 2024 Approved Ultimate Guide Top 10 Photography Frame Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-steps-for-unlocking-stuck-obs-fullscreen-mode-for-2024/"><u>[Updated] Steps for Unlocking Stuck OBS Fullscreen Mode for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2-daily-deep-dive-into-nyt-topics-expert-hints-and-answers-for-may-23rd-special-edition-347/"><u>2. Daily Deep Dive Into NYT Topics - Expert Hints and Answers for May 23Rd (Special Edition #347)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-magical-jargon-uncover-the-best-marketing-phrases/"><u>2024 Approved Magical Jargon Uncover the Best Marketing Phrases</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/alert-imitation-is-not-the-sincerest-form-of-assistance-bot-scammers-pretending-to-be-travel-advisors-on-social-platforms/"><u>Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/august-6-edition-unlocking-the-secrets-of-421-in-todays-new-york-times-connection-puzzle/"><u>August 6 Edition: Unlocking the Secrets of #421 in Today's New York Times Connection Puzzle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cracking-the-new-york-times-june-sat-style-tests-insights-and-answers-for-exam-0729-day-38-414/"><u>Cracking The New York Times June SAT-Style Tests: Insights and Answers for Exam #0729, Day 38 (#414)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-video-recording-features-on-sonys-ps4-console/"><u>Mastering Video Recording Features on Sony's PS4 Console</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-vlog-presentation-converting-h-footage-for-vertical-display-for-2024/"><u>Mastering Vlog Presentation Converting H-Footage for Vertical Display for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-the-leading-youtube-to-webm-converter-tools/"><u>[New] In 2024, Discover the Leading YouTube-to-WebM Converter Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-skill-discovering-the-top-10-budget-friendly-video-artists-on-youtube/"><u>[Updated] Elevate Your Skill Discovering the Top 10 Budget-Friendly Video Artists on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-reasons-why-i-regret-buying-the-nvidia-geforce-rtx-4090/"><u>3 Reasons Why I Regret Buying the NVIDIA GeForce RTX 4090</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-fresh-tunes-with-apple-music-radio-your-gateway-to-the-latest-beats/"><u>Discover Fresh Tunes with Apple Music Radio: Your Gateway to the Latest Beats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-the-latest-update-for-snip-and-sketch-and-paint-apps-in-windows-11/"><u>Discover the Latest Update for Snip & Sketch and Paint Apps in Windows 11!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/diving-into-artificial-intelligence-a-journey-through-an-innovative-linux-terminal/"><u>Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-tutorial-for-the-latest-download-trustworthy-fingerprint-detection-device-software/"><u>Effortless Setup Tutorial for the Latest [DOWNLOAD]: Trustworthy Fingerprint Detection Device Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-narzo-60-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Narzo 60 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-zd-soft-screen-recorder-a-comprehensive-handbook-for-2024/"><u>Mastering ZD Soft Screen Recorder A Comprehensive Handbook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resurrect-vanished-desktop-panes-methods-for-retrieving-hidden-windows/"><u>Resurrect Vanished Desktop Panes: Methods for Retrieving Hidden Windows</u></a></li>
 </ul></div>
 

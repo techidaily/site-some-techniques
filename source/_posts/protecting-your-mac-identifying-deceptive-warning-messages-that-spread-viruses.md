@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-09-17T16:37:15.309Z
-updated: 2024-09-18T16:33:51.888Z
+date: 2024-09-21T06:00:44.209Z
+updated: 2024-09-23T17:50:23.630Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What's Going On?
 
  Bad actors try to trick people into downloading (and paying for) software they don’t need using Apple’s macOS notification system. The same trick could even be used to download malware like [remote access trojans](https://youtube-videos.techidaily.com/maximizing-your-channels-earning-potential-through-trailers/) and [ransomware](https://screen-activity-recording.techidaily.com/updated-ultimate-techniques-for-screen-recording-games-on-win10-for-2024/) onto your Mac.
@@ -33,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Stop Seeing Misleading Notifications
 
  If you’re a Safari user, head to Safari > Preferences and click on the “Websites” tab then choose “Notifications” from the list on the left. It’s a good idea to perform a privacy checkup from time to time to make sure these settings are correct.
@@ -44,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Avoid This Happening Again
@@ -57,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
@@ -84,20 +98,16 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>[New] 2024 Approved Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-the-ultimate-methods-for-high-quality-video-conversion/"><u>[New] 2024 Approved Unveiling the Ultimate Methods for High Quality Video Conversion</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-chapter-how-to-add-chapters-to-vimeo-video/"><u>[New] In 2024, Vimeo Chapter How to Add Chapters to Vimeo Video?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-empowering-tiktok-sharing-on-twitter-networks/"><u>[Updated] 2024 Approved Empowering TikTok Sharing on Twitter Networks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-recording-to-releasing-editing-in-garageband/"><u>[Updated] From Recording to Releasing Editing in GarageBand</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/digital-fame-forecast-2024/"><u>Digital Fame Forecast 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortless-guide-on-transferring-your-favorite-tunes-from-youtube-directly-onto-your-flash-drive/"><u>Effortless Guide on Transferring Your Favorite Tunes From YouTube Directly Onto Your Flash Drive</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/key-obstacles-preventing-timely-iphone-upgrades-insights-and-solutions/"><u>Key Obstacles Preventing Timely iPhone Upgrades - Insights & Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/latest-apple-sports-app-enhancement-explore-the-new-features/"><u>Latest Apple Sports App Enhancement: Explore the New Features!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/liquefactive-necrosis/"><u>Liquefactive Necrosis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/never-miss-a-beat-with-smart-planning-for-whatsapp-updates-on-key-occasions/"><u>Never Miss a Beat with Smart Planning for WhatsApp Updates on Key Occasions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-california-law-endorses-mobile-authentication-embracing-digital-id-apps-on-android-devices/"><u>New California Law Endorses Mobile Authentication: Embracing Digital ID Apps on Android Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/revolutionize-your-home-viewing-experience-with-enhanced-google-tv-interface/"><u>Revolutionize Your Home Viewing Experience with Enhanced Google TV Interface</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-poco-c65-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-transform-your-tech-experience-learn-how-to-screen-record-efficiently/"><u>[New] 2024 Approved Transform Your Tech Experience Learn How to Screen Record Efficiently</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[Updated] Ultimate DuRecorder Handbook Insights & Evaluation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-initiating-conversations-on-instagram-live/"><u>2024 Approved Initiating Conversations on Instagram Live</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/webmkvgif-movavi/"><u>如何在Web上無成本地改變MKV為GIF格式 - Movavi 影片換色機</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversion-gratuite-des-fichiers-m2ts-vers-mp4-en-ligne-avec-movavi/"><u>Conversion Gratuite Des Fichiers M2TS Vers MP4 en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversione-gratuita-da-file-m4a-a-mkv-online-con-movavi-guida-completa/"><u>Conversione Gratuita Da File M4A a MKV Online Con Movavi - Guida Completa</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/endo-control-secure-sound-sharing-online/"><u>Crescendo Control Secure Sound Sharing Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-celebrating-families-this-years-top-10-movie-gems/"><u>In 2024, Celebrating Families This Year’s Top 10 Movie Gems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wma-mov-online-conversion-movavi/"><u>WMA 파일을 무료로 MOV로 바꾸기: Online Conversion 사용자가 좋아하는 Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/kalwn-morfwn-eygnwmwn-gia-ta-eyxes-gkreman/"><u>Καλών Μορφών Ευγνώμων Για Τα Ευχές Γκρεμάν</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wi-fi-mjpeg/"><u>오늘날의 가장 유용한 편리성: 무료 Wi-Fi를 사용한 MJPEG 암호화</u></a></li>
 </ul></div>
 

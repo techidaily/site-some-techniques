@@ -1,7 +1,7 @@
 ---
 title: "Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy"
-date: 2024-09-11T16:48:52.997Z
-updated: 2024-09-18T18:33:08.717Z
+date: 2024-09-22T03:10:16.005Z
+updated: 2024-09-24T06:03:00.316Z
 tags:
   - deals
 categories:
@@ -19,11 +19,25 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  Goodnotes gained popularity among the younger generation of iPad users because it makes note-taking fun and keeps files organized. The only downside was that the app was only compatible with iOS devices. Luckily, Goodnotes finally released a Windows version, and here are the things you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Signing Up for Goodnotes
 
  You can sign up or log in to the Goodnotes app on Windows with Google, Microsoft, or Apple. So, if you've signed up to Goodnotes in the past, you can use the same account on your Windows PC. Additionally, you can sign in to multiple accounts and easily switch between profiles, making your note-taking experience smoother than ever.
 
 ![The sign-in options for Goodnotes on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sign-in-goodnotes.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It comes as no surprise that to enjoy all the features on Goodnotes for Windows, you’ll need to subscribe to the premium version. For example, the free version has a notebook limit of three, meaning you can only get three documents or notes. So, if you need more notes, you’ll have to upgrade to one of the paid subscriptions.
 
@@ -39,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  I ran the Goodnotes app on an HP Envy x360 with Windows 11 to get the tablet-like effect. Here are some of the cool features I used.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Multiple Page Formats
 
 ![A variety of paper formats displayed in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paper-formats.jpeg) 
@@ -54,15 +61,36 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  If you use Goodnotes to take notes in class or a meeting and prefer writing in a straight line, there is a ruled paper option. And if you love to bullet journal, you can now do so digitally with the dotted page options. There are also blank pages for drawing or jotting down ideas freely. The best part is customizing your own templates to make your notes exactly how you like.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Offline Access
 
  You can also access your notes offline, so there's no need to worry about having a stable internet connection. Goodnotes lets you view and edit your notes, and they will sync when your connection is restored.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
 
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
  From accounting sheets to planning your finances, a variety of monthly and weekly planner sheets and a standard to-do sheet to keep your day organized. The templates are quite basic, but they give you the creative room to customize them and make them your own.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Lasso Tool
 
@@ -75,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
  Another benefit of the lasso tool is if you have a more complex diagram and want to adjust a few things. Instead of erasing and redrawing, you can use the lasso tool to grab what you want and move it around easily.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Sharing Docs And Collaborating
@@ -89,25 +117,11 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ![Click the 'Share' button on Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sharing-option-for-goodnotes.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that the sharing feature on your Windows computer is only available with paid subscriptions to Goodnotes for Windows or Goodnotes Pro.
 
 ###  Beta Testing Marketplace
 
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
 
@@ -136,21 +150,21 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stream-and-record-gamers-ultimate-guide/"><u>[New] In 2024, Stream and Record Gamers' Ultimate Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-dynamic-duo-of-yi-and-4k-in-action-video/"><u>[Updated] 2024 Approved The Dynamic Duo of Yi and 4K in Action Video</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-mac-screen-recording-via-keyboard-tricks/"><u>[Updated] In 2024, Mastering Mac Screen Recording via Keyboard Tricks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-influencer-insights-the-top-5-instagram-moves-for-viral-content-for-2024/"><u>[Updated] Influencer Insights The Top 5 Instagram Moves for Viral Content for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-links-unraveling-nyts-july-1-connections-challenge-386-find-your-solution-today/"><u>Discover the Links! Unraveling NYT's July 1 Connections Challenge (#386) – Find Your Solution Today!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-secrets-of-the-new-york-times-july-2-riddles-decoded-answer-to-387/"><u>Discover the Secrets of The New York Times' July 2 Riddles - Decoded Answer to #387!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-why-high-speed-gigabit-internet-is-essential-are-you-and-your-devices-ready/"><u>Discover Why High-Speed Gigabit Internet Is Essential: Are You and Your Devices Ready?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/dive-into-the-clues-of-the-nyt-challenge-july-20th-edition-hinted-answers-for-set-405-revealed/"><u>Dive Into the Clues of 'The NYT Challenge': July 20Th Edition, Hinted Answers for Set #405 Revealed!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevate-your-linkedin-profile-for-success-with-no-cost-ai-optimization-strategies/"><u>Elevate Your LinkedIn Profile for Success with No Cost AI Optimization Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevated-experience-vivaldis-superior-email-clients-surpass-all-competitors/"><u>Elevated Experience: Vivaldi's Superior Email Clients Surpass All Competitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ensuring-safe-shares-mastering-the-art-of-pre-emptive-link-inspection/"><u>Ensuring Safe Shares: Mastering the Art of Pre-Emptive Link Inspection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-13-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-navigating-tiktok-profile-updates-with-linktree-integration/"><u>In 2024, Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-to-solve-sluggish-keyboard-reaction-a-guide/"><u>Simple Steps to Solve Sluggish Keyboard Reaction: A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/solve-your-inked-woes-a-guide-to-fixing-windows-pen-devices/"><u>Solve Your Inked Woes: A Guide to Fixing Windows Pen Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-11-free-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[Updated] 11 FREE YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-archive-awesome-perfecting-twitter-video-backups/"><u>[Updated] Archive Awesome Perfecting Twitter Video Backups</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-best-backgrounds-for-live-streaming-2023/"><u>[Updated] In 2024, Best Backgrounds for Live Streaming 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-become-a-youtube-partner/"><u>[Updated] In 2024, How to Become A YouTube Partner</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] In 2024, InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-secure-and-compelling-social-media-presentations-through-subtitle-sharing/"><u>2024 Approved Secure and Compelling Social Media Presentations Through Subtitle Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-no-charge-frame-by-frame-youtube-tutorial/"><u>2024 Approved The Ultimate No-Charge, Frame-by-Frame YouTube Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mp4ogv-movavi/"><u>免費網路MP4至OGV類比格式自動轉換 - Movavi直接轉換器</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mp4avi-mpeg-1-movavi/"><u>網路上免費MP4/AVI 到 MPEG-1 格式之間的自由切換 - Movavi 影像編輯器</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mp2-mp4-movavi/"><u>線上自由MP2 MP4轉換服務 - 利用Movavi便捷格式修改</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mxfmpeg/"><u>移動影像格式MXF到MPEG：在线免费转换 - 摩瓦维视频编解码器</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-video-submissions-from-imovie-to-vimeo/"><u>In 2024, Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-vob-mp3-online-guide/"><u>Movavi의 단거나 비용 없이 VOB 파일을 MP3로 전환하기: 스프링 - Online Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi3g-mpeg/"><u>Movaviを使用した無料の3G MPEG動画へのオンライン変換ツール</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movil-sin-costo-cambiar-mxf-a-formato-wav-con-gratuitidad/"><u>Móvil Sin Costo: Cambiar MXF a Formato WAV Con Gratuitidad</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-tone-it-up-5-easy-to-use-online-generators-no-charge/"><u>Updated In 2024, Tone It Up 5 Easy-to-Use Online Generators No Charge</u></a></li>
 </ul></div>
 

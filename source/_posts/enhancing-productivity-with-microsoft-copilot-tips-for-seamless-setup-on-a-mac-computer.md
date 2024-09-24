@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer"
-date: 2024-09-12T16:37:27.128Z
-updated: 2024-09-18T16:19:06.900Z
+date: 2024-09-21T16:14:11.281Z
+updated: 2024-09-23T16:42:47.076Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Copilot Web App
 
  Microsoft's Copilot AI assistant is available on the web in any web browser. You can simply load it up in whatever browser you use and access it from there. A better option, though, is to save it as a web app.
@@ -27,13 +34,46 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
@@ -59,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Copilot on Windows for the Full Experience
 
  Microsoft Copilot on a Mac doesn't give you the deeper system integration you get on Windows—you can't launch apps or control your Bluetooth devices, for example. But it's great for things like getting information, creating lists, basic coding, and generating images. And it works as well through the web app or iPad app as on any other platform.
@@ -85,12 +118,17 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-step-by-step-guide-to-pc-based-live-broadcasts-on-tiktok/"><u>[New] 2024 Approved Step-by-Step Guide to PC-Based Live Broadcasts on TikTok</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-timeline-pioneering-milestones-in-electric-vehicle-development/"><u>Discover the Timeline: Pioneering Milestones in Electric Vehicle Development</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-the-newly-launched-google-pixel-9-collection-features-prices-and-where-to-buy/"><u>Introducing the Newly Launched Google Pixel 9 Collection: Features, Prices & Where to Buy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/key-obstacles-preventing-timely-iphone-upgrades-insights-and-solutions/"><u>Key Obstacles Preventing Timely iPhone Upgrades - Insights & Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/latest-apple-sports-app-enhancement-explore-the-new-features/"><u>Latest Apple Sports App Enhancement: Explore the New Features!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-to-get-the-logitech-g29-steering-wheel-driver-on-your-pc-windows-supported/"><u>Step-by-Step Instructions to Get the Logitech G29 Steering Wheel Driver on Your PC (Windows Supported)</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x50-gt-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-video-game-on-instagram-with-right-dimensions/"><u>[Updated] Elevate Your Video Game on Instagram with Right Dimensions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-9-invisible-media-extractors/"><u>2024 Approved Top 9 Invisible Media Extractors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/advanced-strategies-for-endless-online-spaces/"><u>Advanced Strategies for Endless Online Spaces</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/du-recorder-features-and-review/"><u>Du Recorder Features and Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-tips-for-effective-use-of-supplemental-film-sequences-b-roll-for-2024/"><u>Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/professional-movavi-video-editing-software-expert-screen-recording-and-editing-tools-for-businesses/"><u>Professional Movavi Video Editing Software: Expert Screen Recording and Editing Tools for Businesses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/professional-movavi-video-editor-advanced-batch-processing-and-resizing-solutions-for-enterprises/"><u>Professional Movavi Video Editor: Advanced Batch Processing & Resizing Solutions for Enterprises</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-liquid-detected-warnings-tips-for-clearing-your-iphones-usb-c-port/"><u>Resolving 'Liquid Detected' Warnings: Tips for Clearing Your iPhone's USB-C Port</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/scopri-le-6-app-di-animazione-cartoon-piu-ottime-per-modificare-immagini/"><u>Scopri Le 6 App Di Animazione Cartoon Più Ottime per Modificare Immagini</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/selezione-delle-schede-sd-migliori-da-usare-con-lapparecchio-fotogiornalistico-della-gopro/"><u>Selezione Delle Schede SD Migliori Da Usare Con L'apparecchio Fotogiornalistico Della GoPro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-revolutionary-sleep-technology-your-pathway-to-peaceful-rest/"><u>The Definitive Guide to Revolutionary Sleep Technology: Your Pathway to Peaceful Rest</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/raw-bmp-movavi/"><u>핸드키로 RAW BMP 영상을 이동성 장치에서 전환: 무료 Movavi 가이드</u></a></li>
 </ul></div>
 

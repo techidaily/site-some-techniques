@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-09-16T17:55:38.195Z
-updated: 2024-09-18T17:51:16.106Z
+date: 2024-09-20T07:12:32.619Z
+updated: 2024-09-24T06:59:31.670Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  Select "Yes" in the User Account Control prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
  It’s possible the mic is functioning properly but isn’t being recognized by Discord for some reason. To [test your mic](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), open another mic-utilizing app on your PC and see if the mic works.
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
@@ -69,17 +76,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
@@ -89,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and go to User Settings (the gear icon). In the left sidebar, click "Voice & Video." On the right pane, turn off "Enable Quality of Service High Packet Priority."
 
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
 
@@ -101,6 +108,19 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  In the open prompt, select "Okay."
 
 !['Okay' highlighted in the 'Reset Voice Settings' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-reset-voice-settings-prompt-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Close and relaunch Discord](https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/) and check if your mic is working. 
 
@@ -123,16 +143,18 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-how-to-get-more-likes-on-your-tiktok-unboxing-video-for-2024/"><u>[New] How to Get More Likes on Your TikTok Unboxing Video for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/canons-sx530-the-simple-starter-for-aspiring-photographers/"><u>Canon's SX530: The Simple Starter for Aspiring Photographers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-youtubes-new-experimental-feature-automatic-video-pause-at-bedtime/"><u>Discover YouTube's New Experimental Feature: Automatic Video Pause at Bedtime</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-latest-upgrades-in-mozilla-firefox-introducing-vertical-tabs-and-enhanced-tab-organization-techniques/"><u>Explore the Latest Upgrades in Mozilla Firefox: Introducing Vertical Tabs and Enhanced Tab Organization Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-new-compact-feature-in-google-chromes-latest-trial/"><u>Exploring the New Compact Feature in Google Chrome's Latest Trial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-amazons-approach-to-product-recalls-is-falling-short-according-to-american-consumer-advocates/"><u>How Amazon's Approach to Product Recalls Is Falling Short According to American Consumer Advocates</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-macbook-webcam-footage-for-2024/"><u>Mastering MacBook Webcam Footage for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-t2-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from T2 5G</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/top-7-mp4-unifiers-the-ultimate-guide-to-seamlessly-blend-multiple-videos-into-a-single-file/"><u>Top 7 MP4 Unifiers: The Ultimate Guide to Seamlessly Blend Multiple Videos Into a Single File</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-non-loading-twitch-broadcasts-with-these-7-tips/"><u>Troubleshoot Non-Loading Twitch Broadcasts with These 7 Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726026771187-m4a-windows-1011/"><u>マスタリングM4A音楽ファイル: Windows 10/11による簡単なトリミング・合成・ボリューム調整技術</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-screenshot-and-recorder-software-for-professors/"><u>[New] Best Screenshot and Recorder Software for Professors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-strategies-to-maximize-viewership-on-igtv-from-h-videos-for-2024/"><u>[New] Strategies to Maximize Viewership on IGTV From H-Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boost-engagement-with-effective-wirecast-broadcasts-on-fb-for-2024/"><u>Boost Engagement with Effective Wirecast Broadcasts on FB for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-using-ical-with-windows-operating-systems/"><u>Bridging the Gap: Using iCal with Windows Operating Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-atlantic-language-contrasts/"><u>Cross-Atlantic Language Contrasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-x6-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Find X6 Pro FRP Locks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supreme-recommendations-best-ios-tone-designers/"><u>In 2024, Supreme Recommendations Best iOS Tone Designers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-vrijetijdige-konvertor-aiff-naar-ogg-met-movavi/"><u>Online Vrijetijdige Konvertor: Aiff Naar Ogg Met Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ram-in-formato-wma-trasformare-online-e-gratuito-la-guida-completa-al-metodo-movavi/"><u>RAM in Formato WMA: Trasformare Online E Gratuito - La Guida Completa Al Metodo Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/reviving-the-full-screen-in-obs-for-2024/"><u>Reviving the Full Screen in OBS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/riconversione-gratuita-di-file-wma-in-formato-aac-online-con-movavi/"><u>Riconversione Gratuita Di File WMA in Formato AAC Online Con Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mxf-en-mp3-gratuitement-en-ligne-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MXF en MP3 Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformar-seus-arquivos-ogv-em-formatos-mov-gratuitamente-a-melhor-ferramenta-on-line-do-movavi-disponivel-agora/"><u>Transformar Seus Arquivos OGV Em Formatos MOV Gratuitamente - A Melhor Ferramenta On-Line Do Movavi Disponível Agora!</u></a></li>
 </ul></div>
 

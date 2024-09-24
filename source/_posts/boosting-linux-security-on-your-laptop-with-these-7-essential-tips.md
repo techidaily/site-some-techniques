@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-09-11T16:47:19.127Z
-updated: 2024-09-18T17:07:35.527Z
+date: 2024-09-19T23:12:27.394Z
+updated: 2024-09-24T05:54:53.536Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,13 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 
  You’ll be prompted to set a system password during setup, usually right after encrypting your hard drive. Make sure to create a [strong, memorable password](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) that’s different from the hard disk password. Using the same password twice makes life far too easy for would-be thieves.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  Set Up Screen Lock 
 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
@@ -55,13 +62,6 @@ Jerome Thomas / How-To Geek
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
 VPNs are great privacy tools, but they're not perfect. They can't protect you from everything.
@@ -77,27 +77,41 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Disable Root Login Over SSH 
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  The penultimate piece of advice is a little exotic, but useful. As you probably know, root privileges let you do anything you want on a Linux machine. The problem is that under very specific circumstances anybody accessing the device remotely through an [SSH tunnel](https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/) can gain those privileges and thus do whatever they want on your laptop.
 
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
 
@@ -126,17 +140,18 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-step-by-step-to-craft-flawless-yt-thumbnails/"><u>[New] 2024 Approved Step-by-Step to Craft Flawless YT Thumbnails</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-podcast-logo-basics-key-principles-for-striking-art/"><u>[New] Podcast Logo Basics Key Principles for Striking Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/affordable-and-powerful-open-source-options-to-replace-adobe-design-tools-in-windows-environment/"><u>Affordable and Powerful Open Source Options to Replace Adobe Design Tools in Windows Environment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/bridging-operating-systems-utilizing-wsl-for-running-ubuntu-apps-on-windows-11/"><u>Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-g24-power-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola G24 Power Safely | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-aid-6-ways-to-improve-home-task-execution/"><u>Intelligent Aid: 6 Ways to Improve Home Task Execution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/live-from-the-frontlines-of-mac-loyalty/"><u>Live From the Frontlines of Mac Loyalty</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-generating-ai-visuals-with-chatgpt-a-step-by-step-guide/"><u>Mastering the Art of Generating AI Visuals with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/top-recommended-audio-configuration-tips-for-converting-your-dvdblu-ray-collection-into-mp4-with-handbrake/"><u>Top Recommended Audio Configuration Tips for Converting Your DVD/Blu-Ray Collection Into MP4 with Handbrake</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-based-arm-desktops-powered-by-qualcomm-revolutionize-computing/"><u>Windows-Based ARM Desktops Powered by Qualcomm Revolutionize Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-speech-recognition-made-easy-your-route-to-streamlined-workflows-with-microsoft-words-features-for-2024/"><u>[New] Speech Recognition Made Easy Your Route to Streamlined Workflows with Microsoft Word's Features for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-studio-monetization-check-ensure-your-channels-monetization/"><u>[Updated] In 2024, YouTube Studio Monetization Check Ensure Your Channel's Monetization</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-accelerate-your-library-quick-tiktok-download-strategies/"><u>In 2024, Accelerate Your Library Quick TikTok Download Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-full-screen-mastery-for-premier-pro-users/"><u>In 2024, Full Screen Mastery for Premier Pro Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-google-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Google</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-media-exchange-transferring-facebook-content-to-whatsapp/"><u>In 2024, Seamless Media Exchange Transferring Facebook Content to WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-use-chatgpt-understanding-its-potential-vulnerabilities/"><u>Is It Safe To Use ChatGPT: Understanding Its Potential Vulnerabilities?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-transforma-gravamenes-de-video-mpeg-en-audio-flac-sin-coste-adicional-online/"><u>Movavi - Transforma Gravámenes De Vídeo MPEG en Audio FLAC Sin Coste Adicional Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-trasforma-il-tuo-video-in-formato-pef-senza-costi-un-tutorial-essenziale-per-lencoding-online/"><u>Movavi - Trasforma Il Tuo Video in Formato PEF Senza Costi: Un Tutorial Essenziale per L'encoding Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-tiff/"><u>Movavi를 사용한 자이로나에서 TIFF 전환 무료 스테이징 – 제안해 주세요!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavimpemp3/"><u>Movaviの無料MPEからMP3へのオンライン変換ツール</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/plex-y-codecs-av1-guia-paso-a-paso-para-incorporar-firmas-av1-en-su-plataforma-de-streaming-plex/"><u>Plex Y Codecs AV1: Guía Paso a Paso Para Incorporar Firmas AV1 en Su Plataforma De Streaming Plex</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-bass-management-a-guide-on-its-functions-and-mechanisms/"><u>Understanding Bass Management: A Guide on Its Functions and Mechanisms</u></a></li>
 </ul></div>
 

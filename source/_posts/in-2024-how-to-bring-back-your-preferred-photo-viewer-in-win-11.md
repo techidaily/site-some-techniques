@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Bring Back Your Preferred Photo Viewer in Win 11"
-date: 2024-08-27T17:52:46.955Z
-updated: 2024-08-28T17:52:46.955Z
+date: 2024-09-22T17:16:00.913Z
+updated: 2024-09-24T01:22:14.456Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -65,13 +72,17 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -86,19 +97,17 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
@@ -106,57 +115,19 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expedite-your-experience-quick-iphone-time-lapse/"><u>[New] Expedite Your Experience  Quick iPhone Time-Lapse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-moving-multimedia-on-apple-gear/"><u>[New] Expert Advice  Moving Multimedia on Apple Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-immersive-videography-the-360-journey/"><u>[New] Exploring Immersive Videography  The 360° Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-digital-artistry-the-meme-generator/"><u>[New] Free Digital Artistry  The Meme Generator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-outstanding-transforming-your-meetings-with-zoom-filters/"><u>[New] From Ordinary to Outstanding  Transforming Your Meetings with Zoom Filters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-drone-review/"><u>[New] GoPro Karma Drone Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-of-slomo-video-capture-tool/"><u>[New] In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones/"><u>[New] The Complete Roadmap  Downloading, Editing & Customizing WhatsApp Tones</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-list-the-finest-no-cost-games-capture-software-2024/"><u>[Updated] Essential List  The Finest No-Cost Games' Capture Software 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-resource-hub-downloadable-templates-for-youtubers/"><u>[Updated] Exclusive Resource Hub - Downloadable Templates for YouTubers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-editing-showdown-polaroid-cube-vs-gopro-hero-series/"><u>[Updated] Face-Editing Showdown  Polaroid Cube Vs. GoPro Hero Series</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flipping-fun-facts-into-memes-with-kinemaster/"><u>[Updated] Flipping Fun Facts Into Memes with KineMaster</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-maestro-professional-photography-and-cinematography-techniques/"><u>[Updated] From Novice to Maestro  Professional Photography & Cinematography Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-premiere-pro-full-screen-preview/"><u>[Updated] Full Guide to Premiere Pro Full Screen Preview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hours-of-videography-expected-gb-usage/"><u>[Updated] Hours of Videography  Expected GB Usage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-keep-viewers-engaged-with-these-videos/"><u>[Updated] How to Keep Viewers Engaged with These Videos</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-t2-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-explore-our-picks-of-budget-friendly-and-high-quality-video-viewing-tools-pcmobile/"><u>2024 Approved  Explore Our Picks of Budget-Friendly and High-Quality Video Viewing Tools (PC/Mobile)</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/haunting-shots-next-gen-action-hddc-for-2024/"><u>Haunting Shots  Next-Gen Action HDDC for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-achieve-lightning-fast-periscope-transmission-for-2024/"><u>How to Achieve Lightning-Fast Periscope Transmission for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-snap-to-stunning-photo-editing-secrets/"><u>In 2024, From Snap to Stunning  Photo Editing Secrets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-guide-quick-tips-for-meme-artistry/"><u>In 2024, Giggle Guide  Quick Tips for Meme Artistry</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nubia-z50s-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nubia Z50S Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-improve-video-quality-in-zoom-meetings/"><u>In 2024, How to Improve Video Quality in Zoom Meetings?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-color-grading-navigating-luts-in-adobe-premiere-pro/"><u>In 2024, Immersive Color Grading  Navigating LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-initiate-flawless-zoom-sessions-today/"><u>In 2024, Initiate Flawless Zoom Sessions Today</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-c67-4g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme C67 4G Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-giroptic-360-angle-reviews-for-2024/"><u>In-Depth Giroptic 360-Angle Reviews for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-mosaic-photography-for-2024/"><u>Innovative Approaches for Mosaic Photography for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/navigating-neat-networks-of-needle-precision-racing-games-for-2024/"><u>Navigating Neat Networks of Needle-Precision Racing Games for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-note-50-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme Note 50 Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-poco-c50-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Poco C50? Fixed | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -164,3 +135,27 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-enlightening-editing-paths-to-audience-appealing-descriptors/"><u>[Updated] 2024 Approved Enlightening Editing Paths to Audience-Appealing Descriptors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-thread-of-thought-sharing-sewing-skills-with-tiktokers/"><u>[Updated] 2024 Approved The Thread of Thought Sharing Sewing Skills with TikTokers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-guide-to-tape-twitch-streams-effectively-for-2024/"><u>[Updated] Guide to Tape Twitch Streams Effectively for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-instalment-insight-getting-vrecord-running/"><u>[Updated] Instalment Insight Getting VRecord Running</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-online-audience-growth-detection-tools/"><u>[Updated] Online Audience Growth Detection Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-optimal-screen-record-settings-for-facetime-conversations-for-2024/"><u>[Updated] Optimal Screen Record Settings for FaceTime Conversations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-m4aogg/"><u>移動網路無限制自由改變音頻格式：Movavi M4A到OGG的智能轉換工具</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gif-a-formato-mkv-sin-coste-convertir-con-soluciones-de-linea-de-cero-por-movavi/"><u>GIF a Formato MKV Sin Coste: Convertir Con Soluciones De Línea De Cero Por Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-online-opusmp3-to-ogg-converter-by-movavi-fast-reliable-and-user-friendly/"><u>Gratis Online Opus/MP3 to Ogg Converter by Movavi - Fast, Reliable & User-Friendly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-convertitore-di-file-wma-su-internet-con-movavi/"><u>Gratuit@ - Convertitore Di File WMA Su Internet Con Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guia-facil-para-tomar-capturas-de-pantalla-partiales-en-windows-11/"><u>Guía Fácil Para Tomar Capturas De Pantalla Partiales en Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-8-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/komt-een-kostenlose-conversie-aan-ogg-adres-met-movavi-voor-online-activiteiten-afvallend-au-inlevering-gratis/"><u>Komt Een Kostenlose Conversie Aan: OGG-Adres Met Movavi Voor Online Activiteiten, Afvallend .au - Inlevering Gratis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/kostenloos-omheen-m4v-in-flv-vuurgrens-movavi-convertor/"><u>Kostenloos Omheen - M4V in FLV Vuurgrens Movavi Convertor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/masterclass-en-gestion-de-archivos-swf-guia-incomparable-sobre-programas-de-apertura-eficiente/"><u>Masterclass en Gestión De Archivos SWF: Guía Incomparable Sobre Programas De Apertura Eficiente</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-mp4-asf/"><u>Movaviで簡単! ワンクリック MP4 から ASF へのフリー デジタルコンバータ</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trasforma-il-tuo-file-caf-in-formato-m4r-gratuitamente-con-converti-online-di-movavi/"><u>Trasforma Il Tuo File CAF in Formato M4R Gratuitamente Con Converti Online Di Movavi</u></a></li>
+</ul></div>
+

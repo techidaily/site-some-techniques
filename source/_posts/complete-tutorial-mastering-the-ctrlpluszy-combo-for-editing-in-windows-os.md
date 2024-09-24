@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS"
-date: 2024-09-14T16:53:40.657Z
-updated: 2024-09-18T18:15:09.477Z
+date: 2024-09-18T05:18:14.176Z
+updated: 2024-09-23T21:01:57.774Z
 tags:
   - deals
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 * [How to Undo and (Sometimes) Redo Using Your Keyboard](https://www.howtogeek.com/766591/how-to-undo-and-redo-on-a-windows-pc/#how-to-undo-and-sometimes-redo-using-your-keyboard)
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Press Ctrl+Z to backspace on Windows in most apps.
@@ -23,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 * The Redo action is not universally implemented in Windows, unlike on a Mac. Try pressing Ctrl+Y or Ctrl+Alt+Z to redo.
 
  If you've made a mistake on your Windows 10 or Windows 11 PC and would like to go back a step, it's easy to use the built-in "Undo" command. Similarly, you can sometimes also perform a "Redo" action to restore what you just undid. Here's how to perform both actions.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Undo and (Sometimes) Redo Using Your Keyboard
 
@@ -46,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![Click Edit > Undo to perform an undo in some Windows programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/windows_notepad_undo.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Likewise, some apps place a "Redo" option just below "Undo" in the "Edit" menu ([as you'll often see on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/)). But the classic File / Edit menu bar is getting harder to find in Windows. Instead, some apps such as Microsoft Word (and other Office apps) include special Undo and Redo toolbar buttons.
 
  To perform an Undo in Office apps, click the curved, left-pointing arrow in the Quick Access Toolbar at the very top of the window.
@@ -60,15 +73,28 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
 
 ![The "Redo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_redo_button.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Other apps with different toolbar interfaces will likely have different designs for their undo or redo buttons. In general, look for a curved arrow pointing to the left for "Undo." You can also try right-clicking in a text entry area and looking for an "Undo" option. Or, when all else fails, try pressing Ctrl+Z on your keyboard.
 
@@ -87,13 +113,14 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oin-jargon-free-youtube-chats-for-2024/"><u>[New] Join Jargon-Free YouTube Chats for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-unveiling-8-superior-mirrorless-cameras-for-video-content/"><u>2024 Approved Unveiling 8 Superior Mirrorless Cameras for Video Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/car-based-energy-solutions-transforming-vehicles-into-lifelines-during-blackouts/"><u>Car-Based Energy Solutions: Transforming Vehicles Into Lifelines During Blackouts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/creating-illusory-ai-masterpieces-unveiling-techniques-for-midjourney-synthetic-art-generation/"><u>Creating Illusory AI Masterpieces: Unveiling Techniques for Midjourney Synthetic Art Generation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/decoding-cryptocurrency-mining-processes-explained-simply-for-google-searchers/"><u>Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-pc-video-life-with-windows-immersive-hdr-techniques/"><u>Enhance PC Video Life with Windows' Immersive HDR Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/how-to-optimize-zoom-effectiveness-during-your-google-meet/"><u>How to Optimize Zoom Effectiveness During Your Google Meet</u></a></li>
-<li><a href="https://solve-news.techidaily.com/scheda-registratore-di-video-e-microfono-con-windows-compatibile-best-tech/"><u>Scheda Registratore Di Video E Microfono Con Windows Compatibile - Best Tech</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-video-wonders-your-must-see-list/"><u>[Updated] In 2024, Facebook Video Wonders - Your Must-See List</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/combining-style-with-functionality-a-comprehensive-review-of-the-swagtron-swagger-electric-scooter/"><u>Combining Style with Functionality: A Comprehensive Review of the Swagtron Swagger Electric Scooter</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-f5-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco F5 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-play-8t-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor Play 8T?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-xiaomi-13t-pro-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Xiaomi 13T Pro, is it possible?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ts-mp4-5/"><u>TS 라이브스트리밍에서 MP4 바꾸기 - 5번째로 좋은 전환 방법!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/verdingvrije-muziekconvertor-mod-naar-mp3-met-movavi-online-gratis-en-gemakkelijk-te-gebruiken/"><u>Verdingvrije Muziekconvertor MOD Naar MP3 Met Movavi - Online Gratis en Gemakkelijk Te Gebruiken</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/web-based-mp3-and-aiff-movavi/"><u>Web-Based MP3 & AIFF 원룰류 교리: 안전하고 쉬운 Movavi 스위트</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wav3gp-movavi/"><u>オンラインで無料：WAV形式から3GPに効率的に変換する – Movaviソリューション</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-09-15T16:17:26.072Z
-updated: 2024-09-18T18:24:53.111Z
+date: 2024-09-19T18:07:17.752Z
+updated: 2024-09-24T04:49:38.238Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 * Use commands like dir /s, ping -t, cmatrix, genact, and hollywood to simulate the hacker aesthetics.
 
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
 
@@ -80,16 +87,16 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -108,6 +115,13 @@ Your browser does not support the video tag.
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -121,13 +135,6 @@ cmatrix
 Your browser does not support the video tag. 
 
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
@@ -158,6 +165,13 @@ genact -m _module-name_
 genact -m cryptomining
 
 Your browser does not support the video tag. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
@@ -196,20 +210,20 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-varieties-of-fb-video-screens/"><u>[New] 2024 Approved Varieties of FB Video Screens</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[Updated] 2024 Approved Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>[Updated] The Troubleshooting Companion Restoring SRT Functionality in Premiere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-uncover-essential-tips-why-saving-money-on-budget-laptops-may-cost-more-long-term/"><u>1. Uncover Essential Tips: Why Saving Money on Budget Laptops May Cost More Long-Term</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581430573-9-english-grammar-tips-from-an-esl-speaker/"><u>9 English Grammar Tips From An ESL Speaker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/acer-unveils-pioneering-portfolio-the-new-wave-of-laptops-equipped-with-meteor-lake-chips-from-intel/"><u>Acer Unveils Pioneering Portfolio: The New Wave of Laptops Equipped with Meteor Lake Chips From Intel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/alternative-methods-for-acquiring-windows-10-iso-file-bypassing-microsofts-official-tools/"><u>Alternative Methods for Acquiring Windows 10 ISO File: Bypassing Microsoft's Official Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/arm-based-windows-systems-get-officially-supported-google-chrome/"><u>ARM-Based Windows Systems Get Officially Supported Google Chrome</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/capturing-windows-10-screen-shots-with-an-always-visible-mouse-pointer/"><u>Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/complete-tutorial-mastering-the-ctrlpluszy-combo-for-editing-in-windows-os/"><u>Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tial-gif-creation-best-tools-reviewed-and-compared-for-2024/"><u>Essential GIF Creation Best Tools Reviewed & Compared for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-unavailable-frontiers-of-pandora-feature-in-avatar-video-game-series/"><u>Fixing the Unavailable Frontiers of Pandora Feature in Avatar Video Game Series</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-5-lite-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-zte-nubia-flip-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for ZTE Nubia Flip 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-xp-a-timeless-classic-with-no-successor-equal-in-fame-or-functionality/"><u>Windows XP - A Timeless Classic, With No Successor Equal in Fame or Functionality</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-video-content-defeating-10-vlogging-hurdles-for-2024/"><u>[New] Mastering Video Content Defeating 10 Vlogging Hurdles for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-expertise-in-iphones-high-dynamic-range-photography/"><u>2024 Approved Expertise in iPhone's High-Dynamic Range Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/neftiff-movavi/"><u>移動突破: NEF到TIFF的無限制免費轉換器 - 提供由Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expertly-curated-list-of-premium-usb-sticks-2024-edition/"><u>Expertly Curated List of Premium USB Sticks - 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/funimate-video-downloader-review/"><u>Funimate Video Downloader Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-f23-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/lifecast-your-show-a-basic-podcast-streaming-strategy/"><u>Lifecast Your Show A Basic Podcast Streaming Strategy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movas-webmov-to-avi/"><u>Mova's Web上にあるフリーMOV to AVI変換ツール - シームレスな翻訳</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-mkv-m4a/"><u>Movavi - 무료 공급자: 이미지, 오디오를 MKV, M4A로 쉽게 전환</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-on-site-gratis-conversion-von-m4v-mpg-videodateien-bewahrte-online-losung/"><u>Movavi: On-Site Gratis Conversion Von M4V MPG Videodateien - Bewährte Online-Lösung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavis-free-web-service-effortless-wma-to-avi-file-conversion-online/"><u>Movavi's Free Web Service: Effortless WMA to AVI File Conversion Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavis-no-cost-tool-for-changing-gif-images-into-mp4-video-format-online/"><u>Movavi's No-Cost Tool for Changing GIF Images Into MP4 Video Format Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/no-cost-video-conversion-for-professionals-upload-mxf-download-mpgmp4-movavis-secure-cloud-service/"><u>No Cost Video Conversion for Professionals: Upload MXF, Download MPG/MP4 - Movavi's Secure Cloud Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-how-to-watch-dav-videos-using-vlc/"><u>Step-by-Step Tutorial on How to Watch DAV Videos Using VLC</u></a></li>
 </ul></div>
 

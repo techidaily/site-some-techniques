@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide"
-date: 2024-09-15T16:17:57.437Z
-updated: 2024-09-18T18:22:31.685Z
+date: 2024-09-20T02:21:00.923Z
+updated: 2024-09-23T22:40:29.894Z
 tags:
   - desktop
 categories:
@@ -17,11 +17,37 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -30,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
  With Windows 10, things have changed a bit. Microsoft has also done away with service packs, instead moving to releasing two big builds each year. If you really need to refer to a specific version of Windows, it's easiest to refer to it by its version number. Microsoft has hidden the version number somewhat in an attempt to make Windows 10 look always-up-to-date, but it's not hard to find.
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Check Windows Version with the Settings App
 
@@ -58,15 +77,22 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -87,15 +113,17 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tie-the-two-together-instagram-and-facebook-unite/"><u>[New] In 2024, Tie the Two Together Instagram and Facebook Unite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-tomorrows-tech-today-with-groundbreaking-virtual-reality-shoot-innovations/"><u>Experience Tomorrow's Tech Today with Groundbreaking Virtual Reality Shoot Innovations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-craziest-personalized-gpt-variations-top-3-outrageously-creative-experiments/"><u>Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-downsides-key-issues-with-apple-vision-pro-to-consider-before-investing/"><u>Exploring the Downsides: Key Issues with Apple Vision Pro to Consider Before Investing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-upgrades-of-ram-1500s-revamped-model-essential-facts-you-should-know/"><u>Exploring the Upgrades of Ram 1500’S Revamped Model – Essential Facts You Should Know!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-s17t-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S17t Fingerprint Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sonys-game-console-enhance-auditory-experience/"><u>In 2024, Sony's Game Console Enhance Auditory Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/masterful-viewing-for-artists-best-monitor-guide/"><u>Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723808342864-safe-shopping-how-to-shop-safely/"><u>Safe Shopping - How to Shop Safely</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-livestream-setup-reviews-on-the-top-livestream-tools-and-devices/"><u>Ultimate Livestream Setup Reviews on the Top Livestream Tools and Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-11-premium-sound-recording-tools/"><u>[New] The Ultimate List 11 Premium Sound Recording Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-exploring-immersive-videography-the-360-journey/"><u>[Updated] 2024 Approved Exploring Immersive Videography The 360° Journey</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-evaluating-screen-recording-vsdc-reviewed-plus-competitors-spotlight-for-2024/"><u>[Updated] Evaluating Screen Recording VSDC Reviewed + Competitors Spotlight for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-ranking-apples-most-valuable-gif-tools/"><u>2024 Approved Ranking Apple's Most Valuable GIF Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmv3gppmovavi/"><u>最新無料オンラインWMVファイルを3GPPに簡単変換:Movaviの解説</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-a60-frp-by-drfone-android/"><u>Full Guide to Bypass Itel A60 FRP</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-master-meetings-the-ultimate-list-of-10-free-recorders/"><u>In 2024, Master Meetings The Ultimate List of 10 Free Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-turn-your-images-darker/"><u>In 2024, Step-by-Step Turn Your Images Darker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-science-of-verbal-recording-for-2024/"><u>Mastering the Science of Verbal Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/uppladdning-av-filmer-expertistera-i-video-redigeringsteknik/"><u>Uppladdning Av Filmer - Expertistera I Video Redigeringsteknik</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/vobaacmp3-movavi-audio-converter/"><u>VOBフォーマットを無料でAACまたはMP3に変換するオンラインツール – Movavi Audio Converter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-11-macos-dvd-7/"><u>다시보기! Windows 11, macOS를 사용하여 DVD 리핑을 위한 7가지 강력한 방법: 쉽고 효과적인 전자화된 솔루션.</u></a></li>
 </ul></div>
 

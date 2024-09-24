@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2024-09-11T17:13:38.284Z
-updated: 2024-09-18T16:43:28.600Z
+date: 2024-09-18T19:38:24.252Z
+updated: 2024-09-23T17:56:35.564Z
 tags:
   - desktop
 categories:
@@ -45,6 +45,13 @@ ls -l mysupersecretfile.txt
 
 ![A terminal window showing standard file permissions of a sample file on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. \[U\]ser (owner) permissions
 2. \[G\]roup permissions
 3. All \[O\]ther users' permissions
@@ -56,13 +63,6 @@ ls -l mysupersecretfile.txt
  The files and directories that users are allowed to modify depend on a couple of things, including whether the user "owns" it or if they otherwise have the appropriate permissions to via a group membership. Note that the [root user](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) can modify any file on the system, regardless of ownership.
 
  This approach to file system permissions works well for most at-home and standalone setups. Of course, when you're working with systems where multiple users are accessing the same file hierarchy, and you must give certain people access to some areas (and restrict them from others), you'll start to understand the standard "1 owner, 1 group" methodology falls a bit short.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How ACLs Enhance the Standard Permissions Model
 
@@ -82,6 +82,13 @@ ls -l report.pdf
 
 ![A terminal window showing file listing output on Debian.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What to do? Well, you _could_ just take an early lunch break. However, let's instead employ ACLs!
 
 ##  Checking for ACL Support on Your System
@@ -95,10 +102,10 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 ![A terminal window showing output of tune2fs command, and acl default mount option circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For reference, here's a [list of different file system support for ACLs, grouped by platform, written by IBM](https://www.ibm.com/docs/en/storage-protect/8.1.21?topic=linux-file-system-acl-support).
@@ -110,6 +117,19 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 getfacl report.pdf
 
 ![A terminal window showing getfacl command and its output on a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6.png) 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Right now the output shows the _minimum ACL_ of the file. The minimum ACL comprises the standard permissions for the owner, owning group and all other users.
 
@@ -125,13 +145,6 @@ ls -l report.pdf
 
 ![A terminal window showing ls command output with ACL entry flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The setfacl Command
 
  The setfacl command is what actually _sets_ ACLs for files and directories. It adds and removes user and group entries, modifies permissions and other tasks like setting default ACLs on directories and working with masks. We'll use it to complete the request above by granting the lumberg user read access to report.pdf.
@@ -140,14 +153,20 @@ ls -l report.pdf
 
 sudo setfacl -m u:lumberg:r report.pdf
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![A terminal window showing the setfacl command modifying a file's ACL entry.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **\-m** means we're modifying an ACL entry for the file
 * **u:** means it's a user we're adding, followed by a colon (:) separator (a **g:** adds a group and **o:** adds all other users' permissions)
@@ -174,16 +193,10 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 ![A terminal window showing setfacl command to set permissions, then getfacl to show them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An upper-case **X** applies the execute permission only against new subdirectories; not files.
@@ -205,17 +218,25 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-online-services-for-youtube-images-extraction-for-2024/"><u>[Updated] FREE Online Services for YouTube Images Extraction for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ai-personal-trainer-designing-the-perfect-exercise-regime-using-chatgpt/"><u>AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/amazons-latest-innovation-for-prime-day-mastering-sales-with-rufus-the-advanced-ai-assistant-bot/"><u>Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-note-50-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme Note 50</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/charging-up-convenience-the-simplified-guide-to-finding-electric-car-stations/"><u>Charging Up Convenience: The Simplified Guide to Finding Electric Car Stations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/chatgpt-evolves-innovative-memory-function-to-craft-unique-user-interactions/"><u>ChatGPT Evolves: Innovative Memory Function to Craft Unique User Interactions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhance-your-productivity-with-the-sabrent-compact-mouse-precision-meets-cable-free-portability/"><u>Enhance Your Productivity with the Sabrent Compact Mouse - Precision Meets Cable-Free Portability!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/radeon-remembrance-set-for-2024/"><u>Radeon Remembrance Set for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamlessly-update-your-built-in-webcam-drivers-on-a-dell-computer-a-comprehensive-how-to/"><u>Seamlessly Update Your Built-In Webcam Drivers on a Dell Computer - A Comprehensive How-To</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-stability-issues-essential-fixes-for-guardians-of-the-galaxy-game-crashes-on-windows/"><u>Solving Stability Issues: Essential Fixes for 'Guardians of the Galaxy' Game Crashes on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/utilizing-multiframe-view-an-in-depth-look-at-edges-pip-for-2024/"><u>Utilizing Multiframe View An In-Depth Look at Edge’s PIP for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/will-politeness-enhance-chatgpt-efficiency-discover-the-intriguing-findings-from-our-test/"><u>Will Politeness Enhance ChatGPT Efficiency? Discover the Intriguing Findings From Our Test</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-sharpened-focus-on-squares-creating-striking-imovie-content-for-instagram/"><u>[New] Sharpened Focus on Squares Creating Striking iMovie Content for Instagram</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-break-free-from-the-norms-crafting-your-own-streamer-identity/"><u>[Updated] 2024 Approved Break Free From The Norms Crafting Your Own Streamer Identity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>[Updated] Creating Breathtaking Slow Motion Photo Editing Techniques Explored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-screen-ease-crafting-effective-youtube-ctas-for-2024/"><u>[Updated] Green Screen Ease Crafting Effective YouTube CTAs for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-diving-deep-reviewing-your-old-tweets/"><u>[Updated] In 2024, Diving Deep Reviewing Your Old Tweets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mp2-mp4-movavi/"><u>線上自由MP2 MP4轉換服務 - 利用Movavi便捷格式修改</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-crash-of-windows-update-error-x712/"><u>Fixing the Crash of Windows Update Error X712</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-mp4mpeg-4-a-partir-de-fichier-vob-solution-en-ligne-avec-movavi/"><u>Gratuit MP4/MPEG-4 À Partir De Fichier VOB : Solution en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuito-conversor-de-formatos-vob-para-jpeg-em-miniature-online-movavi/"><u>Gratuito Conversor De Formatos VOB Para JPEG Em Miniature Online - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guia-paso-a-paso-para-transformar-videos-en-formato-webm-y-revertirlos/"><u>Guía Paso a Paso Para Transformar Videos en Formato WebM Y Revertirlos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-detaille-pour-changer-gif-en-video-mp4-gratuite-decouvrez-comment-le-faire-avec-laide-de-movavi/"><u>Guide Détaillé Pour Changer GIF en Vidéo MP4 Gratuite – Découvrez Comment Le Faire Avec L'Aide De Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-ideal-caption-solutions-photo-text-integration-guide/"><u>In 2024, Ideal Caption Solutions Photo-Text Integration Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-filmbearbetare-100-oppen-for-egenhandel-affarstillfallen-i-sverige/"><u>Movavi Filmbearbetare, 100% Öppen För Egenhandel: Affärstillfällen I Sverige</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-livre-converter-de-ape-para-ogg-online-e-gratuito/"><u>Movavi Livre: Converter De APE Para OGG Online E Gratuito</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-vob-mp3-online-guide/"><u>Movavi의 단거나 비용 없이 VOB 파일을 MP3로 전환하기: 스프링 - Online Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi3g-mpeg/"><u>Movaviを使用した無料の3G MPEG動画へのオンライン変換ツール</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movil-sin-costo-cambiar-mxf-a-formato-wav-con-gratuitidad/"><u>Móvil Sin Costo: Cambiar MXF a Formato WAV Con Gratuitidad</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/quick-fix-tweeting-vids-pause-in-chrome/"><u>Quick Fix Tweeting Vids Pause in Chrome</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-harnessing-the-power-of-facebook-twitter-instagram-and-youtube-for-your-brand/"><u>Social Media Titans: Harnessing the Power of Facebook, Twitter, Instagram & YouTube for Your Brand</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Lava Blaze 2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

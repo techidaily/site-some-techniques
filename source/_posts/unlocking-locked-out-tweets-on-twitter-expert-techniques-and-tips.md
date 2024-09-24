@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Locked Out Tweets on Twitter: Expert Techniques and Tips"
-date: 2024-09-14T18:29:55.635Z
-updated: 2024-09-18T17:59:53.482Z
+date: 2024-09-17T00:51:51.042Z
+updated: 2024-09-24T02:44:11.673Z
 tags:
   - web
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 
  By default, X restricts such media with a warning like, "This media may contain sensitive material," "This profile may include potentially sensitive content," or "The following media includes potentially sensitive content."
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Skip the "Sensitive Content" Warning
 
  You can [disable the sensitive content warning](https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-100-pro-to-roku-drfone-by-drfone-android/) in X's privacy settings. You'll find these options in the same place on the [Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU213517/https://play.google.com/store/apps/details?id=com.twitter.android&hl=en%5FUS&gl=US), but they aren't available on the [X app for iPhone](https://apps.apple.com/us/app/twitter/id333903271). However, if you change the setting on the web, the X iPhone and iPad apps will show you sensitive content without any warnings.
@@ -33,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
  To disable the warning, go to the [X official website](https://twitter.com/home) and click the "More" button on the left side of the screen, that is represented by three dots in a circle.
 
 ![More option on the X website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/more-option-on-the-x-website.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, select the "Settings and Privacy" option from the pop-up menu.
 
@@ -42,15 +56,22 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 
 ![Content you see option on X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/content-you-see-option-on-x.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check the box next to "Display media that may contain sensitive content" to disable the warning for tweets.
 
 ![Display media that may contain sensitive content option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/display-media-that-may-contain-sensitive-content-option-in-x.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Show "Sensitive Content" in Searches
@@ -66,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
  To stop X from marking [media you upload as sensitive](https://facebook-clips.techidaily.com/step-by-step-guide-live-broadcast-of-recorded-videos-on-fb-for-2024/), choose More > Settings and Privacy > Privacy and Safety > Your Posts. Ensure "Mark media you post as having material that may be sensitive" is unchecked.
 
 ![Mark media you post as having material that may be sensitive option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mark-media-you-post-as-having-material-that-may-be-sensitive-option-in-x.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This option is available on the web and in the Android app but not in the X app for iPhone and iPad.
 
@@ -99,15 +113,21 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-accompanying-audio-whatsapp-statement-boost/"><u>[New] Accompanying Audio WhatsApp Statement Boost</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-perfecting-live-video-capture-with-logitech-webcam-technology/"><u>[Updated] Perfecting Live Video Capture with Logitech Webcam Technology</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-designing-a-standout-youtube-video-intro-for-2024/"><u>[Updated] Step-by-Step Designing a Standout YouTube Video Intro for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-how-to-for-clearer-youtube-footage/"><u>[Updated] The Ultimate How-To for Clearer YouTube Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-future-the-immersive-experience-with-htc-vive-xr-elite/"><u>Exploring the Future: The Immersive Experience with HTC Vive XR Elite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-acquiring-personalized-tracks-for-beat-saber-compatible-with-pc-and-quest-earphones/"><u>Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-converting-text-into-various-structures-using-chatgpt/"><u>Guide: Converting Text Into Various Structures Using ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-number-keys-on-your-keyboard/"><u>Troubleshooting Guide: Fixing Non-Responsive Number Keys on Your Keyboard</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-shooting-phenomenal-igtv-with-dslrsmartphone/"><u>[Updated] 2024 Approved The Ultimate Guide to Shooting Phenomenal IGTV with DSLR/Smartphone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-perfecting-obs-streams-for-direct-facebook-engagement/"><u>2024 Approved Perfecting OBS Streams for Direct Facebook Engagement</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-by-step-save-gifs-from-fb-on-different-devices/"><u>2024 Approved Step-by-Step Save GIFs From FB on Different Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024s-top-free-dvd-player-programs-our-expert-picks-for-you/"><u>2024'S Top Free DVD Player Programs: Our Expert Picks for You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/38-files-into-high-quality-mp4-format/"><u>38 Files Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-5-ultimate-hd-video-editors-for-stunning-quality/"><u>Best 5 Ultimate HD Video Editors for Stunning Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-free-mac-video-editing-tools-top-picks-and-immediate-setup-guides/"><u>Best Free Mac Video Editing Tools: Top Picks and Immediate Setup Guides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cambia-archivos-de-video-libres-de-copias-convertir-3gp-en-formato-wma-sin-coste/"><u>Cambia Archivos De Video Libres De Cópias: Convertir 3GP en Formato WMA Sin Coste</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cambia-avi-a-formato-wmv-gratuitamente-su-internet-con-convertitori-video-moveavi/"><u>Cambia AVI a Formato WMV Gratuitamente Su Internet Con Convertitori Video - MoveaVi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cambia-file-avi-a-formato-mp4-free-online-con-convertitore-video-di-moveavi/"><u>Cambia File AVI a Formato MP4 Free Online Con Convertitore Video Di MoveAVI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essentials-unveiled-a-buyers-guide-to-picking-the-perfect-smartwatch-top-5-tips/"><u>Essentials Unveiled: A Buyer's Guide to Picking the Perfect Smartwatch - Top 5 Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elite-virtual-storage-service-ranking/"><u>In 2024, Elite Virtual Storage Service Ranking</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233727717-wmvasf-movavi/"><u>お手頃価格でオンライン変換: WMVからASFへの移行方法 - Movavi</u></a></li>
 </ul></div>
 

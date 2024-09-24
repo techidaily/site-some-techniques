@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-09-17T17:39:16.057Z
-updated: 2024-09-18T17:30:25.832Z
+date: 2024-09-21T07:20:15.169Z
+updated: 2024-09-23T18:47:41.309Z
 tags:
   - desktop
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are four different Windows SmartScreen options, and you can disable them individually. 
@@ -69,26 +62,26 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
@@ -96,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
@@ -114,13 +114,24 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ten-mobile-sticker-adornment-apps-for-photos/"><u>2024 Approved Top Ten Mobile Sticker Adornment Apps for Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-key-strategies-to-ensure-seamless-functionality-of-your-mobile-device/"><u>7 Key Strategies to Ensure Seamless Functionality of Your Mobile Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/acute-inflammation-typically-resolves-with-tissue-repair-or-regeneration-chronic-inflammation-can-result-in-fibrosis-and-scarring/"><u>Acute Inflammation Typically Resolves with Tissue Repair or Regeneration; Chronic Inflammation Can Result in Fibrosis and Scarring.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175705805-beat-the-heat-affordably-shop-the-coolest-arctic-high-performance-liquid-freezer-aiold2018a-v2-at-74-now/"><u>Beat the Heat Affordably – Shop the Coolest Arctic High-Performance Liquid Freezer (AIOLD2018A v2) at $74 Now!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-def-phones-with-vlogging-extras-for-2024/"><u>High-Def Phones with Vlogging Extras for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/introduction-a-la-physiologie-parts-of-the-body-en-francais/"><u>Introduction À La Physiologie: Parts of the Body en Français</u></a></li>
-<li><a href="https://games-able.techidaily.com/methods-for-stabilizing-mouse-scroll-speed/"><u>Methods for Stabilizing Mouse Scroll Speed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhancements-elevating-cortanas-assistance-revamping-the-photos-app-and-refining-widget-experience/"><u>Windows 11 Enhancements: Elevating Cortana's Assistance, Revamping the Photos App & Refining Widget Experience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-enhance-tweet-management-the-most-effective-apps-for-tweets-for-2024/"><u>[New] Enhance Tweet Management The Most Effective Apps for Tweets for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>[New] In 2024, Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-benefits-of-apples-m1-in-post-production-editing/"><u>2024 Approved Benefits of Apple's M1 in Post-Production Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-cosmic-universes-metaverse-vs-multiverse-explained/"><u>2024 Approved Comparing Cosmic Universes Metaverse vs Multiverse Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-trp-file-conversion-tool-movavi/"><u>Free TRP File Conversion Tool - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-converter-van-mp4-naar-ogg-professioneel-online-tool-voor-professionele-resultaat-movavi/"><u>Gratis Converter Van MP4 Naar OGG: Professioneel Online-Tool Voor Professionele Resultaat - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-omzetten-van-m4a-naar-flv-online-simpelweg-en-efficient-met-movavi/"><u>Gratis Omzetten Van M4A Naar FLV Online - Simpelweg en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-dts-wav-converteren-helemaal-kostenloos-online-zoek-mooi-ze-mbt/"><u>Gratuit DTS-WAV Converteren Helemaal Kostenloos Online - Zoek Mooi Ze MBT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-online-qt-files-naar-flv-omzetten-met-movavi-efficient-en-gemakkelijk/"><u>Gratuit Online: QT-Files Naar FLV Omzetten Met Movavi - Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuito-e-pratico-mudando-formatos-de-video-em-linha-mp4-para-flv-usando-o-software-de-movavi/"><u>Gratuito E Prático: Mudando Formatos De Vídeo Em Linha - MP4 Para FLV Usando O Software De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-ultime-comment-graver-une-video-sur-un-mac-en-2024-methodes-et-astuces-de-movavi/"><u>Guide Ultime : Comment Graver Une Vidéo Sur Un Mac en 2024 - Méthodes Et Astuces De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hesaplilasma-daha-kolaylu-olarak-videolerini-movaviye-ayiran-lazimiz-100-guvenli-sozlesiyle-kullanabilir-ve-sonucta-indirimi/"><u>Hesaplılaşma Daha Kolaylu Olarak Video'lerini Movavi'ye Ayıran Lazimiz: 100% Güvenli, Sözlesiyle Kullanabilir Ve Sonuçta Indirimi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-quality-hearables-leading-podcasters-on-googloud/"><u>High-Quality Hearables Leading Podcasters on GooGloud</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-conceal-images-in-videos-proven-techniques-for-maintaining-corporate-image/"><u>How to Conceal Images in Videos - Proven Techniques for Maintaining Corporate Image</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-effortlessly-install-and-update-surface-device-drivers/"><u>How to Effortlessly Install and Update Surface Device Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v29e-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V29e Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/secure-mail-box-migration-live-exchange-server-techniques/"><u>Secure Mail Box Migration - LIVE Exchange Server Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444376815-unlocking-the-mystery-making-your-iphone-visible-on-itunes-or-finder-again/"><u>Unlocking the Mystery: Making Your iPhone Visible on iTunes or Finder Again</u></a></li>
 </ul></div>
 

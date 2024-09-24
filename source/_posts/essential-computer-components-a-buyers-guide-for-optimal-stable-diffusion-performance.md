@@ -1,7 +1,7 @@
 ---
 title: "Essential Computer Components: A Buyer’s Guide for Optimal Stable Diffusion Performance"
-date: 2024-09-01T01:24:51.106Z
-updated: 2024-09-02T01:24:51.106Z
+date: 2024-09-19T04:14:07.658Z
+updated: 2024-09-23T21:43:30.767Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 * [How Much Video Memory (GPU Memory) Do You Need?](https://www.howtogeek.com/853529/hardware-for-stable-diffusion/#how-much-video-memory-gpu-memory-do-you-need)
 * [Should You Use an Optimized Fork of Stable Diffusion?](https://smart-video-editing.techidaily.com/sam-altman-steps-down-as-openais-ceo-implications-for-the-future-of-chatgpt/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  You'll need a PC with a modern AMD or Intel processor, 16 gigabytes of RAM, an NVIDIA RTX GPU with 8 gigabytes of memory, and a minimum of 10 gigabytes of free storage space available. A GPU with more memory will be able to generate larger images without requiring upscaling.
@@ -25,8 +32,12 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
  Stable Diffusion is a popular AI-powered image generator that you can run on your own PC. But what are the minimum specs to run Stable Diffusion, and what components matter the most?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What PC Hardware Does Stable Diffusion Require?
 
  The single most critical component for Stable Diffusion is your graphics card (GPU). Stable Diffusion --- at least the primary version --- runs almost exclusively on your GPU. That means that other system components, like your [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/), [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/), and storage drives, don't matter nearly as much.
@@ -43,8 +54,12 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 Related: [How to Run Stable Diffusion on Your PC to Generate AI Images](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Kind of Graphics Card (GPU) Do You Need to Run Stable Diffusion?
 
  The Stable Diffusion community has worked diligently to expand the number of devices that Stable Diffusion can run on. We've seen Stable Diffusion running on [M1 and M2 Macs](https://some-knowledge.techidaily.com/new-complete-guide-to-help-you-choose-the-best-hdr-cameras/), AMD cards, and old NVIDIA cards, but they tend to be difficult to get running and are more prone to problems. RTX NVIDIA GPUs are the only GPUs natively supported by Stable Diffusion at the time this article was written in December 2022.
@@ -61,9 +76,6 @@ Related: [How to Check What Graphics Card (GPU) Is in Your PC](https://snapchat-
 
  Try to buy the newest GPU you can. Any of the 20, 30, or 40-series GPUs with 8 gigabytes of memory from NVIDIA will work, but older GPUs --- even with the same amount of [video RAM (VRAM)](https://extra-support.techidaily.com/new-premium-selection-of-apple-and-android-camera-slow-motion-apps/) \--- will take longer to produce the same size image. If you're building or upgrading a PC specifically with Stable Diffusion in mind, avoid the older RTX 20-series GPUs unless you find a fantastic deal on one, since they're significantly slower.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How Much Video Memory (GPU Memory) Do You Need?
 
  The larger you make your images, the more VRAM Stable Diffusion will use. The **minimum** amount of VRAM you should consider is 8 gigabytes.
@@ -74,9 +86,6 @@ Related: [How to Check What Graphics Card (GPU) Is in Your PC](https://snapchat-
 
 ![51ClY8eDcpL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51cly8edcpl-_sl500_-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  MSI Gaming GeForce RTX 3060
 
 A GeForce RTX GPU with 12GB of RAM for Stable Diffusion at a great price.
@@ -90,8 +99,12 @@ Related: [Does GPU Memory Matter? How Much VRAM Do You Need?](https://fox-hovers
  Of course, there are all sorts of optimized [forks](https://on-screen-recording.techidaily.com/updated-ultimate-windows-10-camera-software-review-top-10/) that allow you to get away with much less VRAM at the expense of speed, but if you want to be sure it'll work, stick with RTX NVIDIA cards that have at least 8 gigabytes of memory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Should You Use an Optimized Fork of Stable Diffusion?
 
  In a word: Yes.
@@ -116,8 +129,6 @@ Related: [How to Write an Awesome Stable Diffusion Prompt](https://screen-mirror
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,45 +138,19 @@ Related: [How to Write an Awesome Stable Diffusion Prompt](https://screen-mirror
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-right-move-copyright-validation-before-posting-on-tiktok/"><u>[New] 2024 Approved  The Right Move  Copyright Validation Before Posting on TikTok</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-scrutinizing-how-content-makers-get-paid-from-youtube-shorts-videos/"><u>[New] Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-sweeten-your-messaging-top-phrases-to-impact-audiences/"><u>[New] Sweeten Your Messaging  Top Phrases to Impact Audiences</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-step-by-step-navigating-the-full-spectrum-of-storage-in-the-adobe-cloud-ecosystem/"><u>[Updated] 2024 Approved  Step by Step  Navigating the Full Spectrum of Storage in the Adobe Cloud Ecosystem</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-record-your-rush-make-every-game-count/"><u>[Updated] In 2024, Record Your Rush  Make Every Game Count</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-honor-magic-6-lite-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Magic 6 Lite FRP</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-imagination-to-life-self-animated-artistry/"><u>Bring Imagination to Life  Self-Animated Artistry</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-the-prime-tool-for-lead-generation/"><u>Cookiebot: The Prime Tool for Lead Generation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/deutsche-post-dhl-group-verdoppelt-effizienz-durch-rpa-integration-mit-abbyy-idp-steigerung-von-bis-zu-70/"><u>Deutsche Post DHL Group Verdoppelt Effizienz Durch RPA-Integration Mit ABBYY IDP - Steigerung Von Bis Zu 70%%</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/driving-sales-success-through-cookiebot-enabled-analytics-tools/"><u>Driving Sales Success Through Cookiebot-Enabled Analytics Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/efficiently-managing-core-records-pwcs-use-of-abbyy-advanced-ocr-technologies/"><u>Efficiently Managing Core Records: PwC's Use of ABBYY Advanced OCR Technologies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevating-business-efficiency-with-abbyys-hyperautomation-combining-advanced-computer-vision-llm-technology-and-seamless-idp-connectivity/"><u>Elevating Business Efficiency with ABBYY's Hyperautomation: Combining Advanced Computer Vision, LLM Technology, and Seamless IDP Connectivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/empower-your-site-with-cookiebots-advanced-conversion-optimization-features/"><u>Empower Your Site with Cookiebot's Advanced Conversion Optimization Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/empowering-multitaskers-song-lyrics-capture-extended-screen-real-estate-and-smartphone-revival-insights-from-abbyy-experts/"><u>Empowering Multitaskers: Song Lyrics Capture, Extended Screen Real Estate & Smartphone Revival | Insights From ABBYY Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-analytics-with-our-cookiebot-technology-solutions/"><u>Enhance Analytics with Our Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-digital-marketing-efforts-through-smart-analytics-discover-the-benefits-of-cookiebot-technology/"><u>Enhance Digital Marketing Efforts Through Smart Analytics - Discover the Benefits of Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-online-visibility-smart-insights-via-the-power-of-cookiebot-technology/"><u>Enhance Online Visibility: Smart Insights via the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-website-insights-using-cookiebot-driven-tracking-solutions/"><u>Enhance Website Insights Using Cookiebot-Driven Tracking Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-smart-automation-how-abbyy-and-blue-prism-revolutionize-digital-labor/"><u>Enhancing Smart Automation: How ABBYY & Blue Prism Revolutionize Digital Labor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-subcontracting-options-for-enhancing-abpp-solutions/"><u>Expert Subcontracting Options for Enhancing ABPP Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-different-techniques-in-process-mining-insights-from-abbyys-new-study/"><u>Exploring Different Techniques in Process Mining: Insights From ABBYY's New Study</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-regulatory-standards-and-client-satisfaction-in-the-finance-sector/"><u>Harmonizing Regulatory Standards and Client Satisfaction in the Finance Sector</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-strength-of-cookiebots-advanced-tracking-solutions/"><u>Harness the Strength of Cookiebot's Advanced Tracking Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-smart-tracking-solutions-discover-how-cookiebot-empowers-your-website/"><u>Harnessing the Power of Smart Tracking Solutions - Discover How Cookiebot Empowers Your Website</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/icy-speed-and-premium-pricing-of-gigabytes-b650-aorus-elite-ax-motherboard-extensive-evaluation-with-rich-usb-support/"><u>Icy Speed and Premium Pricing of Gigabyte's B650 Aorus Elite AX Motherboard - Extensive Evaluation with Rich USB Support</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Motorola Moto G34 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-x7b-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor X7b Easily?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x9a-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-streamlining-twitters-video-transfer-to-fb-network/"><u>In 2024, Streamlining Twitters Video Transfer to FB Network</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inside-nurs-success-story-achieving-full-digital-transformation-with-dhl-a-comprehensive-video-guide/"><u>Inside Nur's Success Story: Achieving Full Digital Transformation with DHL – A Comprehensive Video Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/la-cabinet-juridique-centralise-par-norton-rose-llp-digitisation-et-solutions-abbyy-recognition-server/"><u>La Cabinet Juridique Centralisé Par Norton Rose LLP: Digitisation Et Solutions ABBYY Recognition Server</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-how-to-activate-and-use-espnplus-features-on-lgs-smart-tv-platform/"><u>Learn How to Activate and Use ESPN+ Features on LG's Smart TV Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-insights-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Insights and Personalization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leveraging-the-power-of-cookiebot-for-optimized-website-analytics/"><u>Leveraging the Power of Cookiebot for Optimized Website Analytics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974515891-maintain-the-original-intent-and-meaning-behind-each-piece-of-advice/"><u>Maintain the Original Intent and Meaning Behind Each Piece of Advice.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-financial-kyc-protocols-through-advanced-ai-and-machine-learning-strategies-ebook/"><u>Mastering Financial KYC Protocols Through Advanced AI and Machine Learning Strategies | eBook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-the-next-wave-in-tech-why-legally-harnessing-ai-is-key-expert-analysis-by-abbyy/"><u>Mastering the Next Wave in Tech: Why Legally Harnessing AI Is Key | Expert Analysis by ABBYY</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximize-site-performance-with-cookiebot-advanced-tracker-and-pixel-technology/"><u>Maximize Site Performance with Cookiebot: Advanced Tracker & Pixel Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silence-step-by-step-guide-to-restoring-audio-on-your-logitech-g933-mouse/"><u>Troubleshooting Silence: Step-by-Step Guide to Restoring Audio on Your Logitech G933 Mouse</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-high-definition-spectrum-selecting-best-screen-recorders/"><u>[New] 2024 Approved High Definition Spectrum Selecting Best Screen Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-investigating-financial-gains-from-product-reviews/"><u>[New] 2024 Approved Investigating Financial Gains From Product Reviews</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-your-video-queue-step-by-step-guide-to-a-youtube-saved-playlist/"><u>[New] Streamline Your Video Queue Step-By-Step Guide to a YouTube Saved Playlist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversion-avi-vers-wmv-sans-frais-facile-et-rapide-avec-movavi/"><u>Conversion AVI Vers WMV Sans Frais, Facile Et Rapide Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversion-libre-de-m4a-a-wma-sur-internet-solutions-faciles-avec-movavi/"><u>Conversion Libre De M4A À WMA Sur Internet - Solutions Faciles Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversione-gratuita-da-mpeg-a-vob-guida-completa-online/"><u>Conversione Gratuita Da MPEG a VOB: Guida Completa Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convert-your-ogm-videos-to-mp4-at-no-cost-simple-and-effective-with-movavi/"><u>Convert Your OGM Videos to MP4 at No Cost - Simple and Effective with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convertir-archivos-ape-a-formato-wav-sin-costo-con-movavi-convertidor-online/"><u>Convertir Archivos APE a Formato WAV Sin Costo Con Movavi Convertidor Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convertissez-gratuitement-vos-fichiers-flac-en-wma-sur-internet-grace-a-movavi-guide-complet/"><u>Convertissez Gratuitement Vos Fichiers FLAC en WMA Sur Internet Grâce À Movavi - Guide Complet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-the-dynamics-of-aurora-high-quality-outputs/"><u>Dissecting the Dynamics of Aurora High-Quality Outputs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-c525-hd-webcam-drivers-on-windows-best-free-guide/"><u>Download Logitech C525 HD Webcam Drivers on Windows - Best Free Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-freezing-issues-effective-solutions/"><u>How to Fix Windows 11 Freezing Issues: Effective Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-activating-and-using-the-chatgpt-widget-for-android-users/"><u>Step-by-Step Instructions: Activating and Using the ChatGPT Widget for Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-upgraded-skills-in-cybersecurity-teams-facing-legacy-system-hurdles/"><u>The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience"
-date: 2024-09-17T17:48:58.946Z
-updated: 2024-09-18T17:43:04.151Z
+date: 2024-09-18T19:12:12.096Z
+updated: 2024-09-24T07:26:05.164Z
 tags:
   - desktop
 categories:
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  With [Plasma 6.0 recently released](https://instagram-video-recordings.techidaily.com/new-professional-thumbnails-for-engaging-igtv-posts/), it seemed like a great time to take a serious look at it. I used Plasma exclusively for a week, and this is how it went.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  First Impressions
 
  I installed Plasma on Arch to get a plain-vanilla spin of Plasma. To get work done I need to navigate the file system, launch and install applications, and change settings in the DE.
@@ -69,6 +76,13 @@ Dave McKay/How-To Geek
 
 ![The More Actions window menu in KDE Plasma 6.0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  You can change wallpapers, icons, system sounds, window decorations, and more in the System Settings application, under the "Colors and Themes" section.
@@ -87,25 +101,11 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma Dolphin file browser with split panes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Yes, you can do this in other file browsers, but a small icon labeled "Split" has to be the easiest way to do this. Likewise, the Icons View, Compact View, and Details View icons make these common actions accessible and simple.
 
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -115,21 +115,28 @@ Dave McKay/How-To Geek
 
 ![The drive capacity infomration in the KDE Plasma Dolphin file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/11-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Having a list of mounted drives, each with a visual depiction of used and free space, is such a useful feature it makes you wonder why others don’t adopt this.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Default KDE Applications
@@ -156,9 +163,35 @@ Dave McKay/How-To Geek
 
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Once installed and launched, LibreOffice looked like any other application in Plasma, with the appropriate window and dialog decorations from the desktop theme.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  KDE Plasma 6.0 Performance
 
@@ -174,6 +207,13 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 Settings application open at the Quick Settings pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  There seem to be options for everything. It can feel a little overwhelming to users of other desktop environments that give you, by comparison, a limited ability to exercise personal choice.
@@ -184,25 +224,11 @@ Dave McKay/How-To Geek
 
 Dave McKay/How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Stability: Generally Good...
 
  Plasma 6.0 is touted as having much-improved support for Wayland, but I couldn’t get it to work at all. Swapping back to X11 brought everything to life, and no doubt Wayland support will continue to improve. The chatter on forums tells me it works just fine for many people.
 
  I had the Discover app store crash on me a few times, but that was about it. Everything else ran perfectly well, including the applications I manually installed and made heavy use of every day, such as LibreOffice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Will I Stick With Plasma 6.0?
 
@@ -231,20 +257,22 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-nine-superior-puzzle-games-on-non-networked-android/"><u>[New] 2024 Approved Nine Superior Puzzle Games on Non-Networked Android</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exhilarating-freeness-of-screen-pairing-games/"><u>[Updated] Exhilarating Freeness of Screen Pairing Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-master-your-youtube-settings-stop-auto-play-videos/"><u>2024 Approved Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-screen-scribes-editing-edition-guide/"><u>2024 Approved Screen Scribes Editing Edition Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-establishing-disposable-social-media-presence-for-vr-headset-enthusiasts/"><u>Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-v27-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo V27 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-smartphones-coming-soon-built-in-chatgpt-clones-without-needing-a-cloud-connection/"><u>Innovative Smartphones Coming Soon: Built-In ChatGPT Clones Without Needing a Cloud Connection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-bing-chat-ai-the-future-of-mobile-conversations-on-your-devices-dashboard/"><u>Introducing Bing Chat AI: The Future of Mobile Conversations on Your Device's Dashboard</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-dall-e-microsofts-new-image-creation-feature-in-bing-chat/"><u>Introducing DALL-E: Microsoft's New Image Creation Feature in Bing Chat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-ps5-compatible-virtual-reality-the-demand-for-a-playstation-vr-2-version-on-pc/"><u>Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-stable-diffusion-xl-v10-a-new-era-of-improved-digital-artistry-begins/"><u>Introducing Stable Diffusion XL v1.0 - A New Era of Improved Digital Artistry Begins</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-made-simple-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Live Streaming Made Simple with ManyCam: The Ultimate Virtual Webcam Solution</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-90-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 90 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-right-click-not-working-top-diagnostic-steps-to-restore-your-mouse/"><u>Windows 11 Right-Click Not Working – Top Diagnostic Steps to Restore Your Mouse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-ousting-the-focused-wallpaper-symbol/"><u>Windows 11: Ousting the Focused Wallpaper Symbol</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>[New] 2024 Approved Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-oral-notes-in-the-digital-era-an-indispentiary-guide/"><u>[New] 2024 Approved Oral Notes in the Digital Era An Indispentiary Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-personal-exploration-of-3d-printing-in-3dr/"><u>[New] 2024 Approved Personal Exploration of 3D Printing in '3DR'</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-simplifying-cinematics-in-filmora-answering-the-core-questions/"><u>[New] 2024 Approved Simplifying Cinematics in Filmora Answering the Core Questions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing-for-2024/"><u>[New] From Novice to Pro A Tactical Guide to Snapchat Marketing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mp4-72024/"><u>【無料ガイド】MP4 ファイルを超えた圧縮方法の達人7選【2024年新春特大版】</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavimxfwmv/"><u>無料でMovaviを使って、オンラインでMXF形式をWMVに変換 - フリー・ヴィデオコンバータ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-differences-evs-bev-phevs-fcevs-and-traditional-hybrs-compared/"><u>Deciphering the Differences: EVs (BEV), PHEVs, FCEVs & Traditional Hybrs Compared</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-web-based-converter-change-mp4-files-to-ogg-format-instantly/"><u>Free Web-Based Converter: Change MP4 Files to Ogg Format Instantly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Realme 11 Pro Phone Without Password?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/next-gen-vs-mid-gen-console-dilemma-ps5ps4-pro-analysis/"><u>Next Gen vs Mid-Gen Console Dilemma: PS5/PS4 Pro Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-vrijetijdige-konvertor-aiff-naar-ogg-met-movavi/"><u>Online Vrijetijdige Konvertor: Aiff Naar Ogg Met Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ram-in-formato-wma-trasformare-online-e-gratuito-la-guida-completa-al-metodo-movavi/"><u>RAM in Formato WMA: Trasformare Online E Gratuito - La Guida Completa Al Metodo Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/riconversione-gratuita-di-file-wma-in-formato-aac-online-con-movavi/"><u>Riconversione Gratuita Di File WMA in Formato AAC Online Con Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mxf-en-mp3-gratuitement-en-ligne-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MXF en MP3 Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformar-seus-arquivos-ogv-em-formatos-mov-gratuitamente-a-melhor-ferramenta-on-line-do-movavi-disponivel-agora/"><u>Transformar Seus Arquivos OGV Em Formatos MOV Gratuitamente - A Melhor Ferramenta On-Line Do Movavi Disponível Agora!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmv3g2/"><u>フリーの変換ツール: WMVと3G2ファイルをオンラインで簡単に入れ替える方法</u></a></li>
 </ul></div>
 

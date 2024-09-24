@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-09-16T18:25:07.449Z
-updated: 2024-09-18T16:21:57.027Z
+date: 2024-09-21T17:01:34.523Z
+updated: 2024-09-24T01:43:41.336Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
@@ -41,13 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
@@ -60,13 +60,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
@@ -86,13 +79,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If your device is stolen, you should remotely wipe it if it is supported on your [iOS](https://facebook-record-videos.techidaily.com/video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks-for-2024/) or [Android](https://some-techniques.techidaily.com/incor-writes-photo-kinetic-vibrance-for-2024/) device.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  If Someone Asks For Something Out Of The Usual, Check In With Them
 
  Impersonation scams—where a scammer impersonates your friend, family member, or colleague to get you to send them money or information—are becoming increasingly common. Scammers can even use AI tools to impersonate voices, so if someone texts, emails, or even calls you with an unusual request for money or information (which could be used for later scams), find another way to contact that person to confirm that it's actually them asking.
@@ -105,20 +91,46 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Learn How to use Windows and Your Other Software And Devices
 
@@ -126,16 +138,16 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
 
@@ -158,14 +170,25 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-top-10-sites-to-download-copyright-free-meditation-music/"><u>[Updated] Top 10 Sites to Download Copyright-Free Meditation Music</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-hidden-dangers-how-you-might-be-compromising-your-personal-information/"><u>7 Hidden Dangers: How You Might Be Compromising Your Personal Information</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-magic-6-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor Magic 6 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-preserving-data-on-android-devices-prior-to-unlocking-the-bootloader/"><u>Step-by-Step Tutorial: Preserving Data on Android Devices Prior to Unlocking the Bootloader</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-arrival-of-samsung-galaxy-watch-7-latest-updates-and-features-unveiled/"><u>The Arrival of Samsung Galaxy Watch 7: Latest Updates and Features Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-unmatched-excellence-of-oneplus-12-why-it-remains-my-go-to-device-at-the-6-month-mark/"><u>The Unmatched Excellence of OnePlus 12: Why It Remains My Go-To Device at the 6-Month Mark</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/turning-youtube-music-into-mp3-files-with-macos-for-2024/"><u>Turning YouTube Music Into MP3 Files with MacOS for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ultimate-selection-preferred-covers-for-galaxy-z-fold-6-launched/"><u>Ultimate Selection: Preferred Covers for Galaxy Z Fold #6 Launched</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ace-the-art-of-online-fame-trending-on-youtube/"><u>[New] 2024 Approved Ace the Art of Online Fame Trending on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovative-apps-revolutionizing-video-talks/"><u>[New] 2024 Approved Innovative Apps Revolutionizing Video Talks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweet-treasure-trove-the-most-popular-tweeps/"><u>[New] Tweet Treasure Trove The Most Popular Tweeps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-quick-guide-to-video-cross-upload-twitter-and-tumblr/"><u>[Updated] In 2024, Quick Guide to Video Cross-Upload Twitter & Tumblr</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/avim4a-movavi/"><u>高画質に特化したオンラインでのAVIからM4Aファイル変換 – 無料・簡単！ Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pro-level-strategies-for-remote-audio-capture/"><u>In 2024, Pro-Level Strategies for Remote Audio Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/spotlight-on-highly-praised-instagram-after-effects-plugins-for-2024/"><u>Spotlight on Highly Praised Instagram After Effects Plugins for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-detailed-guide-on-computer-components/"><u>Tom's Tech Review: Detailed Guide on Computer Components</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-15-convertidores-de-audios-libres-y-faciles-de-usar-para-el-ano-2024-solomovi/"><u>Top 15 Convertidores De Audios Libres Y Fáciles De Usar Para El Año 2024 - SoloMovi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-16-mp4-to-mp3-converters-best-software-and-apps-for-media-format-transformation/"><u>Top 16 MP4 to MP3 Converters : Best Software and Apps for Media Format Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-19-free-video-compression-tools-of-2024-compatible-with-windows-and-mac/"><u>Top 19 Free Video Compression Tools of 2024 - Compatible with Windows and Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-27-voice-to-text-software-solutions-an-in-depth-review-by-movavi/"><u>Top 27 Voice-to-Text Software Solutions : An In-Depth Review by Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-rated-free-web-based-animation-tools-a-comprehensive-guide/"><u>Top-Rated Free Web-Based Animation Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/topi-meilleurs-alternatives-a-imovie-pour-android-previsions-2024/"><u>Topi Meilleurs Alternatives À iMovie Pour Android - Prévisions 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-3gp-videos-into-webm-with-ease-using-movavis-cost-free-tool/"><u>Transform Your 3GP Videos Into WebM with Ease Using Movavi’s Cost-Free Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-arw-photos-into-jpeg-format-for-free-with-movavis-online-tool/"><u>Transform Your ARW Photos Into JPEG Format for Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-wtv-files-without-cost-easy-online-wtv-format-converter-videoswift/"><u>Transform Your WTV Files Without Cost: Easy Online WTV Format Converter - VideoSwift</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformacion-gratuita-de-archivos-nef-a-png-herramienta-online-de-movavi/"><u>Transformación Gratuita De Archivos NEF a PNG: Herramienta Online De Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-fight-against-slow-fps-how-to-optimize-valheim-on-your-pc/"><u>Winning the Fight Against Slow FPS: How to Optimize Valheim on Your PC</u></a></li>
 </ul></div>
 

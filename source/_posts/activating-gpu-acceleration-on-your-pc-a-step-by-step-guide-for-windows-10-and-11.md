@@ -1,7 +1,7 @@
 ---
 title: "Activating GPU Acceleration on Your PC: A Step-by-Step Guide for Windows 10 & 11"
-date: 2024-09-11T17:26:20.421Z
-updated: 2024-09-18T16:29:22.069Z
+date: 2024-09-18T19:05:41.446Z
+updated: 2024-09-23T19:19:32.119Z
 tags:
   - deals
 categories:
@@ -33,18 +33,24 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  With the Hardware-Accelerated GPU Scheduling feature, the GPU's scheduling processor and memory ([VRAM](https://extra-support.techidaily.com/new-premium-selection-of-apple-and-android-camera-slow-motion-apps/)) take over the same work and runs it in batches to render the frames. This allows your GPU to reduce the load on your CPU and improve latency, potentially making your PC run better.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Enable Hardware-Accelerated GPU Scheduling?
 
  If you have a supported graphics card, it's a good idea to enable GPU scheduling as it helps improve your computer's overall performance. You'll likely see performance improvements when you're running resource-intensive tasks, such as video editing or gaming.
 
  The only reason you shouldn't use this feature is if you experience any issues after enabling it. If your apps suddenly stop working or you have [graphics-related problems](https://video-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs-for-2024/) after turning it on, then GPU scheduling is best left disabled. Fortunately, disabling the feature after testing it is as easy as turning it on. 
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What You'll Need to Make This Feature Work
 
@@ -70,20 +76,34 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
 ![Click "Display" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-display.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the right pane, at the bottom, choose "Graphics Settings."
 
 ![Click "Graphics Settings" under the "Display" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-graphics-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the following screen, toggle on the "Hardware-Accelerated GPU Scheduling" option.
 
 ![Click the toggle to enable GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-click-toggle.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To disable the feature in the future, simply toggle off the "Hardware-Accelerated GPU Scheduling" option again.
 
@@ -113,18 +133,18 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
  Close Registry Editor, restart your PC, and you have Hardware-Accelerated GPU Scheduling enabled on your computer. Enjoy!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Enable Hardware-Accelerated GPU Scheduling in Windows 11
 
  To enable the GPU scheduling in Windows 11, press Windows+i to open the Settings app. Go to the "System" section, then select the "Display" option from the right-hand side.
 
 ![Select the 'System' tab, then click 'Display.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-13.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From the "Related Settings" section, select "Graphics."
 
@@ -134,22 +154,15 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select' Change Default Graphics Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, toggle on the switch under "Hardware-Accelerated GPU Scheduling" and select "Yes" from the User Access Control prompt that shows up.
 
 ![Click the toggle under Hardware-accelerated GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you decide you want to disable GPU scheduling later, simply toggle off the "Hardware-Accelerated GPU Scheduling" option.
@@ -175,14 +188,25 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve/"><u>[New] Game Changers Gear Essentials Every Business Needs to Stay Ahead of the Curve</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-premium-free-facebook-media-craftsman-suite/"><u>[Updated] In 2024, Premium Free Facebook Media Craftsman Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2-daily-deep-dive-into-nyt-topics-expert-hints-and-answers-for-may-23rd-special-edition-347/"><u>2. Daily Deep Dive Into NYT Topics - Expert Hints and Answers for May 23Rd (Special Edition #347)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-use-io-screen-recorder/"><u>2024 Approved How to Use IO Screen Recorder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-running-android-applications-on-windows-11/"><u>A Comprehensive Guide: Running Android Applications on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/alert-imitation-is-not-the-sincerest-form-of-assistance-bot-scammers-pretending-to-be-travel-advisors-on-social-platforms/"><u>Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/racing-cameras-clash-is-black-hero-4-or-ghost-s-better-for-2024/"><u>Racing Cameras Clash Is Black Hero 4 or Ghost-S Better for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unlocking-potential-with-proton-docs-navigating-its-boundaries-and-beyond/"><u>Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unlocking-todays-nyt-challenge-expert-analysis-and-solutions-for-entry-351-on-may-27/"><u>Unlocking Today’s NYT Challenge - Expert Analysis & Solutions for Entry #351 on May 27</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-youtube-presence-ideal-release-windows-for-2024/"><u>[New] Elevate Youtube Presence Ideal Release Windows for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-affordable-desktop-recording-solutions-reviewed/"><u>[New] In 2024, Affordable Desktop Recording Solutions Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-speedy-windowed-image-viewer-for-2024/"><u>[New] Speedy Windowed Image Viewer for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-experts-handbook-for-voice-alteration-via-morphvox/"><u>2024 Approved The Ultimate Expert's Handbook for Voice Alteration via MorphVOX</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprendre-la-lecture-de-videos-mp4-solutions-pour-windows-10-8-et-7-utilisateurs/"><u>Comprendre La Lecture De Vidéos MP4 : Solutions Pour Windows 10, 8 Et 7 Utilisateurs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversion-gratuite-de-fichier-rmvb-vers-mpeg-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichier RMVB Vers MPEG en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversion-video-convertissez-votre-fichier-avi-en-mp4-sans-frais-a-laide-de-moovavi/"><u>Conversion Vidéo: Convertissez Votre FICHIER AVI en MP4 Sans Frais À L'Aide De Moovavi!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convert-any-video-file-to-mp4-or-mov-with-movavis-web-based-tool-start-your-free-trial/"><u>Convert Any Video File to MP4 or MOV with Movavi's Web-Based Tool - Start Your Free Trial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/converter-de-imagens-dng-livre-online-ferramenta-ampla-e-simples-com-o-software-de-edicao-gratuito-do-movavi/"><u>Converter De Imagens DNG Livre Online - Ferramenta Ampla E Simples Com O Software De Edição Gratuito Do Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/converteren-van-mode-naar-wmv-vrije-en-gratis-service-online-movavi/"><u>Converteren Van MODE Naar WMV - Vrije en Gratis Service Online - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/demystifying-eps-graphics-learn-about-the-format-and-effective-techniques-for-viewingediting-eps-documents/"><u>Demystifying EPS Graphics: Learn About the Format and Effective Techniques for Viewing/Editing EPS Documents</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-multimedia-projects-using-movavi-secure-your-copyright-free-video-solution/"><u>Enhance Your Multimedia Projects Using Movavi | Secure Your Copyright-Free Video Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/facilement-convertissez-votre-mp3-en-video-mov-sans-frais-service-en-ligne-rapide-et-efficace/"><u>Facilement Convertissez Votre MP3 en Vidéo MOV Sans Frais - Service en Ligne Rapide Et Efficace</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-converter-swf-to-wav-format-by-movavi-start-immediately/"><u>Free Online Converter: SWF to WAV Format by Movavi - Start Immediately!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-oneplus-ace-2v-by-fonelab-android-recover-messages/"><u>How to recover old messages from your OnePlus Ace 2V</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/podcasting-made-simple-techniques-and-free-sample-scripts-inside-for-2024/"><u>Podcasting Made Simple Techniques and Free Sample Scripts Inside for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/web-based-gratis-converter-tvshow-vod-mp4-movavi/"><u>Web-Based Gratis Converter: TVShow 이미지와 VOD MP4 변환 - Movavi</u></a></li>
 </ul></div>
 

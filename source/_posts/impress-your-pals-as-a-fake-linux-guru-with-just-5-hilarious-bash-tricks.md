@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-09-15T16:13:29.034Z
-updated: 2024-09-18T17:35:55.672Z
+date: 2024-09-19T05:53:57.880Z
+updated: 2024-09-23T19:42:05.234Z
 tags:
   - desktop
 categories:
@@ -33,6 +33,13 @@ sudo pacman -S neofetch
 
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  cmatrix 
 
 Your browser does not support the video tag. 
@@ -57,6 +64,19 @@ cmatrix
 
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  genact 
 
 Your browser does not support the video tag. 
@@ -74,10 +94,10 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -101,10 +121,10 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -134,19 +154,22 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube/"><u>[Updated] 2024 Approved Drive More Watch Time, Not Churn Discover the Top 6 Techniques on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-cross-platform-video-playback-free-solutions-guide/"><u>[Updated] Mastering Cross-Platform Video Playback Free Solutions Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-audio-wizardry-with-windows-10-a-complete-tutorial-for-professionals/"><u>2024 Approved Audio Wizardry with Windows 10 A Complete Tutorial for Professionals</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-discover-instagram-stories-in-private-mode/"><u>2024 Approved Discover Instagram Stories In Private Mode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-windows-1n-update-installation-speed-and-efficiency/"><u>Enhanced Windows 1N Update Installation Speed and Efficiency</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-microsofts-copilot-its-journey-through-windows-11/"><u>Exploring Microsoft's Copilot: Its Journey Through Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-hiding-your-file-activity-from-others-using-windows-n-11-settings/"><u>Guide to Hiding Your File Activity From Others Using Windows N 11 Settings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-implementing-windows-11-on-non-certified-hardware-with-ease/"><u>Guide: Implementing Windows 11 on Non-Certified Hardware with Ease</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-check-the-specifics-of-your-windows-11-installation/"><u>How to Check the Specifics of Your Windows 11 Installation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-a14-4g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy A14 4G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-verdict-on-nest-audio-crafting-an-immersive-listening-journey-for-tune-seekers/"><u>The Verdict on Nest Audio: Crafting an Immersive Listening Journey for Tune Seekers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-expert-advice/"><u>Troubleshooting Common Sound Issues in Halo Infinite: Expert Advice</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/12-techniques-expertes-pour-capturer-une-ecran-sur-votre-portable-asus-tutoriel-fiable-et-facile-dutilisation-de-movavi/"><u>[12 Techniques Expertes Pour Capturer Une Écran Sur Votre Portable ASUS] - Tutoriel Fiable Et Facile D'Utilisation De Movavi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-reality-terms-you-should-know/"><u>[New] Virtual Reality Terms You Should Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-key-points-to-consider-when-opting-for-a-youtube-tv-subscription/"><u>[Updated] 2024 Approved Key Points to Consider When Opting for a YouTube TV Subscription</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-create-captivating-mac-photo-slideshows-with-our-free-slider-tool/"><u>1. Create Captivating Mac Photo Slideshows with Our FREE Slider Tool!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-secret-guide-undetected-screen-capturing-on-snapchat/"><u>1. Secret Guide: Undetected Screen Capturing on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233777059-swf-wmv-movavi/"><u>免費在線 SWF 變更為 WMV - 運用 Movavi 技術進行格式修改</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233733278-png-bmp-movavi/"><u>在線自由轉換 PNG 成 BMP 文件 - 使用 Movavi 照片工具</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/as-cinco-maneiras-mais-eficientes-de-fazer-um-log-no-mac-guia-do-movavi/"><u>As Cinco Maneiras Mais Eficientes De Fazer Um Log No Mac - Guia Do Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cambie-su-video-mp4-por-un-formato-webm-sin-costo-alguno-usando-conversor-de-video-online-gratuito/"><u>Cambie Su Video MP4 Por Un Formato WebM Sin Costo Alguno Usando Conversor De Video Online Gratuito</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/como-convertir-archivos-de-audio-mp2-a-formato-ogg-gratuitamente-online-con-el-servicio-de-conversion-de-movavi/"><u>Cómo Convertir Archivos De Audio MP2 a Formato OGG Gratuitamente Online Con El Servicio De Conversión De Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hidden-horizons-in-hand-drawn-harmony/"><u>Hidden Horizons in Hand-Drawn Harmony</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-innovation-will-claude-surpass-gpts-skills/"><u>Interactive Innovation: Will Claude Surpass GPT's Skills?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-time-lapse-photography-tips-for-iphones-users/"><u>Mastering Time-Lapse Photography: Tips for iPhones Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-rectify-gpu-induced-image-sagging/"><u>Steps to Rectify GPU-Induced Image Sagging</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-marketing-mastery-for-youtube-success/"><u>Video Marketing Mastery for YouTube Success</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 12 Pro | Dr.fone</u></a></li>
 </ul></div>
 

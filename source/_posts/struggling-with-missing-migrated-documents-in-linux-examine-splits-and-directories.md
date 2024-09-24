@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-09-15T16:38:44.777Z
-updated: 2024-09-18T16:49:35.735Z
+date: 2024-09-18T06:49:22.000Z
+updated: 2024-09-24T02:11:23.722Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How This Particular Problem Foxes People
 
  Moving a file on the [command line is pretty simple](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/). You specify the file you want to move, and where you want to move it to. But still, it’s easy for a new user to find themselves exasperated and frustrated over mv.
@@ -26,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  They try to move a file into a directory, and it seems to work. They don’t get a confirmation message, but neither do they get an error message. Linux often takes the no news is good news approach. If you don’t get an error message, it must have worked.
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
 
@@ -40,6 +54,19 @@ ls ~/Downloads/src
 `
     
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
 
@@ -60,6 +87,13 @@ ls ~/Documents/backup/
 `
     
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The original and target directories are both empty. Where did the file go?
 
@@ -89,13 +123,6 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  It’s Not Exactly Slash’s Fault
 
  Slash didn’t make the typo, after all. But if slash is present and on duty, you're told about the error before mv does anything questionable with your file.
@@ -117,12 +144,17 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-premier-game-recorder-picks-excluding-the-mainstream-one-for-2024/"><u>[Updated] Premier Game Recorder Picks Excluding the Mainstream One for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-motorola-edgeplus-a-closer-look-at-its-non-flagship-performance/"><u>Analyzing Motorola Edge+: A Closer Look at Its Non-Flagship Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-productivity-essential-mac-keyboard-shortcut-for-an-improved-daily-start-at-work/"><u>Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boosting-linux-security-on-your-laptop-with-these-7-essential-tips/"><u>Boosting Linux Security on Your Laptop with These 7 Essential Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-reliable-is-chatgpt-for-checking-spelling-and-grammar-errors/"><u>How Reliable Is ChatGPT For Checking Spelling and Grammar Errors?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-90-lite-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 90 Lite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ultimate-guide-wirelessly-linking-your-laptop-to-the-television-screen/"><u>Ultimate Guide: Wirelessly Linking Your Laptop to the Television Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-tools-for-perfect-linux-screenshots/"><u>[New] Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233701480-2024/"><u>2024 年頂級影像壓縮器選拔: 最佳光學編碼解析度提升工具 - 相片大小調整力進化</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-best-gif-maker-applications-for-creative-freedom/"><u>2024 Approved The Best GIF Maker Applications for Creative Freedom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmv3gpmovavi/"><u>在線變革：如何將WMV轉換成3GP，並以Movavi無償擴展你的影片選擇</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-handbook-to-harnessing-the-power-of-movie-maker-in-windows-11/"><u>A Beginner's Handbook to Harnessing the Power of Movie Maker in Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deciphering-user-insights-in-youtube-comments-for-2024/"><u>Deciphering User Insights in YouTube Comments for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-multiple-languages-a-path-to-prosperity/"><u>Master Multiple Languages: A Path to Prosperity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-complete-user-manual-for-understanding-imo-instant-chat-pros-and-cons-reviewed/"><u>The Complete User Manual for Understanding Imo Instant Chat: Pros & Cons Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-perfecting-space-between-windows-widgets/"><u>Title: Perfecting Space Between Windows Widgets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wondering-if-chatgpt-is-online-here-are-5-tricks-to-confirm-its-status/"><u>Wondering if ChatGPT Is Online? Here Are 5 Tricks to Confirm Its Status</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233718318-movaviaacmp3/"><u>オンラインでMovaviのようにアクセシブルなAACファイルからMP3への変換サービス - 無料で</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmv-and-m4a-movavi/"><u>オンラインでの圧縮フリーWMV & M4A変換 - Movavi</u></a></li>
 </ul></div>
 

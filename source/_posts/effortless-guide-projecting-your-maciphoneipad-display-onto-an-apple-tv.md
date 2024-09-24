@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Projecting Your Mac/iPhone/iPad Display Onto an Apple TV"
-date: 2024-09-17T18:30:59.277Z
-updated: 2024-09-18T17:06:29.565Z
+date: 2024-09-21T17:03:26.775Z
+updated: 2024-09-23T22:12:47.326Z
 tags:
   - mobile
 categories:
@@ -18,6 +18,19 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  You can beam all kinds of music and video to your TV with an Apple TV streaming box, but did you know you can also mirror the screen of your iPhone, iPad, or Mac on the big screen? Here's how.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Make Sure AirPlay Is Enabled on Your Apple TV
 
  To mirror your Mac or iOS display, [you'll be using AirPlay](https://screen-mirroring-recording.techidaily.com/updated-2024-approved-record-and-share-every-victory-in-obs/), which is built in to the Apple TV. The first thing you should probably do is verify that AirPlay is actually on—it's available on [second-generation Apple TVs](https://support.apple.com/en-us/101605) and beyond. I'm using an Apple TV 4K here, but the steps should be similar on older models.
@@ -27,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 Close 
 
  With that out of the way, you're ready to mirror your other device's screens to Apple TV.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Mirror an iPhone or iPadScreen to an Apple TV
 
@@ -57,10 +77,10 @@ Close
 ![1497544344-picsay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/1497544344-picsay.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Apple TV is just showing a blank wallpaper, it's acting as a second display instead of mirroring the screen. To fix this, click the Screen Mirroring icon in the menu bar and open the dropdown menu next to your Apple TV, then select the "Mirror Display" option.
@@ -74,10 +94,10 @@ Close
 ![Screen Mirroring Control Center option on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-mirroring-control-center-option-on-mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever you want to do this again in the future, you won't have to enter in the four-digit code every time—only when you first set it up on your Mac and Apple TV.
@@ -101,18 +121,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-filter-mastery-essential-skills/"><u>[New] In 2024, Instagram Filter Mastery - Essential Skills</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-camera-accessories-for-travel-cinematography/"><u>[Updated] Camera Accessories for Travel Cinematography</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-channel-success-strategies-a-comprehensive-guide-to-spotlighting/"><u>[Updated] Channel Success Strategies A Comprehensive Guide to Spotlighting</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlining-your-itunes-video-recordings-for-2024/"><u>[Updated] Streamlining Your iTunes Video Recordings for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>[Updated] Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>2024 Approved From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-11-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-adding-software-from-the-microsoft-store-onto-your-windows-11-pc/"><u>Step-by-Step Guide: Adding Software From the Microsoft Store Onto Your Windows 11 PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-navigating-to-your-windows-11-boot-sequence-directory/"><u>Step-by-Step Guide: Navigating to Your Windows 11 Boot Sequence Directory</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-reversing-and-recapturing-actions-in-windows/"><u>Step-by-Step Guide: Reversing and Recapturing Actions in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/story-1-the-misconception-about-kissing-transmission/"><u>Story 1: The Misconception About Kissing Transmission</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-12-desired-upgrades-and-improvements-for-the-next-generation-windows-version-12/"><u>Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-5-ways-to-record-minecraft-on-mac/"><u>[New] 5 Ways to Record Minecraft on Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-secrets-to-boost-engagement-in-gaming-vlogs-via-hashes/"><u>[New] Unveiling Secrets to Boost Engagement in Gaming Vlogs via Hashes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-garageband-tutorial-for-podcast-creation/"><u>[Updated] Step-by-Step GarageBand Tutorial for Podcast Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-ultimate-guide-windows-movie-maker-features-and-cost-breakdown/"><u>2024 Ultimate Guide: Windows Movie Maker Features & Cost Breakdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-ai-10/"><u>2024에 선보일 우수 AI 이미지 만들기 툴킷: 10명의 타당한 추천</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cambiar-de-formato-flv-a-m4v-online-sin-coste-hacerlo-con-eficacia/"><u>Cambiar De Formato FLV a M4V Online Sin Coste - Hacerlo Con Eficacia</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-getting-started-with-chatgpt-on-your-linux-system/"><u>Step-by-Step Guide: Getting Started with ChatGPT on Your Linux System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-eradicating-full-black-screen-problems-in-rainbow-six-siege-for-windows-users/"><u>Step-by-Step Solution: Eradicating Full Black Screen Problems in Rainbow Six Siege for Windows Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-your-ultimate-guide/"><u>게이, 2024 - Your Ultimate Guide!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/flv-avi/"><u>무료 자동 FLV 대 AVI 화면 전환 - 금요일 코드</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233733304-3gpmp4-movavi/"><u>オンラインで簡単! 3GPファイルをMP4に自由転送 -Movavi</u></a></li>
 </ul></div>
 

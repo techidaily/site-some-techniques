@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11"
-date: 2024-09-16T16:50:26.790Z
-updated: 2024-09-18T16:03:29.078Z
+date: 2024-09-20T00:24:13.558Z
+updated: 2024-09-24T01:12:49.524Z
 tags:
   - desktop
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Enabling Windows Subsystem for Linux (WSL)
 
  Windows Subsystem for Linux is not enabled by default on Windows 11\. You'll need to activate this feature on Windows before you can use it to run Ubuntu apps on your Windows PC.
@@ -52,21 +45,22 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -78,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -93,7 +80,21 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
@@ -108,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Upon selecting "Linux," a folder named "Ubuntu-22.04" will appear. Right-click this folder and choose "Pin to Quick access." This action allows you to effortlessly access your Ubuntu files from Windows.
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
@@ -133,6 +127,13 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -163,10 +164,10 @@ nohup program_name & disown
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
@@ -196,14 +197,15 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-cross-platform-success-televisions-and-facebook-collaboration/"><u>[New] Cross-Platform Success Televisions & Facebook Collaboration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-protect-your-privacy-from-chatgpt-opt-out-methods-revealed/"><u>How To Protect Your Privacy From ChatGPT - Opt Out Methods Revealed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-digital-maze-to-save-snaps-from-social-media/"><u>Navigating the Digital Maze to Save Snaps From Social Media</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfecting-zooms-visual-impact-smart-filters-use-for-2024/"><u>Perfecting Zoom's Visual Impact Smart Filters Use for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-tech-gadgets-for-effortless-virtual-meetings-capture-for-2024/"><u>Top Tech Gadgets for Effortless Virtual Meetings Capture for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-the-app-not-supported-on-pc-issue-in-windows-11-effective-solutions-and-tips/"><u>Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-windows-10-essential-programs-malfunctioning-across-various-computers/"><u>Troubleshooting Windows 10 Essential Programs Malfunctioning Across Various Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-and-resolving-wireless-connection-hiccups-on-the-latest-windows-11-operating-system/"><u>Understanding and Resolving Wireless Connection Hiccups on the Latest Windows 11 Operating System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/wi-fi-evolution-unfolds-as-microsoft-initiates-trials-for-wi-fi-7-on-windows-11-platform/"><u>Wi-Fi Evolution Unfolds as Microsoft Initiates Trials for Wi-Fi 7 on Windows 11 Platform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pixelpilot-expert-tips-for-screen-snagging/"><u>2024 Approved PixelPilot Expert Tips for Screen Snagging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/denne-side-de-bedste-youtube-till-mp3-konverterne-indkald-movavi-for-venligst-fremmede-dybe-livsstil/"><u>Denne Side: De Bedste YouTube Till MP3 Konverterne - Indkald Movavi for Venligst Fremmede Dybe Livsstil</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-photographic-artistry-paula-beatons-portfolio-showcased-by-movavi/"><u>Discover Photographic Artistry - Paula Beaton's Portfolio Showcased by Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/download-bandicam-free-on-mac-by-movavi-easy-video-capture-software/"><u>Download Bandicam Free on Mac by Movavi: Easy Video Capture Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/e-seguro-o-movavi-testando-a-protecao-de-site-e-aplicativos/"><u>É Seguro O Movavi? - Testando a Proteção De Site E Aplicativos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-techniques-for-dell-pc-screen-saving/"><u>Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/personalizing-interactions-deepening-connections-with-viewers-for-2024/"><u>Personalizing Interactions Deepening Connections with Viewers for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stylish-and-soundproof-how-rotibox-ear-toasties-deliver-on-audio-clarity-and-warmth/"><u>Stylish and Soundproof: How Rotibox Ear-Toasties Deliver on Audio Clarity and Warmth</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-12plus-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme 12+ 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228178437-aviogv-movavi/"><u>オンラインでの無料AVIからOGVへの変換 - Movavi</u></a></li>
 </ul></div>
 

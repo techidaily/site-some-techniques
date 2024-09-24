@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2024-09-12T17:36:00.710Z
-updated: 2024-09-18T17:53:29.467Z
+date: 2024-09-17T20:48:44.573Z
+updated: 2024-09-24T02:22:16.172Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,20 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Force Quit Using Task Manager
 
  As the name implies, [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) is a tool that shows which apps are currently running (as well as other information like resource usage and process stats) and allows you to manage them appropriately.
@@ -49,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ![Select the app you want to force quit, then click 'End Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-select-the-app-and-hit-end-task.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The frozen program will now close.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Force Quit an App Using Command Prompt
 
@@ -67,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
 
@@ -86,10 +93,16 @@ taskkill /im notepad.exe
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
@@ -113,17 +126,17 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-solid-foundation-youtube-video-script-basics/"><u>[New] 2024 Approved Building a Solid Foundation YouTube Video Script Basics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-demystifying-youtube-shorts-content-strategy-guide/"><u>[New] 2024 Approved Demystifying YouTube Shorts Content Strategy Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-selfies-in-focus-iphones-8-innovative-tools/"><u>[Updated] Selfies in Focus IPhone's #8 Innovative Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-visuals-and-vibrations-merging-soundtracks-with-vimeo-media/"><u>2024 Approved Visuals and Vibrations Merging Soundtracks with Vimeo Media</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-ai-with-these-7-insights-on-using-chatgpt-for-health-advice/"><u>Discover the Power of AI with These 7 Insights on Using ChatGPT for Health Advice</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-7-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-tecno-spark-20c-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Tecno Spark 20C Without PUK Codes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/streamline-your-professional-hunt-8-key-techniques-on-linkedin/"><u>Streamline Your Professional Hunt: 8 Key Techniques on LinkedIn</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/tackling-my-tangled-web-of-passwords-before-and-after-securing-strategies-for-success/"><u>Tackling My Tangled Web of Passwords: Before & After Securing Strategies for Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-key-benefits-of-maintaining-an-active-linkedin-profile-why-you-shouldnt-ignore-this-vital-network/"><u>The Key Benefits of Maintaining an Active LinkedIn Profile: Why You Shouldn’t Ignore This Vital Network</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-4-essential-criteria-for-selecting-the-perfect-password-manager/"><u>Top 4 Essential Criteria for Selecting the Perfect Password Manager</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-youtubes-top-inspirational-videos-for-2024/"><u>[New] Cultivate Creativity YouTube's Top Inspirational Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturing-every-victory-pro-gaming-tips-for-w11-users/"><u>[New] In 2024, Capturing Every Victory Pro Gaming Tips for W11 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-storyboard-sovereignty-ranking-the-premier-schools-1-8/"><u>[New] Storyboard Sovereignty Ranking the Premier Schools (#1-#8)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-srt-file-generation-manual/"><u>[New] The Definitive SRT File Generation Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-what-is-the-best-mp4-cutter-for-youtubers-on-mac/"><u>2024 Approved What Is the Best MP4 Cutter for YouTubers On Mac?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024s-top-free-dvd-player-programs-our-expert-picks-for-you/"><u>2024'S Top Free DVD Player Programs: Our Expert Picks for You</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-5-ultimate-hd-video-editors-for-stunning-quality/"><u>Best 5 Ultimate HD Video Editors for Stunning Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-free-mac-video-editing-tools-top-picks-and-immediate-setup-guides/"><u>Best Free Mac Video Editing Tools: Top Picks and Immediate Setup Guides</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-6s-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 6s?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-your-sound-with-the-compreenas-complete-morphvox-guidebook-for-2024/"><u>Mastering Your Sound with the Compreenas Complete MorphVOX Guidebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmvflvweb-movietoast/"><u>WMVおよびFLVファイルを無償でWebメディアに変換する - MovieToast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233727717-wmvasf-movavi/"><u>お手頃価格でオンライン変換: WMVからASFへの移行方法 - Movavi</u></a></li>
 </ul></div>
 

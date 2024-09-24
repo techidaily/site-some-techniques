@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-09-14T16:33:59.570Z
-updated: 2024-09-18T16:27:59.544Z
+date: 2024-09-17T02:11:54.057Z
+updated: 2024-09-23T16:59:55.266Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  The Linux `timedatectl` command lets you set your time, date, and timezone for your system clock and your real-time clock. Spare a moment, and we'll show you how it all works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It's All Relative
 
  Your computer's treatment of time is one of those things that you might expect to be pretty straightforward. At least, until you start to look into it.
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
  The conversion from UTC to local time is done by the application, not the system clock. Or, more accurately, the conversion is performed by the time and date libraries that the application is linked to. That's why it is vital that your computer knows which timezone it is, what UTC time is, how many seconds have passed since the Unix epoch, and whether daylight savings time is in effect.
 
  On systemd-based Linux distributions, we use the `timedatectl` command to see or change those settings and values.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Getting Started With timedatectl
 
@@ -72,6 +86,13 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
@@ -83,10 +104,10 @@ timedatectl list-timezones | grep "America/" | less
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting the Time Zone
@@ -103,13 +124,6 @@ timedatectl
 
 ![New time zone and time settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
 
 ##  Manually Setting the Time and Date
@@ -119,13 +133,6 @@ timedatectl
 timedatectl set-time 10:30:00
 
 ![You can't set the time if time synchronization is in force](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/7-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Use this command to turn off the time synchronization service:
 
@@ -167,11 +174,25 @@ timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I think they've made their feelings clear.
 
  To restore the real-time clock to UTC, use this command:
 
 timedatectl set-local-rtc 0
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Set It and Forget It
 
@@ -196,19 +217,20 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-audio-capture-for-post-review-for-2024/"><u>[New] Audio Capture for Post-Review for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exploring-affordable-cloud-storage-solutions/"><u>[New] In 2024, Exploring Affordable Cloud Storage Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[New] Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-dialogue-draft-directory/"><u>[Updated] Prime Dialogue Draft Directory</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-quickguide-optimizingyoucamrecord/"><u>2024 Approved QuickGuide OptimizingYouCamRecord</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-key-strategies-to-ensure-seamless-functionality-of-your-mobile-device/"><u>7 Key Strategies to Ensure Seamless Functionality of Your Mobile Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/acute-inflammation-typically-resolves-with-tissue-repair-or-regeneration-chronic-inflammation-can-result-in-fibrosis-and-scarring/"><u>Acute Inflammation Typically Resolves with Tissue Repair or Regeneration; Chronic Inflammation Can Result in Fibrosis and Scarring.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/anticipate-future-tech-marvels-googles-leaked-lineup-for-aug-2amoon-pixel-9-pro-xl-and-revolutionary-fold-on-display/"><u>Anticipate Future Tech Marvels: Google's Leaked Lineup for Aug 2Amoon - Pixel 9 Pro, XL, and Revolutionary Fold on Display</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/apple-defines-new-guidelines-on-app-store-for-emulator-software/"><u>Apple Defines New Guidelines on App Store for Emulator Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/assessing-googles-pixel-8-pro-performance-at-one-year-mark-is-it-time-for-a-switch-to-pixel-9/"><u>Assessing Google's Pixel 8 Pro Performance at One Year Mark - Is It Time for a Switch to Pixel 9?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-package-of-fun-everything-included-with-your-new-nintendo-switch/"><u>Complete Package of Fun: Everything Included with Your New Nintendo Switch</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hp-zbook-firefly-15-g8-review-mobile-masterpiece/"><u>HP Zbook Firefly 15 G8 Review: Mobile Masterpiece</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-note-30-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix Note 30 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhancements-elevating-cortanas-assistance-revamping-the-photos-app-and-refining-widget-experience/"><u>Windows 11 Enhancements: Elevating Cortana's Assistance, Revamping the Photos App & Refining Widget Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[New] Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>[New] In 2024, From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-studio-review-profits-and-payments/"><u>[New] YouTube Studio Review Profits and Payments</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamless-screen-record-for-windows-11-for-2024/"><u>[Updated] Seamless Screen Record for Windows 11 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp-for-2024/"><u>[Updated] Unleash Social Potential Transitioning From Twitter Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/avoid-redbox-hiccups-essential-tips-for-seamless-dvd-viewing-on-computers/"><u>Avoid RedBox Hiccups: Essential Tips for Seamless DVD Viewing on Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/easy-guide-transforming-your-videos-format-with-top-online-converters/"><u>Easy Guide: Transforming Your Videos' Format with Top Online Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/efficient-bulk-picture-adjustment-tips-and-techniques-for-simultaneous-image-resizing/"><u>Efficient Bulk Picture Adjustment Tips & Techniques for Simultaneous Image Resizing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effortlessly-convert-your-ogv-videos-to-high-quality-mpeg-streams-no-cost-involved/"><u>Effortlessly Convert Your OGV Videos to High-Quality MPEG Streams - No Cost Involved!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-differences-between-pal-and-ntsc-video-formats-explained/"><u>Exploring the Differences Between PAL and NTSC Video Formats Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-conversion-of-aif-files-to-mov-format-with-movavi/"><u>Free Conversion of AIF Files to MOV Format with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-conversion-change-ogg-files-into-mp4-format-with-ease/"><u>Free Online Conversion: Change OGG Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-conversion-transform-3gp-videos-into-avi-format-with-ease-use-movavi-now/"><u>FREE Online Conversion: Transform 3GP Videos Into AVI Format with Ease - Use Movavi Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-note-taking-apps-dominating-the-marketscape/"><u>Top 10 Note-Taking Apps Dominating the Marketscape</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/zero-complaints-witness-the-magnificence-of-a-245-satisfaction-level/"><u>Zero Complaints: Witness the Magnificence of a 245 Satisfaction Level</u></a></li>
 </ul></div>
 

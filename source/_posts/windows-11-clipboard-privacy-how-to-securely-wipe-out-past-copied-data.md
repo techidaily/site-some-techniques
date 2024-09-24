@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data"
-date: 2024-09-12T16:52:33.458Z
-updated: 2024-09-18T16:17:00.796Z
+date: 2024-09-18T08:05:34.942Z
+updated: 2024-09-24T01:18:12.031Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 * [Another Way to Clear All Clipboard Data](https://extra-skills.techidaily.com/2024-approved-navigating-through-gopro-models-and-specifications/)
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Clipboard history in Windows 10 stores the 25 most recent items you've copied, including text, HTML, and images.
@@ -25,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 * To disable Clipboard history, go to Windows Settings > System > Clipboard and toggle the switch to "Off."
 
  If you have Clipboard history enabled in Windows 10, the feature keeps a record of items you have recently copied to the Clipboard while using copy and paste. Here's how to clear your Clipboard history—or disable it if you prefer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Gets Stored in Clipboard History?
 
@@ -38,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 ![The Clipboard history pop-up window on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clipboard_history_plain.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To remove individual items from Clipboard history, call up the list with Windows+V and then click the three dots (ellipses) beside the item you'd like to delete.
 
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
@@ -61,33 +75,19 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Another Way to Clear All Clipboard Data
 
  You can also clear your clipboard data in Windows Settings. Navigate to Settings > System > Clipboard and locate the "Clear Clipboard Data" section. Click on the "Clear" button, and the clipboard will be erased.
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Disable Clipboard History in Windows 10
@@ -97,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
  In Windows Settings, click on "System."
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
@@ -123,19 +130,16 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-melding-melodies-with-memories-in-cyberspace-for-2024/"><u>[New] Melding Melodies with Memories in Cyberspace for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boosting-collaboration-mastery-of-zoom-capabilities-in-win10/"><u>[Updated] Boosting Collaboration Mastery of Zoom Capabilities in Win10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-indoor-natural-lighting-tips/"><u>2024 Approved Indoor Natural Lighting Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>2024 Approved Inside the Core A Thorough Insight Into XStudio Video Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-samsungs-photo-manipulation-software-a-review/"><u>2024 Approved Samsung's Photo Manipulation Software A Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/birds-eye-view-duel-dji-pro-max-against-gopro-hero6-for-2024/"><u>Bird's Eye View Duel DJI Pro Max Against GoPro HERO6 for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-the-simple-steps-to-update-your-networks-banner-image/"><u>In 2024, Unveiling the Simple Steps to Update Your Network's Banner Image</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/la-noire-coming-to-your-computer-the-update-that-was-hard-to-believe-is-true/"><u>L.A. Noire Coming To Your Computer: The Update That Was Hard to Believe Is True!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/master-the-art-of-using-pipx-for-easy-python-app-deployment/"><u>Master the Art of Using Pipx for Easy Python App Deployment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-file-permissions-in-linux-a-guide-to-suid-sgid-and-sticky-bit-settings/"><u>Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-the-underworld-of-pcs-explore-5-essential-terminal-commands-for-enhanced-system-control-on-windows/"><u>Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/microsoft-prepares-to-discontinue-paint-3d-what-it-means-for-users-and-creators/"><u>Microsoft Prepares to Discontinue Paint 3D – What It Means for Users and Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/move-beyond-windows-emulators-top-online-retailers-offering-authentic-linux-gaming-experiences/"><u>Move Beyond Windows Emulators: Top Online Retailers Offering Authentic Linux Gaming Experiences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-videos-impact-with-customizable-youtube-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Video's Impact with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audio-extraction-simplified-with-pazera-tools-in-the-new-era/"><u>[Updated] Audio Extraction Simplified with Pazera Tools in the New Era</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fundamentals-of-e-narrative-creation/"><u>[Updated] Fundamentals of E-Narrative Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>2024 Approved Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>2024 Approved Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/aprenda-a-reduzir-o-tamanho-de-seus-arquivos-mp3-com-estes-4-metodos-faceis-mac-vs-windows/"><u>Aprenda a Reduzir O Tamanho De Seus Arquivos Mp3 Com Estes 4 Métodos Fáceis: Mac Vs. Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/aprenda-as-etapas-para-transformar-seus-videos-do-youtube-em-arquivos-mp3-com-facilidade-e-precisao/"><u>Aprenda as Etapas Para Transformar Seus Vídeos Do Youtube Em Arquivos Mp3 Com Facilidade E Precisão.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/beginners-guide-the-top-17-easy-to-use-video-editors-unveiled/"><u>Beginner's Guide: The Top 17 Easy-to-Use Video Editors Unveiled!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/beginners-pathway-prime-video-game-editing-applications/"><u>Beginner's Pathway Prime Video Game Editing Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/como-convertir-archivo-tiff-a-pdf-o-jpg-sin-coste-guia-de-conversion-online-por-movavi/"><u>Cómo Convertir Archivo TIFF a PDF O JPG Sin Coste: Guía De Conversión Online Por Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
 </ul></div>
 

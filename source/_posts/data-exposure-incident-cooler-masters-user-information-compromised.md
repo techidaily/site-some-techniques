@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-09-15T17:06:15.689Z
-updated: 2024-09-18T16:26:35.004Z
+date: 2024-09-18T02:22:39.032Z
+updated: 2024-09-24T06:09:29.201Z
 tags:
   - web
 categories:
@@ -38,28 +38,25 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-obs-tutorial-capturing-every-moment-of-gameplay/"><u>[New] In 2024, OBS Tutorial Capturing Every Moment of Gameplay</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-live-tv-access-a-top-ranked-list-review/"><u>[New] Mastering Live TV Access A Top-Ranked List Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-inside-the-engine-room-the-apple-m1-unveiled/"><u>[Updated] In 2024, Inside the Engine Room The Apple M1 Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-tracking-your-channels-ad-revenue-accrual/"><u>[Updated] Tracking Your Channel's Ad Revenue Accrual</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb/"><u>2024 Approved Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-days-with-kde-plasma-6-on-linux-key-takeaways-from-my-experience/"><u>7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/airpod-woes-top-8-solutions-for-persistent-connectivity-problems/"><u>AirPod Woes? Top 8 Solutions for Persistent Connectivity Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/apples-latest-innovation-comparing-the-power-of-m4-and-m3-chips/"><u>Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-your-productivity-with-powertoys-0-79-now-including-personalized-keyboard-shortcuts-on-windows/"><u>Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/can-you-manage-a-linux-system-successfully-without-utilizing-the-terminal/"><u>Can You Manage a Linux System Successfully Without Utilizing The Terminal?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-out-your-audience-youtubes-blueprint-for-2024/"><u>Charting Out Your Audience YouTube's Blueprint for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-guide-managing-access-rights-using-linuxs-access-control-lists/"><u>Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/continuing-windows-10-support-beyond-2025-what-you-need-to-know/"><u>Continuing Windows 10 Support Beyond 2025: What You Need to Know</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-7-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 7 Plus Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-monster-hunter-rise-wont-start-issue-a-step-by-step-fix/"><u>Solving Monster Hunter Rise Won't Start Issue: A Step-by-Step Fix</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrading-performance-fresh-downloads-of-netgear-wi-fi-card-drivers-and-installation-steps/"><u>Upgrading Performance: Fresh Downloads of NETGEAR Wi-Fi Card Drivers & Installation Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-compreenas-guide-to-producing-slow-motion-content-with-photos-and-internet/"><u>[New] A Compreenas Guide to Producing Slow Motion Content with Photos & Internet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-the-secrets-to-a-reliable-social-media-experience/"><u>[New] In 2024, Unlocking the Secrets to a Reliable Social Media Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-meme-mastery-strategies-for-engaging-audiences-with-fb-and-instagram-videos/"><u>[New] Meme Mastery Strategies for Engaging Audiences with FB & Instagram Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-speedy-strategies-storing-slideshow-scripts-for-2024/"><u>[Updated] Speedy Strategies Storing Slideshow Scripts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/converter-de-imagens-dng-livre-online-ferramenta-ampla-e-simples-com-o-software-de-edicao-gratuito-do-movavi/"><u>Converter De Imagens DNG Livre Online - Ferramenta Ampla E Simples Com O Software De Edição Gratuito Do Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/converteren-van-mode-naar-wmv-vrije-en-gratis-service-online-movavi/"><u>Converteren Van MODE Naar WMV - Vrije en Gratis Service Online - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/demystifying-eps-graphics-learn-about-the-format-and-effective-techniques-for-viewingediting-eps-documents/"><u>Demystifying EPS Graphics: Learn About the Format and Effective Techniques for Viewing/Editing EPS Documents</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-multimedia-projects-using-movavi-secure-your-copyright-free-video-solution/"><u>Enhance Your Multimedia Projects Using Movavi | Secure Your Copyright-Free Video Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/facilement-convertissez-votre-mp3-en-video-mov-sans-frais-service-en-ligne-rapide-et-efficace/"><u>Facilement Convertissez Votre MP3 en Vidéo MOV Sans Frais - Service en Ligne Rapide Et Efficace</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-converter-swf-to-wav-format-by-movavi-start-immediately/"><u>Free Online Converter: SWF to WAV Format by Movavi - Start Immediately!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-live-broadcasting-on-fb-tips-for-success/"><u>In 2024, Live Broadcasting on FB Tips for Success</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 8 Plus | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

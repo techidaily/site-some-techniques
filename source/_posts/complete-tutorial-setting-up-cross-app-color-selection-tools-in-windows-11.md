@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11"
-date: 2024-09-14T17:30:39.733Z
-updated: 2024-09-18T17:20:58.208Z
+date: 2024-09-19T00:55:59.420Z
+updated: 2024-09-24T00:29:22.875Z
 tags:
   - deals
 categories:
@@ -24,11 +24,25 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
  Need to figure out a color quickly? Using [Microsoft's free PowerToys utility for Windows 10](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/), you can instantly bring up a color picker with a keyboard shortcut and use your mouse cursor to identify any color on screen in hex, RGB, or HSL format. Here's how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Install PowerToys and Enable Color Picker
 
  To use Microsoft's handy system-wide color picker, you'll need to [download PowerToys](https://github.com/microsoft/PowerToys/releases/) from Microsoft's website first. You'll find the latest release listed toward the top of the download page linked above. Download an EXE file such as "PowerToysSetup-0.78-x64.exe" (The name will vary based on the latest release.) and run it.
 
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
 
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
@@ -56,52 +77,26 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also, you can adjust the color value you just selected within Color Picker by clicking the center of the large color bar near the top of the window.
 
 ![In Color Picker, click the color bar to adjust the color values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/click_color_bar.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After clicking the color bar, you'll see another screen with sliders that allow you to adjust the color with your mouse or by entering values with your keyboard.
 
 ![The Color Picker color adjustment window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_adjust_window.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you're done, click "OK," and then the color will be added to your saved color palette, which is the vertical column of boxes along the left side of the window. If you need to remove a color from the palette on the side of the window, right-click the color square and select "Remove."
 
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
 
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
@@ -124,18 +119,21 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-moviemakermag-comprehensive-editor-review/"><u>[New] MovieMakerMag Comprehensive Editor Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-hidden-harmony-harvesters-ios-and-android-secret-audio-apps/"><u>[Updated] 2024 Approved Hidden Harmony Harvesters IOS & Android Secret Audio Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-free-ai-hearing-and-handling-software/"><u>[Updated] Free AI Hearing and Handling Software</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-step-by-step-to-an-elevated-tiktok-identity/"><u>[Updated] In 2024, Step by Step to an Elevated TikTok Identity</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-introduction-to-av1-encoding-techniques-for-2024/"><u>[Updated] Introduction to AV1 Encoding Techniques for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/decoding-electric-vehicle-charger-levels-l1-l2-and-l3-demystified/"><u>Decoding Electric Vehicle Charger Levels: L1, L2, and L3 Demystified</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/decoding-virtual-currencies-a-comprehensive-guide-on-the-essence-of-cryptocurrency/"><u>Decoding Virtual Currencies: A Comprehensive Guide on the Essence of Cryptocurrency.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-new-hidden-gem-enhanced-features-of-the-gemini-side-panel-in-google-workspace/"><u>Discover the New Hidden Gem: Enhanced Features of the Gemini Side Panel in Google Workspace</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/electric-cars-and-their-charging-duration-insights-and-facts-you-need-to-know/"><u>Electric Cars and Their Charging Duration: Insights & Facts You Need to Know</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/electric-chevy-blazer-launching-in-year-new-zero-emissions-suv-with-an-impressive-320-mile-range/"><u>Electric Chevy Blazer Launching in [Year] - New Zero-Emissions SUV with an Impressive 320-Mile Range</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/electric-vehicle-range-how-many-miles-per-single-charge/"><u>Electric Vehicle Range: How Many Miles Per Single Charge?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-6-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 6? How to Fix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/12-techniques-expertes-pour-capturer-une-ecran-sur-votre-portable-asus-tutoriel-fiable-et-facile-dutilisation-de-movavi/"><u>[12 Techniques Expertes Pour Capturer Une Écran Sur Votre Portable ASUS] - Tutoriel Fiable Et Facile D'Utilisation De Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-empowering-healing-with-vr-technology-for-2024/"><u>[New] Empowering Healing with VR Technology for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-sprightly-spirits-top-kid-approved-games-in-2024/"><u>[New] Sprightly Spirits Top Kid-Approved Games, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-through-your-new-laptops-m1-max-clips/"><u>[Updated] Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-create-captivating-mac-photo-slideshows-with-our-free-slider-tool/"><u>1. Create Captivating Mac Photo Slideshows with Our FREE Slider Tool!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-secret-guide-undetected-screen-capturing-on-snapchat/"><u>1. Secret Guide: Undetected Screen Capturing on Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adjusting-settings-stop-automatic-additions-of-podcast-listings/"><u>2024 Approved Adjusting Settings Stop Automatic Additions of Podcast Listings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-professional-looks-after-effects-and-lut-techniques/"><u>2024 Approved Crafting Professional Looks After Effects and LUT Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233733278-png-bmp-movavi/"><u>在線自由轉換 PNG 成 BMP 文件 - 使用 Movavi 照片工具</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows/"><u>最新動画編集・制作ソフトウェア【Windows用】 - 高度テクノロジーで革新的ビデオを作り上げる</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-data-sharing-by-opting-out-of-chatgpt/"><u>Avoid Data Sharing by Opting Out of ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-analysis-of-subscribing-to-sony-online-entertainment/"><u>Cost Analysis of Subscribing to Sony Online Entertainment</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-facebooks-approach-to-permitted-profile-duplication/"><u>Dissecting Facebook's Approach to Permitted Profile Duplication</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-places-to-enjoy-vr-films/"><u>Ideal Places to Enjoy VR Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/webm-movavi-webm/"><u>Webm 파일을 쉽게 원룰모진 구문 없이 오픈소스에서 무세워: Movavi WEBM 전환기</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wifi-wmv-f4v/"><u>무료 앱 사용 WiFi로 WMV 및 F4V 파일 구조 교체 - 모데비비</u></a></li>
 </ul></div>
 

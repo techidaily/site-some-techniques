@@ -1,7 +1,7 @@
 ---
 title: "Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily"
-date: 2024-09-16T16:56:53.087Z
-updated: 2024-09-18T16:43:41.992Z
+date: 2024-09-21T16:18:50.019Z
+updated: 2024-09-23T19:24:53.202Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
@@ -45,18 +52,18 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll be taken directly to the EXE's location in File Explorer.
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
 
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  If You Can't Find a Shortcut to Use
 
@@ -66,20 +73,27 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
  Apps you install from the Microsoft Store, and their executables, are stored in "C:\\Program Files\\WindowsApps."
 
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
 
@@ -98,20 +112,20 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-premier-visual-sneak-peek-bundle/"><u>[Updated] In 2024, Premier Visual Sneak Peek Bundle</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-push-past-limitations-showcase-videos-in-social-media-for-2024/"><u>[Updated] Push Past Limitations Showcase Videos in Social Media for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/11-best-free-ais-enhancing-email-structure-and-content/"><u>11 Best Free AIs Enhancing Email Structure and Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-viewership-into-viewer-funds-on-youtube/"><u>2024 Approved Transforming Viewership Into Viewer Funds on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infiltrate-unseen-introducing-the-new-stealth-mode-feature-in-protonvpn-for-windows-users/"><u>Infiltrate Unseen: Introducing the New Stealth Mode Feature in ProtonVPN for Windows Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inside-story-crafting-microsofts-famous-3d-pipe-screen-saver-for-windows-operating-system/"><u>Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/lenovo-thinkpad-z13-gen-2-with-amd-the-new-era-of-ultraportability-unveiled/"><u>Lenovo ThinkPad Z13 Gen 2 with AMD - The New Era of Ultraportability Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-cross-platform-efficiency-running-ubuntu-applications-in-windows-11/"><u>Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-file-renaming-a-comprehensive-guide-using-powershell/"><u>Mastering File Renaming: A Comprehensive Guide Using PowerShell</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/microsofts-enhanced-printer-functionality-a-deep-dive-into-windows-11-updates/"><u>Microsoft's Enhanced Printer Functionality: A Deep Dive Into Windows 11 Updates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-iphone-hdr-techniques-and-tips-for-2024/"><u>The Ultimate Guide to iPhone HDR Techniques & Tips for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-stop-windows-11s-persistent-bluetooth/"><u>The Ultimate Guide: Stop Windows 11'S Persistent Bluetooth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-netflix-titles-dont-stream-properly/"><u>Troubleshooting Tips for When Netflix Titles Don't Stream Properly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ity-hacks-leveraging-key-hashtags-on-youtube-for-2024/"><u>Virality Hacks Leveraging Key Hashtags on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-amplify-your-online-presence-top-5-effective-youtube-strategies/"><u>[New] 2024 Approved Amplify Your Online Presence Top 5 Effective YouTube Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-decoding-ios-digital-screen-snatcher-secrets/"><u>[New] In 2024, Decoding IO's Digital Screen Snatcher Secrets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>[New] The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-confirmation-procedures-for-youtube-users/"><u>[Updated] 2024 Approved Confirmation Procedures for YouTube Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/calculating-gb-in-one-days-movie-duration/"><u>Calculating GB in One Day's Movie Duration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversione-gratuita-da-mpeg-a-vob-guida-completa-online/"><u>Conversione Gratuita Da MPEG a VOB: Guida Completa Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convert-your-ogm-videos-to-mp4-at-no-cost-simple-and-effective-with-movavi/"><u>Convert Your OGM Videos to MP4 at No Cost - Simple and Effective with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convertir-archivos-ape-a-formato-wav-sin-costo-con-movavi-convertidor-online/"><u>Convertir Archivos APE a Formato WAV Sin Costo Con Movavi Convertidor Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convertissez-gratuitement-vos-fichiers-flac-en-wma-sur-internet-grace-a-movavi-guide-complet/"><u>Convertissez Gratuitement Vos Fichiers FLAC en WMA Sur Internet Grâce À Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/easy-wmv-video-format-transformation-into-vob-online-and-free-with-moveavi/"><u>Easy WMV Video Format Transformation Into VOB Online & Free with MoveAVI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-conversion-transform-mp4-files-into-asf-format-with-easy-steps/"><u>Free Online Conversion: Transform MP4 Files Into ASF Format with Easy Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-unveils-its-ultimate-multilingual-toolkit/"><u>Mondly Unveils Its Ultimate Multilingual Toolkit</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/revolutionize-your-sites-user-experience-using-the-advanced-features-of-cookiebot/"><u>Revolutionize Your Site's User Experience Using the Advanced Features of Cookiebot</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-narzo-n55-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Narzo N55</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-windows-11-fixing-common-bluetooth-driver-problems/"><u>Troubleshooting Windows 11: Fixing Common Bluetooth Driver Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings"
-date: 2024-09-14T16:49:01.039Z
-updated: 2024-09-18T17:51:37.624Z
+date: 2024-09-18T04:48:07.731Z
+updated: 2024-09-24T01:25:40.371Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  What would be ideal is a scheme in which anyone on the system could launch the passwd program, but have the passwd program retain `root`’s elevated privileges. This would empower anyone to change her own password.
 
  The above scenario is precisely what the Set User ID bit (`SUID`) does. It runs programs and commands with the permissions of the file owner, rather than the permissions of the person who launches the program.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You're Elevating the Program's Status
 
@@ -76,6 +83,13 @@ ls -l /usr/bin/passwd
 
 ![List of Linux commands that have their SUID bit set, in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note the filenames are highlighted in red, which indicates the SUID bit is set.
 
  The permissions on a file or directory are usually represented by three groups of three characters: rwx. These stand for read, write and execute. If the letters are present, that permission has been granted. If a hyphen (`-`) instead of a letter is present, though, that permission hasn't been given.
@@ -90,6 +104,13 @@ passwd
 
 ![passwd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The `passwd` command prompts `dave` for his new password. We can use the `ps` command [to see the details of running processes](http://man7.org/linux/man-pages/man1/ps.1.html).
 
  We'll use `ps` with `grep` [in a different terminal window](http://man7.org/linux/man-pages/man1/grep.1.html) and look for the `passwd` process. We'll also use the -e (every process) and -f (full-format) options with `ps`.
@@ -100,16 +121,16 @@ ps -e -f | grep passwd
 
 ![ps -e -f | grep passwd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Two lines are reported, the second of which is the `grep` process looking for commands with the string "passwd" in them. It's the first line that interests us, though, because that's the one for the `passwd` process `dave` launched.
 
  We can see the `passwd` process runs the same as it would if `root` had launched it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Setting the SUID Bit
 
@@ -142,10 +163,10 @@ ls -hl /usr/local/bin/htg
 ![sudo cp htg /usr/local/bin in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/5-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, the program is copied, and the SUID bit is set. We'll run it again, but this time we'll run the copy in the `/usr/local/bin` folder:
@@ -154,24 +175,24 @@ htg
 
 ![The htg program running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-3.png) 
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Even though `dave` launched the program, the effective ID is set to the `root` user. So, if `mary` launches the program, the same thing happens, as shown below:
 
 htg
 
 ![htg launched by user mary in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-2.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The real ID is `mary`, and the effective ID is `root`. The program runs with the permissions of the root user.
 
@@ -191,6 +212,13 @@ ls -lh /usr/local/bin/htg
 
 ![sudo chown root:mary /usr/local/bin/htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can see the `SGID` bit denoted by the "s" in the group permissions. Also, note the group is set to `mary` and the file name is now highlighted in yellow.
 
  Before we run the program, let's establish which groups `dave` and `mary` belong to. We'll use the `id` command with the -G (groups) option, [to print all group IDs](http://man7.org/linux/man-pages/man1/id.1.html). Then, we'll run the `htg` program as `dave`.
@@ -204,13 +232,6 @@ id -G mary
 htg
 
 ![id -G dave in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The ID of the default group for `mary` is 1001, and the effective group of the `htg` program is 1001\. So, although it was launched by `dave`, it's running with the permissions of the members in the `mary` group. It's the same as if `dave` had joined the `mary` group.
 
@@ -229,6 +250,13 @@ sudo chmod g+s work
 ls -lh -d work
 
 ![sudo mkdir work in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The `SGID` bit and "geek" group are set. These will affect any items created within the `work` directory.
 
@@ -251,13 +279,6 @@ touch useful.sh
 ls -lh useful.sh
 
 ![touch useful.sh in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The group of the new file is automatically set to "geek."
 
@@ -317,16 +338,20 @@ ls -lh -d /var/tmp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/banish-blur-from-your-workspace/"><u>Banish Blur From Your Workspace</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/clear-video-soundtracks-free-vs-licensed-software-guide/"><u>Clear Video Soundtracks Free Vs. Licensed Software Guide</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y78t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y78t Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-ipad-artistry-with-the-ultimate-precision-tool-the-zagg-pro-stylus-2/"><u>Enhance Your iPad Artistry with the Ultimate Precision Tool - The ZAGG Pro Stylus 2!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-moto-g13-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola Moto G13 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-poco-m6-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Poco M6 Pro 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-essential-guide-to-popular-social-media-connect-on-facebook-twitter-instagram-and-youtube/"><u>The Essential Guide to Popular Social Media: Connect on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-solving-the-mystery-of-an-unrecognized-new-hard-drive-on-windows/"><u>Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/uncontrollable-mouse-pointer-discover-methods-to-stop-it/"><u>Uncontrollable Mouse Pointer - Discover Methods to Stop It!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/upgrade-your-digital-art-with-the-zagg-pro-stylus-2-the-ultimate-choice-for-ipad-users/"><u>Upgrade Your Digital Art with the ZAGG Pro Stylus 2: The Ultimate Choice for iPad Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-preserves-classic-show-desktop-feature-no-replacement-planned/"><u>Windows 11 Preserves Classic 'Show Desktop' Feature: No Replacement Planned</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-violating-copyrights-in-video-posting-what-are-the-consequences/"><u>[New] In 2024, Violating Copyrights in Video Posting What Are the Consequences?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-discerning-true-from-false-insta-pals/"><u>[New] Mastering the Art of Discerning True From False Insta Pals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-best-gamers-audio-selection-guide/"><u>[New] YouTube's Best Gamers' Audio Selection Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-financial-fortitude-for-youtubers-beyond-basic-earnings-for-2024/"><u>[Updated] Financial Fortitude for YouTubers Beyond Basic Earnings for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-large-scale-tiktok-video-downloads/"><u>[Updated] Mastering Large-Scale TikTok Video Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-pioneers-exploring-the-six-surging-in-nft-arts/"><u>Digital Pioneers Exploring the Six Surging in NFT Arts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-convertitore-video-on-demand-de-movavi-la-version-pgm-en-ligne-pour-transformer-images-et-videos/"><u>Gratuit - Convertitore Vidéo On-Demand De Movavi: La Version PGM en Ligne Pour Transformer Images Et Vidéos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guia-paso-a-paso-para-capturar-la-pantalla-en-mac-usando-recordador-de-pantalla-de-movavi/"><u>Guía Paso a Paso Para Capturar La Pantalla en Mac: Usando Recordador De Pantalla De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/los-mejores-programas-gratuitos-para-dibujo-en-macos-seleccion-especializada-por-movavi/"><u>Los Mejores Programas Gratuitos Para Dibujo en macOS: Selección Especializada Por Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/master-image-layering-on-top-of-text-with-movavi-a-comprehensive-guide-to-flawless-designs/"><u>Master Image Layering on Top of Text with Movavi: A Comprehensive Guide to Flawless Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-screen-recording-with-vlc-updated-guide-movavi/"><u>Mastering Screen Recording with VLC: Updated Guide | Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mkv-to-m2ts-transformation-seamless-cost-free-conversion-online-by-movavi/"><u>MKV to M2TS Transformation - Seamless, Cost-Free Conversion Online by Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo/"><u>Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004823507-pc-troubles-discover-how-to-overcome-crashes-in-detroit-become-human/"><u>PC Troubles? Discover How to Overcome Crashes in Detroit: Become Human</u></a></li>
 </ul></div>
 

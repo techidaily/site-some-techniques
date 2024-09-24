@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-09-01T01:24:18.053Z
-updated: 2024-09-02T01:24:18.053Z
+date: 2024-09-18T16:50:32.771Z
+updated: 2024-09-24T07:33:24.069Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
  By far the most popular chips powering the current generation of [handheld gaming PCs](https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-devices-by-toms-authority-in-hardware/) are AMD’s [APUs](https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/), which combine a powerful mobile [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) with a potent [integrated](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/) [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/), allowing these handheld devices to run the latest and greatest games.
@@ -28,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The result is that even the most powerful APUs out there, such as the Z1 Extreme found in the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), have a sizably lower memory bandwidth compared to modern discrete GPUs, even the bottom-of-the-barrel models such as the AMD Radeon RX 6400\. As an example, the maximum memory bandwidth of the ROG Ally is 51.20GB/s, while the RX 6400 has a maximum bandwidth of 128.0GB/s.
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _AMD_
 
@@ -50,8 +64,12 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -60,18 +78,12 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -83,8 +95,12 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.
@@ -107,8 +123,6 @@ Qualcomm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,42 +132,18 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-beyond-the-ordinary-superior-share-like-software/"><u>[New] 2024 Approved  Beyond the Ordinary  Superior Share-Like Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-soundscapes-for-phones-how-to-curate-tamil-ringtone-tracks/"><u>[New] 2024 Approved  Soundscapes for Phones  How to Curate Tamil Ringtone Tracks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-freeframe-finder-unearthing-elite-tiktok-background-art/"><u>[New] FreeFrame Finder  Unearthing Elite TikTok Background Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-bonus-elevate-your-cam-game/"><u>[New] From Basics to Bonus  Elevate Your Cam Game</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-growing-engagement-ethically-youtube-success-stories-for-2024/"><u>[New] Growing Engagement Ethically  YouTube Success Stories for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hero5-in-focus-advanced-photography-and-video-guide-for-gopro/"><u>[New] Hero5 in Focus  Advanced Photography & Video Guide for GoPro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[New] How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>[New] In Search of Quality  Identifying the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-dialogues-the-key-to-listener-retention/"><u>[New] Innovative Dialogues  The Key to Listener Retention</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-video-saving-a-guide-to-pc-mac-and-mobile-devices-for-2024/"><u>[New] Optimizing Video Saving  A Guide to PC, Mac & Mobile Devices for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>[New] Tech Titans in VR  Top 10 Mobile Headsets Reviewed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-guide-unraveling-ios-screen-capture-magic/"><u>[Updated] 2024 Approved  Essential Guide  Unraveling IO's Screen Capture Magic</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-introduction/"><u>[Updated] 2024 Approved  Introduction</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flipping-video-content-easily-in-android-applications/"><u>[Updated] Flipping Video Content Easily in Android Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-impact-text-visual-effects/"><u>[Updated] High-Impact Text Visual Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-husqvarna-h501s-drone-unboxed-review-essentials/"><u>[Updated] Husqvarna H501S Drone Unboxed - Review Essentials</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-unveiling-audible-tweets-within-social-media-videos/"><u>[Updated] Unveiling Audible Tweets Within Social Media Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-dynamic-typographic-options-for-2024/"><u>Advanced Dynamic Typographic Options for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722956411561-canon-imageclass-mf4800-obtain-the-latest-printer-drivers-here/"><u>Canon ImageClass MF4800 - Obtain the Latest Printer Drivers Here</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/capture-action-the-complete-technique-for-adding-motion-blur-in-photos-for-2024/"><u>Capture Action  The Complete Technique for Adding Motion Blur in Photos for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-steps-to-access-windows-10-advanced-startup-settings/"><u>Easy Steps to Access Windows 10 Advanced Startup Settings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gigglegif-builder-for-2024/"><u>GiggleGif Builder for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giroptic-360cam-complete-review-for-2024/"><u>Giroptic 360Cam Complete Review for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-signing-up-for-chatgpt-whatsapp-and-telegram-without-using-your-mobile-number/"><u>Guide: Signing Up for ChatGPT, WhatsApp & Telegram without Using Your Mobile Number</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-create-distortion-effects-in-photoshop-for-2024/"><u>How to Create Distortion Effects in Photoshop for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>In 2024, Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ffmpegs-audio-recapture-challenge/"><u>In 2024, FFmpeg's Audio Recapture Challenge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-ways-to-liven-up-static-video-texts/"><u>In 2024, FREE Ways to Liven Up Static Video Texts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funny-frameworks-crafting-memes-with-ease/"><u>In 2024, Funny Frameworks  Crafting Memes with Ease</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-xs-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone XS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-pathways-through-mixed-realitys-domain/"><u>In 2024, Illuminating Pathways Through Mixed Reality's Domain</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-video-warfare-samsung-vs-lg-cam-clash/"><u>In 2024, Immersive Video Warfare  Samsung VS LG Cam Clash</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-spiritual-sounds-on-cellphones/"><u>In 2024, Incorporating Spiritual Sounds on Cellphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-search-of-perfection-the-top-10-live-streamers-for-2024/"><u>In Search of Perfection  The Top 10 Live Streamers for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722970022167-step-by-step-instructions-fresh-driver-installation-for-amd-vega-56-on-your-pc-with-windows-no-more-problems/"><u>Step-by-Step Instructions: Fresh Driver Installation for AMD Vega 56 on Your PC with Windows – No More Problems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-teams-productivity-using-chatgpt-strategies-and-tips/"><u>Streamline Your Team's Productivity Using ChatGPT Strategies and Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-gt-5-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme GT 5 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/uncovering-youtubes-top-viewed-comments-for-2024/"><u>Uncovering YouTube's Top Viewed Comments for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-jumpstarting-your-marketing-the-essentials-of-telegram-advertising/"><u>[New] In 2024, Jumpstarting Your Marketing The Essentials of Telegram Advertising</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convert-any-video-file-to-mp4-or-mov-with-movavis-web-based-tool-start-your-free-trial/"><u>Convert Any Video File to MP4 or MOV with Movavi's Web-Based Tool - Start Your Free Trial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/converter-de-imagens-dng-livre-online-ferramenta-ampla-e-simples-com-o-software-de-edicao-gratuito-do-movavi/"><u>Converter De Imagens DNG Livre Online - Ferramenta Ampla E Simples Com O Software De Edição Gratuito Do Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/converteren-van-mode-naar-wmv-vrije-en-gratis-service-online-movavi/"><u>Converteren Van MODE Naar WMV - Vrije en Gratis Service Online - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/demystifying-eps-graphics-learn-about-the-format-and-effective-techniques-for-viewingediting-eps-documents/"><u>Demystifying EPS Graphics: Learn About the Format and Effective Techniques for Viewing/Editing EPS Documents</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-multimedia-projects-using-movavi-secure-your-copyright-free-video-solution/"><u>Enhance Your Multimedia Projects Using Movavi | Secure Your Copyright-Free Video Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/facilement-convertissez-votre-mp3-en-video-mov-sans-frais-service-en-ligne-rapide-et-efficace/"><u>Facilement Convertissez Votre MP3 en Vidéo MOV Sans Frais - Service en Ligne Rapide Et Efficace</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-amplify-your-channel-effortless-tactics-for-more-views/"><u>In 2024, Amplify Your Channel Effortless Tactics for More Views</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-top-text-overlays-and-animations/"><u>In 2024, Best Top Text Overlays & Animations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-14-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi 14 Pro FRP</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-battlefield-2042-and-directx-errors-our-step-by-step-solution-helps/"><u>Trouble with Battlefield 2042 and DirectX Errors? Our Step-by-Step Solution Helps!</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-real-players-dont-embrace-gamefi-enthusiasm/"><u>Why Real Players Don't Embrace GameFi Enthusiasm</u></a></li>
+<li><a href="https://games-able.techidaily.com/workstations-for-work-consoles-for-games-a-look/"><u>Workstations for Work, Consoles for Games: A Look</u></a></li>
 </ul></div>
+

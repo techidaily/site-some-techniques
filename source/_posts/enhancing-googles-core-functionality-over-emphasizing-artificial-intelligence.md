@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2024-09-12T17:04:28.806Z
-updated: 2024-09-18T16:08:29.001Z
+date: 2024-09-20T05:29:32.241Z
+updated: 2024-09-24T02:35:08.367Z
 tags:
   - mobile
 categories:
@@ -32,6 +32,13 @@ Justin Duino / How-To Geek
 
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Google
 
  “It's a complete end-to-end experience that only Google can deliver,” Rick Osterloh, Senior Vice President, Platforms & Devices at Google, told the assembled crowd. “For years, we've been pursuing our vision of a mobile AI assistant that you can work with as you work with a real-life personal assistant, but we've been limited by the bounds of what existing technologies could do.”
@@ -48,6 +55,13 @@ Justin Duino / How-To Geek
 
  But this is just the beginning of Google’s AI ambitions. At Tuesday's event, the company announced Gemini as the replacement for Google Assistant, making it the default assistant on Android phones. This move aligns with [Apple's decision to enhance Siri with OpenAI's ChatGPT](https://mondly-stories.techidaily.com/initiate-your-french-phonetic-journey-today/). Gemini offers a more conversational and intelligent assistant capable of being interrupted without losing focus. The newly introduced [Gemini Live feature](https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/) enables real-time interactions with the AI, positioning Google to compete with [OpenAI's Advanced Voice Mode](https://instagram-videos.techidaily.com/new-the-hidden-powerhouses-in-your-instagram-toolkit/). Gemini will also eventually interpret phone screen content using an upcoming overlay feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google Is Still Seeing What Sticks
 
  I wish that were the extent of what Google has been working on. Still, as has been the case since ChatGPT made its debut some 18 months ago, tech companies just won’t stop trying to shoehorn AI into any and every product they make, regardless of whether it actually adds value to the user experience.
@@ -57,10 +71,16 @@ Justin Duino / How-To Geek
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Google
@@ -75,16 +95,16 @@ Google
 
 ![Made by Google sign at Google I/O](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52887793038_f152af5f6d_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
 
@@ -107,18 +127,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-fullscreen-recorder-with-macpc-support/"><u>[New] In 2024, Ideal Fullscreen Recorder with Mac/PC Support</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-method-to-archive-webcam-discussions/"><u>[New] In 2024, Method to Archive Webcam Discussions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-voice-modification-apps-for-vtubing-success/"><u>2024 Approved 10 Best Voice Modification Apps for VTubing Success</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-g310-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia G310 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/alternate-escapades-where-the-gta-v-lives-are-missing/"><u>Alternate Escapades - Where the GTA V Lives Are Missing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-how-to-overcome-the-challenging-phase0exception-error-code-0x00000078/"><u>Comprehensive Fixes: How to Overcome the Challenging PHASE0_EXCEPTION, Error Code 0X00000078</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-memes-with-kapwings-design-toolkit-for-2024/"><u>Craft Memes with Kapwing's Design Toolkit for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/invisible-watch-top-5-stealthy-story-apps-for-2024/"><u>Invisible Watch Top 5 Stealthy Story Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-pinnacle-of-insta-grids-our-curated-list-of-best-tools-for-2024/"><u>The Pinnacle of Insta Grids Our Curated List of Best Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-solving-minecraft-crash-error-with-exit-code-1-on-windows/"><u>Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-windows-update-issues-for-essential-security-patch-installation/"><u>Troubleshooting Windows Update Issues for Essential Security Patch Installation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/uncover-the-stealthy-culprits-methods-to-detect-and-remove-secretive-startup-applications-that-sluggish-your-windows-system/"><u>Uncover the Stealthy Culprits: Methods to Detect and Remove Secretive Startup Applications That Sluggish Your Windows System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-smart-app-control-in-windows-11-activation-steps-explained/"><u>Understanding Smart App Control in Windows 11: Activation Steps Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frac9plusxplusyplusz6-(-5/"><u> [ Frac{9+x+y+z}{6} < 5 </u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevate-visuals-with-these-top-pixlr-tips/"><u>[New] 2024 Approved Elevate Visuals with These Top Pixlr Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-maximizing-your-virtual-experience-use-of-snap-functions-in-meet/"><u>[New] Maximizing Your Virtual Experience Use of Snap Functions in Meet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-realizing-youre-off-the-friends-list/"><u>[New] Realizing You're Off the Friends List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essentials-of-efficiently-managing-your-digital-gathering-times-google-for-2024/"><u>[Updated] The Essentials of Efficiently Managing Your Digital Gathering Times (Google) for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unmatched-downloader-transform-your-tiktok-to-mp4-effortlessly/"><u>2024 Approved Unmatched Downloader Transform Your TikTok to MP4 Effortlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a1x-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A1x 5G Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-conversion-transform-your-files-into-high-quality-wav-format-with-our-online-service-movavi/"><u>Free Conversion: Transform Your Files Into High-Quality WAV Format with Our Online Service - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-converter-effortlessly-transform-mp2-audio-files-into-mov-video-format/"><u>Free Online Converter: Effortlessly Transform MP2 Audio Files Into MOV Video Format</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-converter-transform-w64-files-into-wav-format-movavi/"><u>Free Online Converter: Transform W64 Files Into WAV Format - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-image-converter-convert-pbm-files-to-jpg-format-with-movavi/"><u>Free Online Image Converter: Convert PBM Files to JPG Format with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-mp4-versie-naar-wma-omzetten-onlinelastige-oplossing-met-movavi/"><u>Gratis MP4-Versie Naar WMA Omzetten - Onlinelastige Oplossing Met Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y36-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y36 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-invest-in-online-radio-even-with-the-popularity-of-streaming-services/"><u>Why Invest in Online Radio Even with the Popularity of Streaming Services</u></a></li>
 </ul></div>
 

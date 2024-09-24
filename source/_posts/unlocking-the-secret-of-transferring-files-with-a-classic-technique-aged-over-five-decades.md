@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
-date: 2024-09-16T17:39:42.262Z
-updated: 2024-09-18T16:50:15.088Z
+date: 2024-09-16T16:19:53.651Z
+updated: 2024-09-23T22:44:43.833Z
 tags:
   - mobile
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Activate the FTP Server](https://extra-information.techidaily.com/best-buddy-list-in-the-virtual-realm-games/)
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * FTP is a 53-year old protocol still effective for moving files between devices on the same Wi-Fi network.
@@ -32,6 +39,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Download an Alternative File Manager
 
  You likely need to begin by downloading an alternative file manager. The default file managers for Android phones, like Files by Google and Samsung My Files, don't come with FTP support baked in.
@@ -39,6 +59,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Many of the [best alternative file managers for Android](https://extra-lessons.techidaily.com/new-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/) come with FTP support. I like to recommend Material Files, since it's fully free and open source.
 
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
 
@@ -54,13 +81,6 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -71,16 +91,16 @@ Close
 
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
@@ -105,18 +125,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-advanced-steps-to-record-silent-videos/"><u>[Updated] In 2024, Advanced Steps to Record Silent Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-content-with-these-20-pro-video-shortcuts/"><u>Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empower-every-moment-ais-role-in-shaping-an-exceptional-lifestyle/"><u>Empower Every Moment: AI's Role in Shaping an Exceptional Lifestyle</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 Phone Screen?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mac-users-discover-the-ultimate-way-to-run-windows-games-with-our-essential-application/"><u>Mac Users: Discover the Ultimate Way to Run Windows Games with Our Essential Application!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/macbook-air-m3-now-available-never-lower-prices-than-todays-deal/"><u>MacBook Air M3 Now Available - Never Lower Prices Than Today's Deal!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximize-your-productivity-with-asus-expertbook-p5-featuring-advanced-energy-savings-and-up-to-32gb-memory/"><u>Maximize Your Productivity with ASUS ExpertBook P5: Featuring Advanced Energy Savings & Up to 32GB Memory</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/persistent-issues-how-recent-windows-updates-trigger-frequent-bsod-errors-on-computers/"><u>Persistent Issues: How Recent Windows Updates Trigger Frequent BSOD Errors on Computers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/straightforward-guide-to-flipper-sound-manipulation-on-windows-os/"><u>Straightforward Guide to Flipper Sound Manipulation on Windows OS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/strategies-to-extend-gopro-battery-hours/"><u>Strategies to Extend GoPro Battery Hours</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-how-to-setting-up-and-using-windows-11s-user-friendly-alarm-system/"><u>The Ultimate How-To: Setting Up & Using Windows 11'S User-Friendly Alarm System</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/mkv-video-online/"><u>무료 MKV 영화를 VIDEO 형식으로 바꾸기 - Online 사용자가 이해하기 쉬운 방법</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233701480-2024/"><u>2024 年頂級影像壓縮器選拔: 最佳光學編碼解析度提升工具 - 相片大小調整力進化</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-yt-music-into-video-editing-suites/"><u>2024 Approved Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmv3gpmovavi/"><u>在線變革：如何將WMV轉換成3GP，並以Movavi無償擴展你的影片選擇</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233802551-ai-12/"><u>AI 음악 관향을 격려하는 12가지 제작 프로그램: 고유한 미학 개발을 위해서</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-guide-converting-mkv-video-codec-to-advanced-h-264-standard/"><u>Comprehensive Guide: Converting MKV Video Codec to Advanced H. 264 Standard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-gt-10-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix GT 10 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instas-power-players-a-guide-to-your-niches-movers-and-shakers-for-2024/"><u>Insta’s Power Players A Guide to Your Niche's Movers & Shakers for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-g310-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia G310 FRP Without Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233764451-mov-mjpeg-movavi/"><u>MOV MJPEG 변환을 위한 Movavi의 멋진 제공: 온라인에서 자원 없이 제공하는 것</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolve-your-elgato-hd60-driver-woes-quickly-with-these-easy-tips/"><u>Resolve Your Elgato HD60 Driver Woes Quickly with These Easy Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/avi-to-webm/"><u>무료 온라인 AVI to WEBM 전환 도구 사용하기 – 모바비</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wma-m4r-movavi/"><u>오피니 공간에서 WMA펫스를 M4R 파일로 자유성적으로 전환: 무료 해상도 - MOVAVI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233718318-movaviaacmp3/"><u>オンラインでMovaviのようにアクセシブルなAACファイルからMP3への変換サービス - 無料で</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmv-and-m4a-movavi/"><u>オンラインでの圧縮フリーWMV & M4A変換 - Movavi</u></a></li>
 </ul></div>
 

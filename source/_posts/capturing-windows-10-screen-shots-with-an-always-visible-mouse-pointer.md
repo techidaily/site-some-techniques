@@ -1,7 +1,7 @@
 ---
 title: Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer
-date: 2024-09-16T18:36:28.897Z
-updated: 2024-09-18T17:13:26.759Z
+date: 2024-09-17T01:15:13.707Z
+updated: 2024-09-23T20:59:56.687Z
 tags:
   - deals
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It's easy to [take screenshots](https://fox-http.techidaily.com/new-inside-the-labyroud-of-vrs-latest-creations/) in Windows 10\. However, you can't grab a screenshot that includes your mouse cursor in the image unless you use a workaround or a third-party tool. We'll show you how to do both.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Take Visible Mouse Cursor Screenshots with Steps Recorder
 
  If you want the mouse cursor to show up in your screenshots, then Steps Recorder is one way to do it. It ships with Windows 10, so you don't need to install it separately. To use it, click the search box next to the Start button in Windows 10 and type "Steps Recorder." You can also search in the Start menu, if you prefer that. 
@@ -34,6 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This will open up the search results in the Start menu. Click "Steps Recorder" in the results to launch the app.
 
 ![The search results for 'Steps Recorder.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-steps-recorder.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steps Recorder's UI looks a bit barebones, but don't let that put you off. It's a useful troubleshooting tool that takes a screenshot whenever you click on the screen. To start taking screenshots with a visible mouse cursor, press "Start Record" in the Steps Recorder app.
 
@@ -51,6 +65,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An enlarged screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-enlarged-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've enlarged a screenshot, click the maximize button (the square icon) in the top-right corner of the Steps Recorder app. This button is located right next to the close button, denoted by an "X."
 
 ![Maximize the Steps Recorder window in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-maximize.png) 
@@ -58,6 +79,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With the Steps Recorder window maximized, you'll need to take a standard Windows screenshot of the step to convert it to a file. To do so, you can use various ways to [capture screenshots](https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) in Windows 10\. We used the keyboard shortcut Windows+Shift+S to get the job done.
 
 ![Windows 10's built-in screenshot utility. Press Windows+Shift+S to access it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5af9d02f546b5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After capturing a screenshot, you can save it wherever you like and then repeat the process to grab other screenshots. The screenshots might appear compressed, however. If that doesn't suit your needs, you can try using our alternative method below.
 
@@ -70,16 +98,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Go to Options > Capture/Screenshot in IrfanView to take screenshots using the free image editing app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-capture-tool.png) 
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To take a screenshot that includes the mouse cursor, check the option labeled "Include Mouse Cursor" in the "Capture Setup" window, and then click "Start" at the bottom of the window.
@@ -91,13 +119,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A Windows 10 screenshot with a visible mouse cursor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-mouse-pointer.png) 
 
  To save the screenshot wherever you like, use File > Save As in the menu bar. Alternatively, press "S on the keyboard to quickly open the "Save As" window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use Screenpresso to Capture the Mouse Cursor in Screenshots
 
@@ -114,10 +135,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The mouse cursor visible in our screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-mouse-cursor.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's how you capture screenshots with a visible mouse cursor on Windows 10\. We covered two third-party options, but most screenshot apps available today have a setting that enables (or disables) cursor capture, you just have to dig around in the app's settings to find it. Now that you have that mastered, you might enjoy learning how to [annotate screenshots](https://techtrends.techidaily.com/the-ultimate-fixes-for-msstdfmtdll-error-message-notifications/) on Windows 10\.
@@ -137,20 +158,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-effortless-snapchat-integration-mac-tips-and-tricks/"><u>[New] Effortless Snapchat Integration Mac Tips & Tricks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-from-chaos-to-clarity-combining-obs-with-zoom/"><u>[New] In 2024, From Chaos to Clarity Combining OBS with Zoom</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-game-development-behind-the-scenes/"><u>[Updated] Game Development Behind-the-Scenes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-8-online-learning-paths-for-newcomers-to-video/"><u>2024 Approved Top 8 Online Learning Paths for Newcomers to Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ai-enhanced-copilot-pro-upgrades-microsoft-office-suite/"><u>AI Enhanced Copilot Pro Upgrades Microsoft Office Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ai-driven-assistance-neweggs-smart-way-to-select-your-perfect-pc-components/"><u>AI-Driven Assistance: Newegg's Smart Way to Select Your Perfect PC Components</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/astounding-revelation-on-the-plaud-note-miniature-ai-microphone-an-innovative-voice-recordant/"><u>Astounding Revelation on the Plaud Note Miniature AI Microphone – An Innovative Voice Recordant</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boosting-trust-in-e-mobility-how-chargepoint-is-advancing-the-reliability-of-ev-chargers-with-their-new-plan/"><u>Boosting Trust in E-Mobility: How ChargePoint Is Advancing the Reliability of EV Chargers with Their New Plan</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/bring-your-work-inside-out-accessing-ms-office-tools-via-quest-vr-devices-word-presentations-and-spreadsheets/"><u>Bring Your Work Inside-Out: Accessing MS Office Tools via Quest VR Devices - Word, Presentations, and Spreadsheets!</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-v27-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V27 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/capturing-your-vr-moments-a-step-by-step-guide-to-screen-captures-on-the-oculus-quest-2/"><u>Capturing Your VR Moments: A Step-by-Step Guide to Screen Captures on the Oculus Quest 2</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-online-marketing-strategies-the-benefits-of-cookiebot-prowess/"><u>Elevate Online Marketing Strategies: The Benefits of Cookiebot Prowess</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/freshly-updated-intels-official-usb-30-drivers-compatible-with-windows-11-download/"><u>Freshly Updated: Intel's Official USB 3.0 Drivers Compatible with Windows 11 [Download]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-magic-5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor Magic 5 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/what-sets-rabbit-r1-apart-from-the-rest-of-artificial-intelligence-companions/"><u>What Sets Rabbit R1 Apart From the Rest of Artificial Intelligence Companions?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-of-collaborations-youtube-shorts-edition/"><u>2024 Approved The Power of Collaborations YouTube Shorts Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-yuva-2-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Yuva 2 Fingerprint Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s23plus-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S23+ FRP Bypass</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-motorola-moto-g84-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Motorola Moto G84 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-comparison-inshot-against-other-apps/"><u>In 2024, In-Depth Comparison InShot Against Other Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-a14-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy A14 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-for-nioh-2-complete-version-persistent-crashing-problems/"><u>Step-by-Step Fix for Nioh 2 (Complete Version) Persistent Crashing Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-15-zero-cost-screenshot-capture-tools-for-your-mac/"><u>Top 15 Zero-Cost Screenshot Capture Tools for Your Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-18-free-movie-player-software-options-compatible-with-windows-10-8-and/"><u>Top 18 Free Movie Player Software Options Compatible with Windows 10, 8 &</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transferer-un-fichier-ogg-vers-aac-gratuitement-online-conversion-avec-movavi/"><u>Transférer Un Fichier Ogg Vers Aac Gratuitement - Online Conversion Avec Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transfert-de-fichier-mmf-a-wav-sur-internet-convertissez-gratuitement-avec-des-tutoriels-facile-dacces/"><u>Transfert De Fichier MMF À WAV Sur Internet - Convertissez Gratuitement Avec Des Tutoriels Facile D'accès</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-music-into-videos-free-mp3-to-mov-conversion-with-movavis-top-rated-web-service/"><u>Transform Your Music Into Videos: Free MP3-to-MOV Conversion with Movavi's Top-Rated Web Service</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformar-archivos-mxf-a-formatos-de-video-livres-online-guia-del-experto/"><u>Transformar Archivos MXF a Formatos De Video Livres Online: Guía Del Experto</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformar-mpeg-ts-a-mp4-gratuito-web-guia-del-servicio-en-linea-de-conversion-de-movavi/"><u>Transformar MPEG-TS a MP4 Gratuito Web: Guía Del Servicio en Línea De Conversión De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformez-votre-fichier-ape-en-m4a-facilement-et-gratuitement-sur-le-site-web-movavi/"><u>Transformez Votre Fichier APE en M4A Facilement Et Gratuitement Sur Le Site Web Movavi!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-the-potential-of-your-vr-gametime-recordings/"><u>Unlocking the Potential of Your VR Gametime Recordings</u></a></li>
 </ul></div>
 

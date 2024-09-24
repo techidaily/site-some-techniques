@@ -1,7 +1,7 @@
 ---
 title: Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration
-date: 2024-09-05T05:27:02.754Z
-updated: 2024-09-06T05:27:02.754Z
+date: 2024-09-16T23:34:31.742Z
+updated: 2024-09-23T20:30:59.742Z
 tags:
   - cutting-edge
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/16.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration
 
 The third update for NVIDIA's ChatRTX app has arrived. It adds new image recognition capabilities, voice input functionality, and an expanded selection of open-source LLMs.
@@ -39,8 +33,6 @@ The third update for NVIDIA's ChatRTX app has arrived. It adds new image recogni
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,57 +42,28 @@ The third update for NVIDIA's ChatRTX app has arrived. It adds new image recogni
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-build-circles-and-spheres-in-minecraft/"><u>[New] 2024 Approved  How to Build Circles and Spheres in Minecraft</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-game-changing-tactics-to-record-high-stakes-gameplay-for-2024/"><u>[New] Game-Changing Tactics to Record High-Stakes Gameplay for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ights-camera-action-youtubes-17-essentials/"><u>[New] Lights, Camera, Action! - YouTube's #17 Essentials</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unraveling-the-mysteries-of-discord-for-2024/"><u>[New] Unraveling the Mysteries of Discord for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ranking-10-must-see-history-youtube-channels-for-learners/"><u>[Updated] 2024 Approved  Ranking 10 Must-See History YouTube Channels for Learners</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-the-ideal-video-sizes-for-instagram-success/"><u>[Updated] 2024 Approved  Unveiling the Ideal Video Sizes for Instagram Success</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-crafting-a-youtube-empire-26-successful-techniques/"><u>[Updated] Crafting a YouTube Empire  26 Successful Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-using-inshot-software-effectively/"><u>[Updated] Step-by-Step  Using Inshot Software Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-do-you-really-necessitate-a-windows-os-identifying-when-to-skip-it/"><u>1. Do You Really Necessitate a Windows OS? Identifying When to Skip It!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-explore-a-multitude-of-artificial-intelligence-chatbots-directly-from-your-personal-computer-using-this-revolutionary-application/"><u>1. Explore a Multitude of Artificial Intelligence Chatbots Directly From Your Personal Computer Using This Revolutionary Application</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-should-you-consider-an-upgrade-to-the-newly-launched-2024-m3-macbook-air/"><u>1. Should You Consider an Upgrade to the Newly Launched 2024 M3 MacBook Air?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-uncover-the-secrets-top-5-methods-to-keep-your-applications-in-front-of-you-on-windows-operating-systems/"><u>1. Uncover the Secrets: Top 5 Methods to Keep Your Applications in Front of You on Windows Operating Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-note-30-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Note 30 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2-step-by-step-guide-leveraging-windows-backup-functionality-for-hassle-free-pc-migration/"><u>2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-catch-the-flame-ideas-for-unbroken-snapstreaks/"><u>2024 Approved  Catch the Flame - Ideas for Unbroken Snapstreaks</u></a></li>
-<li><a href="https://article-files.techidaily.com/5-step-plan-for-clearing-overexposed-iphone-hd-videos-using-premiere-pro/"><u>5 Step Plan for Clearing Overexposed iPhone HD Videos Using Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-days-with-kde-plasma-6-on-linux-key-takeaways-from-my-experience/"><u>7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/airpod-woes-top-8-solutions-for-persistent-connectivity-problems/"><u>AirPod Woes? Top 8 Solutions for Persistent Connectivity Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/apples-latest-innovation-comparing-the-power-of-m4-and-m3-chips/"><u>Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/beating-the-blues-of-youtubes-green-screen/"><u>Beating the Blues of YouTube's Green Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-your-productivity-with-powertoys-0-79-now-including-personalized-keyboard-shortcuts-on-windows/"><u>Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/can-you-manage-a-linux-system-successfully-without-utilizing-the-terminal/"><u>Can You Manage a Linux System Successfully Without Utilizing The Terminal?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/colombias-heartbeat-of-compassion-fundacion-danny/"><u>Colombia’s Heartbeat of Compassion - Fundacion Danny</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-guide-managing-access-rights-using-linuxs-access-control-lists/"><u>Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/continuing-windows-10-support-beyond-2025-what-you-need-to-know/"><u>Continuing Windows 10 Support Beyond 2025: What You Need to Know</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-best-looking-linux-operating-systems-a-top-5-list/"><u>Discover the Best-Looking Linux Operating Systems: A Top 5 List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-release-and-update-details-a-step-by-step-guide/"><u>Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/easy-methods-to-extract-pictures-without-a-background-using-windows-11-tools/"><u>Easy Methods to Extract Pictures Without a Background Using Windows 11 Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-user-friendliness-windows-subsystem-for-linux-undergoes-potential-improvements/"><u>Enhancing User-Friendliness: Windows Subsystem for Linux Undergoes Potential Improvements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/essential-mac-shortcuts-mastering-the-keyboard-for-email-efficiency/"><u>Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exciting-announcement-apple-prepares-for-its-202-cuy-wwdc-event-in-june/"><u>Exciting Announcement: Apple Prepares for Its 202 Cuy WWDC Event in June!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-elementary-os-a-user-friendly-macos-inspired-alternative/"><u>Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-new-features-in-windows-11s-redesigned-task-manager-interface/"><u>Exploring New Features in Windows 11'S Redesigned Task Manager Interface</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/exploring-social-networking-youtube-content-on-fb/"><u>Exploring Social Networking  YouTube Content on FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-superior-features-of-kde-over-gnome-for-enhanced-productivity/"><u>Exploring the Superior Features of KDE Over GNOME for Enhanced Productivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/goodbye-apple-pay-later-the-positive-end-of-a-troubling-service/"><u>Goodbye Apple Pay Later - The Positive End of a Troubling Service</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-g2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo G2 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/impress-your-pals-as-a-fake-linux-guru-with-just-5-hilarious-bash-tricks/"><u>Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-blurring-and-excising-picture-borders/"><u>In 2024, Techniques for Blurring and Excising Picture Borders</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/internet-laughter-fabricator-for-2024/"><u>Internet Laughter Fabricator for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/luminescence-levered-5-top-videography-enhancers-for-2024/"><u>Luminescence Levered  5 Top Videography Enhancers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/macbook-air-by-walmart-leading-the-market-with-unbeatable-price/"><u>MacBook Air by Walmart: Leading the Market with Unbeatable Price</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/master-the-art-of-using-pipx-for-easy-python-app-deployment/"><u>Master the Art of Using Pipx for Easy Python App Deployment</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-scanning-technology-with-new-abbyy-pdf-and-ocr-tools-spotlighted-at-the-american-bar-associations-annual-techshow-2019/"><u>Revolutionizing Scanning Technology with New ABBYY PDF and OCR Tools, Spotlighted at the American Bar Association's Annual Techshow 2019</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-ea-app-issues-effective-solutions-to-restore-functionality/"><u>Troubleshooting EA App Issues: Effective Solutions to Restore Functionality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-resolving-discord-windows-mic-issues/"><u>Troubleshooting Guide: Resolving Discord Windows Mic Issues</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ubuntu-compatibility-with-windows-11-a-guide-to-running-linux-applications/"><u>Ubuntu Compatibility with Windows 11: A Guide to Running Linux Applications</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-the-power-of-personal-branding-insider-secrets-for-flawless-biographies/"><u>Unlock the Power of Personal Branding  Insider Secrets for Flawless Biographies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unlock-the-secret-53-year-old-hack-transferring-files-seamlessly-to-your-mobile-device/"><u>Unlock the Secret 53-Year-Old Hack: Transferring Files Seamlessly to Your Mobile Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/upcoming-windows-11-update-resolves-limitations-with-the-fat32-file-system/"><u>Upcoming Windows 11 Update Resolves Limitations with the FAT32 File System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/updated-noctua-nh-d15-g2-features-enhanced-silence-with-increased-heatpipes-and-modernized-offset-framework/"><u>Updated Noctua NH-D15 G2 Features Enhanced Silence with Increased Heatpipes & Modernized Offset Framework</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-5-slick-online-apps-for-direct-gif-to-video-updates/"><u>[Updated] 2024 Approved Top 5 Slick Online Apps for Direct GIF to Video Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-engagement-mastery-how-to-craft-instagrams-best-puzzles/"><u>2024 Approved Engagement Mastery How to Craft Instagram's Best Puzzles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-perfect-your-social-media-history-looking-back-mastery/"><u>2024 Approved Perfect Your Social Media History Looking Back Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ai-desktops-demystified-a-must-have-technology-or-merely-trendy-gadgetry/"><u>AI Desktops Demystified: A Must-Have Technology or Merely Trendy Gadgetry?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-vos-fichiers-mp3-en-swf-sur-demande-tirez-parti-de-la-technologie-gratuit-de-movavi/"><u>Convertir Vos Fichiers MP3 en SWF Sur Demande - Tirez Parti De La Technologie Gratuit De Movavi !</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-metrics-for-youtube-video-hierarchy-for-2024/"><u>Decoding the Metrics for YouTube Video Hierarchy for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-trp-file-conversion-tool-movavi/"><u>Free TRP File Conversion Tool - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-converter-van-mp4-naar-ogg-professioneel-online-tool-voor-professionele-resultaat-movavi/"><u>Gratis Converter Van MP4 Naar OGG: Professioneel Online-Tool Voor Professionele Resultaat - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-omzetten-van-m4a-naar-flv-online-simpelweg-en-efficient-met-movavi/"><u>Gratis Omzetten Van M4A Naar FLV Online - Simpelweg en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-dts-wav-converteren-helemaal-kostenloos-online-zoek-mooi-ze-mbt/"><u>Gratuit DTS-WAV Converteren Helemaal Kostenloos Online - Zoek Mooi Ze MBT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-online-qt-files-naar-flv-omzetten-met-movavi-efficient-en-gemakkelijk/"><u>Gratuit Online: QT-Files Naar FLV Omzetten Met Movavi - Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuito-e-pratico-mudando-formatos-de-video-em-linha-mp4-para-flv-usando-o-software-de-movavi/"><u>Gratuito E Prático: Mudando Formatos De Vídeo Em Linha - MP4 Para FLV Usando O Software De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-ultime-comment-graver-une-video-sur-un-mac-en-2024-methodes-et-astuces-de-movavi/"><u>Guide Ultime : Comment Graver Une Vidéo Sur Un Mac en 2024 - Méthodes Et Astuces De Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastery-in-muting-facebook-videos-mobilelaptop-for-2024/"><u>Mastery in Muting Facebook Videos (Mobile/Laptop) for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-leads-to-managerial-meltdown-a-cautionary-tale/"><u>Microsoft Teams Misuse Leads to Managerial Meltdown - A Cautionary Tale</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y27s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y27s Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

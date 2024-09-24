@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-09-13T16:30:13.208Z
-updated: 2024-09-18T18:03:03.613Z
+date: 2024-09-20T00:20:12.254Z
+updated: 2024-09-24T06:55:00.186Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Bother With a Headless Laptop?
 
  Though laptops usually need some sort of display to be useful, this doesn't have to be the built-in display. Perhaps the most obvious reason you might go down the slabtop rabbit hole is that you somehow damaged your laptop display and don't fancy coughing up the money for a repair.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  If all that's damaged is the display, your laptop likely still has plenty of life left in it. Even if you don't have an HDMI or DisplayPort output, your laptop can almost certainly output a video signal using a USB-C dongle or similar.
 
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  CalDigit USB-C Gen2 Dock
 
@@ -50,10 +64,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Your Own Display
@@ -71,10 +85,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Make Your Own Slabtop
@@ -116,15 +130,21 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-the-leading-youtube-to-webm-converter-tools/"><u>[New] In 2024, Discover the Leading YouTube-to-WebM Converter Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-skill-discovering-the-top-10-budget-friendly-video-artists-on-youtube/"><u>[Updated] Elevate Your Skill Discovering the Top 10 Budget-Friendly Video Artists on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/3-reasons-why-i-regret-buying-the-nvidia-geforce-rtx-4090/"><u>3 Reasons Why I Regret Buying the NVIDIA GeForce RTX 4090</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-fresh-tunes-with-apple-music-radio-your-gateway-to-the-latest-beats/"><u>Discover Fresh Tunes with Apple Music Radio: Your Gateway to the Latest Beats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-latest-update-for-snip-and-sketch-and-paint-apps-in-windows-11/"><u>Discover the Latest Update for Snip & Sketch and Paint Apps in Windows 11!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/diving-into-artificial-intelligence-a-journey-through-an-innovative-linux-terminal/"><u>Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-tutorial-for-the-latest-download-trustworthy-fingerprint-detection-device-software/"><u>Effortless Setup Tutorial for the Latest [DOWNLOAD]: Trustworthy Fingerprint Detection Device Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-narzo-60-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Narzo 60 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-zd-soft-screen-recorder-a-comprehensive-handbook-for-2024/"><u>Mastering ZD Soft Screen Recorder A Comprehensive Handbook for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resurrect-vanished-desktop-panes-methods-for-retrieving-hidden-windows/"><u>Resurrect Vanished Desktop Panes: Methods for Retrieving Hidden Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options/"><u>[New] In 2024, Boost Your Photography Game Complimentary Basics + Expandable Paid LUT Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-components-that-lift-you-in-youtube-viewership/"><u>[Updated] 2024 Approved The Components That Lift You in YouTube Viewership</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-excellent-mic-options-enhancing-4k-video-quality/"><u>2024 Approved Excellent Mic Options Enhancing 4K Video Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-your-content-with-top-tier-title-tactics/"><u>2024 Approved Perfect Your Content with Top-Tier Title Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233802551-ai-12/"><u>AI 음악 관향을 격려하는 12가지 제작 프로그램: 고유한 미학 개발을 위해서</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-free-avi-redigerare-tricks-and-tools-for-mac-and-windows-users-discover-the-top-10/"><u>Best Free Avi-Redigerare Tricks and Tools for Mac and Windows Users - Discover the Top 10!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-gratis-mac-video-editors-select-the-top-10-tools-for-effortless-editing/"><u>Best Gratis Mac Video Editors - Select the Top 10 Tools for Effortless Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/complete-guide-exploring-the-features-of-freecam-the-ultimate-recording-tool/"><u>Complete Guide: Exploring the Features of FreeCam - The Ultimate Recording Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversion-gratuite-de-fichier-pcx-en-image-animee-gif-avec-movavi-tutoriel/"><u>Conversion Gratuite De Fichier PCX en Image Animée (GIF) Avec Movavi - Tutoriel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/imitation-bot-aid-filches-fb-usernames-and-passes/"><u>Imitation Bot Aid: Filches FB Usernames & Passes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/instagrams-sideways-scenario-a-visual-glitch-examined/"><u>Instagram's Sideways Scenario A Visual Glitch Examined</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233764451-mov-mjpeg-movavi/"><u>MOV MJPEG 변환을 위한 Movavi의 멋진 제공: 온라인에서 자원 없이 제공하는 것</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/proven-paths-to-owning-successful-monetized-youtubes/"><u>Proven Paths to Owning Successful Monetized Youtubes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/select-your-dreams-best-vr-bike-trails-for-2024/"><u>Select Your Dreams Best VR Bike Trails for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-vsco-photo-workflow-analysis/"><u>The Ultimate VSCO Photo Workflow Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/avi-to-webm/"><u>무료 온라인 AVI to WEBM 전환 도구 사용하기 – 모바비</u></a></li>
 </ul></div>
 

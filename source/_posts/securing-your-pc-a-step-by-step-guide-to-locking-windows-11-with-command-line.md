@@ -1,7 +1,7 @@
 ---
 title: "Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line"
-date: 2024-09-17T17:38:58.113Z
-updated: 2024-09-18T17:33:27.142Z
+date: 2024-09-23T07:36:25.191Z
+updated: 2024-09-23T17:35:29.292Z
 tags:
   - desktop
 categories:
@@ -15,6 +15,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,10 +46,10 @@ Rundll32.exe user32.dll,LockWorkStation
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -52,6 +59,13 @@ Rundll32.exe user32.dll,LockWorkStation
  To do this, you’ll need to [open Command Prompt as an admin](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do so by typing “cmd” in the Windows Search bar and then right-clicking “Command Prompt” from the results. Next, select “Run As Administrator” from the menu that appears.
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
 
@@ -63,6 +77,13 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -70,13 +91,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
@@ -95,21 +109,25 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-team-videos-to-foster-viewership-and-following/"><u>[New] In 2024, Crafting Team Videos to Foster Viewership and Following</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-digitize-effortlessly-turn-to-mematic/"><u>[New] In 2024, Digitize Effortlessly - Turn to Mematic</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-optimal-sites-for-pixel-sounds/"><u>[New] In 2024, Unveiling Optimal Sites for Pixel Sounds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-zoomed-into-the-core-of-action-films/"><u>[Updated] 2024 Approved Zoomed Into the Core of Action Films</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-collect-premium-audio-for-video-editors-for-2024/"><u>[Updated] Collect Premium Audio for Video Editors for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-picks-for-retro-play-5-expert-picked-psone-emulators/"><u>[Updated] Top Picks for Retro Play 5 Expert-Picked PsOne Emulators</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lg-virtual-reality-innovation-a-detailed-review/"><u>2024 Approved LG Virtual Reality Innovation A Detailed Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/section-3b-five-factaysis/"><u>Section 3B: Five Factaysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-designing-and-sharing-your-own-customized-sticker-packs-on-telegram/"><u>Step-by-Step Guide: Designing and Sharing Your Own Customized Sticker Packs on Telegram</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-cross-talk-between-these-pathways-is-complex-for-example-autophagy-can-serve-as-a-cell-survival-mechanism-but-can-also-facilitate-apoptosis-if-it-fails-47/"><u>The Cross-Talk Between These Pathways Is Complex; for Example, Autophagy Can Serve as a Cell Survival Mechanism but Can Also Facilitate Apoptosis if It Fails to Allewarthe Stress Conditions Within the Cell.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-significance-of-the-latest-iphone-os-update-why-ios-18-shakes-up-the-tech-world/"><u>The Significance of the Latest iPhone OS Update: Why iOS 18 Shakes Up the Tech World</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-stealthy-lens-approach-to-consuming-instagram-stories-on-desktop-and-mobile-devices/"><u>The Stealthy Lens Approach to Consuming Instagram Stories on Desktop & Mobile Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-14-multiplayer-co-op-mobile-games-for-enjoying-time-together-on-android/"><u>Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-6-amazing-ways-to-enhance-your-experience-with-samsung-dex/"><u>Top 6 Amazing Ways to Enhance Your Experience with Samsung DeX</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transform-your-smartphone-into-an-enhanced-nintendo-switch-experience-with-just-one-gadget/"><u>Transform Your Smartphone Into an Enhanced Nintendo Switch Experience with Just One Gadget</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nikons-bold-move-into-4k-with-the-innovative-j5-model/"><u>[Updated] Nikon's Bold Move Into 4K with The Innovative J5 Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/8-cutting-edge-replacements-for-the-gpt-mobile-experience/"><u>8 Cutting-Edge Replacements for the GPT Mobile Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversione-gratuita-da-mp4-a-vob-online-con-moviemaker/"><u>Conversione Gratuita Da MP4 a VOB Online Con MovieMaker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversione-gratuita-di-wma-in-m4r-su-internet-utilizzando-movavi-guida-alla-conversione-rapida-e-facile/"><u>Conversione Gratuita Di WMA in M4R Su Internet Utilizzando Movavi - Guida Alla Conversione Rapida E Facile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversione-gratuita-online-da-mkv-a-ogg-con-movavi-guida-completa/"><u>Conversione Gratuita Online Da MKV a OGG Con Movavi - Guida Completa</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convert-audio-file-from-aac-to-flac-for-free-on-the-web-with-fastvideoeditingcom/"><u>Convert Audio File From AAC to FLAC for Free on the Web with FastVideoEditing.com</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convert-audio-files-seamlessly-mp3-to-mov-for-free-with-moveavi/"><u>Convert Audio Files Seamlessly - MP3 To Mov For FREE with MoveAVI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convertir-archivos-mov-a-m4a-sin-costo-alguno-conversion-en-linea-facil/"><u>Convertir Archivos MOV a M4A Sin Costo Alguno - Conversión en Línea Fácil</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/denkvangerig-conversie-van-dng-naar-tiff-onlinegestuurd-and-vrijgevreesgratis-movavi/"><u>Denkvangerig Conversie Van DNG Naar TIFF - Onlinegestuurd & Vrijgevreesgratis - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/descubre-el-tratodo-sobre-la-conversion-de-archivos-video-wmv-usando-ram-en-linea-gratis-la-solucion-de-movavi/"><u>Descubre El Tratodo Sobre La Conversión De Archivos Vídeo WMV Usando RAM en Línea Gratis: La Solución De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/dettagli-sui-file-wmv-e-come-sbloccarne-il-contenuto-sul-tuo-computer/"><u>Dettagli Sui File WMV E Come Sbloccarne Il Contenuto Sul Tuo Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-movavi-unlimited-all-features-of-the-movavi-program-in-one-package/"><u>Discover Movavi Unlimited – All Features of the Movavi Program in One Package!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-malfunctioning-speakers-on-your-windows-11-system/"><u>Effective Solutions for Malfunctioning Speakers on Your Windows 11 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-upgrades-for-optimal-steam-deck-performance/"><u>Essential Upgrades for Optimal Steam Deck Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-windows-10-11-8-or-n-version-with-microsofts-most-recent-bluetooth-driver-software/"><u>How to Update Your Windows (10, 11, 8 or N-Version) With Microsoft's Most Recent Bluetooth Driver Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XS without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-5k-monitors-you-can-get/"><u>In 2024, Best 5K Monitors You Can Get</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-settings-for-effortless-administration/"><u>Mastering Windows 11 Settings for Effortless Administration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quantum-hdr-unveiled-industry-insights/"><u>Quantum HDR Unveiled Industry Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toughness-is-the-energy-absorption-capacity-of-a-material-up-to-fracture-combining-strength-and-ductility/"><u>Toughness Is the Energy Absorption Capacity of a Material up to Fracture, Combining Strength and Ductility.</u></a></li>
 </ul></div>
 

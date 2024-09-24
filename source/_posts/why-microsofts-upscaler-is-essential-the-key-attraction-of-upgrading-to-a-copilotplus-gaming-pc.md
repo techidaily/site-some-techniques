@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-09-17T16:29:06.944Z
-updated: 2024-09-18T18:05:43.141Z
+date: 2024-09-18T21:12:55.614Z
+updated: 2024-09-23T17:25:48.550Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [Auto SR Looks Better Than Driver-Level Upscalers](https://extra-approaches.techidaily.com/2024-approved-quicklivestream-101-how-to-broadcast-a-podcast-with-zero-hitches/)
 * [It Just Works (In Supported Games)](https://www.howtogeek.com/microsofts-upscaler-is-the-only-reason-gamers-will-care-about-a-copilot-pc/#it-just-works-in-supported-games)
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,6 +49,13 @@ Microsoft/Gearbox
 
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  You'll notice fewer details found on complex textures in the second screenshot. Just look at those vines hanging from the building in the distance. See how they lack some detail on the Auro SR screenshot compared to the native image.
@@ -53,16 +67,10 @@ Microsoft/Gearbox
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
@@ -77,19 +85,6 @@ Microsoft/Gearbox
 
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  It Just Works (In Supported Games)
 
  One of the best things about Auto SR is that it just works. After you enable the option in Windows settings, Auto SR automatically turns on in supported games, in full-screen and windowed borderless modes, and then seamlessly turns off and switches your native resolution back once you exit the game. On the other hand, driver-based upscalers require a manual set-up process for each game, on top of not looking as good as Auto SR.
@@ -99,6 +94,13 @@ Microsoft/Gearbox
  From what I can tell, Microsoft plans to make most DX11 and DX12 games Auto SR-compatible. On the other hand, DX9 and older games and those that use Vulkan and OpenGL graphics runtimes are not and won’t be compatible with Auto SR.
 
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
 
@@ -125,19 +127,25 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-choices-best-vr-for-drones/"><u>[New] Expert Choices Best VR for Drones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools/"><u>[Updated] Exploring the Best of Android Does PickUp Lead Photo Editing Tools?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-assessment-of-simple-high-dynamic-range/"><u>Detailed Assessment of Simple High-Dynamic Range</u></a></li>
-<li><a href="https://extra-information.techidaily.com/engaging-audiences-through-text-a-comprehensive-video-guide/"><u>Engaging Audiences Through Text A Comprehensive Video Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-new-features-in-windows-11s-redesigned-task-manager-interface/"><u>Exploring New Features in Windows 11'S Redesigned Task Manager Interface</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-superior-features-of-kde-over-gnome-for-enhanced-productivity/"><u>Exploring the Superior Features of KDE Over GNOME for Enhanced Productivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/goodbye-apple-pay-later-the-positive-end-of-a-troubling-service/"><u>Goodbye Apple Pay Later - The Positive End of a Troubling Service</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/impress-your-pals-as-a-fake-linux-guru-with-just-5-hilarious-bash-tricks/"><u>Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-remove-pre-installed-ios-applications/"><u>Is It Possible To Remove Pre-Installed iOS Applications?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/macbook-air-by-walmart-leading-the-market-with-unbeatable-price/"><u>MacBook Air by Walmart: Leading the Market with Unbeatable Price</u></a></li>
-<li><a href="https://blog-min.techidaily.com/pcwindows-10/"><u>PC操作録画のためのWindows 10ガイド</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ten-strategies-for-controlling-a-twitch-broadcast-for-2024/"><u>Ten Strategies for Controlling a Twitch Broadcast for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-storytelling-methodologies-for-the-documentarian/"><u>[New] Storytelling Methodologies for the Documentarian</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-top-free-microsoft-excel-add-ons-for-windows-7/"><u>1. Top Free Microsoft Excel Add-Ons for Windows 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/100-turk-denetin-altinda-movavi-video-suiteyi-satin-al-boyle-kazancli-teknik-sistemler/"><u>100% Türk Denetin Altında Movavi Video Suite'yi Satın Al - Böyle Kazançlı Teknik Sistemler</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/5plus12-nastroje-za-dopravu-peknych-obrazovych-sinek-pro-windows-movavi/"><u>5+12 Nástroje Za Dopravu Pěkných Obrazových Sínek Pro Windows - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233724997-pbmpngmovavi/"><u>移動魷魚(PBM)成PNG便攜轉換器：使用Movavi免費網上服務 - 高效變更影像格式</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233759169-wma/"><u>在線 WMA變換服務 - 麥瓦維</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233790627-2024/"><u>最新排行：专业电影后期【2024年优选旁白配音软件】</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fantasy-in-full-view-vr-cinemascape/"><u>Fantasy in Full View VR Cinemascape</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-create-animated-facebook-ads-with-high-roi-for-2024/"><u>How to Create Animated Facebook Ads With High ROI for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo S18 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>In 2024, The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233742874-movavi/"><u>Movavi: 원자성 영상 델타를 무료로 온라인 구성판으로 바꾸기</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nubia Red Magic 8S Pro+.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/professional-manfrotto-befree-tripod-reliable-and-strong/"><u>Professional Manfrotto Befree Tripod: Reliable and Strong</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-updating-and-repairing-asus-pce-ac56-drivers-for-windows-users-windows-11-8-and-ps-7/"><u>The Ultimate Guide to Updating and Repairing ASUS PCE-AC56 Drivers for Windows Users (Windows 11, 8 & Ps 7)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/trasforma-i-tuoi-immagini-jpg-in-formati-tiff-gratuiti-con-convertitore-online-di-movavi/"><u>Trasforma I Tuoi Immagini JPG in Formati TIFF Gratuiti Con Convertitore Online Di Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unraveling-mkv-formats-essential-tips-for-easily-opening-and-viewing-matroska-media-content/"><u>Unraveling MKV Formats: Essential Tips for Easily Opening and Viewing Matroska Media Content</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-10-free-online-sticker-makers-to-make-your-own-stickers/"><u>Updated 2024 Approved 10 Free Online Sticker Makers to Make Your Own Stickers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1726233769187-mp3/"><u>오토로 영화에서 음성을 클립: 제공하는 신선한 MP3</u></a></li>
 </ul></div>
 

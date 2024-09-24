@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2024-09-11T18:28:31.686Z
-updated: 2024-09-18T16:07:27.256Z
+date: 2024-09-20T19:43:29.722Z
+updated: 2024-09-24T08:07:05.077Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is elementary OS?
 
 [elementary OS](https://elementary.io/) is an operating system you can use on your PC in place of something like Windows or macOS. It's one of many, many iterations of the Linux desktop experience you can find out there. What sets elementary OS apart is perhaps its clean, minimalist interface that has an unmistakable macOS flare. While the majority of Linux desktops emulate the Windows layout or try to reinvent the desktop in new and unique ways, elementary OS is going to be most comfortable for you if you're used to a Mac. You'll find a dock full of launchable icons at the bottom of the screen, for example, and quick access to some settings on the righthand side of a top panel, much like [a Mac's Control Center](https://extra-resources.techidaily.com/critical-review-of-superior-stream-platforms/).
@@ -28,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Installing elementary OS Is as Easy as It Gets
 
@@ -42,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Settling in Is Elementary
@@ -53,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Getting started with an alternative operating system like Linux can be intimidating, depending on who you are and what specific distribution you're using. If your distribution is elementary OS, though, you can look forward to a relaxed learning curve. It's clean and polished in its appearance, and things are generally where you expect to find them—so long as you're familiar with the macOS experience. At your first startup, a wizard will walk you through making the desktop your own, like connecting your email account and choosing a color scheme.
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
@@ -74,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -96,15 +110,22 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-through-top-10-youtube-mp3-extractors/"><u>[Updated] In 2024, Navigating Through Top 10 YouTube Mp3 Extractors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>2024 Approved Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bard-emerges-googles-latest-ai-to-rival-chatgpt/"><u>Bard Emerges: Google's Latest AI to Rival ChatGPT</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>In 2024, OBS and Wirecast Clash Which Tops in Live Broadcasting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-snaps-the-definitive-how-to-manual-for-turning-videos-backwards-in-snapchat/"><u>Revolutionize Your Snaps: The Definitive How-To Manual for Turning Videos Backwards in Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-curiosity-driving-users-to-hack-into-ai-chatbots-understanding-their-purpose-and-methods/"><u>The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/tight-knit-community-seeks-quietude-as-neighboring-company-continues-test-flights/"><u>Tight-Knit Community Seeks Quietude as Neighboring Company Continues Test Flights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-6-ideal-applications-of-gpt-4-maximizing-conversational-ai/"><u>Top 6 Ideal Applications of GPT-4: Maximizing Conversational AI</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/mkvavi-wmvm4v/"><u>오픈소스 MKV/AVI를 WMV/M4V로 자유성: 영상 코어 강조</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/makemkv-dvdblu-ray/"><u>ダウンロードできるMakeMKVキー: 制限なし・無料DVD/Blu-Rayリッピング手順</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cloudsafe-experts-opinion/"><u>[Updated] 2024 Approved CloudSafe Experts Opinion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-digital-detailing-at-your-command/"><u>[Updated] 2024 Approved Digital Detailing at Your Command</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-online-accessory-fb-stories-capture-app/"><u>[Updated] Online Accessory Fb Stories Capture App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mkv62024/"><u>【新築版】これがおすすめのフリーMKV再生ソフト6つ、2024年使える完全ガイド</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-analyzing-yuneecs-typhoon-h-drone-features/"><u>2024 Approved Analyzing Yuneec’s Typhoon H Drone Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/investigating-actives-prowess-in-recording-technology/"><u>Investigating Active's Prowess in Recording Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mkv-to-mp4-transformation-download-our-simple-gratis-tool-today/"><u>MKV to MP4 Transformation - Download Our Simple, Gratis Tool Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-cam-screen-reproductor-sin-costo-analisis-exhaustivo-y-opiniones-del-usuario/"><u>Movavi Cam-Screen Reproductor Sin Costo - Análisis Exhaustivo Y Opiniones Del Usuario</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-converte-facilmente-i-file-wma-in-formati-multipli-gratuitamente/"><u>Movavi: Converte Facilmente I File WMA in Formati Multipli Gratuitamente</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mp3-from-video-in-instant-simplified-online-conversion-process-szep-bongeses/"><u>MP3 From Video in Instant - Simplified Online Conversion Process | Szép Böngésés</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-ggeltiger-m4r-mp3-versterker-veilig-en-eenvoudig-geconverteerd/"><u>Online GGeltiger M4R-MP3 Versterker - Veilig en Eenvoudig Geconverteerd!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-hd-mkv-ogg-movavi/"><u>Online 무료 HD를 사용한 MKV 값으로 OGG 파일을 변환하는 방법 - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-m4r-ogg-movavi/"><u>Online 무료 용어: M4R 오그을 OGG 형식으로 바꾸기 - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-of-a-401-unauthorized-access-issue-a-step-by-step-guide/"><u>Solving the Puzzle of a 401 Unauthorized Access Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-2024-long-distance-wireless-routers-buyers-guide/"><u>Top 2024 Long-Distance Wireless Routers: Buyer's Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-easy-mov-video-rotation-solutions/"><u>Updated 2024 Approved Free and Easy MOV Video Rotation Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-09-14T16:25:42.465Z
-updated: 2024-09-18T17:10:26.878Z
+date: 2024-09-21T05:12:22.151Z
+updated: 2024-09-23T22:20:58.241Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is an SMC, and What Does It Do?
 
  The SMC is a dedicated chip on Intel Macs that manages lots of low-level hardware functions. It enables certain hardware features to work regardless of whether the Mac is powered on. The LED indicator on your charger will change color when you plug it in, even if your Mac is turned off, for example.
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Apple Silicon Mac
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
@@ -73,6 +80,13 @@ Hannah Stryker / How-To Geek
  Keep all these keys held down for seven seconds. Then, with them still pressed, press and hold the Power button as well for a further seven seconds. Finally, release all four keys, wait a few seconds, and then turn your Mac back on.
 
  On desktop Macs with the T2 chip, it's far simpler. Just shut the Mac down and unplug the power cord. After 15 seconds, plug the power cord back in, wait another five seconds, and then power on your Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Reset the SMC on Older Intel Macs
 
@@ -112,14 +126,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/effortless-guide-projecting-your-maciphoneipad-display-onto-an-apple-tv/"><u>Effortless Guide: Projecting Your Mac/iPhone/iPad Display Onto an Apple TV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevating-your-drive-top-6-upgrades-needed-in-the-next-android-auto-update/"><u>Elevating Your Drive: Top 6 Upgrades Needed in the Next Android Auto Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-googles-core-functionality-over-emphasizing-artificial-intelligence/"><u>Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-video-downloader-and-addons-perfect-for-firefox-browser/"><u>In 2024, Ultimate Video Downloader & Addons Perfect for Firefox Browser</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-vanished-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos/"><u>In 2024, Vanished Vids Rediscovered The Ultimate Guide to Old YouTube Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/selecting-the-perfect-day-for-podcast-drops-for-2024/"><u>Selecting the Perfect Day for Podcast Drops for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sharp-images-no-fog-protecting-gopro-quality/"><u>Sharp Images, No Fog Protecting GoPro Quality</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/step-by-step-obs-tutorial-for-skype-sessions/"><u>Step-by-Step OBS Tutorial for Skype Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-secrets-to-craft-impeccable-timelapse-shots-with-gopro-for-2024/"><u>Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-save-your-guide-to-androidmac-video-savings-for-2024/"><u>[Updated] Capture, Save Your Guide to Android/Mac Video Savings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ios-and-android-asmr-experience-leaders/"><u>[Updated] IOS and Android ASMR Experience Leaders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-list-freely-accessible-editing-software-for-2024/"><u>[Updated] Ultimate List Freely Accessible Editing Software for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nokia-g310-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/qtmp4-movavi/"><u>網路直接無限制轉換QT到MP4 - 使用Movavi影片編輯工具</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-70-lite-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor 70 Lite 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-in-class-writing-workshop/"><u>In 2024, Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ten-pillars-of-meme-creation/"><u>In 2024, The Ten Pillars of Meme Creation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-video-promo-maker-websites/"><u>New In 2024, Top-Rated Video Promo Maker Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/seamless-vob-to-flv-file-upgrade-at-no-cost-experience-the-simplicity-of-movavis-service/"><u>Seamless VOB to FLV File Upgrade at No Cost - Experience the Simplicity of Movavi's Service</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-11-high-definition-video-capture-tools-choosing-the-right-hd-recorder/"><u>Top 11 High-Definition Video Capture Tools: Choosing the Right HD Recorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-12-receptores-de-audio-interno-mais-eficientes-e-gratis-em-2024-guia-completo-da-movavi/"><u>Top 12 Receptores De Audio Interno Mais Eficientes E Grátis Em 2024 - Guia Completo Da Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-12-youtubers-to-mp3-conversion-tools-discovering-the-best-with-movavi/"><u>Top 12 YouTubers-to-MP3 Conversion Tools: Discovering the Best with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-alternatives-pour-inshot-sur-bureau-decouvrez-les-meilleurs-choix/"><u>Top Alternatives Pour InShot Sur Bureau - Découvrez Les Meilleurs Choix !</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transferez-gratuitement-un-fichier-aiff-vers-format-mov-en-ligne-convertisseur-video-movavi/"><u>Transférez Gratuitement Un Fichier AIFF Vers Format MOV en Ligne - Convertisseur Vidéo Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transfert-gratuite-de-fichiers-videos-convertissez-votre-3gp3g2-au-format-mov-sur-movavi/"><u>Transfert Gratuite De Fichiers Vidéos : Convertissez Votre 3GP/3G2 Au Format MOV Sur Movavi</u></a></li>
 </ul></div>
 

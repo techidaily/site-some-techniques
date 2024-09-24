@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-09-17T18:21:52.938Z
-updated: 2024-09-18T17:13:57.304Z
+date: 2024-09-18T22:14:22.194Z
+updated: 2024-09-23T20:28:29.894Z
 tags:
   - desktop
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Ubuntu adds its own cache to the mix. By default, the [systemd](https://facebook-clips.techidaily.com/2024-approved-restore-order-fixing-compromised-fb-profile/)\-resolved service is enabled. This caches DNS requests and responses. If a single cache entry (or the whole cache for that matter) becomes corrupted, you can experience connectivity issues with remote servers, web resources, and local devices.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does Flushing the DNS Cache Do?
@@ -67,10 +67,10 @@ systemctl is-active systemd-resolved
 ![Checking whether the resolved daemon is running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-14.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The response will either be “active” or “inactive.”
@@ -95,16 +95,16 @@ resolvectl statistics
 
  Our cache size is zero, just as we predicted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don’t Forget Your Browser's Cache
 
  Your internet browsers have their own caches. If you’re flushing your DNS buffers to try to remove a problem, make a point of doing the same for your browsers.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Firefox
 
@@ -118,9 +118,23 @@ about:networking
 
 ![The Clear DNS Cache button on Firefox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Firefox shows you the most recent entries added to the DNS cache. To clear the cache, click the “Clear DNS Cache” button. I had to refresh the page to see the change, but the cache was definitely purged.
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Google Chrome
 
@@ -130,20 +144,13 @@ chrome://net-internals/#dns
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Remember to Flush Your DNS Cache
@@ -167,15 +174,24 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quiet-your-screen-three-strategies-to-slow-youtube-videos-down-57-chars/"><u>[Updated] 2024 Approved Quiet Your Screen Three Strategies to Slow YouTube Videos Down (57 Chars)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-obs-for-smooth-streaming-mac-and-pc-users-guide-for-2024/"><u>[Updated] Leveraging OBS for Smooth Streaming Mac & PC Users' Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-x50iplus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor X50i+? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/eccentric-yet-practical-a-guide-to-quirky-usb-charger-innovations/"><u>Eccentric Yet Practical: A Guide to Quirky USB Charger Innovations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/effortless-guide-projecting-your-maciphoneipad-display-onto-an-apple-tv/"><u>Effortless Guide: Projecting Your Mac/iPhone/iPad Display Onto an Apple TV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevating-your-drive-top-6-upgrades-needed-in-the-next-android-auto-update/"><u>Elevating Your Drive: Top 6 Upgrades Needed in the Next Android Auto Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-googles-core-functionality-over-emphasizing-artificial-intelligence/"><u>Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-c67-4g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme C67 4G</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-crafted-collections-of-ig-pics/"><u>[New] 2024 Approved Crafted Collections of IG Pics</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-leaders-in-earnings-prediction-tiktoks-finest-tools-for-2024/"><u>[New] Leaders in Earnings Prediction TikTok's Finest Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategic-content-creation-unleashing-ideas-through-google-trends/"><u>[Updated] Strategic Content Creation Unleashing Ideas Through Google Trends</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movaviweb-oggmp4/"><u>「Movaviで使いやすい無料Webサービス - OGGファイルをMP4へ変換」</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-c110-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-common-pitfalls-in-pc-based-youtube-video-editing/"><u>Avoiding Common Pitfalls in PC-Based YouTube Video Editing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6s Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audfreemasterclass-deciphering-extraction-features/"><u>In 2024, AudFreeMasterclass Deciphering Extraction Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lenovo ThinkPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/introducing-movavi-video-editor-update-discover-whats-freshly-added/"><u>Introducing Movavi Video Editor Update: Discover What’s Freshly Added</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/las-15-utilidades-gratuitas-mas-efectivas-para-tomar-capturas-de-pantalla-ranking-de-movavi/"><u>Las 15 Utilidades Gratuitas Más Efectivas Para Tomar Capturas De Pantalla: Ranking De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/las-mas-exitosas-estaciones-de-flujo-de-videojuego-una-guia-completa/"><u>Las Más Exitosas Estaciones De Flujo De Videojuego: Una Guía Completa</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-transformer-ape-en-une-solution-de-sauvegarde-numerique-gratuite-et-facile/"><u>Movavi : Transformer APE en Une Solution De Sauvegarde Numérique Gratuite Et Facile !</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavis-no-cost-tool-for-easily-changing-nsv-videos-into-avi-files-online/"><u>Movavi's No-Cost Tool for Easily Changing NSV Videos Into Avi Files Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavis-ultimate-picks-the-best-sites-to-download-your-favorite-tv-shows-top-8/"><u>Movavi's Ultimate Picks: The Best Sites to Download Your Favorite TV Shows (Top 8)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-the-leading-laptop-chillers-reviewed/"><u>Ultimate Guide: The Leading Laptop Chillers Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mov-vob/"><u>제공자가 아니에요? 오픈소스 전용: MOV VOB 비동기 화면 바이트실을 무료로 변환 - 모벨라이</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mkvogg-movavi/"><u>オンラインで無料：MKVとOGGフォーマット間の直接変換 - Movavi</u></a></li>
 </ul></div>
 

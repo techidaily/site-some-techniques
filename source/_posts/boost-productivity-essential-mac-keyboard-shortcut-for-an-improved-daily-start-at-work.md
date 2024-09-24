@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-09-16T16:39:35.490Z
-updated: 2024-09-18T17:47:14.486Z
+date: 2024-09-21T20:28:07.712Z
+updated: 2024-09-23T17:05:52.769Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Makes This Shortcut So Great
 
 Your browser does not support the video tag. 
@@ -32,6 +39,13 @@ Your browser does not support the video tag.
  And when the day is over, I get to cathartically smash Command+Q, [closing everything on my Mac](https://some-approaches.techidaily.com/2024-approved-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online/) and clearing my head of work at the same time. These little rituals keep me focused and help separate my work and home life.
 
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
 
@@ -48,6 +62,13 @@ Close
  Repeat these steps to add a new action for every app or file you use throughout a typical workday. Make sure whatever app or file you want to use first is at the bottom of the list, so it opens after everything else. Just drag and drop the actions if you need to rearrange them.
 
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
 
@@ -74,24 +95,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-build-your-brand-memes-with-kinemaster/"><u>[New] Build Your Brand Memes with KineMaster</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovating-image-presentations-how-to-add-text-and-captions-to-videos-within-windows-10-photos/"><u>[New] Innovating Image Presentations How to Add Text and Captions to Videos Within Windows 10 Photos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-record-with-nvidia-screen-recorder/"><u>[Updated] 2024 Approved How to Record with NVIDIA Screen Recorder</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-get-started-with-vrecorder-for-2024/"><u>[Updated] How to Get Started with VRecorder for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-maximizing-b-roll-impact-in-your-edits/"><u>2024 Approved Maximizing B-Roll Impact in Your Edits</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xs-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XS to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-20-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nextv-networks-the-ultimate-streamers-global-guide/"><u>In 2024, NexTV Networks The Ultimate Streamer's Global Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-clipboard-privacy-how-to-securely-wipe-out-past-copied-data/"><u>Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhances-convenience-seamlessly-connect-and-control-your-smartphone-directly-from-the-start-menu/"><u>Windows 11 Enhances Convenience: Seamlessly Connect and Control Your Smartphone Directly From the Start Menu</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-enhances-photos-application-with-key-visual-interface-upgrades/"><u>Windows 11 Enhances Photos Application with Key Visual Interface Upgrades</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-chasing-charm-innovative-photo-techniques-to-ignite-insta/"><u>[New] In 2024, Chasing Charm Innovative Photo Techniques to Ignite Insta</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-the-secrets-of-iphone-recording/"><u>[Updated] Unlocking the Secrets of iPhone Recording</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/obs/"><u>「無人能及的OBS設定教學：如何控制綠色影像，進入專家领域」</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-making-facebook-pause-less-set-up-youtube-autoplay/"><u>2024 Approved Making Facebook Pause-Less Set Up YouTube Autoplay</u></a></li>
+<li><a href="https://fox-info.techidaily.com/budget-analysis-spending-for-translating-tunes-into-videos-for-2024/"><u>Budget Analysis Spending for Translating Tunes Into Videos for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/essential-tips-for-stepping-away-from-a-discord-chat-room/"><u>Essential Tips for Stepping Away From a Discord Chat Room</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/las-15-primeras-sustituciones-ideales-a-obs-explicadas-paso-a-paso/"><u>Las 15 Primeras Sustituciones Ideales a OBS Explicadas Paso a Paso</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-the-art-of-red-eyed-pictures-effortless-techniques-using-movavi/"><u>Mastering the Art of Red-Eyed Pictures: Effortless Techniques Using Movavi</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cutting-edge-avi-video-editors-top-16-picks-for-trimming-and-cutting-cross-platform/"><u>Updated Cutting-Edge AVI Video Editors Top 16 Picks for Trimming and Cutting Cross-Platform</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-compatible-pl2303-serial-to-usb-converter-fresh-download-and-update-instructions/"><u>Windows Compatible PL2303 Serial to USB Converter - Fresh Download & Update Instructions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-mpeg-2-vob/"><u>무료 온라인 코스터를 사용하여 Movavi MPEG-2을 VOB로 효율적으로 전환하는 방법: 지침</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mkv-3gp-movavi/"><u>オンラインでの MKV から 3GPへの変換: Movavi で簡単な手順</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/m4bwav-movavi/"><u>オンラインでのワンクリックなく、フリーでM4BからWAVへの変換 - Movavi</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

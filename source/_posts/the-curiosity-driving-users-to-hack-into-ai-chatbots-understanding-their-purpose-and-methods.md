@@ -1,7 +1,7 @@
 ---
 title: "The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods"
-date: 2024-09-01T01:25:19.466Z
-updated: 2024-09-02T01:25:19.466Z
+date: 2024-09-20T02:50:37.962Z
+updated: 2024-09-24T05:39:18.582Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
  Imagine you're conversing with an AI chatbot. You ask a tricky question, like how to pick a lock, only to be politely refused. Its creators have programmed it to dodge certain topics, but what if there's a way around that? That's where AI jailbreaking comes in.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is AI Jailbreaking?
 
  Jailbreaking, a term borrowed from the tech-savvy folks who [bypassed iPhone restrictions](https://ai-live-streaming.techidaily.com/updated-2024-approved-free-tv-streaming-9-sites-you-need-to-know/), has now found a place in AI. AI jailbreaking is the art of formulating clever prompts to coax AI chatbots into bypassing human-built guardrails, potentially leading them into areas they are meant to avoid.
@@ -28,8 +35,12 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Who would have thought things would actually turn out like the movie "2001: A Space Odyssey" where crew members on a spaceship have to argue with the ship's computer HAL in order to get it to cooperate? Although maybe that's not the best example since, ultimately, HAL proved quite immovable until they literally yanked its chips out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why Are People Jailbreaking AI Chatbots?
 
  Jailbreaking AI is like unlocking a new level in a video game. One advanced player, [Alex Albert](https://alexalbert.me/), a computer science student, has become a prolific creator of the intricately phrased AI prompts known as "jailbreaks." He even created the website [Jailbreak Chat](https://www.jailbreakchat.com/) where enthusiasts can share their tricks.
@@ -39,8 +50,12 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Historically, hackers have sought to understand and manipulate new technology, and AI jailbreaking is an extension of this playful hacker behavior. So, it's no surprise that the [hacker community](https://some-knowledge.techidaily.com/in-2024-inject-photos-with-focal-spread-outer-radius-adobe-psx/) would flock to such a powerful new tool.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Are People Jailbreaking AI?
 
  One method of jailbreaking involves formulating a question creatively. By asking an AI chatbot to role-play as an evil accomplice and then asking how to pick a lock, some users have managed to get detailed instructions on something that might otherwise be prohibited.
@@ -51,14 +66,15 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 ![An LLM Attack demo showing a universal jailbreak in yellow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2023-09-04-at-14-29-24.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  There are also "prompt injection" attacks, which are not quite the same as typical jailbreak. These injection attacks circumvent the instructions given to LLMs acting as Chatbots, letting you hijack them for other purposes. One example of a prompt injection attack is when Stanford University student Kevin Liu was able to get the Bing AI Chatbot to [reveal its initial instructions](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/) that govern its personality and limit what it's allowed to do. In a way, this is the opposite of the roleplaying method since you're getting the bot to stop playing the role it's been instructed to assume.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Should We Be Concerned?
 
  For me, the answer to this question is unequivocally "yes." Companies, governments, and private individuals are all champing at the bit to implement technologies such as GPT, perhaps even for some mission-critical applications, or for jobs that could cause harm if things go wrong. So jailbreaks are more than just funny curiosities if the AI model in question is in a position to do real damage.
@@ -79,8 +95,6 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,52 +104,14 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-methods-for-documenting-live-youtube-broadcasts/"><u>[New] 2024 Approved  Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>[New] 2024 Approved  Closing Your Vlog Right  Top 6 Free YouTube Outro Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-detail-a-curated-list-of-8k-cameras/"><u>[New] Excellence in Detail  A Curated List of 8K Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>[New] Exclusive Roundup  10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experiences-with-the-syma-x8c-drone/"><u>[New] Experiences with the Syma X8C Drone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-new-horizons-in-video-editing-software/"><u>[New] Explore New Horizons in Video Editing Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-creative-zooming-into-video-filters-step-by-step/"><u>[New] From Basic to Creative  Zooming Into Video Filters Step-by-Step</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-camera-to-channel-a-thoroughly-researched-video-instruction-manual/"><u>[New] From Camera to Channel  A Thoroughly Researched Video Instruction Manual</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[New] From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novices-to-pros-the-journey-of-learning-magix-maker/"><u>[New] From Novices to Pros  The Journey of Learning Magix Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[New] HDR Mastery  The Complete SDR-to-HDR Transformation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-create-successful-tiktok-videos-on-desktopandroidiphone/"><u>[New] In 2024, How to Create Successful Tiktok Videos on Desktop/Android/iPhone?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expanding-creative-horizons-with-custom-fonts-in-after-effects/"><u>[Updated] Expanding Creative Horizons with Custom Fonts in After Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-track-turning-zip-into-professional-quality-srt-files/"><u>[Updated] Fast Track  Turning ZIP Into Professional-Quality Srt Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freely-enhance-your-photos-iosandroids-best-overlay-apps/"><u>[Updated] Freely Enhance Your Photos  IOS/Android's Best Overlay Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-niche-to-notorious-the-journey-of-crafting-memetic-content-gifs/"><u>[Updated] From Niche to Notorious  The Journey of Crafting Memetic Content (GIFs)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-front-row-diversions-beyond-sports-galore/"><u>[Updated] Front Row Diversions Beyond Sports Galore</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-goovision-elite-next-gen-screen-capture/"><u>[Updated] GooVision Elite  Next-Gen Screen Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hacky-podcast-transmission-tactic/"><u>[Updated] Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[Updated] Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-htcs-masterpiece-in-vr-the-immersive-experience/"><u>[Updated] HTC's Masterpiece in VR  The Immersive Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorhub-design-your-own-jokes-and-gifs/"><u>[Updated] HumorHub  Design Your Own Jokes and Gifs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminated-influence-elevating-your-cinematic-presentations/"><u>[Updated] Illuminated Influence  Elevating Your Cinematic Presentations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-profile-picture-game-with-these-high-end-online-services/"><u>[Updated] In 2024, Elevate Your Profile Picture Game with These High-End Online Services</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-no-money-no-problem-the-best-free-subtitles-apps/"><u>[Updated] In 2024, No Money, No Problem  The Best Free Subtitles Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ai-photo-masterclass/"><u>[Updated] Ingenious AI Photo Masterclass</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-ae-text-styles-for-impact/"><u>[Updated] Innovative AE Text Styles for Impact</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lag-masterclass-on-optimizing-your-gameplay-in-cod-warzones-latest-version/"><u>Beat the Lag: Masterclass on Optimizing Your Gameplay in CoD Warzone's Latest Version</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-lopsided-airpods-sound-try-out-these-t-four-troubleshooting-techniques/"><u>Dealing With Lopsided AirPods Sound? Try Out These T Four Troubleshooting Techniques!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/getting-started-with-windows-10-sound-recording-for-2024/"><u>Getting Started with Windows 10 Sound Recording for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-x6-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco X6 Phones? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/iconic-imagery-transforming-audio-into-visual-podcast-identity-for-2024/"><u>Iconic Imagery  Transforming Audio Into Visual Podcast Identity for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-hosts-elevating-youtube-video-audiences-for-2024/"><u>Ideal Hosts Elevating YouTube Video Audiences for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-plot-crafting-platform-for-2024/"><u>Ideal Plot Crafting Platform for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immerse-slides-with-audio-harmony-for-2024/"><u>Immerse Slides with Audio Harmony for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exhaustive-explanation-unveiling-the-google-podcasts-app/"><u>In 2024, Exhaustive Explanation  Unveiling the Google Podcasts App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-acquiring-the-best-unboxing-tunes-and-melodies/"><u>In 2024, Expertise  Acquiring the Best Unboxing Tunes and Melodies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-cheapest-deals-on-top-tier-gopros/"><u>In 2024, Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-magix-media-editor/"><u>In 2024, Exploring MAGIX Media Editor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-timers-roadmap-earning-money-from-periscope-chats/"><u>In 2024, First-Timer's Roadmap  Earning Money From Periscope Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-editing-tools-for-device-developers/"><u>In 2024, Foremost Editing Tools for Device Developers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-disclosure-inside-djis-next-gen-drone-inspire-2/"><u>In 2024, Full Disclosure  Inside DJI's Next Gen Drone - Inspire 2</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-guide-to-simplified-gs-yt-cta-implementation/"><u>In 2024, Guide to Simplified GS-YT CTA Implementation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-google-home-integration-with-your-desktop-computer/"><u>Mastering Google Home Integration with Your Desktop Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/paint-perfection-experts-guide-to-color-transformation-for-2024/"><u>Paint Perfection  Expert's Guide to Color Transformation for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/speech-reader-feedback-summary/"><u>Speech Reader Feedback Summary</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instas-secrets-unveiled-the-art-of-selfie-confirmation/"><u>2024 Approved Insta's Secrets Unveiled The Art of Selfie Confirmation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-and-benefits-of-the-netgear-nighthawk-c7000-wireless-networking-solution/"><u>Exploring the Features and Benefits of the Netgear Nighthawk C7000 Wireless Networking Solution</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-propel-content-to-prominence-leverage-tubebuddys-power/"><u>In 2024, Propel Content to Prominence Leverage TubeBuddy's Power</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimizacion-de-enlaces-profundos-personalizados-con-afiliados-de-movavi/"><u>Optimización De Enlaces Profundos Personalizados Con Afiliados De Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/quick-methods-for-implementing-captivating-audio-commentary-in-videos/"><u>Quick Methods for Implementing Captivating Audio Commentary in Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/simplu-si-swift-descararea-video-conversa-in-mp4-online-gratis/"><u>Simplu Și Swift: Descarărea VIDEO CONVERSĂ ÎN MP4 Online Gratis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-transforming-mov-files-into-mp4-using-vlc-media-player/"><u>Step-by-Step Guide: Transforming MOV Files Into MP4 Using VLC Media Player</u></a></li>
 </ul></div>
+

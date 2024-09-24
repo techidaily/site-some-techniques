@@ -1,7 +1,7 @@
 ---
 title: Never Miss a Beat with Smart Planning for WhatsApp Updates on Key Occasions
-date: 2024-09-12T16:02:04.183Z
-updated: 2024-09-18T17:10:30.582Z
+date: 2024-09-16T23:22:33.412Z
+updated: 2024-09-23T22:15:19.012Z
 tags:
   - mobile
 categories:
@@ -29,11 +29,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recipients option in the SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/recipients-option-in-the-skedit-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close 
 
  Type your message in the message field and add any attachments if needed. Next, select the date and time for the scheduled message and tap the check icon at the top.
 
 ![SKEDit app message field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/skedit-app-message-field.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Check icon in SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/check-icon-on-skedit-app.jpg) 
 
@@ -41,11 +55,25 @@ Close
 
  That's it! The app will automatically send the scheduled message without requiring any further input from you.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Schedule WhatsApp Messages on iPhone
 
  On your iPhone, you can use the Shortcuts app to schedule a WhatsApp or any other [text message](https://facebook-video-footage.techidaily.com/updated-enhanced-engagement-with-effective-youtube-video-outros-strategies-for-2024/). If you don't have the app installed on your iPhone, [download it from the App Store](https://apps.apple.com/us/app/shortcuts/id915249334) and then open it. Tap "Automation" at the bottom and choose "New Automation." Then, select "Time of Day."
 
 ![New Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-automation-option-in-the-shortcuts-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Time of Day option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/time-of-day-option-in-the-shortcuts-app.jpg) 
 
@@ -54,6 +82,13 @@ Close
  Next, select the date and time for which you want to schedule the WhatsApp message, choose the "Run Immediately" option, and tap "Next." Then, choose the "New Blank Automation" box.
 
 ![Run Immediately option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/run-immediately-option-in-the-shortcuts-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![New Blank Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-blank-automation-option-in-the-shortcuts-app.jpg) 
 
@@ -70,10 +105,16 @@ Close
  That's about it. The WhatsApp message will be sent automatically at the scheduled time. Make sure to delete the automation task once you no longer need the scheduled message.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Schedule WhatsApp Messages on WhatsApp Web
@@ -82,16 +123,16 @@ Close
 
 ![Extensions tab in Chrome Web Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-tab-in-chrome-web-store.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "Add to Chrome" button on the Blueticks page.
 
 ![Add To Chrome option in Web Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-to-chrome-option-in-web-store.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Add Extension" when the pop-up window appears.
 
@@ -104,13 +145,6 @@ Close
  After that, open [WhatsApp Web on Chrome](https://web.whatsapp.com/) and launch the conversation of the person you want to schedule a message for, type the message in the message field, then click the clock icon next to it.
 
 ![Clock icon in WhatsApp Web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clock-icon-in-whatsapp-web-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Blueticks window that opens, select the date and time for your scheduled message. You can also configure other options that Blueticks offers, like adding files, sending recurring messages, and more. Finally, click the "Schedule Send" option, and your message will be sent at the scheduled time.
 
@@ -135,17 +169,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tips-and-tricks-for-perfect-tweets-with-videos/"><u>[New] 2024 Approved Tips and Tricks for Perfect Tweets with Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-premium-quality-computers-at-your-desk-for-2024/"><u>[New] Premium Quality Computers at Your Desk for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-your-productivity-with-powertoys-0-79-now-including-personalized-keyboard-shortcuts-on-windows/"><u>Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/can-you-manage-a-linux-system-successfully-without-utilizing-the-terminal/"><u>Can You Manage a Linux System Successfully Without Utilizing The Terminal?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-guide-managing-access-rights-using-linuxs-access-control-lists/"><u>Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-smooth-graphics-free-download-of-the-latest-geforce-rtx-3070-driver-for-windows-users/"><u>Ensure Smooth Graphics: Free Download of the Latest GeForce RTX 3070 Driver for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-list-of-must-watch-films-on-demand-today-curated-like-lifewire/"><u>Exclusive List of Must-Watch Films on Demand Today, Curated Like Lifewire</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-redmi-a2plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Redmi A2+ For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incorporating-background-scenes-for-visual-depth-for-2024/"><u>Incorporating Background Scenes for Visual Depth for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/zombies-unleashed-solving-crashes-in-zivfdead-war-for-pc-gaming/"><u>Zombies Unleashed: Solving Crashes in 'ZIVF:Dead War' For PC Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/neftiff-movavi/"><u>移動突破: NEF到TIFF的無限制免費轉換器 - 提供由Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-practical-approach-to-zoom-meetings/"><u>A Practical Approach to Zoom Meetings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/biometric-battleground-face-id-vs-samsungs-facial-identification/"><u>Biometric Battleground Face ID Vs. Samsung's Facial Identification</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-efficient-is-recuva-for-file-restoration-a-thorough-examination-and-user-ratings/"><u>How Efficient Is Recuva for File Restoration? - A Thorough Examination and User Ratings</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-league-of-legends-disconnecting-on-windows/"><u>How to Fix League of Legends Disconnecting on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-video-wizardry-techniques-for-massive-reach/"><u>In 2024, Instagram Video Wizardry Techniques for Massive Reach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-rapid-windows-document-examination/"><u>In 2024, Mastering Rapid Windows Document Examination</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-on-site-gratis-conversion-von-m4v-mpg-videodateien-bewahrte-online-losung/"><u>Movavi: On-Site Gratis Conversion Von M4V MPG Videodateien - Bewährte Online-Lösung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavis-free-web-service-effortless-wma-to-avi-file-conversion-online/"><u>Movavi's Free Web Service: Effortless WMA to AVI File Conversion Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavis-no-cost-tool-for-changing-gif-images-into-mp4-video-format-online/"><u>Movavi's No-Cost Tool for Changing GIF Images Into MP4 Video Format Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/no-cost-video-conversion-for-professionals-upload-mxf-download-mpgmp4-movavis-secure-cloud-service/"><u>No Cost Video Conversion for Professionals: Upload MXF, Download MPG/MP4 - Movavi's Secure Cloud Service</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-tool-convert-vob-video-to-asf-filetype-at-no-cost-moviva/"><u>Online Tool: Convert VOB Video to ASF Filetype at No Cost - MoviVa</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-vrijetijdige-converteren-van-trp-naar-mpg-met-movavi/"><u>Online Vrijetijdige Converteren Van TRP Naar MPG Met MOVAVI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-xcover-6-pro-tactical-edition-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy XCover 6 Pro Tactical Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-lenovo-display-glare-issue/"><u>Solutions for Lenovo Display Glare Issue</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-creative-with-these-top-vignette-apps-for-mobile-phones/"><u>Updated Get Creative with These Top Vignette Apps for Mobile Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/nsv-avi-movavi/"><u>무세수 NSV 파일을 AVI로 변환하기 – 가상의 이웃: Movavi</u></a></li>
 </ul></div>
 

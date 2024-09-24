@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-09-17T18:28:51.861Z
-updated: 2024-09-18T16:40:15.009Z
+date: 2024-09-21T00:02:13.897Z
+updated: 2024-09-24T06:03:49.228Z
 tags:
   - desktop
 categories:
@@ -19,11 +19,32 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Erase Junk Mail (Command+Option+J) 
 
  Got lots of junk mail taking up space in your inbox? Apple Mail lets you clear it fast. By pressing Command+Option+J, a popup window will appear confirming you want to permanently delete everything in your junk folder. It might be worth checking that nothing was mistakenly flagged as junk before doing so.
 
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
@@ -40,10 +61,16 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  If you see an email that has ended up in the wrong place, you can move it with a simple keyboard shortcut. To do so, select the email or emails you want to use, and press Command+Shift+J. This will move folders from your inbox into the junk folder, or vice versa.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Hide/Show Sidebar (Control+Command+S) 
@@ -53,13 +80,6 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  But, it isn't always necessary. If you want to condense your email window, you can hide this sidebar with a keyboard shortcut. By pressing Control+Command+S, you can hide the sidebar from view, and bring it back again the same way.
 
 ![Apple Mail app with Sidebar, including folders, highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-5-16-59-pm.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -82,16 +102,25 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas/"><u>[New] 2024 Approved From Fumbling Clips to Viral Videos YouTube Edits Made Easy with Sony Vegas</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-blue-badge-on-facebook-your-pathway-unveiled-for-2024/"><u>[Updated] Blue Badge on Facebook Your Pathway Unveiled for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/extend-your-snapstreak-success-with-these-ideas/"><u>Extend Your Snapstreak Success with These Ideas</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-100-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor 100 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-razr-40-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Razr 40 Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29e Phone without Google Account?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximize-your-interactions-6-proven-techniques-for-enhanced-ai-chatbot-engagement/"><u>Maximize Your Interactions: 6 Proven Techniques for Enhanced AI Chatbot Engagement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-through-vrchats-expansive-universe-of-virtual-environments-an-insiders-perspective/"><u>Navigating Through VRChat's Expansive Universe of Virtual Environments: An Insider’s Perspective</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-uncertainty-what-lies-in-store-for-the-future-of-metas-innovative-quest-pro-gear/"><u>Navigating Uncertainty: What Lies in Store for the Future of Meta's Innovative Quest Pro Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/nostalgia-for-the-90s-internet-exploring-vrml-the-precursor-to-modern-metaverses/"><u>Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-unstick-your-dota-2-from-the-loading-screen/"><u>Ultimate Fix Guide: Unstick Your Dota 2 From the Loading Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frac9plusxplusyplusz6-(-5/"><u> [ Frac{9+x+y+z}{6} < 5 </u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-grand-adventures-reimagined-post-gta-v-lineup/"><u>[New] 2024 Approved Grand Adventures Reimagined - Post-GTA V Lineup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-youtube-productions-best-mac-mp4-editors-guide-for-2024/"><u>Boosting YouTube Productions Best Mac MP4 Editors Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/conversione-gratuita-da-wav-a-m4a-online-movavi-il-tuo-metodo-rapido-e-facile/"><u>Conversione Gratuita Da WAV a M4A Online - Movavi: Il Tuo Metodo Rapido E Facile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convertidor-online-libre-y-rapido-transforma-tus-audios-flac-directamente-en-videos-avi-con-movavi/"><u>Convertidor Online Libre Y Rápido: Transforma Tus Audios FLAC Directamente en Videos AVI Con Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dazzle-with-vibrant-android-video-quality-enhancement/"><u>Dazzle With Vibrant Android Video Quality Enhancement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/descargar-y-convertir-archivos-webm-a-formato-de-video-wmv-sin-coste-alguno-con-conversor-online-facil-movavi/"><u>Descargar Y Convertir Archivos Webm a Formato De Vídeo WMV Sin Coste Alguno Con Conversor Online Facil - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/descubra-os-top-10-editores-video-mais-populares-com-opcoes-sem-marca-dagua-em-pcs-gratuitas/"><u>Descubra Os Top 10 Editores Vídeo Mais Populares Com Opções Sem Marca D'água Em PCs Gratuitas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/download-and-use-the-movavi-tool-effortlessly-change-mov-videos-into-webm-for-free/"><u>Download and Use the Movavi Tool: Effortlessly Change MOV Videos Into WebM for FREE!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-movavis-foundational-mission-understanding-its-ultimate-goal/"><u>Exploring MOVAVI's Foundational Mission - Understanding Its Ultimate Goal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-conversion-transform-your-files-into-high-quality-wav-format-with-our-online-service-movavi/"><u>Free Conversion: Transform Your Files Into High-Quality WAV Format with Our Online Service - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-converter-effortlessly-transform-mp2-audio-files-into-mov-video-format/"><u>Free Online Converter: Effortlessly Transform MP2 Audio Files Into MOV Video Format</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-zte-blade-a73-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our ZTE Blade A73 5G Phone Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-graphics-compatibility/"><u>Reinstalling Graphics Compatibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/security-alert-for-anycubic-enthusiasts-daring-crack-reveals-critical-flaw/"><u>Security Alert for Anycubic Enthusiasts: Daring Crack Reveals Critical Flaw</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-tech-gpt-enhancements-for-home-productivity/"><u>Smart Tech: GPT Enhancements for Home Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-complimentary-ai-applications-enhancing-email-creation-with-chatgpt-and-organizing-messages-efficiently/"><u>Top 5 Complimentary AI Applications: Enhancing Email Creation with ChatGPT and Organizing Messages Efficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flv-wmv-movavi/"><u>무료 오피스 기회: FLV에서 WMV로의 원형 변환을 위해 Movavi를 사용하십시오!</u></a></li>
 </ul></div>
 

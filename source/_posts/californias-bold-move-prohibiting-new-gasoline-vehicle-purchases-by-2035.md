@@ -1,7 +1,7 @@
 ---
 title: "California's Bold Move: Prohibiting New Gasoline Vehicle Purchases by 2035"
-date: 2024-09-05T05:26:51.169Z
-updated: 2024-09-06T05:26:51.169Z
+date: 2024-09-17T00:01:20.304Z
+updated: 2024-09-24T05:58:41.123Z
 tags:
   - cutting-edge
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/7d8e5cb5df55d66e13eccb410da317e8e46922b45efc55e50a00217c7dbf8c3a.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## California's Bold Move: Prohibiting New Gasoline Vehicle Purchases by 2035
 
 Even though electric cars aren't the perfect solution to the world's problems with transportation and climate change, they are a step towards reducing global emissions. The U.S. state of California has now ruled it will phase out gas-only cars by 2035.
@@ -23,12 +17,6 @@ Even though electric cars aren't the perfect solution to the world's problems wi
 
 ![Chart showing percentage of new vehicles sold rise from 35% in 2026 to 43% in 2027, 51% in 2028, 59% in 2029, etc.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/new_vehicle_sales_drupal-Large.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _California Air Resources Board_
 
  California's Air Resources Board said in a statement, "by 2037, the regulation delivers a 25% reduction in smog-causing pollution from light-duty vehicles to meet federal air quality standards. This benefits all Californians but especially the state's most environmentally and economically burdened communities along freeways and other heavily traveled thoroughfares."
@@ -47,8 +35,6 @@ Related: [Chevrolet Blazer EV Arrives Next Year With 320-Mile Range](https://ai-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,56 +44,22 @@ Related: [Chevrolet Blazer EV Arrives Next Year With 320-Mile Range](https://ai-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-tips-for-a-seamless-phone-screen-record/"><u>[New] 2024 Approved  Tips for a Seamless Phone Screen Record</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mov-storage-solutions-maximizing-capacity-on-windows/"><u>[Updated] .mov Storage Solutions  Maximizing Capacity on Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-becoming-a-pro-with-obs-gaming-recordings/"><u>[Updated] 2024 Approved  Becoming a Pro with OBS Gaming Recordings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-finding-balance-in-fb-sharing-a-guide-to-aspect-ratio-knowledge/"><u>[Updated] Finding Balance in FB Sharing  A Guide to Aspect Ratio Knowledge</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-savvy-snapchat-users-guide-to-gif-sharing/"><u>[Updated] In 2024, The Savvy Snapchat User's Guide to Gif Sharing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-smudge-free-life-with-sharp-clean-gopro-images/"><u>2024 Approved  A Smudge-Free Life with Sharp, Clean GoPro Images</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-captivating-creativity-with-advanced-tiktok-filters/"><u>2024 Approved  Captivating Creativity with Advanced TikTok Filters</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-graph-gems-2017s-statistical-youtube-surprises/"><u>2024 Approved  Graph Gems  2017'S Statistical YouTube Surprises</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/30-powerful-freegame-hashtags-for-dominating-youtube-for-2024/"><u>30 Powerful FreeGame Hashtags for Dominating YouTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ai-enhanced-copilot-pro-upgrades-microsoft-office-suite/"><u>AI Enhanced Copilot Pro Upgrades Microsoft Office Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ai-driven-assistance-neweggs-smart-way-to-select-your-perfect-pc-components/"><u>AI-Driven Assistance: Newegg's Smart Way to Select Your Perfect PC Components</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/astounding-revelation-on-the-plaud-note-miniature-ai-microphone-an-innovative-voice-recordant/"><u>Astounding Revelation on the Plaud Note Miniature AI Microphone – An Innovative Voice Recordant</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boosted-ai-capabilities-with-intel-core-ultra-pcs-experience-optimal-integration-of-cutting-edge-including-stable-diffusion/"><u>Boosted AI Capabilities with Intel Core Ultra PCs – Experience Optimal Integration of Cutting-Edge Including Stable Diffusion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boosting-trust-in-e-mobility-how-chargepoint-is-advancing-the-reliability-of-ev-chargers-with-their-new-plan/"><u>Boosting Trust in E-Mobility: How ChargePoint Is Advancing the Reliability of EV Chargers with Their New Plan</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-s18-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo S18 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/crafting-professional-bios-with-artificial-intelligence-is-it-worth-the-risk/"><u>Crafting Professional Bios With Artificial Intelligence: Is It Worth the Risk?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-exceptional-journey-coordination-by-harnessing-the-power-of-bings-artifice-intelligence/"><u>Discover Exceptional Journey Coordination by Harnessing the Power of Bing's Artifice Intelligence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-exquisite-anime-masterpieces-with-midjourney-a-complete-guide-on-using-the-powerful-model/"><u>Discover Exquisite Anime Masterpieces with MidJourney - A Complete Guide on Using the Powerful Model</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725288411931-dvd/"><u>DVD保管ソリューション＆クレーティング案を集めた究極のビジネスマナーガイド：安価な魅力的なオプションがたくさん！</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/effective-methods-to-remove-cryptocurrency-websites-from-brave-browser/"><u>Effective Methods to Remove Cryptocurrency Websites From Brave Browser</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ending-the-attempting-data-recovery-endless-loop-on-your-iphone-proven-fixes-and-strategies/"><u>Ending the ‘Attempting Data Recovery’ Endless Loop on Your iPhone: Proven Fixes and Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-nvidia-ai-chatbot-capabilities-with-google-gemma-and-chatglm3-integration/"><u>Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-photo-editing-discover-how-adobes-new-firefly-3-upgrades-ai-tools-in-photoshop/"><u>Enhancing Photo Editing: Discover How Adobe's New Firefly 3 Upgrades AI Tools in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/estimated-duration-fully-powering-up-your-electric-vehicle-how-long-will-it-take/"><u>Estimated Duration: Fully Powering Up Your Electric Vehicle – How Long Will It Take?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-insight-into-openais-revolutionary-text-to-video-model-availability-yet-to-be-confirmed/"><u>Exclusive Insight Into OpenAI’s Revolutionary Text-to-Video Model - Availability Yet to Be Confirmed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-best-free-languages-courses-our-picks/"><u>Explore the Best Free Languages Courses: Our Picks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y100a-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y100A? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-13c-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi 13C 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-make-your-linkedin-profile-professional/"><u>How To Make Your LinkedIn Profile Professional</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-demystifying-the-purpose-and-use-of-a-blue-status-symbol-on-facebook/"><u>In 2024, Demystifying the Purpose and Use of a Blue Status Symbol on Facebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-apple-pay-later-why-it-might-be-best-to-avoid-this-new-service/"><u>Introducing Apple Pay Later: Why It Might Be Best to Avoid This New Service</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-jeeps-future-a-quartet-of-electric-utility-vehicles-coming-your-way-featuring-the-eco-friendly-wagoneer/"><u>Introducing Jeep's Future: A Quartet of Electric Utility Vehicles Coming Your Way, Featuring the Eco-Friendly Wagoneer</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-face-blurring-made-easy-a-step-by-step-guide-with-the-top-10-free-apps/"><u>New 2024 Approved Face Blurring Made Easy A Step-by-Step Guide with the Top 10 Free Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-features-in-chatgpt-plus-enhanced-pdf-examination-and-advanced-multi-modal-interaction-options/"><u>New Features in ChatGPT Plus: Enhanced PDF Examination & Advanced Multi-Modal Interaction Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/project-astra-googles-potential-game-changer-echoing-apples-impact-on-iphones-for-smart-wearables/"><u>Project Astra: Google's Potential Game-Changer, Echoing Apple’s Impact on iPhones for Smart Wearables</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/resolved-issue-with-responses-in-chatgpt-has-been-corrected/"><u>Resolved: Issue with Responses in ChatGPT Has Been Corrected</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/revitalize-your-heritage-pictures-using-ai-say-goodbye-to-photoshop-for-image-enlargement-restoration-and-colorization/"><u>Revitalize Your Heritage Pictures Using AI: Say Goodbye to Photoshop for Image Enlargement, Restoration, and Colorization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/satellite-communication-technology-in-mobile-phones-how-can-it-improve-your-connectivity-experience/"><u>Satellite Communication Technology in Mobile Phones: How Can It Improve Your Connectivity Experience?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-solutions-for-overcoming-chatgpts-body-data-mishaps/"><u>Step-by-Step Solutions for Overcoming ChatGPT's Body Data Mishaps</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-notch-robotic-showcases-the-best-so-far/"><u>Top-Notch Robotic Showcases : The Best So Far!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-overcoming-ai-assistant-chatgpts-server-troubles-and-usual-error-snags/"><u>Troubleshooting: Overcoming AI Assistant ChatGPT's Server Troubles and Usual Error Snags</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/us-accelerates-electric-vehicle-uptake-through-updated-auto-emission-regulations/"><u>U.S. Accelerates Electric Vehicle Uptake Through Updated Auto Emission Regulations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unleashing-the-power-of-chatgpt-discover-8-unusual-uses/"><u>Unleashing the Power of ChatGPT: Discover 8 Unusual Uses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unraveling-the-a-z-of-electric-car-terminology-and-initialisms/"><u>Unraveling the A-Z of Electric Car Terminology and Initialisms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unseen-fb-video-tactics-unlock-all-sharing-options-for-2024/"><u>Unseen FB Video Tactics  Unlock All Sharing Options for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unveiling-the-truth-busting-top-7-ev-ownership-fallacies/"><u>Unveiling the Truth: Busting Top 7 EV Ownership Fallacies</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-download-kinemaster-for-macstep-by-step-guide/"><u>Updated 2024 Approved Download KineMaster for MacStep-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/what-sets-rabbit-r1-apart-from-the-rest-of-artificial-intelligence-companions/"><u>What Sets Rabbit R1 Apart From the Rest of Artificial Intelligence Companions?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/your-ultimate-guide-to-effortless-xbox-one-image-snaps-for-2024/"><u>Your Ultimate Guide to Effortless Xbox One Image Snaps for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-how-to-profit-on-tiktok-the-8-essential-steps-you-need/"><u>[New] 2024 Approved How to Profit on TikTok The 8 Essential Steps You Need</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-design-for-beginners-premiere-pro-templates-free/"><u>[New] Cutting-Edge Design for Beginners Premiere Pro Templates (Free!)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-craft-a-unique-identifier-for-your-tiktok-stream/"><u>[New] In 2024, How to Craft a Unique Identifier for Your TikTok Stream</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-easy-ways-to-merge-igtv-and-instagram-stories/"><u>[Updated] 2024 Approved Easy Ways to Merge IGTV & Instagram Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>[Updated] In 2024, Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplified-approach-to-download-youtube-captions-3-proven-methods/"><u>In 2024, Simplified Approach to Download YouTube Captions 3 Proven Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-transforma-gravamenes-de-video-mpeg-en-audio-flac-sin-coste-adicional-online/"><u>Movavi - Transforma Gravámenes De Vídeo MPEG en Audio FLAC Sin Coste Adicional Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-tiff/"><u>Movavi를 사용한 자이로나에서 TIFF 전환 무료 스테이징 – 제안해 주세요!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/movavi-mpeg-2-vob/"><u>무료 온라인 코스터를 사용하여 Movavi MPEG-2을 VOB로 효율적으로 전환하는 방법: 지침</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mkv-3gp-movavi/"><u>オンラインでの MKV から 3GPへの変換: Movavi で簡単な手順</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

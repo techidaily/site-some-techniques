@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-09-11T17:47:10.619Z
-updated: 2024-09-18T17:30:13.641Z
+date: 2024-09-19T19:47:08.457Z
+updated: 2024-09-24T06:01:20.500Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Then, disconnect all other peripherals attached to your device, mainly audio output devices. If the issue persists after performing these basic checks, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Unmute Your Headphones
 
  Ensure your headphone's volume isn't muted on your computer. To check, look at the speaker icon in the system tray in the bottom-right corner of the screen. If the speaker symbol has a cross (x) next to it, the volume is muted.
@@ -46,10 +53,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Check for Hardware Issues
@@ -57,13 +64,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If the volume isn't muted, ensure your headphones aren't faulty. To check that, simply unplug your headphones from your device and plug them into another computer or your smartphone. If your headphones also don't work on other devices, they're probably faulty. So, either have them inspected by a technician or replace them.
 
  However, if your headphones work fine elsewhere, the issue is device-specific. So, keep applying the remaining fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Rule Out Bluetooth Interference (for Bluetooth Headphones)
 
@@ -80,10 +80,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Set Your Headphones as the Default Output Device
@@ -94,15 +94,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
@@ -117,18 +124,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Disabling exclusive mode and audio enhacements in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-exclusive-mode-and-audio-enhacements-in-sound-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  8\. Run the Audio Troubleshooter
 
  The Windows audio troubleshooter automatically scans for and fixes audio issues. If the above solutions are ineffective, this troubleshooter might do the job. To run the troubleshooter, right-click the Start button and choose "Settings." Then, navigate to the "System" tab and go to Troubleshoot > Other trouble-shooters.
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, click "Run" next to "Audio," and the Get Help app opens, seeking your permission to diagnose the issue. Click "Yes," and the troubleshooter begins. Allow the scan to complete, and follow the on-screen instructions provided during the diagnosis.
 
@@ -163,18 +170,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-social-strategy-with-these-top-8-apps-phones-included-for-2024/"><u>[Updated] Elevate Your Social Strategy with These Top 8 Apps, Phones Included for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-3d-luts-a-comprehensive-guide/"><u>[Updated] Mastering 3D LUTs A Comprehensive Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-perfecting-videos-a-premier-editor-for-vimeo-professionals/"><u>[Updated] Perfecting Videos A Premier Editor for Vimeo Professionals</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-soundscapes-for-social-scenarios-on-facebook/"><u>[Updated] Soundscapes for Social Scenarios on Facebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x50-gt-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X50 GT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/dive-into-the-clues-of-the-nyt-challenge-july-20th-edition-hinted-answers-for-set-405-revealed/"><u>Dive Into the Clues of 'The NYT Challenge': July 20Th Edition, Hinted Answers for Set #405 Revealed!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevate-your-linkedin-profile-for-success-with-no-cost-ai-optimization-strategies/"><u>Elevate Your LinkedIn Profile for Success with No Cost AI Optimization Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevated-experience-vivaldis-superior-email-clients-surpass-all-competitors/"><u>Elevated Experience: Vivaldi's Superior Email Clients Surpass All Competitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ensuring-safe-shares-mastering-the-art-of-pre-emptive-link-inspection/"><u>Ensuring Safe Shares: Mastering the Art of Pre-Emptive Link Inspection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-latest-enhanced-preview-function-in-google-drive/"><u>Explore the Latest Enhanced Preview Function in Google Drive</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-11-and-10-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11 & 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y27s-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y27s Without PUK Codes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-smart-8-plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Smart 8 Plus Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-your-potential-in-youtube-video-production-scripts/"><u>[New] 2024 Approved Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-covert-videography-the-premier-8-downloader-list/"><u>[Updated] 2024 Approved Covert Videography The Premier 8 Downloader List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-masterclass-in-instagram-designing-eye-catching-cover-images-for-2024/"><u>[Updated] Masterclass in Instagram Designing Eye-Catching Cover Images for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/broaden-your-reach-sharing-360-photos-via-smartphone-apps/"><u>Broaden Your Reach Sharing 360 Photos via Smartphone Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquer-kinemaster-rule-the-meme-world/"><u>Conquer KineMaster, Rule the Meme World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-conversion-of-mp4-to-mpeg-4-3gp-file-movavi-guide/"><u>Free Conversion of MP4 to MPEG-4 .3Gp File - Movavi Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-converter-transform-webp-images-into-animated-gifs-with-movavi/"><u>Free Online Converter: Transform WebP Images Into Animated GIFs with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-trp-file-conversion-tool-movavi/"><u>Free TRP File Conversion Tool - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-converter-van-mp4-naar-ogg-professioneel-online-tool-voor-professionele-resultaat-movavi/"><u>Gratis Converter Van MP4 Naar OGG: Professioneel Online-Tool Voor Professionele Resultaat - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-omzetten-van-m4a-naar-flv-online-simpelweg-en-efficient-met-movavi/"><u>Gratis Omzetten Van M4A Naar FLV Online - Simpelweg en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-dts-wav-converteren-helemaal-kostenloos-online-zoek-mooi-ze-mbt/"><u>Gratuit DTS-WAV Converteren Helemaal Kostenloos Online - Zoek Mooi Ze MBT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuit-online-qt-files-naar-flv-omzetten-met-movavi-efficient-en-gemakkelijk/"><u>Gratuit Online: QT-Files Naar FLV Omzetten Met Movavi - Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-best-practices-for-video-editing-and-cropping/"><u>Instagram's Best Practices for Video Editing & Cropping</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/trasforma-file-f4v-in-wmv-senza-costi-con-il-servizio-di-movavi/"><u>Trasforma File F4V in WMV Senza Costi Con Il Servizio Di Movavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/turn-your-photos-into-a-beautiful-video-with-music-2023-tutorial/"><u>Turn Your Photos Into a Beautiful Video with Music 2023 Tutorial</u></a></li>
 </ul></div>
 

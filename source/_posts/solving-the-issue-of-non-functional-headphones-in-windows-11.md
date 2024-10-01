@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-09-19T19:47:08.457Z
-updated: 2024-09-24T06:01:20.500Z
+date: 2024-09-23T19:52:30.454Z
+updated: 2024-09-30T23:46:59.532Z
 tags:
   - desktop
 categories:
@@ -31,18 +31,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Getting ready to watch a video or listen to your favorite song, only to discover that your headphones aren't working, can be quite frustrating. Various factors can contribute to this problem on Windows 11, such as a different audio output device set as default, an app taking exclusive control of your headphones, outdated drivers, and more. Thankfully, it's usually straightforward to fix your headphones not working on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Perform Some Preliminary Checks
 
  First, perform some basic checks, as they may quickly resolve the issue. To begin, confirm that your headphones are firmly inserted into the headphone jack and double-check that you haven't mistakenly plugged them into a microphone jack. Also, clean the audio jack, and try unplugging and replugging your headphones (plus, if possible, try another port).
 
  Then, disconnect all other peripherals attached to your device, mainly audio output devices. If the issue persists after performing these basic checks, apply the remaining fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Unmute Your Headphones
 
@@ -53,10 +53,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Check for Hardware Issues
@@ -73,18 +73,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Additionally, [troubleshoot Bluetooth issues on Windows](https://desktop-recording.techidaily.com/2024-approved-top-5-best-ps3-emulator-for-pc/) to rule out the problem being your Bluetooth connection as a whole, rather than your headphones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. Check for App-Specific Issues
 
  If your headphones don't work in a particular app, check if they work in other apps installed on your device. If they do, the issue might be specific to that app. So, ensure the volume isn't muted in that app, your headphones are set as default, and go through other settings that could cause the problem.
 
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Set Your Headphones as the Default Output Device
 
@@ -94,23 +94,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
 
@@ -120,9 +106,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening properties of a headphone on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-opening-properties-of-a-headphone-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, go to the "Advanced" tab and uncheck the boxes beside "Allow applications to take exclusive control of this device" and "Enable Audio Enhancements." Finally, click "OK."
 
 ![Disabling exclusive mode and audio enhacements in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-exclusive-mode-and-audio-enhacements-in-sound-settings-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Run the Audio Troubleshooter
 
@@ -130,16 +130,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "Run" next to "Audio," and the Get Help app opens, seeking your permission to diagnose the issue. Click "Yes," and the troubleshooter begins. Allow the scan to complete, and follow the on-screen instructions provided during the diagnosis.
 
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Update Your Audio Drivers
 
@@ -168,5 +168,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bringing-videos-to-life-using-youtube-in-educational-environments/"><u>[New] 2024 Approved Bringing Videos to Life Using YouTube in Educational Environments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-online-music-archives-copyright-free-gaming-tunes/"><u>[Updated] Free Online Music Archives (Copyright-Free Gaming Tunes)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-gifs-to-stickers-comprehensive-tutorial-series-for-multiple-chat-apps/"><u>[Updated] From Gifs to Stickers Comprehensive Tutorial Series for Multiple Chat Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-videopie-interpretation-platform/"><u>[Updated] VideoPie Interpretation Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/0x800705b4-error-in-windows-update-in-windows-10-solved/"><u>0X800705b4 Error in Windows Update in Windows 10 [Solved]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-hd-conversion-elevate-your-views/"><u>2024 Approved Excellence in HD Conversion Elevate Your Views</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-audacity-tricks-for-premium-audio/"><u>2024 Approved Expert Audacity Tricks for Premium Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-review-mastering-facetunes-complete-features-for-2024/"><u>In-Depth Review Mastering Facetune's Complete Features for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/restore-original-sound-in-tweet-video-links-for-2024/"><u>Restore Original Sound in Tweet Video Links for 2024</u></a></li>
+</ul></div>
 

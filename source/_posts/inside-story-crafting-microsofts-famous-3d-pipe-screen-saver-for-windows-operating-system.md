@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-09-19T04:25:27.504Z
-updated: 2024-09-23T17:05:44.641Z
+date: 2024-09-24T01:47:23.478Z
+updated: 2024-10-01T03:56:40.584Z
 tags:
   - deals
 categories:
@@ -38,12 +38,26 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-accessing-your-subscriber-details-directly-for-2024/"><u>[New] Accessing Your Subscriber Details Directly for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-pixel-perfect-fun-unveiling-the-secrets-of-snapchats-filters/"><u>[Updated] 2024 Approved Pixel Perfect Fun Unveiling the Secrets of Snapchat's Filters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-beyond-the-standard-unique-augmented-reality-stickers/"><u>[Updated] Beyond the Standard Unique Augmented Reality Stickers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-direct-playback-of-fb-videos-on-home-entertainment-systems-for-2024/"><u>[Updated] Direct Playback of FB Videos on Home Entertainment Systems for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-your-youtube-presence-with-strategic-post-publish-video-updates-for-2024/"><u>[Updated] Elevating Your YouTube Presence with Strategic Post-Publish Video Updates for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaiety-media-download-review/"><u>2024 Approved Gaiety Media Download Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideas-on-improving-gopros-energy-management/"><u>2024 Approved Ideas on Improving GoPro's Energy Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-windows-and-mac-8-best-3d-video-apps-for-free-for-2024/"><u>Explore Windows & Mac 8 Best 3D Video Apps for FREE for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-rog-phone-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus ROG Phone 7?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-leverage-phantoms-retrograde-footage-tech-for-2024/"><u>How to Leverage Phantom’s Retrograde Footage Tech for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-s18e-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo S18e for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-conveying-content-mastering-onestream-livestreams-for-2024/"><u>The Art of Conveying Content Mastering OneStream Livestreams for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

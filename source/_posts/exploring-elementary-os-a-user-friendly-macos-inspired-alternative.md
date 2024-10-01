@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2024-09-20T19:43:29.722Z
-updated: 2024-09-24T08:07:05.077Z
+date: 2024-09-26T18:13:39.784Z
+updated: 2024-09-30T22:52:35.593Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is elementary OS?
@@ -34,14 +34,14 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
- If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
 
 ##  Installing elementary OS Is as Easy as It Gets
 
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Settling in Is Elementary
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Getting started with an alternative operating system like Linux can be intimidating, depending on who you are and what specific distribution you're using. If your distribution is elementary OS, though, you can look forward to a relaxed learning curve. It's clean and polished in its appearance, and things are generally where you expect to find them—so long as you're familiar with the macOS experience. At your first startup, a wizard will walk you through making the desktop your own, like connecting your email account and choosing a color scheme.
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -108,5 +108,23 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-rpg-origins-vs-hybrid-designs-evolution/"><u>[New] 2024 Approved RPG Origins Vs. Hybrid Designs Evolution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-srt-enhanced-mp4-files/"><u>[New] Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-360-degree-panoramic-stands/"><u>[New] In 2024, 360-Degree Panoramic Stands</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlocking-video-content-secure-facebook-live-recordings/"><u>[New] In 2024, Unlocking Video Content Secure Facebook Live Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flawless-endgame-in-vr-worlds/"><u>[Updated] Flawless Endgame in VR Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmony-hearts-the-ultimate-song-playlist-for-a-promise/"><u>[Updated] Harmony Hearts The Ultimate Song Playlist for a Promise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-capacity-card-for-a7s-professional-use/"><u>[Updated] High-Capacity Card for A7S Professional Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flaskful-formula-freaks/"><u>2024 Approved FLASKFUL FORMULA FREAKS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-guide-to-straightforward-high-dynamic-range/"><u>2024 Approved In-Depth Guide to Straightforward High-Dynamic Range</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ahead-in-ai-dissecting-the-capabilities-between-google-palm-2-and-gpt-4-by-openai/"><u>Ahead in AI?: Dissecting the Capabilities Between Google PaLM 2 and GPT-4 by OpenAI</u></a></li>
+<li><a href="https://windows11.techidaily.com/blue-screen-decoded-understanding-and-fixing-0x0000003b-in-win-os/"><u>Blue Screen Decoded: Understanding and Fixing 0X0000003B in Win OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Pova 6 Pro 5G?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-channel-triumphs-with-trending-hashtags/"><u>In 2024, Channel Triumphs with Trending Hashtags</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition/"><u>In 2024, Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-loopholes-valves-new-refund-rules/"><u>No More Loopholes: Valve's New Refund Rules</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971669620-update-your-konica-minolta-printer-with-the-right-windows-111087-drivers/"><u>Update Your Konica Minolta Printer with the Right Windows 11/10/8/7 Drivers</u></a></li>
+</ul></div>
 

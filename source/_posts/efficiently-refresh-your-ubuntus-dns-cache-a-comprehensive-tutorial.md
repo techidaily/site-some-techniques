@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-09-18T22:14:22.194Z
-updated: 2024-09-23T20:28:29.894Z
+date: 2024-09-27T19:17:26.413Z
+updated: 2024-10-01T03:04:19.955Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Flushing the DNS Cache on Ubuntu](https://vimeo-videos.techidaily.com/updated-in-2024-the-complete-guide-to-earnings-via-vimeo-ads/)
 * [Don’t Forget Your Browser's Cache](https://youtube-tips.techidaily.com/ed-2024-approved-brightening-up-your-youtube-pixels/)
 * [Remember to Flush Your DNS Cache](https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,10 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Ubuntu adds its own cache to the mix. By default, the [systemd](https://facebook-clips.techidaily.com/2024-approved-restore-order-fixing-compromised-fb-profile/)\-resolved service is enabled. This caches DNS requests and responses. If a single cache entry (or the whole cache for that matter) becomes corrupted, you can experience connectivity issues with remote servers, web resources, and local devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does Flushing the DNS Cache Do?
@@ -65,13 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 systemctl is-active systemd-resolved
 
 ![Checking whether the resolved daemon is running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-14.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The response will either be “active” or “inactive.”
 
@@ -96,10 +96,10 @@ resolvectl statistics
  Our cache size is zero, just as we predicted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Forget Your Browser's Cache
@@ -119,22 +119,15 @@ about:networking
 ![The Clear DNS Cache button on Firefox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Firefox shows you the most recent entries added to the DNS cache. To clear the cache, click the “Clear DNS Cache” button. I had to refresh the page to see the change, but the cache was definitely purged.
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Google Chrome
 
@@ -144,13 +137,26 @@ chrome://net-internals/#dns
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Remember to Flush Your DNS Cache
@@ -172,5 +178,24 @@ chrome://net-internals/#dns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>[New] 2024 Approved Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-flair-in-frame-up-smart-setup-tips-for-stellar-videos/"><u>[New] Film Flair in Frame-Up Smart Setup Tips for Stellar Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fusionvisualizer-ipadplusmacmedia-combining-tool/"><u>[New] FusionVisualizer IPad+MacMedia Combining Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ingenious-ways-to-alter-track-pace-on-spotify-app/"><u>[New] Ingenious Ways to Alter Track Pace on Spotify App</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-cameo-review/"><u>[Updated] 2024 Approved Vimeo Cameo Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-must-know-definition-of-digital-storytelling/"><u>[Updated] Must-Know Definition of Digital Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques/"><u>2024 Approved From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-superior-selection-winning-16-free-video-tools/"><u>2024 Approved Superior Selection Winning 16 Free Video Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exceptional-audioscape-for-cinematic-videos-for-2024/"><u>Exceptional Audioscape for Cinematic Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/for-every-level-of-filmmaker-our-top-10-camera-picks-for-2024/"><u>For Every Level of Filmmaker, Our Top 10 Camera Picks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-calm-to-captivating-techniques-for-motion-blur-mastery-for-2024/"><u>From Calm to Captivating Techniques for Motion Blur Mastery for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-video-to-live-photo-best-conversion-apps-and-methods-for-2024/"><u>From Video to Live Photo Best Conversion Apps and Methods for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>In 2024, Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-7-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 7 Apple ID on MacBook</u></a></li>
+<li><a href="https://techidaily.com/optimieren-sie-ihre-buchhaltungsautomatisierung-mit-verbesserter-ocr-und-texterkennungsfunktionen-von-abbyy/"><u>Optimieren Sie Ihre Buchhaltungsautomatisierung Mit Verbesserter OCR- Und Texterkennungsfunktionen Von ABBYY</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/snatching-twitter-laughter-3-pc-techniques-for-2024/"><u>Snatching Twitter Laughter 3 PC Techniques for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-09-17T05:04:48.724Z
-updated: 2024-09-23T18:29:06.619Z
+date: 2024-09-27T21:26:00.159Z
+updated: 2024-09-30T16:47:15.282Z
 tags:
   - deals
 categories:
@@ -27,13 +27,6 @@ Lucas Gouveia / How-To Geek
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benj Edwards / How-To Geek
 
  One of the things I had to do to even get Windows 11 to recognize my machine was to enable TPM 2.0 (which was disabled by default on my system). TPM 2.0 is supposed to [make the system more secure](https://support.microsoft.com/en-us/topic/what-is-tpm-705f241d-025d-4470-80c5-4feeb24fa1ee). I knew my chip (being a current-generation AMD Ryzen) had TPM 2.0 on it, I just had to find out [how to enable TPM 2.0 on a UEFI system.](https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-c12-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
@@ -43,21 +36,22 @@ Benj Edwards / How-To Geek
  The rest of the process was a lot easier once I got access to the BIOS, but even then, it took me a few tries to find the exact setting on my BIOS screen (since it was different from other walkthrough screens). After about an hour of fiddling, I finally got it sorted out.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Start Menu and Taskbar Layout Are Too Limited
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
@@ -67,29 +61,22 @@ Benj Edwards / How-To Geek
 
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Truncated Context Menus Hurt Usability
 
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
 
  For most of Windows' history, designers have been torn between making a super-simplistic system for the non-tech-savvy and making a functional system for users who know what they're doing. Sadly, this design choice doesn't help either party. In fact, it makes the job of tech support people who have to walk people through things even more difficult.
 
  Back in Windows 10, when you right-clicked a file, you got a simple drop-down menu that outlined _all_ your potential options. It was a context menu that actually gave you context. The new Windows 11 context menu hides context from the user, making it seem like they tried to please everyone and ended up pleasing no one. Luckily, there are [ways to restore the old context menu system in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), so it's not a dealbreaker.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Sorting Options Are All Wonky
 
@@ -108,6 +95,13 @@ Benj Edwards / How-To Geek
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  It's Not A Bad Operating System But...
 
@@ -132,5 +126,20 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-picshots-magic-for-quick-photo-cohesion/"><u>[Updated] Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-social-media-videos-to-audible-mp3s-one-click-conversion/"><u>[Updated] From Social Media Videos to Audible MP3s - One Click Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-long-is-a-video-at-20-megabits/"><u>[Updated] How Long Is a Video at 20 Megabits?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ideal-mkv-player-suite-mobile-and-desktop/"><u>2024 Approved Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-find-x6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Find X6 Pro Device SIM</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhance-account-safety-with-two-step-verification-a-step-by-step-guide-from-zdnet/"><u>Enhance Account Safety with Two-Step Verification: A Step-by-Step Guide From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-safaris-picture-and-window-sharing-feature-for-2024/"><u>Expert Tips for Safari's Picture and Window Sharing Feature for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-foray-into-fashionable-mac-made-videos-for-youtube-for-2024/"><u>First Foray Into Fashionable Mac-Made Videos for YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-windows-hello-authentication-on-incompatible-windows-10-systems/"><u>How To Enable Windows Hello Authentication on Incompatible Windows 10 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a18-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A18</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-captivating-unboxing-content-top-tips/"><u>In 2024, Crafting Captivating Unboxing Content Top Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-venues-expanding-youtube-visibility/"><u>In 2024, Foremost Venues Expanding YouTube Visibility</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y02t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y02T Bootloader Easily</u></a></li>
+</ul></div>
 

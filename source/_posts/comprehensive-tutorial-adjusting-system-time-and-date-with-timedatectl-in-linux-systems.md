@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-09-17T02:11:54.057Z
-updated: 2024-09-23T16:59:55.266Z
+date: 2024-09-23T16:54:52.628Z
+updated: 2024-09-30T20:30:27.381Z
 tags:
   - desktop
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 * [Set It and Forget It](https://on-screen-recording.techidaily.com/updated-2024-approved-mp4-screen-grabber-free-easy-access/)
 
  The Linux `timedatectl` command lets you set your time, date, and timezone for your system clock and your real-time clock. Spare a moment, and we'll show you how it all works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  It's All Relative
 
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  On systemd-based Linux distributions, we use the `timedatectl` command to see or change those settings and values.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Getting Started With timedatectl
 
  To see the current data and time and other values, use the `timedatectl` command with the status operator.
@@ -63,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 timedatectl status
 
 ![The output from the tidedatectl command using the status operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/1-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Actually, you can drop the status and you'll still get the same output.
 
@@ -86,29 +79,22 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
 
 ![Filtering out American time zones with grep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/4-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
 
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Setting the Time Zone
 
@@ -124,7 +110,21 @@ timedatectl
 
 ![New time zone and time settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Manually Setting the Time and Date
 
@@ -158,6 +158,26 @@ timedatectl
 
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  RTC: UTC or LTZ?
 
  It's possible to have your real-time clock set to your local time zone time instead of to UTC—possible, but inadvisable. If you make the change, you'll see a warning about the dire effects this may have on your system in the future.
@@ -174,25 +194,11 @@ timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I think they've made their feelings clear.
 
  To restore the real-time clock to UTC, use this command:
 
 timedatectl set-local-rtc 0
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Set It and Forget It
 
@@ -215,5 +221,22 @@ timedatectl set-local-rtc 0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-story-remix-to-edit-a-video-in-windows-11-photos/"><u>[New] How to Use Story Remix to Edit a Video in Windows 11 Photos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/20-greatest-sandbox-experiences-ever-made/"><u>20 Greatest Sandbox Experiences Ever Made</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-images-swift-methods-to-enhance-your-iphone-videography/"><u>2024 Approved Illuminate Images Swift Methods to Enhance Your iPhone Videography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-visual-storytelling-applying-advanced-techniques-with-luts-in-after-effects/"><u>2024 Approved Innovative Visual Storytelling Applying Advanced Techniques with LUTs in After Effects</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-moto-g-stylus-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Moto G Stylus (2023) Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-europes-ai-law-how-will-it-shape-future-of-ai-like-chatgpt/"><u>Deciphering Europe’s AI Law: How Will It Shape Future of AI Like ChatGPT?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/effortless-video-organization-on-mac-top-8-metadata-editors-for-2024/"><u>Effortless Video Organization on Mac Top 8 Metadata Editors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits-for-2024/"><u>From Basics to Brilliance The Ultimate Guide to HDR Portraits for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-80-pro-straight-screen-edition-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 80 Pro Straight Screen Edition 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hues-unleashed-mastery-over-video-editing-colors-for-2024/"><u>Hues Unleashed Mastery over Video Editing Colors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-classic-to-curvy-embracing-distorted-photography-styles/"><u>In 2024, From Classic to Curvy Embracing Distorted Photography Styles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015781048-master-the-art-of-uninterrupted-discord-communication-tackling-audio-problems-head-on/"><u>Master the Art of Uninterrupted Discord Communication - Tackling Audio Problems Head-On</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mobvoi-ticwatch-pro-3-gps-tracking-benefits-of-dual-screens-and-enhanced-battery-performance/"><u>Mobvoi TicWatch Pro 3 GPS Tracking: Benefits of Dual Screens and Enhanced Battery Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-winxvideo-enhancements-ai-powered-techniques-for-recording-compressing-and-converting-videos/"><u>Step-by-Step Guide to WinXVideo Enhancements - AI-Powered Techniques for Recording, Compressing & Converting Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-substitutes-for-arconai-tv-down-in-providing-continuous-live-streaming-and-kodi-compatible-entertainment/"><u>Top Substitutes for ArconAI TV Down in Providing Continuous Live Streaming & Kodi-Compatible Entertainment</u></a></li>
+</ul></div>
 

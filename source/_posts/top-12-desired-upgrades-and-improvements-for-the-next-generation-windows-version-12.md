@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-09-19T20:07:28.476Z
-updated: 2024-09-24T07:03:37.971Z
+date: 2024-09-26T04:15:08.348Z
+updated: 2024-10-01T01:43:50.441Z
 tags:
   - deals
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
  It feels like Windows 11 was just released yesterday, but there is good reason to believe Windows 12 will be released in 2024 or 2025\. Here are some things we'd love to see included in Windows 12.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Finish the Settings App and Remove Control Panel
 
  The modern Settings app has been present in Windows since the days of Windows 8, but it still doesn’t contain everything that Control Panel does.
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Universal Noise Cancellation Built-in
 
  Many applications now have noise cancelation built in, but the quality is widely variable. [Discord, which uses Krisp](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/), has excellent noise cancelation. NVIDIA also offers [NVIDIA Broadcast](https://extra-skills.techidaily.com/in-2024-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/), which includes a noise cancellation feature. NVIDIA Broadcast allows users with an NVIDIA GPU to filter out echoes or troublesome background noise. It works really well, but it requires [an RTX GPU](https://remote-screen-capture.techidaily.com/2024-approved-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/) to run.
@@ -68,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Andrew Heinzman / How-To Geek
 
 ##  Live and Dynamic Backgrounds
@@ -77,10 +70,10 @@ Andrew Heinzman / How-To Geek
  In the interim, [Wallpaper Engine](https://www.wallpaperengine.io/en) or [Lively](https://apps.microsoft.com/detail/9ntm2qc6qws7) are great, low-cost ways to get your animated background fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  More Useful Widgets
@@ -94,10 +87,10 @@ Andrew Heinzman / How-To Geek
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
@@ -112,6 +105,13 @@ Andrew Heinzman / How-To Geek
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -124,18 +124,18 @@ Andrew Heinzman / How-To Geek
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Better Control Over the Start Menu
 
  The Windows 11 Start menu has proven to be as divisive as it is different. We don’t expect a complete reversal in Windows 12, but more control would be a very welcome change.
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Xbox App Needs a Rework
 
@@ -155,10 +155,10 @@ Andrew Heinzman / How-To Geek
 2. Users need more control over which files and folders are included in the backup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Improve Windows Start Search
@@ -194,5 +194,26 @@ Andrew Heinzman / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-android-sound-logging-without-need-for-rooting/"><u>[New] 2024 Approved Android Sound Logging Without Need for Rooting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filmora-edits-explained-addressing-common-concerns-and-questions/"><u>[New] Filmora Edits Explained Addressing Common Concerns and Questions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-integrating-masks-and-filters-to-improve-google-meet-engagement-for-2024/"><u>[New] Integrating Masks and Filters to Improve Google Meet Engagement for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pro-tips-for-immediate-use-of-io-screen-recorder/"><u>[Updated] 2024 Approved Pro Tips for Immediate Use of IO Screen Recorder</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>[Updated] In 2024, Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>2024 Approved Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-rewind-to-save-incorporating-80s-vhs-in-todays-cinematic-edits/"><u>2024 Approved From Rewind to Save Incorporating 80S VHS in Today's Cinematic Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-top-10-4k-mirrorless-camera-lists-for-2024/"><u>Explore the Best Top 10 4K Mirrorless Camera Lists for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-shopping-spree-to-stunning-video-haul-editing-explained-for-2024/"><u>From Shopping Spree to Stunning Video Haul Editing Explained for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-spectrum-on-morphvox-technology-for-voice-conversion-for-2024/"><u>Full Spectrum on MorphVOX Technology for Voice Conversion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-on-unlocking-full-potential-in-funimate-for-2024/"><u>Game On Unlocking Full Potential in Funimate for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-enable-windows-11-auto-hdr-settings-for-2024/"><u>Guide to Enable Windows 11 Auto-HDR Settings for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-gt-neo-5-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme GT Neo 5 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-razr-40-ultra-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Razr 40 Ultra Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-y100t-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Y100t</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ifunny-meme-seamless-download-and-enjoyment/"><u>In 2024, IFunny Meme Seamless Download and Enjoyment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-homes-with-suns-invisible-light-for-2024/"><u>Infusing Homes with Sun's Invisible Light for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-strategies-for-crafting-viral-reactions-a-guide-for-2024/"><u>Top Strategies for Crafting Viral Reactions A Guide for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling"
-date: 2024-09-19T19:27:16.817Z
-updated: 2024-09-23T21:18:11.911Z
+date: 2024-09-27T23:11:28.922Z
+updated: 2024-10-01T02:11:55.102Z
 tags:
   - deals
 categories:
@@ -30,10 +30,16 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 ![A typical physical bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/back_to_the_basics_1600x.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bulletjournal.com
@@ -42,6 +48,13 @@ Bulletjournal.com
 
 1. Unlike other preset planners, you’re supposed to add a new page every day for the daily log. Even if you miss a day, there are no gaps in a bullet journal. The next blank space on the page is always where the next entry goes. So you can always just add a new page on your Word document to continue journaling. No friction or hopping around pages whatsoever.
 2. Secondly, a physical bullet journal will eventually run out of space. You can technically keep the Word bullet journal forever.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Create a Bullet Journal in Microsoft Word
 
@@ -82,17 +95,17 @@ Close
 ![Creating the index page in a bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-202543.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Create the Future Log
@@ -100,13 +113,6 @@ Close
  The future log is where you make long-term plans. Tasks, events, or notes that’ll be relevant in the next six months show up here. The future log doesn’t have to start from January. It should start from your current month. [Create a table](https://fox-http.techidaily.com/in-2024-unlocking-your-iphones-audio-library-with-top-podcast-strategies/) for the future log using the "Table" button in the "Insert" tab.
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Create the Monthly Log
 
@@ -120,18 +126,31 @@ Close
 
 ![ksnip_20240801-203451](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203451.png) 
 
- Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
 
 ##  How to Use the Bullet Journal
 
  Every bullet journal has a daily log. It’s a space where you can quickly capture any ideas, notes, reminders, and tasks one after another. There are no premade layouts, no boxes, or dotted lines. Cross items that are done or cancel them. At the end of the day, review your daily log and “migrate” leftover tasks. It keeps you mindful of what truly needs your attention and your tasks from slipping through the cracks.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  It's Much More Than a Simple To-Do List
 
@@ -151,13 +170,6 @@ Close
 
 * Keeps items from getting lost. It makes sure you never forget to do a task just because it didn’t make it to a future to-do list.
 * Keeps you mindful of what you’re carrying on to the next day or any future date. Actually, typing the tasks manually every day allows you to regularly reassess their priority.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Use the Right Symbols
 
@@ -184,5 +196,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/rom-capture-to-share-proven-methods-for-live-360-video-on-youtube-for-2024/"><u>[New] From Capture to Share Proven Methods for Live 360° Video on Youtube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-optimal-flv-to-youtube-transformers-in-a-ranking-list/"><u>[New] In 2024, Optimal FLV to YouTube Transformers in a Ranking List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-create-striking-fb-ads-harness-power-of-free-kit/"><u>[Updated] In 2024, Create Striking FB Ads – Harness Power of Free Kit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-image-colors-pro-techniques-revealed-for-2024/"><u>Expertise in Image Colors Pro Techniques Revealed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-analysis-of-t5-eyes-exceptional-action-recording-for-2024/"><u>Full Analysis of T5 Eye's Exceptional Action Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse-for-2024/"><u>How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-14-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi 14 Without PUK Codes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-marvel-of-apples-m1-max-attachments/"><u>In 2024, Exploring the Marvel of Apple’s M1 Max Attachments</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-90-gt-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 90 GT Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-the-art-of-video-capturing-zdsofts-method/"><u>In 2024, Mastering the Art of Video Capturing ZDSoft's Method</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
+</ul></div>
 

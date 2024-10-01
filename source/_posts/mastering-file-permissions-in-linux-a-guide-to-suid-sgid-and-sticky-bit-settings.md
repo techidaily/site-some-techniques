@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings"
-date: 2024-09-18T04:48:07.731Z
-updated: 2024-09-24T01:25:40.371Z
+date: 2024-09-28T17:13:49.778Z
+updated: 2024-09-30T22:45:04.517Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,19 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  SUID, SGID, and Sticky Bits are powerful special permissions you can set for executables and directories on Linux. We'll share the benefits—and potential pitfalls—of using them.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  They're Already in Use
 
  Building security into a multiuser operating system presents several quandaries. Take the (seemingly) basic concept of passwords, for example. They all have to be stored so each time someone logs in, the system can compare the password he types to the stored copy. Obviously, as passwords are the keys to the kingdom, they must be safeguarded.
@@ -39,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  The above scenario is precisely what the Set User ID bit (`SUID`) does. It runs programs and commands with the permissions of the file owner, rather than the permissions of the person who launches the program.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You're Elevating the Program's Status
@@ -83,13 +96,6 @@ ls -l /usr/bin/passwd
 
 ![List of Linux commands that have their SUID bit set, in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note the filenames are highlighted in red, which indicates the SUID bit is set.
 
  The permissions on a file or directory are usually represented by three groups of three characters: rwx. These stand for read, write and execute. If the letters are present, that permission has been granted. If a hyphen (`-`) instead of a letter is present, though, that permission hasn't been given.
@@ -104,13 +110,6 @@ passwd
 
 ![passwd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The `passwd` command prompts `dave` for his new password. We can use the `ps` command [to see the details of running processes](http://man7.org/linux/man-pages/man1/ps.1.html).
 
  We'll use `ps` with `grep` [in a different terminal window](http://man7.org/linux/man-pages/man1/grep.1.html) and look for the `passwd` process. We'll also use the -e (every process) and -f (full-format) options with `ps`.
@@ -120,13 +119,6 @@ passwd
 ps -e -f | grep passwd
 
 ![ps -e -f | grep passwd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Two lines are reported, the second of which is the `grep` process looking for commands with the string "passwd" in them. It's the first line that interests us, though, because that's the one for the `passwd` process `dave` launched.
 
@@ -148,6 +140,19 @@ ls -lh htg
 
 ![ls -lh htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-3.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When we run the local copy of the program, we see the real and effective IDs are both set to `dave`. So, it's behaving just as a normal program should.
 
  Let's copy it to the `/usr/local/bin` directory so others can use it.
@@ -163,10 +168,10 @@ ls -hl /usr/local/bin/htg
 ![sudo cp htg /usr/local/bin in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/5-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, the program is copied, and the SUID bit is set. We'll run it again, but this time we'll run the copy in the `/usr/local/bin` folder:
@@ -180,19 +185,6 @@ htg
 htg
 
 ![htg launched by user mary in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-2.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The real ID is `mary`, and the effective ID is `root`. The program runs with the permissions of the root user.
 
@@ -213,10 +205,10 @@ ls -lh /usr/local/bin/htg
 ![sudo chown root:mary /usr/local/bin/htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can see the `SGID` bit denoted by the "s" in the group permissions. Also, note the group is set to `mary` and the file name is now highlighted in yellow.
@@ -232,6 +224,13 @@ id -G mary
 htg
 
 ![id -G dave in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The ID of the default group for `mary` is 1001, and the effective group of the `htg` program is 1001\. So, although it was launched by `dave`, it's running with the permissions of the members in the `mary` group. It's the same as if `dave` had joined the `mary` group.
 
@@ -252,10 +251,10 @@ ls -lh -d work
 ![sudo mkdir work in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The `SGID` bit and "geek" group are set. These will affect any items created within the `work` directory.
@@ -306,6 +305,13 @@ ls -lh -d /var/tmp
 
 ![mkdir shared in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the sticky bit is set, the executable bit of the "other" set of file permissions is set to "t." The file name is also highlighted in blue.
 
  The `/tmp` and `/var/tmp` folders are two examples of directories that have all the file permissions set for the owner, group, and others (that's why they're highlighted in green). They're used as shared locations for temporary files.
@@ -336,5 +342,24 @@ ls -lh -d /var/tmp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlock-likes-by-perfecting-your-square-video-presentation/"><u>[New] 2024 Approved Unlock Likes by Perfecting Your Square Video Presentation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-access-free-movie-video-player-for-pcmac/"><u>[New] Exclusive Access Free Movie VIDEO Player for PC/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expanding-creative-horizons-with-ae-fonts/"><u>[New] Expanding Creative Horizons with AE Fonts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-husqvarnas-high-flyers-the-2023-drone-review-series/"><u>[New] Husqvarna's High Flyers The 2023 Drone Review Series</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-shadowing-snaptaking-discreet-methods-to-capture-snapchats-for-2024/"><u>[New] Shadowing SnapTaking Discreet Methods to Capture SnapChats for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flashback-filmmaking-top-tricks-from-80s-vhs-to-enhance-todays-edits/"><u>[Updated] Flashback Filmmaking Top Tricks From 80S VHS to Enhance Today’s Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>[Updated] Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-fixing-absence-of-color-on-game-feedback/"><u>[Updated] In 2024, Fixing Absence of Color on Game Feedback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boosting-participation-tips-for-fb-giveaway-posts/"><u>2024 Approved Boosting Participation Tips for FB Giveaway Posts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-chosen-top-5-premium-drones-for-professionals/"><u>2024 Approved Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highest-scoring-smartphone-cameras-for-video-making/"><u>2024 Approved Highest Scoring Smartphone Cameras for Video Making</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-parody-pointers-from-script-to-screenplay/"><u>2024 Approved Parody Pointers From Script to Screenplay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-e13-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto E13 Fingerprint Lock</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-f34-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy F34 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-6s-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 6s Plus? How to Fix it?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-follower-to-fanbase-leader-nine-steps-for-instagram-mastery/"><u>In 2024, From Follower to Fanbase Leader Nine Steps for Instagram Mastery</u></a></li>
+</ul></div>
 

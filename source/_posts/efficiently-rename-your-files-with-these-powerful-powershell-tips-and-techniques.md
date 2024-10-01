@@ -1,7 +1,7 @@
 ---
 title: Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
-date: 2024-09-17T07:10:07.439Z
-updated: 2024-09-23T19:40:48.586Z
+date: 2024-09-26T00:12:52.369Z
+updated: 2024-09-30T19:01:42.372Z
 tags:
   - desktop
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -37,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -64,10 +50,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -80,6 +66,13 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Add a Prefix or Suffix to a File Name
 
  To add text before your file name (known as a prefix), launch a PowerShell window and enter the following command. Replace **PATH** with your folder's full path, and **PREFIX** with the text you want to append, then press Enter.
@@ -90,6 +83,13 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -99,16 +99,10 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
@@ -130,5 +124,26 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unveiling-the-technology-behind-whatsapp-voice-calls/"><u>[New] 2024 Approved Unveiling the Technology Behind WhatsApp Voice Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-efficient-methods-to-block-facebook-adverts-for-2024/"><u>[New] Efficient Methods to Block Facebook Adverts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-premier-free-overlay-tools-to-elevate-images/"><u>[New] Explore the Premier Free Overlay Tools to Elevate Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonic-heralds-discovering-the-finest-music-for-podcast-beginnings/"><u>[New] Harmonic Heralds Discovering the Finest Music for Podcast Beginnings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hidden-gems-in-window-11s-interface-top-30-tips-and-tricks-unveiled/"><u>[New] Hidden Gems in Window 11'S Interface Top 30 Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncover-top-affordable-video-enhancement-platforms-a-comprehensive-guide/"><u>[New] Uncover Top Affordable Video Enhancement Platforms - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flawless-blend-incorporating-linktree-into-your-tiktok-about-section/"><u>[Updated] Flawless Blend Incorporating Linktree Into Your TikTok About Section</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-def-gaming-gpu-recommendations/"><u>[Updated] High-Def Gaming GPU Recommendations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-to-the-best-10-sites-for-vector-image-download/"><u>[Updated] Navigate to the Best 10 Sites for Vector Image Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pro-equipment-list-for-adventure-documentaries-for-2024/"><u>[Updated] Pro Equipment List for Adventure Documentaries for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-resonant-revelations-blending-visuals-with-vocal-tones-on-windows/"><u>[Updated] Resonant Revelations Blending Visuals with Vocal Tones on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-filmmakers-toolkit-essential-color-grading-of-7-techniques/"><u>[Updated] The Filmmaker's Toolkit Essential Color Grading of 7 Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-latest-camera-face-off/"><u>2024 Approved GoPro's Latest Camera Face-Off</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-vs-yi-who-will-lead-the-high-quality-action-race-for-2024/"><u>GoPro Vs. YI Who Will Lead the High-Quality Action Race for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-windows-playlists-for-2024/"><u>High-Fidelity Windows Playlists for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-guide-to-utilizing-morphvox-voice-changers/"><u>In 2024, Expert's Guide to Utilizing MorphVOX Voice Changers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-the-power-to-preserve-instagrams-live-features/"><u>In 2024, Unlocking the Power to Preserve Instagram's Live Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-8-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 8 Plus has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus 12 | Dr.fone</u></a></li>
+</ul></div>
 

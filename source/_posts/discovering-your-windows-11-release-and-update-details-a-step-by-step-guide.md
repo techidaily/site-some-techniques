@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide"
-date: 2024-09-20T02:21:00.923Z
-updated: 2024-09-23T22:40:29.894Z
+date: 2024-09-24T16:57:10.903Z
+updated: 2024-09-30T21:59:15.945Z
 tags:
   - desktop
 categories:
@@ -18,16 +18,10 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -63,12 +44,32 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
 * **Edition.** This line tells you which edition of Windows 10 you're using—Home, Professional, Enterprise, or Education. If you're using Home and you'd like to upgrade to Professional, you can [upgrade to the Professional edition from within Windows 10](https://techidaily.com/best-fixes-for-tecno-camon-20-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/). Switching to Windows 10 Enterprise or Education editions will require a complete reinstall and a special key that isn't made available to normal home Windows users.
 * **Version.** The version number gives you the best information on what version of Windows 10 you're running. The number was originally based on the date of the most recent large build release and uses a YYMM format. For example, in the screenshot above, the "1607" version tells us that the version we're running is from the 7th month (July) of 2016\. That's the big [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/) of Windows 10\. The [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/) was released in September of 2017, so it's version 1709\. Newer Windows 10 updates are named based on the which half of the year they come out in. For example, the latest Windows 10 update is 22H2—which tells you that it was released in the second half of 2022\. An update released in May 2024 will be called 24H1, and so on.
 * **OS Build.** This line shows the specific operating system build you're running. It gives you sort of a timeline of minor build releases in between the major version number releases. In the screenshot above, the "14393.693" build was actually the 13th build released after version 1607 shipped in July, 2016\. This information is somewhat less important to most people than the major version numbers, but it can still help you identify exactly what you're running. If you're curious, you can check out the whole [history of versions and builds for Windows 10](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396) on Microsoft's TechNet site.
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
 
@@ -77,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -111,5 +105,18 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-fastest-path-to-amazing-iphone-time-lapses/"><u>[New] The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expert-strategies-for-efficient-funimate-use-for-2024/"><u>[Updated] Expert Strategies for Efficient Funimate Use for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-groundbreaking-gradients-adobes-best-lut-choices-to-boost-your-lightroom-work/"><u>[Updated] Groundbreaking Gradients Adobe's Best LUT Choices to Boost Your LightRoom Work</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-step-by-step-approach-to-personalizing-your-phones-alerts/"><u>[Updated] In 2024, The Step-By-Step Approach to Personalizing Your Phone's Alerts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>[Updated] Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-hub-picture-composer/"><u>2024 Approved Humor Hub Picture Composer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-refine-your-youtube-identity-with-efficient-descriptions/"><u>2024 Approved Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/combat-high-response-times-in-co-op-gaming-strategies-for-faster-back-nblood-play/"><u>Combat High Response Times in Co-Op Gaming: Strategies for Faster Back nBlood Play</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-top-hd-video-player-apps-android-for-2024/"><u>Exclusive List of Top HD Video Player Apps, Android for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-safeguard-your-mac-a-video-course-on-implementing-encryptiondecryption-and-data-recovery-strategies/"><u>How to Safeguard Your Mac: A Video Course on Implementing Encryption/Decryption and Data Recovery Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Moto E13 | Dr.fone</u></a></li>
+</ul></div>
 

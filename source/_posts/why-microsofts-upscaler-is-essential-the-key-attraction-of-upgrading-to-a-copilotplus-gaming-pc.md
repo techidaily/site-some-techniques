@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-09-18T21:12:55.614Z
-updated: 2024-09-23T17:25:48.550Z
+date: 2024-09-25T22:01:34.823Z
+updated: 2024-10-01T04:14:15.240Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [It Just Works (In Supported Games)](https://www.howtogeek.com/microsofts-upscaler-is-the-only-reason-gamers-will-care-about-a-copilot-pc/#it-just-works-in-supported-games)
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Auto SR is Microsoft's answer to DLSS, FSR, and XeSS.
@@ -32,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * The biggest downside of Auto SR is that it's only available on CoPilot+ PCs, since it needs an NPU to work.
 
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
 
@@ -50,10 +56,16 @@ Microsoft/Gearbox
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
@@ -65,13 +77,6 @@ Microsoft/Gearbox
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
@@ -85,6 +90,13 @@ Microsoft/Gearbox
 
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It Just Works (In Supported Games)
 
  One of the best things about Auto SR is that it just works. After you enable the option in Windows settings, Auto SR automatically turns on in supported games, in full-screen and windowed borderless modes, and then seamlessly turns off and switches your native resolution back once you exit the game. On the other hand, driver-based upscalers require a manual set-up process for each game, on top of not looking as good as Auto SR.
@@ -96,10 +108,10 @@ Microsoft/Gearbox
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
@@ -125,5 +137,22 @@ Microsoft/Gearbox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-halt-autoplay-youtube-recommendations/"><u>[New] 2024 Approved Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-choosing-best-pc-game-speed-extensions/"><u>[Updated] Fast Track Choosing Best PC Game Speed Extensions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-speed-windows-photo-explorer-tool/"><u>[Updated] High-Speed Window's Photo Explorer Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-undo-macos-sierras-os-x-transition/"><u>[Updated] How to Undo MacOS Sierra's OS X Transition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmony-color-calibrator/"><u>2024 Approved Harmony Color Calibrator</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-sprinkle-new-colors-into-your-past-media-with-instagram/"><u>2024 Approved How to Sprinkle New Colors Into Your Past Media with Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-a54-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy A54 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decadal-list-prime-meme-designs/"><u>Decadal List Prime Meme Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-accessories-for-optimal-gopro-photography-for-2024/"><u>Ideal Accessories for Optimal GoPro Photography for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-the-best-replacement-for-magixs-acid-pro/"><u>In 2024, Finding the Best Replacement for Magix's ACID Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/journey-to-seamless-entertainment-free-for-both-pcmacos-for-2024/"><u>Journey to Seamless Entertainment, Free for Both PC/MacOS for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722860853633-the-upcoming-oneplus-10-insider-information-on-when-to-expect-it-what-it-may-offer-and-how-much-youll-pay/"><u>The Upcoming OnePlus 10 – Insider Information on When to Expect It, What It May Offer, and How Much You'll Pay</u></a></li>
+</ul></div>
 

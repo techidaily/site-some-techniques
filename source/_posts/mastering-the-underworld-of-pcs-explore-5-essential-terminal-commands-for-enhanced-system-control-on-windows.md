@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-09-19T18:07:17.752Z
-updated: 2024-09-24T04:49:38.238Z
+date: 2024-09-27T21:59:56.218Z
+updated: 2024-09-30T23:03:59.050Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
@@ -50,6 +50,13 @@ color a
 color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
@@ -86,19 +93,6 @@ dir /s | more
 
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the ping-t Command to Ping a Website Continuously
 
  Next up is the ping command with the -t option:
@@ -115,13 +109,6 @@ Your browser does not support the video tag.
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -135,6 +122,13 @@ cmatrix
 Your browser does not support the video tag. 
 
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
@@ -167,10 +161,10 @@ genact -m cryptomining
 Your browser does not support the video tag. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
@@ -208,5 +202,20 @@ sudo apt-get install byobu hollywood`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-review-of-powerdirector-features-and-tips/"><u>[New] Expert Review of PowerDirector - Features & Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-propel-your-instagram-videos-into-the-public-eye/"><u>[New] Propel Your Instagram Videos Into the Public Eye</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-frame-to-script-innovative-ways-of-integrating-text-in-images/"><u>[Updated] From Frame to Script Innovative Ways of Integrating Text in Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz/"><u>[Updated] High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-cost-free-text-animations-onlineoff/"><u>2024 Approved Guide to Cost-Free Text Animations (Online/Off)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-fix-shaky-gopro-videos/"><u>2024 Approved How to Fix Shaky GoPro Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 12 mini without Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-sound-shift-a-comprehensive-tutorial-on-srt-conversion/"><u>Digital Sound Shift A Comprehensive Tutorial on SRT Conversion</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-list-top-18-cam-recorders-compiled/"><u>In 2024, Comprehensive List Top 18 Cam Recorders Compiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-film-titles-that-spur-positive-change-and-action-steps/"><u>In 2024, Film Titles That Spur Positive Change & Action Steps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-this-article-is-all-about-how-to-fix-the-disk-space-in-the-final-cut-pro-x-moreover-this-article-will-cover-the-different-ways-via-whi/"><u>Updated 2024 Approved This Article Is All About How to Fix the Disk Space in the Final Cut Pro X. Moreover, This Article Will Cover the Different Ways via Which You Can Check Mac Storage Space, and How to Free up Space in FCPX and Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/what-makes-a-youtube-short-go-viral/"><u>What Makes a YouTube Short Go Viral?</u></a></li>
+</ul></div>
 

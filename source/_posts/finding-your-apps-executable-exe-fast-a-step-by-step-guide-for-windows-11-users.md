@@ -1,7 +1,7 @@
 ---
 title: "Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-09-20T02:09:07.068Z
-updated: 2024-09-23T18:27:55.796Z
+date: 2024-09-28T19:28:34.147Z
+updated: 2024-09-30T16:09:41.668Z
 tags:
   - deals
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 * [Where are EXEs for Apps From the Microsoft Store Located?](https://hardware-help.techidaily.com/effortless-installation-of-new-acer-audio-drivers-step-by-step-tips/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
 
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
 
 ##  If You Can't Find a Shortcut to Use
@@ -80,26 +73,27 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
- There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
-
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
  Apps you install from the Microsoft Store, and their executables, are stored in "C:\\Program Files\\WindowsApps."
 
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
 
@@ -116,5 +110,23 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-crystal-clear-on-screen-discovering-the-cg318-4k-monitor/"><u>[New] Crystal Clear on Screen Discovering the CG318-4K Monitor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fundamental-steps-for-transforming-pins-into-audios/"><u>[New] Fundamental Steps for Transforming Pins Into Audios</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-film-production-with-augmented-realms/"><u>[New] Innovating Film Production with Augmented Realms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs/"><u>[Updated] In 2024, How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-influencing-cultures-through-memetic-expression/"><u>[Updated] Influencing Cultures Through Memetic Expression</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-virtual-vice-versa-top-10-alternative-crime-games-for-2024/"><u>[Updated] Virtual Vice Versa Top 10 Alternative Crime Games for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-through-virtual-barriers-crafting-engaging-metaverse-content/"><u>2024 Approved Breaking Through Virtual Barriers Crafting Engaging Metaverse Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-high-definition-chroma-blade-photography/"><u>2024 Approved Exploring High-Definition Chroma Blade Photography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-audacitys-full-potential-for-professional-audio/"><u>2024 Approved Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/beyond-the-basics-streamlabs-competitors-analyzed/"><u>Beyond the Basics Streamlabs Competitors Analyzed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-your-favorite-general-knowledge-quiz-channel-of-the-year-24-for-2024/"><u>Find Your Favorite General Knowledge Quiz Channel of the Year, '24 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extraordinary-assessment-and-alternative-choices/"><u>In 2024, Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gif-mastery-10-key-elements-to-perfect-creation/"><u>In 2024, GIF Mastery 10 Key Elements to Perfect Creation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-zero-30-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-say-goodbye-to-endless-crashes-master-these-fixes-for-ascent-game/"><u>PC Users, Say Goodbye to Endless Crashes - Master These Fixes for Ascent Game!</u></a></li>
+</ul></div>
 

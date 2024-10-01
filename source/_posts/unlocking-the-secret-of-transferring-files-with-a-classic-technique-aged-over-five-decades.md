@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
-date: 2024-09-16T16:19:53.651Z
-updated: 2024-09-23T22:44:43.833Z
+date: 2024-09-29T21:41:44.601Z
+updated: 2024-10-01T03:54:19.149Z
 tags:
   - mobile
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Activate the FTP Server](https://extra-information.techidaily.com/best-buddy-list-in-the-virtual-realm-games/)
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * FTP is a 53-year old protocol still effective for moving files between devices on the same Wi-Fi network.
@@ -33,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is FTP?
 
  FTP stands for "File Transfer Protocol." Developer Abhay Bhushan created the protocol way back in 1971\. He was inducted into the Internet Hall of Fame in 2023.
@@ -40,16 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download an Alternative File Manager
@@ -61,10 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -81,6 +75,13 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -90,13 +91,6 @@ Close
  Your file manager will prompt you to enter a username and password or attempt an anonymous connection. Do whichever works according to the settings you set for the server.
 
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
@@ -123,5 +117,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-green-canvas-essential-templates-to-enhance-your-cinematographic-journey/"><u>[Updated] Green Canvas Essential Templates to Enhance Your Cinematographic Journey</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secrets-of-the-pocket-acquiring-no-pay-images/"><u>[Updated] Secrets of the Pocket Acquiring No-Pay Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basics-to-mastery-unveiling-timelapse-shooting-techniques-with-gopro/"><u>2024 Approved From Basics to Mastery Unveiling Timelapse Shooting Techniques with GoPro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-detailed-look-at-openais-bug-bounty-entry-requirements-and-processes/"><u>A Detailed Look At OpenAI’s Bug Bounty: Entry Requirements and Processes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-stories-with-ai-discover-6-methods-using-chatgpt/"><u>Crafting Stories with AI: Discover 6 Methods Using ChatGPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-the-purpose-of-4k-high-definition/"><u>Decoding the Purpose of 4K High-Definition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humorhub-imagery-mememagic-inc-for-2024/"><u>HumorHub Imagery MemeMagic Inc for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi Note 12 Pro 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guidance-best-websites-to-find-google-pixel-ringtones-and-how-to-customize-google-pixel-ringtones/"><u>In 2024, Guidance Best Websites To Find Google Pixel Ringtones & How To Customize Google Pixel Ringtones</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily"
-date: 2024-09-21T16:18:50.019Z
-updated: 2024-09-23T19:24:53.202Z
+date: 2024-09-29T01:35:51.437Z
+updated: 2024-09-30T22:43:02.211Z
 tags:
   - desktop
 categories:
@@ -32,15 +32,22 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
 
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
  No matter how you located the shortcut, a properties window will appear. Make sure you're on the "Shortcut" tab, then click "Open File Location."
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll be taken directly to the EXE's location in File Explorer.
 
@@ -73,14 +73,14 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
- There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
@@ -110,5 +110,17 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-iphone-software-roundup-selecting-ideal-watermark-tools/"><u>[New] Expert iPhone Software Roundup Selecting Ideal Watermark Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gadget-unveiling-top-youtube-channels-to-watch/"><u>[New] Gadget Unveiling Top YouTube Channels to Watch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-titles-to-lengthen-viewing-times-within-limit/"><u>[New] Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences/"><u>[New] The Perfect Playback Top Strategies to Record and Share Your VR Experiences</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-picks-for-the-modern-buyer-advanced-360cams-for-2024/"><u>[New] Top Picks for the Modern Buyer Advanced 360Cams for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-maximizing-gameplay-preservation-on-the-newest-windows-11-for-2024/"><u>[Updated] Maximizing Gameplay Preservation on the Newest Windows 11 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustration-enthusiasts-dream-best-free-tools-for-mac/"><u>2024 Approved Illustration Enthusiasts' Dream - Best FREE Tools for Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-appeal-of-cozy-indie-games/"><u>Dissecting the Appeal of Cozy Indie Games</u></a></li>
+<li><a href="https://win-community.techidaily.com/mp4srt5/"><u>MP4とSRTを組み合わせるための優れた無料ツールベスト5 - 評価ランキング</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973821562-upgrade-to-the-best-asus-audio-driver-pack-free-download/"><u>Upgrade to the Best ASUS Audio Driver Pack - Free Download!</u></a></li>
+</ul></div>
 

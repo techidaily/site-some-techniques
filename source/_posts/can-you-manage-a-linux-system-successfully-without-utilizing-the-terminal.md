@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2024-09-20T07:25:06.931Z
-updated: 2024-09-24T03:06:58.163Z
+date: 2024-09-26T19:23:35.060Z
+updated: 2024-09-30T17:00:56.040Z
 tags:
   - desktop
 categories:
@@ -45,23 +45,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of Installing VLC on Linux Mint using Software Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installing-vlc-on-linux-mint-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But what if you need to update some software? There's an update manager too. You can open it from time to time and see what packages have updates available. Then you can press the "Install Updates" button to update selected software or all of them.
 
 ![An example of the Update Manager user interface on Linux Mint for updating installed software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/update-manager-linux-mint.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Managing old and new software on Linux is pretty simple thanks to existing software centers. But even if you can't find one preinstalled on your Linux distro, you can easily install software using [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) or [AppImages](https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/). So then, why do people use the terminal? That's because it gives you a better experience in certain situations.
 
@@ -71,15 +57,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Changing System Settings
 
 ![The System settings in Linux Mint displaying different types of options and settings you can change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/system-settings-in-linux-mint-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Getting deep into the heart of Linux and playing with the settings is something pro-Linux users prefer the command line for. But it's amazing how much you can do with a GUI settings menu on Linux nowadays. Linux Mint has a comprehensive settings menu containing most of the things you'll ever need. You can tweak network settings, display options, hardware, firewall, and even other administration settings.
@@ -109,16 +102,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 ![An instance of a configuration file opened in the nano text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/nano-text-editor-on-linux-mint.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Have you ever heard a joke about [exiting from Vim](https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/) on Linux? Vim is a popular terminal-based text editor that comes preinstalled on all Linux distros. It's notoriously known for its steep learning curve. Now, the idea of learning "how to use a text editor" may sound surprising to you. But once you learn it, you can save dozens of hours thanks to its useful shortcuts and powerful capabilities.
@@ -129,13 +116,6 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An instance of a text document opened in the xed text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xed-text-editor-on-linux-mint.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Programming and Development
 
  Linux makes programming much more fun because it handles some of the tedious setups for you. You open a code editor and start writing code. Hence, many people, including me, [prefer Linux over Windows](https://program-issues.techidaily.com/solved-forza-horizon-4-crash-on-pc/) for programming.
@@ -144,21 +124,35 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An example of compiling a C program using the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/compiling-a-c-program-using-linux-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are many terminal-based development tools such as make, gcc, cmake, and autotools that developers use regularly. Compiling code from various programming languages often relies on tools like gcc and javac. These tools offer better control over the compilation process than a simple Build button on an IDE.
 
  As a developer, you'll have to use many tools that don't have any graphical interface. You'll need to install many dependencies. You may have to [connect to remote servers via SSH](https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/). You'll likely have to automate many repetitive and complex tasks to save time and energy. All of these, if not most, are done using the terminal. For any professional developer, the command line can feel necessary rather than a choice.
 
  Another noteworthy part of a programmer's work is the version control system. While there are [GUI clients for tools like Git](https://desktop-recording.techidaily.com/new-2024-approved-vrecorder-how-to-download-and-install/), learning basic Git commands can come in handy in a professional scenario. Using Git from the command line also makes your development process smoother because you don't need to go back and forth between multiple tools.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Customizing Your Linux Desktop
 
 ![An instance of the Qt5 customizer tool opened in Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-mint-customization.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Linux is known for its customization abilities. You can find a good number of both GUI tools and command line tools for customizing Linux to your heart's content.
@@ -167,18 +161,18 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  There are a bunch of GUI tools available out there, including GNOME Tweaks, Dconf Editor, and KDE System Settings. You can play between different options to get your preferred look and feel. Sure, the command line unlocks a new world of customization opportunities. But if it's customization work I'm doing, then GUI tools seem to do pretty well considering there's no learning curve.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Other Advanced Tasks
 
  When it comes to advanced tasks, the command line mostly reigns supreme. Some of these include system administration, network configuration, system monitoring, troubleshooting, disk management and partitioning, user and group management, and system security maintenance, among other things.
 
  You may find a few GUI tools, either built-in or from third parties. However, most of these activities require basic to intermediate knowledge of the Linux system, commands, and Bash scripting. So if you're planning to use Linux for any of these works, the terminal would be your daily companion.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  No Command Line, No Problem!
 
@@ -199,5 +193,23 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta/"><u>[New] 10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-best-5-gopro-filters-for-underwater-video-shooting/"><u>[New] Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-desktop-pcs-the-best-of-the-best/"><u>[New] Exquisite Desktop PCs The Best of the Best</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-fixed-frame-to-fluid-motion-live-photo-transformation/"><u>[New] From Fixed Frame to Fluid Motion Live Photo Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-holographic-horizons-reimagined-movies/"><u>[New] Holographic Horizons Reimagined Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-and-edit-videos-on-windows-11/"><u>[New] How to Create and Edit Videos on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-maximize-impact-with-onestreams-streaming-solutions/"><u>[Updated] How to Maximize Impact with OneStream's Streaming Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-producing-impressive-audio-teasers/"><u>[Updated] Innovative Approaches to Producing Impressive Audio Teasers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-selection-cutting-edge-camera-stabilization-tech/"><u>2024 Approved Expert's Selection Cutting Edge Camera Stabilization Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tricks-to-improve-instagram-video-load-speeds-mobile/"><u>2024 Approved Tricks to Improve Instagram Video Load Speeds (Mobile)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-topmate-c302-desktop-cooler-comprehensive-review-of-its-efficiency/"><u>Affordable TopMate C302 Desktop Cooler - Comprehensive Review of Its Efficiency</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-10-ways-to-convert-youtube-to-mpeg-for-2024/"><u>Best 10 Ways to Convert YouTube to MPEG for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freedom-of-access-effective-techniques-for-drm-free-conversion-of-pdf-and-ebook-formats/"><u>Freedom of Access: Effective Techniques for DRM-Free Conversion of PDF and eBook Formats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instantaneously-assemble-aesthetic-fb-collage-posts/"><u>In 2024, Instantaneously Assemble Aesthetic FB Collage Posts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-metaverse-laughter-25plus-humorous-meme-ideas-to-share-online/"><u>In 2024, Metaverse Laughter 25+ Humorous Meme Ideas to Share Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y36i | Dr.fone</u></a></li>
+</ul></div>
 

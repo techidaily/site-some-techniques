@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-09-18T06:49:22.000Z
-updated: 2024-09-24T02:11:23.722Z
+date: 2024-09-30T04:00:49.698Z
+updated: 2024-09-30T18:01:53.763Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How This Particular Problem Foxes People
@@ -35,10 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
@@ -56,16 +56,10 @@ ls ~/Downloads/src
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
@@ -89,10 +83,10 @@ ls ~/Documents/backup/
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The original and target directories are both empty. Where did the file go?
@@ -142,5 +136,23 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-digital-diary-top-picks-for-personal-video-devices/"><u>[New] In 2024, Digital Diary Top Picks for Personal Video Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-complete-blueprint-to-record-hulu-playback/"><u>[New] In 2024, The Complete Blueprint to Record Hulu Playback</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-youtube-beginnings-15-editing-samples-for-2024/"><u>[Updated] Best YouTube Beginnings 15 Editing Samples for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-content-review-the-best-15-youtube-unboxers-of-2024/"><u>[Updated] Exclusive Content Review The Best 15 YouTube Unboxers of 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-go-pro-karma-drone-review/"><u>[Updated] Go Pro Karma Drone Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hypervision-pro-all-in-one-4k-screen-desks/"><u>[Updated] HyperVision Pro All-in-One 4K Screen Desks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-hues-audio-fade-techniques-in-logic-pro/"><u>2024 Approved Harmonizing Hues Audio Fade Techniques in Logic Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-design-a-post-that-sparks-wide-scale-interest-in-fb-giving/"><u>2024 Approved How to Design a Post That Sparks Wide-Scale Interest in FB Giving</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/file-sync-up-the-5-fundamental-ways-for-your-computer-upload-for-2024/"><u>File Sync-Up The 5 Fundamental Ways for Your Computer Upload for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967627564-get-your-free-windows-8-amd-radeon-graphics-software-update-now/"><u>Get Your Free Windows 8 AMD Radeon Graphics Software Update Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>In 2024, Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-honoring-artistry-essential-stop-motion-movies-top-15/"><u>In 2024, Honoring Artistry Essential Stop-Motion Movies (Top 15)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-x7b-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor X7b Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-secure-song-transfers-to-youtube-channel/"><u>In 2024, Secure Song Transfers to Youtube Channel</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/redefining-power-efficiency-a-comprehensive-review-of-apples-revolutionary-arm-based-mac-mini/"><u>Redefining Power Efficiency: A Comprehensive Review of Apple's Revolutionary ARM-Based Mac Mini</u></a></li>
+</ul></div>
 

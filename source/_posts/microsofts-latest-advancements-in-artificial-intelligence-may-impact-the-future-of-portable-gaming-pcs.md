@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-09-18T16:50:32.771Z
-updated: 2024-09-24T07:33:24.069Z
+date: 2024-09-28T23:44:46.502Z
+updated: 2024-09-30T22:24:53.550Z
 tags:
   - deals
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -35,13 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The result is that even the most powerful APUs out there, such as the Z1 Extreme found in the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), have a sizably lower memory bandwidth compared to modern discrete GPUs, even the bottom-of-the-barrel models such as the AMD Radeon RX 6400\. As an example, the maximum memory bandwidth of the ROG Ally is 51.20GB/s, while the RX 6400 has a maximum bandwidth of 128.0GB/s.
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _AMD_
 
@@ -64,10 +57,10 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -77,6 +70,13 @@ _AMD_
  One of the solutions that can reduce latency is placing RAM right next to the APU die or on the die itself, similar to what Apple did with their M [system-on-a-chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC) family. And [by the looks of it](https://tools.techidaily.com/anandtech/products/), Intel is planning to equip its Lunar Lake mobile CPUs, slated to arrive sometime in 2024, with on-package RAM which should solve the high latency issue.
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Intel
 
@@ -95,10 +95,10 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -130,5 +130,22 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-photo-watermarks-apps/"><u>[New] 2024 Approved The Ultimate Guide to iPhone Photo Watermarks Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ideal-selection-of-top-9-mobile-video-collaboration-tools-ios-android/"><u>[New] In 2024, Ideal Selection of Top 9 Mobile Video Collaboration Tools (iOS, Android)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-openings-that-stand-out-today/"><u>[Updated] Free Video Openings That Stand Out Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-title-crafting-with-top-10-ai-tools/"><u>[Updated] Innovative Title Crafting with Top 10 AI Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-playbook-capturing-ps3-game-highlights-for-2024/"><u>[Updated] The Ultimate Playbook Capturing PS3 Game Highlights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-luts-showcase-10-standouts-with-direct-downloads/"><u>2024 Approved Free LUTs Showcase 10 Standouts with Direct Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>2024 Approved How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-movie-reel-revelations-pack/"><u>2024 Approved Prime Movie Reel Revelations Pack</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-x50-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/framing-photos-and-videos-playing-with-text-deformation-for-2024/"><u>Framing Photos & Videos Playing With Text Deformation for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-compatible-drivers-for-all-samsung-printers-on-windows/"><u>Free Download: Compatible Drivers for All Samsung Printers on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-s17-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo S17 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-rotational-photography-versus-3d-scanning/"><u>In 2024, Full-Rotational Photography versus 3D Scanning</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immerse-projects-in-audible-experience-via-premiere-pro/"><u>In 2024, Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-social-media-trends-for-2024/"><u>Infographic - Social Media Trends for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer
-date: 2024-09-17T01:15:13.707Z
-updated: 2024-09-23T20:59:56.687Z
+date: 2024-09-27T20:45:44.976Z
+updated: 2024-09-30T18:42:55.544Z
 tags:
   - deals
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It's easy to [take screenshots](https://fox-http.techidaily.com/new-inside-the-labyroud-of-vrs-latest-creations/) in Windows 10\. However, you can't grab a screenshot that includes your mouse cursor in the image unless you use a workaround or a third-party tool. We'll show you how to do both.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Take Visible Mouse Cursor Screenshots with Steps Recorder
 
  If you want the mouse cursor to show up in your screenshots, then Steps Recorder is one way to do it. It ships with Windows 10, so you don't need to install it separately. To use it, click the search box next to the Start button in Windows 10 and type "Steps Recorder." You can also search in the Start menu, if you prefer that. 
@@ -42,20 +35,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The search results for 'Steps Recorder.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-steps-recorder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Steps Recorder's UI looks a bit barebones, but don't let that put you off. It's a useful troubleshooting tool that takes a screenshot whenever you click on the screen. To start taking screenshots with a visible mouse cursor, press "Start Record" in the Steps Recorder app.
 
 ![Press "Start Record" in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-start-record.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Remember, every time you click, Steps Recorder will capture a snapshot. So, open the app that you need and keep clicking to capture all the screenshots you need. Once you're done, go back to Steps Recorder and click "Stop Record."
 
 ![Press "Stop Record" in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-stop-record.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Steps Recorder app's window will expand to a larger size and show you all the screenshots the app captured. Each screenshot will show the mouse cursor, which achieves our goal.
 
@@ -65,13 +65,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An enlarged screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-enlarged-screenshot.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've enlarged a screenshot, click the maximize button (the square icon) in the top-right corner of the Steps Recorder app. This button is located right next to the close button, denoted by an "X."
 
 ![Maximize the Steps Recorder window in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-maximize.png) 
@@ -79,13 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With the Steps Recorder window maximized, you'll need to take a standard Windows screenshot of the step to convert it to a file. To do so, you can use various ways to [capture screenshots](https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) in Windows 10\. We used the keyboard shortcut Windows+Shift+S to get the job done.
 
 ![Windows 10's built-in screenshot utility. Press Windows+Shift+S to access it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5af9d02f546b5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After capturing a screenshot, you can save it wherever you like and then repeat the process to grab other screenshots. The screenshots might appear compressed, however. If that doesn't suit your needs, you can try using our alternative method below.
 
@@ -97,19 +83,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Go to Options > Capture/Screenshot in IrfanView to take screenshots using the free image editing app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-capture-tool.png) 
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To take a screenshot that includes the mouse cursor, check the option labeled "Include Mouse Cursor" in the "Capture Setup" window, and then click "Start" at the bottom of the window.
 
 ![IrfanView's screenshot capture utility, with the "Include Mouse Cursor" option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-show-mouse-cursor.png) 
@@ -118,7 +91,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Windows 10 screenshot with a visible mouse cursor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-mouse-pointer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To save the screenshot wherever you like, use File > Save As in the menu bar. Alternatively, press "S on the keyboard to quickly open the "Save As" window.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Screenpresso to Capture the Mouse Cursor in Screenshots
 
@@ -126,20 +113,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Right-click the Screenpresso icon, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the "Screenshot" tab, tick the box next to "Capture Mouse Cursor," then click "OK" to apply the new setting. 
 
 ![Click the 'Screenshot' tab, then tick 'Capture Mouse Cursor.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-screenshot-capture-mouse-cursor.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Screenpresso will capture your cursor in all screenshots going forward. It is best to use hotkeys to take screenshots if you want to capture your cursor, otherwise you'll just have a bunch of screenshots with your mouse cursor interacting with the Screenpresso user interface. 
 
 ![The mouse cursor visible in our screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-mouse-cursor.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's how you capture screenshots with a visible mouse cursor on Windows 10\. We covered two third-party options, but most screenshot apps available today have a setting that enables (or disables) cursor capture, you just have to dig around in the app's settings to find it. Now that you have that mastered, you might enjoy learning how to [annotate screenshots](https://techtrends.techidaily.com/the-ultimate-fixes-for-msstdfmtdll-error-message-notifications/) on Windows 10\.
 
@@ -156,5 +150,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficiently-edit-your-youtube-videos-using-sony-vegas/"><u>[New] 2024 Approved Efficiently Edit Your YouTube Videos Using Sony Vegas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-average-to-spectacular-mastering-dynamic-range-portraits/"><u>[New] From Average to Spectacular Mastering Dynamic Range Portraits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-collection-to-showstopper-editing-techniques-for-hauls/"><u>[New] From Collection to Showstopper Editing Techniques for Hauls</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-expert-advice-on-leveraging-youtubes-video-editor/"><u>[Updated] Expert Advice on Leveraging YouTube's Video Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-best-underwater-enhancement-filters/"><u>2024 Approved GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-block-spotifys-predicted-podcast-selections/"><u>2024 Approved How to Block Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-14-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi 14 Pro Unlock Without Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-reno-10-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo Reno 10 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-tutorial-on-effective-co-editing-techniques-for-microsoft-excel-users/"><u>In-Depth Tutorial on Effective Co-Editing Techniques for Microsoft Excel Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-visual-stories-mastering-photo-distortions-in-ps-for-2024/"><u>Innovating Visual Stories Mastering Photo Distortions in PS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-visual-storytelling-drone-techniques-for-2024/"><u>Innovating Visual Storytelling Drone Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-venues-for-immersive-media-for-2024/"><u>Innovative Venues for Immersive Media for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-search-technology-meets-you-bings-ai-powered-android-and-ios/"><u>Seamless Search Technology Meets You - Bing's AI-Powered Android & iOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-laptops-monochrome-crisis-a-guide-to-overcoming-the-black-or-no-screen-error/"><u>Solving Your Laptop's Monochrome Crisis: A Guide to Overcoming the Black or No-Screen Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-network-errors-for-ethernet-devices-on-windows-117-systems/"><u>Troubleshooting Network Errors for Ethernet Devices on Windows 11/7 Systems</u></a></li>
+</ul></div>
 

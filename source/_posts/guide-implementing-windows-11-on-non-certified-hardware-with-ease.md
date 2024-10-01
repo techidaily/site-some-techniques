@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-09-19T19:42:28.102Z
-updated: 2024-09-24T04:39:57.526Z
+date: 2024-09-30T02:44:02.265Z
+updated: 2024-10-01T04:16:27.988Z
 tags:
   - deals
 categories:
@@ -21,25 +21,11 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 * [Registry Hack for Unsupported CPUs and/or Only TPM 1.2](https://mondly-stories.techidaily.com/linguistic-tools-portuguese-shortcuts-in-brazil-and-europe/)
 * [PCs With No TPM at All, No UEFI, or Other Major Problems](https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  To install Windows 11 on an unsupported PC, try making the PC supported by enabling TPM 2.0, Secure Boot, and switching to GPT. If those features cannot be enabled on your PC, you must use a few registry hacks to force Windows 11 to install.
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Upgrade an Unsupported PC?
 
@@ -53,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  In some situations, you can make your PC officially supported with a configuration change or two.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to See Why Your PC Is Unsupported
 
  You can [check if Windows 11 supports your PC](https://remote-screen-capture.techidaily.com/2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/) by downloading and running [Microsoft's PC Health Check app](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck).
@@ -77,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
@@ -101,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 Benj Edwards / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Enable Secure Boot
 
  If PC Health Check reports your computer isn't using [Secure Boot](https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-x6-drfone-by-drfone-virtual-android/), you should also look in UEFI firmware settings for a "Secure Boot" option and enable it, if possible.
@@ -110,6 +90,13 @@ Benj Edwards / How-To Geek
  If you are able to enable Secure Boot, re-run the PC Health Check tool. You can now upgrade normally — assuming Secure Boot was the only problem.
 
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -122,10 +109,10 @@ Benj Edwards / How-To Geek
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
@@ -139,6 +126,13 @@ Benj Edwards / How-To Geek
  To get started, open the Registry Editor. You can press Windows+R, type "regedit", and press Enter, or type "registry" into the Start menu's search box and click the "Registry Editor" shortcut.
 
 ![Launch regedit in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/open-regedit.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type the following address into the address bar in the Registry Editor window (or navigate to it in the left pane):
 
@@ -164,18 +158,18 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click the REG file and click &quot;Yes&quot; to agree.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/reg-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To ensure the change takes effect, reboot your PC before continuing.
 
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
 
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
 
@@ -202,5 +196,23 @@ AllowUpgradesWithUnsupportedTPMOrCPU
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-cameras-of-2024-the-ultimate-rundown/"><u>[New] Innovative Cameras of 2024 The Ultimate Rundown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-selective-soundscape-picks-for-video-editors/"><u>[New] Selective Soundscape Picks for Video Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/"><u>[Updated] FFmpeg Audioscape Maintaining Original Audio Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-fade-music-on-windowsmac/"><u>[Updated] How to Fade Music on Windows/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imovie-why-does-it-alter-my-videos/"><u>[Updated] IMovie Why Does It Alter My Videos?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-scour-these-10-vectors-websites-for-exceptional-quality/"><u>[Updated] In 2024, Scour These 10 Vectors Websites for Exceptional Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-of-digital-tale-construction/"><u>2024 Approved Fundamentals of Digital Tale Construction</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-instagram-storytelling-with-background-tunes-a-how-to-guide/"><u>Enhance Your Instagram Storytelling with Background Tunes: A How-To Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-4k-marvel-sony-xperia-xz-premium-reviewed-for-2024/"><u>Exploring the 4K Marvel Sony Xperia XZ Premium Reviewed for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-f23-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-a25-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy A25 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framework-for-visual-storytelling/"><u>In 2024, Framework for Visual Storytelling</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-6-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 6 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-routines-for-mobile-game-screening/"><u>Prime Routines for Mobile Game Screening</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-driver-issue-resolved-quickly/"><u>Printer Driver Issue Resolved Quickly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tactics-to-overcome-compatibility-hurdles-in-realtek-universal-drivers/"><u>Top Tactics to Overcome Compatibility Hurdles in Realtek Universal Drivers</u></a></li>
+</ul></div>
 

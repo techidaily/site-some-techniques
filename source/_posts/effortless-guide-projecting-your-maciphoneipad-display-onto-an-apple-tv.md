@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Projecting Your Mac/iPhone/iPad Display Onto an Apple TV"
-date: 2024-09-21T17:03:26.775Z
-updated: 2024-09-23T22:12:47.326Z
+date: 2024-09-30T00:21:13.552Z
+updated: 2024-09-30T18:50:45.520Z
 tags:
   - mobile
 categories:
@@ -19,16 +19,10 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
  You can beam all kinds of music and video to your TV with an Apple TV streaming box, but did you know you can also mirror the screen of your iPhone, iPad, or Mac on the big screen? Here's how.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make Sure AirPlay Is Enabled on Your Apple TV
@@ -42,10 +36,16 @@ Close
  With that out of the way, you're ready to mirror your other device's screens to Apple TV.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Mirror an iPhone or iPadScreen to an Apple TV
@@ -77,10 +77,16 @@ Close
 ![1497544344-picsay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/1497544344-picsay.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Apple TV is just showing a blank wallpaper, it's acting as a second display instead of mirroring the screen. To fix this, click the Screen Mirroring icon in the menu bar and open the dropdown menu next to your Apple TV, then select the "Mirror Display" option.
@@ -94,10 +100,10 @@ Close
 ![Screen Mirroring Control Center option on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-mirroring-control-center-option-on-mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever you want to do this again in the future, you won't have to enter in the four-digit code every time—only when you first set it up on your Mac and Apple TV.
@@ -119,5 +125,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-altering-photographic-contrast-for-2024/"><u>[New] The Art of Altering Photographic Contrast for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-backdrops-setting-the-stage-for-streaming/"><u>[Updated] Excellent Backdrops Setting the Stage for Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-haptic-feedback-devices-providers/"><u>[Updated] Foremost Haptic Feedback Devices Providers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/15-recommended-stop-motion-films-of-all-time-for-2024/"><u>15 Recommended Stop Motion Films of All Time for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-the-search-for-master-video-artists/"><u>2024 Approved Navigating the Search for Master Video Artists</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/best-twitter-video-downloaders-how-to-save-twitter-videos/"><u>Best Twitter Video Downloaders How to Save Twitter Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a15-5g-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy A15 5G Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-z-fold-5-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy Z Fold 5 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing-for-2024/"><u>How to Pick a Perfect Virtual Reality Device Is Wireless Vision or Connected Content More Appealing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-8-support-systems-for-high-res-4k-cameras-for-2024/"><u>Ideal 8 Support Systems for High Res 4K Cameras for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-clarity-in-colors-top-5-4k-monitors-showcased/"><u>In 2024, Finding Clarity in Colors Top 5 4K Monitors Showcased</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seek-out-all-shared-media-on-messenger-platform-for-2024/"><u>Seek Out All Shared Media on Messenger Platform for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/two-screen-triumph-best-recorder-verdict/"><u>Two-Screen Triumph Best Recorder Verdict</u></a></li>
+</ul></div>
 

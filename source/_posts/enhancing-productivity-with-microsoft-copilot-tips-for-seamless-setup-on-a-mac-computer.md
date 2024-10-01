@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer"
-date: 2024-09-21T16:14:11.281Z
-updated: 2024-09-23T16:42:47.076Z
+date: 2024-09-24T22:43:46.131Z
+updated: 2024-10-01T03:53:07.509Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Copilot Web App
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
@@ -46,34 +46,15 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
@@ -99,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Copilot on Windows for the Full Experience
 
  Microsoft Copilot on a Mac doesn't give you the deeper system integration you get on Windows—you can't launch apps or control your Bluetooth devices, for example. But it's great for things like getting information, creating lists, basic coding, and generating images. And it works as well through the web app or iPad app as on any other platform.
@@ -116,5 +104,19 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-gnasher-no-cost-and-paid-alternatives-to-lightroom/"><u>[Updated] Gnasher No-Cost & Paid Alternatives to Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-incremental-noise-reduction-using-audacity/"><u>2024 Approved Implementing Incremental Noise Reduction Using Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-audio-alerts-setting-custom-ringtones-and-sounds-on-android-devices/"><u>2024 Approved Tailoring Audio Alerts Setting Custom Ringtones & Sounds on Android Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-potential-tubebuddy-and-channel-mastery/"><u>2024 Approved Unlocking Potential TubeBuddy & Channel Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-risolvere-i-problemi-di-connessione-tra-vlc-e-chromecast/"><u>Come Risolvere I Problemi Di Connessione Tra VLC E Chromecast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/film-titles-that-spur-positive-change-and-action-steps-for-2024/"><u>Film Titles That Spur Positive Change & Action Steps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/harvest-hits-the-next-level-of-virtual-farms/"><u>Harvest Hits The Next Level of Virtual Farms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-the-actual-fix-for-exporting-srt-from-premiere-not-working/"><u>In 2024, The Actual Fix for Exporting SRT From Premiere Not Working</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-11-auditory-capture-devices-reviewed-here/"><u>In 2024, Top 11 Auditory Capture Devices Reviewed Here</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/jujutsu-kaisen-tiktok-a-step-by-step-guide/"><u>Jujutsu Kaisen TikTok A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-instagrams-and-facebooks-ad-innovations/"><u>Unveiling Instagram's and Facebook's Ad Innovations</u></a></li>
+</ul></div>
 

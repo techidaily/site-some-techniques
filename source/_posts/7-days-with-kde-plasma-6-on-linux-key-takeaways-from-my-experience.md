@@ -1,7 +1,7 @@
 ---
 title: "7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience"
-date: 2024-09-18T19:12:12.096Z
-updated: 2024-09-24T07:26:05.164Z
+date: 2024-09-29T17:45:15.214Z
+updated: 2024-09-30T18:42:24.082Z
 tags:
   - desktop
 categories:
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  With [Plasma 6.0 recently released](https://instagram-video-recordings.techidaily.com/new-professional-thumbnails-for-engaging-igtv-posts/), it seemed like a great time to take a serious look at it. I used Plasma exclusively for a week, and this is how it went.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  First Impressions
 
  I installed Plasma on Arch to get a plain-vanilla spin of Plasma. To get work done I need to navigate the file system, launch and install applications, and change settings in the DE.
@@ -76,13 +69,6 @@ Dave McKay/How-To Geek
 
 ![The More Actions window menu in KDE Plasma 6.0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  You can change wallpapers, icons, system sounds, window decorations, and more in the System Settings application, under the "Colors and Themes" section.
@@ -94,6 +80,13 @@ Dave McKay/How-To Geek
  We spend a lot of time in our file browsers, so the easier they are to use the better. The Dolphin browser is an excellent example of what a file browser should be.
 
 ![The KDE Plasma Dolphin file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/8-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -107,6 +100,13 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  And what’s really nice is the Details View has a collapsible tree built right into it.
@@ -116,28 +116,15 @@ Dave McKay/How-To Geek
 ![The drive capacity infomration in the KDE Plasma Dolphin file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/11-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
  Having a list of mounted drives, each with a visual depiction of used and free space, is such a useful feature it makes you wonder why others don’t adopt this.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Default KDE Applications
 
@@ -163,35 +150,9 @@ Dave McKay/How-To Geek
 
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Once installed and launched, LibreOffice looked like any other application in Plasma, with the appropriate window and dialog decorations from the desktop theme.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  KDE Plasma 6.0 Performance
 
@@ -208,10 +169,10 @@ Dave McKay/How-To Geek
 ![The KDE Plasma 6.0 Settings application open at the Quick Settings pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -222,13 +183,34 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 System Settings application open on the General Behavior pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/14-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Stability: Generally Good...
 
  Plasma 6.0 is touted as having much-improved support for Wayland, but I couldn’t get it to work at all. Swapping back to X11 brought everything to life, and no doubt Wayland support will continue to improve. The chatter on forums tells me it works just fine for many people.
 
  I had the Discover app store crash on me a few times, but that was about it. Everything else ran perfectly well, including the applications I manually installed and made heavy use of every day, such as LibreOffice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Will I Stick With Plasma 6.0?
 
@@ -255,5 +237,20 @@ Dave McKay/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-binge-worthy-music-reaction-videos-on-youtube/"><u>[New] 2024 Approved How to Binge-Worthy Music Reaction Videos on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-hot-topic-in-photos-memes-and-their-origin-tales/"><u>[New] Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-review-utilizing-googles-voice-recognition-in-word-processing/"><u>[Updated] Full Review Utilizing Google's Voice Recognition in Word Processing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-direct-video-streaming-sending-fb-vids-straight-into-whatsapp/"><u>[Updated] In 2024, Direct Video Streaming Sending FB Vids Straight Into WhatsApp</u></a></li>
+<li><a href="https://techidaily.com/1-exploring-the-top-spots-ranking-your-visit-to-the-stunning-apple-vision-pro-scenery-with-lake-vrangla-as-a-highlight/"><u>1. Exploring the Top Spots: Ranking Your Visit to the Stunning Apple Vision Pro Scenery, with Lake Vrangla as a Highlight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-combine-zoom-and-google-mail/"><u>2024 Approved Harnessing the Power Combine Zoom & Google Mail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-the-full-story-of-theta-s-technology/"><u>2024 Approved In-Depth Review The Full Story of Theta S Technology</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/editing-like-a-pro-tips-and-tricks-for-sony-camcorder-video-editors/"><u>Editing Like a Pro Tips and Tricks for Sony Camcorder Video Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/from-airwaves-to-archives-online-recording-strategies-for-tv-shows-for-2024/"><u>From Airwaves to Archives Online Recording Strategies for TV Shows for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-your-stuck-warframe-game-running-smoothly-again/"><u>How to Get Your Stuck Warframe Game Running Smoothly Again</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y100 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-speed-files-inspection-on-windows-os/"><u>In 2024, High-Speed Files Inspection on Windows OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/tips-to-find-the-best-videographer-for-2024/"><u>Tips to Find The Best Videographer for 2024</u></a></li>
+</ul></div>
 

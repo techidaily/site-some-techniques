@@ -1,7 +1,7 @@
 ---
 title: "Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices"
-date: 2024-09-20T08:11:49.588Z
-updated: 2024-09-23T20:20:53.880Z
+date: 2024-09-25T21:29:52.010Z
+updated: 2024-10-01T03:24:59.670Z
 tags:
   - deals
 categories:
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Checking remaining storage on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-52-45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To download your images from iCloud, open the Photos app and click on Photos > Settings at the top of the screen. Beneath the “iCloud Photos” checkbox select the “Download Originals to this Mac” radio button. Now wait as Photos downloads everything locally.
 
 ![Enabling original media downloads in macOS Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-54-20.png) 
@@ -64,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
  Switching back to “Optimize Mac Storage” will reverse the decision, removing local media files while keeping them safe in the cloud.
 
  You can also use some of the methods listed below for Windows, Linux, a command line tool, and by requesting data from Apple directly.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Download iCloud Photos on Windows
 
@@ -89,19 +75,19 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![Disabling iCloud Photos warning in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-18.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are other options for Windows users including using the iCloud website, a command line tool, and requesting data from Apple as noted below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download iCloud Photos Using iCloud.com (Works for Linux)
@@ -113,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![Downloading photos from iCloud.com using Firefox for Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-06.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iCloud will download your media in [ZIP file format](https://remote-screen-capture.techidaily.com/new-visual-voyage-amds-radeon-reborn-for-2024/) which you can then extract to a location of your choice. Repeat as necessary to get all of your photos downloaded. iCloud will show you how many items you have selected at a time in the top-right corner of the page, which simplifies this process a bit.
@@ -124,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![iCloud Photos downloading in a ZIP archive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-12.png) 
 
  Linux users can also use the command line utility and request data from Apple as detailed below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Download iCloud Photos With a Command Line Utility
 
@@ -148,20 +141,13 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 ![Downloading iCloud Photos using a mobile browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/icloud-photos.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hit the ellipsis “…” icon in the bottom-right corner of the screen and choose “Download” or “More Download Options” to download the photos to your device.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Download iCloud Photos from Apple Directly
 
@@ -169,9 +155,23 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Apple's Privacy website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-56-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the next screen, check “iCloud Photos” and anything else you’d like a copy of, then hit the blue “Continue” button at the bottom of the page. Your request will be processed by Apple and you’ll eventually receive an invitation to download your data.
 
 ![Request a copy of your iCloud Photos data from Apple.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-57-23.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also use the privacy website to [switch directly from iCloud to Google Photos](https://extra-support.techidaily.com/2024-approved-praise-in-pixels-the-new-marketing-trend/).
 
@@ -194,5 +194,20 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-inexpensive-cloud-storage-providers/"><u>[New] Comparative Analysis Inexpensive Cloud Storage Providers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>[New] Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-overcoming-tiktoks-covert-ban-a-guide-to-re-emerge-for-2024/"><u>[New] Overcoming TikTok's Covert Ban A Guide to Re-Emerge for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-feed-efficiently-adding-multiple-photographs-and-videos-to-ig-for-2024/"><u>[Updated] Enhance Your Feed Efficiently Adding Multiple Photographs & Videos to IG for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-feast-filming-101-essential-food-videography-skills/"><u>[Updated] Feast Filming 101 Essential Food Videography Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-broadcasting-a-guide-to-chroma-key-excellence/"><u>[Updated] Innovative Broadcasting A Guide to Chroma Key Excellence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-picks-top-10-unrivaled-digital-backdrop-switchers/"><u>[Updated] Prime Picks Top 10 Unrivaled Digital Backdrop Switchers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-tool-to-convert-audio-interchange-file-format-aif-to-free-lossless-audio-codec-flac/"><u>Free Online Tool to Convert Audio Interchange File Format (AIF) to Free Lossless Audio Codec (FLAC)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-shipping-secrets-to-surprises-unveiling-new-strategies-for-2024/"><u>From Shipping Secrets to Surprises Unveiling New Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/google-powered-success-in-podcast-submissions-for-2024/"><u>Google-Powered Success in Podcast Submissions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-announcement-ca-aims-to-end-sale-of-gas-cars-by-the-year-2035/"><u>Groundbreaking Announcement: CA Aims to End Sale of Gas Cars by the Year 2035</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fortified-process-for-adding-tiktok-profile-hyperlinks/"><u>In 2024, Fortified Process for Adding TikTok Profile Hyperlinks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-12-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme 12 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-09-21T17:01:34.523Z
-updated: 2024-09-24T01:43:41.336Z
+date: 2024-09-26T21:30:56.489Z
+updated: 2024-10-01T02:21:55.078Z
 tags:
   - desktop
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
@@ -56,6 +49,13 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If you re-use passwords for different services and one of them is breached, the hackers will try the password they stole on other sites to see if you reused it (this is called "[credential stuffing](https://screen-capture.techidaily.com/top-10-must-have-terraria-extensions-for-2024/)"). If you give your logins to a friend (even for your Netflix account), it's out of your control, and they might accidentally disclose it to someone else, leading to additional accounts being compromised in a chain of attacks.
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Don't Ignore Windows Security Prompts (UAC)
 
@@ -85,52 +85,33 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  The best way to do this is to contact them via another communication method. If you receive a suspicious email from a known address, give that person a call directly to confirm that they've asked. If you receive an odd phone call claiming to be from someone you know, hang up and drop them a WhatsApp to check if they made the call before calling them back.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don't Download Strange Software or Attachments, and never Run Macros
 
  Viruses masquerading as legitimate downloads are everywhere on the Internet, just waiting for someone to click on them. Avoid unknown sources of apps and stick to Apple, Android, and Windows App stores whenever you can.
 
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Learn How to use Windows and Your Other Software And Devices
 
@@ -138,15 +119,22 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
@@ -168,5 +156,24 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-the-world-of-youtube-live-visual-representations/"><u>[New] In 2024, Navigating the World of YouTube Live Visual Representations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-interactive-webinar-writer/"><u>[New] Innovative Interactive Webinar Writer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-vidvault-prodigies-mastering-the-download-of-tweeted-videos-for-2024/"><u>[New] VidVault Prodigies Mastering the Download of Tweeted Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-converting-spotify-playlist-content-for-youtube-music-compatibility/"><u>[Updated] In 2024, Converting Spotify Playlist Content for YouTube Music Compatibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-high-quality-fullscreen-recorders-for-desktops/"><u>[Updated] In 2024, High-Quality Fullscreen Recorders for Desktops</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hour-high-viewers-the-best-of-youtube-now/"><u>[Updated] In 2024, Hour-High Viewers The Best of YouTube Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fcp-without-spending-practical-guide/"><u>2024 Approved FCP Without Spending – Practical Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-fade-inout-premiere-pro/"><u>2024 Approved How to Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-key-features-in-vr-headsets-for-2024/"><u>Examining Key Features in VR Headsets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-creation-your-guide-to-googles-audio-upload-for-2024/"><u>From Creation Your Guide to Google's Audio Upload for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-performance-hardware-for-live-video-feeds-for-2024/"><u>High-Performance Hardware for Live Video Feeds for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone X without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expanding-creative-horizons-with-ae-fonts/"><u>In 2024, Expanding Creative Horizons with AE Fonts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-itunes-vibes-into-videos/"><u>In 2024, Incorporating iTunes Vibes Into Videos</u></a></li>
+<li><a href="https://techidaily.com/the-power-of-desktop-widgets-unleashed-time-to-get-on-board/"><u>The Power of Desktop Widgets Unleashed: Time to Get On Board!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-the-reasons-behind-the-postponement-of-wolcen-lords-of-mayhem-release/"><u>Understanding the Reasons Behind the Postponement of Wolcen: Lords of Mayhem Release</u></a></li>
+</ul></div>
 

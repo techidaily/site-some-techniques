@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Compatibility with Windows 11: A Guide to Running Linux Applications"
-date: 2024-09-21T06:58:16.068Z
-updated: 2024-09-24T03:00:33.168Z
+date: 2024-09-28T02:45:27.713Z
+updated: 2024-09-30T20:29:14.464Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Use Ubuntu Apps on Windows 11?
 
  Adding Ubuntu to Windows 11 enables access to a wide variety of free applications unavailable on Windows alone. These aren't just ordinary programs either; they can accomplish nearly any task on your computer, from enhancing your file management to creative projects. For example, if you're looking for a great photo management tool not found on Windows 11, you might try [Shotwell](https://shotwell-project.org/doc/html/) with WSL. Or, if you're not a fan of the email apps available on Windows, you can install the Ubuntu-native [Geary](https://wiki.gnome.org/Apps/Geary) email client. There are many great exclusive applications for Ubuntu that can level up your Windows PC.
@@ -25,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  Furthermore, if you enjoy crafting and coding, the combination of Windows and Ubuntu significantly benefits you. It simplifies the process of working on Linux-oriented projects without the need to leave the Windows environment. This integration reduces complications and amplifies productivity, whether your pursuits involve coding for enjoyment or constructing significant projects.
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Requirements Before You Begin
 
@@ -51,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
@@ -78,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -86,25 +80,18 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -117,15 +104,22 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
 
@@ -161,14 +155,14 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
- Alternatively, applications can be started from the Windows 11 start menu.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Alternatively, applications can be started from the Windows 11 start menu.
 
 ##  Integration with Windows 11
 
@@ -201,5 +195,26 @@ wsl --update
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-desktops-in-focus-free-capture-tutorials/"><u>[New] 2024 Approved Desktops in Focus - Free Capture Tutorials</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>[New] 2024 Approved From Parts to Proficiency Assembling a Powerhouse 4K Video Editor PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fixing-inertia-and-jello-distortions-in-uav-clips/"><u>[New] Fixing Inertia and Jello Distortions in UAV Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-effortlessly-migrate-to-macos-sierra-version/"><u>[New] How-To Effortlessly Migrate to macOS Sierra Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-seamless-transitions-in-song-production-crossfade/"><u>[New] Illuminating Seamless Transitions in Song Production (Crossfade)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>[New] The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-simulation-to-reality-jaunt-vrs-journey/"><u>[Updated] From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-generating-professional-srt-documents/"><u>[Updated] Masterclass Generating Professional SRT Documents</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-ae-title-creation/"><u>2024 Approved Expert Techniques for AE Title Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-choice-optimal-vehicle-monitoring-tech/"><u>2024 Approved Expert's Choice Optimal Vehicle Monitoring Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>2024 Approved From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>2024 Approved Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/10top-pc/"><u>今年推荐的10名TOP PC影片编辑器：功能全面、用户友好！</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-motion-blur-effect-to-photos-in-photoshop-for-2024/"><u>How to Add Motion Blur Effect to Photos in Photoshop for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Itel P55T Phone without Any Data Loss</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-seamless-integration-of-pip-in-microsoft-edge/"><u>In 2024, Expert Tips for Seamless Integration of PIP in Microsoft Edge</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-the-puzzling-dark-screens-in-re8-on-your-desktop-gaming-rig/"><u>Solutions to the Puzzling Dark Screens in RE8 on Your Desktop Gaming Rig</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-speedy-sovol-sv08-a-tribute-to-vorons-legacy/"><u>Unboxing the Speedy Sovol SV08 - A Tribute to Voron's Legacy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-your-typography-easy-tips-to-modify-fonts-in-windows-11/"><u>Upgrade Your Typography: Easy Tips to Modify Fonts in Windows 11</u></a></li>
+</ul></div>
 

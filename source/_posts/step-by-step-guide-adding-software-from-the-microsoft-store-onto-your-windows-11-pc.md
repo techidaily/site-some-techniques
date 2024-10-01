@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Software From the Microsoft Store Onto Your Windows 11 PC"
-date: 2024-09-23T06:41:02.218Z
-updated: 2024-09-23T18:29:26.918Z
+date: 2024-09-28T22:52:02.535Z
+updated: 2024-09-30T21:11:53.034Z
 tags:
   - deals
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
  Windows 10 includes the Microsoft Store, which lets you download free or paid software from the internet. Here's how to install apps from the Store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Free Apps vs. Paid Apps
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Install Software Using the Microsoft Store on Windows 10
@@ -54,15 +54,28 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 ![Search for 'Microsoft store' in the Start menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-microsoft-store.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the "Microsoft Store" app opens, you will see a screen that includes many flashy banners that advertise the latest deals and other promotions.
 
 ![The Microsoft Store advertises all kinds of apps and media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-the-microsoft-store.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
@@ -82,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
@@ -101,19 +114,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
  Once the app is installed, you can launch it by clicking "Launch" or "Play" button located just beside the download progress indicator bar. Or you can open the "Start" menu and browse for the app name in an alphabetical list. Click the app's icon when you find it, and it will launch.
 
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
 
@@ -140,5 +140,21 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/the-goofy-adventure-a-critical-appraisal-videotape-edition-for-2024/"><u>'The Goofy Adventure' - A Critical Appraisal Videotape Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-iphone-the-ultimate-hdr-photo-journey/"><u>[New] Expertise in iPhone The Ultimate HDR Photo Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fixing-the-single-channel-headset/"><u>[New] Fixing the Single-Channel Headset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-compressed-to-captioned-zip-to-srt-effortlessly/"><u>[New] From Compressed To Captioned Zip to .Srt Effortlessly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-youtube-meets-facebook-1080p-live-mastery-guide/"><u>[New] In 2024, YouTube Meets Facebook 1080P Live Mastery Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-swiftrecord-the-quick-windows-11-recorder/"><u>[Updated] 2024 Approved SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dr-power-iii-by-thermaltake-the-latest-update-enhances-compatibility-with-atx-ensuring-accurate-psu-diagnostics/"><u>Dr. Power III by Thermaltake: The Latest Update Enhances Compatibility with ATX 지원, Ensuring Accurate PSU Diagnostics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-integration-of-chatgpt-into-linux-a-step-by-step-walkthrough-using-bavarder/"><u>Effortless Integration of ChatGPT Into Linux - A Step-by-Step Walkthrough Using Bavarder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expanding-possibilities-with-virtual-reality-for-2024/"><u>Expanding Possibilities with Virtual Reality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-microsoft-bluetooth-driver-for-windows-10-11-8-and-7/"><u>How to Get the Newest Microsoft Bluetooth Driver for Windows 10, 11, 8 & 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gigabyte-totals-for-extended-video-playback/"><u>In 2024, Gigabyte Totals for Extended Video Playback</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonys-choice-top-10-songs-that-say-yes/"><u>In 2024, Harmony's Choice Top 10 Songs That Say 'Yes!'</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-blaze-2-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Blaze 2 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-realme-narzo-60x-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme Narzo 60x 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+</ul></div>
 

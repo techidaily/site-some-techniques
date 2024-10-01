@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-09-21T20:28:07.712Z
-updated: 2024-09-23T17:05:52.769Z
+date: 2024-09-24T23:53:44.675Z
+updated: 2024-09-30T18:01:57.667Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,10 +41,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -64,10 +64,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -93,5 +93,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-navigate-apples-podcast-acceptance-policy/"><u>[New] How to Navigate Apple's Podcast Acceptance Policy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-creative-instagram-story-questions-increase-engagement/"><u>[New] In 2024, Creative Instagram Story Questions Increase Engagement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-tiers-of-technology-youtube-gamers-showcase/"><u>[New] In 2024, Top Tiers of Technology YouTube Gamer's Showcase</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-streamers-guide-to-best-free-options-across-every-system/"><u>[New] Ultimate Streamer's Guide to Best Free Options Across Every System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-drone-buddies-kids-most-enjoyed-toy-companions/"><u>[Updated] Best Drone Buddies Kids' Most Enjoyed Toy Companions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategy-for-intertwining-gopro-footage-in-full-circle-cinematographic-works/"><u>[Updated] Expert Strategy for Intertwining GoPro Footage in Full-Circle Cinematographic Works</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>[Updated] Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-black-and-white-to-richness-embracing-hdrs-power-for-2024/"><u>From Black and White to Richness Embracing HDR's Power for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-ce-3-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From OnePlus Nord CE 3 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-redmi-k70-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Redmi K70? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

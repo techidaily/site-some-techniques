@@ -1,7 +1,7 @@
 ---
 title: Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android
-date: 2024-09-23T01:51:01.785Z
-updated: 2024-09-24T04:44:27.873Z
+date: 2024-09-27T23:28:49.916Z
+updated: 2024-10-01T00:37:05.265Z
 tags:
   - mobile
 categories:
@@ -30,18 +30,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Have you ever spent a casual afternoon in stitches because one of your friends kept setting off all the traps? If yes, you know how much fun co-op gaming can be. Alas, Android games that aren't PvP games are hard to come by, so I've curated a list of games that are an absolute blast to play with friends.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 [Otherworld Legends](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en%5FUS) 
 
 _Otherworld Legends_ is my favorite roguelite Android game of all time. It's great to play alone or with up to three other players. The game features several procedurally-generated dungeons with a boss fight at the end of each level, and in the end, you get to the main boss. Like in other similar games, the enemies' health and damage scales with the number of players.
 
  When you die or defeat the final boss, you're taken back to the main hub called the "Living Room," where a rich cast of playable characters and NPCs greets you. Each hero has multiple spells that completely change your playstyle, allowing you and your friends to come up with unique builds and hero combos.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2 [Minecraft](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en%5FUS) 
 
@@ -55,26 +55,26 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
 _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure game you've ever seen. It's one of the few games with 100% cross-platform co-op, meaning you can play it with friends on PC or consoles as well. You spend a lot of time just exploring the world, so it's a perfect game to play while discussing unrelated topics with your friends.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 [Soul Knight](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter) 
 
 _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, as Otherworld Legends. Although these two games have the same pixel art style and share the same core mechanics, they're still distinct games with different feelings, gameplay, characters, enemies, and spells. There's also the [_Soul Knight Prequel_](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel) once you're done with the original game. Just like Otherworlds Legends, you can play co-op with up to three other players.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 [Bloons TD 6](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=en%5FUS) 
@@ -86,16 +86,10 @@ _Bloons TD 6_ is one of the best tower defense games on Android, so it's great t
  If you want a serious co-op game, maybe it's best to get a co-op-only game, which is what we have here with _The Past Within_. The game is a two-player cross-platform co-op game that requires constant communication with your teammate. You're in the same environment, but one of you is in the future, and the other in the past, and you have to work together to solve puzzles in both 2D and 3D. The puzzles aren't too challenging, so it's the perfect type of game to play with [someone who isn't into games](https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/).
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9 [Keep Talking & Nobody Explodes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en%5FUS) 
@@ -103,16 +97,10 @@ _Bloons TD 6_ is one of the best tower defense games on Android, so it's great t
 _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where you have to defuse a bomb before the timer goes off. The catch is that your friends are the ones with the manual, which is purposefully complicated to navigate. The bomb contains up to 11 modules that you have to disarm. The only downside is the relatively steep price tag, but you only need one copy, as the defusal manual is in PDF format and [available online](https://bombmanual.com/) for free.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10 [Pepelo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.Tafusoft.Pepelo&hl=en) 
@@ -152,5 +140,18 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-detailed-insights-into-instagrams-video-time-policy/"><u>[New] Detailed Insights Into Instagram’s Video Time Policy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-harmony-in-transit-relocating-your-loved-songs/"><u>[New] In 2024, Harmony in Transit Relocating Your Loved Songs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-find-your-match-top-4-sites-for-custom-tones/"><u>[Updated] Find Your Match Top 4 Sites for Custom Tones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-raw-to-polished-a-complete-picture-guide/"><u>[Updated] From Raw to Polished A Complete Picture Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fuse-rhythms-into-powerpoint-layouts/"><u>[Updated] Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-techniques-for-integrating-b-roll-sequences/"><u>Essential Techniques for Integrating B-Roll Sequences</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-transform-mp2-files-into-high-quality-flac-format-with-movavi/"><u>Free Online Converter: Transform MP2 Files Into High-Quality FLAC Format with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-start-menu-on-your-windows-11-pc/"><u>How to Repair a Malfunctioning Start Menu on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-flicker-fun-prime-speedy-software-for-systems/"><u>In 2024, Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-definitive-12-tycoon-titles-unmissable-gaming-delights/"><u>In 2024, The Definitive 12 Tycoon Titles - Unmissable Gaming Delights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2024-09-21T04:57:54.461Z
-updated: 2024-09-23T21:47:49.077Z
+date: 2024-09-27T16:28:48.041Z
+updated: 2024-10-01T03:40:18.438Z
 tags:
   - deals
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
@@ -37,13 +30,6 @@ Hannah Stryker / How-To Geek
 
  Copying a file or folder’s path on Windows 11 is as easy as selecting an option in the right-click menu or pressing a keyboard shortcut. We’ll show you how to do it in various ways on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  From the Right-Click Menu
 
  The easiest way to copy a file or folder’s path is by choosing an option in that item’s right-click menu. You can use this method to copy paths for multiple items as well.
@@ -51,6 +37,13 @@ Hannah Stryker / How-To Geek
  To start, [open File Explorer](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) using Windows+E and locate your file or folder. [Right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) that item, and in the open menu, select "Copy as Path."
 
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
@@ -70,6 +63,13 @@ Hannah Stryker / How-To Geek
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  From a File Explorer Toolbar Option
 
  Windows 11’s File Explorer utility has a button on its toolbar to let you copy your file or folder’s path. To use it, open File Explorer, and locate your file or folder and highlight the folder or file.
@@ -81,19 +81,19 @@ Hannah Stryker / How-To Geek
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s it.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Copy the Path of an App
@@ -102,16 +102,16 @@ Hannah Stryker / How-To Geek
 
 ![The 'Target' field highlighted on the 'Properties' window of an app shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-copy-path-app-shortcut-target-field.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the open window, right-click the app again and select "Open File Location."
 
@@ -144,5 +144,16 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gratuitous-goal-games-capturing-kicks-without-costs/"><u>[New] Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-digital-riches-transitioning-youtube-earnings-to-currency/"><u>[Updated] Digital Riches Transitioning YouTube Earnings to Currency</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-craft-professional-episodes-a-comprehensive-guide-to-editing-in-garageband/"><u>[Updated] In 2024, Craft Professional Episodes A Comprehensive Guide to Editing in GarageBand</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-search-of-the-ideal-soundtrack-for-your-boxings/"><u>[Updated] In Search of the Ideal Soundtrack for Your Boxings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-your-channels-the-path-to-higher-youtube-views/"><u>[Updated] Skyrocket Your Channels The Path to Higher YouTube Views</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-tech-gear-our-top-18-webcam-recording-innovations-reviewed/"><u>2024 Approved Ideal Tech Gear Our Top 18 Webcam Recording Innovations Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-vector-graphics-using-the-best-software/"><u>2024 Approved Innovative Approaches to Vector Graphics Using the Best Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8610-driver-update-for-multiple-windows-versions-including-11-8-7-xp-and-vista/"><u>HP Officejet Pro ˈ8610 Driver Update for Multiple Windows Versions Including 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+</ul></div>
 

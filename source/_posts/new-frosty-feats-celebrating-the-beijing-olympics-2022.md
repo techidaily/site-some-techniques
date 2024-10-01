@@ -147,48 +147,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-hd-conversion-elevate-your-views/"><u>[New] Excellence in HD Conversion  Elevate Your Views</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-gamegazers-graphic-guide/"><u>[New] GameGazer's Graphic Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gamers-rejoice-mavic-air-vs-sparks-duel-explored/"><u>[New] Gamers Rejoice! Mavic Air Vs. Spark's Duel Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-time-lapse-videos-with-gopro-studio/"><u>[New] How to Make Time Lapse Videos With GoPro Studio</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-snapchat-share-tweets-via-video/"><u>[New] In 2024, Mastering Snapchat  Share Tweets via Video</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlock-the-power-of-instagram-reels-with-these-strategies/"><u>[New] In 2024, Unlock the Power of Instagram Reels with These Strategies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-double-down-on-youtube-visibility-2-quick-methods-for-2024/"><u>[Updated] Double Down on YouTube Visibility (2 Quick Methods) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-def-phones-with-vlogging-extras/"><u>[Updated] High-Def Phones with Vlogging Extras</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-innovative-text-additions-5-advanced-caption-methods-for-tiktok-for-2024/"><u>[Updated] Innovative Text Additions  5 Advanced Caption Methods for TikTok for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-comedy-codex-a-practical-tutorial-for-gif-creation-for-2024/"><u>[Updated] The Comedy Codex  A Practical Tutorial for GIF Creation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-actionable-tips-on-how-to-post-on-reddit-step-by-step-guide/"><u>2024 Approved  Actionable Tips On How to Post on Reddit - Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-face-edits-leading-iphone-and-android-apps/"><u>2024 Approved  Expert Face Edits  Leading iPhone & Android Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-capacity-card-for-a7s-professional-use/"><u>2024 Approved  High-Capacity Card for A7S Professional Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-premium-hdr-camera-options/"><u>2024 Approved  Identifying Premium HDR Camera Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminating-your-android-videos-a-quick-guide/"><u>2024 Approved  Illuminating Your Android Videos  A Quick Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-edits-navigating-photoshops-eraser-function/"><u>2024 Approved  Seamless Edits  Navigating Photoshop’s Eraser Function</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-guide-to-the-15-top-luts-for-gopro-films-for-2024/"><u>Expert's Guide to The 15 Top LUTs for GoPro Films for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-hand-tracking-an-in-depth-look-for-2024/"><u>Exploring Hand Tracking  An In-Depth Look for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-flat-to-fantastic-3d-text-creation-tips-for-2024/"><u>From Flat to Fantastic  3D Text Creation Tips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/front-rows-of-recreation-beyond-the-sports-arena-for-2024/"><u>Front Rows of Recreation Beyond the Sports Arena for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frostbound-feats-olympic-ice-innovations-for-2024/"><u>Frostbound Feats  Olympic Ice Innovations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-exploration-of-picsarts-new-features-for-2024/"><u>Full Exploration of PicsArt's New Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gentle-silence-how-to-fade-out-music-in-adobe-editing-for-2024/"><u>Gentle Silence  How to Fade Out Music In Adobe Editing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-tide-gear-surfing-camera-innovations-of-2023-for-2024/"><u>High Tide Gear  Surfing Camera Innovations of 2023 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-stream-your-podcast-with-a-click-for-2024/"><u>How to Stream Your Podcast with a Click for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-hub-free-images-galore-across-the-web/"><u>In 2024, Exclusive Hub  Free Images Galore Across the Web</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-fast-windows-picture-sight/"><u>In 2024, Flawless Fast Windows Picture Sight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-logos-sculpt-your-brand-with-stock-imagery/"><u>In 2024, Free Logos  Sculpt Your Brand with Stock Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-expertise-essential-techniques/"><u>In 2024, GoPro Expertise  Essential Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-music-migration-from-one-service-to-another/"><u>In 2024, Harmonizing Music Migration  From One Service to Another</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ice-whizzes-on-display-olympics-22/"><u>In 2024, Ice Whizzes on Display - Olympics '22</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-your-artistic-spirit-find-the-premier-android-drawing-tools/"><u>In 2024, Ignite Your Artistic Spirit  Find the Premier Android Drawing Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-fix-graphic-error-22-no-more/"><u>Kernel Fix: Graphic Error 22 No More</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-guide-to-achieving-video-freeze-effects-on-snapchat-for-2024/"><u>Quick Guide to Achieving Video Freeze Effects on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-process-for-discarding-software-from-your-mac-device/"><u>The Complete Process for Discarding Software From Your Mac Device</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/vpx-film-record-thorough-examination-and-reviews/"><u>VPX Film Record  Thorough Examination & Reviews</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

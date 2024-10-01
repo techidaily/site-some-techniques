@@ -143,39 +143,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-sites-for-secure-and-quick-download-of-youtube-ringtones/"><u>[New] Exclusive Sites for Secure & Quick Download of YouTube Ringtones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>[New] Expertise in Audio File Transformation  From SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-finest-8-websites-3d-and-luxurious-text/"><u>[New] Explore the Finest 8 Websites  3D & Luxurious Text</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fun-on-a-budget-meme-creators-handbook/"><u>[New] Fun on a Budget – Meme Creator’s Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-premium-podcasting-top-mic-picks/"><u>[New] Guide to Premium Podcasting  Top Mic Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitdance-choreographed-videos-go-viral-online/"><u>[New] In 2024, TwitDance  Choreographed Videos Go Viral Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-movie-moment/"><u>[New] Incremental Movie Moment</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-engagement-on-youtube-fending-off-automated-audiences/"><u>[Updated] 2024 Approved  Elevate Engagement on YouTube  Fending Off Automated Audiences</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-recording-and-editing-video-vo/"><u>[Updated] 2024 Approved  Innovative Approaches to Recording and Editing Video VO</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-diving-deep-into-instagrams-new-features/"><u>[Updated] Diving Deep Into Instagram's New Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funnyface-creator/"><u>[Updated] FunnyFace Creator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>[Updated] High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>[Updated] Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-video-warfare-samsung-vs-lg-cam-clash/"><u>[Updated] Immersive Video Warfare  Samsung VS LG Cam Clash</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evolving-narratives-in-the-age-of-vr-movies/"><u>2024 Approved  Evolving Narratives in the Age of VR Movies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-timers-roadmap-earning-money-from-periscope-chats/"><u>2024 Approved  First-Timer's Roadmap  Earning Money From Periscope Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-performance-desktops/"><u>2024 Approved  High Fidelity Performance Desktops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>2024 Approved  Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-lava-blaze-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Lava Blaze 2 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-tp-link-ac1200-wifi-repeater-re305-analysis-and-user-feedback/"><u>Comprehensive TP-Link AC1200 WiFi Repeater RE305 Analysis and User Feedback</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-delivery-to-discovery-enhancing-initial-encounters/"><u>From Delivery to Discovery  Enhancing Initial Encounters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-choose-engaging-tiktok-backgrounds-for-2024/"><u>How to Choose Engaging TikTok Backgrounds for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>In 2024, Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-frame-one-15-key-shot-types-for-film-beginners/"><u>In 2024, From Frame One  15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-selecting-the-finest-displays-for-your-xbox-series-x-console/"><u>In 2024, Game On  Selecting the Finest Displays for Your Xbox Series X Console</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-control-speed-of-instagram-videos-effortlessly/"><u>In 2024, How To Control Speed of Instagram Videos Effortlessly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smile-and-share-easy-memes-via-kinemaster/"><u>In 2024, Smile and Share  Easy Memes via KineMaster</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 Pro?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720672409644-stellar-repairs-not-uniformly-applied-to-all-videos/"><u>Stellar Repairs Not Uniformly Applied to All Videos.</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

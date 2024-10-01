@@ -135,38 +135,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-eyelaughs-funny-image-generator/"><u>[New] EyeLaughs  Funny Image Generator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-notorious-top-20-vlogging-ideas/"><u>[New] From Novice to Notorious  Top 20 Vlogging Ideas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopros-rivalry-with-drift-ghost-the-racing-camera-faceoff/"><u>[New] GoPro's Rivalry with Drift Ghost - The Racing Camera Faceoff</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-fbx-capturing-games-live/"><u>[New] In 2024, Mastering FBX  Capturing Games Live</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-your-viewing-experience-android-and-vr-videos/"><u>[New] Innovating Your Viewing Experience  Android & VR Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos-for-2024/"><u>[Updated] Essential Tips for Incorporating Dynamic Cards in YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-exploring-legal-restrictions-for-broadcasting-content-online-for-2024/"><u>[Updated] Exploring Legal Restrictions for Broadcasting Content Online for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>[Updated] Finding Sound in Silence  3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-raw-footage-to-final-cut-adopting-luts-in-premiere/"><u>[Updated] From Raw Footage to Final Cut  Adopting LUTs in Premiere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-much-money-can-a-podcaster-make/"><u>[Updated] How Much Money Can a Podcaster Make?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-instant-display-image-any-window-os/"><u>[Updated] In 2024, Instant Display Image, Any Window OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>2024 Approved  Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finns-fiscal-flow-income-insights-from-youtube-icon/"><u>2024 Approved  Finn's Fiscal Flow  Income Insights From YouTube Icon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-access-to-top-digital-editing-suites/"><u>2024 Approved  Gratuitous Access to Top Digital Editing Suites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdmi-21-master-list-in-depth-screen-comparisons/"><u>2024 Approved  HDMI 2.1 Master List  In-Depth Screen Comparisons</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-vrs-winning-features-and-faults/"><u>2024 Approved  In-Depth Review  VR's Winning Features & Faults</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-techniques-for-social-dominance/"><u>Cutting-Edge Techniques for Social Dominance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects-for-2024/"><u>Excellence in Video  Selecting Peak Frame Rates for Slow-Motion Effects for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-walkthrough-transferring-visuals-on-apple-devices-for-2024/"><u>Expert Walkthrough  Transferring Visuals on Apple Devices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/firefox-picture-in-picture-explained-for-efficiency-for-2024/"><u>Firefox Picture-in-Picture Explained for Efficiency for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android-for-2024/"><u>From Basic to Bold  Installing Unique, Customizable Ringtones & Sounds on Android for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-6s-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 6s Space | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-sell-your-brand-through-innovative-youtuber-collaborations-for-2024/"><u>How To Sell Your Brand Through Innovative YouTuber Collaborations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>In 2024, Fueling Audience Interaction  Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-performance-goggles-ranked-drone-flyings-best/"><u>In 2024, High-Performance Goggles Ranked  Drone Flying's Best</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies/"><u>In 2024, Ignite Interest  Top 20 Creative and Viral TikTok Caption Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-audio-capture-techniques-for-window-warriors-for-2024/"><u>Top 5 Audio Capture Techniques for Window Warriors for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/video-editing-for-virality-a-comprehensive-guide-to-instagram-success/"><u>Video Editing for Virality  A Comprehensive Guide to Instagram Success</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

@@ -133,53 +133,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ownload-unlimited-mcb-visual-elements-for-2024/"><u>[New] Download Unlimited MCB Visual Elements for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-posts-with-4-effective-video-loop-techniques-for-2024/"><u>[New] Elevate Your Posts with 4 Effective Video Loop Techniques for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-on-demand-media-podcast-or-youtube/"><u>[New] Evaluating On-Demand Media  Podcast or YouTube?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/"><u>[New] FB Profile Picture Dimensions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-filming-flexibility-talent-distribution-license/"><u>[New] Filming Flexibility  Talent Distribution License</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>[New] Get the Perfect Slideshow Design  10 Places to Download for Inspiration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-demystified-a-comprehensive-look/"><u>[New] GoPro Karma Demystified  A Comprehensive Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-honored-proposals-leading-ringtone-creators-iphone/"><u>[New] Honored Proposals  Leading Ringtone Creators iPhone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-trim-and-cut-vimeo-videos-for-2024/"><u>[New] How to Trim and Cut Vimeo Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illuminating-your-android-videos/"><u>[New] Illuminating Your Android Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-2024s-leading-video-recorders-unveiled/"><u>[New] In-Depth Analysis  2024'S Leading Video Recorders Unveiled</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-maximizing-your-iphones-creative-capabilities-for-2024/"><u>[New] Maximizing Your iPhone's Creative Capabilities for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-relaxation-at-your-fingertips-games-you-love-for-2024/"><u>[New] Relaxation at Your Fingertips  Games You Love for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insight-into-budget-friendly-design-portals/"><u>[Updated] Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foremost-gallery-storage-solutions/"><u>[Updated] Foremost Gallery Storage Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-video-maker-login-to-sign-up-guide/"><u>[Updated] Funimate Video Maker  Login to Sign up Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegallery-craft-and-share-your-own-funny-faces/"><u>[Updated] GiggleGallery  Craft and Share Your Own Funny Faces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-speed-sd-accessory-for-sony-a7c-model/"><u>[Updated] High-Speed SD Accessory for Sony A7C Model</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-obtain-perfect-photos-without-marks/"><u>[Updated] How To Obtain Perfect Photos Without Marks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-distortion-made-easy/"><u>[Updated] Image Distortion Made Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-inexpensive-chinese-virtual-reality-helmets/"><u>[Updated] Inexpensive Chinese Virtual Reality Helmets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-android-for-ultimate-3d-playback/"><u>[Updated] Innovative Android for Ultimate 3D Playback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-visual-tools-of-2024-the-ultimate-monitors-list/"><u>[Updated] Innovative Visual Tools of 2024  The Ultimate Monitors List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-follower-to-fanbase-leader-nine-steps-for-instagram-mastery/"><u>2024 Approved  From Follower to Fanbase Leader  Nine Steps for Instagram Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>2024 Approved  Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a6400s-visual-void-finding-video-fix/"><u>A6400's Visual Void - Finding Video Fix</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-techniques-for-navigating-popular-and-trending-youtube-reactions-for-2024/"><u>Expert Techniques for Navigating Popular and Trending YouTube Reactions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-infinite-artistic-possibilities-with-top-10-apps-for-2024/"><u>Explore Infinite Artistic Possibilities with Top 10 Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips  Maximizing Participant Visibility for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hitting-a-pixel-snag-a6400s-video-problems-for-2024/"><u>Hitting a Pixel Snag  A6400's Video Problems for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hottest-online-hubs-for-metallic-3d-type-graphics-for-2024/"><u>Hottest Online Hubs for Metallic 3D Type Graphics for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-got-ringtones-where-to-find-them-online/"><u>In 2024, Exclusive GoT Ringtones - Where to Find Them Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tune-video-playback-pace-in-instagram-stories/"><u>In 2024, Fine-Tune Video Playback Pace in Instagram Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-darkroom-to-digital-mastering-modern-grading-techniques/"><u>In 2024, From Darkroom to Digital  Mastering Modern Grading Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-xml-to-srt-a-step-by-step-solution-approach/"><u>In 2024, From XML to SRT  A Step-by-Step Solution Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-crafting-engaging-stories/"><u>In 2024, Fundamentals of Crafting Engaging Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-future-sighted-the-foremost-cameras-excellence/"><u>In 2024, Future Sighted  The Foremost Cameras Excellence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-movies-innovation-in-recorders/"><u>In 2024, Ghostly Movies  Innovation in Recorders</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-and-incorporate-speech-into-powerpoint-decks/"><u>In 2024, How to Record & Incorporate Speech Into PowerPoint Decks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>In 2024, Image Enhancement 101  Text Addition for PC and Mac Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inexpensive-mirrorless-and-dslr-options-for-2024/"><u>Inexpensive Mirrorless & DSLR Options for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/protecting-data-with-ease-master-the-art-of-stellar-file-eraser-5-on-windows-including-setup-and-scheduling-features/"><u>Protecting Data with Ease: Master the Art of Stellar File Eraser 5 on Windows, Including Setup & Scheduling Features</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

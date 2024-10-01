@@ -134,60 +134,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-premier-selection-of-11-costless-yt-moniker-makers/"><u>[New] 2024 Approved  The Premier Selection of 11 Costless YT Moniker Makers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-tricks-of-trade-remote-recording-mastery/"><u>[New] 2024 Approved  Tricks of Trade  Remote Recording Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-get-more-than-just-images-at-pexelscom/"><u>[New] Get More Than Just Images at Pexels.com</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-double-down-on-your-youtube-success-in-a-month/"><u>[Updated] 2024 Approved  How to Double Down on Your YouTube Success in a Month</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-boosting-social-media-presence-with-effective-fb-instream-ad-plans/"><u>[Updated] Boosting Social Media Presence with Effective FB Instream Ad Plans</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-the-impact-of-aurora-on-home-entertainment/"><u>[Updated] Examining the Impact of Aurora on Home Entertainment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-action-cams-latest-2023-insights/"><u>[Updated] Getting Started with Action Cams – Latest 2023 Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-digital-image-detailing/"><u>[Updated] Getting Started with Digital Image Detailing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hear-the-game-of-thrones-in-your-phone-top-sites-listed/"><u>[Updated] Hear the Game of Thrones in Your Phone - Top Sites Listed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-get-it-right-three-pro-tips-for-lol-gameplay-captures/"><u>[Updated] In 2024, Get It Right  Three Pro Tips for LOL Gameplay Captures</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-crafting-captivating-facebook-stories-for-2024/"><u>[Updated] The Art of Crafting Captivating Facebook Stories for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users/"><u>2024 Approved  Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-magic-6-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor Magic 6 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/clear-your-twitter-timeline-fast-topunfollowtools-revealed-for-2024/"><u>Clear Your Twitter Timeline Fast  #TopUnfollowTools Revealed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/code-224003-cleared-videos-playable-now/"><u>Code 224003 Cleared, Videos Playable Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc-for-2024/"><u>From Parts to Proficiency  Assembling a Powerhouse 4K Video Editor PC for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide-for-2024/"><u>From Script to Screen  Mastery Through Vida’ Writers Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-script-to-screenshot-crafting-viral-meme-gifs-for-2024/"><u>From Script to Screenshot  Crafting Viral Meme GIFs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts-for-2024/"><u>From Simple Images to Creative Stickers  Complete Tutorial for Chat App Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frosty-flourishes-at-the-winter-games-for-2024/"><u>Frosty Flourishes at the Winter Games for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers-for-2024/"><u>Frozen Frenzy  2022'S Ultimate Showdown on Snowy Olympic Rivers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frozen-olympics-spectacular-2022-highlights-for-2024/"><u>Frozen Olympics  Spectacular 2022 Highlights for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fuel-ambition-with-these-10-movie-masterpieces-for-2024/"><u>Fuel Ambition with These 10 Movie Masterpieces for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fueling-audience-interaction-crafting-intriguing-fb-giving-announcements-for-2024/"><u>Fueling Audience Interaction  Crafting Intriguing FB Giving Announcements for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-body-kinetics-report-2023-for-2024/"><u>Full Body Kinetics Report 2023 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-breakdown-the-ultimate-dji-phantom-4-experience-for-2024/"><u>Full Breakdown  The Ultimate DJI Phantom 4 Experience for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-screen-mastery-for-premier-pro-users-for-2024/"><u>Full Screen Mastery for Premier Pro Users for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fundamentals-of-crafting-engaging-stories-for-2024/"><u>Fundamentals of Crafting Engaging Stories for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fundamentals-of-managing-volume-increase-in-projects-for-2024/"><u>Fundamentals of Managing Volume Increase in Projects for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fusing-youtube-beats-into-film-scenes-for-2024/"><u>Fusing YouTube Beats Into Film Scenes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gag-galore-a-treasury-of-no-cost-memes-for-2024/"><u>Gag Galore  A Treasury of No-Cost Memes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-on-mastery-a-critical-review-of-kinemaster-for-android-gamers-2023-for-2024/"><u>Game On Mastery  A Critical Review of KineMaster for Android Gamers 2023 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-enhancing-screens-top-5-for-ps5-and-xbox-gamers-for-2024/"><u>Game-Enhancing Screens  Top 5 for PS5 & Xbox Gamers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-ai-key-strategies-with-chatgpt-for-enhanced-efficiency/"><u>Harness the Power of AI: Key Strategies with ChatGPT for Enhanced Efficiency</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-y78t-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Y78t</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-k70e-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi K70E Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone XS Max</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-note-12-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi Note 12 Pro 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>In 2024, Immersive Storytelling  Harnessing Top 10 Text Innovations in Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-tech-in-everyday-life/"><u>In 2024, Immersive Tech in Everyday Life</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-artificial-intelligence-for-flawless-dungeons-and-dragons-character-creation-chatgpt-plus-dall-e/"><u>Leveraging Artificial Intelligence for Flawless Dungeons & Dragons Character Creation (ChatGPT + DALL-E)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1720600542848-lost-files-found-now-expedited-stellar-data-provision/"><u>Lost Files Found Now - Expedited Stellar Data Provision</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mac-stellar-file-eraser-comprehensive-data-wipe-with-easy-calendar-based-deletion/"><u>Mac Stellar File Eraser: Comprehensive Data Wipe with Easy Calendar-Based Deletion</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/snap-and-share-pcmac-video-recording-for-youtube-for-2024/"><u>Snap & Share  PC/Mac Video Recording for YouTube for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-team-interaction-in-remote-setups-via-chatai/"><u>Streamlining Team Interaction in Remote Setups via ChatAI</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-roadmap-to-obtaining-discounts-on-dell-devices-for-students/"><u>The Complete Roadmap to Obtaining Discounts on Dell Devices for Students</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-fix-the-notorious-leaf-bug-in-apex-legends/"><u>Troubleshooting Guide: How to Fix the Notorious 'Leaf' Bug in Apex Legends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-are-my-keyboard-arrow-keys-failing-discover-the-fixes-you-need/"><u>Why Are My Keyboard Arrow Keys Failing? Discover the Fixes You Need</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-y100a-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y100A Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

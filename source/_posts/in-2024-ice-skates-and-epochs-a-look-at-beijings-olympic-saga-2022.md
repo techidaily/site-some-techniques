@@ -132,57 +132,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cutting-edge-tools-for-seamless-vimeo-video-download/"><u>[New] 2024 Approved  Cutting-Edge Tools for Seamless Vimeo Video Download</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile/"><u>[New] 2024 Approved  Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expertly-chosen-top-5-premium-drones-for-professionals/"><u>[New] Expertly Chosen  Top 5 Premium Drones for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-create-effective-intro-videos-for-your-podcasts/"><u>[New] How to Create Effective Intro Videos for Your Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-overcome-inactive-airdrop-on-multiple-apple-devices/"><u>[New] How to Overcome Inactive AirDrop on Multiple Apple Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-ae-text-styles-for-impact/"><u>[New] Innovative AE Text Styles for Impact</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-behind-the-screen-look-examining-instagram-post-views/"><u>[Updated] 2024 Approved  Behind The Screen Look  Examining Instagram Post Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-blueprint-planning-for-a-resilient-urban-future/"><u>[Updated] 2024 Approved  Green Blueprint  Planning for a Resilient Urban Future</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-color-techniques-for-professional-visual-narratives/"><u>[Updated] Expert Color Techniques for Professional Visual Narratives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-expert-navigating-telegram-web/"><u>[Updated] From Novice to Expert  Navigating Telegram Web</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>[Updated] Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero5-black-meets-yi-4k-the-ultimate-update-for-action-camera-fans/"><u>[Updated] Hero5 Black Meets Yi 4K - The Ultimate Update for Action Camera Fans</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-isolate-frames-as-photos-in-windows-11/"><u>[Updated] How to Isolate Frames as Photos in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-360-degree-rigging-solutions-vr-production/"><u>2024 Approved  360 Degree Rigging Solutions VR Production</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-ai-powered-text-conversion-for-effective-presentations/"><u>2024 Approved  AI-Powered Text Conversion for Effective Presentations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-enhancing-control-over-snapchat-video-speed/"><u>2024 Approved  Expert Advice  Enhancing Control Over Snapchat Video Speed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-fundamentals-of-av1-encoding/"><u>2024 Approved  Exploring the Fundamentals of AV1 Encoding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flashing-lights-of-olympic-speed/"><u>2024 Approved  Flashing Lights of Olympic Speed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-dull-to-vivid-practical-steps-to-revitalize-digital-imagery/"><u>2024 Approved  From Dull to Vivid  Practical Steps to Revitalize Digital Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-get-cheap-quality-gopro-cameras-today/"><u>2024 Approved  How to Get Cheap, Quality GoPro Cameras Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-flying-selecting-the-best-drone-gimbals-today/"><u>2024 Approved  Innovative Flying  Selecting the Best Drone Gimbals Today</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-learn-the-lingo-three-steps-to-deciphering-your-youtube-earning-statements/"><u>2024 Approved  Learn the Lingo  Three Steps to Deciphering Your YouTube Earning Statements</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-photo-and-video-display-apps-from-xi-to-x/"><u>Best Photo & Video Display Apps  From XI to X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/configuring-zoom-step-by-step-video-conference-guide-for-2024/"><u>Configuring Zoom  Step-by-Step Video Conference Guide for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-drivers-enhanced-performance-for-windows-games/"><u>Download Updated NVIDIA Drivers: Enhanced Performance for Windows Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-and-paid-drawing-tools-for-windows-enthusiasts-for-2024/"><u>Free and Paid Drawing Tools for Windows Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-circumference-video-rigging-for-2024/"><u>Full-Circumference Video Rigging for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-8-filters-for-webcam-sharpening/"><u>In 2024, Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>In 2024, From Blurred to Bold  A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>In 2024, From Simple Images to Creative Stickers  Complete Tutorial for Chat App Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>In 2024, Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-and-grins-topical-humor-guides-for-everyone/"><u>In 2024, Giggles and Grins  Topical Humor Guides for Everyone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hall-of-fame-movie-scenarios/"><u>In 2024, Hall of Fame Movie Scenarios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-maximize-google-photos-for-photography-enthusiasts/"><u>In 2024, How to Maximize Google Photos for Photography Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-upgrade-your-iphones-ringtone-selection/"><u>In 2024, How to Upgrade Your iPhone's Ringtone Selection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-passion-in-your-pump-best-exercise-playlists-reviewed/"><u>In 2024, Ignite Passion in Your Pump  Best Exercise Playlists Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-stride-solutions-top-vr-treadmills-reviewed/"><u>In 2024, Innovative Stride Solutions  Top VR Treadmills Reviewed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-no-cost-high-quality-digital-recorder-apps/"><u>In 2024, Top 10 No-Cost, High-Quality Digital Recorder Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-meizu-21-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Meizu 21 Location | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-league-of-legends-lagging-download-woes-quick-fix/"><u>Resolve Your League of Legends Lagging Download Woes - Quick Fix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-data-access-across-devices-learn-to-map-a-network-drive-on-macos/"><u>Seamless Data Access Across Devices: Learn to Map a Network Drive on macOS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/step-by-step-process-to-erase-your-presence-from-chatgpt-platforms/"><u>Step-by-Step Process to Erase Your Presence From ChatGPT Platforms</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-s18-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo S18 Pro Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-x-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone X Making It Possible</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

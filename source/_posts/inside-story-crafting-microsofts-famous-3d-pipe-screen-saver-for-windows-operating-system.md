@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-09-24T01:47:23.478Z
-updated: 2024-10-01T03:56:40.584Z
+date: 2024-10-04T22:22:35.146Z
+updated: 2024-10-06T09:01:15.439Z
 tags:
   - deals
 categories:
@@ -40,24 +40,31 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-accessing-your-subscriber-details-directly-for-2024/"><u>[New] Accessing Your Subscriber Details Directly for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-pixel-perfect-fun-unveiling-the-secrets-of-snapchats-filters/"><u>[Updated] 2024 Approved Pixel Perfect Fun Unveiling the Secrets of Snapchat's Filters</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-beyond-the-standard-unique-augmented-reality-stickers/"><u>[Updated] Beyond the Standard Unique Augmented Reality Stickers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-direct-playback-of-fb-videos-on-home-entertainment-systems-for-2024/"><u>[Updated] Direct Playback of FB Videos on Home Entertainment Systems for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elevating-your-youtube-presence-with-strategic-post-publish-video-updates-for-2024/"><u>[Updated] Elevating Your YouTube Presence with Strategic Post-Publish Video Updates for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gaiety-media-download-review/"><u>2024 Approved Gaiety Media Download Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideas-on-improving-gopros-energy-management/"><u>2024 Approved Ideas on Improving GoPro's Energy Management</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-windows-and-mac-8-best-3d-video-apps-for-free-for-2024/"><u>Explore Windows & Mac 8 Best 3D Video Apps for FREE for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-rog-phone-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus ROG Phone 7?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-leverage-phantoms-retrograde-footage-tech-for-2024/"><u>How to Leverage Phantom’s Retrograde Footage Tech for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-s18e-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo S18e for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-conveying-content-mastering-onestream-livestreams-for-2024/"><u>The Art of Conveying Content Mastering OneStream Livestreams for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>[New] Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foundations-of-fluid-graphics-a-primer/"><u>[New] Foundations of Fluid Graphics A Primer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-futuristic-vr-tech-for-remote-pilots/"><u>[New] Futuristic VR Tech for Remote Pilots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gentle-pace-reducing-music-intensity/"><u>[New] Gentle Pace Reducing Music Intensity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-prime-trivia-2024s-top-11-quiz-channels/"><u>[New] Prime Trivia 2024'S Top 11 Quiz Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[New] Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>[New] The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[Updated] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>[Updated] GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-full-potential-the-laptop-recording-manual/"><u>[Updated] Unlocking Full Potential The Laptop Recording Manual</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-new-frontiers-in-gaming-top-titles-for-rift-vive-and-playstation-vr-for-2024/"><u>Exploring New Frontiers in Gaming Top Titles for Rift, Vive, and PlayStation VR for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ground-rules-of-e-storytelling-techniques/"><u>In 2024, Ground Rules of E-Storytelling Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heavy-haulers-face-off-t5-or-sjcam-s6-legend/"><u>In 2024, Heavy Haulers Face-Off T5 or SJCAM S6 Legend?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-streamlined-processes-transforming-mac-videos-into-snaps/"><u>In 2024, Streamlined Processes Transforming Mac Videos Into Snaps</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/marketing-leadership-update-gabriard-lukianchuk-joins-abbyy-c-suite-as-head-of-marketing/"><u>Marketing Leadership Update: Gabriard Lukianchuk Joins ABBYY C-Suite as Head of Marketing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcasts-features-and-pricing/"><u>New The Great DVR Debate TiVo vs Comcasts Features and Pricing</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-addressing-dev-error-5573-in-call-of-duty-vanguard/"><u>Solution Steps for Addressing Dev Error 5573 in Call of Duty Vanguard</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

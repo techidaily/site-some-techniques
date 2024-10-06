@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-09-26T03:56:37.520Z
-updated: 2024-09-30T19:25:04.457Z
+date: 2024-10-04T17:52:42.141Z
+updated: 2024-10-06T00:51:24.459Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is a Slabtop?
@@ -35,16 +35,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
@@ -58,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  CalDigit USB-C Gen2 Dock
@@ -76,13 +70,6 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Add Your Own Display
 
  Even if you eventually configure your laptop as a fully headless machine, complete with easy remote access, you will need to plug it into something first. You can use any compatible display over HDMI, DisplayPort, Thunderbolt, or whatever it is you have available to you.
@@ -96,6 +83,13 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Getting started with a headless laptop isn't always a smooth process. MacBooks may detect your display device as a secondary display, at which point you will need to hit Command+F1 to switch to Mirroring Mode instead. This will mirror the missing display to whatever it is you've got connected.
 
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Make Your Own Slabtop
 
@@ -136,21 +130,17 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-expand-your-youtube-video-footprint/"><u>[New] How to Expand Your YouTube Video Footprint</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-preferred-options-superior-mac-video-capture-apps/"><u>[Updated] 2024 Approved Preferred Options Superior Mac Video Capture Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>[Updated] Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-insiders-method-for-youtube-livestreaming-in-full-circle/"><u>[Updated] The Insider's Method for Youtube Livestreaming in Full Circle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-zoom-enhanced-videoleap-capture/"><u>2024 Approved Expert Techniques for Zoom-Enhanced Videoleap Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-groundbreaking-footage-starts-here-basics-for-novice-filmmakers/"><u>2024 Approved Groundbreaking Footage Starts Here Basics for Novice Filmmakers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-guide-to-choosing-your-perfect-playstation-or-nintendo-switch/"><u>Essential Guide to Choosing Your Perfect PlayStation or Nintendo Switch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-picks-the-leading-18-webcam-capture-apps-for-2024/"><u>Expert Picks The Leading 18 Webcam Capture Apps for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-mobile-might-the-surprising-reason-phones-excel-like-desktops-yet-dodge-heat-generating-fans/"><u>Exploring Mobile Might: The Surprising Reason Phones Excel Like Desktops Yet Dodge Heat-Generating Fans</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hdr-techniques-for-photoshop-pros-a-step-by-step-guide-for-2024/"><u>HDR Techniques for Photoshop Pros A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-audio-on-your-device-apples-podcast-download-guide/"><u>In 2024, Harnessing the Power of Audio on Your Device Apple's Podcast Download Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-5-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 5 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-access-best-5-convertors-no-download-required/"><u>In 2024, Immediate Access Best 5 Convertors, No Download Required</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovations-in-office-layout-for-enhanced-productivity/"><u>Innovations in Office Layout for Enhanced Productivity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speculations-surrounding-the-apple-ring-insights-on-expected-value-coming-soon-timeline-and-key-features/"><u>Speculations Surrounding the Apple Ring: Insights on Expected Value, Coming Soon Timeline & Key Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-much-video-can-64gb128gb-hold/"><u>[New] How Much Video Can 64GB/128GB Hold?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seize-your-social-media-videos-top-extensions-and-downloaders-for-firefox-for-2024/"><u>[New] Seize Your Social Media Videos! Top Extensions and Downloaders for Firefox for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-obs-full-screen-fix-announced/"><u>[Updated] 2024 Approved Obs Full-Screen Fix Announced</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-culmination-in-virtual-ventures/"><u>[Updated] Ideal Culmination in Virtual Ventures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fresh-perspectives-on-logo-design-for-podcast-brands/"><u>2024 Approved Fresh Perspectives on Logo Design for Podcast Brands</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-soft-sonata-reducing-volume-in-os/"><u>2024 Approved Soft Sonata Reducing Volume in OS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cant-miss-these-buzzing-tiktok-trials-for-2024/"><u>Can't Miss These Buzzing TikTok Trials for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-create-a-funny-meme-for-2024/"><u>How To Create A Funny Meme for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ignite-interest-captivate-views-elevate-likes-on-your-unboxings-for-2024/"><u>Ignite Interest, Captivate Views Elevate Likes on Your Unboxings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-audio-and-video-quality-during-zoom-recordings/"><u>In 2024, Optimizing Audio & Video Quality During Zoom Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photo-perfection-at-your-fingertips-top-10-stickers-on-iphones-and-androids-for-2024/"><u>Photo Perfection at Your Fingertips Top 10 Stickers on iPhones & Androids for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-guide-to-installing-usb-c-drivers-on-windows-10-secure-your-files-now/"><u>Updated Guide to Installing USB-C Drivers on Windows 10 – Secure Your Files Now!</u></a></li>
 </ul></div>
 

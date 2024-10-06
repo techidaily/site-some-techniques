@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-09-30T04:00:49.698Z
-updated: 2024-09-30T18:01:53.763Z
+date: 2024-09-29T23:00:23.236Z
+updated: 2024-10-06T02:02:59.565Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How This Particular Problem Foxes People
@@ -33,13 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  They try to move a file into a directory, and it seems to work. They don’t get a confirmation message, but neither do they get an error message. Linux often takes the no news is good news approach. If you don’t get an error message, it must have worked.
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
 
@@ -55,22 +54,29 @@ ls ~/Downloads/src
     
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
 
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
 
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
 
@@ -83,10 +89,16 @@ ls ~/Documents/backup/
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The original and target directories are both empty. Where did the file go?
@@ -138,21 +150,22 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-digital-diary-top-picks-for-personal-video-devices/"><u>[New] In 2024, Digital Diary Top Picks for Personal Video Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-complete-blueprint-to-record-hulu-playback/"><u>[New] In 2024, The Complete Blueprint to Record Hulu Playback</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-best-youtube-beginnings-15-editing-samples-for-2024/"><u>[Updated] Best YouTube Beginnings 15 Editing Samples for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-content-review-the-best-15-youtube-unboxers-of-2024/"><u>[Updated] Exclusive Content Review The Best 15 YouTube Unboxers of 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-go-pro-karma-drone-review/"><u>[Updated] Go Pro Karma Drone Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hypervision-pro-all-in-one-4k-screen-desks/"><u>[Updated] HyperVision Pro All-in-One 4K Screen Desks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-hues-audio-fade-techniques-in-logic-pro/"><u>2024 Approved Harmonizing Hues Audio Fade Techniques in Logic Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-design-a-post-that-sparks-wide-scale-interest-in-fb-giving/"><u>2024 Approved How to Design a Post That Sparks Wide-Scale Interest in FB Giving</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/file-sync-up-the-5-fundamental-ways-for-your-computer-upload-for-2024/"><u>File Sync-Up The 5 Fundamental Ways for Your Computer Upload for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967627564-get-your-free-windows-8-amd-radeon-graphics-software-update-now/"><u>Get Your Free Windows 8 AMD Radeon Graphics Software Update Now!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>In 2024, Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-honoring-artistry-essential-stop-motion-movies-top-15/"><u>In 2024, Honoring Artistry Essential Stop-Motion Movies (Top 15)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-x7b-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor X7b Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-secure-song-transfers-to-youtube-channel/"><u>In 2024, Secure Song Transfers to Youtube Channel</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/redefining-power-efficiency-a-comprehensive-review-of-apples-revolutionary-arm-based-mac-mini/"><u>Redefining Power Efficiency: A Comprehensive Review of Apple's Revolutionary ARM-Based Mac Mini</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-boundaries-with-syma-x8c-flight/"><u>[New] Exploring the Boundaries with Syma X8C Flight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-lens-takedown-reviews/"><u>[New] Ghostly Lens Takedown Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>[New] Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[New] In 2024, Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-instagram-meets-tiktok-syncing-social-media-for-2024/"><u>[New] Instagram Meets TikTok Syncing Social Media for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-integrating-text-overlays-into-social-media-streaming/"><u>[Updated] 2024 Approved Integrating Text Overlays Into Social Media Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improve-teleconference-experience-fixing-zoom-sound/"><u>[Updated] Improve Teleconference Experience Fixing Zoom Sound</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig/"><u>[Updated] In 2024, Uploading in Bulk A Comprehensive Guide to Multimedia on IG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incredibly-swift-blackouts/"><u>[Updated] Incredibly Swift Blackouts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-giggle-worthy-graphics/"><u>2024 Approved Generate Giggle-Worthy Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-tools-to-craft-top-titles/"><u>2024 Approved Innovative Tools to Craft Top Titles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-to-top-8-free-high-definition-video-players/"><u>In 2024, Exclusive Guide to Top 8 FREE, High Definition Video Players</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/stalker-2-survives-the-onslaught-gamer-community-halts-unnecessary-nft-integration/"><u>STALKER 2 Survives the Onslaught: Gamer Community Halts Unnecessary NFT Integration</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transform-your-text-into-beautiful-design-elements-for-digital-brochures-on-flipbuilder/"><u>Transform Your Text Into Beautiful Design Elements for Digital Brochures on FlipBuilder</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Reno 11F 5G | Dr.fone</u></a></li>
 </ul></div>
 

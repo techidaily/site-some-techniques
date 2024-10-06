@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2024-09-25T00:25:07.806Z
-updated: 2024-09-30T18:22:04.833Z
+date: 2024-09-30T10:14:53.786Z
+updated: 2024-10-06T07:28:53.739Z
 tags:
   - mobile
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Google Goes All In on Generative AI](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-10c-drfone-by-drfone-virtual-android/)
 * [Google Is Still Seeing What Sticks](https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/)
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,10 +40,10 @@ Justin Duino / How-To Geek
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Google
@@ -46,10 +53,10 @@ Google
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google Goes All In on Generative AI
@@ -70,13 +77,6 @@ Justin Duino / How-To Geek
 
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Google
 
  You could also just ask a passerby to snap a quick photo of you as people have been doing since the advent of cameras or use one of those new-fangled “tripods” that holds your camera at the appropriate height and orientation and can remotely click the shutter. At the same time, you stand with the rest of your group. Given how resource-intensive just [running basic queries using AI is compared to conventional searches](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google), I don’t understand how Google can justify developing a feature that solves what problem exactly—interacting with other people in public? Carrying a selfie stick? It's an interesting feature idea, to be sure, and a good showcase of AI's image manipulation powers, but I find it difficult to believe that "getting everybody into the group shot" is a pressing, real-world issue among many of Google's users.
@@ -89,16 +89,16 @@ Google
 
 ![Made by Google sign at Google I/O](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52887793038_f152af5f6d_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
 
@@ -121,22 +121,24 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-navigate-youtubes-studio-editor-to-master-videography/"><u>[New] 2024 Approved Navigate YouTube's Studio Editor to Master Videography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>[New] Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-money-trail-exploring-mr-beasts-path-for-2024/"><u>[New] The Money Trail Exploring Mr. Beast's Path for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-and-alter-sacred-audio-sounds/"><u>[Updated] How to Download and Alter Sacred Audio Sounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-slow-motion-revolution-comprehensive-look-at-2024-version/"><u>[Updated] Slow Motion Revolution Comprehensive Look at 2024 Version</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-checklist-for-professional-youtube-clips/"><u>[Updated] The Ultimate Checklist for Professional YouTube Clips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-future-with-av1-over-vp9/"><u>2024 Approved Exploring the Future with AV1 over VP9</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-venues-expanding-youtube-visibility/"><u>2024 Approved Foremost Venues Expanding YouTube Visibility</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>2024 Approved Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-incorporate-your-podcast-into-app-store/"><u>2024 Approved How To Incorporate Your Podcast Into App Store</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-talk-to-technology-without-spending-money/"><u>2024 Approved Talk to Technology Without Spending Money</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-most-intriguing-movies-on-youtube-streams/"><u>2024 Approved The Most Intriguing Movies on YouTube Streams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-androids-creative-collage-software-haven/"><u>In 2024, Explore Android’s Creative Collage Software Haven</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/"><u>In 2024, GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/sign-xltx-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xltx files Online for Free</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/treamlining-content-creation-with-youtube-rules-for-2024/"><u>[New] Streamlining Content Creation with YouTube Rules for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-bringing-up-the-height-editing-instagram-content-with-fcpx/"><u>[Updated] 2024 Approved Bringing Up the Height Editing Instagram Content with FCPX</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-into-cinematic-quality-using-instagrams-chroma-keying-effect/"><u>[Updated] 2024 Approved Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-the-updated-movavi-video-editor/"><u>[Updated] Evaluating the Updated Movavi Video Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-making-the-most-out-of-mac-preview/"><u>[Updated] Expert Insights Into Making the Most Out of Mac Preview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flamenco-finch-frolic/"><u>[Updated] Flamenco Finch Frolic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-video-filters-in-zoom/"><u>[Updated] How To Add Video Filters In Zoom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-upcoming-airpods-pro-vs-max-a-comparison-of-apples-latest-earbuds-revealed-what-you-need-to-know/"><u>1. Upcoming AirPods Pro vs Max: A Comparison of Apple’s Latest Earbuds Revealed - What You Need to Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-guide-to-announcing-a-charity-drive-on-fb/"><u>2024 Approved A Step-by-Step Guide to Announcing a Charity Drive on FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-html5-video-tools-you-must-check/"><u>2024 Approved Excellent HTML5 Video Tools You Must Check</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-best-10-websites-for-professional-vectors/"><u>2024 Approved Explore Best 10 Websites for Professional Vectors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-front-seat-escapades-beyond-athletic-viewing/"><u>2024 Approved Front Seat Escapades Beyond Athletic Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-end-drones-get-yours-now/"><u>2024 Approved High-End Drones Get Yours Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dying-light-tested-an-intense-cooperative-1st-person-battle-for-survival-with-thrilling-parkour-elements/"><u>Dying Light Tested: An Intense Cooperative, 1St Person Battle for Survival with Thrilling Parkour Elements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideas-on-improving-gopros-energy-management-for-2024/"><u>Ideas on Improving GoPro's Energy Management for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-distorted-monitors-in-win10/"><u>Overcoming Distorted Monitors in Win10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/selecting-the-superior-cloud-storage-hub-for-2024/"><u>Selecting the Superior Cloud Storage Hub for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/mp3m4bmovavi/"><u>オンラインで楽にMP3をM4Bに変換：Movaviの優れたサービスと無料アプリ</u></a></li>
 </ul></div>
 

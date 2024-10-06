@@ -1,7 +1,7 @@
 ---
 title: Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android
-date: 2024-09-27T23:28:49.916Z
-updated: 2024-10-01T00:37:05.265Z
+date: 2024-10-01T18:35:41.938Z
+updated: 2024-10-05T23:31:22.012Z
 tags:
   - mobile
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Have you ever spent a casual afternoon in stitches because one of your friends kept setting off all the traps? If yes, you know how much fun co-op gaming can be. Alas, Android games that aren't PvP games are hard to come by, so I've curated a list of games that are an absolute blast to play with friends.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 [Otherworld Legends](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en%5FUS) 
@@ -46,6 +46,13 @@ _Otherworld Legends_ is my favorite roguelite Android game of all time. It's gre
 ## 2 [Minecraft](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en%5FUS) 
 
 _Minecraft_ is probably the most versatile game you can play with friends, as it's a sandbox where only your creativity is the limit. It features both online and offline multiplayer; you can even play it cross-platform, as long as it's the _Bedrock_ and not the _Java Edition_. While offline is fine if you play it with a family member, I strongly recommend finding or [hosting your own server](https://docs.mcsmanager.com/setup%5Fbedrock%5Fedition.html) so that your friends and you can play independently as well. It also has a default high player limit of 20, which can be increased in server settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 [Gunfire Reborn](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.duoyihk.m2m1&hl=en%5FUS) 
 
@@ -60,22 +67,15 @@ _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five 
 _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure game you've ever seen. It's one of the few games with 100% cross-platform co-op, meaning you can play it with friends on PC or consoles as well. You spend a lot of time just exploring the world, so it's a perfect game to play while discussing unrelated topics with your friends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6 [Soul Knight](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter) 
 
 _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, as Otherworld Legends. Although these two games have the same pixel art style and share the same core mechanics, they're still distinct games with different feelings, gameplay, characters, enemies, and spells. There's also the [_Soul Knight Prequel_](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel) once you're done with the original game. Just like Otherworlds Legends, you can play co-op with up to three other players.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7 [Bloons TD 6](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=en%5FUS) 
 
@@ -86,10 +86,16 @@ _Bloons TD 6_ is one of the best tower defense games on Android, so it's great t
  If you want a serious co-op game, maybe it's best to get a co-op-only game, which is what we have here with _The Past Within_. The game is a two-player cross-platform co-op game that requires constant communication with your teammate. You're in the same environment, but one of you is in the future, and the other in the past, and you have to work together to solve puzzles in both 2D and 3D. The puzzles aren't too challenging, so it's the perfect type of game to play with [someone who isn't into games](https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9 [Keep Talking & Nobody Explodes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en%5FUS) 
@@ -97,10 +103,10 @@ _Bloons TD 6_ is one of the best tower defense games on Android, so it's great t
 _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where you have to defuse a bomb before the timer goes off. The catch is that your friends are the ones with the manual, which is purposefully complicated to navigate. The bomb contains up to 11 modules that you have to disarm. The only downside is the relatively steep price tag, but you only need one copy, as the defusal manual is in PDF format and [available online](https://bombmanual.com/) for free.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10 [Pepelo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.Tafusoft.Pepelo&hl=en) 
@@ -142,16 +148,24 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-detailed-insights-into-instagrams-video-time-policy/"><u>[New] Detailed Insights Into Instagram’s Video Time Policy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-harmony-in-transit-relocating-your-loved-songs/"><u>[New] In 2024, Harmony in Transit Relocating Your Loved Songs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-find-your-match-top-4-sites-for-custom-tones/"><u>[Updated] Find Your Match Top 4 Sites for Custom Tones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-raw-to-polished-a-complete-picture-guide/"><u>[Updated] From Raw to Polished A Complete Picture Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fuse-rhythms-into-powerpoint-layouts/"><u>[Updated] Fuse Rhythms Into PowerPoint Layouts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-techniques-for-integrating-b-roll-sequences/"><u>Essential Techniques for Integrating B-Roll Sequences</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-converter-transform-mp2-files-into-high-quality-flac-format-with-movavi/"><u>Free Online Converter: Transform MP2 Files Into High-Quality FLAC Format with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-start-menu-on-your-windows-11-pc/"><u>How to Repair a Malfunctioning Start Menu on Your Windows 11 PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-flicker-fun-prime-speedy-software-for-systems/"><u>In 2024, Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-definitive-12-tycoon-titles-unmissable-gaming-delights/"><u>In 2024, The Definitive 12 Tycoon Titles - Unmissable Gaming Delights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-advice-enhancing-your-screen-capture-game-with-mobizen-tools-for-2024/"><u>[New] Expert Advice Enhancing Your Screen Capture Game with Mobizen Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-firefox-pip-simplified-for-the-everyday-user/"><u>[New] Firefox PIP Simplified for the Everyday User</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-magix-video-pro-x-journey/"><u>[New] From Novice to Pro Magix Video Pro X Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harness-the-power-of-dual-screen-on-apple-devices-via-safari/"><u>[New] Harness the Power of Dual Screen on Apple Devices via Safari</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-hd-quality-fb-live-broadcast-tips-for-2024/"><u>[New] Maximizing HD Quality FB Live Broadcast Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-stellar-video-beginnings-with-free-tools/"><u>[Updated] 2024 Approved Crafting Stellar Video Beginnings with Free Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-of-crafting-engaging-stories/"><u>[Updated] Fundamentals of Crafting Engaging Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fuse-video-narratives-with-acoustic-elements-in-premiere-pro/"><u>[Updated] Fuse Video Narratives with Acoustic Elements in Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploiting-slow-motion-magic-in-phantom/"><u>2024 Approved Exploiting Slow-Motion Magic in Phantom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>2024 Approved From Concept to Completion Utilizing LUTs Effectively in Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gliding-heroes-the-2022-winter-games/"><u>2024 Approved Gliding Heroes The 2022 Winter Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-vanish-obscuring-elements-and-sharpen-your-images-in-affinity-photo/"><u>2024 Approved How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-graphics-card-driver-for-rtx-2070-super-on-windows-11/"><u>Download and Update Graphics Card Driver for RTX 2070 Super on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-huawei-nova-y91-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Huawei Nova Y91?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-hot-40-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Hot 40 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-photo-display-solutions/"><u>In 2024, Innovative Photo Display Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969507618-latest-amd-smbus-driver-update-fast-simple-installation-steps/"><u>Latest AMD SMBus Driver Update: Fast, Simple Installation Steps!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
 

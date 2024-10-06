@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-09-23T16:54:52.628Z
-updated: 2024-09-30T20:30:27.381Z
+date: 2024-10-02T04:16:17.019Z
+updated: 2024-10-06T07:39:46.438Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 * [Set It and Forget It](https://on-screen-recording.techidaily.com/updated-2024-approved-mp4-screen-grabber-free-easy-access/)
 
  The Linux `timedatectl` command lets you set your time, date, and timezone for your system clock and your real-time clock. Spare a moment, and we'll show you how it all works.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  It's All Relative
 
@@ -50,18 +57,24 @@ timedatectl status
 
 ![The output from the tidedatectl command using the status operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/1-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Actually, you can drop the status and you'll still get the same output.
 
 timedatectl
 
 ![The output from the timedatectl command with no operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/2-4.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both sets of output show:
 
@@ -86,10 +99,16 @@ timedatectl list-timezones | grep "America/" | less
 ![Filtering out American time zones with grep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
@@ -111,20 +130,13 @@ timedatectl
 ![New time zone and time settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Manually Setting the Time and Date
 
@@ -148,6 +160,19 @@ timedatectl
 
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
 
  If you have internet access, as soon as you restore the time synchronization service the time is retrieved and all of the details are correctly reset.
@@ -157,26 +182,6 @@ sudo systemctl start systemd-timesyncd.service
 timedatectl
 
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  RTC: UTC or LTZ?
 
@@ -193,6 +198,19 @@ timedatectl set-local-rtc 1
 timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I think they've made their feelings clear.
 
@@ -223,20 +241,24 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-story-remix-to-edit-a-video-in-windows-11-photos/"><u>[New] How to Use Story Remix to Edit a Video in Windows 11 Photos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/20-greatest-sandbox-experiences-ever-made/"><u>20 Greatest Sandbox Experiences Ever Made</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-images-swift-methods-to-enhance-your-iphone-videography/"><u>2024 Approved Illuminate Images Swift Methods to Enhance Your iPhone Videography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-visual-storytelling-applying-advanced-techniques-with-luts-in-after-effects/"><u>2024 Approved Innovative Visual Storytelling Applying Advanced Techniques with LUTs in After Effects</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-moto-g-stylus-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Moto G Stylus (2023) Phone When You Forget the Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-europes-ai-law-how-will-it-shape-future-of-ai-like-chatgpt/"><u>Deciphering Europe’s AI Law: How Will It Shape Future of AI Like ChatGPT?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/effortless-video-organization-on-mac-top-8-metadata-editors-for-2024/"><u>Effortless Video Organization on Mac Top 8 Metadata Editors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits-for-2024/"><u>From Basics to Brilliance The Ultimate Guide to HDR Portraits for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-80-pro-straight-screen-edition-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 80 Pro Straight Screen Edition 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hues-unleashed-mastery-over-video-editing-colors-for-2024/"><u>Hues Unleashed Mastery over Video Editing Colors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-classic-to-curvy-embracing-distorted-photography-styles/"><u>In 2024, From Classic to Curvy Embracing Distorted Photography Styles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015781048-master-the-art-of-uninterrupted-discord-communication-tackling-audio-problems-head-on/"><u>Master the Art of Uninterrupted Discord Communication - Tackling Audio Problems Head-On</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mobvoi-ticwatch-pro-3-gps-tracking-benefits-of-dual-screens-and-enhanced-battery-performance/"><u>Mobvoi TicWatch Pro 3 GPS Tracking: Benefits of Dual Screens and Enhanced Battery Performance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-winxvideo-enhancements-ai-powered-techniques-for-recording-compressing-and-converting-videos/"><u>Step-by-Step Guide to WinXVideo Enhancements - AI-Powered Techniques for Recording, Compressing & Converting Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-substitutes-for-arconai-tv-down-in-providing-continuous-live-streaming-and-kodi-compatible-entertainment/"><u>Top Substitutes for ArconAI TV Down in Providing Continuous Live Streaming & Kodi-Compatible Entertainment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-speech-to-silence-creating-quality-audio-memos/"><u>[New] From Speech to Silence Creating Quality Audio Memos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-utilize-legal-free-clip-art-resources/"><u>[New] How to Utilize Legal, Free Clip-Art Resources</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-cost-sound-transformation-ultimate-10-youtube-tools/"><u>[New] No-Cost Sound Transformation Ultimate 10 YouTube Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-potential-of-instagrams-live-video-features-for-2024/"><u>[New] Unlocking the Potential of Instagram’s Live Video Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experience-unchained-reviewing-the-panasonic-hx-a1/"><u>2024 Approved Experience Unchained Reviewing the Panasonic HX-A1</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-real-time-to-leisurely-iphone-methods-for-slow-motion-video/"><u>2024 Approved From Real Time to Leisurely IPhone Methods for Slow Motion Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-photographic-overlays-guide/"><u>2024 Approved Harmonious Photographic Overlays Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-make-content-stand-out-the-ultimate-guide-to-youtube-responses/"><u>2024 Approved Make Content Stand Out The Ultimate Guide to YouTube Responses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-business-presentation-boosting-plugins-and-templates-for-2024/"><u>Gratis Business Presentation Boosting Plugins & Templates for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-maximize-your-impact-with-snapchat-spotlight-for-2024/"><u>How to Maximize Your Impact with Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-online-resources-for-glittering-3d-typography/"><u>In 2024, Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-meizu-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Meizu Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flash-frame-fable-framework/"><u>In 2024, Flash Frame Fable Framework</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarityhub-design-memes-with-ease-and-speed/"><u>In 2024, HilarityHub Design Memes with Ease and Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberating-windows-dialogue-with-freedomgpt-engagement/"><u>Liberating Windows Dialogue: With FreedomGPT Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/take-control-of-your-instagram-content/"><u>Take Control of Your Instagram Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-solving-microsoft-wireless-display-adapter-problems-on-windows-10/"><u>Troubleshooting Guide: Solving Microsoft Wireless Display Adapter Problems on Windows 10</u></a></li>
 </ul></div>
 

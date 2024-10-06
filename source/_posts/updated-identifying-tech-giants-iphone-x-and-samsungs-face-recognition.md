@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Identifying Tech Giants  IPhone X & Samsung's Face Recognition\""
-date: 2024-09-18T06:01:21.964Z
-updated: 2024-09-24T07:31:48.769Z
+date: 2024-10-05T00:14:34.355Z
+updated: 2024-10-06T11:26:11.357Z
 tags: 
   - screen-recording
   - ai video
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Which one is more Accuracy?
@@ -61,6 +61,20 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: The Common Inconvenience
 
@@ -71,20 +85,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
 
@@ -101,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -126,5 +126,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-crafting-a-cash-cascade-on-youtube-strategies-beyond-the-ad-model/"><u>[New] 2024 Approved Crafting a Cash Cascade on YouTube Strategies Beyond the Ad Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excessive-tiktok-drafts-simplify-with-smart-editing-techniques/"><u>[New] Excessive TikTok Drafts? Simplify with Smart Editing Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglegridsguild-funnyframefactory/"><u>[New] GiggleGridsGuild FunnyFrameFactory</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-mastery-top-15-dynamic-color-look-up-table-reviews/"><u>[New] GoPro Mastery Top 15 Dynamic Color Look-Up Table Reviews</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unmasked-influence-introducing-the-power-players-of-insta/"><u>[Updated] 2024 Approved Unmasked Influence Introducing the Power Players of Insta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-examination-of-videoshow-24/"><u>[Updated] In-Depth Examination of VideoShow '24</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-positive-reactions-in-a-world-of-negative-comments/"><u>2024 Approved Positive Reactions in a World of Negative Comments</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-rated-3d-tools-for-youtube-video-startups/"><u>2024 Approved Top-Rated 3D Tools for YouTube Video Startups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/football-footage-fundamentals-without-finances-for-2024/"><u>Football Footage Fundamentals Without Finances for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-capacity-sd-card-for-sony-a7s-series-for-2024/"><u>High-Capacity SD Card for Sony A7S Series for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-vector-sites-ranked-1-to-10-for-2024/"><u>High-End Vector Sites Ranked 1 to 10 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>In 2024, The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-with-toms-hardware-insights/"><u>Navigating the World of Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-blurry-to-brilliant-top-video-enhancement-tools-for-2024/"><u>New From Blurry to Brilliant Top Video Enhancement Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/switching-to-low-light-modes-tips-for-iphones/"><u>Switching to Low-Light Modes: Tips for iPhones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/swf-m4v-onlinetransformationcom/"><u>무료 앱으로 스위프(swf)를 M4V로 바꾸기: 모바이비 - Onlinetransformation.com</u></a></li>
+</ul></div>
 

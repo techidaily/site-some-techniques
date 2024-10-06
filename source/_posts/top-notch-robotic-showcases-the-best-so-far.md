@@ -1,7 +1,7 @@
 ---
 title: "Top-Notch Robotic Showcases : The Best So Far!"
-date: 2024-09-20T20:12:54.473Z
-updated: 2024-09-24T05:36:07.648Z
+date: 2024-10-02T06:50:25.482Z
+updated: 2024-10-05T19:07:48.150Z
 tags:
   - cutting-edge
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  While everyone is fixated on generative AI and its implications for knowledge and creative work, robotics have been quietly approaching a similar apparently sudden point of advancement. The year 2024 may well go down in history as the start of the true AI automation revolution for physical labor, and even this early in the year there have been some jaw-dropping demonstrations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Figure 01
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  According to Figure, this is not an edited or cut video, which feels likely to be true thanks to the long processing pauses as the robot "thinks" about what to do or say next, but as always, we only have their word for this until these systems make it into third party hands. Figure is coming in hot with these robots though, with trials already happening in [partnership with BMW](https://techcrunch.com/2024/01/18/bmw-will-deploy-figures-humanoid-robot-at-south-carolina-plant/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Agility Robotics & Amazon's Digit
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  However, perhaps even more impressive was this earlier demo of Digit showing its reasoning ability. What really makes this an amazing demo is that we can see the bot's internal monologue and thought processes as it dynamically reasons its way through the task it's been given verbally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Boston Dynamics Spot V.4 Update
@@ -62,18 +62,18 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  The end result is where the old Spot software version would trip and fall on loose or slippery surfaces, the latest version can keep it together even when grip is nonexistent or the terrain is unpredictable. It might not be the flashiest thing anyone is showing off, but it's a big deal when you need robots to go into places that don't offer a perfectly predictable environment, such as disaster sites or inclement weather.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tesla's Optimus Gen 2
 
  In 2021, I wrote that [Tesla's proposed robot made total sense](https://digital-screen-recording.techidaily.com/updated-in-2024-crafting-new-tones-top-7-recording-changer-applications-reviewed/), and since then we've slowly seen more and more of how far this project has progressed. What started out as a [human dancer in a suit](https://www.youtube.com/watch?v=HUP6Z5voiS8) is now a fully-realized humanoid robot platform. In the Gen 2 demo, we see "Optimus" showing smooth human-like motion, walking at a reasonable (if sedate) pace, and doing the classic egg-manipulation trick with the help of fingertip sensors. A common trope in videos of robot arms for decades now.
 
  The video is quite impressive, but it's not clear what's autonomous, what's pre-programmed, and what's direct tele-operation. Still, to go from having nothing to show to a working hardware platform in such a short time is worth applauding. In [another clip](https://twitter.com/elonmusk/status/1746964887949934958) posted by Elon Musk on X (formerly Twitter) we can see Optimus folding clothes, however Musk then clarified that this [isn't being done autonomously yet](https://twitter.com/elonmusk/status/1746970616060580326). Getting the hopes of lazy people everywhere, just to knock them down again,
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Stanford's Mobile ALOHA
 
@@ -98,5 +98,17 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-exploring-earth-with-high-res-the-mi-drone-review/"><u>[New] In 2024, Exploring Earth with High Res The MI Drone Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-the-dark-we-trust-iphone-photography/"><u>[New] In the Dark We Trust, iPhone Photography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-and-tumbling-sharing-videos-seamlessly/"><u>[Updated] 2024 Approved Tweeting & Tumbling Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-chorus-chamber-capture-save-and-analyze-sound-for-2024/"><u>[Updated] Chorus Chamber Capture, Save & Analyze Sound for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-poco-x6-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Poco X6 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>In 2024, From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-screen-pro-tips-and-tricks-for-editors/"><u>In 2024, Full Screen Pro Tips and Tricks for Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improve-zoo-audio-integrity-in-online-communication/"><u>In 2024, Improve Zoo Audio Integrity in Online Communication</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-behind-the-scenes-of-music-production-a-look-at-the-top-8-best-digital-audio-workstations-for-studio-sound-experts-for-2024/"><u>New Behind the Scenes of Music Production A Look at the Top 8 Best Digital Audio Workstations for Studio Sound Experts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/superior-screens-for-digital-artists-top-picks/"><u>Superior Screens for Digital Artists – Top Picks</u></a></li>
+</ul></div>
 

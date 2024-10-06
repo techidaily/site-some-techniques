@@ -1,7 +1,7 @@
 ---
 title: "Crafting Professional Bios With Artificial Intelligence: Is It Worth the Risk?"
-date: 2024-09-20T18:48:06.465Z
-updated: 2024-09-24T03:57:13.882Z
+date: 2024-10-05T10:20:04.243Z
+updated: 2024-10-06T07:38:51.903Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 * [How to Use AI to Create Top-Notch Cover Letters and Resumes](https://sound-issues.techidaily.com/no-more-quiet-computers-diy-solutions-for-a-lenovo-laptop-that-wont-play-sounds/)
 * [Some Companies Use AI Detection Tools to Scan Cover Letters](https://ai-live-streaming.techidaily.com/updated-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT can create decent resumes & cover letters from scratch and with minimal input.
@@ -25,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 * You can use ChatGPT to refine and improve personalized resumes and cover letters for job applications.
 
  If you're on a job hunt, you know how tedious and time-consuming it is to write cover letters for every single job posting. Enter ChatGPT—it can save you countless hours by tailoring your resume and cover letter for each job application in just a few seconds. However, is there a catch?
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  AI Is Shockingly Good at Creating Cover Letters and Resumes
 
@@ -54,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 ![ChatGPT showing questions for needed to create a resume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-job-quesitons.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Remember, your resume is a concise summary of essential personal information, your greatest achievements, relevant skills, and not much else. Even human-written resumes sound pretty robotic, so the results are more or less in line with the norm. For instance, I told ChatGPT to create a resume and gave it very little information to work with, and here are the results:
@@ -78,6 +66,13 @@ Close
 
  While it sounds as if a middle-schooler wrote it using a template, and you can't expect to land a half-decent job with something like this, it's a decent start. The most important information is at the top, the format is tidy, and ChatGPT even tried to establish a link between my relevant experience and the job requirements. I'll show you a few tricks and tips on how to make an outstanding resume and cover letter shortly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Is It Wrong to Use AI for Your Cover Letter and Resume?
 
  The real question here is whether it's ethical to use AI for job applications. The main argument against AI-generated cover letters and resumes is that [AI is prone to lying](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/).
@@ -89,10 +84,10 @@ Close
  The worst part is that some recruiters won't even read your cover letter but will instead focus on your answers to the application questions. I briefly worked as a recruiter myself, and I'd only read a cover letter when I was on the fence. In such instances, the cover letter is there merely as a supplementary document that satisfies hiring norms. Ultimately, it's up to you to decide whether it's okay to use ChatGPT for your cover letter and resume. If you opt to use it, carefully proofread everything to make sure that there are no lies or half-truths in your job application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use AI to Create Top-Notch Cover Letters and Resumes
@@ -104,13 +99,6 @@ Close
  This is still pretty basic, as I haven't given ChatGPT enough information to work with, but it's serviceable. You can now ask it to identify gaps and help you improve the resume in general to make it even better. It'll give you actionable feedback you can implement immediately to improve your resume.
 
 ![ChatGPT providing feedback on a resume it helped generate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/feedback-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use these same general principles to create a killer cover letter as well. You can go back and forth with ChatGPT until you land on something that you like. You can treat ChatGPT the same way you'd treat a resume consultant. Once you're done generating, first make sure there are no errors in the text. After that, add some personal flair to make sure you stand out from other applicants.
 
@@ -139,5 +127,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-top-quintessential-4k-hd-gear-list/"><u>[New] Exclusive Top Quintessential 4K HD Gear List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-turbocharging-your-instagram-footage/"><u>[New] In 2024, Turbocharging Your Instagram Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>[Updated] Go Beyond Screens How to Watch 360 Videos & VR via Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-landmarks-of-virtual-reality-showcases/"><u>[Updated] Landmarks of Virtual Reality Showcases</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-tracking-visual-storytelling-with-google-collages/"><u>2024 Approved Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-and-purchased-color-tools-for-the-discerning-canon-user/"><u>2024 Approved Free & Purchased Color Tools for the Discerning Canon User</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fresh-approaches-to-instagram-collages-made-simple/"><u>2024 Approved Fresh Approaches to Instagram Collages Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infallible-steps-to-tiktok-bio-link-integration-without-error/"><u>2024 Approved Infallible Steps to TikTok Bio-Link Integration Without Error</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhancing-analytics-through-cookiebot-enabled-sites/"><u>Enhancing Analytics Through Cookiebot-Enabled Sites</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a58-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A58 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hushes-softening-sounds-with-garageband/"><u>In 2024, Harmonious Hushes Softening Sounds with Garageband</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>In 2024, Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-depth-reviews-and-guides-from-the-toms-hardware-team/"><u>In-Depth Reviews & Guides From the Tom's Hardware Team</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sony-ps-players-voice-modification-techniques/"><u>Sony PS Players' Voice Modification Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-tickles-for-young-game-fans-in-2024/"><u>Top Tickles for Young Game Fans, In 2024</u></a></li>
+</ul></div>
 

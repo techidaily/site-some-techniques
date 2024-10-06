@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-09-28T04:10:53.778Z
-updated: 2024-09-30T23:38:44.083Z
+date: 2024-10-01T03:39:05.887Z
+updated: 2024-10-05T17:32:08.614Z
 tags:
   - desktop
 categories:
@@ -37,22 +37,29 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 
  You’ll be prompted to set a system password during setup, usually right after encrypting your hard drive. Make sure to create a [strong, memorable password](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) that’s different from the hard disk password. Using the same password twice makes life far too easy for would-be thieves.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  Set Up Screen Lock 
 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  With the system password set up, you should also make sure screen lock activates after a period of inactivity, and also commit the manual screen lock command (Ctrl+Alt+L) to memory. We can’t stress enough how important it is to do this if you’re in a shared space; not locking your screen opens you up to all kinds of mischief.
 
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Install a VPN 
 
@@ -63,10 +70,10 @@ Jerome Thomas / How-To Geek
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
@@ -87,13 +94,6 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  The penultimate piece of advice is a little exotic, but useful. As you probably know, root privileges let you do anything you want on a Linux machine. The problem is that under very specific circumstances anybody accessing the device remotely through an [SSH tunnel](https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/) can gain those privileges and thus do whatever they want on your laptop.
@@ -101,16 +101,10 @@ Hannah Stryker / How-To Geek
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
@@ -140,20 +134,24 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-amplifying-obs-visual-appeal-with-free-high-quality-luts/"><u>[New] Amplifying OBS Visual Appeal with Free, High-Quality LUTs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-top-15-youtube-recording-software-for-gamers/"><u>[New] In 2024, Top 15 YouTube Recording Software for Gamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>[New] In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmoquery-your-guide-to-video-editing-insights/"><u>[Updated] FilmoQuery Your Guide to Video Editing Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frostbite-finishes-olympic-ice-classics/"><u>[Updated] Frostbite Finishes Olympic Ice Classics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-screen-sharing-in-google-meet-mobiledesktop/"><u>[Updated] In 2024, Navigating Screen Sharing in Google Meet Mobile/Desktop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hues-in-action-implementing-color-schemes-properly/"><u>2024 Approved Hues in Action Implementing Color Schemes Properly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-digital-tools-for-photographic-based-media-conversion/"><u>2024 Approved Ideal Digital Tools for Photographic-Based Media Conversion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-image-editing-excellence-with-top-apps-list/"><u>2024 Approved Image Editing Excellence with Top Apps List</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-compelling-content-with-personalized-video-setups/"><u>Creating Compelling Content with Personalized Video Setups</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-realme-narzo-n53-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Realme Narzo N53</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-experts-selection-top-10-social-media-viewers/"><u>In 2024, Expert's Selection Top 10 Social Media Viewers</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-basics-in-dynamic-design-techniques/"><u>In 2024, Pioneering Basics in Dynamic Design Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/subtle-speech-within-online-communities/"><u>Subtle Speech Within Online Communities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>[New] Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-effective-documentary-scripts/"><u>[New] Innovative Strategies for Effective Documentary Scripts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-packing-list-film-your-excursions/"><u>[New] Packing List Film Your Excursions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-download-gif-images-from-twitter/"><u>[Updated] 2024 Approved How to Download GIF Images From Twitter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-husqvarna-h501x4-fpv-quad-examination/"><u>[Updated] Husqvarna H501X4 FPV Quad Examination</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-futures-palette-the-best-sci-fi-films-crafting-virtual-worlds/"><u>2024 Approved Future's Palette The Best Sci-Fi Films Crafting Virtual Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>2024 Approved Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hottest-online-hubs-for-metallic-3d-type-graphics/"><u>2024 Approved Hottest Online Hubs for Metallic 3D Type Graphics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-free-alternatives-to-watch-shows-on-netflix/"><u>Discover These Free Alternatives to Watch Shows on Netflix</u></a></li>
+<li><a href="https://facebook.techidaily.com/distilling-key-events-that-defined-googles-2022/"><u>Distilling Key Events That Defined Google's 2022</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/easy-guide-converting-vob-files-to-avi-format-using-windows/"><u>Easy Guide: Converting VOB Files to AVI Format Using Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms-for-2024/"><u>Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-periscope-is-it-free-sign-up-process/"><u>In 2024, Getting Started with Periscope Is It Free? Sign-Up Process</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-s23-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy S23 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/indispentic-vr-cinema-must-sees-for-2024/"><u>Indispentic VR Cinema Must-Sees for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-audio-problems-heres-how-to-restore-your-sound/"><u>Realtek Audio Problems? Here's How to Restore Your SOUND!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-un65ru8000fxza-review/"><u>Samsung UN65RU8000FXZA Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-oculus-hardware-issues-effectively/"><u>Solving Oculus Hardware Issues Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-resolving-windows-store-issue-code-0x00000000/"><u>Unraveling and Resolving Windows Store Issue Code 0X00000000</u></a></li>
 </ul></div>
 

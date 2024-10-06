@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-09-25T20:20:46.565Z
-updated: 2024-10-01T00:03:04.926Z
+date: 2024-10-01T23:17:51.257Z
+updated: 2024-10-06T02:27:34.639Z
 tags:
   - mobile
 categories:
@@ -24,10 +24,16 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -41,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -56,10 +62,10 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -87,15 +93,21 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-pushing-the-boundaries-of-titles-in-adobe-ae/"><u>[New] In 2024, Pushing the Boundaries of Titles in Adobe AE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmmakers-guide-to-the-top-10-essential-camera-brands/"><u>[Updated] Filmmaker's Guide to the Top 10 Essential Camera Brands</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-navigating-zoom-setup-for-virtual-gatherings/"><u>[Updated] In 2024, Navigating Zoom Setup for Virtual Gatherings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-brand-identity-accessible-logo-templates-and-editing/"><u>2024 Approved Generate Brand Identity Accessible Logo Templates & Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-fading-techniques-in-live/"><u>2024 Approved Harmonizing Fading Techniques in Live</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-income-statement-pewdiepie-the-youtube-guru/"><u>2024 Approved Income Statement PewDiePie, The YouTube Guru</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/gaining-ground-on-the-groundswell-of-online-viewers-for-2024/"><u>Gaining Ground on the Groundswell of Online Viewers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-it-when-alexa-is-not-responding/"><u>How to Fix It When Alexa Is Not Responding</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c110-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia C110 Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-capture-screen-to-youtube-posting-with-pcmac/"><u>Online Capture Screen-to-YouTube Posting with PC/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>[New] Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-new-frontier-what-makes-triller-stand-out/"><u>[New] Exploring the New Frontier What Makes Triller Stand Out?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-messages-on-whatsapp-status/"><u>[New] Harmonious Messages on WhatsApp Status</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-brand-identity-complimentary-logo-templates-customization/"><u>[New] Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-can-you-stream-fb-videos-on-your-living-room-screen-this-year/"><u>[Updated] 2024 Approved Can You Stream FB Videos On Your Living Room Screen This Year?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfecting-sound-capture-reviewed-mac-compatible-recorders/"><u>[Updated] 2024 Approved Perfecting Sound Capture Reviewed Mac-Compatible Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-spiritual-slow-motion-videoworkshop-for-2024/"><u>[Updated] Spiritual Slow-Motion Videoworkshop for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-iphone-clips-simple-solutions-to-lighten-video/"><u>2024 Approved Illuminate iPhone Clips Simple Solutions to Lighten Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-resolve-network-communication-breakdown-in-windows-error-code-0x800704cf/"><u>Effective Techniques to Resolve Network Communication Breakdown in Windows (Error Code 0X800704CF)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-infinix-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Infinix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-funnier-photos/"><u>In 2024, Fabricate Funnier Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-song-savers-entry-level-access/"><u>In 2024, FB Song Savers Entry Level Access</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-editing-for-fashion-hauls/"><u>In 2024, Harness the Power of Editing for Fashion Hauls</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ase-viewership-fairly-insights-for-video-marketers/"><u>Increase Viewership Fairly Insights for Video Marketers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-nokia-72-critique-a-flagship-contender-in-the-affordable-phone-arena/"><u>The Nokia 7.2 Critique: A Flagship Contender in the Affordable Phone Arena</u></a></li>
 </ul></div>
 

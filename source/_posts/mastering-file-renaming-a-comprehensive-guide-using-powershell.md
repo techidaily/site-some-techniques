@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-09-27T16:05:52.577Z
-updated: 2024-09-30T23:17:18.733Z
+date: 2024-10-03T01:29:32.544Z
+updated: 2024-10-05T21:00:04.438Z
 tags:
   - deals
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -30,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
@@ -56,6 +63,13 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Rename Files in a Folder With an Increasing Number
 
  If you want to add an increasing number, such as 1, 2, 3, and so on, to your files in a specific folder, follow these steps.
@@ -67,17 +81,10 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -89,13 +96,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
  To add text after your file’s name (called a suffix), use the following command, replacing **PATH** with the full path to your folder, and **SUFFIX** with the text to append. Then, press Enter.
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Add Timestamps to All Files in a Folder
 
@@ -126,18 +126,22 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-todays-top-tier-vr-headsets/"><u>[New] Exploring Today's Top-Tier VR Headsets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fast-forward-finesse-in-presentation-media/"><u>[New] Fast-Forward Finesse in Presentation Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-forge-funnies-giphys-playground/"><u>[New] Forge Funnies Giphy's Playground</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>[New] How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fueling-inspiration-crafting-engaging-channel-content/"><u>[New] In 2024, Fueling Inspiration Crafting Engaging Channel Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac/"><u>[New] Incorporating Captions in Photography A User-Friendly Guide on PC & Mac</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>[New] Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-series-exceptional-5-slow-mo-tech/"><u>[Updated] Ultimate Series Exceptional 5 Slow Mo Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-timeless-tech-posed-shots-of-old-iphone-x/"><u>2024 Approved Timeless Tech Posed Shots of Old iPhone X</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-setup-latest-driver-software-and-update-for-brother-mfc-n7860dw-inkjet-printers-windows/"><u>Easy Setup - Latest Driver Software & Update for Brother MFC-N7860DW Inkjet Printers (Windows)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-windows-content-survey-blueprint/"><u>In 2024, Fast Windows Content Survey Blueprint</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-google-pixel-8-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Google Pixel 8 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-sound-issues-a-complete-guide/"><u>Troubleshooting Windows 10 Sound Issues: A Complete Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-friendship-enhancing-virtual-worlds-the-top-10-metaverse-games/"><u>[New] Friendship-Enhancing Virtual Worlds The Top 10 Metaverse Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamlined-social-media-prime-twitter-unfollow-tools-overview-for-2024/"><u>[New] Streamlined Social Media Prime Twitter Unfollow Tools Overview for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-gamer-writes-top-7-fps-games-list-for-2024/"><u>[New] Ultimate Gamer' Writes Top 7 FPS Games List for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-deconstructing-trillers-distinct-identity-in-the-realm-of-social-media/"><u>[Updated] 2024 Approved Deconstructing Triller's Distinct Identity in the Realm of Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-integrate-youtube-playlists-into-your-site/"><u>[Updated] 2024 Approved How to Integrate YouTube Playlists Into Your Site</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>[Updated] Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-laugh-literature-documenting-the-funniest-trends-on-tiktok/"><u>[Updated] In 2024, Laugh Literature Documenting the Funniest Trends on TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-a-photo-video-with-pixiz/"><u>2024 Approved How to Make a Photo Video with Pixiz?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-choices-apps-that-convert-photos-to-films/"><u>2024 Approved Ideal Choices Apps That Convert Photos to Films</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-capturing-kinetic-energy-in-iphone-images/"><u>2024 Approved The Art of Capturing Kinetic Energy in iPhone Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-top-business-vault-for-2024/"><u>Exclusive List Top Business Vault for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fix-for-freezing-photo-booth-videos-that-disrupt-usage-for-2024/"><u>Fix for Freezing Photo Booth Videos That Disrupt Usage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-background-melodies-for-edits/"><u>In 2024, Exquisite Background Melodies for Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-individualized-music-for-engaging-video-conclusions/"><u>In 2024, Free, Individualized Music for Engaging Video Conclusions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-m2p-mpeg/"><u>Movavi의 인내성 강화: 웹에서 무료 M2P MPEG 교리 전환 기술</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-simple-guide-3-methods-to-save-your-favorite-daily-motion-video-downloads/"><u>Quick and Simple Guide: 3 Methods to Save Your Favorite Daily Motion Video Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/smooth-gameplay-awaits-tap-into-your-xbox-wireless-potential-today/"><u>Smooth Gameplay Awaits: Tap Into Your Xbox Wireless Potential Today</u></a></li>
 </ul></div>
 

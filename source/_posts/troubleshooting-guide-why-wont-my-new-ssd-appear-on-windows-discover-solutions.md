@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions"
-date: 2024-09-24T20:24:31.996Z
-updated: 2024-09-30T23:15:23.120Z
+date: 2024-09-30T01:22:12.517Z
+updated: 2024-10-05T20:02:33.473Z
 tags:
   - desktop
 categories:
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
  Right click on the name portion of the disk entry, where it says "Disk \[#\]", and select "Initialize Disk" from the right-click context menu.
@@ -66,51 +59,64 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "OK" and you'll be returned to the main Disk Management window. There you'll find that your disk is now labeled "Basic" and "Online" on the left, but the contents are still "unallocated". Right click on the striped box presenting the unallocated drive space. Select "New Simple Volume".
 
 ![img_57c45c0ad925a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c0ad925a.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will launch the New Simple Volume Wizard to guide you through the process of setting up the disk. In the first step, select how much space you want to include in the volume. By default the number is the full amount of available disk space--unless you're planning on reserving space for additional partitions, there's no reason to change this. Click "Next".
 
 ![img_57c45c8fc3c3e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c8fc3c3e.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the second step, assign a drive letter. The default is probably fine.
 
 ![img_57c45d02176de](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d02176de.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, format the volume. If you're using the volume for routine computing tasks (storing photos, video games, etc.) there's no real need to deviate from the default NTFS file system and settings. Curious about the differences between file systems and why you might use the different options? We've [got you covered](https://extra-approaches.techidaily.com/seamless-multi-screen-browsing-in-chrome-using-pip-for-2024/). Give your volume a name, click "Next", and wait for the format process to finish.
 
 ![img_57c45d3ae14d7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d3ae14d7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the process is complete, you'll see your new drive--allocated, formatted, and ready for action--in the Disk Management disk list.
@@ -134,17 +140,18 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boost-your-content-ranking-of-top-10-video-editors/"><u>[New] Boost Your Content Ranking of Top 10 Video Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-ideas-for-customized-gif-art/"><u>[New] Innovative Ideas for Customized GIF Art</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-seamless-addition-of-youtube-video-selections-for-sites/"><u>[New] Seamless Addition of YouTube Video Selections for Sites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>[Updated] In 2024, OBS Temporal Control Initiating Countdown Features Seamlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-thriving-in-stardew-insiders-guide-to-ginger-island/"><u>[Updated] In 2024, Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-wandering-computer-mouse/"><u>Effortless Fixes for a Wandering Computer Mouse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-netflixs-innovative-multi-stream-feature-for-2024/"><u>Exploring Netflix's Innovative Multi-Stream Feature for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-samsungs-tech-marvel-a-look-at-their-most-recent-mobile-launch/"><u>Exploring Samsung’s Tech Marvel: A Look At Their Most Recent Mobile Launch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/for-beginners-best-film-and-point-shoot-cameras-reviewed-for-2024/"><u>For Beginners Best Film and Point-Shoot Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/implement-xps-video-editing-suite-instantly-for-2024/"><u>Implement XP's Video Editing Suite Instantly for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-play-8t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Play 8T</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-shade-modifier-software/"><u>In 2024, Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-10-insta-management-gadgets-for-boosting-engagement/"><u>[New] 2024 Approved Top 10 Insta Management Gadgets for Boosting Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-maximizing-vscos-potential/"><u>[New] Expert Tips for Maximizing VSCO's Potential</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-picks-for-best-timelapse-tools/"><u>[Updated] In 2024, Expert Picks for Best Timelapse Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-for-effective-image-pairing/"><u>[Updated] Innovative Methods for Effective Image Pairing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-to-elevate-dslrmirrorless-footage/"><u>2024 Approved Gimbal Guide to Elevate DSLR/Mirrorless Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-no-cost-text-animation-methods/"><u>2024 Approved Innovating with No-Cost Text Animation Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-laptops-and-pcs-for-ultimate-comfort/"><u>2024 Approved Top-Tier Laptops & PCs for Ultimate Comfort</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-voicing-freedom-how-to-modify-your-audio-on-instagram-posts/"><u>2024 Approved Voicing Freedom How to Modify Your Audio on Instagram Posts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-gaming-how-to-build-and-prosper-on-youtube-for-2024/"><u>Dive Into Gaming How to Build and Prosper on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-how-to-get-the-free-makemkv-software-for-securely-extracting-drm-from-blu-raydvd-on-your-mac-computer/"><u>Guide: How to Get the Free MakeMKV Software for Securely Extracting DRM From Blu-Ray/DVD on Your Mac Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>In 2024, How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/making-your-camtasia-projects-universal-a-guide-to-transforming-camtasia-files-into-playable-mp4-videos-across-different-media-players/"><u>Making Your Camtasia Projects Universal: A Guide to Transforming .Camtasia Files Into Playable MP4 Videos Across Different Media Players</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Iconic Stop-Motion Animations - #15 Best Ever\""
-date: 2024-08-27T17:49:58.060Z
-updated: 2024-08-28T17:49:58.060Z
+date: 2024-10-02T22:51:35.870Z
+updated: 2024-10-06T07:36:17.711Z
 tags: 
   - screen-recording
   - ai video
@@ -41,8 +41,12 @@ Consuming Spirits is an animated movie about three residents who lead interconne
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. [Coraline](https://www.imdb.com/title/tt0327597/)
 
 Movie Name: Coraline
@@ -57,9 +61,6 @@ Coraline is a film stop motion where an adventurous girl finds a secret door in 
 
 ![coraline](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/)
 
 Movie Name: Fantastic Mr. Fox
@@ -75,8 +76,12 @@ Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into 
 ![fantastic mr.fox](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. [Wallace & Gromit: The Curse of the Were-Rabbit](https://www.imdb.com/title/tt0312004/)
 
 Movie Name: Wallace & Gromit: The Curse of the Were-Rabbit
@@ -91,10 +96,6 @@ The famous animated stop motion film is about Lady Tottington and Wallace, who g
 
 ![wellace & gromit in the curse of the were-rabbit](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### 5\. [Early Man](https://www.imdb.com/title/tt4701724/)
 
 Movie Name: Early Man
@@ -110,8 +111,12 @@ Early Man is yet another stop motion film that got considerable fame. The story 
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. [Kubo and Two Strings](https://www.imdb.com/title/tt4302938/)
 
 Movie Name: Kubo and Two Strings
@@ -127,8 +132,12 @@ Kubo and Two Strings is one of the best stop motion films. The movie is about Ku
 ![kubo and two strings](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 7\. [My Life as a Zucchini](https://www.imdb.com/title/tt2321405/)
 
 Movie Name: My Life as a Zucchini
@@ -143,12 +152,6 @@ My Life as a Zucchini is about an orphan who is sent to the orphanage where he l
 
 ![my life as a zucchini](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### 8\. [Corpse Bride](https://www.imdb.com/title/tt0121164/)
 
 Movie Name: Corpse Bride
@@ -164,8 +167,12 @@ Corpse Bride is one of the best stop motion films in the industry. The story is 
 ![corpse bride](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 9\. [Chicken Run](https://www.imdb.com/title/tt0120630/)
 
 Movie Name: Chicken Run
@@ -195,8 +202,18 @@ Mary and Max is a story about two unlikely people who befriended each other in a
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 11\. [ParaNorman](https://www.imdb.com/title/tt1623288/)
 
 Movie Name: ParaNorman
@@ -211,12 +228,6 @@ ParaNorman is a film stop motion with a fun supernatural story. Norman had a uni
 
 ![paranorman](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 12\. [Missing Link](https://www.imdb.com/title/tt6348138/)
 
 Movie Name: Missing Link
@@ -232,8 +243,12 @@ As the best stop motion film, Missing Link is about Mr.Link, who hired a private
 ![missing link](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 13\. [The Pirates! In An Adventure With Scientists](https://www.imdb.com/title/tt1430626/)
 
 Movie Name: The Pirates! In An Adventure With Scientists
@@ -247,6 +262,19 @@ Quote: "Don't look so worried. I've sailed the seven seas, and I've never had an
 The movie The Pirates! In An Adventure With Scientists is about a Pirate Captain and his crew who want to win the Pirate of the Year Award. They have to travel to the Victorian land and pillage the booty.
 
 ![the pirates in an adventure with scientists](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-13.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 14\. [The Boxtrolls](https://www.imdb.com/title/tt0787474/)
 
@@ -262,9 +290,6 @@ The Boxtrolls is an animated film stop motion where Eggs and Winnie befriend eac
 
 ![the boxtrolls](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### 15\. [The LEGO](https://www.imdb.com/title/tt1490017/)
 
 Movie Name: The LEGO
@@ -305,4 +330,20 @@ The creative industry needs to offer strong animation to bring the audience on t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-physical-action-review/"><u>[New] Full Spectrum Physical Action Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-twist-your-way-through-youtube-mastering-rotation-techniques/"><u>[New] In 2024, Twist Your Way Through YouTube Mastering Rotation Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peak-summit-in-virtual-landscapes/"><u>[New] Peak Summit in Virtual Landscapes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>[Updated] 2024 Approved Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-masterful-video-cropping-elevate-your-content-game-on-instagram/"><u>[Updated] In 2024, Masterful Video Cropping Elevate Your Content Game on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-your-pc-secrets-of-finding-windows-1011-keys/"><u>Decode Your PC: Secrets of Finding Windows 10/11 Keys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>In 2024, Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-your-perfect-match-premium-videographer-recruitment/"><u>In 2024, Finding Your Perfect Match Premium Videographer Recruitment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-creative-zooming-into-video-filters-step-by-step/"><u>In 2024, From Basic to Creative Zooming Into Video Filters Step-by-Step</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-tools-in-live-encoding-technology/"><u>In 2024, Innovative Tools in Live Encoding Technology</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/movie-mastery-for-kids-learn-the-art-of-filmmaking-for-2024/"><u>Movie Mastery for Kids Learn the Art of Filmmaking for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-the-power-of-panel-discussions-with-fb-live-screening-for-2024/"><u>Unlock the Power of Panel Discussions with FB Live Screening for 2024</u></a></li>
+</ul></div>
 

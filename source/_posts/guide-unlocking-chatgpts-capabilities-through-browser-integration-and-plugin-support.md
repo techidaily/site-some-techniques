@@ -1,7 +1,7 @@
 ---
 title: "Guide: Unlocking ChatGPT’s Capabilities Through Browser Integration and Plugin Support"
-date: 2024-09-18T18:33:37.312Z
-updated: 2024-09-23T22:40:23.875Z
+date: 2024-09-29T04:56:43.844Z
+updated: 2024-10-06T02:30:57.517Z
 tags:
   - cutting-edge
 categories:
@@ -20,18 +20,18 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 * [When Should You Use ChatGPT Web Browsing?](https://youtube-lab.techidaily.com/mline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/)
 * [When Should You Use ChatGPT Plugins?](https://visual-screen-recording.techidaily.com/new-eliminate-unwanted-screen-elements-during-cam-record/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To activate Web Browsing and Plugins in ChatGPT, head to Settings > Beta Features and enable these features. You will need ChatGPT Plus to do so. Start a new conversation, set it to GPT-4, and choose either "Browsing" or "Plugins" mode. After enabling Plugins mode, you will need to install plugins from the store.
 
 [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) can now browse the web to find up-to-date information. It also supports other plug-ins---for example, it can turn to Wolfram for computations, OpenTable for restaurant reservations, and Instacart for grocery orders. Here's how to turn these features on.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Enable Web Browsing and Plugins in ChatGPT
 
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turn on the features you want to use here. You can activate either Web Browsing, Plugins, or both. In the future, other beta features may also appear here.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
@@ -60,15 +53,22 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Before you write anything, click on GPT-4 as your preferred model, then click on the dropdown arrow and choose between the Default, Browsing, or Plugins modes.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Install ChatGPT Plugins
@@ -76,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  While you can use the browsing features without any further work, you actually have to activate the plugins you need in plugin mode. Once you've selected the Plugins version of GPT-4, you'll see "No plugins enabled."
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To enable specific plugins, click the dropdown arrow to the right of "No plugins enabled," and then select "Plugin store."
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  Click "OK" to proceed.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose the plugins you want to use and click "Install" to install them for your ChatGPT account. You can also uninstall plugins from your account here. Close the plugin store when you're done.
 
@@ -106,14 +106,14 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you're ready to use plugins with ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use Web Browsing in ChatGPT
 
@@ -122,17 +122,16 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use Plugins in ChatGPT
@@ -140,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  Once the plugins are activated in your settings, you can instruct ChatGPT to employ a specific plugin for a task. For instance, you could type "Use Wolfram to calculate the current distance between the Earth and Mars." ChatGPT will let you know which plugin it used.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT doesn't replicate a standard web browser experience. Instead of presenting the entire webpage, it narrates the page content in a conversational tone, focusing on the information relevant to your query.
 
@@ -174,5 +180,21 @@ Related: [How to (Temporarily) Add New Knowledge to ChatGPT](https://twitter-vid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-analyzing-investment-costs-for-auditory-visual-fusion/"><u>[New] Analyzing Investment Costs For Auditory-Visual Fusion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-futures-best-cameras-in-visual-storytelling-2024-edition/"><u>[Updated] Future's Best Cameras in Visual Storytelling, 2024 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>2024 Approved Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imagepurityplus-professional-photo-editing-suite/"><u>2024 Approved ImagePurityPlus Professional Photo Editing Suite</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-gionee-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Gionee</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-free-text-animation-to-videos-for-2024/"><u>How to Add Free Text Animation to Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-find-youtube-hidden-videos-for-2024/"><u>How to Find YouTube Hidden Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts/"><u>In 2024, Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-access-to-10-superior-lut-resources/"><u>In 2024, Free Access to 10 Superior LUT Resources</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-unlocking-the-joys-of-ifunnys-meme-app/"><u>In 2024, Step-by-Step Unlocking the Joys of iFunny's Meme App</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-16-essential-avi-cutters-simplify-video-editing-on-windows-mac-and-android-for-2024/"><u>New 16 Essential AVI Cutters Simplify Video Editing on Windows, MAC, and Android for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-effective-digital-classrooms-for-aspiring-developers/"><u>The Most Effective Digital Classrooms for Aspiring Developers</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-fashioning-unique-fb-gatherings/"><u>The Ultimate Guide to Fashioning Unique FB Gatherings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-what-to-do-when-you-encounter-msvbvm50dll-error/"><u>Troubleshooting: What To Do When You Encounter MSVBVM50.DLL Error</u></a></li>
+</ul></div>
 

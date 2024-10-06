@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-09-30T02:44:02.265Z
-updated: 2024-10-01T04:16:27.988Z
+date: 2024-10-01T05:43:45.470Z
+updated: 2024-10-06T04:38:10.952Z
 tags:
   - deals
 categories:
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
@@ -72,14 +72,14 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
-Benj Edwards / How-To Geek
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Benj Edwards / How-To Geek
 
 ##  How to Enable Secure Boot
 
@@ -91,13 +91,6 @@ Benj Edwards / How-To Geek
 
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benj Edwards / How-To Geek
 
 ##  How to Fix No UEFI (MBR Instead of GPT)
@@ -107,13 +100,6 @@ Benj Edwards / How-To Geek
  There are several ways to do this. [Microsoft's MBR2GPT tool](https://docs.microsoft.com/en-us/windows/deployment/mbr-to-gpt) may allow you to convert a drive from MBR to GPT format. Microsoft warns that you should only do this if you know your PC supports UEFI, and that you may have to change settings in your PC's firmware to make it boot in UEFI mode rather than legacy BIOS mode afterward.
 
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
 
@@ -127,13 +113,6 @@ Benj Edwards / How-To Geek
 
 ![Launch regedit in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/open-regedit.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the following address into the address bar in the Registry Editor window (or navigate to it in the left pane):
 
 HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
@@ -146,9 +125,23 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
 
 ![Enter &quot;1&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/set-registry-value.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Want to skip the registry-editing process? Download our [Enable Unsupported Upgrades registry hack](https://driver-error.techidaily.com/device-seeks-additional-resources-for-operation/) to perform the change in just a few clicks.
 
@@ -158,6 +151,13 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click the REG file and click &quot;Yes&quot; to agree.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/reg-file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To ensure the change takes effect, reboot your PC before continuing.
 
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
@@ -165,10 +165,10 @@ AllowUpgradesWithUnsupportedTPMOrCPU
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
@@ -198,21 +198,19 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-cameras-of-2024-the-ultimate-rundown/"><u>[New] Innovative Cameras of 2024 The Ultimate Rundown</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-selective-soundscape-picks-for-video-editors/"><u>[New] Selective Soundscape Picks for Video Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/"><u>[Updated] FFmpeg Audioscape Maintaining Original Audio Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-fade-music-on-windowsmac/"><u>[Updated] How to Fade Music on Windows/Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-imovie-why-does-it-alter-my-videos/"><u>[Updated] IMovie Why Does It Alter My Videos?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-scour-these-10-vectors-websites-for-exceptional-quality/"><u>[Updated] In 2024, Scour These 10 Vectors Websites for Exceptional Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-of-digital-tale-construction/"><u>2024 Approved Fundamentals of Digital Tale Construction</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-instagram-storytelling-with-background-tunes-a-how-to-guide/"><u>Enhance Your Instagram Storytelling with Background Tunes: A How-To Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-4k-marvel-sony-xperia-xz-premium-reviewed-for-2024/"><u>Exploring the 4K Marvel Sony Xperia XZ Premium Reviewed for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-f23-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-a25-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy A25 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-framework-for-visual-storytelling/"><u>In 2024, Framework for Visual Storytelling</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-6-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 6 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/prime-routines-for-mobile-game-screening/"><u>Prime Routines for Mobile Game Screening</u></a></li>
-<li><a href="https://driver-error.techidaily.com/printer-driver-issue-resolved-quickly/"><u>Printer Driver Issue Resolved Quickly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-tactics-to-overcome-compatibility-hurdles-in-realtek-universal-drivers/"><u>Top Tactics to Overcome Compatibility Hurdles in Realtek Universal Drivers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft/"><u>[Updated] 2024 Approved Unlocking the Secrets to Effective Screen Capturing with Apeaksoft</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>[Updated] In 2024, Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-podcast-spotlight-listen-and-like-instantly-for-2024/"><u>[Updated] Podcast Spotlight Listen and Like Instantly for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-zoom-etiquette-secrets-to-polite-and-productive-online-chats/"><u>[Updated] The Art of Zoom Etiquette Secrets to Polite and Productive Online Chats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-swift-and-smooth-media-navigation-for-2024/"><u>Expert Strategies for Swift and Smooth Media Navigation for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/script-to-screen-youtube-video-creation-made-simple-for-2024/"><u>From Script to Screen YouTube Video Creation Made Simple for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-cinematography-made-easy-with-ois-technology/"><u>In 2024, High Quality Cinematography Made Easy With OIS Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-activate-auto-hdr-setting-in-windows-11/"><u>In 2024, How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-trimming-techniques-apples-ios-solutions/"><u>In 2024, Image Trimming Techniques Apple's iOS Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-sound-softening-for-professional-productions/"><u>In 2024, Incremental Sound Softening for Professional Productions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-in-motion-capture-for-enhanced-ux/"><u>In 2024, Innovations in Motion Capture for Enhanced UX</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/interactive-features/"><u>Interactive Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-channel-mastery-with-studio-power-ups-for-2024/"><u>Unlocking Channel Mastery with Studio Power-Ups for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-xr-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone XR Passcode without a Computer</u></a></li>
 </ul></div>
 

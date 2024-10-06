@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-09-28T23:44:46.502Z
-updated: 2024-09-30T22:24:53.550Z
+date: 2024-10-02T05:57:16.047Z
+updated: 2024-10-06T11:04:02.980Z
 tags:
   - deals
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -56,13 +56,6 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -72,10 +65,10 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -83,6 +76,13 @@ Intel
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -95,10 +95,10 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -132,20 +132,22 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-photo-watermarks-apps/"><u>[New] 2024 Approved The Ultimate Guide to iPhone Photo Watermarks Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ideal-selection-of-top-9-mobile-video-collaboration-tools-ios-android/"><u>[New] In 2024, Ideal Selection of Top 9 Mobile Video Collaboration Tools (iOS, Android)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-video-openings-that-stand-out-today/"><u>[Updated] Free Video Openings That Stand Out Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-title-crafting-with-top-10-ai-tools/"><u>[Updated] Innovative Title Crafting with Top 10 AI Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-playbook-capturing-ps3-game-highlights-for-2024/"><u>[Updated] The Ultimate Playbook Capturing PS3 Game Highlights for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-luts-showcase-10-standouts-with-direct-downloads/"><u>2024 Approved Free LUTs Showcase 10 Standouts with Direct Downloads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>2024 Approved How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-movie-reel-revelations-pack/"><u>2024 Approved Prime Movie Reel Revelations Pack</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-x50-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/framing-photos-and-videos-playing-with-text-deformation-for-2024/"><u>Framing Photos & Videos Playing With Text Deformation for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-compatible-drivers-for-all-samsung-printers-on-windows/"><u>Free Download: Compatible Drivers for All Samsung Printers on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-s17-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo S17 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-rotational-photography-versus-3d-scanning/"><u>In 2024, Full-Rotational Photography versus 3D Scanning</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immerse-projects-in-audible-experience-via-premiere-pro/"><u>In 2024, Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/infographic-social-media-trends-for-2024/"><u>Infographic - Social Media Trends for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-add-mp3-elements-to-ppt-display-panels/"><u>[New] Add MP3 Elements to PPT Display Panels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-impressive-book-trails-presented/"><u>[New] Impressive Book Trails Presented</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fashion-memes-for-social-sharing-via-adobe/"><u>[Updated] Fashion Memes for Social Sharing via Adobe</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-precision-in-photos-mastering-insta-story-zoom-levels/"><u>[Updated] Precision in Photos Mastering Insta Story Zoom Levels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069717623-updated-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10-for-2024/"><u>[Updated] Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10). For 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-max-360-vs-hero-11-which-takes-the-lead/"><u>2024 Approved GoPro Max 360 vs Hero 11 Which Takes the Lead?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-scrolling-through-youtube-comment-threads/"><u>2024 Approved Guide to Scrolling Through YouTube Comment Threads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elite-e-commerce-destinations-for-specialty-wrapping-art-for-2024/"><u>Elite E-Commerce Destinations for Specialty Wrapping Art for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 8 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>In 2024, Finest Pencil Masters Free vs Paid Windows Apps Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-improve-resilience-against-photos-app-issues-in-windows-11/"><u>In 2024, How to Improve Resilience Against Photos App Issues in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-asus-rog-phone-8-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Asus ROG Phone 8 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-write-a-hit-podcast-script-10plus-examples-revealed/"><u>In 2024, How to Write a Hit Podcast Script (10+ Examples Revealed)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-yt-music-streams-into-videos-for-2024/"><u>Incorporating YT Music Streams Into Videos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-best-software-utilities-for-altering-audio-frequencies/"><u>New Best Software Utilities for Altering Audio Frequencies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-escalating-risks-understanding-the-deterioration-of-generative-ai-safety/"><u>The Escalating Risks: Understanding the Deterioration of Generative AI Safety</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtubes-chief-revenue-generator/"><u>YouTube’s Chief Revenue Generator</u></a></li>
 </ul></div>
 

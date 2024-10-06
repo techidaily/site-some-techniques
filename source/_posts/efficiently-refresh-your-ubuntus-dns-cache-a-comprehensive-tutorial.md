@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-09-27T19:17:26.413Z
-updated: 2024-10-01T03:04:19.955Z
+date: 2024-10-02T21:11:51.269Z
+updated: 2024-10-06T01:14:05.361Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Don’t Forget Your Browser's Cache](https://youtube-tips.techidaily.com/ed-2024-approved-brightening-up-your-youtube-pixels/)
 * [Remember to Flush Your DNS Cache](https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Flushing the DNS cache on Ubuntu with "resolvectl flush-caches" can help troubleshoot connectivity issues and improve network performance.
@@ -33,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Remember to also clear the DNS cache in your internet browsers to ensure all cached data is cleared for troubleshooting.
 
  The domain name resolving service is enabled by default in Ubuntu. That’s fine, it performs a useful service. But it’s worth periodically flushing its buffers, especially if you get flaky connectivity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is DNS Caching?
 
@@ -51,10 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Ubuntu adds its own cache to the mix. By default, the [systemd](https://facebook-clips.techidaily.com/2024-approved-restore-order-fixing-compromised-fb-profile/)\-resolved service is enabled. This caches DNS requests and responses. If a single cache entry (or the whole cache for that matter) becomes corrupted, you can experience connectivity issues with remote servers, web resources, and local devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does Flushing the DNS Cache Do?
@@ -81,11 +81,25 @@ resolvectl statistics
 
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
 
 resolvectl flush-caches
 
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
 
@@ -95,16 +109,16 @@ resolvectl statistics
 
  Our cache size is zero, just as we predicted.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don’t Forget Your Browser's Cache
 
  Your internet browsers have their own caches. If you’re flushing your DNS buffers to try to remove a problem, make a point of doing the same for your browsers.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Firefox
 
@@ -118,13 +132,6 @@ about:networking
 
 ![The Clear DNS Cache button on Firefox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Firefox shows you the most recent entries added to the DNS cache. To clear the cache, click the “Clear DNS Cache” button. I had to refresh the page to see the change, but the cache was definitely purged.
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
@@ -137,26 +144,13 @@ chrome://net-internals/#dns
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Remember to Flush Your DNS Cache
@@ -180,22 +174,18 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>[New] 2024 Approved Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-film-flair-in-frame-up-smart-setup-tips-for-stellar-videos/"><u>[New] Film Flair in Frame-Up Smart Setup Tips for Stellar Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fusionvisualizer-ipadplusmacmedia-combining-tool/"><u>[New] FusionVisualizer IPad+MacMedia Combining Tool</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ingenious-ways-to-alter-track-pace-on-spotify-app/"><u>[New] Ingenious Ways to Alter Track Pace on Spotify App</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-cameo-review/"><u>[Updated] 2024 Approved Vimeo Cameo Review</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-must-know-definition-of-digital-storytelling/"><u>[Updated] Must-Know Definition of Digital Storytelling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques/"><u>2024 Approved From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-superior-selection-winning-16-free-video-tools/"><u>2024 Approved Superior Selection Winning 16 Free Video Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exceptional-audioscape-for-cinematic-videos-for-2024/"><u>Exceptional Audioscape for Cinematic Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/for-every-level-of-filmmaker-our-top-10-camera-picks-for-2024/"><u>For Every Level of Filmmaker, Our Top 10 Camera Picks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-calm-to-captivating-techniques-for-motion-blur-mastery-for-2024/"><u>From Calm to Captivating Techniques for Motion Blur Mastery for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-video-to-live-photo-best-conversion-apps-and-methods-for-2024/"><u>From Video to Live Photo Best Conversion Apps and Methods for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>In 2024, Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-7-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 7 Apple ID on MacBook</u></a></li>
-<li><a href="https://techidaily.com/optimieren-sie-ihre-buchhaltungsautomatisierung-mit-verbesserter-ocr-und-texterkennungsfunktionen-von-abbyy/"><u>Optimieren Sie Ihre Buchhaltungsautomatisierung Mit Verbesserter OCR- Und Texterkennungsfunktionen Von ABBYY</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/snatching-twitter-laughter-3-pc-techniques-for-2024/"><u>Snatching Twitter Laughter 3 PC Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-mp4-video-downloader-review-for-2024/"><u>[Updated] Comprehensive MP4 Video Downloader Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers/"><u>[Updated] Explore Virtual Worlds PC's #1 List of VR 360 Game Streamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-side-content-a-filmmakers-guide/"><u>[Updated] Incorporating Side Content A Filmmaker's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-peak-of-data-preservation-cloud-service-guide/"><u>[Updated] The Peak of Data Preservation Cloud Service Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-z370p-d3-motherboard-drivers-secure-and-fast-download-options/"><u>Essential Z370P D3 Motherboard Drivers – Secure & Fast Download Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fists-vs-followers-choosing-the-champion-for-2024/"><u>Fists vs Followers Choosing the Champion for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-your-steelseries-arctis-5s-built-in-mic/"><u>How to Restore Functionality of Your SteelSeries Arctis 5'S Built-In Mic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extract-srt-from-zip-simple-subtitle-file-creation-tips/"><u>In 2024, Extract SRT From ZIP Simple Subtitle File Creation Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576550079-mondly-is-now-available-on-huawei-appgallery/"><u>Mondly Is Now Available On Huawei AppGallery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/muzik-pathway-tamil-music-to-your-phones-chime/"><u>Muzik Pathway Tamil Music to Your Phone's Chime</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nstagram-way-of-showcasing-youtube-videos-for-2024/"><u>The Instagram Way of Showcasing YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-screen-tearing-effective-solutions-and-fixes/"><u>Warzone Screen Tearing: Effective Solutions & Fixes</u></a></li>
 </ul></div>
 

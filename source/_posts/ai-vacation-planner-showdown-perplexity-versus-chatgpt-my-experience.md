@@ -1,7 +1,7 @@
 ---
 title: "AI Vacation Planner Showdown: Perplexity Versus ChatGPT - My Experience"
-date: 2024-09-17T07:13:20.338Z
-updated: 2024-09-23T17:43:52.656Z
+date: 2024-10-01T18:36:10.621Z
+updated: 2024-10-06T11:14:01.501Z
 tags:
   - cutting-edge
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 * ChatGPT excels at organizing itineraries over Perplexity AI, showcasing a mix of adventure and relaxation.
 
  ChatGPT and Perplexity AI are both versatile AI-powered chatbots that claim the ability to research relying on an extensive database of existing knowledge supported by limited internet search abilities. I put these claims to the test as these bots help me plan a big multi-generational family vacation.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  My Two Favorite AI Chatbots
 
@@ -47,20 +40,6 @@ Prompt:I'm planning a weeklong trip to the Great Smokies for my young family of 
 
 ![A screenshot of the prompt and Perplexity AI's sources and Answer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/perplexityquestion1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What to Do?
 
  While Perplexity excels at research, making lists and organizing information is more of ChatGPT's jam. I expected ChatGPT to win this round, but I'm surprised at Perplexity's poor performance.
@@ -71,18 +50,25 @@ Prompt: Please suggest 10 family-friendly things to do or see there. Include a f
 
 ## ![A screenshot of the short prompt, and the first part of ChatGPT's response.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptprompt2.png)Itineraries
 
- Aren't itineraries the most tedious part of vacation planning? It's fun to look at all the unique activities and share favorites with your family. It's good to show older kids activities you know they'll like and watch them get excited about the trip. The hard part is planning what to do each day to mix just the right amount of adventure and relaxation. Even exciting dinner shows can be too much for little kids (and moms!) who have already had a full day. This is the part that both first-timers and experienced travelers would appreciate help with. I admit, I did not think AI was up to the challenge.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Aren't itineraries the most tedious part of vacation planning? It's fun to look at all the unique activities and share favorites with your family. It's good to show older kids activities you know they'll like and watch them get excited about the trip. The hard part is planning what to do each day to mix just the right amount of adventure and relaxation. Even exciting dinner shows can be too much for little kids (and moms!) who have already had a full day. This is the part that both first-timers and experienced travelers would appreciate help with. I admit, I did not think AI was up to the challenge.
 
 ##  Basic Itinerary Challenge
 
  First, I gave both AIs a complex prompt that gave parameters without choosing specific activities. It requested 2 days in Dollywood, 1 rest day, and a few days in the National Park. To my surprise, both AIs nailed the challenge!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  ChatGPT
 
@@ -95,6 +81,20 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
  Perplexity did not provide as detailed a response as ChatGPT because it did not divide the day into three parts. It still suggested more than three options or attractions for each day. In fact, it was able to specify campground activities to keep busy on the rest day (it has a lazy river!). However, overall the itinerary was vague compared to ChatGPT and had fewer overall activities suggested.
 
 ![A screenshot of the challenge prompt and GPT's detailed response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptbasicchallenge.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Detailed Itinerary Challenge
 
@@ -109,10 +109,10 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
  AI chatbots work for travel planning! We are the winners! I'll be using AI chatbots to assist with travel planning in the future, especially to new places. Will I tap Perplexity AI or ChatGPT? If I'm looking for one right answer (perhaps anticipating where my mom would like to stay?) I will at least check Perplexity, but ChatGPT surpassed my expectations on this challenge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Obligatory Final Word About Internet Safety and AI Limitations
@@ -132,5 +132,18 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-aspect-ratios-for-stunning-video-outputs/"><u>[New] Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-videos-with-apple-harmonies/"><u>[New] Infusing Videos with Apple Harmonies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails-for-2024/"><u>[Updated] Enhancing Video Visibility on YouTube with Imaginative Thumbnails for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders-for-2024/"><u>[Updated] Mastering the Basics A Thorough Guide to Using Mobizen Recorders for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-chuckle-census-latest-stars-and-trends-in-tiktok-laughter/"><u>2024 Approved Chuckle Census Latest Stars and Trends in TikTok Laughter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-study-hero4-black-mechanics/"><u>2024 Approved Comprehensive Study Hero4 Black Mechanics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finns-fiscal-flow-income-insights-from-youtube-icon-for-2024/"><u>Finn's Fiscal Flow Income Insights From YouTube Icon for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flipping-photo-lightness-for-an-alternate-look-for-2024/"><u>Flipping Photo Lightness for an Alternate Look for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-in-your-hands-choosing-a-premium-360-camera-today/"><u>In 2024, Future in Your Hands Choosing a Premium 360 Camera Today</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-speaker-drivers-download-for-windows-1178/"><u>Logitech Speaker Drivers Download for Windows 11/7/8</u></a></li>
+</ul></div>
 

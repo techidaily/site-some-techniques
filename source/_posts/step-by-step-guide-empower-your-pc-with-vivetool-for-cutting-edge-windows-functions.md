@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Empower Your PC with ViVeTool for Cutting-Edge Windows Functions"
-date: 2024-09-23T23:28:16.590Z
-updated: 2024-09-30T23:56:41.909Z
+date: 2024-10-04T17:51:37.833Z
+updated: 2024-10-05T21:21:36.969Z
 tags:
   - desktop
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
  ViVeTool interacts with the Windows Feature Store by using feature IDs. Each feature in the Windows Feature Store possesses a unique ID, which ViVeTool uses to toggle the feature's state. By default, feature IDs are set to state 0, indicating the feature's normal behavior. To disable a feature, you'll need to change its state to 1\. Conversely, to forcibly enable a feature, you'll need to set its state to 2.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Is ViVeTool Safe to Use?
 
  You might be wondering whether ViVeTool is safe to use, especially since it modifies the state of Windows features. The answer is that ViVeTool itself is safe to use, but the features you enable using it might not be safe for your computer.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
  In summary, if you are comfortable with command-line tools like [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and want more flexibility, the command-line version of ViVeTool is the better choice. However, if you prefer a simpler interface and don't have much expertise in executing commands, the GUI version is a more suitable option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use ViVeTool (GUI) to Activate Windows Features
 
  It's very easy to use ViVeTool's GUI version to activate features on your computer. Begin by visiting the [ViVeTool GUI GitHub page](https://github.com/PeterStrick/ViVeTool-GUI/releases/), and download the latest version of the setup.exe file. You might have to expand the "Assets" dropdown to find the ViVeTool.GUI.Setup.exe file.
@@ -68,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 ![Install option in ViVeTool installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/install-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the installation is complete, open the app, click the drop-down icon in the top-left corner, and choose your [current Windows build](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/). ViVeTool will now populate the data grid view, which may take some time, so be patient.
@@ -79,39 +93,19 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 ![Selecting features in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-features-in-vivetool.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose the feature you want to enable, click the "Perform Action" drop-down menu, and choose "Activate Feature." Alternatively, you can click the "Manually Change a Feature" field, enter the ID of the feature you want to enable, and choose "Activate Feature" from the menu.
 
 ![Activate Feature option in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/activate-feature-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see the "Success" prompt, indicating the feature has been successfully enabled.
 
 ![Success message of ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/success-message.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to disable a feature, enter the feature ID in the "Manually Change a Feature" field and choose "Deactivate Feature" from the drop-down menu.
 
@@ -124,15 +118,22 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 ![Zip file on the ViVeTool Downloads page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/zip-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on the downloaded zip file and choose "Extract All" from the menu that appears.
 
 ![Extract All option in the Windows context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-all-option.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose a location where you want to [extract the file](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) and then click the "Extract" button.
 
@@ -155,13 +156,6 @@ ViVeTool.exe /enable /id:featureID
 ViVeTool.exe /enable /id:44788892
 
 ![ViVoTool Enable command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enable-command.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the command executes successfully, close Command Prompt and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/); the changes will take effect upon restart.
 
@@ -188,24 +182,22 @@ ViVeTool.exe /disable /id:44788892
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highlights-from-chinas-winter-olympiad-2022/"><u>[New] Highlights From China's Winter Olympiad 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-8-desktop-images-to-personalize-your-mbp/"><u>[New] Ideal 8 Desktop Images to Personalize Your MBP</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-flip-and-flash-unveiling-the-power-of-instagrams-angled-photos/"><u>[Updated] Flip and Flash Unveiling the Power of Instagram's Angled Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-images-scenery-for-engaging-online-audiences/"><u>[Updated] Ideal Images Scenery for Engaging Online Audiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-opening-and-playing-srt-on-pcmac/"><u>2024 Approved Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highly-recommended-auto-cameras-for-vehicle-tracking/"><u>2024 Approved Highly Recommended Auto Cameras for Vehicle Tracking</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-trendsetters-in-instagram-ae-best-selling-template-collections/"><u>2024 Approved Trendsetters in Instagram AE Best-Selling Template Collections</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-fb-potential-link-your-youtube-video/"><u>2024 Approved Unlock FB Potential Link Your YouTube Video</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Samsung</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-human-capital-layouts-that-leverage-team-synergy-for-2024/"><u>Harnessing Human Capital Layouts That Leverage Team Synergy for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-finder-high-speed-pics-on-win-11/"><u>In 2024, Expert Finder High-Speed Pics on Win 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-programs-for-vector-drawing-and-design-mastery/"><u>In 2024, Ideal Programs for Vector Drawing and Design Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-with-numbers-tips-for-tiktok-video-enhancements-for-2024/"><u>Innovating with Numbers Tips for TikTok Video Enhancements for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/inside-look-at-google-nest-hellos-innovations-advanced-facial-identification-tech-meets-package-detection-features/"><u>Inside Look at Google Nest Hello's Innovations: Advanced Facial Identification Tech Meets Package Detection Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-black-screen-or-no-display/"><u>New Graphics Card Black Screen or No Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-boards-recommended-for-next-gen-gaming-systems/"><u>Power Boards Recommended for Next Gen Gaming Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-smart-users-guide-to-enhancing-technology-for-2024/"><u>The Smart User's Guide to Enhancing Technology for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-detailed-review-of-obss-video-capturing-tools/"><u>[New] Detailed Review of OBS's Video Capturing Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-metaverse-playmates-list-roundup/"><u>[New] Exclusive Metaverse Playmates' List Roundup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-save-or-record-periscope-videos-complete-guide/"><u>[New] How to Save or Record Periscope Videos Complete Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-full-screen-edits-in-premiere/"><u>[Updated] Expert Strategies for Full Screen Edits in Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-worlds-top-10-no-cost-image-crafting-stations/"><u>[Updated] Explore the World's Top 10 No-Cost Image Crafting Stations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-acquire-version-6-of-windows-movie-maker/"><u>[Updated] How to Acquire Version 6 of Windows Movie Maker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pickus-prowess-in-android-photo-editing-a-thorough-examination/"><u>[Updated] PickU's Prowess in Android Photo Editing A Thorough Examination</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-every-frame-of-your-android-experience-for-free-for-2024/"><u>[Updated] Record Every Frame of Your Android Experience for FREE for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-memery-masters-explore-and-share-joy-for-2024/"><u>Free Memery Masters Explore & Share Joy for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-edge-of-screen-innovation-with-benq-sw320/"><u>In 2024, Exploring the Edge of Screen Innovation with BenQ SW320</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawlessly-merged-the-linkage-of-instagram-and-tiktok/"><u>In 2024, Flawlessly Merged The Linkage of Instagram & TikTok</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-hp-scan-device-drivers-seamlessly-on-windows-computers/"><u>Install Updated HP Scan Device Drivers Seamlessly on Windows Computers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-how-to-fix-windows-11-usb-connection-issues/"><u>Troubleshooting: How to Fix Windows 11 USB Connection Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-easy-video-looping-top-10-online-tools/"><u>Updated Free and Easy Video Looping Top 10 Online Tools</u></a></li>
 </ul></div>
 

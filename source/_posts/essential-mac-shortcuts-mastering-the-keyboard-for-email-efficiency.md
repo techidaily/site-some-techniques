@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-09-28T18:04:16.732Z
-updated: 2024-09-30T23:06:52.467Z
+date: 2024-09-29T18:55:48.890Z
+updated: 2024-10-06T11:24:03.590Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Erase Junk Mail (Command+Option+J) 
 
  Got lots of junk mail taking up space in your inbox? Apple Mail lets you clear it fast. By pressing Command+Option+J, a popup window will appear confirming you want to permanently delete everything in your junk folder. It might be worth checking that nothing was mistakenly flagged as junk before doing so.
@@ -26,17 +33,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
@@ -48,10 +48,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
@@ -69,10 +69,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail app with Sidebar, including folders, highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-5-16-59-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -96,17 +96,24 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-complete-overview-of-polarr-photo-editor/"><u>[Updated] A Complete Overview of Polarr Photo Editor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-action-founding-your-consumer-product-assessment-site/"><u>[Updated] From Idea to Action Founding Your Consumer Product Assessment Site</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-1-5-iphone-podcast-platforms-for-all/"><u>2024 Approved Explore #1-#5 iPhone Podcast Platforms for All</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-field-photography-frenzy-samsung-vs-lg-cameras-collide/"><u>2024 Approved Field Photography Frenzy Samsung VS LG Cameras Collide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>2024 Approved Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-unplugged-entertainment-essential-free-apps-for-offline-playing/"><u>2024 Approved Unplugged Entertainment Essential Free Apps for Offline Playing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gourmet-gems-7-tips-to-transform-your-kitchen-cinematography-for-2024/"><u>Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-x-flip-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo X Flip to iPod | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-huawei-nova-y71-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Huawei Nova Y71 online without jailbreak</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05sfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05sFRP Lock</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-the-spotify-browser-app-overcoming-lag-and-malfunction/"><u>Optimizing the Spotify Browser App: Overcoming Lag and Malfunction</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-behind-the-scenes-creating-magic-with-magix-for-2024/"><u>[New] Behind-the-Scenes Creating Magic with Magix for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglegallery-log-in-and-make-magic-videos/"><u>[New] GiggleGallery Log In and Make Magic Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-harmony-optimal-websites-for-fun-ringtones/"><u>[Updated] Humor Harmony Optimal Websites for Fun Ringtones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funflicks-full-evaluation-and-instructions-24/"><u>2024 Approved FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-with-smart-slack-reminder-techniques/"><u>Boost Your Productivity with Smart Slack Reminder Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-message-types-what-it-means-when-your-imessage-becomes-an-sms-on-ios-devices/"><u>Deciphering Message Types: What It Means When Your iMessage Becomes an SMS on iOS Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-trends-what-causes-the-diminishing-demand-for-high-performance-sd-cards-despite-their-advantages/"><u>Exploring Trends: What Causes the Diminishing Demand for High-Performance SD Cards Despite Their Advantages?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-change-your-voice-in-free-fire-game-free-solution-included-for-2024/"><u>How to Change Your Voice in Free Fire Game? [Free Solution Included] for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hustle-free-download-free-gif-conversion-tools-ranked-for-2024/"><u>Hustle-Free, Download-Free GIF Conversion Tools Ranked for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-anime-intros-the-ultimate-collection-for-2024/"><u>Iconic Anime Intros The Ultimate Collection for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-scratch-building-a-lighthearted-image-meme/"><u>In 2024, From Scratch Building a Lighthearted Image Meme</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imovie-magic-ranking-the-best-8-free-and-paid-film-apps/"><u>In 2024, IMovie Magic Ranking the Best 8 Free and Paid Film Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initial-steps-in-kinetic-illustration-techniques/"><u>In 2024, Initial Steps in Kinetic Illustration Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-selecting-superior-sound-10-top-mic-recommendations/"><u>In 2024, Selecting Superior Sound 10 Top Mic Recommendations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlining-your-workflow-with-macs-finest-snipers/"><u>In 2024, Streamlining Your Workflow with Mac's Finest Snipers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/surging-channel-growth-with-optimal-video-hashes-for-2024/"><u>Surging Channel Growth with Optimal Video Hashes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-and-components-by-toms-electronics-hub/"><u>The Ultimate Guide to Gadgets & Components by Tom's Electronics Hub</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ying-your-youtube-sign-in-details-for-2024/"><u>Verifying Your YouTube Sign-In Details for 2024</u></a></li>
 </ul></div>
 

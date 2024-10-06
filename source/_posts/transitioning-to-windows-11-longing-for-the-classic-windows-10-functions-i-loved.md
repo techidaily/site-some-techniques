@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-09-27T21:26:00.159Z
-updated: 2024-09-30T16:47:15.282Z
+date: 2024-09-29T04:05:36.159Z
+updated: 2024-10-06T10:36:14.455Z
 tags:
   - deals
 categories:
@@ -35,23 +35,9 @@ Benj Edwards / How-To Geek
 
  The rest of the process was a lot easier once I got access to the BIOS, but even then, it took me a few tries to find the exact setting on my BIOS screen (since it was different from other walkthrough screens). After about an hour of fiddling, I finally got it sorted out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Start Menu and Taskbar Layout Are Too Limited
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
@@ -61,16 +47,16 @@ Benj Edwards / How-To Geek
 
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Truncated Context Menus Hurt Usability
 
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
 
@@ -88,24 +74,38 @@ Benj Edwards / How-To Geek
 
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The "Action Center" Is No More
 
 ![No Action Center (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/no-action-center-light.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  It's Not A Bad Operating System But...
 
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lucas Gouveia / Hannah Stryker / How-To Geek
 
@@ -128,18 +128,22 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-picshots-magic-for-quick-photo-cohesion/"><u>[Updated] Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-from-social-media-videos-to-audible-mp3s-one-click-conversion/"><u>[Updated] From Social Media Videos to Audible MP3s - One Click Conversion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-long-is-a-video-at-20-megabits/"><u>[Updated] How Long Is a Video at 20 Megabits?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ideal-mkv-player-suite-mobile-and-desktop/"><u>2024 Approved Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-find-x6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Find X6 Pro Device SIM</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhance-account-safety-with-two-step-verification-a-step-by-step-guide-from-zdnet/"><u>Enhance Account Safety with Two-Step Verification: A Step-by-Step Guide From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-safaris-picture-and-window-sharing-feature-for-2024/"><u>Expert Tips for Safari's Picture and Window Sharing Feature for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-foray-into-fashionable-mac-made-videos-for-youtube-for-2024/"><u>First Foray Into Fashionable Mac-Made Videos for YouTube for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-windows-hello-authentication-on-incompatible-windows-10-systems/"><u>How To Enable Windows Hello Authentication on Incompatible Windows 10 Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a18-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A18</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-captivating-unboxing-content-top-tips/"><u>In 2024, Crafting Captivating Unboxing Content Top Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-venues-expanding-youtube-visibility/"><u>In 2024, Foremost Venues Expanding YouTube Visibility</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y02t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y02T Bootloader Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>[New] How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-outstanding-20-anime-opening-melodies/"><u>[Updated] Outstanding 20 Anime Opening Melodies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>2024 Approved Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ffmpeg-and-its-proficiency-in-original-audio-extraction/"><u>2024 Approved FFmpeg and Its Proficiency in Original Audio Extraction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-strategies-for-image-collections-procurement/"><u>2024 Approved Innovative Strategies for Image Collections Procurement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-issues-and-solutions-fixing-a-non-resplicable-thaumaturge-in-pc-software/"><u>Common Issues & Solutions: Fixing a Non-Resplicable Thaumaturge in PC Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-stylus-nx420-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson Stylus NX420 Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hot-picks-best-free-screen-recorders-for-windows-users-for-2024/"><u>Hot Picks Best Free Screen Recorders For Windows Users for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-navigate-a-world-without-adobe-flash-alternatives-and-steps/"><u>How to Navigate a World without Adobe Flash: Alternatives and Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-erroneous-cpu-usage-displayed-by-windows-pc/"><u>How to Rectify Erroneous CPU Usage Displayed by Windows PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illusory-journeys-through-time-and-dimensions-for-2024/"><u>Illusory Journeys Through Time and Dimensions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immortalize-instants-with-ease-dive-into-gratis-cloud-services-and-paid-alternatives-for-2024/"><u>Immortalize Instants with Ease Dive Into Gratis Cloud Services & Paid Alternatives for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-in-converting-videos-for-twitter/"><u>In 2024, Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-clear-your-default-podcast-listings-on-spotify/"><u>In 2024, How to Clear Your Default Podcast Listings on Spotify</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/inexpensive-high-quality-cameras-for-2024/"><u>Inexpensive High-Quality Cameras for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-memory-preservation-top-10-software-solutions-for-fixing-pictures-on-windows-and-mac-os/"><u>Mastering Memory Preservation: Top 10 Software Solutions for Fixing Pictures on Windows & Mac OS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-elevate-your-video-game-top-online-editors-for-chromebook/"><u>New 2024 Approved Elevate Your Video Game Top Online Editors for Chromebook</u></a></li>
 </ul></div>
 

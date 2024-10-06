@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad Z13 Gen 2 with AMD - The New Era of Ultraportability Unveiled
-date: 2024-09-27T18:01:27.276Z
-updated: 2024-09-30T17:56:45.489Z
+date: 2024-10-01T03:14:53.964Z
+updated: 2024-10-06T00:33:58.745Z
 tags:
   - deals
 categories:
@@ -151,15 +151,22 @@ Close
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -169,22 +176,15 @@ Sergio Rodriguez / How-To Geek
 
  The touchscreen was also sensitive enough to provide accurate typing and tapping, whether using the touch keyboard or simply hitting the "save" button in my word processor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Display and Graphics: A Bright OLED Beauty
 
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -202,15 +202,28 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -238,27 +251,20 @@ Close
 
 ### 
 
-### 
-
-### 
-
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 
+
+### 
 
 ##  Battery and Charging: Long-Lasting Battery Life
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -270,13 +276,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -284,6 +283,13 @@ Sergio Rodriguez / How-To Geek
  If you're ready to call the compact Z13 your own, you can buy the [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3Dxfx2ONQHnxyPWR734TQFI1AsUkHweI3VQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam) starting at $1,241.40 today.
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z13 Gen 2
 
@@ -308,18 +314,20 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-frozen-frontiers-highlights-from-beijings-winter-games/"><u>[New] Frozen Frontiers Highlights From Beijing's Winter Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ifunny-meme-seamless-download-and-enjoyment/"><u>[New] IFunny Meme Seamless Download and Enjoyment</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-master-commanders-unleashed-ranking-7-total-war-champions-for-2024/"><u>[New] Master Commanders Unleashed Ranking 7 Total War Champions for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-discover-the-best-5-sd-cards-for-gopro-hero-8-and-7/"><u>[Updated] 2024 Approved Discover the Best 5 SD Cards for GoPro Hero 8 and 7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-srt-to-sub-a-comprehensive-guide/"><u>2024 Approved Seamless SRT to SUB A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-enhance-performance-and-prevent-lag-in-deathloop-for-playstation-5-and-pc-users/"><u>How To Enhance Performance And Prevent Lag In Deathloop for PlayStation 5 And PC Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dynamic-videos-made-easy-with-best-stabilizers/"><u>In 2024, Dynamic Videos Made Easy with Best Stabilizers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-take-on-using-luts-for-image-enhancement-in-pscc/"><u>In 2024, Expert's Take on Using LUTs for Image Enhancement in PSCC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-horizon-to-heavens-photo-taking-on-mobile/"><u>In 2024, Horizon to Heavens Photo-Taking on Mobile</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy XCover 7 Phone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-raspberry-pi-400-inspection-transforming-keyboards-into-compact-computers/"><u>The Raspberry Pi #400 Inspection - Transforming Keyboards Into Compact Computers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-microsoft-surface-go-a-competitively-priced-device-facing-an-existential-dilemma/"><u>Unpacking the Microsoft Surface Go: A Competitively Priced Device Facing an Existential Dilemma</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-10-pivotal-tactics-for-striking-podcast-covers/"><u>[New] 10 Pivotal Tactics for Striking Podcast Covers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-awesome-channel-art-for-your-youtube-presence-for-2024/"><u>[New] Building Awesome Channel Art for Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-or-paid-top-8-ios-film-watching-apps-reviewed/"><u>[Updated] Free or Paid? Top 8 iOS Film-Watching Apps Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero4-vs-gopro-hero5-showdown/"><u>[Updated] GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grandiose-know-it-all-challenges-online/"><u>2024 Approved Grandiose KNOW-It All Challenges Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-memories-in-motion-the-premier-archive-for-tweeter-gifs/"><u>2024 Approved Memories in Motion The Premier Archive for Tweeter GIFs</u></a></li>
+<li><a href="https://techidaily.com/1723808268031-desktop-icon-shuffle-stop-it-here-simple-fixes-in-a-nutshell/"><u>Desktop Icon Shuffle? Stop It Here: Simple Fixes in a Nutshell!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-flying-rivals-dji-drone-vs-gopro-for-2024/"><u>High-Flying Rivals DJI Drone vs GoPro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-ingenious-techniques-for-voice-transformation-at-zero-price/"><u>In 2024, Explore Ingenious Techniques for Voice Transformation at Zero Price</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>In 2024, Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-professional-thumbnails-for-engaging-igtv-posts/"><u>In 2024, Professional Thumbnails for Engaging IGTV Posts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y36i-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y36i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecnos-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecnos Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-synergy-unleashed-facebook-meets-instagram/"><u>Social Synergy Unleashed: Facebook Meets Instagram</u></a></li>
 </ul></div>
 

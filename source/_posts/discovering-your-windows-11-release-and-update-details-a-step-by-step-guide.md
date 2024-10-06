@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide"
-date: 2024-09-24T16:57:10.903Z
-updated: 2024-09-30T21:59:15.945Z
+date: 2024-09-28T21:18:05.072Z
+updated: 2024-10-06T04:00:27.218Z
 tags:
   - desktop
 categories:
@@ -17,18 +17,18 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -59,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -77,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -107,16 +101,22 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-fastest-path-to-amazing-iphone-time-lapses/"><u>[New] The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-expert-strategies-for-efficient-funimate-use-for-2024/"><u>[Updated] Expert Strategies for Efficient Funimate Use for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-groundbreaking-gradients-adobes-best-lut-choices-to-boost-your-lightroom-work/"><u>[Updated] Groundbreaking Gradients Adobe's Best LUT Choices to Boost Your LightRoom Work</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-step-by-step-approach-to-personalizing-your-phones-alerts/"><u>[Updated] In 2024, The Step-By-Step Approach to Personalizing Your Phone's Alerts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>[Updated] Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-hub-picture-composer/"><u>2024 Approved Humor Hub Picture Composer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-refine-your-youtube-identity-with-efficient-descriptions/"><u>2024 Approved Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/combat-high-response-times-in-co-op-gaming-strategies-for-faster-back-nblood-play/"><u>Combat High Response Times in Co-Op Gaming: Strategies for Faster Back nBlood Play</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-top-hd-video-player-apps-android-for-2024/"><u>Exclusive List of Top HD Video Player Apps, Android for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-safeguard-your-mac-a-video-course-on-implementing-encryptiondecryption-and-data-recovery-strategies/"><u>How to Safeguard Your Mac: A Video Course on Implementing Encryption/Decryption and Data Recovery Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ideal-shops-for-unique-crafted-gift-enclosures/"><u>[New] 2024 Approved Ideal Shops for Unique, Crafted Gift Enclosures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-halt-recommendations-no-more-suggests/"><u>[New] How to Halt Recommendations No More Suggests</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[New] In 2024, Parrots in Flight A Deep Dive Into Bebop's Essence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-video-edits-made-simple-with-windows-10s-story-remix/"><u>[New] Innovative Video Edits Made Simple with Windows 10'S Story Remix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-is-there-a-cash-incentive-in-critique-videos/"><u>[New] Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmony-highlights-social-media-videos-that-resonate/"><u>[Updated] Harmony Highlights Social Media Videos That Resonate</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>[Updated] In 2024, Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-an-owners-guide-to-playlist-permutations-in-yt/"><u>2024 Approved An Owner's Guide to Playlist Permutations in YT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-periscopes-world-free-access-and-user-registration/"><u>2024 Approved Exploring Periscope's World Free Access & User Registration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-does-inshot-stand-out-in-editing-software/"><u>2024 Approved In-Depth Analysis Does InShot Stand Out in Editing Software?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimbal-mastery-seamless-camera-handling-and-tracking-for-2024/"><u>Gimbal Mastery Seamless Camera Handling & Tracking for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-subtitle-services-the-ultimate-convertors-guide/"><u>In 2024, Free Subtitle Services The Ultimate Convertors Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-marketing-brands-and-youtubes-co-creative-pathways/"><u>In 2024, Harmonizing Marketing Brands & YouTube's Co-Creative Pathways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-top-7-video-software-for-apple-devices/"><u>In 2024, Ideal Top 7 Video Software for Apple Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/masterclass-on-mobile-energy-exploring-features-of-ampage-andes-1500-station/"><u>Masterclass on Mobile Energy: Exploring Features of Ampage Andes 1500 Station</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-to-speedy-up-vimeo-videos/"><u>Strategies to Speedy Up Vimeo Videos</u></a></li>
 </ul></div>
 

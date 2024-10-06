@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2024-09-29T18:58:15.677Z
-updated: 2024-10-01T00:50:19.777Z
+date: 2024-10-01T08:24:35.795Z
+updated: 2024-10-05T20:57:54.521Z
 tags:
   - mobile
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Google controls the most popular store for distributing Android apps and requires Android phone makers to ship a suite of Google software in order to have access.
@@ -34,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
@@ -47,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
  There are big-name smartphone makers like Samsung, Motorola, and OnePlus. Tablets and eReaders from Amazon and [BOOX](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/). Niche products that you may not realize run Android, like [the minimalist Light Phone](https://video-capture.techidaily.com/new-2024-approved-advanced-techniques-capturing-teams-screen-content/) and the Rabbit R1\. There are self-checkout machines in big box stores that are merely Android tablets anchored in place. You may sign in at your dentist's office with an Android device without being aware of it. They're everywhere.
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  After Android Became Popular, Google Wanted More Control
 
@@ -73,6 +59,19 @@ Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I Don't Want to Give All of My Data to Google
 
  I made efforts to de-Google my life years ago, deleting my Google account entirely. I re-created one years later when an organization I'm involved with wanted to use Google Calendar to manage our schedule. I started to use this same account to log into Google Play for apps, but that's about it.
@@ -82,13 +81,6 @@ Justin Duino / How-To Geek
  It's not that I don't use any Google apps. I find Google Maps useful, especially due to how much information it provides about local businesses. I watch YouTube, since it is the primary way major and independent publishers alike distribute video. But these apps don't provide essential phone functionality in the way that a gallery app and a local video player do. They're the kind of programs many people would immediately seek out on their own in the Play Store. Still, they're preinstalled to drive more people toward Google services and provide the company with more marketable data.
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
 
@@ -104,6 +96,13 @@ Close
 
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google Apps Make Android Phones All Feel the Same
 
  As Google's control over software has grown, there is increasingly less difference between one Android device and the next. You walk through similar set-up screens, are presented with the same data collection options, and see your app drawer pre-populated with largely the same software.
@@ -113,6 +112,13 @@ Close
  Phones aren't the only devices that suffer from this. Consider the [XREAL Beam Pro](https://us.shop.xreal.com/products/xreal-beam-pro), an Android-based (and far more affordable) alternative to Apple's Vision Pro. It's a tempting addition to [the AR glasses I replaced my computer monitor with](https://youtube-docs.techidaily.com/approved-expert-insights-where-to-invest-in-youtube-creator-revenue/). When you launch the device for the first time, you're presented with a large array of Google apps that you probably didn't buy AR glasses to use. They continue to clutter up the launcher unless you dive into settings and disable them.
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
@@ -137,22 +143,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-finest-top-8-android-mp3-downloader-apps/"><u>[New] Explore the Finest Top 8 Android MP3 Downloader Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-concoct-chuckles-giphy-edition-for-2024/"><u>[Updated] Concoct Chuckles - Giphy Edition for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmcraft-studio-top-alternatives-for-lightroom-users/"><u>[Updated] FilmCraft Studio Top Alternatives for Lightroom Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6/"><u>[Updated] From Recording to Reality A Detailed Look at the SJ-CAM S6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-screenshot-to-ringtone-your-guide-to-tiktok-song-selection/"><u>[Updated] From Screenshot to Ringtone Your Guide to TikTok Song Selection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-vr-movie-might-change-the-world/"><u>[Updated] How VR Movie Might Change the World</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-captivate-audiences-with-these-top-20-tiktok-captions/"><u>[Updated] In 2024, Captivate Audiences with These Top 20 TikTok Captions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings/"><u>2024 Approved Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-bots-outshining-chatgpt/"><u>Best Bots Outshining ChatGPT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-fire-techniques-for-shifting-your-characters-voice-effectively-for-2024/"><u>Free Fire Techniques for Shifting Your Character's Voice Effectively for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-correct-the-yellow-hue-on-your-iphone-display-a-step-by-step-guide/"><u>How to Correct the Yellow Hue on Your iPhone Display: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-vs-yi-4k-updated-review-of-ultimate-action-cams/"><u>In 2024, GoPro Vs. Yi 4K Updated Review of Ultimate Action Cams</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-v27-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo V27 Is Unlocked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-acoustic-link-for-speakers/"><u>In 2024, Innovative Acoustic Link for Speakers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/prime-selector-20-twitters-animated-treasure-chest-for-2024/"><u>Prime Selector 2.0 Twitter's Animated Treasure Chest for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/top-10-outils-de-nettoyage-et-amelioration-dimages-par-ia-sans-frais-windows-et-macos-compatibles/"><u>Top 10 Outils De Nettoyage Et Amélioration D'Images Par IA Sans Frais - Windows Et macOS Compatibles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-front-seat-pleasures-not-so-sporty-top-ten/"><u>[New] Front Seat Pleasures Not So Sporty Top Ten</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-top-5-resources-for-innovative-text-designs/"><u>[Updated] Explore the Top 5 Resources for Innovative Text Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-search-of-excellence-top-10-4k-displays/"><u>[Updated] In Search of Excellence #Top 10 4K Displays</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/st-youtube-keyword-tools-to-get-more-views-filmora/"><u>10 Best YouTube Keyword Tools to Get More Views - Filmora</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/10-premier-online-systems-for-screen-saving/"><u>10 Premier Online Systems for Screen Saving</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-luts-for-precision-controlled-image-editing/"><u>2024 Approved Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-regaining-access-to-windows-photo-viewer-two-steps-for-windows-10/"><u>2024 Approved Regaining Access to Windows Photo Viewer Two Steps for Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-superior-8-filter-trios-for-broadcast-excellence/"><u>2024 Approved Superior 8 Filter Trios for Broadcast Excellence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foundations-of-virtual-reality-speak-for-2024/"><u>Foundations of Virtual Reality Speak for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-honor-magic-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Honor Magic 5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-sound-recognition-and-instant-utilization/"><u>In 2024, Free Sound Recognition and Instant Utilization</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-evaluation-hero4-black-experience/"><u>In 2024, In-Depth Evaluation Hero4 Black Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-installing-aoc-monitor-drivers-on-windows-versions-11108/"><u>Step-by-Step Guide to Downloading and Installing AOC Monitor Drivers on Windows (Versions 11/10/8)</u></a></li>
 </ul></div>
 

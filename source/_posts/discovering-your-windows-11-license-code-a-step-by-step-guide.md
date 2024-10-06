@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 License Code: A Step-by-Step Guide"
-date: 2024-09-29T00:17:41.737Z
-updated: 2024-09-30T20:59:10.477Z
+date: 2024-10-05T02:14:21.982Z
+updated: 2024-10-06T00:04:21.168Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 * [Find an OEM Product Key With Command Prompt](https://facebook-videos.techidaily.com/2024-approved-beam-your-best-achieving-hd-quality-with-fb-live/)
 * [Show a Retail Product Key Using ShowKeyPlus](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To find your Windows 11 OEM product key, open Command Prompt or PowerShell as administrator, then enter: **wmic path softwarelicensingservice get OA3xOriginalProductKey**
@@ -26,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Windows 11 uses a product key to ensure your OS is genuine—in other words, not pirated. You can find the product key in use on your PC, which is particularly useful if you bought Windows yourself and need to reinstall it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is a Windows Product Key?
@@ -41,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Alternatively, there are retail licenses available for enthusiasts who build their own PCs or purchase different versions of Windows 11.
 
  Regardless of what kind of key you have, product keys are 25 characters long and composed of a mixture of capital letters and numbers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Find an OEM Product Key With Command Prompt
 
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![Command prompt displaying key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Right_Size_Console-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Show a Retail Product Key Using ShowKeyPlus
 
  If you purchased and installed Windows yourself, [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv) is a good way to find your product key. ShowKeyPlus is a free application available on the Microsoft Store.
@@ -73,27 +80,20 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![In start menu, type "Microsoft Store", then click open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-09_12h19_00.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the Microsoft Store is open, go to the top of the page and enter **ShowKeyPlus** into the search bar, and hit enter.
 
 !["ShowKeyPlus" in a red box in the search bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/IntoMicrosoft-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the ShowKeyPlus app page, click "Install." Once it is done installing, the "Install" button will change into an "Open" button. Click "Open."
 
 ![Click install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Points_To_Install.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ShowKeyPlus displays the currently installed key and the OEM key.
 
@@ -120,22 +120,18 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evenings-reassessment-alternate-vision/"><u>[New] Evening's Reassessment Alternate Vision</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>[New] Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-and-fantastic-the-top-10-lut-sources/"><u>[New] Free & Fantastic The Top 10 LUT Sources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-horizon-highlights-selective-online-skies-compilation/"><u>[New] HDR Horizon Highlights Selective Online Skies Compilation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>[New] Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-maximize-video-reach-with-effective-tags-titles/"><u>[Updated] How to Maximize Video Reach with Effective Tags, Titles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-key-strategies-for-utilizing-chatgpt-in-your-video-game-story-development/"><u>5 Key Strategies for Utilizing ChatGPT in Your Video Game Story Development</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725289687470-handbrake/"><u>HandBrakeの動作不良解消 - 最新修正ガイドとトラブルシューティング</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hunters-guide-to-best-camcorder-tech-today-for-2024/"><u>Hunters' Guide to Best Camcorder Tech Today for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hone-your-iphone-skills-with-shortened-and-customized-vids/"><u>In 2024, Hone Your iPhone Skills with Shortened & Customized Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-tips-on-filming-with-drone/"><u>In 2024, Tips on Filming with Drone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-g22-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia G22 Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/inside-look-facebooks-organizational-layout-plan/"><u>Inside Look: Facebook's Organizational Layout Plan</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/julys-top-tv-show-recommendations-from-discovery-plus/"><u>July's Top TV Show Recommendations From Discovery Plus</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-video-conversion-for-vr-enthusiasts-top-picks-and-tips-for-2024/"><u>New Video Conversion for VR Enthusiasts Top Picks and Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pioneering-film-making-skills-through-youtube-videos-for-2024/"><u>Pioneering Film Making Skills Through YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-of-flawless-video-capture-top-4-apps-for-pcmac-for-2024/"><u>[New] Secrets of Flawless Video Capture Top 4 Apps for PC/Mac for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-ethical-and-safe-tiktok-following-hacks-for-2024/"><u>[Updated] Ethical and Safe TikTok Following Hacks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-choice-8-best-converters-from-sub-to-srt/"><u>[Updated] Expert Choice 8 Best Converters From Sub to Srt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-guide-to-maximizing-creativity-with-picsart/"><u>2024 Approved In-Depth Guide to Maximizing Creativity with PicsArt</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/bring-a-smile-simple-meme-creation-with-kapwing/"><u>Bring a Smile Simple Meme Creation With Kapwing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ending-the-struggle-premiere-pro-instability-no-more-for-windows-users/"><u>Ending the Struggle: Premiere Pro Instability No More for Windows Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-on-top-hdr-cameras-for-2024/"><u>Expert Insights on Top HDR Cameras for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-11-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 11 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-huawei-by-drfone-android-unlock-android-unlock/"><u>How to unlock Huawei</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>In 2024, Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-accelerate-your-videos-top-10-free-speed-changer-apps-for-ios-and-android/"><u>New Accelerate Your Videos Top 10 Free Speed Changer Apps for iOS and Android</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-reno-11-pro-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo Reno 11 Pro 5G on Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uninterrupted-music-streams-how-to-keep-spotify-running-when-iphone-is-locked/"><u>Uninterrupted Music Streams: How to Keep Spotify Running when iPhone Is Locked</u></a></li>
 </ul></div>
 

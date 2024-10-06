@@ -1,7 +1,7 @@
 ---
 title: "Essential Computer Components: A Buyer’s Guide for Optimal Stable Diffusion Performance"
-date: 2024-09-19T04:14:07.658Z
-updated: 2024-09-23T21:43:30.767Z
+date: 2024-09-30T20:32:22.851Z
+updated: 2024-10-06T02:49:02.462Z
 tags:
   - cutting-edge
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 * [How Much Video Memory (GPU Memory) Do You Need?](https://www.howtogeek.com/853529/hardware-for-stable-diffusion/#how-much-video-memory-gpu-memory-do-you-need)
 * [Should You Use an Optimized Fork of Stable Diffusion?](https://smart-video-editing.techidaily.com/sam-altman-steps-down-as-openais-ceo-implications-for-the-future-of-chatgpt/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  You'll need a PC with a modern AMD or Intel processor, 16 gigabytes of RAM, an NVIDIA RTX GPU with 8 gigabytes of memory, and a minimum of 10 gigabytes of free storage space available. A GPU with more memory will be able to generate larger images without requiring upscaling.
@@ -32,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
  Stable Diffusion is a popular AI-powered image generator that you can run on your own PC. But what are the minimum specs to run Stable Diffusion, and what components matter the most?
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What PC Hardware Does Stable Diffusion Require?
@@ -53,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
 Related: [How to Run Stable Diffusion on Your PC to Generate AI Images](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Kind of Graphics Card (GPU) Do You Need to Run Stable Diffusion?
 
  The Stable Diffusion community has worked diligently to expand the number of devices that Stable Diffusion can run on. We've seen Stable Diffusion running on [M1 and M2 Macs](https://some-knowledge.techidaily.com/new-complete-guide-to-help-you-choose-the-best-hdr-cameras/), AMD cards, and old NVIDIA cards, but they tend to be difficult to get running and are more prone to problems. RTX NVIDIA GPUs are the only GPUs natively supported by Stable Diffusion at the time this article was written in December 2022.
@@ -76,6 +62,13 @@ Related: [How to Check What Graphics Card (GPU) Is in Your PC](https://snapchat-
 
  Try to buy the newest GPU you can. Any of the 20, 30, or 40-series GPUs with 8 gigabytes of memory from NVIDIA will work, but older GPUs --- even with the same amount of [video RAM (VRAM)](https://extra-support.techidaily.com/new-premium-selection-of-apple-and-android-camera-slow-motion-apps/) \--- will take longer to produce the same size image. If you're building or upgrading a PC specifically with Stable Diffusion in mind, avoid the older RTX 20-series GPUs unless you find a fantastic deal on one, since they're significantly slower.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Much Video Memory (GPU Memory) Do You Need?
 
  The larger you make your images, the more VRAM Stable Diffusion will use. The **minimum** amount of VRAM you should consider is 8 gigabytes.
@@ -85,6 +78,19 @@ Related: [How to Check What Graphics Card (GPU) Is in Your PC](https://snapchat-
  The [RTX 3060](https://www.amazon.com/s?k=RTX+3060&tag=htg-v2-45q98ad-20&ascsubtag=UUhtgUeUpU203353&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F853529%2Fhardware-for-stable-diffusion%2F&asc%5Fcampaign=Short-Term) is a potential option at a fairly low price point. The RTX 3060 is slower than the [3060 Ti](https://www.amazon.com/s?k=3060+Ti&tag=htg-v2-45q98ad-20&ascsubtag=UUhtgUeUpU203353&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F853529%2Fhardware-for-stable-diffusion%2F&asc%5Fcampaign=Short-Term), however, the RTX 3060 has 12 gigs of VRAM, whereas the 3080 Ti only has 8 gigs. The extra VRAM will really shine in Stable Diffusion, but that comes at the expense of speed and gaming performance.
 
 ![51ClY8eDcpL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51cly8edcpl-_sl500_-1.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  MSI Gaming GeForce RTX 3060
 
@@ -99,10 +105,10 @@ Related: [Does GPU Memory Matter? How Much VRAM Do You Need?](https://fox-hovers
  Of course, there are all sorts of optimized [forks](https://on-screen-recording.techidaily.com/updated-ultimate-windows-10-camera-software-review-top-10/) that allow you to get away with much less VRAM at the expense of speed, but if you want to be sure it'll work, stick with RTX NVIDIA cards that have at least 8 gigabytes of memory.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Use an Optimized Fork of Stable Diffusion?
@@ -136,5 +142,26 @@ Related: [How to Write an Awesome Stable Diffusion Prompt](https://screen-mirror
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-srt-to-sub-masterful-conversion-methods-explored/"><u>[New] From SRT to SUB Masterful Conversion Methods Explored</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-quick-thumbnail-tips-for-youtube-success/"><u>[New] In 2024, Quick Thumbnail Tips for YouTube Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-user-friendly-steps-for-storing-google-voice-conversations-for-2024/"><u>[New] User-Friendly Steps for Storing Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-snowy-standouts-from-winter-2022-olympics/"><u>[Updated] 2024 Approved Snowy Standouts From Winter 2022 Olympics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen-for-2024/"><u>[Updated] Expert's Blueprint Revolutionizing Your Screencasting Experience with Mobizen for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-young-entrepreneurs-guide-buying-profitable-youtube-sites/"><u>[Updated] Young Entrepreneur's Guide Buying Profitable YouTube Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-365-days-of-no-cost-text-files/"><u>2024 Approved Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>2024 Approved Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-comprehensive-guide-to-capturing-your-hp-pcs-display-for-2024/"><u>A Comprehensive Guide to Capturing Your HP PC's Display for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disneyplus-malfunction-solutions-a-complete-exploration-of-everyday-fixes-and-remedies/"><u>Disney+ Malfunction Solutions: A Complete Exploration of Everyday Fixes & Remedies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-optimize-your-presence-on-spotify-ads-for-2024/"><u>How to Optimize Your Presence on Spotify Ads for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-into-the-world-of-google-photos/"><u>In 2024, Expert Insights Into the World of Google Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-lut-sets-unlocked-dji-mini-air-2-in-the-spotlight/"><u>In 2024, Free LUT Sets Unlocked - DJI Mini, Air 2 in the Spotlight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-scan-the-essence-of-the-lightroom-app-on-android/"><u>In 2024, Full Scan The Essence of the Lightroom App on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-spectacle-top-ten-4ks/"><u>In 2024, High Definition Spectacle – Top Ten 4Ks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-3-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 3 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-headset-manufacturers-for-virtual-worlds-for-2024/"><u>Innovative Headset Manufacturers for Virtual Worlds for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-p55plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel P55+ – What Can I Do? | Dr.fone</u></a></li>
+</ul></div>
 

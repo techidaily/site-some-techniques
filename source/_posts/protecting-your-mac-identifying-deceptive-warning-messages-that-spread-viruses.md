@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-09-26T20:02:40.141Z
-updated: 2024-09-30T22:04:17.292Z
+date: 2024-10-01T20:44:57.210Z
+updated: 2024-10-06T00:00:29.297Z
 tags:
   - desktop
 categories:
@@ -32,19 +32,19 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
@@ -58,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Avoid This Happening Again
@@ -77,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
@@ -104,22 +98,21 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-advanced-usage-maximize-your-experience-with-macs-preview/"><u>[New] From Basic to Advanced Usage Maximize Your Experience with Mac's Preview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-impress-and-captivate-in-solo-podcasting/"><u>[New] Innovate, Impress, and Captivate in Solo Podcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freescape-extraction-revisited-a-look-at-the-latest-update/"><u>[Updated] Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-essential-gif-tool-guide-tips-from-the-experts/"><u>[Updated] In 2024, Essential GIF Tool Guide Tips From the Experts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-logitechs-full-blown-4k-webcam-complete-reveal-and-evaluation-for-2024/"><u>[Updated] Logitech's Full-Blown 4K Webcam - Complete Reveal & Evaluation for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-amass-a-million-in-moments-join-instagrams-elite/"><u>2024 Approved Amass a Million in Moments Join Instagram's Elite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-everything-you-need-to-know-about-the-firefox-picture-in-picture-mode/"><u>2024 Approved Everything You Need to Know About the Firefox Picture-in-Picture Mode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-on-iphone-image-softening-dive-into-the-fourfold-approach/"><u>2024 Approved Expertise on iPhone Image Softening Dive Into the Fourfold Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-life-into-text-instagram-story-animations-tips/"><u>2024 Approved Infusing Life Into Text Instagram Story Animations Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/advanced-tips-for-capturing-and-storing-desktop-content-for-2024/"><u>Advanced Tips for Capturing and Storing Desktop Content for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-hd-10-tablet-for-kids-a-comprehensive-look-at-its-exceptional-parental-control-system/"><u>Amazon Fire HD 10 Tablet for Kids: A Comprehensive Look at Its Exceptional Parental Control System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-killer-network-driver-updates-for-windows-11-8-and-7-download-now/"><u>Free Killer Network Driver Updates for Windows 11, 8 & 7 - Download Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590-for-2024/"><u>From Pixels to Power The Ultra HD World of Samsung UE590 for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/how-to-troubleshoot-a-malfunctioning-video-extraction-app/"><u>How to Troubleshoot a Malfunctioning Video Extraction App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-title-generators-for-youtube-visionaries-for-2024/"><u>Innovative Title Generators for YouTube Visionaries for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-guide-to-adding-new-hardware-drivers/"><u>Intuitive Guide to Adding New Hardware Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-pop-8-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Pop 8 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-list-of-ios-compatible-ps2-games-for-2024/"><u>[New] Comprehensive List of iOS-Compatible PS2 Games for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-series-of-animated-type-options/"><u>[New] Excellent Series of Animated Type Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/erfecting-your-youtube-videos-for-igtv-integration/"><u>[New] Perfecting Your Youtube Videos for IGTV Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora/"><u>[Updated] Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora</u></a></li>
+<li><a href="https://fox-http.techidaily.com/10-leading-mobile-vr-headsets-ranked/"><u>10 Leading Mobile VR Headsets Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-choosing-best-bdr-players-on-windowsmacos/"><u>2024 Approved Expert Guide Choosing Best BDR Players on Windows/macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hummingbird-hustle/"><u>2024 Approved Harmonious Hummingbird Hustle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-visual-experience-improved-fps-and-bug-fixes-now-available-in-mass-effect-epic-collection/"><u>Enhanced Visual Experience: Improved FPS and Bug Fixes Now Available in Mass Effect Epic Collection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-reverse-videos-on-android-in-2024/"><u>How to Reverse Videos on Android , In 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-12ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 12/iPad/iPod</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hush-for-restfulness-top-asmr-picks/"><u>In 2024, Harmonious Hush for Restfulness Top ASMR Picks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-8-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 8 Device from iCloud</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-the-lightroom-app-for-android-users-for-2024/"><u>In-Depth Analysis of the Lightroom App for Android Users for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-youtube-metrics-for-earning-livelihoods/"><u>Mastering YouTube Metrics for Earning Livelihoods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-googles-ar-sticker-innovation/"><u>Understanding Google's AR Sticker Innovation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?"
-date: 2024-09-18T19:08:52.584Z
-updated: 2024-09-24T05:39:02.588Z
+date: 2024-09-29T18:58:44.448Z
+updated: 2024-10-05T22:22:57.999Z
 tags:
   - cutting-edge
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
  While faulty prompts can give way to AI hallucinations, things also go a little deeper than this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  The Technical Side of AI Hallucinations
 
  Your typical AI chatbot functions using artificial neural networks. While these neural networks are nowhere near as advanced as those in the human brain, they're still fairly complex.
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 * Exceedingly long conversations stemming from a single prompt.
 
  Chatbots like ChatGPT, Google Bard, and Claude can tell you if they've detected that a given prompt doesn't make sense or needs refining. But the detection of faulty prompts isn't 100 percent (as we'll discuss further later), and it's the existing margins of error that give way to hallucinations.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Which AI Chatbots Hallucinate?
 
@@ -79,25 +93,11 @@ Jason Montoya / How-To Geek
 
 ![Screenshot of ChatGPT response to prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-hallucinate-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT caught out the person's height inconsistency in the problem, but not that of the building. So, ChatGPT provided a confident response, without realizing it was hallucinating. The response was also quite nonsensical overall, with its conclusion being that the man on top of the building is "already on the ground", and that he is only "slightly shorter" than the 100-200ft building.
 
  When we provided Claude with the same contradictory problem, it also gave a hallucinatory response.
 
 ![Screenshot of Claude AI bot's response to problem solving prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/claude-answer-problem.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this case, Claude missed both height inconsistencies, but still tried to solve the problem. It also provided nonsensical sentences, such as "He jumps off the building, so will fall 200 feet total (100 foot building height + 100 feet to ground).
 
@@ -105,14 +105,14 @@ Jason Montoya / How-To Geek
 
 ![Screenshot of Google Bard's response to a nonsensical prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bard-answer-ai.jpg) 
 
- In this instance, all three of the popular AI chatbots tested failed, either partially or entirely, to spot the errors in the prompt, giving way to hallucinatory responses.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In this instance, all three of the popular AI chatbots tested failed, either partially or entirely, to spot the errors in the prompt, giving way to hallucinatory responses.
 
 ###  How AI Chatbots Are Improving
 
@@ -123,13 +123,6 @@ Jason Montoya / How-To Geek
  According to a [study conducted by Vectara](https://github.com/vectara/hallucination-leaderboard), GPT-4 and GPT-4 Turbo have the lowest rates of hallucination compared to other AI models. GPT-4 and GPT-4 Turbo had a hallucination rate of three percent, with GPT-3.5 Turbo coming in second place, having a hallucination rate of 3.5 percent. Evidently, the newer GPT versions have an improved hallucination rate here.
 
  Anthropic's Claude 2 had a hallucination rate of 8.5 percent, though time will tell whether Claude 2.1 (released in November 2023) will have a lower rate. Google's Gemini Pro AI model, the successor to LaMDA and Palm 2, had a hallucination rate of 4.8 percent. While Vectara did not provide a rate for the first Claude model, it did state that Google Palm 2 and Google Palm 2 chat had very high hallucination rates of 12.1 percent and 27.2 percent respectively. Again, it's evident that the newer Google AI model has cracked down on hallucinations.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Avoid AI Hallucination
 
@@ -146,6 +139,13 @@ Jason Montoya / How-To Geek
  It's also important to fact-check any information an AI chatbot gives you. While these tools can be great factual resources, hallucination can give way to misinformation, so [AI chatbots shouldn't be used as a substitute to web search](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/).
 
  If you're very worried about AI hallucination, you may want to steer clear of AI chatbots for now, as hallucination is evidently still a prominent issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Be Wary of AI Hallucination
 
@@ -164,5 +164,18 @@ Jason Montoya / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-experts-picks-the-best-10-photography-lenses/"><u>[New] Expert's Picks The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-experiences-the-metaverse-explored-through-6-models/"><u>[New] Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-fast-forward-on-vimeo-for-2024/"><u>[New] Mastering Fast-Forward on Vimeo for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-best-underwater-cameras-for-deep-blue-explorations/"><u>[New] Unveiling Best Underwater Cameras for Deep Blue Explorations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-lut-sets-unlocked-dji-mini-air-2-in-the-spotlight/"><u>[Updated] Free LUT Sets Unlocked - DJI Mini, Air 2 in the Spotlight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s/"><u>2024 Approved How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-gap-between-xbox-and-steam-via-glossi/"><u>Bridge the Gap Between Xbox and Steam via GlosSI</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-magic-5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic 5 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-easy-tips-to-create-a-funny-meme/"><u>In 2024, Easy Tips to Create a Funny Meme</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-driver-failed-to-load-issue-with-proper-user-settings/"><u>Resolving the 'Driver Failed to Load' Issue with Proper User Settings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-v29e-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo V29e</u></a></li>
+</ul></div>
 

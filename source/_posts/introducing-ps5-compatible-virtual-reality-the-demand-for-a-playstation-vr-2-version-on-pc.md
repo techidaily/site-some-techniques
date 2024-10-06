@@ -1,7 +1,7 @@
 ---
 title: "Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC"
-date: 2024-09-17T16:19:04.063Z
-updated: 2024-09-24T00:00:01.712Z
+date: 2024-09-30T22:09:43.840Z
+updated: 2024-10-06T05:11:20.414Z
 tags:
   - cutting-edge
 categories:
@@ -22,18 +22,18 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  Sony's next-generation [PlayStation VR 2 headset](https://blog.playstation.com/2022/01/04/playstation-vr2-and-playstation-vr2-sense-controller-the-next-generation-of-vr-gaming-on-ps5/) is truly impressive. That makes it a real shame to limit it to the [PlayStation 5](https://www.amazon.com/stores/page/07A20468-F527-4562-8FB4-23F8ACBCD3A8?tag=htg-v2-ug34g4t-20&ascsubtag=UUhtgUeUpU207332&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778792%2Fhey-sony-we-want-the-playstation-vr-2-for-pc-vr-too%2F&asc%5Fcampaign=Short-Term) alone. We think Sony has much to gain by opening the PSVR 2 to PC users, too.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is PlayStation VR 2?
 
  The PlayStation VR 2 is the successor to the [PlayStation VR headset](https://www.amazon.com/PlayStation-VR-4/dp/B01DE9DY8S?tag=htg-v2-ug34g4t-20&ascsubtag=UUhtgUeUpU207332&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778792%2Fhey-sony-we-want-the-playstation-vr-2-for-pc-vr-too%2F&asc%5Fcampaign=Short-Term) released for use with the Sony PlayStation 4\. The PSVR re-used the PlayStation 4 camera and the Move controllers from the PlayStation 3 along with a special processing unit to make high-end VR possible on Sony's $399 console.
 
 ![A child using a Sony PS VR headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/shutterstock_1375053872.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Lutsenko\_Oleksandr/Shutterstock.com](https://www.shutterstock.com/image-photo/kyiv-ukraine-april-12-2019-boy-1375053872)
 
@@ -64,10 +64,10 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
  We think that making this technology a standard feature will motivate developers to use it and so PC ports of VR games are more likely to support it. Obviously, it would be ideal if the actual hardware could also work on PC and this is a prime reason to want the PlayStation VR 2 on PC.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is PC Gaming Competing With the PS5
@@ -76,27 +76,27 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
 
  The question is whether opening the PlayStation VR 2 to PC will affect that goal in any way. PC users who have no interest in PlayStation 5 may still buy the headset and we don't see that hurting sales of PlayStation VR 2 headsets to PlayStation 5 owners. In fact, PC gamers may be more likely to buy a PlayStation 5 in the future knowing that their single headset investment will cover both platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Sony Games Are Entering the PC Space
 
 ![Horizon Zero Dawn PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Horizon-Zero-Dawn-PC.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sony has slowly started releasing PC ports of some formerly exclusive games like Horizon: Zero Dawn. This has yet to happen with VR games or with PlayStation 5 exclusive games, but we can foresee a future where PC versions of PlayStation VR 2 games come to PC. If those games can only be fully experienced with the Sony headset, it does make sense to allow PC users access.
 
  There is some precedent for this. The DualSense controller works as a standard controller on PC and mobile devices, albeit without the full haptic experience. Some specific games, such as Metro Exodus, do support the full DualSense experience on something that isn't a PlayStation. So we know Sony isn't entirely averse to the idea.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Hard Would PC Compatibility Be?
 
@@ -127,5 +127,23 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-ultimate-select-masterful-instagram-hlv-artisans/"><u>[New] 2024 Approved Ultimate Select Masterful Instagram HLV Artisans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-your-top-choice-best-offline-mobile-games-for-endless-entertainment/"><u>[New] 2024 Approved Your Top Choice Best Offline Mobile Games for Endless Entertainment</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-seamless-slideshow-on-ig/"><u>[New] In 2024, Seamless SlideShow on IG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-draft-to-delightful-storyboarding-animations-in-movie-maker/"><u>[Updated] From Draft to Delightful Storyboarding Animations in Movie Maker</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-pixelpie-slicer/"><u>[Updated] In 2024, PixelPie Slicer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-app-assessment-vlles-view/"><u>[Updated] In-Depth App Assessment VLLE's View</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-finest-yt-unboxing-sequences/"><u>2024 Approved Explore the Finest YT Unboxing Sequences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-hero-with-photoshop-basics-in-snapseed/"><u>2024 Approved From Zero to Hero with Photoshop Basics in Snapseed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-techniques-for-seamless-image-to-pdf-conversion/"><u>2024 Approved IPhone Techniques for Seamless Image-to-PDF Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-the-innovations-of-magix-vpx/"><u>2024 Approved Pushing Boundaries The Innovations of Magix VPX</u></a></li>
+<li><a href="https://fox-access.techidaily.com/educational-videography-mastery-in-cutting-and-pacing-for-2024/"><u>Educational Videography Mastery in Cutting & Pacing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-devices-to-desktops-proven-file-transfer-ways-for-2024/"><u>From Devices to Desktops Proven File Transfer Ways for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-overcome-inactive-airdrop-on-multiple-apple-devices-for-2024/"><u>How to Overcome Inactive AirDrop on Multiple Apple Devices for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-with-windows-10s-newest-apps-and-games-for-2024/"><u>Innovate with Windows 10'S Newest Apps and Games for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-ps5-worth-it-4-reasons-why-you-should-buy-one/"><u>Is the PS5 Worth It? 4 Reasons Why You Should Buy One</u></a></li>
+</ul></div>
 

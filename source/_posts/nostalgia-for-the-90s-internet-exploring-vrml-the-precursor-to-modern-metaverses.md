@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses"
-date: 2024-09-18T06:59:35.640Z
-updated: 2024-09-23T21:48:34.174Z
+date: 2024-10-02T00:47:31.873Z
+updated: 2024-10-05T21:10:50.474Z
 tags:
   - cutting-edge
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  In the early 1990s, futurists and corporations combined forces to create [VRML](https://en.wikipedia.org/wiki/VRML), a Virtual Reality Modeling Language that promised to bring 3D graphics and virtual worlds to the web, heralding the dawn of [the metaverse](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/). Here's what it was---and why it didn't work out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  When 3D Was the Future
 
  At a time when real-time 3D computer graphics were out of reach for the average person, [3D interfaces](https://en.wikipedia.org/wiki/Fsn%5F%28file%5Fmanager%29) seemed like the next step forward in the evolution of computers---and maybe [even humanity itself](http://hyperreal.org/~mpesce/interview.html). The primary driver of the 3D buzz at the time was [virtual reality](https://en.wikipedia.org/wiki/Virtual%5Freality) (VR), which promised bodily immersion into simulated 3D worlds.
@@ -35,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![People demonstrating VPL virtual reality in the late 1980s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nasa_vr.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _NASA_
@@ -48,6 +41,19 @@ _NASA_
 Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) 
 
  In 1992, Neil Stephenson [coined the term "metaverse"](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) in his sci-fi novel Snow Crash. It crystallized ideas about the alternate realities in worldwide computer networks that originated from various sources, including William Gibson's [Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465/?tag=htg-v2-1o0vieq-20&ascsubtag=UUhtgUeUpU207342&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778554%2Fremembering-vrml-the-metaverse-of-1995%2F&asc%5Fcampaign=Short-Term) (1984), another influential cyberpunk novel. Without much delay or hesitation, computer engineers who read these books [set out](http://hyperreal.org/~mpesce/interview.html) to turn these dystopian cyberpunk visions into reality.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Enter VRML
 
@@ -60,13 +66,6 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
  (Although the term "metaverse" wasn't commonly in use at the time to describe this concept, a 1995 article from New Scientist titled ["How to Build a Metaverse"](https://people.well.com/user/bbear/vrml.html) made the connection with VRML.)
 
 ![A vintage VRML logo circa 1995-96](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_logo.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After picking up support from other developers, the VRML standard debuted in November 1994\. At first, VRML only supported 3D static objects, but over time the standard grew to encompass avatars, animations, pulling in multimedia, and more. Early on, VRML [drew support](https://www.cnet.com/tech/services-and-software/vrml-support-building/) from major corporations such as Microsoft, Netscape, Silicon Graphics, and dozens of others. For a short time, its future seemed pretty solid.
 
@@ -84,6 +83,13 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 ![Sony SAPARi VRML chat world graphics.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/sapari_shot.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sony
 
  Sony also ran a popular VRML-powered world in Japan called [SAPARi](https://web.archive.org/web/20021213091644/http://vrml.sony.co.jp/sapari/index.htm), which ran through a client [distributed on its VAIO computers](https://en.wikipedia.org/wiki/SAPARi) between 1997 and 2001\. The story doesn't end there, but VRML's fragmented past is currently scattered between the couch cushions of the internet, waiting for someone to pick up the pieces and reassemble the entire puzzle of this lost chapter of online history.
@@ -95,6 +101,13 @@ Sony
  In 1996, [CNET wrote](https://www.cnet.com/tech/services-and-software/vrml-not-quite-ready-for-real-world/) about VRML's failure to meet expectations, saying, "Bandwidth constraints, hardware limitations, and, worst of all, lack of compelling applications may make the 3D technology more virtual than real for the time being."
 
 ![A woman using a Virtuality headset in the 1990s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/virtuality_1990s.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Virtuality_
 
@@ -109,13 +122,6 @@ Related: [There Is No Metaverse (Yet)](https://extra-guidance.techidaily.com/new
  In some ways, we surpassed "reality" as the most efficient user interface in the 1990s. Physical embodiment in a VR world is not necessary to write a paper, order a pizza, play music, or share a photo of a cat. There are probably tens of thousands of tasks that can be done more efficiently with a 2D computer interface than with 3D simulated world. There are exceptions of course, but those exceptions still form a niche.
 
  Ultimately VRML was superseded by the [X3D standard](https://en.wikipedia.org/wiki/X3D) in 2001 (and some others), but generally, the "platform-independent web 3D" ship had sailed by then, and the buzz had moved on to other technologies and platforms. Hey, [remember Second Life](https://www.nbcnews.com/id/wbna17538999)?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3D Archeology: How to View VRML Files Today
 
@@ -144,5 +150,20 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-guide-to-vsdc-and-its-rivals-for-2024/"><u>[New] The Ultimate Guide to VSDC and Its Rivals for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-online-subtitle-converters-our-recommended-10/"><u>[Updated] Free Online Subtitle Converters Our Recommended 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-iphone-image-arrangement/"><u>2024 Approved Innovative Methods for iPhone Image Arrangement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/avoiding-common-errors-perfect-tripod-usage-in-video-production/"><u>Avoiding Common Errors Perfect Tripod Usage in Video Production</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-enhancing-user-experience-and-personalization/"><u>Cookiebot-Enabled: Enhancing User Experience & Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero-4-vs-hero-5-performance-face-off-for-2024/"><u>Hero 4 VS Hero 5 Performance Face-Off for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>In 2024, Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-the-core-plot/"><u>In 2024, Crafting the Core Plot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-increase-photographic-imagery-keeping-details-intact/"><u>In 2024, Increase Photographic Imagery, Keeping Details Intact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-video-content-for-budding-vloggers/"><u>In 2024, Innovative Video Content for Budding Vloggers</u></a></li>
+<li><a href="https://common-error.techidaily.com/include-key-search-terms-ensure-that-high-value-keywords-eg-microsoft-compatibility-telemetry-high-disk-usage-are-prominent-in-your-title-to-improve-visibil27/"><u>Include Key Search Terms: Ensure that High-Value Keywords (E.g., Microsoft Compatibility Telemetry, High Disk Usage) Are Prominent in Your Title to Improve Visibility and Relevance for Those Searching on Related Topics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722564042192-transform-your-internet-experience-with-amplifi-hd-mesh-say-goodbye-to-weak-wi-fi-areas/"><u>Transform Your Internet Experience with Amplifi HD Mesh - Say Goodbye to Weak Wi-Fi Areas!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-12-mini-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 12 mini i Do? Get Answers here</u></a></li>
+</ul></div>
 

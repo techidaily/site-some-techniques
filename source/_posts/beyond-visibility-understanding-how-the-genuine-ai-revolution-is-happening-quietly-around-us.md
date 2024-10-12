@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-10-01T23:17:51.257Z
-updated: 2024-10-06T02:27:34.639Z
+date: 2024-10-09T22:05:08.677Z
+updated: 2024-10-12T00:05:27.704Z
 tags:
   - mobile
 categories:
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -47,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -62,10 +56,10 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -93,21 +87,18 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>[New] Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-new-frontier-what-makes-triller-stand-out/"><u>[New] Exploring the New Frontier What Makes Triller Stand Out?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonious-messages-on-whatsapp-status/"><u>[New] Harmonious Messages on WhatsApp Status</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-brand-identity-complimentary-logo-templates-customization/"><u>[New] Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-can-you-stream-fb-videos-on-your-living-room-screen-this-year/"><u>[Updated] 2024 Approved Can You Stream FB Videos On Your Living Room Screen This Year?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfecting-sound-capture-reviewed-mac-compatible-recorders/"><u>[Updated] 2024 Approved Perfecting Sound Capture Reviewed Mac-Compatible Recorders</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-spiritual-slow-motion-videoworkshop-for-2024/"><u>[Updated] Spiritual Slow-Motion Videoworkshop for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-iphone-clips-simple-solutions-to-lighten-video/"><u>2024 Approved Illuminate iPhone Clips Simple Solutions to Lighten Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-resolve-network-communication-breakdown-in-windows-error-code-0x800704cf/"><u>Effective Techniques to Resolve Network Communication Breakdown in Windows (Error Code 0X800704CF)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-infinix-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Infinix</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-funnier-photos/"><u>In 2024, Fabricate Funnier Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-song-savers-entry-level-access/"><u>In 2024, FB Song Savers Entry Level Access</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-editing-for-fashion-hauls/"><u>In 2024, Harness the Power of Editing for Fashion Hauls</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ase-viewership-fairly-insights-for-video-marketers/"><u>Increase Viewership Fairly Insights for Video Marketers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-nokia-72-critique-a-flagship-contender-in-the-affordable-phone-arena/"><u>The Nokia 7.2 Critique: A Flagship Contender in the Affordable Phone Arena</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-video-seo-on-youtube-as-a-novice/"><u>[New] 2024 Approved Demystifying Video SEO on YouTube as a Novice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-improving-zoom-hd-quality-quick-fixes/"><u>[New] Improving Zoom HD Quality Quick Fixes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>[Updated] 2024 Approved Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framefusion-matrix-the-ultimate-montage-craft/"><u>[Updated] FrameFusion Matrix The Ultimate Montage Craft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-haven-gratuitous-meme-makers/"><u>[Updated] Humorous Haven Gratuitous Meme Makers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-leading-action-cameras-front-faced-views-available/"><u>2024 Approved Leading Action Cameras Front-Faced Views Available</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/become-a-social-butterfly-engage-in-fb-live-on-your-roku-box-for-2024/"><u>Become a Social Butterfly Engage in FB Live on Your Roku Box for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-installing-canon-dr-c225-printer-drivers-on-various-windows-versions/"><u>Guide: Installing Canon DR-C225 Printer Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography-for-2024/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10c-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark 10C Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-on-google-podcast-upload/"><u>In 2024, Guide on Google Podcast Upload</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-software-by-stellar-your-mac-based-jpeg-savior/"><u>Phoenix Software by Stellar - Your Mac-Based JPEG Savior</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/44ot44oh44kq44kz44oz44og44oz44oe44gu44gf44kb44gu55cg5ooz55qe44gq44ov44kh44kk44or44k44kk44ox44go5qmf5zmo44ks6kal44gk44gr44kl5pa55rov/"><u>ビデオコンテンツのための理想的なファイルタイプと機器を見つける方法</u></a></li>
 </ul></div>
 

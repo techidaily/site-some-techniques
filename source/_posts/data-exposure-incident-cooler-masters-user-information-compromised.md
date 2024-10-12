@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-10-05T01:14:30.215Z
-updated: 2024-10-05T23:58:55.063Z
+date: 2024-10-07T22:25:05.148Z
+updated: 2024-10-11T17:05:35.535Z
 tags:
   - web
 categories:
@@ -38,27 +38,27 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-capture-clear-and-smooth-aquatic-moments/"><u>[New] How to Capture Clear and Smooth Aquatic Moments</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-fullscreen-screen-recording-tools/"><u>[New] In 2024, Premium Fullscreen Screen Recording Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>[Updated] Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-handbook-for-instagram-reels/"><u>[Updated] The Essential Handbook for Instagram Reels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-track-framework-for-crafting-facebook-collage/"><u>2024 Approved Fast-Track Framework for Crafting Facebook Collage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-0-to-million-views-the-ultimate-content-blueprint/"><u>2024 Approved From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-puzzles-to-peril-the-gaming-genres-progression/"><u>2024 Approved From Puzzles to Peril The Gaming Genre's Progression</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-heartfelt-outro-samples-your-budget-our-designs/"><u>2024 Approved Heartfelt Outro Samples Your Budget, Our Designs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-optimizing-vlc-for-mac-performance/"><u>2024 Approved How-To Optimizing VLC for Mac Performance</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-conversion-techniques-for-turning-dem-demos-into-watchable-mp4-formats/"><u>Effortless Conversion Techniques for Turning DEM Demos Into Watchable MP4 Formats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-trends-how-edge-computing-boosts-job-opportunities-and-growth-insights-by-zdnet/"><u>Emerging Trends: How Edge Computing Boosts Job Opportunities & Growth - Insights by ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-15-plus-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 15 Plus Display? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-play-7t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor Play 7T to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-browse-and-compare-leading-affordable-quality-webm-streamers/"><u>In 2024, Browse and Compare Leading Affordable, Quality WebM Streamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-speed-sd-accessory-for-sony-a7c-model/"><u>In 2024, High-Speed SD Accessory for Sony A7C Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fix-zoo-membership-tackling-poor-sound-quality/"><u>[New] Fix Zoo Membership Tackling Poor Sound Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flip-shift-and-merge-videos-for-professional-android-results/"><u>[New] Flip, Shift & Merge Videos for Professional Android Results</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-iphone-meme-creations/"><u>[New] Iconic iPhone Meme Creations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-pro-tip-speedy-like-video-strategies/"><u>[New] Instagram Pro Tip Speedy Like-Video Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-approach-to-convert-webp-images-to-jpeg/"><u>[New] Professional Approach to Convert WebP Images to JPEG</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cost-free-match-mastery-how-to-stream-and-slice/"><u>[Updated] 2024 Approved Cost-Free Match Mastery How to Stream and Slice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-next-generation-of-social-video-periscopes-counterparts/"><u>[Updated] In 2024, The Next Generation of Social Video Periscope's Counterparts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-techniques-for-capturing-minute-details-on-video-for-2024/"><u>Expert Techniques for Capturing Minute Details on Video for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-10-finest-iphone-photo-editors-and-filters-for-2024/"><u>Explore the 10 Finest iPhone Photo Editors & Filters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-5-top-drones-on-market/"><u>In 2024, Expert-Recommended 5 Top Drones on Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-speed-photo-inspector-for-windows-11/"><u>In 2024, High-Speed Photo Inspector for Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-time-saving-shortcuts-for-efficient-mac-screenshots/"><u>In 2024, Unveiling Time-Saving Shortcuts for Efficient Mac Screenshots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nocturnal-notions-for-iphone-photographers-for-2024/"><u>Nocturnal Notions for iPhone Photographers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c55-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C55 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-playstation-controls-with-your-windows-or-macos/"><u>Using PlayStation Controls with Your Windows or macOS</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
-date: 2024-10-04T04:43:06.280Z
-updated: 2024-10-06T11:19:23.025Z
+date: 2024-10-06T00:12:35.989Z
+updated: 2024-10-11T16:50:31.530Z
 tags:
   - web
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 352nd Connections game to get you started:
@@ -46,10 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -59,15 +52,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Spelling Bee Ranks.
 * **Purple:** Adjectives for a Candle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![May 28th Connections words sorted into four groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Amenable (Yellow):** 
@@ -86,6 +86,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Lit, Scented, Waxy, Wicked
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 28th was tougher than yesterday's game and harder than average. 
@@ -99,13 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With only 8 words left, something odd struck me about evil, live, veil, and vile: they all have the same letters. There was just no way that was a coincidence, so I threw them together in a group. Green was "Anagrams."
 
  That left amazing, beginning, genius, and sound. Try as I might, I couldn't see the connection. It turns out that Blue was "Spelling Bee Ranks." That will be a tough one for anyone that has never participated in a spelling bee. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -135,19 +135,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors-for-2024/"><u>[New] Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-new-realms-the-ultimate-guide-to-iphone-vr-gaming/"><u>[New] Explore New Realms The Ultimate Guide to IPhone VR Gaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximize-engagement-and-impact-premier-tracking-applications-for-content-creators/"><u>[New] Maximize Engagement and Impact Premier Tracking Applications for Content Creators</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-boost-communication-capabilities-from-skype-to-zoom/"><u>[Updated] 2024 Approved Boost Communication Capabilities From Skype to Zoom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[Updated] Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>[Updated] From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-instagrams-hidden-gems-tailored-to-your-passions/"><u>[Updated] Unlocking Instagram’s Hidden Gems Tailored to Your Passions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-top-10-websites-for-no-fee-images/"><u>2024 Approved Explore the Top 10 Websites for No-Fee Images</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-professional-ppt-recording-tactics-and-tricks/"><u>2024 Approved Professional PPT Recording Tactics and Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-growth-galore-strategies-for-surpassing-yield-with-youtube-mobile-audiences/"><u>In 2024, Growth Galore Strategies for Surpassing Yield with YouTube Mobile Audiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>In 2024, How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mute-movie-tracks-steps-to-strip-audio-from-mov-files-in-windows-and-mac-os/"><u>Mute Movie Tracks Steps to Strip Audio From MOV Files in Windows and Mac OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wtv-to-mpeg-online-upgrade-get-your-media-in-top-quality-playback-for-free/"><u>WTV to MPEG Online Upgrade - Get Your Media in Top-Quality Playback for Free!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-screen-mastery-for-premier-pro-users/"><u>[New] Full Screen Mastery for Premier Pro Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war/"><u>[New] Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illustrate-laughter-memes-in-adobe/"><u>[New] Illustrate Laughter Memes in Adobe</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-champion-captures-educations-audio-leaders-for-2024/"><u>[Updated] Champion Captures Education's Audio Leaders for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficiently-generating-clear-and-concise-images-thumbnails-for-2024/"><u>[Updated] Efficiently Generating Clear and Concise Images Thumbnails for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garmins-innovative-ultra-30-review-full-capabilities-examined/"><u>[Updated] Garmin's Innovative Ultra 30 Review Full Capabilities Examined</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023/"><u>[Updated] In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-8-upgrades-for-webcam-video-quality/"><u>[Updated] Innovative 8 Upgrades for Webcam Video Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-guide-to-seamless-podcast-submission/"><u>2024 Approved Google's Guide to Seamless Podcast Submission</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-se-2020-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone SE (2020)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-control-windows-11-shutdown-with-open-filestasks/"><u>How to Control Windows 11 Shutdown with Open Files/Tasks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-of-features-in-the-latest-apple-watch-series-9-model/"><u>In-Depth Assessment of Features in the Latest Apple Watch Series 9 Model</u></a></li>
+<li><a href="https://win-blog.techidaily.com/terraria-crash-troubles-here-are-the-best-solutions-for-smooth-gaming-this-year/"><u>Terraria Crash Troubles? Here Are the Best Solutions for Smooth Gaming This Year!</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-choosing-and-changing-screensavers-in-win11/"><u>The Art of Choosing and Changing Screensavers in Win11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
 </ul></div>
 

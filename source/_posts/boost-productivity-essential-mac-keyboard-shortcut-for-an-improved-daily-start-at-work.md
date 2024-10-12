@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-10-05T11:29:27.314Z
-updated: 2024-10-06T10:07:32.184Z
+date: 2024-10-09T03:42:26.951Z
+updated: 2024-10-12T01:58:17.402Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,16 +41,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -70,10 +64,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -101,19 +95,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-capture-time-bending-reels-with-slow-motion-hacks-on-ig/"><u>[New] Capture Time-Bending Reels with Slow Motion Hacks on IG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-gopro-for-time-lapse-shooting/"><u>[New] How to Use GoPro for Time-Lapse Shooting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experience-advanced-note-organization-on-mematic/"><u>[Updated] Experience Advanced Note Organization on Mematic</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lgs-ultrafine-vision-a-thorough-4k-screen-evaluation/"><u>[Updated] LG's UltraFine Vision A Thorough 4K Screen Evaluation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boost-your-visual-language-with-premium-affects-extensions-for-2024/"><u>Boost Your Visual Language with Premium Affects Extensions for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/elevate-engagement-posting-video-content-from-twitter-on-snapchat-for-2024/"><u>Elevate Engagement Posting Video Content From Twitter on Snapchat for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fastest-mobile-apps-for-speeding-up-sound-tracks-for-2024/"><u>Fastest Mobile Apps for Speeding Up Sound Tracks for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hds-radiance-reviewed-does-it-merit-the-hdr-label/"><u>In 2024, HD's Radiance Reviewed Does It Merit the HDR Label?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-of-dji-mavic-pro-eyewear-tech-for-2024/"><u>In-Depth Review of DJI Mavic Pro Eyewear Tech for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-7afrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel 7aFRP Lock</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/leading-video-cameras-of-2024-reviewed-and-rated/"><u>Leading Video Cameras of 2024 Reviewed & Rated</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y55s-5g-2023-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y55s 5G (2023) Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-video-downsampling-six-strategies-for-efficiently-shrinking-massive-videos/"><u>Ultimate Guide to Video Downsampling: Six Strategies for Efficiently Shrinking Massive Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-downloading-youtube-srt-a-step-by-step-threefold-approach/"><u>[New] Downloading YouTube SRT A Step-by-Step, Threefold Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flexible-cam-mount-revolutionary-positioning-control/"><u>[New] Flexible Cam Mount Revolutionary Positioning Control</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-organize-photo-album-on-iphone-and-icloud/"><u>[New] How To Organize Photo Album On iPhone And iCloud</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-groups-shaping-future-of-vr-worlds/"><u>[New] Innovative Groups Shaping Future of VR Worlds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-selection-8-must-have-laptop-backgrounds-for-2024/"><u>[New] Ultimate Selection 8 Must-Have Laptop Backgrounds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-vlc-options-and-rivals/"><u>2024 Approved Exploring VLC Options and Rivals</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-sony-xperia-5-v-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Sony Xperia 5 V Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-channel-your-inner-metaverse-wit-for-2024/"><u>How to Channel Your Inner Metaverse Wit for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-system/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Your Windows 10 System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-uses-of-the-code-interpretation-feature-in-chatgpt/"><u>Top 6 Uses of the Code Interpretation Feature in ChatGPT</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transferring-powerpoint-links-into-flipbook-format-with-ease-a-step-by-step-guide/"><u>Transferring PowerPoint Links Into FlipBook Format with Ease - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-ps4-controller-with-ease/"><u>Ultimate Guide: Connecting Your PS4 Controller with Ease</u></a></li>
 </ul></div>
 

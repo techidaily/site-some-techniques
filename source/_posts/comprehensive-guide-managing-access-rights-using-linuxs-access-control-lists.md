@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2024-10-05T06:47:54.537Z
-updated: 2024-10-05T23:29:43.328Z
+date: 2024-10-10T20:43:23.342Z
+updated: 2024-10-12T01:16:22.816Z
 tags:
   - desktop
 categories:
@@ -19,9 +19,23 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
  Are you in charge of a shared file server between multiple groups of people, who all need varying access? In this tutorial we'll go over the basics of ACLs and employ them in a fictional office scenario.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Are ACLs?
 
  Access Control Lists (ACLs) supplement the [standard file system permissions model on Linux and Unix](https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/). In a nutshell, they allow you to go beyond the "user/group/other" concept to create additional sets of permissions for files and directories. They also do neat things like automatically applying permissions to new files and directories. But first, let's cover some basic Linux file system permissions concepts in which ACLs work alongside.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Standard File System Permissions
 
@@ -88,10 +102,10 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 ![A terminal window showing output of tune2fs command, and acl default mount option circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For reference, here's a [list of different file system support for ACLs, grouped by platform, written by IBM](https://www.ibm.com/docs/en/storage-protect/8.1.21?topic=linux-file-system-acl-support).
@@ -103,13 +117,6 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 getfacl report.pdf
 
 ![A terminal window showing getfacl command and its output on a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Right now the output shows the _minimum ACL_ of the file. The minimum ACL comprises the standard permissions for the owner, owning group and all other users.
 
@@ -126,16 +133,17 @@ ls -l report.pdf
 ![A terminal window showing ls command output with ACL entry flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The setfacl Command
@@ -146,21 +154,7 @@ ls -l report.pdf
 
 sudo setfacl -m u:lumberg:r report.pdf
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![A terminal window showing the setfacl command modifying a file's ACL entry.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **\-m** means we're modifying an ACL entry for the file
 * **u:** means it's a user we're adding, followed by a colon (:) separator (a **g:** adds a group and **o:** adds all other users' permissions)
@@ -174,14 +168,14 @@ getfacl report.pdf
 
 ![A terminal window showing output of getfacl command on our sample file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do you spot our new entry?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Default ACLs
 
@@ -212,19 +206,14 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-gap-between-standard-and-virtual-reality-video/"><u>[New] Exploring the Gap Between Standard & Virtual Reality Video</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-image-recording-assistant-for-2024/"><u>[New] Image Recording Assistant for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[New] In 2024, Perfecting Your Content Understanding Facebook Video Sizes and Ratios</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-danger-of-censorship/"><u>[Updated] 2024 Approved The Danger of Censorship</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[Updated] A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[Updated] Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-get-loved-fast-essential-bio-hacks-that-work-on-every-version-of-tinder/"><u>[Updated] Get Loved, Fast Essential Bio Hacks that Work on Every Version of Tinder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-the-revolutionary-4k-features-in-benq-sw320/"><u>2024 Approved In-Depth Analysis The Revolutionary 4K Features in BenQ SW320</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-spotify-promos-your-comprehensive-guide/"><u>2024 Approved Mastering Spotify Promos Your Comprehensive Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamlining-video-workflow-capture-save-refine-using-adobe-connect/"><u>2024 Approved Streamlining Video Workflow Capture, Save, Refine Using Adobe Connect</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-iphoneandroid-blur-application-guide-for-2024/"><u>Expert iPhone/Android Blur Application Guide for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/explore-the-finest-top-8-android-mp3-downloader-apps-for-2024/"><u>Explore the Finest Top 8 Android MP3 Downloader Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-youtube-to-high-definition-prime-downloader-choices/"><u>In 2024, From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-easy-ways-to-harvest-youtubes-default-iconography-for-2024/"><u>Three Easy Ways to Harvest Youtube's Default Iconography for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-take-on-magix-video-pro-x/"><u>[New] Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-latest-windows-10-gaming-and-application-hits/"><u>[New] Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-video-network-for-live-and-on-demand-viewers/"><u>[New] Premier Video Network for Live and On-Demand Viewers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-best-5-gopro-filters-for-underwater-video-shooting/"><u>2024 Approved Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fcp-no-cost-access-a-guide/"><u>2024 Approved FCP No-Cost Access A Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-poco-m6-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco M6 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-igniting-laughter-a-path-to-meme-fame/"><u>In 2024, Igniting Laughter A Path to Meme Fame</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-connectivity-issues-with-find-my-iphone-troubleshooting-and-discovering-lost-devices/"><u>Overcoming Connectivity Issues with Find My iPhone: Troubleshooting and Discovering Lost Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-10-battle-royale-matchups-for-2024/"><u>Ultimate 10 Battle Royale Matchups for 2024</u></a></li>
 </ul></div>
 

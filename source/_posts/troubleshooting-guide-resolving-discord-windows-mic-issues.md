@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-10-03T18:24:09.714Z
-updated: 2024-10-06T05:09:04.521Z
+date: 2024-10-06T17:11:36.292Z
+updated: 2024-10-12T02:54:52.611Z
 tags:
   - desktop
 categories:
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  If your microphone has stopped working in Discord on Windows, ensure the device isn’t physically damaged. If it looks good, your app or your system might have a glitch, causing the problem. We’ll offer a few solutions to resolve it.
 
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Run Discord as an Admin
 
@@ -53,22 +46,15 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Microphone Access' and 'Let Apps Access Your Microphone' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-enable-mic-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Windows 10, navigate to Settings > Privacy > Microphone. On the right pane, select "Change" and turn on the toggle. On the same page, enable both "Allow Apps to Access Your Microphone" and "Allow Desktop Apps to Access Your Microphone" options.
 
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
 
@@ -78,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
@@ -98,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and navigate to the User Settings page (the gear icon in the bottom-left). Select "Voice & Video" in the left sidebar, then scroll down in the right pane and choose "Reset Voice Settings."
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
 
@@ -137,15 +137,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/oosting-youtube-interaction-with-emojis-for-2024/"><u>[New] Boosting YouTube Interaction with Emojis for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-giggle-in-the-virtual-realm-how-to-create-your-own-hilarious-memes/"><u>[New] Giggle in the Virtual Realm How to Create Your Own Hilarious Memes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-highlight-optimization-checklist-for-brands/"><u>[New] In 2024, The Ultimate Highlight Optimization Checklist for Brands</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-pick-websites-showcasing-hd-sky-shots/"><u>[Updated] Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-capabilities-of-yuneecs-typhoon-uav/"><u>[Updated] Exploring the Capabilities of Yuneec’s Typhoon UAV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-ins-and-outs-of-quantum-hdr/"><u>[Updated] Exploring the Ins and Outs of Quantum HDR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-enable-windows-11-auto-hdr-settings/"><u>[Updated] Guide to Enable Windows 11 Auto-HDR Settings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-supercharged-video-engagement-with-youtube-notes-for-2024/"><u>[Updated] Guide to Supercharged Video Engagement with YouTube Notes for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Camon 20 Pro 5G Phone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-runners-choice-exploring-the-best-running-watches-available-in/"><u>The Runner's Choice: Exploring the Best Running Watches Available In</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-years-predictions-rendered-in-infographics/"><u>[New] 2024 Approved The Year's Predictions Rendered in Infographics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flight-to-film-the-drone-editors-playbook/"><u>[New] From Flight to Film The Drone Editor's Playbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expertly-mastering-file-imports-in-the-realm-of-windows-10/"><u>[New] In 2024, Expertly Mastering File Imports in the Realm of Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimal-techniques-recording-console-games-via-pc/"><u>[New] In 2024, Optimal Techniques Recording Console Games via PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-ai-naming-software-for-podcasters/"><u>[Updated] Explore the Best AI Naming Software for Podcasters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-igtv-techniques-seamlessly-transforming-vlogs-for-maximum-views/"><u>[Updated] IGTV Techniques Seamlessly Transforming Vlogs for Maximum Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ideal-vlogging-gear-the-best-15-cameras-ranked/"><u>[Updated] In 2024, Ideal Vlogging Gear The Best 15 Cameras Ranked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfect-accompaniments-for-your-sj4000-journey/"><u>[Updated] Perfect Accompaniments for Your SJ4000 Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-best-ways-to-get-high-quality-version-of-pictures-for-free/"><u>2024 Approved Best Ways To Get High Quality Version Of Pictures For Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-best-gopro-cases-rated-1-10/"><u>2024 Approved Explore Best GoPro Cases Rated #1-10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/beautifying-videos-for-youtube-viewers/"><u>Beautifying Videos for YouTube Viewers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elite-video-equipment-revolutionizing-podcasts-for-2024/"><u>Elite Video Equipment Revolutionizing Podcasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-breakdown-the-true-price-of-a-podcast-for-2024/"><u>Expert Breakdown The True Price of a Podcast for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-best-face-pixeling-tools-for-privacy-for-2024/"><u>Exploring the Best Face-Pixeling Tools for Privacy for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities-for-2024/"><u>Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-improve-video-quality-in-zoom-meetings-for-2024/"><u>How to Improve Video Quality in Zoom Meetings for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
 

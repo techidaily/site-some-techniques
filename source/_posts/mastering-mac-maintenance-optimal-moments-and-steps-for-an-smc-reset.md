@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-10-02T10:00:32.516Z
-updated: 2024-10-06T05:26:42.178Z
+date: 2024-10-05T22:09:28.529Z
+updated: 2024-10-12T00:14:37.423Z
 tags:
   - desktop
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Apple Silicon Mac
@@ -56,18 +56,18 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
 
  On Intel MacBooks with the T2 chip, which means most models from 2018 or later, Apple recommends an extra step before resetting the SMC. Shut down your Mac and press and hold the power button for 10 seconds. Wait a few extra seconds and then turn your Mac back on to see if the problem has been fixed.
 
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -88,10 +88,10 @@ Hannah Stryker / How-To Geek
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -126,21 +126,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-google-cardboard-vs-samsung-gear-vr/"><u>[New] Google Cardboard Vs. Samsung Gear VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>[New] Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-step-by-step-process-to-shoot-with-a-fisheye-lens/"><u>[Updated] In 2024, Step-by-Step Process to Shoot with a Fisheye Lens</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-muting-problem-solutions-for-obs-sound-capture-for-2024/"><u>[Updated] Muting Problem Solutions for OBS Sound Capture for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-beyond-boundaries-the-present-state-and-future-of-vr/"><u>2024 Approved Beyond Boundaries The Present State and Future of VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-heart-of-narrative-design/"><u>2024 Approved Grasping the Heart of Narrative Design</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-prevent-elite-dangerous-from-crashing-on-your-pc/"><u>Fixes and Solutions: How to Prevent Elite Dangerous From Crashing on Your PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile-for-2024/"><u>Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hatch-humorous-habits-for-2024/"><u>Hatch Humorous Habits for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-techniques-converting-visual-media-on-pinterest-to-mp3s/"><u>In 2024, Fundamental Techniques Converting Visual Media on Pinterest To MP3s</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hot-topic-in-photos-memes-and-their-origin-tales/"><u>In 2024, Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-leverage-seo-power-secrets-of-effective-youtube-backlink-building/"><u>In 2024, Leverage SEO Power Secrets of Effective YouTube Backlink Building</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revive-your-stuck-keys-effective-solutions-to-restore-type-functionality/"><u>Revive Your Stuck Keys: Effective Solutions to Restore Type Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-f23-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo F23 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filmcrafters-compendium-unpacked-qanda/"><u>[New] FilmCrafters' Compendium Unpacked Q&A</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences/"><u>[New] Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-videos-directly-on-twitter-via-mobile-devices-only/"><u>[New] In 2024, Share Videos Directly on Twitter via Mobile Devices Only</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>[Updated] Gazing Into Clarity In-Depth on the HP Z32X Monitor</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-pin-a-message-on-discord/"><u>[Updated] In 2024, How to Pin A Message on Discord?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfecting-speech-interpretation-using-google-tools-for-2024/"><u>[Updated] Perfecting Speech Interpretation Using Google Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guidelines-to-broaden-youtube-content-area/"><u>2024 Approved Guidelines to Broaden YouTube Content Area</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages/"><u>2024 Approved Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-practices-for-4k-screen-recording-for-2024/"><u>Best Practices for 4K Screen Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/four-k-faceoff-sj6-legend-versus-xiaomis-yi-prototype-for-2024/"><u>Four-K Faceoff SJ6 Legend Versus Xiaomi's Yi Prototype for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-feat-hero5-black-vs-hero4-silver-edition-battle/"><u>In 2024, High-Fidelity Feat Hero5 Black vs Hero4 Silver Edition Battle</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-professional-camera-techniques-for-superior-igtv-videos/"><u>In 2024, Mastering Professional Camera Techniques for Superior IGTV Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-narzo-n53-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Narzo N53 Screen | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-6s-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 6s Plus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
-date: 2024-09-30T05:17:21.670Z
-updated: 2024-10-05T23:56:07.728Z
+date: 2024-10-05T00:48:37.847Z
+updated: 2024-10-11T21:30:49.994Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Activate the FTP Server](https://extra-information.techidaily.com/best-buddy-list-in-the-virtual-realm-games/)
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * FTP is a 53-year old protocol still effective for moving files between devices on the same Wi-Fi network.
@@ -27,10 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is FTP?
@@ -48,10 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -68,13 +81,6 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -85,16 +91,16 @@ Close
 
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
@@ -119,20 +125,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-easy-methods-for-archiving-digital-meeting-recordings-for-2024/"><u>[New] Easy Methods for Archiving Digital Meeting Recordings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-fundamentals-of-av1-encoding/"><u>[New] Exploring the Fundamentals of AV1 Encoding</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tune-transfer-the-ultimate-selection-of-free-android-apps-for-youtube-melodies/"><u>[New] Tune Transfer The Ultimate Selection of Free Android Apps for YouTube Melodies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>[Updated] Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-face-to-face-video-glitch-9-quick-fixes-for-fir-chrome-safari-users/"><u>2024 Approved Face-to-Face Video Glitch 9 Quick Fixes for Fir, Chrome, Safari Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-find-the-best-online-subtitle-converters-for-no-cost/"><u>2024 Approved Find the Best Online Subtitle Converters for No Cost</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freedomforsounders-review-extraction-excellence/"><u>2024 Approved FreedomForSounders Review Extraction Excellence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-webcams-for-professional-podcasting/"><u>2024 Approved High-Fidelity Webcams for Professional Podcasting</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-open-cities-new-stories-exploring-beyond-gta/"><u>2024 Approved Open Cities, New Stories Exploring Beyond GTA</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/elevate-social-media-engagement-cutting-edge-fb-ad-techniques-for-2024/"><u>Elevate Social Media Engagement Cutting-Edge FB Ad Techniques for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/galaxy-s8s-ultra-hd-experience-unveiled-for-2024/"><u>Galaxy S8's Ultra HD Experience Unveiled for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-x5-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco X5 Pro Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-narzo-60x-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme Narzo 60x 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/streaming-social-feeds-on-your-smart-tv-whats-next-for-2024/"><u>Streaming Social Feeds on Your Smart TV What's Next for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-substitutes-for-imobie-phonerescue-professional-data-restoration-solutions/"><u>Top Substitutes for iMobie PhoneRescue: Professional Data Restoration Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>[New] From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-story-arcs-in-cinemas-pantheon/"><u>[New] Iconic Story Arcs in Cinema’s Pantheon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-reaction-gurus-playbook-crafting-unforgettable-videos-in-under-5-minutes-each/"><u>[New] The Reaction Guru's Playbook Crafting Unforgettable Videos in Under 5 Minutes Each</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-5-outstanding-book-tts/"><u>[New] The Ultimate Collection 5 Outstanding Book TTs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-7-best-tiktok-emojis-and-how-to-discover-tiktok-secret-emojis/"><u>[Updated] 2024 Approved 7 Best TikTok Emojis and How to Discover TikTok Secret Emojis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-freedomsongextractors-evolution-in-the-2024-landscape/"><u>[Updated] FreedomSongExtractor's Evolution in the 2024 Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-range-riffs-and-rhythms-in-free-fire/"><u>2024 Approved Free Range Riffs and Rhythms in Free Fire</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/best-free-tools-for-converting-your-favorite-songs-from-spotify-discover-sidifys-top-alternatives/"><u>Best Free Tools for Converting Your Favorite Songs From Spotify - Discover Sidify's Top Alternatives!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-way-to-repair-your-hard-drive-with-windows-chkdsk-command/"><u>Effective Way to Repair Your Hard Drive with Windows' Chkdsk Command</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-logo-blueprints-to-refine-and-personalize-your-symbol-for-2024/"><u>Free Logo Blueprints to Refine and Personalize Your Symbol for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-worlds-unveiled-delving-into-mr-ar-and-vrs-distinctions-for-2024/"><u>Immersive Worlds Unveiled Delving Into MR, AR, and VR's Distinctions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-tide-gear-surfing-camera-innovations-of-2023/"><u>In 2024, High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-s17-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo S17 to iPod | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/time-travel-photos-on-snapchat-step-by-step-guide-for-2024/"><u>Time-Travel Photos on Snapchat Step by Step Guide for 2024</u></a></li>
 </ul></div>
 

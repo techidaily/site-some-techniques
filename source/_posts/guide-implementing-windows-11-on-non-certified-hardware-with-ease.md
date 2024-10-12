@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-10-01T05:43:45.470Z
-updated: 2024-10-06T04:38:10.952Z
+date: 2024-10-10T04:16:50.503Z
+updated: 2024-10-12T02:58:28.886Z
 tags:
   - deals
 categories:
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benj Edwards / How-To Geek
 
 ##  How to Enable Secure Boot
@@ -90,6 +83,13 @@ Benj Edwards / How-To Geek
  If you are able to enable Secure Boot, re-run the PC Health Check tool. You can now upgrade normally — assuming Secure Boot was the only problem.
 
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -119,6 +119,13 @@ HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
 
 ![Enter the address in the Registry Editor's location bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/plug-in-address.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click in the right pane, select New > DWORD (32-bit) Value, and enter the following text as the name:
 
 AllowUpgradesWithUnsupportedTPMOrCPU
@@ -126,22 +133,21 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
 
 ![Enter &quot;1&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/set-registry-value.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Want to skip the registry-editing process? Download our [Enable Unsupported Upgrades registry hack](https://driver-error.techidaily.com/device-seeks-additional-resources-for-operation/) to perform the change in just a few clicks.
 
@@ -152,10 +158,10 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 ![Double-click the REG file and click &quot;Yes&quot; to agree.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/reg-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To ensure the change takes effect, reboot your PC before continuing.
@@ -165,10 +171,10 @@ AllowUpgradesWithUnsupportedTPMOrCPU
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
@@ -198,19 +204,21 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft/"><u>[Updated] 2024 Approved Unlocking the Secrets to Effective Screen Capturing with Apeaksoft</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>[Updated] In 2024, Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-podcast-spotlight-listen-and-like-instantly-for-2024/"><u>[Updated] Podcast Spotlight Listen and Like Instantly for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-zoom-etiquette-secrets-to-polite-and-productive-online-chats/"><u>[Updated] The Art of Zoom Etiquette Secrets to Polite and Productive Online Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-swift-and-smooth-media-navigation-for-2024/"><u>Expert Strategies for Swift and Smooth Media Navigation for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/script-to-screen-youtube-video-creation-made-simple-for-2024/"><u>From Script to Screen YouTube Video Creation Made Simple for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-cinematography-made-easy-with-ois-technology/"><u>In 2024, High Quality Cinematography Made Easy With OIS Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-activate-auto-hdr-setting-in-windows-11/"><u>In 2024, How to Activate Auto HDR Setting in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-trimming-techniques-apples-ios-solutions/"><u>In 2024, Image Trimming Techniques Apple's iOS Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-sound-softening-for-professional-productions/"><u>In 2024, Incremental Sound Softening for Professional Productions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-in-motion-capture-for-enhanced-ux/"><u>In 2024, Innovations in Motion Capture for Enhanced UX</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/interactive-features/"><u>Interactive Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-channel-mastery-with-studio-power-ups-for-2024/"><u>Unlocking Channel Mastery with Studio Power-Ups for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-xr-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone XR Passcode without a Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-present-vr-innovations/"><u>[New] Exploring Present VR Innovations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-zoom-on-your-windows-10-pc/"><u>[New] Harness the Power of Zoom on Your Windows 10 PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-picks-the-top-5-professional-drone-brands/"><u>[Updated] Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-androids-best-podcast-apps-top-6-revealed/"><u>[Updated] Explore Android's Best Podcast Apps - Top 6 Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-20-anime-opener-hits/"><u>[Updated] Exploring Top 20 Anime Opener Hits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-voice-enhancement-programs-for-virtual-stars/"><u>[Updated] In 2024, Leading Voice Enhancement Programs for Virtual Stars</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-free-full-version-software-for-copying-dvds-on-windows-10-or-11-top-picks-of-2/"><u>Best Free Full-Version Software for Copying DVDs on Windows 10 or 11 - Top Picks of 2</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extracting-visuals-in-windows-11-photos/"><u>In 2024, Extracting Visuals in Windows 11 Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-online-destinations-for-video-promotion/"><u>In 2024, Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-file-organization-skills-in-windows-11-edition/"><u>Perfect Your File Organization Skills in Windows 11 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-selection-of-360-videography-tools/"><u>Prime Selection of 360° Videography Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dxgkrnl-fatal-error-in-windows-videos-step-by-step-guide/"><u>Solving the Dxgkrnl Fatal Error in Windows Videos - Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo Reno 10 Pro 5G.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wastelands-ii-the-directors-cut-version-critique-an-engaging-strategy-and-adventure-game/"><u>Wastelands II - The Director's Cut Version Critique: An Engaging Strategy and Adventure Game</u></a></li>
 </ul></div>
 

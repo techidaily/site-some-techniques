@@ -1,7 +1,7 @@
 ---
 title: How to Check the Specifics of Your Windows 11 Installation
-date: 2024-10-03T21:33:41.115Z
-updated: 2024-10-05T21:43:05.742Z
+date: 2024-10-09T17:16:33.116Z
+updated: 2024-10-11T22:32:19.918Z
 tags:
   - deals
 categories:
@@ -17,24 +17,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -45,16 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Check Windows Version with the Settings App
@@ -62,6 +50,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
@@ -76,22 +71,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -113,19 +101,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-industrys-preferred-6-social-networking-sites-for-firms/"><u>[New] Industry's Preferred 6 Social Networking Sites for Firms</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-tecno-camon-20-device-sim-by-drfone-android/"><u>Easily Unlock Your Tecno Camon 20 Device SIM</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-concept-to-completion-a-windows-10-video-editors-journey-for-2024/"><u>From Concept to Completion A Windows 10 Video Editor’s Journey for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-connoisseur-of-funimate-games-for-2024/"><u>From Novice to Connoisseur of Funimate Games for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/groundwork-unraveling-storytellings-foundations-for-2024/"><u>Groundwork Unraveling Storytelling's Foundations for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-handheld-panorama-peacekeeper-360-stabilizer/"><u>In 2024, Handheld Panorama Peacekeeper 360° Stabilizer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-video-enhancement-using-vce-22-for-2024/"><u>Innovative Video Enhancement Using VCE 2.2 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/jumpstart-your-projects-using-xps-film-editor-for-2024/"><u>Jumpstart Your Projects Using XP's Film Editor for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/master-iphones-artistic-capabilities-capturing-movement-blur/"><u>Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoration-of-screen-preferences-achieved/"><u>Restoration of Screen Preferences Achieved</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/steelseries-arctis-5-headset-driver-software-free-download-and-setup-guide/"><u>SteelSeries Arctis 5 Headset Driver Software - Free Download and Setup Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-secrets-to-customizing-your-storys-pace-in-instagram/"><u>The Secrets to Customizing Your Story's Pace in Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-aim-the-rise-and-evolution-of-aols-messaging-service/"><u>Understanding AIM: The Rise and Evolution of AOL's Messaging Service</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-5-tips-for-enhancing-roblox-gaming-recordings-mac-for-2024/"><u>[New] 5 Tips for Enhancing Roblox Gaming Recordings (Mac) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-google-photos-complete-guide/"><u>[New] How to Google Photos [Complete Guide]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initiating-zoom-conversations-from-your-android-device/"><u>[New] Initiating Zoom Conversations From Your Android Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-screen-writing-a-winning-docu-script/"><u>[Updated] From Concept to Screen Writing a Winning Docu-Script</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-hacks-how-to-flip-your-snapchat-videos/"><u>[Updated] In 2024, Quick Hacks How to Flip Your Snapchat Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovating-podcast-branding-a-comprehensive-logo-guidebook/"><u>[Updated] Innovating Podcast Branding A Comprehensive Logo Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gentle-pace-reducing-music-intensity/"><u>2024 Approved Gentle Pace Reducing Music Intensity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>2024 Approved Innovating with Technology Advanced GoPro 4K Editing Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-soundtrack-strategy-addmpy-in-videos-on-fb/"><u>2024 Approved The Soundtrack Strategy Addmpy in Videos on FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-4k-videos-to-full-hd-effortlessly-with-movavis-advanced-conversion-tools/"><u>Convert 4K Videos to Full HD Effortlessly with Movavi's Advanced Conversion Tools!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-and-easy-gif-transformation-ultimate-list-of-no-download-services-for-2024/"><u>Fast and Easy GIF Transformation Ultimate List of No-Download Services for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-newest-nvidia-rtx-2060-graphics-card-driver-compatible-with-windows-versions-including-11-10-8-and-7/"><u>Get Newest NVIDIA RTX 2060 Graphics Card Driver: Compatible with Windows Versions Including 11, 10, 8 & 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-blurry-snaps-to-stunning-shots-learn-lunapic-editing/"><u>In 2024, From Blurry Snaps to Stunning Shots Learn LunaPic Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-teslas-mind-unveiling-gpt/"><u>Inside Tesla's Mind: Unveiling GPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/leading-third-party-solutions-for-cross-platform-iphone-and-mac-file-management/"><u>Leading Third-Party Solutions for Cross-Platform iPhone and Mac File Management</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-note-12r-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/waiting-on-chatgpts-release-dont-miss-this-outstanding-open-source-app-alternative/"><u>Waiting on ChatGPT's Release? Don't Miss This Outstanding Open Source App Alternative!</u></a></li>
 </ul></div>
 

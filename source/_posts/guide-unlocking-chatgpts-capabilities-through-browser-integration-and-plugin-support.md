@@ -1,7 +1,7 @@
 ---
 title: "Guide: Unlocking ChatGPT’s Capabilities Through Browser Integration and Plugin Support"
-date: 2024-09-29T04:56:43.844Z
-updated: 2024-10-06T02:30:57.517Z
+date: 2024-10-08T01:44:06.126Z
+updated: 2024-10-11T19:14:47.005Z
 tags:
   - cutting-edge
 categories:
@@ -21,10 +21,16 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 * [When Should You Use ChatGPT Plugins?](https://visual-screen-recording.techidaily.com/new-eliminate-unwanted-screen-elements-during-cam-record/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turn on the features you want to use here. You can activate either Web Browsing, Plugins, or both. In the future, other beta features may also appear here.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
@@ -54,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Before you write anything, click on GPT-4 as your preferred model, then click on the dropdown arrow and choose between the Default, Browsing, or Plugins modes.
@@ -65,10 +78,16 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Install ChatGPT Plugins
@@ -76,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  While you can use the browsing features without any further work, you actually have to activate the plugins you need in plugin mode. Once you've selected the Plugins version of GPT-4, you'll see "No plugins enabled."
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To enable specific plugins, click the dropdown arrow to the right of "No plugins enabled," and then select "Plugin store."
 
@@ -88,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose the plugins you want to use and click "Install" to install them for your ChatGPT account. You can also uninstall plugins from your account here. Close the plugin store when you're done.
@@ -108,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
  Now you're ready to use plugins with ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use Web Browsing in ChatGPT
 
  To invoke the web browsing feature, ask a question that requires internet-based information, such as "What's the latest update about OpenAI?" or "Who won the Oscars this year?". ChatGPT will display "Browsing the web..." and try to find the information for you.
@@ -122,16 +141,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use Plugins in ChatGPT
@@ -139,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  Once the plugins are activated in your settings, you can instruct ChatGPT to employ a specific plugin for a task. For instance, you could type "Use Wolfram to calculate the current distance between the Earth and Mars." ChatGPT will let you know which plugin it used.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT doesn't replicate a standard web browser experience. Instead of presenting the entire webpage, it narrates the page content in a conversational tone, focusing on the information relevant to your query.
 
@@ -182,19 +188,21 @@ Related: [How to (Temporarily) Add New Knowledge to ChatGPT](https://twitter-vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-analyzing-investment-costs-for-auditory-visual-fusion/"><u>[New] Analyzing Investment Costs For Auditory-Visual Fusion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-futures-best-cameras-in-visual-storytelling-2024-edition/"><u>[Updated] Future's Best Cameras in Visual Storytelling, 2024 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>2024 Approved Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imagepurityplus-professional-photo-editing-suite/"><u>2024 Approved ImagePurityPlus Professional Photo Editing Suite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-gionee-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Gionee</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-add-free-text-animation-to-videos-for-2024/"><u>How to Add Free Text Animation to Videos for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-find-youtube-hidden-videos-for-2024/"><u>How to Find YouTube Hidden Videos for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts/"><u>In 2024, Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-access-to-10-superior-lut-resources/"><u>In 2024, Free Access to 10 Superior LUT Resources</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-unlocking-the-joys-of-ifunnys-meme-app/"><u>In 2024, Step-by-Step Unlocking the Joys of iFunny's Meme App</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-16-essential-avi-cutters-simplify-video-editing-on-windows-mac-and-android-for-2024/"><u>New 16 Essential AVI Cutters Simplify Video Editing on Windows, MAC, and Android for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-most-effective-digital-classrooms-for-aspiring-developers/"><u>The Most Effective Digital Classrooms for Aspiring Developers</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-fashioning-unique-fb-gatherings/"><u>The Ultimate Guide to Fashioning Unique FB Gatherings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-what-to-do-when-you-encounter-msvbvm50dll-error/"><u>Troubleshooting: What To Do When You Encounter MSVBVM50.DLL Error</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-inspire-humorous-graphics-for-online-platform/"><u>[New] 2024 Approved Inspire Humorous Graphics for Online Platform</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-streamline-video-creation-incorporating-apples-siri-into-tiktok/"><u>[New] 2024 Approved Streamline Video Creation Incorporating Apple's Siri Into TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-the-essentials-in-zooming-for-youtube-broadcasts/"><u>[New] From Novice to Pro The Essentials in Zooming for YouTube Broadcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-improving-zoom-picture-quality-quick-solutions/"><u>[New] Improving Zoom Picture Quality Quick Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-to-effortless-iphone-screen-recording/"><u>[New] Step-by-Step to Effortless IPhone Screen Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explaining-instagrams-spontaneous-video-pauses/"><u>[Updated] Explaining Instagram's Spontaneous Video Pauses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller/"><u>[Updated] Exploring the New Frontier A Comparative Study on TikTok & Triller</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streamlined-savings-for-cloud-storage-costs-analysis-for-2024/"><u>[Updated] Streamlined Savings for Cloud Storage Costs Analysis for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-premier-selection-of-11-costless-yt-moniker-makers-for-2024/"><u>[Updated] The Premier Selection of 11 Costless YT Moniker Makers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-visual-signatures-for-free-using-graphic-patterns/"><u>2024 Approved Innovate Visual Signatures for Free Using Graphic Patterns</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortlessly-erase-photo-borders-with-photopea/"><u>Effortlessly Erase Photo Borders with Photopea</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-web-resources-for-glossy-3d-letters-for-2024/"><u>High-Quality Web Resources for Glossy 3D Letters for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nokia-g42-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nokia G42 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-chapters-the-secrets-to-seamless-inshot-edits/"><u>In 2024, Harmonizing Chapters The Secrets to Seamless Inshot Edits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/stream-control-tactics-10-ways-to-unwind-live-play/"><u>Stream Control Tactics 10 Ways to Unwind Live Play</u></a></li>
 </ul></div>
 

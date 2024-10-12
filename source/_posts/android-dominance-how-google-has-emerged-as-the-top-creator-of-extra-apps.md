@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2024-10-01T08:24:35.795Z
-updated: 2024-10-05T20:57:54.521Z
+date: 2024-10-08T03:53:03.429Z
+updated: 2024-10-11T21:45:33.664Z
 tags:
   - mobile
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google and Android Are Not One and the Same
 
  Google is Android's primary developer, but the operating system is open source. Countless other companies are invested in the platform.
@@ -40,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
  There are big-name smartphone makers like Samsung, Motorola, and OnePlus. Tablets and eReaders from Amazon and [BOOX](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/). Niche products that you may not realize run Android, like [the minimalist Light Phone](https://video-capture.techidaily.com/new-2024-approved-advanced-techniques-capturing-teams-screen-content/) and the Rabbit R1\. There are self-checkout machines in big box stores that are merely Android tablets anchored in place. You may sign in at your dentist's office with an Android device without being aware of it. They're everywhere.
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  After Android Became Popular, Google Wanted More Control
 
@@ -55,21 +55,22 @@ Jerome Thomas / How-To Geek
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I Don't Want to Give All of My Data to Google
@@ -96,13 +97,6 @@ Close
 
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google Apps Make Android Phones All Feel the Same
 
  As Google's control over software has grown, there is increasingly less difference between one Android device and the next. You walk through similar set-up screens, are presented with the same data collection options, and see your app drawer pre-populated with largely the same software.
@@ -114,10 +108,10 @@ Close
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
@@ -143,20 +137,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-front-seat-pleasures-not-so-sporty-top-ten/"><u>[New] Front Seat Pleasures Not So Sporty Top Ten</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-top-5-resources-for-innovative-text-designs/"><u>[Updated] Explore the Top 5 Resources for Innovative Text Designs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-search-of-excellence-top-10-4k-displays/"><u>[Updated] In Search of Excellence #Top 10 4K Displays</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/st-youtube-keyword-tools-to-get-more-views-filmora/"><u>10 Best YouTube Keyword Tools to Get More Views - Filmora</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/10-premier-online-systems-for-screen-saving/"><u>10 Premier Online Systems for Screen Saving</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-luts-for-precision-controlled-image-editing/"><u>2024 Approved Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-regaining-access-to-windows-photo-viewer-two-steps-for-windows-10/"><u>2024 Approved Regaining Access to Windows Photo Viewer Two Steps for Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-superior-8-filter-trios-for-broadcast-excellence/"><u>2024 Approved Superior 8 Filter Trios for Broadcast Excellence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foundations-of-virtual-reality-speak-for-2024/"><u>Foundations of Virtual Reality Speak for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-honor-magic-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Honor Magic 5</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-sound-recognition-and-instant-utilization/"><u>In 2024, Free Sound Recognition and Instant Utilization</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-evaluation-hero4-black-experience/"><u>In 2024, In-Depth Evaluation Hero4 Black Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-installing-aoc-monitor-drivers-on-windows-versions-11108/"><u>Step-by-Step Guide to Downloading and Installing AOC Monitor Drivers on Windows (Versions 11/10/8)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-the-maze-of-private-snapshares/"><u>[New] Navigating the Maze of Private Snapshares</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beat-making-brilliance-music-for-your-instareals/"><u>Beat-Making Brilliance Music for Your InstaReals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highest-rated-panoramic-video-capture-systems-for-2024/"><u>Highest Rated Panoramic Video Capture Systems for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-11-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme 11 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>In 2024, Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-new-frontier-of-android-gaming-with-kinemaster/"><u>In 2024, Exploring the New Frontier of Android Gaming with KineMaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-insight-into-vsco-image-editing/"><u>In 2024, Full Insight Into VSCO Image Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-poll-power-players-leading-electoral-game-reviews/"><u>In 2024, Poll Power Players Leading Electoral Game Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/wearable-wonder-apply-applewatch-to-openmac/"><u>Wearable Wonder Apply AppleWatch to OpenMac</u></a></li>
 </ul></div>
 

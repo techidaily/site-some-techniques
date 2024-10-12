@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-09-29T23:00:23.236Z
-updated: 2024-10-06T02:02:59.565Z
+date: 2024-10-08T03:18:30.310Z
+updated: 2024-10-11T17:38:41.192Z
 tags:
   - desktop
 categories:
@@ -19,19 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How This Particular Problem Foxes People
 
  Moving a file on the [command line is pretty simple](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/). You specify the file you want to move, and where you want to move it to. But still, it’s easy for a new user to find themselves exasperated and frustrated over mv.
@@ -39,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  They try to move a file into a directory, and it seems to work. They don’t get a confirmation message, but neither do they get an error message. Linux often takes the no news is good news approach. If you don’t get an error message, it must have worked.
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
 
@@ -59,10 +53,10 @@ ls ~/Downloads/src
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
@@ -70,13 +64,6 @@ ls ~/Downloads/src
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
 
@@ -89,16 +76,10 @@ ls ~/Documents/backup/
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The original and target directories are both empty. Where did the file go?
@@ -116,6 +97,13 @@ ls ~/Documents/backup
 `
     
 ![Moving and renaming the misspelled file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The confusion and the hunt for the missing, badly-named file could have been avoided by adding a trailing slash to the target directory on the command line. That way, if you make a typo, Bash reports an error.
 
@@ -150,22 +138,22 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-boundaries-with-syma-x8c-flight/"><u>[New] Exploring the Boundaries with Syma X8C Flight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ghostly-lens-takedown-reviews/"><u>[New] Ghostly Lens Takedown Reviews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>[New] Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[New] In 2024, Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-instagram-meets-tiktok-syncing-social-media-for-2024/"><u>[New] Instagram Meets TikTok Syncing Social Media for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-integrating-text-overlays-into-social-media-streaming/"><u>[Updated] 2024 Approved Integrating Text Overlays Into Social Media Streaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improve-teleconference-experience-fixing-zoom-sound/"><u>[Updated] Improve Teleconference Experience Fixing Zoom Sound</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig/"><u>[Updated] In 2024, Uploading in Bulk A Comprehensive Guide to Multimedia on IG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incredibly-swift-blackouts/"><u>[Updated] Incredibly Swift Blackouts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-giggle-worthy-graphics/"><u>2024 Approved Generate Giggle-Worthy Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-tools-to-craft-top-titles/"><u>2024 Approved Innovative Tools to Craft Top Titles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-to-top-8-free-high-definition-video-players/"><u>In 2024, Exclusive Guide to Top 8 FREE, High Definition Video Players</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/stalker-2-survives-the-onslaught-gamer-community-halts-unnecessary-nft-integration/"><u>STALKER 2 Survives the Onslaught: Gamer Community Halts Unnecessary NFT Integration</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/transform-your-text-into-beautiful-design-elements-for-digital-brochures-on-flipbuilder/"><u>Transform Your Text Into Beautiful Design Elements for Digital Brochures on FlipBuilder</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cinematic-brilliance-in-motion-kinemaster-techniques/"><u>[New] 2024 Approved Cinematic Brilliance in Motion Kinemaster Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-inspirational-hiring-vids-1-10/"><u>[New] 2024 Approved Discover Inspirational Hiring Vids #1-10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-choices-17-best-tools-for-background-blanks/"><u>[New] Expert Choices 17 Best Tools for Background Blanks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-4k-marvel-sony-xperia-xz-premium-reviewed/"><u>[New] Exploring the 4K Marvel Sony Xperia XZ Premium Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-final-cut-pro-demystified-a-complete-primer/"><u>[New] Final Cut Pro Demystified A Complete Primer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-performance-gpus-for-4k-vision/"><u>[New] High-Performance GPUs for 4K Vision</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>[New] Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultraview-app-functionality-survey/"><u>[New] UltraView App Functionality Survey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-home-vr-construct-how-to-assemble-your-own-google-cardboard/"><u>[Updated] Home VR Construct How to Assemble Your Own Google Cardboard</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-switch-on-windows-11s-hdr-functionality/"><u>[Updated] How to Switch On Windows 11'S HDR Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-filmoras-peers-the-best-slide-show-template-collections/"><u>2024 Approved Filmora's Peers The Best Slide Show Template Collections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-updates-musical-whatsapp-statues/"><u>2024 Approved Harmonious Updates Musical WhatsApp Statues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/24-next-gen-pos-applications-beyond-openais-innovations/"><u>24 Next-Gen POS Applications Beyond OpenAI's Innovations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-zero-30-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Zero 30 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-15-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 15 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006393681-troubleshoot-and-master-discord-setup-no-more-failures/"><u>Troubleshoot and Master Discord Setup – No More Failures!</u></a></li>
 </ul></div>
 

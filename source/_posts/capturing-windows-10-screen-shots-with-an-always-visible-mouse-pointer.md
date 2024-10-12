@@ -1,7 +1,7 @@
 ---
 title: Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer
-date: 2024-10-01T01:49:57.473Z
-updated: 2024-10-05T23:37:19.182Z
+date: 2024-10-05T20:38:17.322Z
+updated: 2024-10-12T03:06:39.822Z
 tags:
   - deals
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Take Visible Mouse Cursor Screenshots with IrfanView](https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-narzo-n53-by-fonelab-android-recover-pictures/)
 * [Use Screenpresso to Capture the Mouse Cursor in Screenshots](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-narzo-60x-5g-without-them-knowing-drfone-by-drfone-virtual-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Neither Snipping Tool nor Snip and Sketch can capture your cursor on Windows 10\. You can use Steps Recorder to capture your cursor, then take screenshots of the step, which includes the cursor.
@@ -31,6 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Another third-party option is Screenpresso, which allows you to capture the cursor in screenshots.
 
  It's easy to [take screenshots](https://fox-http.techidaily.com/new-inside-the-labyroud-of-vrs-latest-creations/) in Windows 10\. However, you can't grab a screenshot that includes your mouse cursor in the image unless you use a workaround or a third-party tool. We'll show you how to do both.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Take Visible Mouse Cursor Screenshots with Steps Recorder
 
@@ -51,16 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Press "Stop Record" in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-stop-record.png) 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Steps Recorder app's window will expand to a larger size and show you all the screenshots the app captured. Each screenshot will show the mouse cursor, which achieves our goal.
@@ -71,22 +65,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An enlarged screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-enlarged-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've enlarged a screenshot, click the maximize button (the square icon) in the top-right corner of the Steps Recorder app. This button is located right next to the close button, denoted by an "X."
 
 ![Maximize the Steps Recorder window in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-maximize.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the Steps Recorder window maximized, you'll need to take a standard Windows screenshot of the step to convert it to a file. To do so, you can use various ways to [capture screenshots](https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) in Windows 10\. We used the keyboard shortcut Windows+Shift+S to get the job done.
 
 ![Windows 10's built-in screenshot utility. Press Windows+Shift+S to access it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5af9d02f546b5.png) 
 
  After capturing a screenshot, you can save it wherever you like and then repeat the process to grab other screenshots. The screenshots might appear compressed, however. If that doesn't suit your needs, you can try using our alternative method below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Take Visible Mouse Cursor Screenshots with IrfanView
 
@@ -96,6 +97,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Go to Options > Capture/Screenshot in IrfanView to take screenshots using the free image editing app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-capture-tool.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To take a screenshot that includes the mouse cursor, check the option labeled "Include Mouse Cursor" in the "Capture Setup" window, and then click "Start" at the bottom of the window.
 
 ![IrfanView's screenshot capture utility, with the "Include Mouse Cursor" option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-show-mouse-cursor.png) 
@@ -103,13 +111,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To capture screenshots with IrfanView, use the keyboard shortcut Control+F11\. IrfanView will open each screenshot in a new window, and you'll be happy to see the mouse cursor captured in your screenshot.
 
 ![A Windows 10 screenshot with a visible mouse cursor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-mouse-pointer.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To save the screenshot wherever you like, use File > Save As in the menu bar. Alternatively, press "S on the keyboard to quickly open the "Save As" window.
 
@@ -123,22 +124,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the 'Screenshot' tab, then tick 'Capture Mouse Cursor.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-screenshot-capture-mouse-cursor.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Screenpresso will capture your cursor in all screenshots going forward. It is best to use hotkeys to take screenshots if you want to capture your cursor, otherwise you'll just have a bunch of screenshots with your mouse cursor interacting with the Screenpresso user interface. 
 
 ![The mouse cursor visible in our screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-mouse-cursor.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's how you capture screenshots with a visible mouse cursor on Windows 10\. We covered two third-party options, but most screenshot apps available today have a setting that enables (or disables) cursor capture, you just have to dig around in the app's settings to find it. Now that you have that mastered, you might enjoy learning how to [annotate screenshots](https://techtrends.techidaily.com/the-ultimate-fixes-for-msstdfmtdll-error-message-notifications/) on Windows 10\.
@@ -158,24 +152,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ridging-the-gap-between-classic-and-contemporary-videos-for-2024/"><u>[New] Bridging the Gap Between Classic and Contemporary Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-getting-into-film-editing-made-easy/"><u>[New] Getting Into Film Editing Made Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices/"><u>[New] How to Get Gratis, Safe VLC Media Player on Mac OS X Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-to-enhance-video-craftsmanship-on-windows-10/"><u>[New] Innovative Strategies to Enhance Video Craftsmanship on Windows 10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-effortless-entertainment-top-free-free-meme-ideas-for-2024/"><u>[Updated] Effortless Entertainment Top Free, FREE Meme Ideas for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-extras-for-capturing-dynamic-footage/"><u>[Updated] In 2024, Essential Extras for Capturing Dynamic Footage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-review-the-t5-eye-unleashing-potential/"><u>[Updated] Review The T5 Eye, Unleashing Potential</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-closing-credits-creations-affordable-premium-and-more/"><u>2024 Approved Closing Credits Creations Affordable, Premium & More</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-elite-mp4-streamer-system-for-fb/"><u>2024 Approved Elite MP4 Streamer System for FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-engineer-apocalyptic-comic-relief/"><u>2024 Approved Giggle Engineer Apocalyptic Comic Relief</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-exploration-of-final-cut-pros-powerful-tools-and-features/"><u>2024 Approved In-Depth Exploration of Final Cut Pro’s Powerful Tools and Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/future-frameworks-exclusive-list-of-top-cameras-for-2024/"><u>Future Frameworks Exclusive List of Top Cameras for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frame-perfect-videos-with-these-1-10-zoom-editors/"><u>In 2024, Frame Perfect Videos with These #1-10 Zoom Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-counteract-crashes-in-win-11s-photo-viewer/"><u>In 2024, How to Counteract Crashes in Win 11'S Photo Viewer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-vimeoifytweets-video-to-mp3-and-mp4/"><u>In 2024, VimeoifyTweets Video-to-MP3 & MP4</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-unwavering-viewership-within-limit-for-2024/"><u>Innovative Approaches for Unwavering Viewership (Within Limit) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-taskbar-organization-in-win-11/"><u>Mastering Taskbar Organization in Win 11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/optimize-your-tweeted-videos-aspect-ratio-checklist/"><u>Optimize Your Tweeted Videos Aspect Ratio Checklist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-your-frames-with-videoleap/"><u>[New] Fine-Tuning Your Frames with Videoleap</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-total-spend-on-a-single-youtubers-ads/"><u>[New] In 2024, Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[New] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-turn-fb-vids-into-savable-mp3-files/"><u>[New] Turn FB Vids Into Savable MP3 Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-does-money-flow-into-shopping-guides-vids/"><u>2024 Approved Does Money Flow Into Shopping Guides Vids?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focusing-on-the-best-our-countdown-of-camera-lenses-1-10/"><u>2024 Approved Focusing on the Best Our Countdown of Camera Lenses, #1-10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-performance-boosted-proven-methods-to-combat-slowdown-and-lag/"><u>Fortnite Performance Boosted: Proven Methods to Combat Slowdown & Lag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203846589-hp-keyboard-malfunctions-5-easy-steps-to-restore-functionality/"><u>HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-entertainment-showdown-google-cardboard-and-samsung-gear/"><u>In 2024, Immersive Entertainment Showdown Google Cardboard & Samsung Gear</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premier-ios-choice-best-emulators-of-psp-games/"><u>In 2024, Premier iOS Choice Best Emulators of PSP Games</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-cost-free-daw-software-options-revealed-a-beginners-guide-to-2023/"><u>Updated 2024 Approved Cutting-Edge, Cost-Free DAW Software Options Revealed A Beginners Guide to 2023</u></a></li>
 </ul></div>
 

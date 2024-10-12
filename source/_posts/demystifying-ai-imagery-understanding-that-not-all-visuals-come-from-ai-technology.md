@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology"
-date: 2024-10-01T05:11:49.025Z
-updated: 2024-10-05T21:02:00.933Z
+date: 2024-10-09T02:07:51.035Z
+updated: 2024-10-12T02:55:17.225Z
 tags:
   - cutting-edge
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
 
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
 
@@ -43,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
@@ -57,22 +64,21 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
 
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -124,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fast-windows-content-survey-blueprint/"><u>[New] Fast Windows Content Survey Blueprint</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-audio-capture-from-skype-for-mp3/"><u>[New] Mastering Audio Capture From Skype for MP3</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-footage-made-easy-top-10-phones-with-superior-stabilization/"><u>[Updated] High-Quality Footage Made Easy Top 10 Phones With Superior Stabilization</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-integrating-imovie-productions-into-youtube/"><u>[Updated] Integrating iMovie Productions Into YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-stepwise-revelation-of-concealed-youtube-archives/"><u>[Updated] Stepwise Revelation of Concealed YouTube Archives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-intova-x-changes-action-camera-game/"><u>2024 Approved How Intova X Changes Action Camera Game</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-webcams-to-elevate-your-zoom-video-conferencing/"><u>2024 Approved Ideal Webcams to Elevate Your Zoom Video Conferencing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-how-its-transforming-our-perception-of-whats-real-and-unreal/"><u>Artificial Intelligence: How It's Transforming Our Perception Of What's Real And Unreal</u></a></li>
-<li><a href="https://win11.techidaily.com/differences-spotlighted-microsoft-account-vs-non-microsoft-windows-logins/"><u>Differences Spotlighted: Microsoft Account vs Non-Microsoft Windows Logins</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-siri-and-popular-apps-with-apples-advanced-ai-capabilities/"><u>Enhancing Siri & Popular Apps with Apple's Advanced AI Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-boost-youtube-video-spacing/"><u>In 2024, How to Boost YouTube Video Spacing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-gaming-displays-top-5-ps5-edition/"><u>In 2024, Ideal Gaming Displays Top 5 (PS5 Edition)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pushing-boundaries-with-lightrooms-hdr-merging-capability-for-2024/"><u>Pushing Boundaries with Lightroom’s HDR Merging Capability for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>[New] Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhancing-inshot-cut-quality-and-smoothness/"><u>[Updated] 2024 Approved Enhancing Inshot Cut Quality and Smoothness</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-best-methods-to-try-for-changing-playback-speed-in-spotify/"><u>[Updated] Best Methods to Try for Changing Playback Speed in Spotify</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-step-in-telegram-mastery-marketing-basics-unveiled/"><u>[Updated] First Step in Telegram Mastery Marketing Basics Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experience-freedom-in-viewing-free-movie-player-software/"><u>2024 Approved Experience Freedom in Viewing FREE MOVIE PLAYER Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-choice-webcams-ready-for-zoom-mastery/"><u>2024 Approved First Choice Webcams, Ready for Zoom Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giggles-and-graphics-iphone-edition/"><u>2024 Approved Giggles & Graphics IPhone Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-copyright-claims-and-how-to-deal-with-a-strike/"><u>2024 Approved YouTube Copyright Claims and How to Deal with a Strike?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-cut-out-audio-in-windows-10-heres-the-solution/"><u>Dealing with Cut-Out Audio in Windows 10? Here's The Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flashback-flair-top-80s-video-tricks-for-a-contemporary-edge-for-2024/"><u>Flashback Flair Top 80S Video Tricks for a Contemporary Edge for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-restoring-joy-con-linkage-to-nintendo-switch/"><u>Strategies for Restoring Joy-Con Linkage to Nintendo Switch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-gpt-assisted-research-techniques/"><u>Utilizing GPT-Assisted Research Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-10-01T19:20:40.549Z
-updated: 2024-10-06T10:29:16.802Z
+date: 2024-10-05T23:17:50.516Z
+updated: 2024-10-12T01:38:55.548Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [It Just Works (In Supported Games)](https://www.howtogeek.com/microsofts-upscaler-is-the-only-reason-gamers-will-care-about-a-copilot-pc/#it-just-works-in-supported-games)
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Auto SR is Microsoft's answer to DLSS, FSR, and XeSS.
@@ -32,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * The biggest downside of Auto SR is that it's only available on CoPilot+ PCs, since it needs an NPU to work.
 
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
 
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ![Two Borderlands 3 screenshots showing a native and an upscaled image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft/Gearbox
 
  The 1440p Auto SR screenshot features sharper textures, with most of the intricate details preserved after upscaling the original 720p image, along with almost double the frame rate. The image resolve is sharper compared to native 1440p, but you can see some issues if you look closely.
@@ -56,28 +49,29 @@ Microsoft/Gearbox
 
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  You'll notice fewer details found on complex textures in the second screenshot. Just look at those vines hanging from the building in the distance. See how they lack some detail on the Auro SR screenshot compared to the native image.
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
@@ -102,10 +96,10 @@ Microsoft/Gearbox
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
@@ -133,24 +127,17 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-ghoul-gags-generator/"><u>[New] 2024 Approved Ghoul Gags Generator</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-viral-vibes-top-10-playlists-for-up-and-coming-video-shorts/"><u>[New] 2024 Approved Viral Vibes Top 10 Playlists for Up-and-Coming Video Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[New] Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-quality-hearables-leading-podcasters-on-googloud/"><u>[New] High-Quality Hearables Leading Podcasters on GooGloud</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extracting-images-from-videos-in-windows-11-photos/"><u>2024 Approved Extracting Images From Videos in Windows 11 Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>2024 Approved From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-high-dynamic-range-battle-black-hero5-and-sj7/"><u>2024 Approved High Dynamic Range Battle Black Hero5 & SJ7</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram/"><u>2024 Approved The Secrets of Squaring Up Making Square-Format Videos with iMovie for Instagram</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-tips-for-reviewing-site-layouts-before-going-live-online/"><u>Essential Tips for Reviewing Site Layouts Before Going Live Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extreme-camers-face-off-gopro-hero5-black-vs-session-for-2024/"><u>Extreme Camers Face-Off GoPro Hero5 Black vs Session for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/golden-screenplay-gems-that-define-genres-for-2024/"><u>Golden Screenplay Gems That Define Genres for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography</u></a></li>
-<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-insight-demystifying-dji-inspire-2/"><u>In 2024, Full Insight Demystifying DJI Inspire 2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonized-high-res-overlays-for-devices/"><u>In 2024, Harmonized High-Res Overlays for Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-exploration-how-to-closely-inspect-roblox-environments/"><u>In 2024, In-Depth Exploration How to Closely Inspect Roblox Environments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reenergize-your-gpus-spinning-partners/"><u>Reenergize Your GPU's Spinning Partners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpts-alleged-deceptions/"><u>Unveiling ChatGPT’s Alleged Deceptions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-inexpensive-gear-mics-for-content-creators-on-a-dime/"><u>[New] 2024 Approved Inexpensive Gear Mics for Content Creators on a Dime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flat-screens-to-spatial-storytelling-understanding-vr/"><u>[New] From Flat Screens to Spatial Storytelling Understanding VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-connoisseur-of-funimate-games/"><u>[New] From Novice to Connoisseur of Funimate Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-manual-for-crafting-youtube-playlists/"><u>[New] In 2024, How-To Manual for Crafting YouTube Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>[Updated] How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>2024 Approved Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-audible-books-access-on-spotify-for-us-elite-memberships/"><u>Free Audible Books Access on Spotify for US Elite Memberships</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-see-every-participant-in-google-meet-in-2024/"><u>How to See Every Participant in Google Meet, In 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-good-to-great-videos-the-20-essential-shortcuts-for-success/"><u>In 2024, From Good to Great Videos The 20 Essential Shortcuts for Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hummingbird-hustle/"><u>In 2024, Harmonious Hummingbird Hustle</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oneplus-12r-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus 12R Black and White | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-electronics-offers-grab-the-jbl-bar-groop-700-fire-hd-max-tablet-from-amazon-and-smart-video-doorbells-at-unmatched-prices/"><u>Unbeatable Electronics Offers: Grab the JBL Bar Groop 700, Fire HD Max Tablet From Amazon, and Smart Video Doorbells at Unmatched Prices!</u></a></li>
 </ul></div>
 

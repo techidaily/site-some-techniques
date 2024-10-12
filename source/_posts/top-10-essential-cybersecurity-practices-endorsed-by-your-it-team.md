@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-10-03T03:04:34.065Z
-updated: 2024-10-06T05:50:32.525Z
+date: 2024-10-09T19:11:07.070Z
+updated: 2024-10-12T02:55:39.278Z
 tags:
   - desktop
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
@@ -57,26 +50,32 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Keep Your Work and Private Life Separate
@@ -94,10 +93,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If your device is stolen, you should remotely wipe it if it is supported on your [iOS](https://facebook-record-videos.techidaily.com/video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks-for-2024/) or [Android](https://some-techniques.techidaily.com/incor-writes-photo-kinetic-vibrance-for-2024/) device.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  If Someone Asks For Something Out Of The Usual, Check In With Them
@@ -116,22 +115,29 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Learn How to use Windows and Your Other Software And Devices
 
  Your life will be easier if you know how to use your phone, tablet, and laptop properly. It might take a bit of a time investment, but it'll pay off: you'll be able to do things faster, make less mistakes, and you'll know when something isn't working properly. When you can tell that something isn't quite working as it should, you can investigate by running a virus scan, or seek expert help to resolve the problem.
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Don't Panic!
 
@@ -158,22 +164,20 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/reate-captivating-yt-thumbnails-fast/"><u>[New] Create Captivating YT Thumbnails Fast!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-the-ultimate-tutorial-on-how-to-openedit-srt-on-mac/"><u>[New] The Ultimate Tutorial on How to Open/Edit SRT on Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-through-the-clutter-how-to-stream-top-notch-upside-down-content-on-youtube/"><u>[Updated] 2024 Approved Cutting Through the Clutter How to Stream Top-Notch Upside-Down Content on Youtube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-hide-face-details-picart-privacy-mode/"><u>[Updated] 2024 Approved Hide Face Details PicArt Privacy Mode</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dark-knight-versus-shining-savior-for-2024/"><u>[Updated] Dark Knight Versus Shining Savior for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-ultimate-selection-of-transition-apps/"><u>[Updated] Explore the Ultimate Selection of Transition Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-funny-faces-our-simple-meme-guide/"><u>[Updated] Free Funny Faces - Our Simple Meme Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-11-budget-friendly-title-generators-for-yt/"><u>[Updated] In 2024, Explore 11 Budget-Friendly Title Generators for YT</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-precision-viewing-at-a-glance-quick-minigame-tips/"><u>[Updated] In 2024, Precision Viewing at a Glance Quick Minigame Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evolving-realities-the-modern-vr-sphere/"><u>2024 Approved Evolving Realities The Modern VR Sphere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fixing-inertia-and-jello-distortions-in-uav-clips/"><u>2024 Approved Fixing Inertia and Jello Distortions in UAV Clips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-final-cut-pro-mastery-secrets-revealed/"><u>2024 Approved Free Final Cut Pro Mastery Secrets Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-initiate-interactive-storytelling-with-windows-11s-movie-maker/"><u>2024 Approved Initiate Interactive Storytelling with Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-top-rated-wi-fi-mesh-network-kits-reviewed/"><u>2024'S Top-Rated Wi-Fi Mesh Network Kits Reviewed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apples-updated-most-economical-pad-the-ipad-10nch-8th-gen-reviewed/"><u>Apple's Updated Most Economical Pad - The iPad 10.nch (8Th Gen) Reviewed!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques-for-2024/"><u>From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-iphone-light-balancing-for-2024/"><u>The Ultimate Guide to iPhone Light Balancing for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-steps-to-activate-windows-11-hdr-automatically-for-2024/"><u>[New] Steps to Activate Windows 11 HDR Automatically for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>2024 Approved Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-activate-auto-hdr-setting-in-windows-11/"><u>2024 Approved How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-guide-to-the-4-leading-applications-for-smooth-and-beautiful-house-painting/"><u>A Guide to the 4 Leading Applications for Smooth and Beautiful House Painting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-into-efficient-lunapic-usage-for-2024/"><u>Expert Insights Into Efficient LunaPic Usage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-mobile-photography-with-android-lightroom-application-for-2024/"><u>Exploring Mobile Photography with Android Lightroom Application for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/holistic-photo-tale-architect-platform-for-2024/"><u>Holistic Photo Tale Architect Platform for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/image-play-with-altering-tools/"><u>Image Play with Altering Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gold-medal-glory-olympic-speed-skating-short-track-highlights/"><u>In 2024, Gold Medal Glory Olympic Speed Skating Short Track Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz/"><u>In 2024, High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/premier-updates-facebooks-latest-gems-unearthed-for-2024/"><u>Premier Updates Facebook's Latest Gems Unearthed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transferer-un-fichier-ogg-en-format-avi-sur-internet-sans-cout-avec-convertisseur-movieedit/"><u>Transférer Un Fichier OGG en Format AVI Sur Internet Sans Coût Avec Convertisseur - MovieEdit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/visionary-blu-ray-systems-for-unparalleled-3d-immersion-for-2024/"><u>Visionary Blu-Ray Systems for Unparalleled 3D Immersion for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 Pro Max i Do? Get Answers here</u></a></li>
 </ul></div>
 

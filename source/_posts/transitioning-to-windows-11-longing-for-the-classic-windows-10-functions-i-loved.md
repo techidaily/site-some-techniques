@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-09-29T04:05:36.159Z
-updated: 2024-10-06T10:36:14.455Z
+date: 2024-10-05T21:14:27.579Z
+updated: 2024-10-11T20:24:14.877Z
 tags:
   - deals
 categories:
@@ -27,6 +27,13 @@ Lucas Gouveia / How-To Geek
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benj Edwards / How-To Geek
 
  One of the things I had to do to even get Windows 11 to recognize my machine was to enable TPM 2.0 (which was disabled by default on my system). TPM 2.0 is supposed to [make the system more secure](https://support.microsoft.com/en-us/topic/what-is-tpm-705f241d-025d-4470-80c5-4feeb24fa1ee). I knew my chip (being a current-generation AMD Ryzen) had TPM 2.0 on it, I just had to find out [how to enable TPM 2.0 on a UEFI system.](https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-c12-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
@@ -48,10 +55,10 @@ Benj Edwards / How-To Geek
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Truncated Context Menus Hurt Usability
@@ -74,22 +81,15 @@ Benj Edwards / How-To Geek
 
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The "Action Center" Is No More
 
 ![No Action Center (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/no-action-center-light.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
@@ -101,10 +101,10 @@ Benj Edwards / How-To Geek
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lucas Gouveia / Hannah Stryker / How-To Geek
@@ -128,22 +128,19 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>[New] How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-outstanding-20-anime-opening-melodies/"><u>[Updated] Outstanding 20 Anime Opening Melodies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>2024 Approved Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ffmpeg-and-its-proficiency-in-original-audio-extraction/"><u>2024 Approved FFmpeg and Its Proficiency in Original Audio Extraction</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-strategies-for-image-collections-procurement/"><u>2024 Approved Innovative Strategies for Image Collections Procurement</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-issues-and-solutions-fixing-a-non-resplicable-thaumaturge-in-pc-software/"><u>Common Issues & Solutions: Fixing a Non-Resplicable Thaumaturge in PC Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-epson-stylus-nx420-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson Stylus NX420 Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hot-picks-best-free-screen-recorders-for-windows-users-for-2024/"><u>Hot Picks Best Free Screen Recorders For Windows Users for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-navigate-a-world-without-adobe-flash-alternatives-and-steps/"><u>How to Navigate a World without Adobe Flash: Alternatives and Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-erroneous-cpu-usage-displayed-by-windows-pc/"><u>How to Rectify Erroneous CPU Usage Displayed by Windows PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illusory-journeys-through-time-and-dimensions-for-2024/"><u>Illusory Journeys Through Time and Dimensions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immortalize-instants-with-ease-dive-into-gratis-cloud-services-and-paid-alternatives-for-2024/"><u>Immortalize Instants with Ease Dive Into Gratis Cloud Services & Paid Alternatives for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-in-converting-videos-for-twitter/"><u>In 2024, Best Practices in Converting Videos for Twitter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-clear-your-default-podcast-listings-on-spotify/"><u>In 2024, How to Clear Your Default Podcast Listings on Spotify</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inexpensive-high-quality-cameras-for-2024/"><u>Inexpensive High-Quality Cameras for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-memory-preservation-top-10-software-solutions-for-fixing-pictures-on-windows-and-mac-os/"><u>Mastering Memory Preservation: Top 10 Software Solutions for Fixing Pictures on Windows & Mac OS</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-elevate-your-video-game-top-online-editors-for-chromebook/"><u>New 2024 Approved Elevate Your Video Game Top Online Editors for Chromebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-photo-hdr-mastery-in-photoshop/"><u>[New] Expert Tips for Photo-HDR Mastery in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-your-mobile-vids-with-these-tools/"><u>[Updated] Fast-Track Your Mobile Vids with These Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-device-to-inshot-a-guide-to-audio-integration/"><u>[Updated] From Device to InShot A Guide to Audio Integration</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlocking-the-art-of-reversed-video-experience-on-snapchat/"><u>[Updated] In 2024, Unlocking the Art of Reversed Video Experience on Snapchat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>2024 Approved The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/8-key-ways-that-ai-chatbots-are-redefining-content-creation-strategies/"><u>8 Key Ways That AI Chatbots Are Redefining Content Creation Strategies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-12-mini-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 12 mini</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-choices-apps-that-convert-photos-to-films-for-2024/"><u>Ideal Choices Apps That Convert Photos to Films for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-castwatch-inspection/"><u>In 2024, CastWatch Inspection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hits-and-misses-the-photographers-account/"><u>In 2024, Hits and Misses The Photographer's Account</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imagetangle-the-premier-montage-engineer/"><u>In 2024, ImageTangle The Premier Montage Engineer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mfc42ddll-not-detected-heres-how-to-correctly-address-the-issue/"><u>mfc42d.dll Not Detected? Here’s How to Correctly Address the Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-speaker-showcase-designer/"><u>Premier Speaker Showcase Designer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-removing-unwanted-keysshortcuts-from-windows-keyboards/"><u>Step-by-Step Guide: Removing Unwanted Keys/Shortcuts From Windows Keyboards</u></a></li>
 </ul></div>
 

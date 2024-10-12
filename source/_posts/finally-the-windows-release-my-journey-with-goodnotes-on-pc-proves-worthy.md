@@ -1,7 +1,7 @@
 ---
 title: "Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy"
-date: 2024-09-29T11:29:04.243Z
-updated: 2024-10-06T03:17:37.165Z
+date: 2024-10-07T21:55:04.314Z
+updated: 2024-10-11T21:36:01.958Z
 tags:
   - deals
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ![The sign-in options for Goodnotes on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sign-in-goodnotes.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It comes as no surprise that to enjoy all the features on Goodnotes for Windows, you’ll need to subscribe to the premium version. For example, the free version has a notebook limit of three, meaning you can only get three documents or notes. So, if you need more notes, you’ll have to upgrade to one of the paid subscriptions.
 
  The plans available are Goodnotes for Windows and Goodnotes Pro, which offer unlimited notebooks and allow you to import documents up to 250GB and export without a watermark. The major difference is the pricing and iOS features exclusive to Goodnotes Pro. These include AI typing, AI math assistance, and practice materials for exams like SATs.
@@ -32,32 +39,31 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ![The 'Goodnotes for Windows' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-for-windows-option.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As of June 2024, Goodnotes for Windows is priced at $6.99 a year, while Goodnotes Pro is a bit more expensive and costs $9.99 a year. A GoodNote Pro subscription lets you use Goodnotes on iOS, Android, Windows devices, or the web.
 
 ![Tap or click 'Goodnotes Pro.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-pro-option.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Goodnotes on Windows Has Incredible Note-Taking Features
 
  I ran the Goodnotes app on an HP Envy x360 with Windows 11 to get the tablet-like effect. Here are some of the cool features I used.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Multiple Page Formats
@@ -68,22 +74,42 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  If you use Goodnotes to take notes in class or a meeting and prefer writing in a straight line, there is a ruled paper option. And if you love to bullet journal, you can now do so digitally with the dotted page options. There are also blank pages for drawing or jotting down ideas freely. The best part is customizing your own templates to make your notes exactly how you like.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Offline Access
 
  You can also access your notes offline, so there's no need to worry about having a stable internet connection. Goodnotes lets you view and edit your notes, and they will sync when your connection is restored.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
  From accounting sheets to planning your finances, a variety of monthly and weekly planner sheets and a standard to-do sheet to keep your day organized. The templates are quite basic, but they give you the creative room to customize them and make them your own.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Lasso Tool
 
@@ -105,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  Note that the sharing feature on your Windows computer is only available with paid subscriptions to Goodnotes for Windows or Goodnotes Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Beta Testing Marketplace
 
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
@@ -119,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
 
  You also have the option to join as a creator and show off your skills, which is a plus. All the templates currently listed in the marketplace section are free for users with a paid subscription to either Goodnotes on Windows or Goodnotes Pro.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What We’d Like To See
 
@@ -150,21 +162,24 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-vector-art-exploring-kinds-applications/"><u>[New] First Steps in Vector Art Exploring Kinds, Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-generate-brand-identity-accessible-logo-templates-and-editing/"><u>[New] Generate Brand Identity Accessible Logo Templates & Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-casual-to-pro-unpacking-kinemaster-for-android-gamers/"><u>[Updated] From Casual to Pro Unpacking KineMaster for Android Gamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>2024 Approved From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-avoid-watermarks-in-stock-purchases/"><u>2024 Approved How To Avoid Watermarks in Stock Purchases</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-run-a-winning-fb-giveaway/"><u>2024 Approved Innovative Approaches to Run a Winning FB Giveaway</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-team-potential-harnessing-the-power-of-snap-camera/"><u>2024 Approved Unlocking Team Potential Harnessing the Power of Snap Camera</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/clear-acoustic-advantages-review-of-the-top-6-stream-ready-mic-models-for-2024/"><u>Clear Acoustic Advantages Review of the Top 6 Stream-Ready Mic Models for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-performance-a-guide-to-upgrading-intel-gpus-on-win-7/"><u>Enhance Performance: A Guide to Upgrading Intel GPUs on Win 7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/green-screen-resources-download-free-for-2024/"><u>Green Screen Resources, Download Free for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-xcover-6-pro-tactical-edition-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy XCover 6 Pro Tactical Edition for Free? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-note-30-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix Note 30 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/insiders-guide-to-recording-and-livestreaming-sports-events-for-2024/"><u>Insider's Guide to Recording and Livestreaming Sports Events for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-headerfooter-settings-in-pre-conversion-for-optimal-flipbook-outputs/"><u>Mastering Header/Footer Settings in Pre-Conversion for Optimal FlipBook Outputs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elevating-your-experiences-advanced-gopro-time-lapse-tactics/"><u>[New] 2024 Approved Elevating Your Experiences Advanced GoPro Time-Lapse Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explaining-instagrams-inverted-video-effect/"><u>[New] Explaining Instagram’s Inverted Video Effect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-perfect-our-top-10-photo-lenses-list/"><u>[New] Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>[New] Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>[New] High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-raising-livestock-a-guide-to-ginger-island-farm-for-2024/"><u>[New] Raising Livestock A Guide to Ginger Island Farm for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-for-drone-pilots-vr-eyewear/"><u>[Updated] Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-background-sounds-with-film-trailers/"><u>[Updated] Harmonizing Background Sounds with Film Trailers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-vibrant-visual-photo-assemblies-for-joyful-living/"><u>[Updated] Vibrant Visual Photo Assemblies for Joyful Living</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-film-seamless-ocean-vibes-with-these-7-hacks/"><u>2024 Approved How to Film Seamless Ocean Vibes with These 7 Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/code-28-bug-fixes-for-a-smooth-windows-experience/"><u>Code 28 Bug Fixes for a Smooth Windows Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-your-role-play-advanced-closer-views-techniques/"><u>Elevating Your Role-Play Advanced Closer Views Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-ingenious-ways-to-modify-voices-for-free/"><u>Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-bottom-to-top-seo-guide-for-podcasters-for-2024/"><u>From Bottom to Top Seo Guide for Podcasters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>In 2024, Exclusive Exploration Superior VR Games on Google Cardboard</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>PickUp Vs. Competitors An Incisive Review of Android's Top Editor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-microsoft-teams-quick-and-lightweight/"><u>Streamlined Microsoft Teams: Quick & Lightweight</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-teammers-screens-not-showing/"><u>Tackle Teammers' Screens Not Showing</u></a></li>
 </ul></div>
 

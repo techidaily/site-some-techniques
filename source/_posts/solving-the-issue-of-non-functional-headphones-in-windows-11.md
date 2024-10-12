@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-10-03T05:32:47.870Z
-updated: 2024-10-06T07:25:29.589Z
+date: 2024-10-08T21:06:41.915Z
+updated: 2024-10-11T19:21:28.565Z
 tags:
   - desktop
 categories:
@@ -24,10 +24,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Update Your Audio Drivers](https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,13 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Then, disconnect all other peripherals attached to your device, mainly audio output devices. If the issue persists after performing these basic checks, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Unmute Your Headphones
 
  Ensure your headphone's volume isn't muted on your computer. To check, look at the speaker icon in the system tray in the bottom-right corner of the screen. If the speaker symbol has a cross (x) next to it, the volume is muted.
@@ -58,13 +57,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To unmute it, simply click the muted speaker icon in the system tray, then click the same icon beside the volume slider. After unmuting, make sure to [adjust your sound volume on Windows](https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-c12-pro-tips-tricks-and-helpful-advice-by-drfone-android/) so it isn't too low.
 
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Check for Hardware Issues
 
@@ -86,13 +78,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. Set Your Headphones as the Default Output Device
 
  Ensure your headphones are [set as the default audio output device](https://youtube-stream.techidaily.com/learn-the-process-of-capturing-your-watched-youtube-content-without-spending-for-2024/) in your sound settings, especially if multiple audio output devices are connected to your system.
@@ -104,19 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
 
@@ -131,10 +103,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Disabling exclusive mode and audio enhacements in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-exclusive-mode-and-audio-enhacements-in-sound-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  8\. Run the Audio Troubleshooter
@@ -147,6 +126,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Update Your Audio Drivers
 
  Outdated audio drivers can also cause difficulties with audio input and output devices. To rule out this possibility, [install the latest drivers](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/). Visit the manufacturer's website of your headphones or device and download the latest audio and Bluetooth drivers available. If the drivers are in an executable file format, simply run the files to install them.
@@ -154,6 +147,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For drivers requiring manual installation, use Device Manager. Right-click on the Start button and open "Device Manager." In Device Manager, expand the "Sound, video, and game controllers" category, right-click on your audio device, and select "Update driver."
 
 ![Updating the sound driver in Windows Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-updating-the-sound-driver-in-windows-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select "Browse my computer for drivers," locate the downloaded files, and follow the on-screen instructions. Repeat these steps to update Bluetooth drivers.
 
@@ -176,24 +176,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-vertex-productions-summary-pinnacle-studio-assessment-2023/"><u>[New] 2024 Approved Vertex Productions Summary Pinnacle Studio Assessment, 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-guide-to-top-8-free-high-definition-video-players/"><u>[New] Exclusive Guide to Top 8 FREE, High Definition Video Players</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hololens-analysis-a-3d-interface-revolution-by-microsoft/"><u>[New] HoloLens Analysis A 3D Interface Revolution by Microsoft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-sing-your-own-song-with-an-iphone-ringtone/"><u>[New] How to Sing Your Own Song with an iPhone Ringtone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-video-repository-explorator/"><u>[New] In 2024, Video Repository Explorator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flip-through-twitch-feeds-without-pause/"><u>[Updated] Flip Through Twitch Feeds Without Pause</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-videography-space-on-128gb-technology/"><u>[Updated] In 2024, Videography Space on 128GB Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-innovate-your-podcast-previews-and-trailers/"><u>2024 Approved How to Innovate Your Podcast Previews and Trailers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infinite-storage-horizon-your-guide-to-free-and-premium-cloud-services/"><u>2024 Approved Infinite Storage Horizon Your Guide to Free & Premium Cloud Services</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dissecting-the-core-features-comprehensive-review-of-lightroom-on-android/"><u>Dissecting the Core Features Comprehensive Review of Lightroom on Android</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/diy-movies-library-migration-how-to-digitally-move-dvds-from-cddvd-drives-to-an-external-hard-drive-for-tv-playback/"><u>DIY Movies Library Migration: How To Digitally Move DVDs From CD/DVD Drives To An External Hard Drive For TV Playback</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-intel-hd-520-software/"><u>Download: Intel HD 520 Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-resolution-sky-photography-10-preferred-pages-for-2024/"><u>High-Resolution Sky Photography 10 Preferred Pages for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-are-podcasters-paid-for-2024/"><u>How Are Podcasters Paid for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gross-income-strategies-for-podcasters/"><u>In 2024, Gross Income Strategies for Podcasters</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-13-mini-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flight-paths-revealed-full-review-of-dji-phantom-4/"><u>[Updated] Flight Paths Revealed Full Review of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-optimal-metaverse-displays-the-ultimate-8-picks/"><u>[Updated] In 2024, Optimal Metaverse Displays The Ultimate 8 Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-video-aspect-ratios-a-beginners-tale/"><u>2024 Approved Grasping Video Aspect Ratios A Beginner’s Tale</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-causes-and-solutions-for-mistyping-on-your-keyboard/"><u>Common Causes and Solutions for Mistyping on Your Keyboard</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-horizons-with-sony-unraveling-xperia-xz-for-2024/"><u>High-Definition Horizons with Sony - Unraveling Xperia XZ for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-15-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-7-star-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android/"><u>In 2024, 7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-expert-film-cameras-you-can-trust/"><u>In 2024, From Novice to Expert Film Cameras You Can Trust</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-web-destinations-alarm-ringtone-downloads-guide-for-2024/"><u>Superior Web Destinations Alarm Ringtone Downloads Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-manual-pinning-people-on-snapchat/"><u>The Ultimate Manual Pinning People on Snapchat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-weihnachtslieder-aus-deutschland-kostenfreier-zugang-zu-klassikern-und-modernen-stucken/"><u>Top-Weihnachtslieder Aus Deutschland - Kostenfreier Zugang Zu Klassikern Und Modernen Stücken</u></a></li>
 </ul></div>
 

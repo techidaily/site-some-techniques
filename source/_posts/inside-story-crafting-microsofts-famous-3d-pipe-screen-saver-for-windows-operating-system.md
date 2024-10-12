@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-10-04T22:22:35.146Z
-updated: 2024-10-06T09:01:15.439Z
+date: 2024-10-07T01:55:58.617Z
+updated: 2024-10-11T17:42:10.930Z
 tags:
   - deals
 categories:
@@ -40,31 +40,31 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>[New] Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-foundations-of-fluid-graphics-a-primer/"><u>[New] Foundations of Fluid Graphics A Primer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-futuristic-vr-tech-for-remote-pilots/"><u>[New] Futuristic VR Tech for Remote Pilots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gentle-pace-reducing-music-intensity/"><u>[New] Gentle Pace Reducing Music Intensity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-prime-trivia-2024s-top-11-quiz-channels/"><u>[New] Prime Trivia 2024'S Top 11 Quiz Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[New] Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>[New] The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[Updated] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>[Updated] GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-full-potential-the-laptop-recording-manual/"><u>[Updated] Unlocking Full Potential The Laptop Recording Manual</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-new-frontiers-in-gaming-top-titles-for-rift-vive-and-playstation-vr-for-2024/"><u>Exploring New Frontiers in Gaming Top Titles for Rift, Vive, and PlayStation VR for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ground-rules-of-e-storytelling-techniques/"><u>In 2024, Ground Rules of E-Storytelling Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-heavy-haulers-face-off-t5-or-sjcam-s6-legend/"><u>In 2024, Heavy Haulers Face-Off T5 or SJCAM S6 Legend?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-streamlined-processes-transforming-mac-videos-into-snaps/"><u>In 2024, Streamlined Processes Transforming Mac Videos Into Snaps</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/marketing-leadership-update-gabriard-lukianchuk-joins-abbyy-c-suite-as-head-of-marketing/"><u>Marketing Leadership Update: Gabriard Lukianchuk Joins ABBYY C-Suite as Head of Marketing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcasts-features-and-pricing/"><u>New The Great DVR Debate TiVo vs Comcasts Features and Pricing</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-addressing-dev-error-5573-in-call-of-duty-vanguard/"><u>Solution Steps for Addressing Dev Error 5573 in Call of Duty Vanguard</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-apex-10-virtual-warrior-battles-for-2024/"><u>[New] Apex 10 Virtual Warrior Battles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>[New] Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screensnapper-pro-the-ultimate-guide-to-capturing-your-world-for-2024/"><u>[New] ScreenSnapper Pro The Ultimate Guide to Capturing Your World for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlock-your-films-potential-top-11-color-grading-and-correction-methods-for-2024/"><u>[New] Unlock Your Film's Potential Top 11 Color Grading and Correction Methods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>[Updated] Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>[Updated] Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-skies-simple-snaps-vertical-phone-panoramas/"><u>[Updated] High Skies, Simple Snaps Vertical Phone Panoramas</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-practical-methods-reflecting-video-via-vlc-software-for-2024/"><u>[Updated] Practical Methods Reflecting Video via VLC Software for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-color-grading-with-luts-in-pscc/"><u>[Updated] Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-yuva-2-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Yuva 2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-barriers-with-excellent-job-interview-techniques-for-2024/"><u>Breaking Barriers with Excellent Job Interview Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-correcting-the-common-runtime-error-code-0xc0000185/"><u>Diagnosing & Correcting the Common Runtime Error (Code 0Xc0000185)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-snapseed-a-simple-guide-for-new-users-for-2024/"><u>Exploring Snapseed A Simple Guide for New Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-mobile-image-editing-tools-top-10-overlay-app-list-for-2024/"><u>Free Mobile Image Editing Tools - Top 10 Overlay App List for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c32-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C32 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hues-and-highlights-editing-techniques-for-impact-for-2024/"><u>Hues & Highlights Editing Techniques for Impact for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-distinctions-of-srgb-and-rgb/"><u>In 2024, Exploring the Distinctions of Srgb and Rgb</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>In 2024, Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfect-your-android-experience-with-screen-and-video-tech/"><u>In 2024, Perfect Your Android Experience with Screen & Video Tech</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

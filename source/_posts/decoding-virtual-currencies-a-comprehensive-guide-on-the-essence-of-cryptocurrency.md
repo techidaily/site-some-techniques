@@ -1,7 +1,7 @@
 ---
 title: "Decoding Virtual Currencies: A Comprehensive Guide on the Essence of Cryptocurrency."
-date: 2024-09-30T05:36:04.529Z
-updated: 2024-10-05T18:51:59.201Z
+date: 2024-10-06T01:08:50.498Z
+updated: 2024-10-12T04:28:55.653Z
 tags:
   - cutting-edge
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
  Of course, without a central issuing authority inflation could become a real issue: anybody could just claim at any time that they have a thousand or a million cryptobucks, and there's nothing anybody could do to stop them. If you create your own U.S. dollars, you'll get arrested for counterfeiting. If you create cryptocurrency out of thin air, nothing will happen.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Cryptocurrency Blockchain
@@ -47,15 +47,28 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 ![An example of a Bitcoin ledger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/blockchain-example.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The ledger keeps track of how much of any given cryptocurrency is spent (Bitcoin in the above example), when it's spent, and also who spent it. Though your identity is protected by a pseudonym---random numbers and letters called a hash---when using most cryptocurrencies, none except for a few exceptions are truly anonymous. Even [Bitcoin isn't "anonymous" in the way many people think it is](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/).
 
 Related: [How Anonymous Is Bitcoin?](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Putting the Crypto in Cryptocurrency
 
@@ -67,6 +80,13 @@ Related: [How Anonymous Is Bitcoin?](https://activate-lock.techidaily.com/how-to
 
  There are [several examples](https://www.nytimes.com/2021/01/12/technology/bitcoin-passwords-wallets-fortunes.html) of people forgetting their passwords and locking themselves out of their cryptofortune.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Buying and Mining Cryptocurrencies
 
  With the theory of cryptocurrencies out of the way, let's take a look at how they work in practice. To get started with cryptocurrencies, you're going to have to go to an exchange like [Coinbase](https://www.coinbase.com/) or [Kraken](https://www.kraken.com/) to buy your cryptocurrency of choice using regular money. We have a guide on [how to buy Bitcoin](https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y17s-drfone-by-drfone-virtual-android/) if you'd like to know more; the guide also applies to other cryptocurrencies.
@@ -77,13 +97,6 @@ Related: [How to Buy Bitcoin the Easy Way](https://fake-location.techidaily.com/
 
  However, considering the insane amount of computing power that's needed to process the data necessary for verifying the new blocks, there's a chance your custom-built gaming rig will have smoke billowing out of it before you mine even the equivalent of a few bucks. There's so much processing power needed, in fact, that mining is no longer the field of enthusiasts, but rather of whole companies. Even [criminal gangs](https://www.reuters.com/article/mexico-bitcoin-insight-idUSKBN28I1KD) are getting in on the action---and making millions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Storing and Spending Bitcoin
 
  Assuming you just bought your cryptocurrency of choice, you still need a place to store it: unlike cash money, Bitcoin and Ethereum can't be sewn into your mattress. For this, you'll need a wallet. These come in software and hardware form and can store your particular blockchain information for you.
@@ -93,13 +106,6 @@ Related: [How to Buy Bitcoin the Easy Way](https://fake-location.techidaily.com/
  The alternative is a hardware wallet, which is pretty much just a special USB stick that keeps track of the blockchain for you. Examples include [Trezor](https://shop.trezor.io/) and [Ledger](https://www.ledger.com/). They're pretty nifty, though again, if you lose or forget your password your crypto is gone.
 
 ![Ledger wallet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ledger-wallet.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Ledger](https://shop.ledger.com/products/ledger-nano-s)_
 
@@ -120,17 +126,22 @@ _[Ledger](https://shop.ledger.com/products/ledger-nano-s)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-mend-facebook-story-playback-pauses/"><u>[New] Mend Facebook Story Playback Pauses</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[Updated] Find Your Digital Companion The Top 6 YouTube Personality Puzzles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-end-hardware-a-showcase-of-excellence/"><u>[Updated] High-End Hardware A Showcase of Excellence</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-to-enhance-your-youtube-video-positioning/"><u>[Updated] Strategies to Enhance Your YouTube Video Positioning</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illusions-manipulating-past-and-future-events/"><u>2024 Approved Illusions Manipulating Past & Future Events</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adobes-photo-jiggle-decrease-enhancing-or-eliminating-for-2024/"><u>Adobe's Photo Jiggle Decrease Enhancing or Eliminating for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computer-components-by-toms-gear-guides/"><u>Expert Insights on Computer Components by Tom's Gear Guides</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-niche-to-mainstream-amassing-a-million-view-channel/"><u>In 2024, From Niche to Mainstream Amassing a Million-View Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-improving-zoom-hd-quality-quick-fixes/"><u>In 2024, Improving Zoom HD Quality Quick Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrating-hp-3d-imaging-printer-easily/"><u>Integrating HP 3D Imaging Printer Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/new-tricks-to-keep-warcraft-3-reforged-stable-on-windows-1011-systems-warcraft-3-crash-solutions/"><u>New Tricks to Keep Warcraft 3 Reforged Stable on Windows 10/11 Systems (Warcraft 3 Crash Solutions )</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-itel-s23plus-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Itel S23+ and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hearing-from-you-simple-windows-10-recorder-guide/"><u>[New] Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-flat-to-form-the-journey-of-a-text-into-3d/"><u>[Updated] From Flat to Form The Journey of a Text Into 3D</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-displays-of-2024-essential-photo-editing-gear-selection/"><u>[Updated] Ideal Displays of 2024 Essential Photo Editing Gear Selection</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-break-the-chain-of-interruptions-on-facebook-lives/"><u>2024 Approved Break the Chain of Interruptions on Facebook Lives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frosty-feats-celebrating-the-beijing-olympics-2022/"><u>2024 Approved Frosty Feats Celebrating the Beijing Olympics, 2022</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-y200e-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Y200e 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-12-live-views-at-your-fingertips/"><u>Exclusive 12 Live Views at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-video-to-verse-ranking-the-best-16-platforms-for-flawless-translation-for-2024/"><u>From Video to Verse Ranking the Best 16 Platforms for Flawless Translation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-android-adventure-the-apk-breakdown-for-2024/"><u>Funimate Android Adventure The APK Breakdown for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grab-tailor-made-cost-free-outro-videos-for-2024/"><u>Grab Tailor-Made, Cost-Free Outro Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-bluescreenview-a-users-handbook/"><u>Harnessing BlueScreenView: A User's Handbook</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-staking-rituals-player-views/"><u>In 2024, HIGH-STAKING RITUALS Player Views</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-your-airpods-silence-10-strategies/"><u>Ultimate Guide: Resolving Your AirPods' Silence - 10 Strategies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updated-list-of-default-linksys-login-credentials-for-july-2024/"><u>Updated List of Default Linksys Login Credentials for July 2024</u></a></li>
 </ul></div>
 

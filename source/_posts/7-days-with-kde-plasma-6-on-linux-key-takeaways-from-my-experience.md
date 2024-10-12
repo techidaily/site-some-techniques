@@ -1,7 +1,7 @@
 ---
 title: "7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience"
-date: 2024-09-30T03:21:02.726Z
-updated: 2024-10-05T23:15:20.461Z
+date: 2024-10-08T21:32:43.308Z
+updated: 2024-10-11T16:57:13.481Z
 tags:
   - desktop
 categories:
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  With [Plasma 6.0 recently released](https://instagram-video-recordings.techidaily.com/new-professional-thumbnails-for-engaging-igtv-posts/), it seemed like a great time to take a serious look at it. I used Plasma exclusively for a week, and this is how it went.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  First Impressions
 
  I installed Plasma on Arch to get a plain-vanilla spin of Plasma. To get work done I need to navigate the file system, launch and install applications, and change settings in the DE.
@@ -71,10 +64,10 @@ Dave McKay/How-To Geek
 ![The KDE Plasma 6.0 desktop with several windows open and a panel thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -96,10 +89,10 @@ Dave McKay/How-To Geek
 ![The KDE Plasma Dolphin file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/8-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -113,6 +106,13 @@ Dave McKay/How-To Geek
  Yes, you can do this in other file browsers, but a small icon labeled "Split" has to be the easiest way to do this. Likewise, the Icons View, Compact View, and Details View icons make these common actions accessible and simple.
 
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -132,13 +132,6 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 Application Launcher showing Frequently Used applications and places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/12-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  You can search by name, browse through categories such as Development, Graphics, and Internet, or pick from frequently used applications.
@@ -151,6 +144,13 @@ Dave McKay/How-To Geek
 
 ![The LibreOffice entry in the KDE Plasma 6.0 Discover app store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  A small progress bar in the lower left lets you know how close to completion your installation is.
@@ -158,28 +158,15 @@ Dave McKay/How-To Geek
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
  Once installed and launched, LibreOffice looked like any other application in Plasma, with the appropriate window and dialog decorations from the desktop theme.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  KDE Plasma 6.0 Performance
 
@@ -195,6 +182,13 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 Settings application open at the Quick Settings pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  There seem to be options for everything. It can feel a little overwhelming to users of other desktop environments that give you, by comparison, a limited ability to exercise personal choice.
@@ -203,14 +197,14 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 System Settings application open on the General Behavior pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/14-1.png) 
 
-Dave McKay/How-To Geek
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Dave McKay/How-To Geek
 
 ##  Stability: Generally Good...
 
@@ -245,19 +239,18 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-evolved-windows-editor-programs-for-films/"><u>[Updated] Evolved Windows Editor Programs for Films</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-look-at-djis-inspire-1-drone/"><u>[Updated] Extensive Look at DJI's Inspire 1 Drone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-snappy-sounds-discover-role-rhythms/"><u>[Updated] In 2024, Snappy Sounds Discover Role Rhythms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-skin-care-secrets-unveiled/"><u>[Updated] Skin Care Secrets Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-camcorders-for-motion-free-videos/"><u>2024 Approved Excellent Camcorders for Motion-Free Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c12-plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C12 Plus</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-the-dots-bridging-apples-homepod-with-your-flat-screen-display/"><u>Connecting the Dots: Bridging Apple's HomePod with Your Flat Screen Display</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/examination-the-top-tier-ar-parrot-drone-20-for-2024/"><u>Examination The Top-Tier AR Parrot Drone 2.0 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-of-the-best-ultimate-list-of-gopro-casings/"><u>In 2024, Best of the Best Ultimate List of GoPro Casings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-free-vfx-resources-online/"><u>In 2024, Explore the Best FREE VFX Resources Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-adjust-your-photovideo-with-3dlut-mobile/"><u>In 2024, How to Adjust Your Photo/Video with 3DLUT Mobile</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/peephole-to-private-facebook-worlds/"><u>Peephole to Private Facebook Worlds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-must-haves-action-cameras-unleashed-for-2024/"><u>Top 10 Must-Haves Action Cameras Unleashed for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-dual-displays-with-macos/"><u>Ultimate Guide: Setting up Dual Displays with macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-rookie-to-veteran-10-must-have-cinema-cameras/"><u>[New] From Rookie to Veteran 10 Must-Have Cinema Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video/"><u>[New] Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-maximize-youtube-savvy-unified-streams-for-enthusiasts/"><u>[New] In 2024, Maximize YouTube Savvy Unified Streams for Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-keeping-memories-afloat-unlimited-free-photo-stash-plus-charged-backups/"><u>[New] Keeping Memories Afloat Unlimited Free Photo Stash + Charged Backups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visual-storytelling-hack-crafting-youtube-thumbnails-on-mobiles/"><u>[Updated] Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-troubleshooting-tips-addressing-the-problem-of-undelivered-texts/"><u>Android Troubleshooting Tips: Addressing the Problem of Undelivered Texts</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-overcoming-voice-typing-hiccups-in-windows-11/"><u>Expert Guide to Overcoming Voice Typing Hiccups in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers-for-2024/"><u>Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro-for-2024/"><u>From Novice to Professional A Comprehensive Guide to Mastering Final Cut Pro for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-5-engaging-book-promo-videos/"><u>In 2024, Exploring 5 Engaging Book Promo Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-slow-motion-to-fast-forward-adjusting-videos-on-insta/"><u>In 2024, From Slow Motion to Fast Forward – Adjusting Videos on Insta</u></a></li>
 </ul></div>
 

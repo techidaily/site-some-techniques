@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Using Pipx for Easy Python App Deployment
-date: 2024-09-28T16:09:54.947Z
-updated: 2024-10-05T22:38:57.387Z
+date: 2024-10-05T02:04:11.721Z
+updated: 2024-10-12T02:21:13.245Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * With pipx, you can install Python CLI apps, run them just like standard Linux commands, and even uninstall them easily. It's a convenient tool for managing and expanding your app library.
 
  There are a ton of useful Python CLI apps out there, but installation isn't always as easy as it seems. Let's take a look at how pipx can make it easy to install and manage them.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Python Apps Are Tricky
 
@@ -50,25 +43,11 @@ sudo apt update && sudo apt install python3-venv python3-pip
 
 ![installing python3-venv and python3-pip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx01_update_install_deps-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will install the core packages for virtual environments and the pip package manager. Many Linux distributions will have these preinstalled, but not all. Crucially, versions of Debian and Ubuntu don't guarantee those packages will be preinstalled, so if you're on those distros you should run the above commands. If you're on a different distribution, use your relevant package manager, whether that's yum, pacman, or even brew.
 
  Next, we can install the pipx package itself.
 
 ![terminal window showing 'sudo apt install pipx' command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx03_install_pipx.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 sudo apt install pipx
 
@@ -80,15 +59,28 @@ pipx ensurepath
 
 ![terminal window with a message telling the user that pipx's path has been set but a restart may be required](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx06_ensurepath2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On some distros, like Ubuntu, you may get a message that tells you that you may need to re-login for the path change to take effect. On Rhino Linux, things worked immediately, but on Ubuntu I had to log out and in again.
 
  And that's it, pipx is ready to go! Let's take a look at how to use it with some Python apps.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing Python CLI Apps
@@ -115,6 +107,13 @@ pipx list
 
 ![terminal window with the output of the pipx list command which shows only cowsay is installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can see that **speedtest-cli** is not installed, but **cowsay** is still present on our system.
 
  You can also uninstall the cowsay app easily.
@@ -124,6 +123,13 @@ pipx uninstall cowsay
 ![terminal window showing the pipx uninstall command output, which says it successfully uninstalled the cowsay app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07a_uninstall_cowsay.png) 
 
  Where pipx really helps is in managing more complex applications. As an example, you can easily write [simple bash scripts](https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/) to launch and maintain the calibre-web app to host your own ebook library because you can treat it as just another command. Without pipx, the service files you need to write would be much trickier for someone who doesn't know Python and its deployment practices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Expand Your App Library With pipx
 
@@ -144,19 +150,21 @@ pipx uninstall cowsay
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-dawn-evaluation-non-conformist-thoughts/"><u>[New] Dawn Evaluation Non-Conformist Thoughts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovation-in-iphone-filmmaking-virtual-worlds/"><u>[New] Innovation in iPhone Filmmaking Virtual Worlds</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-refining-your-craft-making-youtube-friendly-videos/"><u>[New] Refining Your Craft Making YouTube-Friendly Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-fix-swiftly-eradicate-unwanted-eyeshine-from-your-iphone-pics/"><u>[Updated] Free Fix Swiftly Eradicate Unwanted Eyeshine From Your iPhone Pics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premiere-pros-shadowy-showdown/"><u>2024 Approved Premiere Pro's Shadowy Showdown</u></a></li>
-<li><a href="https://facebook.techidaily.com/accusations-social-media-fights-false-advertising/"><u>Accusations: Social Media Fights False Advertising</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-no-more-crashes-optimizing-pc-performance-for-the-latest-update/"><u>Call of Duty: Black Ops Cold War - No More Crashes! Optimizing PC Performance for the Latest Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-solutions-to-restore-audio/"><u>Fixing Laptop Speaker Issues: Solutions to Restore Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-fidelity-webcams-for-professional-podcasting-for-2024/"><u>High-Fidelity Webcams for Professional Podcasting for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-control-your-iphone-image-orientation-for-2024/"><u>How to Control Your iPhone Image Orientation for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-sea-of-thieves-continuous-loading-issue-a-step-by-step-guide/"><u>How to Resolve Sea of Thieves Continuous Loading Issue - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-icy-innovations-on-ice-olympic-edition/"><u>In 2024, Icy Innovations on Ice - Olympic Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-impressive-book-trails-presented/"><u>In 2024, Impressive Book Trails Presented</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/secrets-of-speed-instant-background-cleanse-techniques-for-2024/"><u>Secrets of Speed Instant Background Cleanse Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-find-the-best-videographer/"><u>[New] How to Find the Best Videographer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-active-screen-capture-pro-does-it-reign-supreme-for-2024/"><u>[Updated] Active Screen Capture Pro Does It Reign Supreme for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-catchy-cadences-in-creative-snaps-and-videos/"><u>[Updated] Catchy Cadences in Creative Snaps and Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-leading-websites-for-text-embellishments/"><u>[Updated] Explore Leading Websites for Text Embellishments</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>[Updated] In 2024, Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>2024 Approved Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-ensure-periscope-videos-are-secured-post-record/"><u>2024 Approved How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-impressive-scrutiny-and-comparable-proposals/"><u>2024 Approved Impressive Scrutiny & Comparable Proposals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-thrifty-tech-finds-best-cameras-on-a-dime/"><u>2024 Approved Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581500113-become-a-polyglot-for-0-thanks-to-black-friday/"><u>Become a Polyglot for $0 Thanks to Black Friday</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-popular-lgbtq-shows-streaming-now-on-netflix-july-update/"><u>Discover Popular LGBTQ Shows Streaming Now on Netflix (July Update)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/extend-your-snapstreak-success-with-these-ideas-for-2024/"><u>Extend Your Snapstreak Success with These Ideas for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-go-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark Go (2023) Data? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fresh-topics-eliciting-engagement-in-audio-formats/"><u>In 2024, Fresh Topics Eliciting Engagement in Audio Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-hooked-on-fast-forward-finesse-in-snapchat-writes/"><u>In 2024, Get Hooked on Fast-Forward Finesse in Snapchat' Writes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 12+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

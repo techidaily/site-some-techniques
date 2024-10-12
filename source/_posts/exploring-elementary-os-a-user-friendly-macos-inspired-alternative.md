@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2024-09-30T05:29:19.154Z
-updated: 2024-10-06T11:25:04.812Z
+date: 2024-10-10T23:49:02.369Z
+updated: 2024-10-11T23:47:37.001Z
 tags:
   - desktop
 categories:
@@ -27,7 +27,21 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Installing elementary OS Is as Easy as It Gets
 
@@ -40,26 +54,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![The boot and install options in an elementary OS live boot menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_04_58.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Settling in Is Elementary
 
@@ -67,25 +68,11 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
  By default, the AppStore is limited to elementary's curated apps. If that's not enough for you, and you need third-party software like Steam and LibreOffice, you'll need to enable [Flathub support](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) first. The reason for this extra step is that all that extra software hasn't been checked by the elementary team to integrate fully with the desktop and abide by its privacy and security guidelines. That said, I didn't personally experience any issues with the software I installed that way.
 
  Generally, the experience was far cleaner and more cohesive than most Linux desktops I've used. Navigating the desktop in general was a pleasant experience, without the endless subpages of settings and extravegent context menus some distros come with. I didn't experience unexplained freezes or mysterious blank screens on wake. I was able to connect a second monitor generally hassle-free, which isn't always the case for Linux.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Tinkerers Need Not Apply
 
@@ -94,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -116,18 +110,18 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>[New] 2024 Approved The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs/"><u>[Updated] From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-importing-songs-into-inshot-a-step-by-step-guide-for-2024/"><u>[Updated] Importing Songs Into InShot A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-compreayers-must-have-top-10-free-passport-photo-tools-for-2024/"><u>A Compreayer's Must-Have Top 10 Free Passport Photo Tools for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver/"><u>Comparing the Crème De La Crème GoPro Hero5 Black to Hero4 Silver</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-security-at-risk-with-generative-ai-crowdstrike-cto-alerts-in-latest-analysis-for-zdnet/"><u>Enterprise Security at Risk with Generative AI, CrowdStrike CTO Alerts in Latest Analysis for ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-in-format-switching-srt-to-advanced-standards-for-2024/"><u>Expertise in Format Switching SRT to Advanced Standards for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-imovies-default-cropping-behavior-for-2024/"><u>Exploring iMovie's Default Cropping Behavior for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c53-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C53 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hefty-helpers-airborne-lifting-titans-unveiled/"><u>In 2024, Hefty Helpers Airborne Lifting Titans Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-msmpengexe-resolve-its-cpu-hogging-on-windows-10/"><u>Winning the Battle Against MsMpEng.exe: Resolve Its CPU Hogging on Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp4-wmv-mkv-movavi/"><u>하드웨어없이 위대하고 안정적인 Mp4, WMV, MKV 포맷터로 원격화 - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>[New] First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-boosting-your-game-videos-with-tags/"><u>[Updated] In 2024, Best Practices Boosting Your Game Videos with Tags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[Updated] In 2024, How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-cutting-edge-encoders-for-live-media/"><u>2024 Approved Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-guide-to-smart-video-money-making-on-platforms/"><u>2024 Approved The Guide to Smart Video Money-Making on Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breaking-free-from-adobe-top-4-premiere-rush-alternatives/"><u>Breaking Free From Adobe Top 4 Premiere Rush Alternatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cultivating-a-loyal-fanbase-through-open-channels/"><u>Cultivating a Loyal Fanbase Through Open Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-expertise-crafting-convenient-directories/"><u>Effortless Expertise: Crafting Convenient Directories</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-a58-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on A58 4G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/htc-vive-review-the-most-immersive-vr-headset-for-2024/"><u>HTC Vive Review – The Most Immersive VR Headset for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-stock-photographs-meme-lives-and-histories-for-2024/"><u>Iconic Stock Photographs Meme Lives and Histories for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers-for-2024/"><u>Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers for 2024</u></a></li>
 </ul></div>
 

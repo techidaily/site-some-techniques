@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Husqvarna H501S Drone Unboxed - Review Essentials\""
-date: 2024-08-22T06:34:05.011Z
-updated: 2024-08-23T06:34:05.011Z
+date: 2024-10-06T00:14:46.684Z
+updated: 2024-10-11T17:17:20.379Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review for Hubsan H501S X4
 
 #### 1. Basic Specs info
@@ -108,17 +121,38 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
@@ -134,14 +168,30 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-lunapic-your-photography-toolkit/"><u>[New] First Steps in LunaPic Your Photography Toolkit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-glide-and-glory-short-track-highlights-from-22/"><u>[New] Glide and Glory Short Track Highlights From '22</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-change-your-phones-ringtone-picking-from-viral-tiktok-sounds/"><u>[New] How To Change Your Phone's Ringtone Picking From Viral TikTok Sounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-chapters-to-youtube-videos/"><u>[New] In 2024, How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/elevised-content-ease-youtube-loop-integration-guide/"><u>[New] Televised Content Ease YouTube Loop Integration Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-forward-features-unveiled-the-editors-guidebook/"><u>[Updated] Fast-Forward Features Unveiled The Editor's Guidebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-turn-your-instagram-stories-into-music/"><u>[Updated] In 2024, How to Turn Your Instagram Stories Into Music</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-photo-editor-photonshift-tech/"><u>2024 Approved Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-harmonizing-sights-with-itunes-acoustics/"><u>2024 Approved Harmonizing Sights with iTunes Acoustics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-tecno-pop-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Tecno Pop 8 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eye-catching-coverage-laptop-wallpapers-online-for-2024/"><u>Eye-Catching Coverage Laptop Wallpapers Online for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>In 2024, Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-color-calibrator/"><u>In 2024, Harmony Color Calibrator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tips-for-efficiently-editing-videos-for-social-media-engagement/"><u>Tips for Efficiently Editing Videos for Social Media Engagement</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transform-your-vob-files-into-mp4-format-a-step-by-step-guide-for-windows-11-and-macos/"><u>Transform Your VOB Files Into MP4 Format: A Step-by-Step Guide for Windows 11 and macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726224961322-avi-3gp-movavi/"><u>오픈소스 AVI 파일을 자이오티를 위한 3GP로 전환하는 방법 - MOVAVI</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-09-30T19:50:39.441Z
-updated: 2024-10-05T16:06:58.811Z
+date: 2024-10-11T02:11:03.473Z
+updated: 2024-10-11T17:38:14.333Z
 tags:
   - desktop
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open the App as an Admin
 
  If the app lacks certain rights, that may be why it displays the above error. In this case, launch the app as an administrator to fix the problem.
@@ -47,13 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To do that, right-click the app on your desktop or Start Menu and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
@@ -65,9 +51,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Activate Developer Mode
 
@@ -81,14 +81,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
- Quit Settings and launch your app.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Quit Settings and launch your app.
 
 ##  Remove and Reinstall the App
 
@@ -101,10 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the open prompt, select "Uninstall" to delete the app.
@@ -112,10 +112,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
@@ -145,18 +145,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-cutting-edge-online-streaming-via-vlc-media-player/"><u>[New] Expert Guide to Cutting-Edge Online Streaming via VLC Media Player</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-deciphering-youtubes-cc-policy-for-video-makers/"><u>[Updated] 2024 Approved Deciphering YouTube's CC Policy for Video Makers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-swift-signature-bg-cleansing-secrets-revealed-for-2024/"><u>[Updated] Swift Signature BG Cleansing Secrets Revealed for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-phantom-v-fold-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Phantom V Fold Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right-for-2024/"><u>First Steps in UAV World? The Syma X5C Review Sets You Up Right for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gentle-volume-reduction-methods-in-ableton-live-for-2024/"><u>Gentle Volume Reduction Methods in Ableton Live for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-iphone-footage-like-a-pro-for-2024/"><u>Harmonizing iPhone Footage Like a Pro for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oneplus-ace-3-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus Ace 3 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-gaming-experience-with-new-radeon-vega-3-driver/"><u>Improve Gaming Experience with New Radeon Vega 3 Driver</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-enhance-your-content-strategy-discover-the-power-of-social-blade-and-youtube-data/"><u>In 2024, Enhance Your Content Strategy - Discover the Power of Social Blade and YouTube Data</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/avi-mp4mkv/"><u>제공된 AVI 비디오를 간단하고 무료로 MP4/MKV와 다른 이유로에서 바꾸는 기술</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-accelerate-your-vimeo-experience/"><u>[Updated] Accelerate Your Vimeo Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[Updated] Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-stream-on-discord-step-by-step-guide-for-2024/"><u>[Updated] How to Stream on Discord [Step-by-Step Guide] for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-drone-racings-secrets-and-surpassing-fpv-drones/"><u>[Updated] In 2024, Unveiling Drone Racing's Secrets & Surpassing FPV Drones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>2024 Approved From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-soft-cessation-of-sounds-using-audacity-procedures/"><u>2024 Approved Implementing Soft Cessation of Sounds Using Audacity Procedures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-manipulate-iphone-pics-flip-tilt-and-more-for-2024/"><u>How to Manipulate iPhone Pics Flip, Tilt & More for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hype-generating-headline-author-for-2024/"><u>Hype-Generating Headline Author for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-invisible-interviewers-guide-stealthy-ios-and-android-tools/"><u>In 2024, Invisible Interviewer's Guide Stealthy iOS & Android Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-flip-side-of-perspectives-crafting-engaging-images-with-angled-spins-on-instagram-sites/"><u>The Flip-Side of Perspectives Crafting Engaging Images with Angled Spins on Instagram Sites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-your-steam-vr-recognized-again/"><u>Troubleshooting Tips: How to Get Your Steam VR Recognized Again</u></a></li>
 </ul></div>
 

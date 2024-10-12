@@ -1,7 +1,7 @@
 ---
 title: "2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration"
-date: 2024-09-29T04:23:04.152Z
-updated: 2024-10-06T05:22:56.391Z
+date: 2024-10-06T17:29:48.577Z
+updated: 2024-10-11T18:13:41.249Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 * [Step 2: Manage Your Backup Settings](https://facebook-video-recording.techidaily.com/new-2024-approved-step-into-the-rhythm-of-social-video-editing-with-music/)
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,22 +41,29 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
 
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -67,23 +81,36 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
 * The Settings option will let you copy your accessibility settings, any elements you have personalized on your old PC, your language and dictionary preferences, and any other settings you've adjusted.
 * The Credentials drop-down will help you to transfer your account details, Wi-Fi networks, and passwords.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 3: Backup Your Old PC
 
@@ -91,34 +118,13 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 4: Restore to Your New PC
 
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -143,24 +149,17 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-step-by-step-creating-personalized-whatsapp-soundtracks/"><u>[New] Step-by-Step Creating Personalized WhatsApp Soundtracks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-snapchat-selfie-aspect-ratios/"><u>[Updated] 2024 Approved Snapchat Selfie Aspect Ratios</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>[Updated] In 2024, A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies/"><u>2024 Approved First Flight Journey with Syma X5C Best Start to UAV Hobbies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovation-unleashed-experience-our-6-best-signature-removers/"><u>2024 Approved Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-tech-worlds-dissecting-ar-mr-and-vr-for-2024/"><u>Exploring Tech Worlds Dissecting AR, MR, & VR for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-leading-lines-in-photography-for-iphone-photos-for-2024/"><u>How to Use Leading Lines in Photography for iPhone Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-zoom-in-on-minecraft-for-2024/"><u>How to Zoom in on Minecraft for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expanding-possibilities-with-virtual-reality/"><u>In 2024, Expanding Possibilities with Virtual Reality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-animated-branding/"><u>In 2024, Fundamentals of Animated Branding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-cinematic-experiences-for-hopeful-hearts/"><u>In 2024, Heartfelt Cinematic Experiences for Hopeful Hearts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G 5G (2023) to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-places-to-step-into-new-realities/"><u>In 2024, Ideal Places to Step Into New Realities</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lighten-system-load-streamlining-media-consumption-on-pcs/"><u>Lighten System Load: Streamlining Media Consumption on PCs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/multiplecam-top-live-streaming-app-with-virtual-camera-capabilities/"><u>MultipleCam: Top Live Streaming App with Virtual Camera Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-managed-system-policies-insights-for-windows-users-under-corporate-regulation/"><u>Navigating Managed System Policies: Insights for Windows Users Under Corporate Regulation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-essential-guide-to-youtube-edits-with-premiere-pro-for-2024/"><u>The Essential Guide to YouTube Edits with Premiere Pro for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-newly-tested-debated-upgrade-of-youtubes-user-experience-design/"><u>Unveiling the Newly Tested, Debated Upgrade of YouTube's User Experience Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-crafting-intricate-photo-mosaics/"><u>[New] Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pixels-to-prints-master-snapseed-fundamentals/"><u>[New] From Pixels to Prints Master Snapseed Fundamentals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-routines-for-capturing-youtube-streams/"><u>[New] In 2024, Easy Routines for Capturing YouTube Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-choices-17-best-tools-for-background-blanks/"><u>[Updated] Expert Choices 17 Best Tools for Background Blanks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-world-of-digital-color-grading/"><u>[Updated] Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-hierarchy-ranking-10-memes-in-order-of-delight/"><u>2024 Approved Humor Hierarchy Ranking #10 Memes in Order of Delight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/achieve-superior-audio-performance-with-behringer-drivers-free-download/"><u>Achieve Superior Audio Performance with Behringer Drivers [Free Download]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-unleash-comprehensive-audience-analytics-for-better-engagement/"><u>Cookiebot: Unleash Comprehensive Audience Analytics for Better Engagement</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/techniques-for-removing-cluttered-photo-backgrounds/"><u>Techniques for Removing Cluttered Photo Backgrounds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-watch-80s-film-classics-enjoy-them-today/"><u>Top 10 Must-Watch '80S Film Classics - Enjoy Them Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-10-01T03:39:05.887Z
-updated: 2024-10-05T17:32:08.614Z
+date: 2024-10-08T18:43:23.385Z
+updated: 2024-10-11T21:01:47.655Z
 tags:
   - desktop
 categories:
@@ -31,18 +31,18 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Set a System Password 
 
  In a similar vein, you should also always set a system password, which you enter to unlock the laptop on startup or when unlocking the screen—which we talk about in our next entry. This is a good idea on any device, as it prevents anybody from accessing your data. It’s particularly vital for any portable device as it can prevent unauthorized access should it get lost or stolen.
 
  You’ll be prompted to set a system password during setup, usually right after encrypting your hard drive. Make sure to create a [strong, memorable password](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) that’s different from the hard disk password. Using the same password twice makes life far too easy for would-be thieves.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3  Set Up Screen Lock 
 
@@ -54,13 +54,6 @@ Jerome Thomas / How-To Geek
 
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Install a VPN 
 
  The first three tips will protect your laptop from anybody interfering with it physically. However, a bigger issue may be hackers coming at you over a network. This is where the next few tools come in, first and foremost being a [virtual private network](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/), or a VPN.
@@ -68,13 +61,6 @@ Jerome Thomas / How-To Geek
  A VPN is a service that lets you reroute your internet connection to anywhere in the world while also securing it in a so-called [VPN tunnel](https://extra-resources.techidaily.com/cross-service-playlist-exchange-simplified/). While rerouting your connection is fun and gets you access to different streaming libraries and the like, the benefit to security comes from the tunnel as it encrypts your connection.
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
@@ -84,28 +70,42 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Set Up a Firewall 
 
  You may also want to consider setting up a software firewall on your system. Firewalls are programs that can regulate the network traffic going in and out of your computer. If malware does make it onto your laptop somehow, a firewall can make it so it can’t phone home while you work to purge it from your system.
 
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6  Disable Root Login Over SSH 
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
  The penultimate piece of advice is a little exotic, but useful. As you probably know, root privileges let you do anything you want on a Linux machine. The problem is that under very specific circumstances anybody accessing the device remotely through an [SSH tunnel](https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/) can gain those privileges and thus do whatever they want on your laptop.
 
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
 
@@ -134,24 +134,15 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>[New] Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-effective-documentary-scripts/"><u>[New] Innovative Strategies for Effective Documentary Scripts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-packing-list-film-your-excursions/"><u>[New] Packing List Film Your Excursions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-download-gif-images-from-twitter/"><u>[Updated] 2024 Approved How to Download GIF Images From Twitter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-husqvarna-h501x4-fpv-quad-examination/"><u>[Updated] Husqvarna H501X4 FPV Quad Examination</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-futures-palette-the-best-sci-fi-films-crafting-virtual-worlds/"><u>2024 Approved Future's Palette The Best Sci-Fi Films Crafting Virtual Worlds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>2024 Approved Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hottest-online-hubs-for-metallic-3d-type-graphics/"><u>2024 Approved Hottest Online Hubs for Metallic 3D Type Graphics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-these-free-alternatives-to-watch-shows-on-netflix/"><u>Discover These Free Alternatives to Watch Shows on Netflix</u></a></li>
-<li><a href="https://facebook.techidaily.com/distilling-key-events-that-defined-googles-2022/"><u>Distilling Key Events That Defined Google's 2022</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/easy-guide-converting-vob-files-to-avi-format-using-windows/"><u>Easy Guide: Converting VOB Files to AVI Format Using Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms-for-2024/"><u>Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-periscope-is-it-free-sign-up-process/"><u>In 2024, Getting Started with Periscope Is It Free? Sign-Up Process</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-s23-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy S23 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/indispentic-vr-cinema-must-sees-for-2024/"><u>Indispentic VR Cinema Must-Sees for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-audio-problems-heres-how-to-restore-your-sound/"><u>Realtek Audio Problems? Here's How to Restore Your SOUND!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-un65ru8000fxza-review/"><u>Samsung UN65RU8000FXZA Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-oculus-hardware-issues-effectively/"><u>Solving Oculus Hardware Issues Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-resolving-windows-store-issue-code-0x00000000/"><u>Unraveling and Resolving Windows Store Issue Code 0X00000000</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-powerdirector-app-release-2024-guidebook/"><u>[New] Expert Insights PowerDirector App, Release 2024 Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>[New] Framed Facets Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-zero-to-hero-how-to-generate-fb-trends-for-2024/"><u>[New] From Zero to Hero How to Generate Fb Trends for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dynamic-duo-shots-perfecting-youtube-video-splitting-for-2024/"><u>[Updated] Dynamic Duo Shots Perfecting YouTube Video Splitting for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>[Updated] The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-metro-exodus-pc-game-crashes-solutions-for-a-smoother-experience/"><u>Fix Metro Exodus PC Game Crashes - Solutions for a Smoother Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateur-to-pro-gopro-vlogging-secrets-revealed/"><u>In 2024, From Amateur to Pro Gopro Vlogging Secrets Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-hd-videos-at-a-tap-top-10-android-choices/"><u>In 2024, High-Quality Hd Videos at a Tap Top 10 Android Choices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-uncharted-sci-fi-dimensions-top-10-metaverse-movie-experiences/"><u>In 2024, Uncharted Sci-Fi Dimensions Top 10 Metaverse Movie Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/yahoo/"><u>パソコンの起動音＆警告音録音ガイド | Yahoo知恵袋</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fly High with GoPro Karma  An Insider's Review\""
-date: 2024-08-22T06:37:36.085Z
-updated: 2024-08-23T06:37:36.085Z
+date: 2024-10-10T16:16:19.009Z
+updated: 2024-10-11T18:45:04.160Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,19 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +100,19 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -95,13 +121,24 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,6 +146,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-zoom-in-on-kinemaster/"><u>[New] How to Zoom in on Kinemaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-time-features-into-youtube-video-formats/"><u>[New] Incorporating Time Features Into YouTube Video Formats</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-birdie-ballet-bounce/"><u>[Updated] Birdie Ballet Bounce</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-8-open-source-video-chat-solutions-for-businesses-for-2024/"><u>[Updated] Leading 8 Open Source Video Chat Solutions for Businesses for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>[Updated] Unlock Earnings The Guide to Successful Vimeo Monetization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-video-text-upgrades-for-professionals/"><u>2024 Approved Top 10 Video Text Upgrades for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fashion-forward-video-ideas-for-2024/"><u>Fashion Forward Video Ideas for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-food-videography-how-to-shoot-food-videos/"><u>In 2024, Food Videography How to Shoot Food Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-helmet-to-high-definition-top-5-cams-for-riders-23-edition/"><u>In 2024, Helmet to High Definition Top 5 Cams for Riders, '23 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-the-dangers-of-fabricated-followers-on-feed/"><u>In 2024, Navigating the Dangers of Fabricated Followers on Feed</u></a></li>
+<li><a href="https://facebook.techidaily.com/more-than-scandal-a-balanced-view-on-the-social-media-investigation/"><u>More Than Scandal: A Balanced View on The Social Media Investigation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-free-video-cutter-eliminate-unwanted-videos-with-ease/"><u>Top Free Video Cutter: Eliminate Unwanted Videos with Ease</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Tips: Concealing Taskbar & Launcher - A Comprehensive Guide"
-date: 2024-10-01T03:11:36.103Z
-updated: 2024-10-05T16:15:05.730Z
+date: 2024-10-07T02:26:08.709Z
+updated: 2024-10-11T21:02:55.150Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
  Ultimately, the decision to hide the top bar and dock in Ubuntu is a matter of your personal preference and specific needs. You have the option to either hide them permanently or set them to auto-hide, depending on what you like.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Hide the Top Bar in Ubuntu
 
  To hide the top bar in Ubuntu, all you have to do is install the "Hide Top Bar" extension. By default, Ubuntu has no settings to hide the top bar. After installing this extension, you have the choice to either hide the top bar permanently or set it to auto-hide when any open window touches it.
@@ -55,15 +62,22 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![Search box with a search text for Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Extension Manager will show you a list of all the extensions that are already installed on Ubuntu. Simply, navigate to the "Browse" tab, and in the search box, type "Hide Top Bar" to locate the extension. Then, click "Install."
 
 ![Search option displaying the Hide Top Bar extension and install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you do not see the "Hide Top Bar" extension, change the search filter from "Popularity" to "Recent."
@@ -72,6 +86,13 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![The top bar is hidden after dragging a window near it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The top bar also disappears when you maximize an application window. To bring it back, simply minimize the window that touches it.
 
  You can also modify the Hide Top Bar extension settings. To do this, launch Extension Manager and switch to the "Installed" tab. Look for the "Hide Top Bar" extension. Next to it, you'll see a gear icon. Click on it to open the settings.
@@ -79,22 +100,15 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 ![All installed extension displayed with the settings icon of the Hide Top Bar extension is highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here you will get different settings related to the top bar, such as sensitivity, animation, and others. You can even assign a keyboard shortcut to hide the top bar. Take a look at the given settings and tweak them as required.
 
 ![The Hide Top Bar extension settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With default settings, this extension tucks away the top bar when you drag a window near it. However, you can also permanently hide the top bar with a simple tweak in the settings. To do this, simply navigate to the "Intellihide" tab and disable the first option.
 
@@ -118,13 +132,6 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![The dock or side panel is hidden after dragging an application window towards it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Auto-Hide the Top Bar and Dock in Ubuntu
 
  By default, the "Hide Top Bar" extension is already set to auto-hide the top bar. You don't need to modify any settings, just install and enable the extension. It will auto-hide the top bar whenever a window approaches it. You can modify these default settings from the "Intellihide" section.
@@ -136,22 +143,15 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 ![Ubuntu Desktop context menu with display settings option highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/12-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Inside the "Display" settings, navigate to "Appearance" and enable the "Auto-hide the Dock" option.
 
 ![System Appearance settings with auto hide dock option enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it, now the dock will auto-hide when you drag a window near it.
 
@@ -174,19 +174,17 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-ignite-interest-a-list-of-30-video-themes/"><u>[Updated] Ignite Interest A List of 30 Video Themes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-framing-making-an-effective-youtube-introductory-vids/"><u>[Updated] The Art of Framing Making an Effective YouTube Introductory Vids</u></a></li>
-<li><a href="https://article-tips.techidaily.com/20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms/"><u>20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>2024 Approved Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-def-camera-the-top-audio-mics-guide/"><u>2024 Approved High-Def Camera The Top Audio Mics Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-picsarts-latest-features-a-complete-guide-and-review-of-its-revamp-for-2024/"><u>Exploring PicsArt's Latest Features – A Complete Guide & Review of Its Revamp for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonious-hush-managing-music-on-pc-mac-for-2024/"><u>Harmonious Hush Managing Music on PC, Mac for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>In 2024, Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-x7-ultra-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find X7 Ultra Device</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-roadmap-to-increasing-traffic-top-techniques-for-fb-video-ads/"><u>In 2024, The Roadmap to Increasing Traffic Top Techniques for FB Video Ads</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/skype-vs-snapchat-top-8-in-ai-divergence/"><u>Skype vs Snapchat: Top 8 in AI Divergence</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-war-thunder-game-speed-top-fps-solutions/"><u>Ultimate Guide: Boosting Your War Thunder Game Speed - Top FPS Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-capturing-attention-the-power-of-these-top-10-tags/"><u>[Updated] 2024 Approved Capturing Attention The Power of These Top 10 Tags</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-overcoming-technical-challenges-with-fb-live-videos/"><u>[Updated] In 2024, Overcoming Technical Challenges with FB Live Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eyegigglesengine-jestimageforge/"><u>2024 Approved EyeGigglesEngine JestImageForge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sd-to-4k-superiority-a-look-inside-the-d500/"><u>2024 Approved From SD to 4K Superiority A Look Inside the D500</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enjoying-every-moment-of-pokemon-shining-pearl-discover-how/"><u>Enjoying Every Moment of Pokémon Shining Pearl - Discover How!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-color-grading-with-luts-in-premiere-for-2024/"><u>Harnessing Color Grading with LUTs in Premiere for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-capturing-10-apps-that-lead-the-web-video-recording-race/"><u>In 2024, Cutting Edge Capturing #10 Apps That Lead the Web Video Recording Race</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>In 2024, Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-sony-xperia-10-v-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Sony Xperia 10 V Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimizing-your-fb-live-on-zoom-stream-for-2024/"><u>Optimizing Your FB Live on Zoom Stream for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/team-harmony-and-efficiency-8-recommended-facebook-timers/"><u>Team Harmony and Efficiency 8 Recommended Facebook Timers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor X50i+? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2024-09-29T02:24:22.876Z
-updated: 2024-10-05T21:23:16.664Z
+date: 2024-10-11T03:16:44.221Z
+updated: 2024-10-11T18:33:04.120Z
 tags:
   - deals
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Rename a Specific File
 
  To give a new name to a specific file on your PC, use PowerShell’s Rename-Item [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/). This cmdlet takes your file’s full path, the new name you want to assign, and renames your file.
@@ -47,20 +54,13 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -74,23 +74,10 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -110,6 +97,13 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -132,19 +126,16 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhance-visual-narratives-with-story-remix-within-windows-10-photos/"><u>[New] 2024 Approved Enhance Visual Narratives with Story Remix Within Windows 10 Photos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-cutting-edge-tips-elevating-content-with-tags/"><u>[Updated] 2024 Approved Cutting-Edge Tips Elevating Content with Tags</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-streaming-zooms-6-cam-selection/"><u>[Updated] Excellence in Streaming - Zoom’s #6 Cam Selection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-review-of-vivacuts-latest-edits-and-enhancements/"><u>[Updated] Expert Review of VivaCut's Latest Edits and Enhancements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-words-to-wax-mastering-voice-note-techniques/"><u>[Updated] From Words to Wax Mastering Voice Note Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-illumination-the-essential-list-of-frame-enhancing-apps/"><u>[Updated] Image Illumination The Essential List of Frame-Enhancing Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-optimize-your-streams-with-advanced-obs-techniques-android/"><u>[Updated] In 2024, Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-racing-game-anthology-the-top-five/"><u>[Updated] In 2024, Ultimate Racing Game Anthology The Top Five</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-step-by-step-manual-swiftly-produce-captions-for-facebook-videos/"><u>A Step-by-Step Manual Swiftly Produce Captions for Facebook Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-the-right-sound-for-movie-previews-for-2024/"><u>Finding the Right Sound for Movie Previews for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-print-device-now-supported-in-win-7/"><u>Fixed - Print Device Now Supported in Win 7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space-for-2024/"><u>How to Smoothly Integrate Linktree Into Your TikTok Bio Space for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-freezing-glitches-in-outriders-on-windows-step-by-step-fixes/"><u>Overcoming Freezing Glitches in Outriders on Windows - Step-by-Step Fixes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/revolutionize-your-online-video-content-expert-tips-on-youtube-live-with-wirecast/"><u>Revolutionize Your Online Video Content Expert Tips on Youtube Live with WireCast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-best-apps-blending-visual-storytelling-and-music/"><u>[New] 5 Best Apps Blending Visual Storytelling & Music</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-explore-and-relish-top-sandbox-journeys/"><u>[Updated] Explore and Relish Top Sandbox Journeys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion/"><u>[Updated] From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-leading-tv-streaming-providers/"><u>[Updated] In-Depth Analysis Leading TV Streaming Providers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966183622-elevate-your-gameplay-opt-for-the-newly-released-geforce-rtx-2080-ti-drivers-now/"><u>Elevate Your Gameplay - Opt for the Newly Released GeForce RTX 2080 Ti Drivers Now!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-7-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-applications-for-video-from-pics/"><u>In 2024, Expert Applications for Video From Pics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-video-faceoff-expert-review-of-max-360-and-hero-11-capabilities/"><u>In 2024, GoPro Video Faceoff Expert Review of Max 360 & Hero 11 Capabilities</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-trailblazer-in-multimedia-craftsmanship/"><u>In 2024, Trailblazer in Multimedia Craftsmanship</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-screen-recording-on-your-hp-laptop-effortlessly-for-2024/"><u>Navigating Screen Recording on Your HP Laptop Effortlessly for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nubia-red-magic-9-proplus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nubia Red Magic 9 Pro+ Phone Now with These Tips</u></a></li>
 </ul></div>
 

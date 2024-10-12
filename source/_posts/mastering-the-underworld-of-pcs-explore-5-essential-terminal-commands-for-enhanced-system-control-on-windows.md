@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-10-04T21:08:25.269Z
-updated: 2024-10-06T06:39:50.888Z
+date: 2024-10-07T17:07:01.423Z
+updated: 2024-10-12T03:27:28.588Z
 tags:
   - desktop
 categories:
@@ -44,6 +44,13 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -51,6 +58,13 @@ color 2
 color
 
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
 
@@ -80,10 +94,10 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -103,10 +117,16 @@ Your browser does not support the video tag.
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
@@ -122,13 +142,6 @@ cmatrix
 Your browser does not support the video tag. 
 
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
@@ -159,13 +172,6 @@ genact -m _module-name_
 genact -m cryptomining
 
 Your browser does not support the video tag. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
@@ -204,17 +210,24 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-roblox-gaming-save-techniques-on-macs/"><u>[New] Efficient Roblox Gaming Save Techniques on Macs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-fade-strategies-for-dynamic-videos/"><u>[New] Expert Fade Strategies for Dynamic Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>[Updated] Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-simple-steps-to-master-no-cost-time-tracking/"><u>[Updated] Simple Steps to Master No-Cost Time Tracking</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-iii-crashes-cured-enjoy-uninterrupted-adventures-in-sanctuary/"><u>Diablo III Crashes Cured: Enjoy Uninterrupted Adventures in Sanctuary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-featured-icloud-drive-in-sierra-comprehensive-exploration-for-2024/"><u>Full-Featured iCloud Drive in Sierra – Comprehensive Exploration for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-ahead-with-top-tier-premiere-pro-samples-free-for-2024/"><u>Get Ahead with Top-Tier Premiere Pro Samples (Free) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-legacy-os-to-innovative-windows-11/"><u>In 2024, From Legacy OS to Innovative Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infinite-inspirations-top-places-to-sync-audio-with-beginnings/"><u>In 2024, Infinite Inspirations Top Places to Sync Audio with Beginnings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-critical-installation-failure-decoding-error-1603/"><u>Step-by-Step Fixes for Critical Installation Failure - Decoding Error 1603</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-list-for-capturing-instagram-vids-pcmac/"><u>The Ultimate List for Capturing Instagram Vids (PC/Mac)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-improving-picture-quality-with-these-5-methods/"><u>Ultimate Guide: Improving Picture Quality with These 5 Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-crafting-gifs-like-a-pro-industry-leaders-tools/"><u>[New] 2024 Approved Crafting GIFs Like a Pro Industry Leaders' Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guidance-to-fix-iphone-autofocus-problems-immediately/"><u>[New] Guidance to Fix iPhone Autofocus Problems Immediately</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-varied-and-eye-catching-vlog-discussion-points/"><u>[New] Varied and Eye-Catching Vlog Discussion Points</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-techniques-to-maximize-windows-11/"><u>[Updated] Exclusive Techniques to Maximize Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-fantasy-to-reality-vrs-path/"><u>[Updated] From Fantasy to Reality VR’s Path</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-standard-to-spectacular-the-journey-with-vce-22/"><u>[Updated] From Standard to Spectacular The Journey with VCE 2.2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-haste-in-video-supercharge-facebook-videos-with-proxies-and-tools/"><u>[Updated] Haste in Video Supercharge Facebook Videos with Proxies and Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-screenplays-in-8-movie-categories/"><u>2024 Approved Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y56-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y56 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862685731-experience-next-level-gaming-1199-for-a-156-inch-msi-katana-with-cutting-edge-rtx-4070-graphics/"><u>Experience Next-Level Gaming: $1,199 for a 15.6-Inch MSI Katana with Cutting-Edge RTX 4070 Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-impressions-engaging-podcast-intros-for-2024/"><u>First Impressions Engaging Podcast Intros for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-simulation-to-reality-jaunt-vrs-journey/"><u>In 2024, From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hub-swapping-your-soundtrack-selection/"><u>In 2024, Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-premier-mp4-converter-for-smooth-fb-integration/"><u>In 2024, Premier MP4 Converter for Smooth FB Integration</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-upgrading-your-edit-why-final-cut-pro-outshines-final-cut-express/"><u>New Upgrading Your Edit Why Final Cut Pro Outshines Final Cut Express</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-education-savings-a-guide-to-the-microsoft-student-price-cut/"><u>Securing Your Education Savings: A Guide to the Microsoft Student Price Cut</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sky-high-cloud-stashing-solutions-on-android/"><u>Sky-High Cloud Stashing Solutions on Android</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reversing and Recapturing Actions in Windows"
-date: 2024-10-04T18:35:34.793Z
-updated: 2024-10-12T01:15:06.438Z
+date: 2024-10-14T21:02:51.973Z
+updated: 2024-10-17T18:58:42.978Z
 tags:
   - deals
 categories:
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
@@ -45,26 +45,13 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
@@ -73,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ![Click Edit > Undo to perform an undo in some Windows programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/windows_notepad_undo.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Likewise, some apps place a "Redo" option just below "Undo" in the "Edit" menu ([as you'll often see on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/)). But the classic File / Edit menu bar is getting harder to find in Windows. Instead, some apps such as Microsoft Word (and other Office apps) include special Undo and Redo toolbar buttons.
 
  To perform an Undo in Office apps, click the curved, left-pointing arrow in the Quick Access Toolbar at the very top of the window.
@@ -80,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
@@ -107,16 +101,22 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humorhatchery-studio/"><u>[New] HumorHatchery Studio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>2024 Approved Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-iii-no-more-crashes-uncover-proven-fixes-to-improve-your-gaming-experience/"><u>Diablo III No More Crashes – Uncover Proven Fixes to Improve Your Gaming Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/film-lovers-answers-repository-for-2024/"><u>Film Lovers' Answers Repository for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hunters-top-5-video-recording-recommendations/"><u>In 2024, Hunters' Top 5 Video Recording Recommendations</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-nord-ce-3-lite-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your OnePlus Nord CE 3 Lite 5G Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-remedies-to-eliminate-bluetooth-playback-delays-and-enhance-listening-joy/"><u>Quick Remedies to Eliminate Bluetooth Playback Delays and Enhance Listening Joy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-overcoming-fortnites-persistent-loading-screens/"><u>Solution Guide: Overcoming Fortnite's Persistent Loading Screens</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-issues-why-cant-you-access-flipbuilder-downloads-now/"><u>Troubleshooting Issues: Why Can't You Access FlipBuilder Downloads Now?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-website-with-expert-cookiebot-integration/"><u>Unlock the Potential of Your Website with Expert Cookiebot Integration</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-audio-archiving-pc-noises-and-dialogue-storage/"><u>[New] Audio Archiving PC Noises & Dialogue Storage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quick-guide-to-capturing-moments-during-google-meets/"><u>[Updated] 2024 Approved Quick Guide to Capturing Moments During Google Meets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-saving-and-archiving-periscope-footage/"><u>[Updated] Expert Advice for Saving and Archiving Periscope Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expressive-element-enhancers/"><u>[Updated] Expressive Element Enhancers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-review-of-picsart-app-a-step-by-step-guide/"><u>[Updated] Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-initiating-seamless-zoom-gatherings/"><u>[Updated] Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-ways-to-liven-up-static-video-texts/"><u>2024 Approved FREE Ways to Liven Up Static Video Texts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gamings-new-leaders-1-ranked-4k-laptops-for-2024/"><u>Gaming's New Leaders #1 Ranked 4K Laptops for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdr-horizon-unveiled-an-elite-list-of-online-sky-sites-for-2024/"><u>HDR Horizon Unveiled An Elite List of Online Sky Sites for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-z-flip-5-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy Z Flip 5 Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-film-capture-in-your-pocket-top-ois-enabled-devices/"><u>In 2024, Expert Film Capture in Your Pocket Top OIS-Enabled Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-perfecting-projects-through-music-addition-in-premiere-pro/"><u>In 2024, Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamless-and-secure-guide-to-updating-your-pc-with-windows-11/"><u>Seamless and Secure Guide to Updating Your PC with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Asus ROG Phone 7 Ultimate.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unparalleled-top-5-lightweight-cinematography-devices/"><u>Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
 </ul></div>
 

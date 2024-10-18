@@ -1,7 +1,7 @@
 ---
 title: Reviving Classic File Explorer on Your New Windows 11 System
-date: 2024-10-06T03:50:58.647Z
-updated: 2024-10-12T04:58:43.413Z
+date: 2024-10-11T01:47:33.986Z
+updated: 2024-10-18T00:57:33.752Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With Windows 11's minimal File Explorer design, Microsoft sacrificed a lot of useful features found in the old Windows 10 ribbon-style File Explorer. There are some ways you can still use that old File Explorer inside Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Access the Old File Explorer from Control Panel
 
  The quickest way to access [Windows 10 File Explorer](https://youtube-web.techidaily.com/ed-2024-approved-streamers-financial-health-check-in-youtubers/) is through the Control Panel. Go to Search and enter **Control Panel**, then go to the top result.
@@ -26,22 +33,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Opening Control Panel from Search on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/opening-control-panel-from-search-on-windows-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press the up arrow button repeatedly. Alternatively, hit Alt+Up Arrow on your keyboard.
 
 ![An instance of the Windows 11 Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-control-panel.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll arrive in the File Explorer. Interestingly, it's Windows 10 File Explorer.
 
@@ -59,9 +59,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Downloading ExplorerPatcher setup file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/downloading-explorerpatcher-setup-file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Installation is straightforward. Open the setup file and it will be installed automatically. Since there's no GUI installer involved, the only way to know it was installed successfully is by noticing the change in the elements of your Taskbar.
 
 ![Windows 10 Taskbar in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-taskbar-in-windows-11-using-explorerpatcher.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now let's change the File Explorer. To access ExplorerPatcher, go to Search and enter **Properties**, then select the top result.
 
@@ -71,22 +85,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Changing to Windows 10 Ribbon using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-explorerpatcher.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open File Explorer, and you'll discover it has the Windows 10 Ribbon instead of the Windows 11 command bar.
 
 ![Windows 10 File Explorer in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11-using-explorerpatcher.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Likewise, you can check other visual elements and tweak them to look like Windows 10 or even Windows 7\. The application is easy to keep updated, too. If there's a new version available on GitHub, you'll be notified, and then you can choose to install the newest version from within the app. You can also manually update the app if you prefer.
@@ -99,13 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When you see the uninstalling prompt, press "Yes." If you'd like to learn more about what you can do with ExplorerPatcher, check out [the official wiki](https://github.com/valinet/ExplorerPatcher/wiki/All-features).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Using StartAllBack
 
  Third-party tools that modify the user interface like this often break with updates to Windows. These are cosmetic changes, and they won't damage your PC, but it might mean you have to uninstall the modification until it is patched to handle the latest Windows release. You shouldn't use it on a PC you rely on for daily work.
@@ -114,6 +114,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Downloading StartAllBack from the official website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/downloading-startallback.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  During installation, you'll be asked to install it for either the current user or all users. You also have the option to turn automatic updates on and off. For this guide, I'll only install it for the current user.
 
 ![Installing StartAllBack on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-startallback-on-windows-11.png) 
@@ -121,13 +134,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After that, it will be automatically installed, and you'll immediately notice your Taskbar change. The StartAllBack configuration window will also pop up. Go to "Explorer," then, if it's not chosen by default, choose "Win10 Ribbon UI" under Choose Explorer Style.
 
 ![Changing to Windows 10 Ribbon using StartAllBack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-startallback.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open a new window to see the new look.
 
@@ -158,22 +164,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fun-filled-photography-how-to-use-lens-on-snapchat-for-playfulness/"><u>[New] Fun-Filled Photography How To Use Lens on Snapchat for Playfulness</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-start-participating-in-google-webinars-for-2024/"><u>[New] How To Start Participating in Google Webinars for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-instagram-memories-with-these-apps/"><u>[New] Unlocking Instagram Memories with These Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-audio-enhancement-toolkit/"><u>[Updated] Expert Audio Enhancement Toolkit</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[Updated] The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-video-player-face-off-vlc-against-mpc/"><u>2024 Approved Free Video Player Face-Off VLC Against MPC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-graphically-glorious-reviews/"><u>2024 Approved GAMER'S GRAPHICALLY GLORIOUS REVIEWS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-initiate-your-journey-a-straightforward-nft-blueprint/"><u>2024 Approved Initiate Your Journey A Straightforward NFT Blueprint</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-best-10-online-background-variant-software/"><u>2024 Approved Unveiling the Best 10 Online Background Variant Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevate-management-assign-a-page-administrator/"><u>Elevate Management: Assign a Page Administrator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-creator-to-consumer-securing-a-spot-on-apples-listings-for-2024/"><u>From Creator to Consumer Securing a Spot on Apple’s Listings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ghostly-horizons-video-tech-update-for-2024/"><u>Ghostly Horizons Video Tech Update for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-haptic-feedback-devices-providers/"><u>In 2024, Foremost Haptic Feedback Devices Providers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-itunes-to-listen-to-podcasts-for-2024/"><u>Navigating iTunes to Listen to Podcasts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-asus-mg28uqs-crystal-clear-display/"><u>The Ultimate Guide to ASUS MG28UQ's Crystal Clear Display</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-converting-webm-files-to-mp3/"><u>The Ultimate Guide to Converting WebM Files to MP3</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-accessories-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated MagSafe Accessories : Comprehensive Reviews and Comparisons by Tech Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-visionary-typography-the-ultimate-list-of-9-websites-offering-intricate-3d-letters/"><u>[Updated] Explore Visionary Typography The Ultimate List of 9 Websites Offering Intricate 3D Letters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flawless-fast-windows-picture-sight/"><u>[Updated] Flawless Fast Windows Picture Sight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-action-into-portraits-motion-blur-with-picsart/"><u>[Updated] Infusing Action Into Portraits Motion Blur with Picsart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-circumference-video-rigging/"><u>2024 Approved Full-Circumference Video Rigging</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ffmpeg-and-its-proficiency-in-original-audio-extraction-for-2024/"><u>FFmpeg and Its Proficiency in Original Audio Extraction for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melodic-matrices-crafting-top-tracks-to-initiate-your-podcasts/"><u>In 2024, Melodic Matrices Crafting Top Tracks to Initiate Your Podcasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-twitter-archives-a-comprehensive-guide/"><u>In 2024, Navigating Twitter Archives A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-7-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 7 and Android Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-win-11-games-top-strategies-for-peak-performance/"><u>Mastering Win 11 Games: Top Strategies for Peak Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-blueprint-for-epic-and-steam-account-linkage/"><u>The Essential Blueprint for Epic & Steam Account Linkage</u></a></li>
 </ul></div>
 

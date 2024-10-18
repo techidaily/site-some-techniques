@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2024-10-08T16:24:25.623Z
-updated: 2024-10-11T17:59:39.780Z
+date: 2024-10-16T22:14:51.714Z
+updated: 2024-10-18T00:00:25.621Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 * [How to Find All Your Photos Manually](https://facebook-videos.techidaily.com/from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/)
 * [A Better Way: Let Windows Search Find All Your Photos](https://article-helps.techidaily.com/2024-approved-windowsmacos-execute-and-enjoy-srt-files/)
 * [Use a Third-Party App](https://screen-capture.techidaily.com/updated-in-2024-obs-alternatives-reviewed-by-experienced-broadcinas/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Better Way: Let Windows Search Find All Your Photos
@@ -54,26 +55,32 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
 ![/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That inserts the following operator into the search box. If you prefer, you can also type it there yourself to get the same results.
@@ -82,18 +89,18 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the results return everything from pictures used by the system to personal pictures contained within the folder and all its subfolders. The search includes images saved in JPG, PNG, GIF, and BMP formats, which are the most common formats used. If you've got pictures stored in another format, like RAW, you'll have to find them another way.
 
  The search I ran on my C: drive came back with 27,494 pictures.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you've located the picture(s) you were looking for, you can right-click it, then select "Open File Location" to open the folder where it's contained.
 
@@ -104,13 +111,6 @@ kind:=picture
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
@@ -150,20 +150,24 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-top-5-methods-for-creating-an-impressive-tiktok-introduction-with-macos/"><u>[New] 2024 Approved Top 5 Methods for Creating an Impressive TikTok Introduction with MacOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hairstyles-for-visual-gurus/"><u>[New] Hairstyles for Visual Gurus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ignite-your-marketing-flame-sparkling-strategies-for-smm-success/"><u>[New] Ignite Your Marketing Flame Sparkling Strategies for SMM Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unleash-potential-ae-templates-for-aspiring-artists-for-2024/"><u>[Updated] Unleash Potential AE Templates for Aspiring Artists for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-leading-tv-streaming-providers/"><u>2024 Approved In-Depth Analysis Leading TV Streaming Providers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/arctis-pro-steelseries-headset-microphone-fix-troubleshooting-tips-and-solutions/"><u>Arctis Pro SteelSeries Headset Microphone Fix: Troubleshooting Tips & Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>In 2024, Expertly Elevating Images Premier Frame Apps in 2E '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-of-fast-and-easy-nft-innovation/"><u>In 2024, Foundations of Fast & Easy NFT Innovation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-story-arcs-in-cinemas-pantheon/"><u>In 2024, Iconic Story Arcs in Cinema’s Pantheon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-color-correction-with-gopro-studio/"><u>In 2024, Innovative Approaches to Color Correction with GoPro Studio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/integrating-media-files-for-direct-transfer-to-iphone-for-2024/"><u>Integrating Media Files for Direct Transfer to iPhone for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/proven-techniques-to-get-your-iphone-call-alerts-working-again-discover-11-methods-now/"><u>Proven Techniques to Get Your iPhone Call Alerts Working Again – Discover 11 Methods Now</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-to-sub-magic-three-effective-ways/"><u>SRT to SUB Magic Three Effective Ways</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y56-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y56 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-on-saving-a-video-in-mp4-format-from-adobe-premiere-pro/"><u>Ultimate Tutorial on Saving a Video in MP4 Format From Adobe Premiere Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-4-techniques-for-effective-hp-laptop-screen-capture/"><u>[New] 2024 Approved Top 4 Techniques for Effective HP Laptop Screen Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>[New] Illustrating Brilliance The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srgb-efficiency-against-basic-rgb/"><u>[New] Srgb Efficiency Against Basic Rgb</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-digital-stargazers-guide-to-best-sky-imaging-websites/"><u>[Updated] Digital Stargazers' Guide to Best Sky Imaging Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-rating-does-aurora-deliver-quality/"><u>[Updated] HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-ultimate-storage-choices/"><u>[Updated] In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-techniques-for-photo-based-tileworks/"><u>2024 Approved Exploring Techniques for Photo-Based Tileworks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-express-gratitude-free-endings-and-premium-exclusives/"><u>2024 Approved Express Gratitude Free Endings & Premium Exclusives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-track-uncovering-erased-reddit-conversations/"><u>2024 Approved Fast Track Uncovering Erased Reddit Conversations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-vector-graphics-top-10-sources-for-2024/"><u>High-Quality Vector Graphics Top 10 Sources for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-v2-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic V2 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-14-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 14 iCloud Activation Lock</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-row-leisure-10-alternatives-to-sports/"><u>In 2024, First Row Leisure 10 Alternatives to Sports</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-import-melodies-into-premiere-pro-projects/"><u>In 2024, Import Melodies Into Premiere Pro Projects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pioneering-podcast-titling-with-leading-ai-driven-apps/"><u>In 2024, Pioneering Podcast Titling with Leading AI-Driven Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/journey-through-high-dynamic-range-pc-viewing-and-creative-pursuits/"><u>Journey Through High Dynamic Range PC Viewing & Creative Pursuits</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-file-explorer-scroll-bar-jumps-to-top-when-scrolling-solved/"><u>Windows 11 File Explorer - Scroll Bar Jumps to Top when Scrolling [Solved]</u></a></li>
 </ul></div>
 

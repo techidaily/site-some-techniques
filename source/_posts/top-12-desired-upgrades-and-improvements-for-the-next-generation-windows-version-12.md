@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-10-05T23:40:24.083Z
-updated: 2024-10-11T16:50:39.477Z
+date: 2024-10-12T21:13:40.672Z
+updated: 2024-10-17T22:12:33.713Z
 tags:
   - deals
 categories:
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Expand Phone Link's Usefulness
@@ -56,26 +50,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
  We’re not likely to ever see that ease of use and depth of integration. However, while we’re wishing, we’d like to see all the features Phone Link supports (like screen mirroring) available on all Android devices, not just a select few Samsung phones.
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
 
@@ -105,6 +79,13 @@ Andrew Heinzman / How-To Geek
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
@@ -117,13 +98,6 @@ Andrew Heinzman / How-To Geek
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -132,15 +106,22 @@ Andrew Heinzman / How-To Geek
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Better Control Over the Start Menu
@@ -157,6 +138,13 @@ Andrew Heinzman / How-To Geek
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Better Device Backup Options in Windows Backup
 
  Windows has a few different backup features these days, the most prominent of which is Windows Backup. There is also [File History](https://win-able.techidaily.com/cyberpunk-2077-on-pc-solved-crashing-problems-and-how-to-prevent-them-in-the-future/) and the legacy Backup and Restore Tool, which you may remember from older versions of Windows.
@@ -165,6 +153,13 @@ Andrew Heinzman / How-To Geek
 
 1. It needs to have a local backup option, with support for local “Restore from Backup” functionality. Currently, you're limited by how much OneDrive storage you have.
 2. Users need more control over which files and folders are included in the backup.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Improve Windows Start Search
 
@@ -175,13 +170,6 @@ Andrew Heinzman / How-To Geek
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Helpful Local AI Tools
 
@@ -208,18 +196,16 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-win10-video-capture-pro-professional-edition/"><u>[New] 2024 Approved Win10 Video Capture Pro - Professional Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-online-presence-making-videos-on-mobile-for-2024/"><u>[New] Elevate Your Online Presence Making Videos on Mobile for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-facial-forgetting-strategies-for-image-anonymity/"><u>[New] Facial Forgetting Strategies for Image Anonymity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>[New] Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-techniques-for-video-transformation-youtube-to-mpeg/"><u>[New] Leading Techniques for Video Transformation - YouTube-to-MPEG</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-quintessential-new-wave-of-facebook-updates/"><u>[Updated] 2024 Approved The Quintessential New Wave of Facebook Updates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>[Updated] Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-great-vr-debate-optimal-setup-for-gamers/"><u>2024 Approved The Great VR Debate Optimal Setup for Gamers?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellent-backdrops-setting-the-stage-for-streaming-for-2024/"><u>Excellent Backdrops Setting the Stage for Streaming for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-11-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 11 Pro or iPad?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-11-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme 11 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-flight-stability-best-gimbals-for-2024/"><u>Innovative Flight Stability Best Gimbals for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-to-correctly-update-and-fix-rtl8723be-chipset-drivers/"><u>Step-by-Step Tutorial to Correctly Update and Fix RTL8723BE Chipset Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-facebook-collage-instantly/"><u>[Updated] How to Make Facebook Collage Instantly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-sound-saturated-instagram-visuals/"><u>[Updated] In 2024, Crafting Sound-Saturated Instagram Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-tips-for-audio-addition-to-powerpoint-decks/"><u>[Updated] Innovative Tips for Audio Addition to PowerPoint Decks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-enjoy-unlimited-movies-and-tv-shows-for-free-with-5kplayer-your-ultimate-streaming-platform/"><u>1. Enjoy Unlimited Movies & TV Shows for FREE with 5KPlayer - Your Ultimate Streaming Platform!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-f25-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo F25 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixing-blurry-youtube-videos-a-step-by-step-guide-for-2024/"><u>Fixing Blurry YouTube Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-digital-tools-for-photographic-based-media-conversion-for-2024/"><u>Ideal Digital Tools for Photographic-Based Media Conversion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gadgets-that-shine-in-travel-videography/"><u>In 2024, Gadgets That Shine in Travel Videography</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/skyline-design-studio-evaluation-insightful-review-for-the-year-for-2024/"><u>Skyline Design Studio Evaluation Insightful Review for the Year for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-riding-the-gotrax-gxl-v2-for-commuting-in-urban-spaces/"><u>The Ultimate Guide to Riding the Gotrax GXL V2 for Commuting in Urban Spaces</u></a></li>
 </ul></div>
 

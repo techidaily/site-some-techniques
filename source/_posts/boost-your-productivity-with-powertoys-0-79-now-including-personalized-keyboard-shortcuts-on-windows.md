@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows"
-date: 2024-10-09T02:46:45.507Z
-updated: 2024-10-11T23:22:42.180Z
+date: 2024-10-11T19:40:57.665Z
+updated: 2024-10-17T20:31:27.333Z
 tags:
   - desktop
 categories:
@@ -44,28 +44,27 @@ PowerToys is a utility from Microsoft that adds some great productivity features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-secretly-share-moments-with-instagram-live/"><u>[New] How to Secretly Share Moments with Instagram Live</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-to-grips-with-graphic-animation-basics/"><u>2024 Approved Getting to Grips with Graphic Animation Basics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>2024 Approved Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>2024 Approved Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-paper-to-cloud-preserving-old-family-photographs-for-2024/"><u>From Paper to Cloud Preserving Old Family Photographs for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-g42-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia G42 5G without App | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Pattern Lock Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sturdy-yet-inexpensive-the-verdict-on-the-omotein-t1-tablet-holder/"><u>Sturdy Yet Inexpensive: The Verdict on the Omotein T1 Tablet Holder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-easy-guide-to-see-youtube-liked-comments/"><u>[New] Easy Guide to See YouTube Liked Comments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focal-point-expose/"><u>[New] Focal Point Exposé</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exposing-concealed-viewers-feedback-on-videos/"><u>[Updated] Exposing Concealed Viewers' Feedback on Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illuminate-photos-10-premium-luts-revealed/"><u>[Updated] Illuminate Photos 10 Premium LUTs Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-cheapest-deals-on-top-tier-gopros/"><u>2024 Approved Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-se-2022-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone SE (2022) - 4 Easy Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here-for-2024/"><u>How to Transcribe Speech to Text in Microsoft Word Learn It Here for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hideous-heroes-black-vs-gleaming-guardians-silver/"><u>In 2024, Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secure-and-upgrade-your-video-conferences-top-10-recorder-choices/"><u>In 2024, Secure and Upgrade Your Video Conferences - Top 10 Recorder Choices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-video-descriptions-the-key-to-threefold-success/"><u>Instagram Video Descriptions - The Key to Threefold Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rgbs-place-in-the-world-of-srgb-based-color-systems-for-2024/"><u>RGB's Place in the World of Srgb-Based Color Systems for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-photomontage-artisans-blueprint-for-2024/"><u>The PhotoMontage Artisan's Blueprint for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-20-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark 20 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-fix-blue-screen-of-death-caused-by-igdkmd64-in-windows-11/"><u>Troubleshoot and Fix Blue Screen of Death Caused by IGDKMD64 in Windows 11</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

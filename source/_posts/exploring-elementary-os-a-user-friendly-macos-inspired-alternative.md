@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2024-10-10T23:49:02.369Z
-updated: 2024-10-11T23:47:37.001Z
+date: 2024-10-16T17:56:39.750Z
+updated: 2024-10-18T01:03:04.375Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is elementary OS?
 
 [elementary OS](https://elementary.io/) is an operating system you can use on your PC in place of something like Windows or macOS. It's one of many, many iterations of the Linux desktop experience you can find out there. What sets elementary OS apart is perhaps its clean, minimalist interface that has an unmistakable macOS flare. While the majority of Linux desktops emulate the Windows layout or try to reinvent the desktop in new and unique ways, elementary OS is going to be most comfortable for you if you're used to a Mac. You'll find a dock full of launchable icons at the bottom of the screen, for example, and quick access to some settings on the righthand side of a top panel, much like [a Mac's Control Center](https://extra-resources.techidaily.com/critical-review-of-superior-stream-platforms/).
@@ -27,20 +34,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing elementary OS Is as Easy as It Gets
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![The boot and install options in an elementary OS live boot menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_04_58.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Getting started with an alternative operating system like Linux can be intimidating, depending on who you are and what specific distribution you're using. If your distribution is elementary OS, though, you can look forward to a relaxed learning curve. It's clean and polished in its appearance, and things are generally where you expect to find them—so long as you're familiar with the macOS experience. At your first startup, a wizard will walk you through making the desktop your own, like connecting your email account and choosing a color scheme.
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -110,18 +110,19 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>[New] First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-boosting-your-game-videos-with-tags/"><u>[Updated] In 2024, Best Practices Boosting Your Game Videos with Tags</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[Updated] In 2024, How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-cutting-edge-encoders-for-live-media/"><u>2024 Approved Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-guide-to-smart-video-money-making-on-platforms/"><u>2024 Approved The Guide to Smart Video Money-Making on Platforms</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/breaking-free-from-adobe-top-4-premiere-rush-alternatives/"><u>Breaking Free From Adobe Top 4 Premiere Rush Alternatives</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cultivating-a-loyal-fanbase-through-open-channels/"><u>Cultivating a Loyal Fanbase Through Open Channels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-expertise-crafting-convenient-directories/"><u>Effortless Expertise: Crafting Convenient Directories</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-a58-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on A58 4G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/htc-vive-review-the-most-immersive-vr-headset-for-2024/"><u>HTC Vive Review – The Most Immersive VR Headset for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/iconic-stock-photographs-meme-lives-and-histories-for-2024/"><u>Iconic Stock Photographs Meme Lives and Histories for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers-for-2024/"><u>Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grasp-the-typical-earning-curve-for-podcasters/"><u>[New] Grasp the Typical Earning Curve for Podcasters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-harness-the-power-of-video-for-enhanced-facebook-traffic-for-2024/"><u>[New] Harness the Power of Video for Enhanced Facebook Traffic for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flaskful-formula-freaks/"><u>[Updated] FLASKFUL FORMULA FREAKS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-official-passport-photo-online-download-and-print-your-portraits-for-free/"><u>2024 Approved Get Official Passport Photo Online – Download & Print Your Portraits for FREE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-civi-3-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Civi 3.</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effective-techniques-for-combining-multiple-tracks-with-audacity-into-one-extended-audio-piece/"><u>Effective Techniques for Combining Multiple Tracks with Audacity Into One Extended Audio Piece</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmora-compared-the-ultimate-list-of-free-high-quality-templates-for-2024/"><u>Filmora Compared The Ultimate List of Free, High-Quality Templates for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-poco-m6-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco M6 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frugal-cloud-loft-economical-space-for-huge-file-stashes/"><u>In 2024, Frugal Cloud Loft Economical Space for Huge File Stashes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-web-free-online-video-editors-ranked/"><u>New Best of the Web Free Online Video Editors Ranked</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-for-windows-11-with-the-latest-intel-iris-xe-g7-graphics-driver/"><u>Optimize Your PC for Windows 11 with the Latest Intel Iris Xe G7 Graphics Driver</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/er-microphone-picks-for-blogging-pros-for-2024/"><u>Premier Microphone Picks for Blogging Pros for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 90 Lite? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2024-10-10T00:36:28.692Z
-updated: 2024-10-12T02:44:46.213Z
+date: 2024-10-12T17:25:52.653Z
+updated: 2024-10-18T02:17:03.403Z
 tags:
   - desktop
 categories:
@@ -35,29 +35,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For this experiment, I'll be using [Linux Mint](https://smart-video-creator.techidaily.com/updated-in-2024-cutting-edge-video-editing-top-3-4k8k-software-solutions/), one of the most GUI-friendly Linux distros. It's also considered a [great distro for beginners](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/), as most distros geared towards newcomers have great GUI experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Installing New Software
 
 ![The homepage of the Software Manager on Linux Mint displaying different kinds of software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/software-manager-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Dealing with software is likely the biggest use of the command line. By issuing simple commands, you can install, update, and delete any software from your system. But it's not the only way to deal with software. Popular Linux distros like Ubuntu, Linux Mint, Fedora, and Pop!\_OS come with a dedicated software center (similar to the [Microsoft Store](https://on-screen-recording.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps/)). On Linux Mint, it's known as Software Manager.
 
  Suppose I want to install VLC media player. I will search for it using the search bar and simply press the "Install" button to install it. Sometimes, you might be prompted to install some dependencies. But that's about it. Your software should be installed in no time. If I want to uninstall it, I can do so from the same place in Software Manager or the start menu.
 
 ![An instance of Installing VLC on Linux Mint using Software Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installing-vlc-on-linux-mint-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But what if you need to update some software? There's an update manager too. You can open it from time to time and see what packages have updates available. Then you can press the "Install Updates" button to update selected software or all of them.
 
@@ -75,6 +68,19 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![The System settings in Linux Mint displaying different types of options and settings you can change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/system-settings-in-linux-mint-2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Getting deep into the heart of Linux and playing with the settings is something pro-Linux users prefer the command line for. But it's amazing how much you can do with a GUI settings menu on Linux nowadays. Linux Mint has a comprehensive settings menu containing most of the things you'll ever need. You can tweak network settings, display options, hardware, firewall, and even other administration settings.
 
  However, with the command line, you get more power and control. Many system settings are stored in configuration files located throughout the Linux file system. Accessing and editing these files directly in the terminal grants you granular control and configuration options beyond what's available in the GUI settings.
@@ -83,16 +89,16 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  Then again, casual users won't be doing any of these tasks. And power users who do these don't do them every day. So even without the terminal, you can change basic and some intermediate system settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Managing Your Files and Folders
 
 ![An instance of the Linux File Manager Nemo on Linux Mint Cinnamon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-file-manager-nemo-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Commands like mkdir, cd, [rm](https://instagram-video-recordings.techidaily.com/new-avoiding-instagrams-false-facade-for-a-solid-stature/), [ls](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/), cp, mv, and [chmod](https://extra-guidance.techidaily.com/new-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/) are mostly used for managing your files and directories. However, just like Windows, Linux distros also have GUI file managers that can perform almost any task that these commands can.
 
@@ -101,10 +107,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 ![An example of the context menu opened of a file on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/context-menu-of-a-file-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But then, why would you use the terminal for simple things like copying or deleting files to begin with? As it turns out, you can do more than that using the terminal. Think of batch activities. You can rename multiple files and folders according to certain patterns or criteria. You can also move or copy files based on specific criteria such as file extension, modification date, or size.
@@ -115,6 +121,19 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An instance of a configuration file opened in the nano text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/nano-text-editor-on-linux-mint.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Have you ever heard a joke about [exiting from Vim](https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/) on Linux? Vim is a popular terminal-based text editor that comes preinstalled on all Linux distros. It's notoriously known for its steep learning curve. Now, the idea of learning "how to use a text editor" may sound surprising to you. But once you learn it, you can save dozens of hours thanks to its useful shortcuts and powerful capabilities.
 
  But not everyone needs a powerful text editor. Sometimes you need to write something down quickly. So a basic editor will suffice. For those, luckily, there's also [nano](https://sound-issues.techidaily.com/fixing-the-problem-of-a-non-functional-corsair-hs70-microphone-a-step-by-step-guide/) available on the command line. But you don't need the command line for editing text.
@@ -124,16 +143,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 ![An instance of a text document opened in the xed text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xed-text-editor-on-linux-mint.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Programming and Development
@@ -150,13 +163,6 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  Another noteworthy part of a programmer's work is the version control system. While there are [GUI clients for tools like Git](https://desktop-recording.techidaily.com/new-2024-approved-vrecorder-how-to-download-and-install/), learning basic Git commands can come in handy in a professional scenario. Using Git from the command line also makes your development process smoother because you don't need to go back and forth between multiple tools.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Customizing Your Linux Desktop
 
 ![An instance of the Qt5 customizer tool opened in Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-mint-customization.png) 
@@ -168,10 +174,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  There are a bunch of GUI tools available out there, including GNOME Tweaks, Dconf Editor, and KDE System Settings. You can play between different options to get your preferred look and feel. Sure, the command line unlocks a new world of customization opportunities. But if it's customization work I'm doing, then GUI tools seem to do pretty well considering there's no learning curve.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other Advanced Tasks
@@ -201,24 +207,22 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-converting-instagram-media-to-mp3-format/"><u>[New] 2024 Approved Converting Instagram Media To MP3 Format</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-loop-video-liftoff-engaging-audiences-on-ig/"><u>[New] 2024 Approved Loop Video Liftoff Engaging Audiences on IG</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ecoding-youtubes-earning-rules-update-for-2024/"><u>[New] Decoding YouTube's Earning Rules Update for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-streamers-guide-to-360-degree-live-footage/"><u>[New] Excellent Streamers' Guide to 360-Degree Live Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-ringtone-deals-from-gots-best-online-sources/"><u>[New] Exclusive Ringtone Deals From GoT's Best Online Sources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>[New] High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-access-free-gaming-scores-legally-and-easily/"><u>[New] How to Access Free Gaming Scores Legally and Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-the-art-of-youtube-video-submissions-for-maximum-reach/"><u>[Updated] 2024 Approved Mastering the Art of YouTube Video Submissions for Maximum Reach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-creating-metaverse-laughter/"><u>[Updated] From Novice to Pro Creating Metaverse Laughter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-pot-review-a-deep-dive/"><u>2024 Approved GAMER'S POT REVIEW A Deep Dive</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighted-10-faceshaping-tech-on-phones/"><u>2024 Approved Highlighted 10 Faceshaping Tech on Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>2024 Approved The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tly-edited-content-choosing-the-best-editor-for-2024/"><u>Expertly Edited Content Choosing The Best Editor for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-frame-to-script-innovative-ways-of-integrating-text-in-images-for-2024/"><u>From Frame to Script Innovative Ways of Integrating Text in Images for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-drivers-for-your-hp-officejet-pro-8600-on-pcs-and-laptops/"><u>Get the Latest Drivers for Your HP Officejet Pro 8600 on PCs and Laptops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-spectaculuxe-video-enhancer-22-upgrade-guide/"><u>In 2024, From Standard to Spectaculuxe Video Enhancer 2.2 Upgrade Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/no-more-need-for-extra-apps-how-ios-18-enables-direct-call-recording-on-apple-devices-techspot/"><u>No More Need for Extra Apps: How iOS 18 Enables Direct Call Recording on Apple Devices | TechSpot</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-moto-g14-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Moto G14 FRP Bypass</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-8-best-video-quality-enhancers-free-and-paid/"><u>Updated Top 8 BEST Video Quality Enhancers Free & Paid</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-ffmpeg-written-by-user/"><u>[New] Examining FFmpeg' Written by User</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>[New] SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gently-introducing-scene/"><u>[Updated] Gently Introducing Scene</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices/"><u>[Updated] How to Get Gratis, Safe VLC Media Player on Mac OS X Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-tactical-techniques-for-stunning-instagram-puzzle-displays/"><u>[Updated] In 2024, Tactical Techniques for Stunning Instagram Puzzle Displays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-an-engaging-zoom-youtube-live-session/"><u>2024 Approved Expert Strategies for an Engaging Zoom YouTube Live Session</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>2024 Approved From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/hot-topic-in-photos-memes-and-their-origin-tales/"><u>Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-undetected-controllers-in-steam-when-running-on-windows-pcs/"><u>How to Fix Undetected Controllers in Steam When Running on Windows PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-manipulating-iphone-photos/"><u>In 2024, Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-zero-5g-2023-turbo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Zero 5G 2023 Turbo Phones with/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>In 2024, High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-top-handheld-video-stabilizer-equipment-to-help-shoot-smooth-scenes/"><u>In 2024, Top Handheld Video Stabilizer Equipment To Help Shoot Smooth Scenes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/r-the-map-locating-youtube-studio-content-architects-toolbox-for-2024/"><u>Master the Map Locating YouTube Studio, Content Architect’s Toolbox for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-free-dvd-converter-tools-unboxing-best-avi-mp4-and-mp3-extractors/"><u>Top-Rated Free DVD Converter Tools: Unboxing Best AVI, MP4 & MP3 Extractors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-augmented-interaction-qualcomms-pioneering-project-with-samsung-and-google-in-creating-next-gen-smart-glasses-exclusive-analysis-by-5/"><u>Unveiling the Future of Augmented Interaction: Qualcomm's Pioneering Project with Samsung and Google in Creating Next-Gen Smart Glasses – Exclusive Analysis by ZDNet</u></a></li>
 </ul></div>
 

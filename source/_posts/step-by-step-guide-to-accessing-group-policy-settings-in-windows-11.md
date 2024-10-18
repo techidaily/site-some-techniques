@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Accessing Group Policy Settings in Windows 11
-date: 2024-10-05T21:34:38.152Z
-updated: 2024-10-11T21:01:01.215Z
+date: 2024-10-10T20:29:30.321Z
+updated: 2024-10-18T02:23:06.728Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Launch the Group Policy Editor from Settings](https://extra-hints.techidaily.com/in-2024-the-ultimate-guide-to-the-best-video-speed-controller-extensions/)
 * [Open the Group Policy Editor from Control Panel](https://win-blog.techidaily.com/paladins-stability-enhancement-how-to-prevent-app-crashes/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Group Policy Editor is a utility that allows you to configure Group Policy settings for Windows PC or a group of PCs, restricting or allowing features as necessary.
@@ -28,31 +35,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you need to make deep changes to Windows 10 or Windows 11, you sometimes need to open Group Policy Editor, a tool that ships with Windows Pro and Enterprise editions only. Here's how to find and open it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is the Group Policy Editor?
 
  Group Policy Editor is a utility that allows you to configure [Group Policy settings](https://youtube-clips.techidaily.com/2024-approved-building-a-custom-link-for-youtubes-auto-subscribe/) for a Windows PC or a group of PCs. Aimed mostly at network administrators, Group Policy defines how you or a group of people can use your machines, restricting or allowing features as necessary.
 
 ![The Windows 10 Local Group Policy Editor Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows_10_group_policy_editor.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Group Policy Editor is a Microsoft Management Console app with the filename gpedit.msc, and it's usually located in the "C:\\Windows\\System32" folder.
 
  It's important to note that Group Policy Editor is _not_ available in Windows 10 or Windows 11 Home. It only ships with Windows 10 or Windows 11 Pro or Enterprise editions. If you're not sure [which edition of Windows you have](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/), it's easy to find out. Open Settings, navigate to System > About, and you'll see it listed under Edition.
 
  There are several ways to open Group Policy Editor in Windows 10 and Windows 11, so we'll cover a handful of major ways to do it below. Each one will get you to the same place, so pick whichever suits you best.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from the Start Menu
 
@@ -63,10 +63,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Launching the group policy editor from the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/launching-group-polciy-editor-from-start.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from the "Run" Window
@@ -76,10 +76,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Press Windows+R, then type gpedit and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gpedit-from-run-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from the Command Prompt
@@ -95,10 +95,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enter group policy into the search bar on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/from-the-settings-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from Control Panel
@@ -124,22 +124,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-camtech-dive-looking-for-improved-alternatives-for-2024/"><u>[New] CamTech Dive Looking for Improved Alternatives for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-innovative-mount-tech-for-smooth-sensor-motion/"><u>[New] Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-celebrating-tiktoks-premier-gaming-creators/"><u>[Updated] Celebrating TikTok's Premier Gaming Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-analysis-of-t5-eyes-exceptional-action-recording/"><u>[Updated] Full Analysis of T5 Eye's Exceptional Action Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-greatest-20-open-source-copy-free-pubg/"><u>[Updated] Greatest 20 Open Source, Copy-Free PUBG</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ringtone-renaissance-websites-worth-visiting/"><u>[Updated] In 2024, Ringtone Renaissance Websites Worth Visiting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-these-innovative-5-iphone-apps-transforming-podcasts/"><u>2024 Approved Explore These Innovative 5 iPhone Apps Transforming Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-dull-to-dazzling-revitalize-with-these-7-grading-choices/"><u>2024 Approved From Dull to Dazzling Revitalize with These 7 Grading Choices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-two-dimensions-techniques-for-3d-text-in-illustrator/"><u>2024 Approved From Two-Dimensions Techniques for 3D Text in Illustrator</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/discovery-unearthing-the-best-videos-from-fbs-sphere/"><u>Discovery Unearthing the Best Videos From FB's Sphere</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-1-v-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Sony Xperia 1 V to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/improve-iphone-filmingphotography-premium-accessory-guide-for-2024/"><u>Improve iPhone Filming/Photography Premium Accessory Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-tweeted-videos-to-downloadable-mp3-files/"><u>In 2024, From Tweeted Videos to Downloadable MP3 Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-hero-simple-nft-creation-pathway/"><u>In 2024, From Zero to Hero Simple NFT Creation Pathway</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-11-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 11 Pro Max without Password?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-compatibility-issues-launching-the-thaumaturge-software-successfully-on-desktops/"><u>Overcoming Compatibility Issues: Launching the Thaumaturge Software Successfully on Desktops</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/spirited-upgrade-in-depth-analysis-of-spyro-reignited-trilogys-miniature-hero-and-remarkable-worth/"><u>Spirited Upgrade: In-Depth Analysis of Spyro Reignited Trilogy's Miniature Hero and Remarkable Worth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-funicate-mastery-for-seamless-media-access/"><u>[New] Funicate Mastery for Seamless Media Access</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-simulations-in-medical-schools/"><u>[New] Immersive Simulations in Medical Schools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-times-tail-in-snapchat-video-backtracking-guide/"><u>[Updated] 2024 Approved Time's Tail in Snapchat Video Backtracking Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-choose-a-camera-gimbal-for-your-drone/"><u>[Updated] How to Choose a Camera Gimbal for Your Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-cultivate-your-own-metaverse-humor-garden/"><u>2024 Approved How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-polishing-your-presentations-expert-video-editing-for-instagram/"><u>2024 Approved Polishing Your Presentations Expert Video Editing for Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-review-of-ispring-recording-tech/"><u>2024 Approved The Ultimate Review of iSpring Recording Tech</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-6-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 6 Without a Passcode</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/accelerate-your-system-overcoming-delays-in-windows-11s-post-update-initialization-process/"><u>Accelerate Your System: Overcoming Delays in Windows 11'S Post-Update Initialization Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zero-to-hero-navigating-youtubes-growth-journey-for-2024/"><u>From Zero to Hero Navigating Youtube's Growth Journey for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-correctly-install-and-update-hp-monitor-drivers-for-smooth-functionality-in-windows-10-8-or-7/"><u>How to Correctly Install & Update HP Monitor Drivers for Smooth Functionality in Windows 10, 8 or 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illumination-in-high-dynamic-range-a-smart-option-in-2024/"><u>Illumination in High-Dynamic Range A Smart Option, In 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-x5-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco X5 Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
 </ul></div>
 

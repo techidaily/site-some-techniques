@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-10-08T19:51:08.868Z
-updated: 2024-10-12T03:49:05.179Z
+date: 2024-10-11T17:46:42.146Z
+updated: 2024-10-17T19:07:49.134Z
 tags:
   - desktop
 categories:
@@ -26,22 +26,22 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
@@ -54,10 +54,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  If you see an email that has ended up in the wrong place, you can move it with a simple keyboard shortcut. To do so, select the email or emails you want to use, and press Command+Shift+J. This will move folders from your inbox into the junk folder, or vice versa.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Hide/Show Sidebar (Control+Command+S) 
@@ -69,10 +69,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail app with Sidebar, including folders, highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-5-16-59-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -96,24 +96,20 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-second-count-for-a-20mb-visual-file/"><u>[Updated] Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-polarr-photo-editor-features-in-detail/"><u>[Updated] Explore Polarr Photo Editor Features in Detail</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-metaverse-meme-landscape/"><u>[Updated] Exploring the Metaverse Meme Landscape</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fading-forward-ingenious-techniques-for-soft-echos-in-audacity/"><u>[Updated] Fading Forward Ingenious Techniques for Soft Echos in Audacity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-leading-drone-motors-for-superior-stability/"><u>2024 Approved Identifying Leading Drone Motors for Superior Stability</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-15-smartest-ways-to-watch-nba-live-in-action/"><u>2024 Approved The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>2024 Approved Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-se-2022ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone SE (2022)/iPad/iPod</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/adsense-profits-on-youtube-earnings-per-thousand-video-watchers/"><u>AdSense Profits on YouTube Earnings per Thousand Video Watchers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-advice-elevating-your-nba-live-viewing-for-2024/"><u>Expert Advice Elevating Your NBA Live Viewing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-in-the-art-of-win10-for-2024/"><u>Expert Strategies in the Art of Win10 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168491399-give-your-computer-a-boost-upgrade-to-latest-nvidia-drivers/"><u>Give Your Computer a Boost: Upgrade to Latest Nvidia Drivers.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hasten-your-srt-to-txt-conversion-process-with-these-tips-for-2024/"><u>Hasten Your SRT to TXT Conversion Process with These Tips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-meditation-tracks/"><u>In 2024, Freedom in Meditation Tracks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photoshops-quick-guide-to-color-perfection/"><u>Photoshop's Quick Guide to Color Perfection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-lag-problems-on-the-platformer-game-avatar-frontiers-of-pandora/"><u>Troubleshooting Lag Problems on the Platformer Game - Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-add-audio-to-video-in-magix-movie-edit-pro-for-2024/"><u>Updated How to Add Audio to Video in Magix Movie Edit Pro for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-wet-weather-warriors-7-powerful-camera-choices/"><u>[New] 2024 Approved Wet Weather Warriors #7 Powerful Camera Choices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-strategies-to-document-your-google-meeting-sessions/"><u>[New] In 2024, Efficient Strategies to Document Your Google Meeting Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-sundae-surveillance-insightful-review-of-frozen-film-software-for-2024/"><u>[Updated] Sundae Surveillance Insightful Review of Frozen Film Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>2024 Approved [Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-sonic-wonders-on-iphone/"><u>2024 Approved Exploring Sonic Wonders on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-virtual-speed-best-vr-treadmills-ranked/"><u>2024 Approved Exploring Virtual Speed Best VR Treadmills Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-physical-action-survey/"><u>2024 Approved Extended Physical Action Survey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-crystal-clear-iphone-photos-with-our-free-red-eye-toolkit/"><u>2024 Approved Get Crystal Clear iPhone Photos with Our Free Red-Eye Toolkit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hack-the-airwaves-mastering-a-viral-solo-podcast/"><u>2024 Approved Hack the Airwaves Mastering a Viral Solo Podcast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-images-essential-tutorials-for-color-mastery/"><u>2024 Approved Harmonizing Images Essential Tutorials for Color Mastery</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/best-free-3d-animation-tools-discover-the-ultimate-list-for-aspiring-animators-and-designers/"><u>Best Free 3D Animation Tools - Discover the Ultimate List for Aspiring Animators and Designers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hot-hands-on-10-must-have-vr-peripherals/"><u>In 2024, Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y200e 5G FRP?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/win10s-best-bet-for-screen-snaps-and-recordings/"><u>Win10's Best Bet for Screen Snaps and Recordings</u></a></li>
 </ul></div>
 

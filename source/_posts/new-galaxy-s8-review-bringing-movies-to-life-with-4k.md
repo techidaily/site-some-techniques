@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Galaxy S8 Review - Bringing Movies to Life with 4K\""
-date: 2024-08-22T06:26:46.666Z
-updated: 2024-08-23T06:26:46.666Z
+date: 2024-10-15T16:09:21.567Z
+updated: 2024-10-17T18:59:53.175Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,19 @@ The Samsung galaxy S8 offers an incredible level of performance from one of the 
 * Biometric unlocking can become a tedious security feature.
 * One of the most expensive phones on the market
 * The Bixby feature is largely pointless.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Section 1: Samsung Galaxy S8 Hardware Design
 
@@ -99,8 +112,12 @@ If you want to edit your 4K video footage on Galaxy S8, or you want to make vide
 [![Download filmora](https://images.wondershare.com/filmora/guide/google_play.jpg) ](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 However, if you are looking for a more advanced video editing tool to make a video on your PC, you should not miss [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video before to check how to make a video with Filmora.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -123,18 +140,12 @@ It can handle plenty of demanding applications but it's very important to use th
 
 ![samsung-s8-security-performance](https://images.wondershare.com/filmora/article-images/samsung-s8-security-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 The S8 has some of the most advanced biometric security available on any smart phone, it has facial recognition, iris recognition as well as a fingerprint scanner all on board. One of the only problems that comes with using these biometrics is that you can end up with a device that consistently needs your permission to unlock and access various applications. Setting up the features is relatively easy and can be done at the start during Samsung set up. Most people end up turning off the iris recognition, facial recognition and opt for fingerprint scanning only as of the much more discreet way to unlock the phone.
 
 #### 5. Samsung Galaxy S8 Compatibility
 
 ![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
 
 ## Section 3: Samsung Galaxy S8 Onboard Software
@@ -144,29 +155,32 @@ The device comes with a touchwiz UI which is very similar to other Samsung appli
 ![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 This is currently one of the best android smart phones available on the market. Although it commands one of the highest price tags it's also one of the most beautiful from a design perspective. If you are a fan of Samsung phones and you're looking for an upgrade or you are looking for one of the best phones that you could switch over to from an iphone, this could be just the phone you are looking for.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +188,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>[Updated] 2024 Approved Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-skyrocket-likes-on-your-tiktok-unpack-sessions/"><u>[Updated] How to Skyrocket Likes on Your TikTok Unpack Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-b-footage-a-filmmakers-guide/"><u>[Updated] Incorporating B-Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-noise-cancelled-skype-communication/"><u>[Updated] Noise-Cancelled Skype Communication</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-max-vs-hero-11-a-video-quality-showdown/"><u>2024 Approved GoPro Max vs Hero 11 A Video Quality Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero4-black-vs-hero4-silver/"><u>2024 Approved Hero4 Black Vs Hero4 Silver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-play-samsung-vr-classics/"><u>2024 Approved Immersive Play Samsung VR Classics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pioneering-vr-cycling-choose-wisely/"><u>2024 Approved Pioneering VR Cycling Choose Wisely</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-patch-resolving-the-windows-10-v1607-feature-update-problem/"><u>Failed to Patch: Resolving the Windows 10 v1607 Feature Update Problem</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-flash-frame-filmmakers-plan/"><u>In 2024, Flash Frame Filmmaker's Plan</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-narzo-60x-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60x 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

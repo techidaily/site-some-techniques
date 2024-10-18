@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS"
-date: 2024-10-07T21:46:27.333Z
-updated: 2024-10-11T16:03:25.529Z
+date: 2024-10-14T23:03:13.755Z
+updated: 2024-10-18T02:57:06.227Z
 tags:
   - deals
 categories:
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
  If you've made a mistake on your Windows 10 or Windows 11 PC and would like to go back a step, it's easy to use the built-in "Undo" command. Similarly, you can sometimes also perform a "Redo" action to restore what you just undid. Here's how to perform both actions.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Undo and (Sometimes) Redo Using Your Keyboard
 
  Almost every Windows app supports at least a simple, one-step Undo. To undo an action you just performed in Windows, press Ctrl+Z on your keyboard.
@@ -46,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
@@ -58,14 +45,14 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
 
@@ -74,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![Click Edit > Undo to perform an undo in some Windows programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/windows_notepad_undo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Likewise, some apps place a "Redo" option just below "Undo" in the "Edit" menu ([as you'll often see on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/)). But the classic File / Edit menu bar is getting harder to find in Windows. Instead, some apps such as Microsoft Word (and other Office apps) include special Undo and Redo toolbar buttons.
@@ -89,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
 
 ![The "Redo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_redo_button.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Other apps with different toolbar interfaces will likely have different designs for their undo or redo buttons. In general, look for a curved arrow pointing to the left for "Undo." You can also try right-clicking in a text entry area and looking for an "Undo" option. Or, when all else fails, try pressing Ctrl+Z on your keyboard.
 
@@ -107,22 +101,19 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unveil-the-zodiac-persona-perfecting-personalized-bios-on-whatsapp/"><u>[New] 2024 Approved Unveil the Zodiac Persona - Perfecting Personalized Bios on WhatsApp</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-enhancing-control-over-snapchat-video-speed/"><u>[New] Expert Advice Enhancing Control Over Snapchat Video Speed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-one-click-wonder-livestream-your-podcast-for-2024/"><u>[New] One Click Wonder Livestream Your Podcast for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[New] The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guidance-to-fix-iphone-autofocus-problems-immediately/"><u>[Updated] Guidance to Fix iPhone Autofocus Problems Immediately</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-turn-on-hdr-settings-in-windows-11/"><u>[Updated] How to Turn On HDR Settings in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>[Updated] In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-compress-iphone-videos-how-to-shorten-without-quality-loss/"><u>2024 Approved Compress iPhone Videos How to Shorten Without Quality Loss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-face-editing-battle-is-hero-series-better-than-the-cube/"><u>2024 Approved Face-Editing Battle Is Hero Series Better Than The Cube?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-in-the-wind-understanding-its-types/"><u>2024 Approved Hand-In-The-Wind Understanding Its Types</u></a></li>
-<li><a href="https://article-helps.techidaily.com/bestiary-of-no-cost-iphone-enhancement-apps-for-ultimate-selfies-for-2024/"><u>Bestiary of No-Cost iPhone Enhancement Apps for Ultimate Selfies for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-y56-5g-frp-by-drfone-android/"><u>How Can We Bypass Vivo Y56 5G FRP?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-6-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 6 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-roundup-high-quality-zero-price-livestream-software-list/"><u>In 2024, Exclusive Roundup High-Quality, Zero-Price LiveStream Software List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-luts-revolutionize-your-photo-editing-experience/"><u>In 2024, How LUTs Revolutionize Your Photo Editing Experience</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-top-real-time-webcast-applications/"><u>In 2024, Top Real-Time Webcast Applications</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-your-profile-the-case-against-unverified-contacts/"><u>Secure Your Profile: The Case Against Unverified Contacts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expansive-movement-assessment-2023/"><u>[Updated] Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-film-lovers-answers-repository/"><u>[Updated] Film Lovers' Answers Repository</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-top-free-speech-to-text-apps-for-mac-you-need-to-try/"><u>[Updated] Top Free Speech to Text Apps for Mac You Need to Try</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevating-roi-in-facebooks-animated-advertising-arena/"><u>Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-virtual-face-maker-websites-for-2024/"><u>Free Virtual Face Maker Websites for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-fantasy-to-feasibility-vrs-milestones-for-2024/"><u>From Fantasy to Feasibility VR's Milestones for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-clear-iphone-network-configuration-a-guide-to-solving-various-issues/"><u>How to Clear iPhone Network Configuration: A Guide to Solving Various Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-curated-audio-experience-on-android/"><u>In 2024, Expertly Curated Audio Experience on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gamers-graphically-glorious-reviews/"><u>In 2024, GAMER'S GRAPHICALLY GLORIOUS REVIEWS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-not-working-in-windows-1187-fixed/"><u>Lenovo Mouse Pad Not Working in Windows 11/8/7 [FIXED]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/list-of-ipads-with-integrated-gps-technology/"><u>List of iPads with Integrated GPS Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-razr-40-ultra-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Razr 40 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-motorola-edge-40-neo-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Motorola Edge 40 Neo ?</u></a></li>
 </ul></div>
 

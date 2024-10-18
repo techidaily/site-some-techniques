@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Professional Hunt: 8 Key Techniques on LinkedIn"
-date: 2024-10-08T17:28:26.544Z
-updated: 2024-10-11T17:09:31.679Z
+date: 2024-10-14T00:07:50.618Z
+updated: 2024-10-18T01:01:44.562Z
 tags:
   - web
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  LinkedIn is the social media for business, but using it to find a new job can be tricky. Don’t trust the default filters or the LinkedIn algorithm. Instead, you can narrow down your LinkedIn job searches using these tips.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Use the Hidden Sort Feature to Sort Jobs by Date 
 
  If you use LinkedIn’s search tool to look for jobs, you’ll notice an odd order to them. Jobs you might want to apply for will be crowded out by sponsored posts and other posts that the algorithm might deem as being more important. This isn’t a good user experience. Most job hunters want to find the newest job ads first.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ![A LinkedIn job search, with the filter panel showing steps to sort by most recent.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-filter-job-results-by-most-recent.png) 
 
  Your job search results will update immediately to show the earliest results starting from the top.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2  Use Advanced Search Operators 
 
@@ -52,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  You can use one or a combination of these to help narrow down your searches. These work across the LinkedIn search tool, so they will help you narrow down job searches, posts, events, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  Set Up Job Alerts for Searches 
 
  Want to keep an eye out for job ads that match your role? You can set up a job alert. LinkedIn will send you notifications on LinkedIn and via email when new jobs appear that match your search criteria.
@@ -64,20 +85,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A saved job search on LinkedIn in the Jobs section of the website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-show-saved-job-alerts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Filter Out Older Job Posts 
 
  Not every job ad will disappear once it’s been filed. If you want to make sure that you don’t see out-of-date job posts, you can use the search tool’s filtering tools to limit the ads that appear to those that have been posted recently.
@@ -85,19 +92,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
  To do this, return to the LinkedIn website and use the search tool to look for a job, making sure to click “Jobs” afterward. At the top, click the “Date Posted” drop-down button. From the options, select a time period between the past 24 hours to the last month, or select “All Time” to show all of the job ads currently listed. Click “Show Results” to apply the changes.
 
 ![An example LinkedIn job search, with arrows pointing at the steps to narrow down a search result using the Date Posted filter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-narrow-job-searches-by-date-added.png) 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Filter by Number of Current Applicants 
 
@@ -108,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ![An example LinkedIn job search, with arrows showing the steps to apply the 'Under 10 Applicants' filter to narrow down the search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-enable-low-applicants-filter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Search for Specific Businesses 
@@ -122,16 +116,16 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn job search, showing the steps to filter the search to only show ads from a specific company.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-filter-by-company.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there are any jobs that match that company, they should appear on the left immediately afterward.
 
  Alternatively, you could use the AND search operator in your job search, but it's important to note that this won't guarantee to limit jobs from a single employer. A good example is Microsoft. Searching for IT Engineer AND Microsoft should locate jobs that include both IT Engineer and Microsoft in the ad. However, a job ad might mention Microsoft in the ad itself because job roles like Microsoft 365 Engineer exist.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7  Set Up Your Profile to Use the Easy Apply Function 
 
@@ -146,10 +140,16 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ![A LinkedIn job search, filtered by Easy Apply ads only, with arrows pointing at the options to filter the results and apply for jobs with the Easy Apply functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-easy-apply-button-example.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Search for Hiring Posts 
@@ -162,22 +162,16 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn example search showing various types of search results, with arrows pointing to select the Posts option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-search-and-select-posts.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’s not wise to trust the order of posts here, so bypass the algorithm by clicking the “Sort” button at the top, selecting “Latest”, then choosing “Show Results” to update the list of posts.
 
 ![A LinkedIn posts search, with arrows pointing at the options to sort the search results by the latest options first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-posts-search-filter-by-latest.png) 
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can then look through the posts made by employers looking for new jobs. If any of them take your interest, you can message the poster director or follow the instructions on the post they’ve made to apply for the job.
 
@@ -200,16 +194,24 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/choing-ethos-with-closing-credits/"><u>[New] Echoing Ethos with Closing Credits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-luts-in-premiere-pro/"><u>[New] How To Use LUTs In Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-srt-knowledge-for-all-levels/"><u>[New] In-Depth Look at SRT Knowledge for All Levels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rhythmic-reels-making-instagram-memories-to-the-beat/"><u>[New] Rhythmic Reels Making Instagram Memories to the Beat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-free-visual-trove-online/"><u>2024 Approved Finding the Free Visual Trove Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gif-magic-transformations-without-extra-files-downloaded-for-2024/"><u>GIF Magic Transformations Without Extra Files Downloaded for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apple-innovates-with-iphone-16s-camera-features-a-comprehensive-look-at-the-cutting-edge-camera-button-zdnet/"><u>How Apple Innovates with iPhone 16'S Camera Features: A Comprehensive Look at the Cutting-Edge Camera Button | ZDNET</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-or-download-the-official-canon-mx492-printer-drivers-for-windows-systems/"><u>How to Update or Download the Official Canon MX492 Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-variations-america-vs-britain/"><u>Language Variations: America vs Britain</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-win-error-no-access-to-network-paths/"><u>Solving WIN Error: No Access to Network Paths</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-12r-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus 12R Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-innovative-sequencing-with-gopros-burst-feature/"><u>[Updated] Exploring Innovative Sequencing with GoPro's Burst Feature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fading-frequencies-the-gentle-way-with-garageband/"><u>[Updated] Fading Frequencies The Gentle Way with Garageband</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-recording-to-releasing-editing-in-garageband/"><u>[Updated] From Recording to Releasing Editing in GarageBand</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-fiscal-outline-getting-your-podcast-off-the-ground/"><u>[Updated] Full Fiscal Outline Getting Your Podcast Off the Ground</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ghostly-replay-techniques-for-editors/"><u>[Updated] Ghostly Replay Techniques for Editors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-the-rules-of-youtube-video-documentation/"><u>[Updated] In 2024, Navigating the Rules of YouTube Video Documentation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-titles-to-lengthen-viewing-times-within-limit/"><u>[Updated] Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-to-successful-vlogging-essentials/"><u>2024 Approved First Steps to Successful Vlogging Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>2024 Approved Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-childs-first-step-into-spanish-culture/"><u>A Child's First Step Into Spanish Culture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/groundhopping-goals-watch-record-and-cut-games-without-spending-for-2024/"><u>Groundhopping Goals Watch, Record & Cut Games Without Spending for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-isdonedll-isarcextract-error-in-windows-10-and-11/"><u>How to Fix the ISDone.dll (ISArcExtract) Error in Windows 10 & 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-image-haven-best-10-sites-reviewed/"><u>In 2024, Free Image Haven Best 10 Sites Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285424986-mac/"><u>Mac向けの迅速かつ優れた品質:動画エンコードを容易に実行する最適な手段</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-on-keeping-your-airpods-germ-free-a-comprehveguide-to-sanitization-and-maintenance/"><u>The Ultimate How-To on Keeping Your AirPods Germ-Free: A Comprehveguide to Sanitization and Maintenance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-inadequate-system-resource-alerts-efficiently/"><u>Troubleshooting Guide: Resolving Inadequate System Resource Alerts Efficiently</u></a></li>
 </ul></div>
 

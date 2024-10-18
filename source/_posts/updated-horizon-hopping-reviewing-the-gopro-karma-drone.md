@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Horizon Hopping  Reviewing the GoPro Karma Drone\""
-date: 2024-08-22T06:21:46.310Z
-updated: 2024-08-23T06:21:46.310Z
+date: 2024-10-17T00:33:52.858Z
+updated: 2024-10-18T00:50:24.938Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,19 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -95,13 +115,18 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,6 +134,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-basics-of-kinetic-illustration-mastery/"><u>[Updated] Basics of Kinetic Illustration Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-meme-generator-app-downlaod/"><u>[Updated] Best Meme Generator App Downlaod</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app/"><u>2024 Approved From Novice to Pro The Ultimate Guide to Gaming with KineMaster App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-mastery-guide-adobe-cloud-and-its-rival-services/"><u>2024 Approved Full Mastery Guide Adobe Cloud and Its Rival Services</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-at-work-unpacking-10-scenarios-where-you-might-get-fired/"><u>ChatGPT at Work: Unpacking 10 Scenarios Where You Might Get Fired</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nubia-z50-ultra-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nubia Z50 Ultra? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-note-12r-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi Note 12R without App | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-collection-highest-quality-webcam-supports/"><u>In 2024, Excellence Collection Highest Quality Webcam Supports</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-precise-control-with-xbox-zoom/"><u>In 2024, Expert Tips for Precise Control with Xbox Zoom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>In 2024, Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-spark-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Spark 10 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-iphone-15-to-iphone-16-key-factors-to-know-before-switching-to-the-latest-apple-smartphone/"><u>Upgrading From iPhone 15 to iPhone 16? Key Factors to Know Before Switching to the Latest Apple Smartphone</u></a></li>
+</ul></div>
+

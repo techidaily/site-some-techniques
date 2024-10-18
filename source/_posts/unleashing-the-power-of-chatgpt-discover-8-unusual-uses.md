@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of ChatGPT: Discover 8 Unusual Uses"
-date: 2024-09-29T08:04:04.617Z
-updated: 2024-10-06T06:50:30.788Z
+date: 2024-10-16T23:05:55.007Z
+updated: 2024-10-18T01:58:26.557Z
 tags:
   - cutting-edge
 categories:
@@ -59,10 +59,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![A ChatGPT AI response showing a resume template.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like the cover letter, you'll need to review the text and edit anything that is a bit too generous in describing your job responsibilities, but overall it's a fast way to generate a template you can easily adapt. It even leaves fill-in-the-blank sections for job titles, company names, and dates worked.
@@ -70,16 +70,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
  As an aside, I thought it was particularly appropriate and quite funny that when I asked it to write me a resume for a network engineer, the request failed because of a network error.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Generate Product and Company Name Suggestions
@@ -88,14 +82,14 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![A ChatGPT AI response showing a cover letter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It certainly didn't disappoint and gave us a list of 15 suggestions with some solid picks like BarkSpeak, DogTalk, and our favorite, DogLingo.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Compose Song Lyrics and Poetry
 
@@ -103,18 +97,18 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![A ChatGPT AI response showing lyrics to a song about a dog colonizing Mars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the other hand, when we asked for a poem about a dog who builds a submarine to explore the ocean and befriend dolphins it was a bit all over the place and even started with the dog already living in the ocean like a squid.
 
  You can even ask ChatGPT to include guitar tablature for the song, but your mileage will probably vary wildly in such endeavors.
 
 Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techidaily.com/-comprehensible-explanation-of-youtubes-viewership-puzzle/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Plan a Party or Event
 
@@ -129,10 +123,10 @@ Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techid
  It will describe what redstone dust is, how it functions in the Minecraft world like electrical wiring functions in ours, and what players use it for---preparing you to better implement a party activity based on it. Speaking of kids and Minecraft, [here's how to set up a Minecraft server for them to play on](https://facebook-video-footage.techidaily.com/updated-how-to-remove-black-bars-from-youtube-videos/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Generate a Prompt for AI Art
@@ -147,24 +141,18 @@ Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techid
 
 ![A series of images showing the world of Legend of Zelda, rendered like a Picasso painting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/2023-02-08_131443.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dall-E
 
  We're calling it now. The character in image #2 will appear in a future Zelda game. If you're playing around with Dall-E more and want to hone your skills without ChatGPT helping with your prompts, [check out our Dall-E tips to get better results](https://facebook-video-footage.techidaily.com/unveiling-distinctions-a-look-at-youtube-and-dailymention-for-2024/). Maybe you'll even end up [hanging some AI art in your home](https://desktop-recording.techidaily.com/1715859646802-new-obs-full-screen-no-more-problem/).
 
 Related: [Can ChatGPT Create Images?](https://some-skills.techidaily.com/updated-unleash-your-potential-with-outstanding-android-time-lapse-videos/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Play a Text-Based Role Playing Game
 
@@ -190,6 +178,13 @@ Related: [Can ChatGPT Create Images?](https://some-skills.techidaily.com/updated
 
  If that sounds fun, but you're thinking, "I wish it actually had stats and points like an actual game," you're in luck. You can [give ChatGPT game parameters](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) to tell it to use known RPG rules, keep score, and more. Although, in our experience playing around with it, the more variables and rules you give the game, the more wonky and unpredictable it becomes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Debug Code and Learn Programming Concepts
 
  If you've been reading a lot of articles about ChatGPT, you may have noticed a lot of people talking about how crazy it is that ChatGPT can write code.
@@ -203,13 +198,6 @@ Related: [Can ChatGPT Create Images?](https://some-skills.techidaily.com/updated
  Learning to program or learning a new language? Just ask it to give you an example of how sorting works in Python or whatever else you're curious about, and it will give you an example (often with multiple variations to help you understand the concept).
 
 Related: [How to Run a ChatGPT-like AI on Your Own PC](https://tech-revival.techidaily.com/solving-the-problem-why-does-chatgpt-forget-our-talks/) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Ask It Nearly Anything
 
@@ -243,20 +231,24 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[New] Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-strategy-for-high-quality-remote-recordings/"><u>[New] The Ultimate Strategy for High-Quality Remote Recordings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-progression-reach-and-maintain-10k-viewer-threshold/"><u>[Updated] 2024 Approved Channel Progression Reach and Maintain 10K Viewer Threshold</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-four-essential-tips-for-downloading-youtubes-srt/"><u>[Updated] Four Essential Tips for Downloading YouTube's SRT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-feature-analysis-videon-plus-suite-the-edit-experience/"><u>[Updated] Full Feature Analysis Videon Plus Suite – The Edit Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-block-spotifys-predicted-podcast-selections/"><u>[Updated] How to Block Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-pursuit-of-perfection-highest-rated-phones-for-smooth-videos/"><u>[Updated] In Pursuit of Perfection Highest Rated Phones for Smooth Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-redmi-note-13-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Redmi Note 13 Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/chronology-on-camera-best-practices-for-date-insertion/"><u>Chronology on Camera Best Practices for Date Insertion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-imovie-for-free-on-windows-no-cost-video-editing-software-for-pc-users/"><u>Download iMovie for Free on Windows: No-Cost Video Editing Software for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-steam-from-freezing-or-crashing/"><u>Fixes & Solutions: How to Stop Steam From Freezing or Crashing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-preeminent-free-websites-for-aspiring-vector-designers-for-2024/"><u>Guide to Preeminent Free Websites for Aspiring Vector Designers for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-y55s-5g-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo Y55s 5G (2023) without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-30-free-mac-speech-to-text-software-youve-missed/"><u>In 2024, Top 30 Free Mac Speech-to-Text Software You've Missed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-identifying-and-understanding-touchless-technologies/"><u>[New] Identifying and Understanding Touchless Technologies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster/"><u>[New] In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-plant-and-play-stardew-esque-gaming-winners/"><u>[Updated] 2024 Approved Plant and Play Stardew-Esque Gaming Winners</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-bend-the-light-homegrown-animated-innovations-for-2024/"><u>[Updated] Bend the Light Homegrown Animated Innovations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-cutzone-pro-review-unveiled/"><u>[Updated] In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>[Updated] Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-alliance-of-creativity-brands-and-youtubes-fusion/"><u>2024 Approved Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-to-applying-luts-in-professional-production/"><u>2024 Approved Expert Guide to Applying LUTs in Professional Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-hdr-perfecting-dynamic-range-in-photoshop/"><u>2024 Approved Expertise in HDR Perfecting Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-online-rhythm-analysis-boost-your-dj-skills-efficiently/"><u>2024 Approved Free Online Rhythm Analysis Boost Your DJ Skills Efficiently</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-mechanism-behind-imovie-trim/"><u>2024 Approved The Mechanism Behind iMovie Trim</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fashioning-a-footprint-fonts-for-visual-stories-in-ae-for-2024/"><u>Fashioning a Footprint Fonts for Visual Stories in AE for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-online-tools-ranked-best-10-free-image-converters-for-2024/"><u>Innovative Online Tools Ranked Best 10 Free Image Converters for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-canon-driver-installation-and-updates-on-windows/"><u>Simple Guide: Canon Driver Installation and Updates on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/up-strategy-guide-affordable-channels-to-monetize-for-2024/"><u>Startup Strategy Guide Affordable Channels to Monetize for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-preprogramming-outgoing-sms-from-iphone-devices/"><u>Step-by-Step Tutorial: Preprogramming Outgoing SMS From iPhone Devices</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/tutorial-resetting-deleted-images-in-windows-via-discord/"><u>Tutorial Resetting Deleted Images in Windows via Discord</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-transfer-learning-an-in-depth-guide/"><u>Understanding AI Transfer Learning: An In-Depth Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlocking-visual-richness-switching-to-hdr-technology/"><u>Unlocking Visual Richness Switching to HDR Technology</u></a></li>
 </ul></div>
 

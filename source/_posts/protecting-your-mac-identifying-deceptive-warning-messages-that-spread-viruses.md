@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-10-07T17:29:11.995Z
-updated: 2024-10-11T20:44:18.732Z
+date: 2024-10-13T23:45:32.855Z
+updated: 2024-10-17T19:49:57.980Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What's Going On?
 
  Bad actors try to trick people into downloading (and paying for) software they don’t need using Apple’s macOS notification system. The same trick could even be used to download malware like [remote access trojans](https://youtube-videos.techidaily.com/maximizing-your-channels-earning-potential-through-trailers/) and [ransomware](https://screen-activity-recording.techidaily.com/updated-ultimate-techniques-for-screen-recording-games-on-win10-for-2024/) onto your Mac.
@@ -39,19 +32,19 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Avoid This Happening Again
@@ -76,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’ve turned the notifications feature off in your browser, you won’t see this problem again. Otherwise, make sure you are careful when allowing a website to send you notifications.
 
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
 
@@ -98,20 +98,22 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-stay-grounded-in-virtual-reality-spaces/"><u>[New] How to Stay Grounded in Virtual Reality Spaces</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-science-behind-optimal-instagram-timings/"><u>[New] In 2024, The Science Behind Optimal Instagram Timings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-directory-for-free-visual-treasures/"><u>[New] In 2024, Ultimate Directory for Free Visual Treasures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>[Updated] 2024 Approved Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-heart-of-srt-in-depth/"><u>[Updated] Exploring the Heart of SRT in Depth</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[Updated] Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-iconic-android-collage-creators-a-top-picks-journey/"><u>[Updated] Iconic Android Collage Creators A Top Picks Journey</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-setup-for-enjoying-high-quality-4k-hdr-video-on-your-pc-with-windows-11/"><u>Effortless Setup for Enjoying High-Quality 4K HDR Video on Your PC with Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-top-10-subtitles-tools-srt-file-transformers-for-2024/"><u>Free Top 10 Subtitles Tools SRT File Transformers for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/icy-inspirations-top-olympic-triumphs-for-2024/"><u>Icy Inspirations Top Olympic Triumphs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-retract-macos-upgrade-from-sierra-to-el-capitan/"><u>In 2024, How to Retract macOS Upgrade From Sierra to El Capitan</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-fortnite-audio-problems-in-no-time-with-these-easy-steps/"><u>Resolve Fortnite Audio Problems in No Time with These Easy Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/staying-current-the-impact-of-additional-yearly-patches-on-your-pc/"><u>Staying Current: The Impact of Additional Yearly Patches on Your PC</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-trimming-mp3-files-with-vlc-media-player/"><u>Step-by-Step Guide: Trimming MP3 Files with VLC Media Player</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-casual-to-pro-unpacking-kinemaster-for-android-gamers/"><u>[New] From Casual to Pro Unpacking KineMaster for Android Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-premier-quality-4k-panels-for-expert-colour-correction/"><u>[New] In 2024, Premier Quality 4K Panels for Expert Colour Correction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>[New] Jocular Joke-Crafting A Step-by-Step Guide to Memelore</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-streamers-choice-of-live-broadcasting-apps/"><u>[Updated] Exclusive Streamer's Choice of Live Broadcasting Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-impact-solo-podcasts-that-resonate/"><u>[Updated] From Idea to Impact Solo Podcasts that Resonate</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gaming-hub-clashes-with-content-creation-empire-a-detailed-twitchyoutube-comparison/"><u>[Updated] Gaming Hub Clashes with Content Creation Empire A Detailed Twitch/YouTube Comparison</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>[Updated] Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovations-in-office-layout-for-enhanced-productivity/"><u>[Updated] Innovations in Office Layout for Enhanced Productivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fable-formulators-fellowship-top-7-titans/"><u>2024 Approved Fable Formulators Fellowship – Top 7 Titans</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-list-seamless-no-download-gif-to-video-converters/"><u>2024 Approved Ultimate List Seamless No-Download GIF to Video Converters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-comprehensive-strategies-for-tracking-yt-traffic-and-gains/"><u>In 2024, Comprehensive Strategies for Tracking YT Traffic and Gains</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>In 2024, Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaiety-media-download-review/"><u>In 2024, Gaiety Media Download Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-step-by-step-to-youtube-fame-excellence-in-music-video-reactions/"><u>In 2024, Step-by-Step to YouTube Fame Excellence in Music Video Reactions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/master-your-media-comprehensive-guide-to-instagram-converters-windowsmac-for-2024/"><u>Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safe-psychological-dialogues-gpt-enhanced-therapy/"><u>Safe Psychological Dialogues: GPT-Enhanced Therapy</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vocabulary-volleyball-international-words-serving-english/"><u>Vocabulary Volleyball: International Words Serving English</u></a></li>
 </ul></div>
 

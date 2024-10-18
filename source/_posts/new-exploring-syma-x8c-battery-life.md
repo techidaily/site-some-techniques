@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring Syma X8C Battery Life"
-date: 2024-08-22T06:26:19.234Z
-updated: 2024-08-23T06:26:19.234Z
+date: 2024-10-13T23:08:59.821Z
+updated: 2024-10-17T21:31:05.614Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1. Basic Specs Info
@@ -73,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
  This device can also be used without propeller guards because they do not have much role to play in its flights but the added benefit is that removal of prop guards leads to reduced weight and hence flight time gets little improved. The overall length of propeller is about 9” and they are designed of very high quality material.
@@ -89,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
@@ -98,24 +119,23 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +143,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition/"><u>[New] Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-groundwork-for-motion-visual-storytelling/"><u>[New] Groundwork for Motion Visual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hds-radiance-reviewed-does-it-merit-the-hdr-label/"><u>[New] HD's Radiance Reviewed Does It Merit the HDR Label?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[New] In 2024, Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-heaviest-airborne-haulers-drone-selection-insights/"><u>[Updated] Heaviest Airborne Haulers Drone Selection Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-straightforward-video-recorders-for-win10/"><u>[Updated] In 2024, Straightforward Video Recorders for Win10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shutterbug-secrets-iphone-night-photography/"><u>[Updated] Shutterbug Secrets IPhone Night Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breathe-easy-with-knowledge-of-asmr-advantages/"><u>2024 Approved Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clearer-anonymity-discreet-faces-deletion/"><u>Clearer Anonymity Discreet Faces Deletion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-eliminate-stutter-in-counter-strike-global-offensive/"><u>Effortless Ways to Eliminate Stutter in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-complet-pour-securiser-les-donnees-de-votre-laptop-avec-onedrive-de-microsoft/"><u>Guide Complet Pour Sécuriser Les Données De Votre Laptop Avec OneDrive De Microsoft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highpoint-artist-suite-evaluation-for-2024/"><u>Highpoint Artist Suite Evaluation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-capture-to-creation-discover-the-best-montage-apps-for-smartphones/"><u>In 2024, From Capture to Creation Discover the Best Montage Apps for Smartphones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shining-a-light-top-photo-illumination-hacks-for-2024/"><u>Shining a Light Top Photo Illumination Hacks for 2024</u></a></li>
+</ul></div>
+

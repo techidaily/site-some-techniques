@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments"
-date: 2024-09-30T04:22:06.326Z
-updated: 2024-10-05T23:05:55.637Z
+date: 2024-10-12T16:28:37.718Z
+updated: 2024-10-18T02:39:51.628Z
 tags:
   - cutting-edge
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
  Google is now trying to push generative AI as a more complete virtual assistant, capable of completing some tasks with minimal or no human intervention. Google Assistant, Siri, and other earlier virtual assistants could handle some basic tasks, like finding a nearby restaurant and starting navigation directions. Google wants to push that even further with its Gemini AI technology, taking over tasks that would normally require human overview and logic processing.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  When Summaries Go Wrong
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ![Conversation with Gemini summarizing 3 different bids for home repair.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-05-14-2024-135913.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Google
@@ -58,10 +58,10 @@ Google
  There have been other attempts at using generative AI to accomplish real-life tasks. OpenTable was one of the first plugins for ChatGPT, potentially allowing you to book dinner reservations through the AI chatbot. You can find [a few reports](https://www.reddit.com/r/ChatGPT/comments/14rn74v/opentable%5Fplugin%5Fproblem/) of that not working, though it’s unclear if the AI or the underlying API integrations are to blame.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Trust It
@@ -85,22 +85,17 @@ Google
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-take-on-acid-pro-and-competitive-analysis/"><u>[New] Expert Take on ACID Pro and Competitive Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-get-save-and-enjoy-discover-these-6-excellent-linkedin-downloader-tools/"><u>[New] Get, Save, and Enjoy Discover These 6 Excellent LinkedIn Downloader Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unleash-hd-playback-with-av1-on-youtube/"><u>[New] In 2024, Unleash HD Playback with AV1 on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-captivating-openings-top-free-intra-makers-list/"><u>[Updated] 2024 Approved Crafting Captivating Openings Top Free Intra Makers List</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-methods-for-iphone-screen-capture/"><u>[Updated] 2024 Approved Step-by-Step Methods for iPhone Screen Capture</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-infographic-analysis-the-hottest-2023-trends/"><u>[Updated] Infographic Analysis The Hottest 2023 Trends</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-of-best-5-sd-cards-for-gopro-hero-cameras/"><u>2024 Approved Exclusive Listing of Best 5 SD Cards for GoPro HERO Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-win-over-product-sponsors-in-the-youtube-arena/"><u>2024 Approved How to Win Over Product Sponsors in the YouTube Arena</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-images-10-smartphone-front-runners-for-media-makers/"><u>2024 Approved Innovating Images 10 Smartphone Front-Runners for Media Makers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-how-to-free-up-space-on-android-by-clearing-cache/"><u>Comprehensive Tutorial: How to Free Up Space on Android by Clearing Cache</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/converting-oga-audio-files-to-mp3-at-no-cost-comprehensive-guide-for-online-and-local-processes/"><u>Converting OGA Audio Files to MP3 at No Cost: Comprehensive Guide for Online and Local Processes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-for-apex-legends-error-resolution-cracking-down-on-error-code-23/"><u>Expert Advice for Apex Legends Error Resolution - Cracking Down on Error Code 23</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-and-easy-explore-the-top-webm-video-tools-for-2024/"><u>Free and Easy Explore the Top WebM Video Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-maximize-ios-podcast-features-for-2024/"><u>How to Maximize iOS Podcast Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>In 2024, Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-your-multimedia-browsing-in-chrome-using-pip/"><u>Streamline Your Multimedia Browsing in Chrome Using PIP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-memorial-day-deal-2024-asus-tuf-gaming-laptop-with-amd-ryzen-7-just-658/"><u>Unbeatable Memorial Day Deal: 2024 ASUS TUF Gaming Laptop with AMD Ryzen 7, Just $658</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-camera-studio-insights-extended-xvideoguide/"><u>[New] Behind-the-Camera Studio Insights Extended XVideoGuide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-picks-top-10-rated-gopro-cases-revisited/"><u>[New] Expert Picks - Top 10 Rated GoPro Cases Revisited</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-social-laughter-downloaded-iphoneandroid-tutorial-for-gifs/"><u>[Updated] Social Laughter Downloaded IPhone/Android Tutorial for GIFS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ground-rules-of-e-storytelling-techniques/"><u>2024 Approved Ground Rules of E-Storytelling Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hearthsongs-the-quintessential-playlist-for-engagement/"><u>2024 Approved Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-itel-p40plus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Itel P40+ via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-access-to-your-gaming-steam-id/"><u>Expedite Access to Your Gaming Steam ID</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flash-through-files-on-your-windows-pc-for-2024/"><u>Flash Through Files on Your Windows PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-by-frame-helpdesk-for-2024/"><u>Frame by Frame Helpdesk for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/front-runners-in-4k-gaming-graphics-for-2024/"><u>Front-Runners in 4K Gaming Graphics for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-your-unique-fashion-voice-for-2024/"><u>Mastering Your Unique Fashion Voice for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-fixing-drivers-for-the-hydro-series-h100i-v2-under-windows-systems/"><u>Troubleshooting and Fixing Drivers for the Hydro Series H100i v2 Under Windows Systems</u></a></li>
 </ul></div>
 

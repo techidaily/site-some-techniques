@@ -1,7 +1,7 @@
 ---
 title: "Electric Cars and Their Charging Duration: Insights & Facts You Need to Know"
-date: 2024-10-05T10:21:05.670Z
-updated: 2024-10-06T10:31:48.136Z
+date: 2024-10-12T22:27:52.382Z
+updated: 2024-10-17T20:42:58.632Z
 tags:
   - cutting-edge
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
  Charging an electric car's battery is a lot different than pumping gas. How long it takes to charge depends on a number of factors, including battery size and type, but it definitely takes longer than filling a gas car's tank.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Long It Takes to Charge an EV
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 * Weather
 
  We'll go through each of them in turn.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Maximum Charge Rate
 
@@ -57,19 +64,6 @@ Related: [Can Any Electric Car Use Any EV Charger?](https://data-safeguard.techi
 
  Level 3 rapid charging stations, also called DC fast charging or DCFC stations, are the quickest to juice up an EV. The fastest ones will get you to around 80% capacity in about half an hour, and even the slower DCFC stations will charge up in about an hour. Regular DCFC stations deliver between 43-50kW of power, Tesla's Supercharger stations can pump out up to 150kW, and the fastest rapid charging stations as of this writing can put out [a whopping 350kW](https://www.caranddriver.com/reviews/a30894056/porsche-taycan-fast-charging-tesla-model-s/). Keep in mind that not all EVs can use the very fastest DCFC stations --- they may not have [the proper plug](https://data-safeguard.techidaily.com/1721202660702-stellar-file-eraser-5-windows-standard-en-setting-scheduler-for/) or the necessary max charge rate to take advantage of them.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Battery Status and Size
 
  How much power an electric car's battery has when plugged in to charge also affects charge time. A battery at 45% charge will take less time to top off than one at 20%, the same as any other rechargeable electronic device. It's a good idea to keep an EV's battery between 20-80% of capacity to [prolong its life and peak operating condition](https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-reno-11f-5g-by-fonelab-android-recover-pictures/). To keep the battery in that range and cut down charge time, many EV drivers plug in throughout the day while they're at work, getting lunch, or anywhere else they'll be for a while that has [access to a charging station](https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/). This keeps the battery "topped up," and is known as top-up charging.
@@ -81,10 +75,16 @@ Related: [How Long Do Electric Car Batteries Actually Last?](https://win-howtos.
  The size of an electric car's [battery pack](https://win-howtos.techidaily.com/bluetooth-connection-issues-how-to-restore-your-mouses-functionality-on-windows-pcs/), measured in kilowatt-hours (kWh) is important to consider. The battery size affects how much power it can hold, which determines the car's range. A car with a nearly depleted 100kWh battery pack, for example, would take about ten hours to charge at a 10kW charging station. A 50kWh battery would take half that time using the same power source because its capacity is smaller. Put another way, it's much easier to fill a cup with water than it is to fill a pool using the same garden hose.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Weather
@@ -92,10 +92,10 @@ Related: [How Long Do Electric Car Batteries Actually Last?](https://win-howtos.
 [Extreme weather will affect charging time](https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-x5-pro-drfone-by-drfone-virtual-android/) and charge capacity for electric cars. Extreme cold, in particular, can cause the liquid element in a lithium-ion battery to become viscous and [slow the chemical reactions](https://www.recurrentauto.com/research/cold-weather-winter-ev-charging-lessons-tested) necessary to produce electricity. That also makes it take longer to get a full charge. Many EVs come with a battery heating and cooling system to help mitigate the effects of inclement weather on charging time, and it's recommended that people use these systems to precondition the battery before connecting to a charging station.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  No Flat Metric Yet
@@ -121,16 +121,22 @@ Related: [How Does Cold Weather Affect Electric Car Battery Life?](https://pokem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-clickable-content-climber-software/"><u>[New] Clickable Content Climber Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-external-light-for-cozy-interior-spaces/"><u>[New] Harnessing External Light for Cozy Interior Spaces</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-obs-studio-vs-fraps-performance-showdown/"><u>[New] OBS Studio vs Fraps Performance Showdown</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram/"><u>[New] Step-by-Step Strategies for Posting & Uploading GIFs on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-your-videos-shape-with-aspect-ratio/"><u>2024 Approved Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-scrutiny-uncovering-the-dji-inspire-1-features/"><u>2024 Approved Full Scrutiny Uncovering the DJI Inspire 1 Features</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/exploring-the-evolution-of-media-features-in-windows-what-replaces-wmc-for-current-versions/"><u>Exploring the Evolution of Media Features in Windows: What Replaces WMC for Current Versions?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-edgeplus-2023-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Edge+ (2023) Safely | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/immediate-action-required-thwarting-your-social-media-hijacker/"><u>Immediate Action Required: Thwarting Your Social Media Hijacker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gift-wrapping-gurus-top-10-websites-for-handcrafted-presents/"><u>In 2024, Gift Wrapping Gurus Top 10 Websites for Handcrafted Presents</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hardware-hurdles-whats-necessary-for-big-sur/"><u>In 2024, Hardware Hurdles What's Necessary for Big Sur?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-android-developers-insider-take-scouting-the-leading-fb-video-extractors/"><u>[New] 2024 Approved Android Developer's Insider Take Scouting the Leading FB Video Extractors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-efficiently-add-your-own-look-to-youtube-shorts-via-simple-steps/"><u>[New] 2024 Approved Efficiently Add Your Own Look to YouTube Shorts via Simple Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-a-guide-for-building-cool-metaverse-content/"><u>[New] From Novice to Pro A Guide for Building Cool Metaverse Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-virtual-venue-video-capturer/"><u>[Updated] 2024 Approved Virtual Venue Video Capturer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-formulating-flashy-podcast-announcements/"><u>[Updated] Formulating Flashy Podcast Announcements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-fix-no-video-on-sony-a6400-camera/"><u>[Updated] How to Fix No Video On Sony A6400 Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-pick-a-perfect-virtual-reality-device-evaluating-portability-mobile-versus-connected-experience/"><u>[Updated] How to Pick a Perfect Virtual Reality Device Evaluating Portability (Mobile) Versus Connected Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-independent-evaluation-the-3dr-solo-experience/"><u>[Updated] Independent Evaluation The '3DR' Solo Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-financial-investment-for-youtube-ads-success/"><u>2024 Approved Financial Investment for Youtube Ads Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/android-tutorial-reversed-video-display-for-2024/"><u>Android Tutorial Reversed Video Display for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-updating-your-realtek-hardware-with-windows-10-compatible-drivers/"><u>Guide to Updating Your Realtek Hardware with Windows 10 Compatible Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminate-photos-10-premium-luts-revealed-for-2024/"><u>Illuminate Photos 10 Premium LUTs Revealed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-yt-music-streams-into-videos/"><u>In 2024, Incorporating YT Music Streams Into Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/live-viewers-choice-obs-or-shadowtoolkit-for-2024/"><u>Live Viewers' Choice OBS or ShadowToolkit for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-components-a-deep-dive-into-hardware-by-tom/"><u>Mastering Components: A Deep Dive Into Hardware by Tom</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-sizzling-social-feast-10-viral-food-trends-for-2024/"><u>The Sizzling Social Feast 10 Viral Food Trends for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transferring-virtual-machines-between-two-vcenter-servers-three-effective-techniques/"><u>Transferring Virtual Machines Between Two vCenter Servers: Three Effective Techniques</u></a></li>
 </ul></div>
 

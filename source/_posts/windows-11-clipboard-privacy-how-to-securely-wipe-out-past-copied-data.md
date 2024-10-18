@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data"
-date: 2024-10-05T03:30:12.985Z
-updated: 2024-10-11T21:20:46.082Z
+date: 2024-10-14T20:03:21.068Z
+updated: 2024-10-17T18:02:25.448Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 * [Another Way to Clear All Clipboard Data](https://extra-skills.techidaily.com/2024-approved-navigating-through-gopro-models-and-specifications/)
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Clipboard history in Windows 10 stores the 25 most recent items you've copied, including text, HTML, and images.
@@ -33,15 +26,22 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
  If you have Clipboard history enabled in Windows 10, the feature keeps a record of items you have recently copied to the Clipboard while using copy and paste. Here's how to clear your Clipboard history—or disable it if you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Gets Stored in Clipboard History?
 
  Clipboard history, first introduced in Windows 10's [October 2018 Update](https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-video-editing-techniques/), stores a list of the 25 most recent items that you've copied to the Clipboard. These items can include text, HTML, and images smaller than 4 MB in size. Unless an item is pinned to the Clipboard, the Clipboard history list gets erased every time you restart your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Clear Clipboard History in Windows 10
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
@@ -76,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Another Way to Clear All Clipboard Data
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
  You can also clear your clipboard data in Windows Settings. Navigate to Settings > System > Clipboard and locate the "Clear Clipboard Data" section. Click on the "Clear" button, and the clipboard will be erased.
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
@@ -97,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
  In Windows Settings, click on "System."
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
@@ -130,24 +130,19 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-first-steps-for-joining-online-video-chats-google-meet/"><u>[New] First Steps for Joining Online Video Chats (Google Meet)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/1717982345126-new-how-to-zoom-in-on-kinemaster/"><u>[New] How to Zoom in on Kinemaster?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-diminution-strategies-for-fl-studio-enthusiasts/"><u>[New] Incremental Diminution Strategies for FL Studio Enthusiasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-11-best-free-youtube-name-generators-you-should-know/"><u>[Updated] 2024 Approved 11 Best Free YouTube Name Generators You Should Know</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-discover-the-top-10-efficiency-boosters-for-fcp/"><u>[Updated] 2024 Approved Discover the Top 10 Efficiency Boosters for FCP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-faithful-chimes-how-to-personalize-them/"><u>[Updated] Faithful Chimes - How to Personalize Them</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-shoot-vertical-panorama-photos-with-your-mobile-phone/"><u>[Updated] How to Shoot Vertical Panorama Photos with Your Mobile Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-eyes-in-the-sky-full-review-of-djis-phantom-4-pro/"><u>2024 Approved Eyes in the Sky Full Review of DJI's Phantom 4 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-craft-an-engaging-solo-auditory-adventure/"><u>2024 Approved How to Craft an Engaging Solo Auditory Adventure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporate-mp3s-into-presentation-decks/"><u>2024 Approved Incorporate MP3s Into Presentation Decks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quintessential-vr-enhancements-for-players/"><u>2024 Approved Quintessential VR Enhancements for Players</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/diverse-dialogue-languages-in-the-belgian-territory/"><u>Diverse Dialogue: Languages in the Belgian Territory</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gaming-galore-top-10-virtual-reality-for-phones-for-2024/"><u>Gaming Galore Top 10 Virtual Reality for Phones for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-perfect-phone-shot-blur/"><u>In 2024, Find the Perfect Phone Shot Blur</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-v-purse-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor V Purse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-transfer-playlists-between-music-services/"><u>In 2024, How to Transfer Playlists Between Music Services</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-screen-saga-a-thousand-stories-one-channel-at-a-time/"><u>In 2024, Screen Saga A Thousand Stories, One Channel at a Time</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unblocking-device-unsupported-on-os2/"><u>Unblocking 'Device Unsupported' On OS/2</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-players-guide-best-of-terraria-mods/"><u>[New] 2024 Approved Ultimate Player's Guide Best of Terraria Mods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-pro-3-the-latest-in-action-cameras-from-ion/"><u>[New] Exploring the Pro 3 - The Latest in Action Cameras From ION</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-z-axis-in-your-text-art/"><u>[New] Finding the Z-Axis in Your Text Art</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-in-depth-look-top-6-screen-recording-software-reviewed/"><u>[New] In 2024, In-Depth Look Top 6 Screen Recording Software Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-gaming-top-5-psvr-releases-on-the-horizon/"><u>[Updated] Future Gaming Top 5 PSVR Releases on the Horizon</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-how-to-meet-twitters-video-standards-aspect-ratio-matters-for-2024/"><u>[Updated] How to Meet Twitter's Video Standards Aspect Ratio Matters for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-keep-it-lighthearted-a-straightforward-guide-to-posting-gifs-on-instagram/"><u>[Updated] Keep It Lighthearted A Straightforward Guide to Posting GIFs on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-ventures-a-guide-to-social-video-growth/"><u>[Updated] Visual Ventures A Guide to Social Video Growth</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-insights-streamlined-iphone-podcast-downloads/"><u>2024 Approved Comprehensive Insights Streamlined iPhone Podcast Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video-for-2024/"><u>Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-illumination-to-inky-tones-pro-fades/"><u>In 2024, From Illumination To Inky Tones Pro Fades</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-and-create-ranked-list-of-best-drawing-apps-for-android-users/"><u>In 2024, Innovate and Create Ranked List of Best Drawing Apps for Android Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-graphics-error-d3d-initialization-flaw-in-grand-theft-auto-v/"><u>Solving the Graphics Error D3D Initialization Flaw in Grand Theft Auto V</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-components-of-podcast-scripting-guide-plus-free-examples/"><u>The Essential Components of Podcast Scripting (Guide + Free Examples)</u></a></li>
 </ul></div>
 

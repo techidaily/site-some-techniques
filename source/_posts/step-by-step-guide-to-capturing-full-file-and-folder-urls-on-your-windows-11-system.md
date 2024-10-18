@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2024-10-09T16:41:46.066Z
-updated: 2024-10-11T23:47:33.141Z
+date: 2024-10-11T20:12:21.150Z
+updated: 2024-10-17T20:18:05.632Z
 tags:
   - deals
 categories:
@@ -19,10 +19,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
 Hannah Stryker / How-To Geek  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
     
  To copy a file or folder's path, open File Explorer, find the file or folder, right-click it, and select "Copy as Path."
@@ -39,16 +53,16 @@ Hannah Stryker / How-To Geek
 
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
  Windows has copied the full absolute path to your selected item(s).
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using a Keyboard Shortcut
 
@@ -64,13 +78,6 @@ Hannah Stryker / How-To Geek
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  From a File Explorer Toolbar Option
 
  Windows 11’s File Explorer utility has a button on its toolbar to let you copy your file or folder’s path. To use it, open File Explorer, and locate your file or folder and highlight the folder or file.
@@ -82,10 +89,10 @@ Hannah Stryker / How-To Geek
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s it.
@@ -100,13 +107,6 @@ Hannah Stryker / How-To Geek
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the open window, right-click the app again and select "Open File Location."
 
  Your app is now highlighted. Right-click the app and select "Copy as Path."
@@ -114,10 +114,10 @@ Hannah Stryker / How-To Geek
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
@@ -147,19 +147,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-grateful-goodbyes-affordable-premium-video-endings/"><u>[New] Grateful Goodbyes Affordable, Premium Video Endings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-prime-interactive-camera-spotlights/"><u>[New] In 2024, Prime Interactive Camera Spotlights</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-techniques-for-screen-casts-ezvide-edition/"><u>[Updated] 2024 Approved Essential Techniques for Screen Casts - EZvide Edition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-guide-choosing-powerful-notebooks-for-filmmakers/"><u>[Updated] 2024 Approved Ultimate Guide Choosing Powerful Notebooks for Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>[Updated] Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fiscal-flyers-top-5-low-cost-aerial-vehicles/"><u>[Updated] Fiscal Flyers Top 5 Low-Cost Aerial Vehicles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-5-ways-to-record-streaming-audio-online/"><u>[Updated] In 2024, 5 Ways to Record Streaming Audio Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imovies-beat-based-filmmaking/"><u>2024 Approved IMovie's Beat-Based Filmmaking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-intensified-illumination-for-advanced-hdr-video/"><u>In 2024, Exploring Intensified Illumination for Advanced HDR Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-google-ar-stickers-innovation-and-comparison-to-other-offerings/"><u>In 2024, Google AR Stickers Innovation and Comparison to Other Offerings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-your-own-emoji-in-2-ways-step-by-step-guide/"><u>New How to Make Your Own Emoji in 2 Ways Step-By Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamlessly-integrating-google-duo-into-your-gmail-experience/"><u>Seamlessly Integrating Google Duo Into Your Gmail Experience</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/speed-up-your-storytelling-time-lapse-video-creation-in-final-cut-pro-for-2024/"><u>Speed Up Your Storytelling Time Lapse Video Creation in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-activities-for-the-modern-podcaster/"><u>[New] Innovative Activities for the Modern Podcaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-sites-for-digital-type-creation/"><u>[Updated] Foremost Sites for Digital Type Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garmins-ultra-30-camera-unveiled-a-comprehensive-guide/"><u>[Updated] Garmin's Ultra 30 Camera Unveiled A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-income-journey-on-youtube-start-here-with-8-tips/"><u>[Updated] In 2024, Income Journey on YouTube - Start Here with 8 Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-round-the-clock-insight-detailed-look-at-google-podcast/"><u>[Updated] Round-the-Clock Insight Detailed Look at Google Podcast</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-decoding-the-secrets-to-efficient-cd-ripping-via-wmp/"><u>2024 Approved Decoding the Secrets to Efficient Cd Ripping via WMP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-insider-written-by-an-experienced-video-editor/"><u>2024 Approved Exclusive Insider' Written by an Experienced Video Editor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>2024 Approved ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-thunderbolt-universal-dock-g2-support-120w-and-230w-adapters/"><u>Download HP Thunderbolt Universal Dock G2 Support: 120W and 230W Adapters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-showdown-sj6-versus-yi-4k-innovator-for-2024/"><u>High Definition Showdown SJ6 Versus Yi 4K Innovator for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>In 2024, FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-karma-drone-review/"><u>In 2024, GoPro Karma Drone Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-the-rings-rhythm-a-clash-with-streamers/"><u>In 2024, In the Ring's Rhythm A Clash with Streamers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y28-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y28 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/two-cost-free-methods-for-transferring-your-windows-10-files-onto-a-usb-stick/"><u>Two Cost-Free Methods for Transferring Your Windows 10 Files Onto a USB Stick</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726225141928-movavi/"><u>스타일리티 업그림에 깊이를 더하는 Movavi 라인 클로저: 사진 자르기 도구 조합</u></a></li>
 </ul></div>
 

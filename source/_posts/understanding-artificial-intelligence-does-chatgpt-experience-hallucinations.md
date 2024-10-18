@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?"
-date: 2024-09-29T18:58:44.448Z
-updated: 2024-10-05T22:22:57.999Z
+date: 2024-10-15T02:30:08.681Z
+updated: 2024-10-18T01:45:19.806Z
 tags:
   - cutting-edge
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
  While faulty prompts can give way to AI hallucinations, things also go a little deeper than this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  The Technical Side of AI Hallucinations
 
  Your typical AI chatbot functions using artificial neural networks. While these neural networks are nowhere near as advanced as those in the human brain, they're still fairly complex.
@@ -67,15 +60,22 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
  Chatbots like ChatGPT, Google Bard, and Claude can tell you if they've detected that a given prompt doesn't make sense or needs refining. But the detection of faulty prompts isn't 100 percent (as we'll discuss further later), and it's the existing margins of error that give way to hallucinations.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which AI Chatbots Hallucinate?
 
 ![The ChatGPT website open on a phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52927154347_a9c038a466_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -86,6 +86,13 @@ Jason Montoya / How-To Geek
  The [NIH study concerning Google Bard](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10492900/) was concerned with the chatbot's ability to interpret and provide healthcare data. It was also found here that hallucinatory responses were being given. In one instance, Bard misinterpreted an abbreviation within the prompt as something else, and therefore provided a useless answer, along with fabricated citations.
 
  The creator of Claude, Anthropic, has publicly stated that its chatbot can hallucinate. In an [Anthropic notice](https://docs.anthropic.com/claude/docs/claude-is-hallucinating), titled "Claude is hallucinating", it was stated that, despite Anthropic's efforts to minimize occurrences of hallucinations, they still happen. Specifically, Anthropic stated that the issue of hallucinations in Claude's responses "is not fully solved yet."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Observing AI Hallucinations
 
@@ -99,18 +106,18 @@ Jason Montoya / How-To Geek
 
 ![Screenshot of Claude AI bot's response to problem solving prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/claude-answer-problem.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this case, Claude missed both height inconsistencies, but still tried to solve the problem. It also provided nonsensical sentences, such as "He jumps off the building, so will fall 200 feet total (100 foot building height + 100 feet to ground).
 
  The [Google Bard chatbot](https://video-screen-grab.techidaily.com/new-master-the-art-of-gameye-and-webcam-recordings/) approached the same problem with a more mathematical step-by-step approach, but still failed to notice the contradictions in the prompt. Though the mathematical process was sound, the chatbot still provided a hallucinatory response.
 
 ![Screenshot of Google Bard's response to a nonsensical prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bard-answer-ai.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this instance, all three of the popular AI chatbots tested failed, either partially or entirely, to spot the errors in the prompt, giving way to hallucinatory responses.
 
@@ -140,13 +147,6 @@ Jason Montoya / How-To Geek
 
  If you're very worried about AI hallucination, you may want to steer clear of AI chatbots for now, as hallucination is evidently still a prominent issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Be Wary of AI Hallucination
 
  Today's AI chatbots are undoubtedly impressive, but there's still a long way to go before they provide accurate information 100 percent of the time. It's best to be aware of AI hallucination works and what it can result in if you want to steer clear of inaccurate or falsified information when using AI chatbots.
@@ -166,16 +166,18 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-experts-picks-the-best-10-photography-lenses/"><u>[New] Expert's Picks The Best 10 Photography Lenses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-experiences-the-metaverse-explored-through-6-models/"><u>[New] Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-fast-forward-on-vimeo-for-2024/"><u>[New] Mastering Fast-Forward on Vimeo for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-best-underwater-cameras-for-deep-blue-explorations/"><u>[New] Unveiling Best Underwater Cameras for Deep Blue Explorations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-lut-sets-unlocked-dji-mini-air-2-in-the-spotlight/"><u>[Updated] Free LUT Sets Unlocked - DJI Mini, Air 2 in the Spotlight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s/"><u>2024 Approved How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridge-the-gap-between-xbox-and-steam-via-glossi/"><u>Bridge the Gap Between Xbox and Steam via GlosSI</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-magic-5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic 5 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-easy-tips-to-create-a-funny-meme/"><u>In 2024, Easy Tips to Create a Funny Meme</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-driver-failed-to-load-issue-with-proper-user-settings/"><u>Resolving the 'Driver Failed to Load' Issue with Proper User Settings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-v29e-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo V29e</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-platforms-linking-insta-and-tiktok/"><u>[New] Harmonizing Platforms Linking Insta & TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-craft-an-engaging-solo-auditory-adventure/"><u>[New] How to Craft an Engaging Solo Auditory Adventure</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nleash-creativity-exclusive-free-youtube-banner-templates/"><u>[New] Unleash Creativity - Exclusive Free YouTube Banner Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-cutting-edge-editing-with-windows-xp/"><u>[Updated] Experience Cutting-Edge Editing with Windows XP</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-calculating-youtube-profits-instantly/"><u>[Updated] In 2024, Calculating YouTube Profits Instantly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>[Updated] The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-itel-p40plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Itel P40+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extended-review-for-uncomplicated-hdr-techniques-for-2024/"><u>Extended Review for Uncomplicated HDR Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-dynamic-range-expert-hdr-creation-in-adobe-for-2024/"><u>Harnessing Dynamic Range Expert HDR Creation in Adobe for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-realme-11-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Realme 11 5G</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/introducing-the-latest-milestone-abbyy-opens-a-state-of-the-art-innovation-center-for-smart-automation-in-serbia/"><u>Introducing the Latest Milestone: ABBYY Opens a State-of-the-Art Innovation Center for Smart Automation in Serbia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-mic-issues-resolved-a-step-by-step-fixing-guide/"><u>Logitech G933 Mic Issues Resolved - A Step-by-Step Fixing Guide</u></a></li>
 </ul></div>
 

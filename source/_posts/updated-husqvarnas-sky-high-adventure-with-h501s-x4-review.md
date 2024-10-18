@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Husqvarna's Sky-High Adventure with H501S X4 Review\""
-date: 2024-08-22T06:22:59.122Z
-updated: 2024-08-23T06:22:59.122Z
+date: 2024-10-13T22:24:13.460Z
+updated: 2024-10-17T21:05:11.466Z
 tags: 
   - screen-recording
   - ai video
@@ -108,17 +108,38 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
@@ -128,13 +149,18 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,6 +168,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-groundbreaking-webinar-name-builder/"><u>[New] Groundbreaking Webinar Name Builder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-motion-evaluation-2023/"><u>[New] In-Depth Motion Evaluation 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-crafting-memes-for-maximum-shareability/"><u>[Updated] Crafting Memes for Maximum Shareability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusing-melodies-to-visuals-in-virtual-space/"><u>[Updated] Fusing Melodies to Visuals in Virtual Space</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pixel-perfect-converter-max-resolution/"><u>[Updated] Pixel Perfect Converter Max Resolution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-scan-and-store-your-old-printed-photos/"><u>2024 Approved How to Scan and Store Your Old Printed Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-update-the-latest-sony-s6500-model-review/"><u>2024 Approved In-Depth Update The Latest Sony S6500 Model Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-edge-approaches-in-spotifys-advertising-realm/"><u>2024 Approved Leading Edge Approaches in Spotify's Advertising Realm</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/adding-audio-descriptions-to-videos-on-youtube-for-2024/"><u>Adding Audio Descriptions to Videos on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grid-gurus-find-the-ultimate-photo-organizing-apps-for-2024/"><u>Grid Gurus Find the Ultimate Photo Organizing Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-much-do-podcasters-earn-on-average-in-2024/"><u>How Much Do Podcasters Earn on Average, In 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-itel-p40plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Itel P40+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-vivo-x90s-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Vivo X90S to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-evolution-of-noctuas-nh-d15-g2-series-advanced-offset-layout-and-improved-acoustic-profile-with-additional-heatpipes/"><u>The Latest Evolution of Noctua's NH-D15 G2 Series - Advanced Offset Layout & Improved Acoustic Profile with Additional Heatpipes</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 11 & 10</u></a></li>
+</ul></div>
+

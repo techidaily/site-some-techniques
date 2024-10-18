@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad Z13 Gen 2 with AMD - The New Era of Ultraportability Unveiled
-date: 2024-10-08T03:26:53.608Z
-updated: 2024-10-11T17:37:34.641Z
+date: 2024-10-16T23:17:31.489Z
+updated: 2024-10-17T16:37:23.611Z
 tags:
   - deals
 categories:
@@ -128,13 +128,6 @@ Expand
 
 ![Rear angled view of the open Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/rear-angled-view-of-the-open-lenovo-z13-gen-2-2jpg_53480774019_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  Made of sturdy recycled aluminum, the ThinkPad Z13 Gen 2 laptop's build looks and feels premium. Although the top lid is slim, it doesn't feel too flimsy. The bottom is weighty enough to feel great while typing or holding the laptop without being too heavy. Those familiar with the [Z13 Gen 1](https://buynow-tips.techidaily.com/nintendo-showdown-a-comparative-analysis-of-switch-lite-and-oled-models/) will notice that the Gen 2 bypassed the vegan leather look and instead offers, if you so choose, a "flax fiber with bronze aluminum" design. Mine was the standard "Arctic Grey" version.
@@ -157,22 +150,21 @@ Close
 
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -182,13 +174,6 @@ Sergio Rodriguez / How-To Geek
  The precision touchpad delivered accuracy anytime I used it, whether I was scrolling, clicking, or tapping. Unlike other touchpads, which sometimes miss light taps, the Z13's never failed to recognize a tap.
 
  The touchscreen was also sensitive enough to provide accurate typing and tapping, whether using the touch keyboard or simply hitting the "save" button in my word processor.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Display and Graphics: A Bright OLED Beauty
 
@@ -209,10 +194,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
@@ -222,6 +207,13 @@ Close
 Sergio Rodriguez / How-To Geek
 
  My model came with the AMD Ryzen 7 Pro 7840U processor, which handled many tasks with ease alongside the 32GB of RAM, but I found that the CPU commonly lacked the speeds I was hoping to find. Starting up the Z13 took longer than other similar ThinkPads and several product downloads took longer than I anticipated. This isn't to say the Z13 was slow by any means, but it wasn't as fast as other Lenovos I've worked with that also had 32GB of memory. For instance, the Z13 began to lag in speed when I had about 20 browser tabs open (with one playing a movie on Peacock), as well as a few office programs, the Xbox app, and the Microsoft store. I should note that you can upgrade the Z13's memory to 64GB, which would make the speed faster for multitasking purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Gaming Performance: Only Good for a Small Amount of Casual Gaming
 
@@ -243,23 +235,16 @@ Close
 
  The dual microphone system captures the human voice well, and it has noise-canceling features that work well to cut out background noise. In a noisy environment, I was still audible to the people on the other end of the call, and the recordings also came through crystal clear. It does cut out noises at higher volumes, which I discovered in singing tests.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+### 
 
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### 
 
 ### 
 
@@ -267,11 +252,25 @@ Close
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  The battery life for the Z13 Gen 2 is sitting somewhere between average and above average, and it charges relatively fast, too, so if you're on the go, it's not a laptop that will drain so quickly you'll be plugging in every hour, but you will need to charge up at least once per day if you use it longer than three hours at a time. On average, the battery drained 0.38% every minute, or about 22.8% per hour (about 100% drain in two hours and 36 minutes. It charged up quickly, averaging 1.04% battery gain per minute, which equals a 62.4% charge in one hour.
 
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
@@ -284,6 +283,13 @@ Sergio Rodriguez / How-To Geek
  If you're ready to call the compact Z13 your own, you can buy the [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3Dxfx2ONQHnxyPWR734TQFI1AsUkHweI3VQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam) starting at $1,241.40 today.
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z13 Gen 2
 
@@ -308,21 +314,14 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-macos-11-big-sur-upgrade/"><u>[New] Getting Started with macOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-look-up-tables-in-film-grading/"><u>[New] Harnessing the Power of Look-Up Tables in Film Grading</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-navigating-the-hottest-templates-in-igs-vfx-community-for-2024/"><u>[New] Navigating the Hottest Templates in IG's VFX Community for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/eamless-navigation-to-your-individual-playlist-library-on-youtube-for-2024/"><u>[New] Seamless Navigation to Your Individual Playlist Library on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-video-visionaries-subscriber-top-5/"><u>[New] Unveiling Video Visionaries Subscriber Top 5</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>2024 Approved IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-facile-de-fichiers-flv-en-gif-sans-frais-movavi/"><u>Conversion Facile De Fichiers FLV en GIF Sans Frais - Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-choice-peak-business-space-for-2024/"><u>Expert's Choice Peak Business Space for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-capture-win10-ranking-the-best-video-grabbers/"><u>In 2024, Capture Win10 Ranking the Best Video Grabbers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-perfect-match-the-top-10-online-converters-list/"><u>In 2024, Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-idea-ink-the-top-10-iosandroid-image-writing-tools/"><u>In 2024, Idea Ink The Top 10 iOS/Android Image-Writing Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-template-packs-for-effective-business-communications/"><u>In 2024, Innovative Template Packs for Effective Business Communications</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-c12-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia C12 Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-rankings-leading-gopro-case-models/"><u>The Ultimate Rankings Leading GoPro Case Models</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-insigina-drivers-on-windows-fast-and-simple-downloads/"><u>Ultimate Guide to Insigina Drivers on Windows: Fast and Simple Downloads</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-a-detailed-guide-to-making-your-pictures-speak-for-2024/"><u>Updated A Detailed Guide to Making Your Pictures Speak for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-saved-the-day-downloading-youtube-playlists-made-easy/"><u>[Updated] Saved the Day! Downloading YouTube Playlists Made Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-top-10-places-to-find-music-for-podcast-intro/"><u>[Updated] Top 10 Places to Find Music for Podcast Intro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-google-ar-stickers-an-introduction-and-comparisons/"><u>2024 Approved Google AR Stickers An Introduction & Comparisons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harvest-high-quality-pics-the-free-edition-guide/"><u>2024 Approved Harvest High-Quality Pics The Free Edition Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-revolutionaries-discovering-6-icon-and-logo-banks-online/"><u>Design Revolutionaries Discovering 6 Icon & Logo Banks Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c22-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C22 Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus/"><u>In 2024, Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715859963188-in-2024-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>In 2024, Silent Blades & Righteous Honor Your Next Game Adventure Awaits!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-finding-out-which-friends-shared-your-post-on-facebook/"><u>The Ultimate Guide to Finding Out Which Friends Shared Your Post on Facebook</u></a></li>
 </ul></div>
 

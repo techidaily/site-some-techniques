@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-10-09T19:11:07.070Z
-updated: 2024-10-12T02:55:39.278Z
+date: 2024-10-12T01:43:42.756Z
+updated: 2024-10-18T00:09:47.517Z
 tags:
   - desktop
 categories:
@@ -38,6 +38,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
@@ -50,19 +57,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
@@ -72,10 +66,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Keep Your Work and Private Life Separate
@@ -93,10 +87,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If your device is stolen, you should remotely wipe it if it is supported on your [iOS](https://facebook-record-videos.techidaily.com/video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks-for-2024/) or [Android](https://some-techniques.techidaily.com/incor-writes-photo-kinetic-vibrance-for-2024/) device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  If Someone Asks For Something Out Of The Usual, Check In With Them
@@ -115,16 +109,16 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Learn How to use Windows and Your Other Software And Devices
 
@@ -132,16 +126,16 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
 
@@ -164,20 +158,18 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-steps-to-activate-windows-11-hdr-automatically-for-2024/"><u>[New] Steps to Activate Windows 11 HDR Automatically for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>2024 Approved Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-activate-auto-hdr-setting-in-windows-11/"><u>2024 Approved How to Activate Auto HDR Setting in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-guide-to-the-4-leading-applications-for-smooth-and-beautiful-house-painting/"><u>A Guide to the 4 Leading Applications for Smooth and Beautiful House Painting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-insights-into-efficient-lunapic-usage-for-2024/"><u>Expert Insights Into Efficient LunaPic Usage for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-mobile-photography-with-android-lightroom-application-for-2024/"><u>Exploring Mobile Photography with Android Lightroom Application for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/holistic-photo-tale-architect-platform-for-2024/"><u>Holistic Photo Tale Architect Platform for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/image-play-with-altering-tools/"><u>Image Play with Altering Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gold-medal-glory-olympic-speed-skating-short-track-highlights/"><u>In 2024, Gold Medal Glory Olympic Speed Skating Short Track Highlights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz/"><u>In 2024, High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/premier-updates-facebooks-latest-gems-unearthed-for-2024/"><u>Premier Updates Facebook's Latest Gems Unearthed for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transferer-un-fichier-ogg-en-format-avi-sur-internet-sans-cout-avec-convertisseur-movieedit/"><u>Transférer Un Fichier OGG en Format AVI Sur Internet Sans Coût Avec Convertisseur - MovieEdit</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/visionary-blu-ray-systems-for-unparalleled-3d-immersion-for-2024/"><u>Visionary Blu-Ray Systems for Unparalleled 3D Immersion for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>[New] Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-film-capture-on-mac-pc-and-smartphones/"><u>[Updated] Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>[Updated] Unmasking the Giants of Live Broadcast Twitch Vs YouTube</u></a></li>
+<li><a href="https://discover-great.techidaily.com/evaluating-the-apple-iphone-15-how-it-compares-and-conforms-to-modern-smartphone-standards/"><u>Evaluating the Apple iPhone 15: How It Compares and Conforms to Modern Smartphone Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-building-meme-foundations-for-2024/"><u>Expert Tips Building Meme Foundations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-picture-unraveling-the-google-podcast-application-for-2024/"><u>Full Picture Unraveling the Google Podcast Application for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-staking-rituals-player-views-for-2024/"><u>HIGH-STAKING RITUALS Player Views for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>In 2024, Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-motion-evaluation-2023-for-2024/"><u>In-Depth Motion Evaluation 2023 for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x-for-2024/"><u>New Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-rated-pc-window-dvd-to-mkv-converters-of-2024-a-comprehensive-guide/"><u>Top-Rated PC Window DVD to MKV Converters of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncomplicated-system-management-in-w11-via-shortcut-buttons-guide/"><u>Uncomplicated System Management in W11 via Shortcut Buttons Guide</u></a></li>
 </ul></div>
 

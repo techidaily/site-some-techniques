@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2024-10-09T04:21:58.300Z
-updated: 2024-10-11T23:10:31.663Z
+date: 2024-10-16T00:24:29.717Z
+updated: 2024-10-18T00:38:36.340Z
 tags:
   - desktop
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  It’s not uncommon for an application to stop responding on Windows 10\. When it happens, you can force the app to shut down, effectively unfreezing said application. Here’s how to force quit an app on Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Try a Keyboard Shortcut
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  This won't always work—some frozen applications just won't respond.
 
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Force Quit Using Task Manager
 
@@ -58,35 +65,27 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
  The frozen program will now close.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Force Quit an App Using Command Prompt
 
  You can find and force quit tasks from the Command Prompt. [Open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing **cmd** in the Windows search bar, and then selecting the “Command Prompt” app from the search results.
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
@@ -98,6 +97,13 @@ taskkill /im <program>.exe
 taskkill /im notepad.exe
 
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
 
@@ -120,17 +126,16 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-dynamic-oratory-study-insights-part-8/"><u>[New] 2024 Approved Dynamic Oratory Study Insights, Part 8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-influential-vr-development-studios/"><u>[New] Influential VR Development Studios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovation-at-hand-creating-3d-textures-with-photo/"><u>[New] Innovation at Hand Creating 3D Textures with PHOTO</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>[Updated] How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-pioneering-change-a-step-by-step-guide-to-reinventing-your-tiktok-identity/"><u>[Updated] In 2024, Pioneering Change A Step-by-Step Guide to Reinventing Your TikTok Identity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s2vee-plus-specs-launch-date-and-price-forecasts/"><u>All You Need to Know About the Upcoming Samsung Galaxy S2vee Plus: Specs, Launch Date, and Price Forecasts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-swiping-features-are-they-worth-it/"><u>Facebook's Swiping Features: Are They Worth It?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fish-tastic-top-5-action-cameras-for-catch/"><u>In 2024, Fish-Tastic Top 5 Action Cameras for Catch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-monotonous-to-melodic-mastering-personalization-of-androids-audio-alerts/"><u>In 2024, From Monotonous to Melodic Mastering Personalization of Android's Audio Alerts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-lifeline-fixing-broken-game-files-with-ease/"><u>PC Gamers' Lifeline: Fixing Broken Game Files with Ease</u></a></li>
-<li><a href="https://win-blog.techidaily.com/update-fixes-mlb-the-show-21-networking-problems-for-a-smoother-gameplay-experience/"><u>Update Fixes MLB The Show 21 Networking Problems for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-tips-for-seamless-instagram-streaming-using-obs/"><u>[New] Expert Tips for Seamless Instagram Streaming Using OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>[New] Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-voice-with-cloud-services-top-5-online-chromebook-audio-editors/"><u>[New] Transform Voice with Cloud Services Top 5 Online Chromebook Audio Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-viral-videos-to-your-cellphone-crafting-a-unique-ringtones/"><u>2024 Approved From Viral Videos to Your Cellphone - Crafting a Unique Ringtones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-zoom-in-on-kinemaster/"><u>In 2024, How to Zoom in on Kinemaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hybridmix-pro-for-dual-os/"><u>In 2024, HybridMix Pro for Dual OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-review-of-audfreeplus-software-for-2024/"><u>In-Depth Review of AudFreePlus Software for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photographers-choice-compile-of-essential-apps/"><u>Photographers' Choice Compile of Essential Apps</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-11-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 11 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-approach-integrating-typefaces-in-ae-for-2024/"><u>The Artisan's Approach Integrating Typefaces in AE for 2024</u></a></li>
 </ul></div>
 

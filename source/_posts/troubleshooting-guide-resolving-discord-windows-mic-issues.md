@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-10-06T17:11:36.292Z
-updated: 2024-10-12T02:54:52.611Z
+date: 2024-10-12T21:17:50.962Z
+updated: 2024-10-18T02:59:44.774Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Run Discord as an Admin
 
  Discord may be unable to use the microphone because it doesn't have permission to use system resources. This usually happens when you aren’t running the app as an admin. [Launch the app with administrative privileges](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/) to resolve the problem.
@@ -29,7 +36,21 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Yes" in the User Account Control prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
@@ -45,16 +66,16 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Microphone Access' and 'Let Apps Access Your Microphone' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-enable-mic-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Windows 10, navigate to Settings > Privacy > Microphone. On the right pane, select "Change" and turn on the toggle. On the same page, enable both "Allow Apps to Access Your Microphone" and "Allow Desktop Apps to Access Your Microphone" options.
 
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
 
@@ -64,22 +85,15 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
@@ -90,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Reset Discord's Voice Settings
 
  If the issue persists, your last option is to reset Discord’s voice settings. This clears the current mic configuration, possibly resolving the problem.
@@ -104,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and navigate to the User Settings page (the gear icon in the bottom-left). Select "Voice & Video" in the left sidebar, then scroll down in the right pane and choose "Reset Voice Settings."
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
 
@@ -137,22 +137,24 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-years-predictions-rendered-in-infographics/"><u>[New] 2024 Approved The Year's Predictions Rendered in Infographics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-flight-to-film-the-drone-editors-playbook/"><u>[New] From Flight to Film The Drone Editor's Playbook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-expertly-mastering-file-imports-in-the-realm-of-windows-10/"><u>[New] In 2024, Expertly Mastering File Imports in the Realm of Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimal-techniques-recording-console-games-via-pc/"><u>[New] In 2024, Optimal Techniques Recording Console Games via PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-ai-naming-software-for-podcasters/"><u>[Updated] Explore the Best AI Naming Software for Podcasters</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-igtv-techniques-seamlessly-transforming-vlogs-for-maximum-views/"><u>[Updated] IGTV Techniques Seamlessly Transforming Vlogs for Maximum Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ideal-vlogging-gear-the-best-15-cameras-ranked/"><u>[Updated] In 2024, Ideal Vlogging Gear The Best 15 Cameras Ranked</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-perfect-accompaniments-for-your-sj4000-journey/"><u>[Updated] Perfect Accompaniments for Your SJ4000 Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-best-ways-to-get-high-quality-version-of-pictures-for-free/"><u>2024 Approved Best Ways To Get High Quality Version Of Pictures For Free</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-best-gopro-cases-rated-1-10/"><u>2024 Approved Explore Best GoPro Cases Rated #1-10</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/beautifying-videos-for-youtube-viewers/"><u>Beautifying Videos for YouTube Viewers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elite-video-equipment-revolutionizing-podcasts-for-2024/"><u>Elite Video Equipment Revolutionizing Podcasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-breakdown-the-true-price-of-a-podcast-for-2024/"><u>Expert Breakdown The True Price of a Podcast for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-best-face-pixeling-tools-for-privacy-for-2024/"><u>Exploring the Best Face-Pixeling Tools for Privacy for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities-for-2024/"><u>Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-improve-video-quality-in-zoom-meetings-for-2024/"><u>How to Improve Video Quality in Zoom Meetings for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-art-of-iphone-photo-collage-assembly/"><u>[New] Explore the Art of iPhone Photo Collage Assembly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-efficiency-meets-entertainment-discover-top-10-fb-video-extractors-for-android-devices/"><u>[Updated] 2024 Approved Efficiency Meets Entertainment Discover Top 10 FB Video Extractors for Android Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-haste-assessment-of-windows-documents/"><u>[Updated] Haste Assessment of Windows Documents</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-humor-hubbub-top-7-cheeky-content-concepts-for-laughter-lovers/"><u>[Updated] Humor Hubbub Top 7 Cheeky Content Concepts for Laughter Lovers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-design-and-graphics-free-and-affordable-sources/"><u>[Updated] Innovative Design and Graphics Free & Affordable Sources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-power-of-intova-x/"><u>2024 Approved Exploring The Power of Intova X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-improve-real-time-periscope-performance/"><u>2024 Approved Improve Real-Time Periscope Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-investigation-vll-on-app-standards/"><u>2024 Approved Innovative Investigation VLL on App Standards</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-5-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT 5 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/fine-tune-your-igtv-videos-appeal-a-tale-of-titles-and-descriptions/"><u>Fine-Tune Your IGTV Video's Appeal A Tale of Titles & Descriptions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-mindfulness-melodies-for-2024/"><u>Free Mindfulness Melodies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guidelines-for-selecting-an-engaging-movie-trailer-song-for-2024/"><u>Guidelines for Selecting an Engaging Movie Trailer Song for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-build-a-showstopper-iphone-photomosaic-with-ease-and-fun-for-2024/"><u>How to Build a Showstopper iPhone Photomosaic with Ease and Fun for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-7-hd-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 7 HD to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experience-realities-unveiled-vr-tour-essentials/"><u>In 2024, Experience Realities Unveiled VR Tour Essentials</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-f04-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy F04 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unveiling-the-mystery-of-proper-lighting-in-youtube-vids/"><u>In 2024, Unveiling the Mystery of Proper Lighting in YouTube Vids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplifying-video-workflows-with-showmores-top-recording-tool/"><u>Simplifying Video Workflows with ShowMore's Top Recording Tool</u></a></li>
 </ul></div>
 

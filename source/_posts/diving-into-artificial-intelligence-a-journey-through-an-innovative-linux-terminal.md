@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal"
-date: 2024-10-04T18:52:54.089Z
-updated: 2024-10-12T04:25:43.180Z
+date: 2024-10-12T20:16:04.612Z
+updated: 2024-10-17T20:16:40.598Z
 tags:
   - desktop
 categories:
@@ -30,28 +30,28 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  Warp offers tons of customization, AI, productivity, and collaboration features that will fully transform how you use the command line. If you're a developer, system administrator, or an advanced Linux user, Warp is worth giving a shot.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Setting Up Warp for the First Time
 
  First, visit [Warp's](http://www.warp.dev/) official website. You should see a download option based on your system (Linux, in this case). Since I'm on Linux Mint, I will download the [DEB package](https://facebook-video-share.techidaily.com/new-2024-approved-capturing-contentment-a-practical-guide-to-daily-vlogging/). You can check the [download page](https://www.warp.dev/download) for other options, including [AppImages](https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/).
 
 ![Warp terminal home page with download options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/download-the-deb-package-of-warp-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the download is complete, go to the directory where it was downloaded. For me, it's the "\~/Downloads" directory. Open the directory in your terminal using [the cd command](https://audio-shaping.techidaily.com/updated-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios-for-2024/) or by right-clicking on the screen and hitting "Open in Terminal" from the context menu.
 
 ![The Downloads directory being displayed with the context menu open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-download-directory-in-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To install Warp on Linux Mint (and other Debian-based distros) using the DEB package, run this command:
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 sudo apt install warp-terminal_*.deb
 
 ![The Linux terminal showing the process of installing Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/installing-warp-terminal-on-linux.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After installing, open the application from the app drawer or run this command:
 
@@ -79,20 +72,33 @@ warp-terminal
 
 ![Warp Terminal sign up window after launching](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-sign-up-window-after-launching.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open the sign-up page on your browser. You have multiple sign-up options here. I'm going with the regular email version. Enter your email and hit "Continue." You can also use a temporary email if you don't want to use your [real email](https://facebook-video-footage.techidaily.com/updated-in-2024-buy-youtube-subscribers-hundreds-of-subscribers-for-5/).
 
 ![Warp terminal sign up page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-sign-up-page-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll be sent an email. Open that email and click the link to sign in successfully. You should also get a prompt to open a link in the Warp terminal. Click the "Open Link" button.
 
 ![A prompt on the browser to open a link in the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-link-in-the-warp-terminal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll be returned to the Warp terminal window with a thanks message. Now, Warp will ask a few questions about your terminal usage. You can feel free to skip them by pressing the "Remind me later" option. For your convenience, I'll go through the survey and answer the questions.
 
@@ -102,14 +108,14 @@ Close
 
 ![Warp Terminal window opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Looks cool to me. But how will it stand as a Linux terminal? Let's find out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  It's a Powerful Editor
 
@@ -143,6 +149,13 @@ Close
 
 ![An instance of Warp AI command suggestions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-ai-command-suggestions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Warp Drive Is Your Personal Workflow Bank
 
  Warp comes with Warp Drive, a vault for saving your most used commands, workflows, and notebooks. You can access it by clicking the icon in the top left corner of the terminal or hitting Ctrl+Shift+\\.
@@ -155,25 +168,11 @@ Close
 
 ![Warp Terminal workflow about killing a process running on a certain port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-workflow-about-killing-a-process-running-on-a-certain-port.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add as many arguments as needed. Another great thing I found is that you can search for your workflows by name. Again, no need to remember the syntax or even the command names.
 
  Notebooks are interactive blocks of text created in the Markdown format. Notebooks can contain text, code blocks, lists, shell snippets, and more. Think of it as a mix of [Notion](https://extra-approaches.techidaily.com/updated-prime-focus-the-top-10-high-res-shoulder-rigs/) and Jupyter Notebook. You can export your notebooks in Markdown format and also import existing ones into Warp from your system.
 
 ![An example of a Warp notebook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Being a Notion user myself, I really enjoyed this feature. Having a notebook feature built into the terminal where I can keep important documentation and notes means I don't need to go back and forth between various resources.
 
@@ -188,13 +187,20 @@ Close
 ![Creating a team on the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/creating-a-team-on-the-warp-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once created, you can invite others via email or a custom link. Your team members can access workflows and notebooks you share with the team. On the free plan, you can have up to three members, and share up to three notebooks and 10 workflows. Moreover, you can share sessions, command-line controls, and terminal input-output blocks with members.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  There Are Some Catches
 
@@ -227,17 +233,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extended-review-straightforward-implementation-of-hdr/"><u>[New] Extended Review Straightforward Implementation of HDR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-face-editing-battle-is-hero-series-better-than-the-cube/"><u>[New] Face-Editing Battle Is Hero Series Better Than The Cube?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-altitude-escapades-the-husqvarna-h501s-review-explored/"><u>[New] High Altitude Escapades - The Husqvarna H501S Review Explored</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-top-8-budget-friendly-screen-capture-apps-for-android/"><u>[Updated] 2024 Approved Discover Top 8 Budget-Friendly Screen Capture Apps for Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725285222603-2024/"><u>2024 上看优先：全新领先的无偿录制软件列表</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-iphones-power-for-dynamic-range-shots/"><u>2024 Approved Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-complete-playbook-to-propel-your-youtube-gaming-vids-with-hashes/"><u>2024 Approved The Complete Playbook to Propel Your YouTube Gaming Vids with Hashes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flamenco-finch-frolic-for-2024/"><u>Flamenco Finch Frolic for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/navigating-vimeo-tiers-free-plus-and-pro-options/"><u>Navigating Vimeo Tiers Free, Plus, and Pro Options</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/snapshots-of-adventure-mastering-the-craft-of-professional-travel-blogging-for-2024/"><u>Snapshots of Adventure Mastering the Craft of Professional Travel Blogging for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-mini-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focusing-on-the-best-our-countdown-of-camera-lenses-1-10/"><u>[New] Focusing on the Best Our Countdown of Camera Lenses, #1-10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hp-envy-27-leading-edge-4k-monitor-review/"><u>[New] HP Envy 27 Leading Edge 4K Monitor Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-innovative-gadgets-ranked-11-auditory-capture-guide-for-2024/"><u>[Updated] Innovative Gadgets Ranked #11 Auditory Capture Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-to-top-video-recorders-for-2024/"><u>[Updated] Ultimate Guide to Top Video Recorders for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-service-failures-and-how-to-resolve-them-successfully/"><u>Audio Service Failures and How to Resolve Them Successfully</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-vocal-alteration-top-choices-above-all-for-2024/"><u>Excellence in Vocal Alteration Top Choices Above All for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/groundbreaking-films-in-the-vr-world-for-2024/"><u>Groundbreaking Films in the VR World for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y100-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y100 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-15-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 15 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11-update-now-includes-integrated-printer-and-scanner-support/"><u>Windows 11 Update Now Includes Integrated Printer and Scanner Support</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Vacation Planner Showdown: Perplexity Versus ChatGPT - My Experience"
-date: 2024-10-01T18:36:10.621Z
-updated: 2024-10-06T11:14:01.501Z
+date: 2024-10-13T01:23:28.058Z
+updated: 2024-10-17T21:37:47.648Z
 tags:
   - cutting-edge
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 ##  Choosing a Great Location
 
  My mother is planning a grand multi-generational trip to the Great Smoky Mountains in 2025\. So, I have been studying the area like only a tech journalist can. It includes a plethora of outdoor activities in and around the National Park, and tourist attractions in the nearby towns of Pigeon Forge and Gatlinburg. Most notably, the [Dollywood theme park](https://www.dollywood.com/themepark/), [Ripley's Aquarium](https://www.ripleyentertainment.com/brands/aquariums/), and numerous sky lifts and skywalks.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picking a Campground
 
@@ -50,24 +57,24 @@ Prompt: Please suggest 10 family-friendly things to do or see there. Include a f
 
 ## ![A screenshot of the short prompt, and the first part of ChatGPT's response.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptprompt2.png)Itineraries
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Aren't itineraries the most tedious part of vacation planning? It's fun to look at all the unique activities and share favorites with your family. It's good to show older kids activities you know they'll like and watch them get excited about the trip. The hard part is planning what to do each day to mix just the right amount of adventure and relaxation. Even exciting dinner shows can be too much for little kids (and moms!) who have already had a full day. This is the part that both first-timers and experienced travelers would appreciate help with. I admit, I did not think AI was up to the challenge.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Basic Itinerary Challenge
 
  First, I gave both AIs a complex prompt that gave parameters without choosing specific activities. It requested 2 days in Dollywood, 1 rest day, and a few days in the National Park. To my surprise, both AIs nailed the challenge!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  ChatGPT
@@ -83,17 +90,10 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 ![A screenshot of the challenge prompt and GPT's detailed response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptbasicchallenge.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Detailed Itinerary Challenge
@@ -109,10 +109,10 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
  AI chatbots work for travel planning! We are the winners! I'll be using AI chatbots to assist with travel planning in the future, especially to new places. Will I tap Perplexity AI or ChatGPT? If I'm looking for one right answer (perhaps anticipating where my mom would like to stay?) I will at least check Perplexity, but ChatGPT surpassed my expectations on this challenge.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Obligatory Final Word About Internet Safety and AI Limitations
@@ -134,16 +134,19 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-aspect-ratios-for-stunning-video-outputs/"><u>[New] Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infusing-videos-with-apple-harmonies/"><u>[New] Infusing Videos with Apple Harmonies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails-for-2024/"><u>[Updated] Enhancing Video Visibility on YouTube with Imaginative Thumbnails for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders-for-2024/"><u>[Updated] Mastering the Basics A Thorough Guide to Using Mobizen Recorders for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-chuckle-census-latest-stars-and-trends-in-tiktok-laughter/"><u>2024 Approved Chuckle Census Latest Stars and Trends in TikTok Laughter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-study-hero4-black-mechanics/"><u>2024 Approved Comprehensive Study Hero4 Black Mechanics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finns-fiscal-flow-income-insights-from-youtube-icon-for-2024/"><u>Finn's Fiscal Flow Income Insights From YouTube Icon for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flipping-photo-lightness-for-an-alternate-look-for-2024/"><u>Flipping Photo Lightness for an Alternate Look for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-future-in-your-hands-choosing-a-premium-360-camera-today/"><u>In 2024, Future in Your Hands Choosing a Premium 360 Camera Today</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-speaker-drivers-download-for-windows-1178/"><u>Logitech Speaker Drivers Download for Windows 11/7/8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hearthsongs-the-quintessential-playlist-for-engagement/"><u>[New] Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-essential-insights-into-hands-free-interaction/"><u>[New] In 2024, Essential Insights Into Hands-Free Interaction</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-achieve-professional-level-youtube-transcription-without-spending/"><u>[Updated] Achieve Professional-Level YouTube Transcription Without Spending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-network-broadcast-with-vlc/"><u>[Updated] Innovative Approaches to Network Broadcast with VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-potential-of-movie-maker-for-anime/"><u>2024 Approved Exploring the Potential of Movie Maker for Anime</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-virtual-visuals-zooms-step-by-step-filters-guide/"><u>2024 Approved Mastering the Art of Virtual Visuals Zoom's Step-By Step Filters Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-every-pixel-of-pc-gaming-bliss-6-ways-for-2024/"><u>Capture Every Pixel of PC Gaming Bliss (6 Ways) for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-100-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor 100 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-s18e-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S18e in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-screens-making-a-music-video-on-iphone-for-2024/"><u>Harmonizing Screens Making a Music Video on iPhone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-take-portrait-photo-with-old-iphone-x8-plus7-plus/"><u>In 2024, How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-itel-a70-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Itel A70 Phones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
 

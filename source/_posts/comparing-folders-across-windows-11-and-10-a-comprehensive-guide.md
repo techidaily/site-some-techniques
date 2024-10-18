@@ -1,7 +1,7 @@
 ---
 title: Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
-date: 2024-10-08T00:26:42.016Z
-updated: 2024-10-11T21:19:18.817Z
+date: 2024-10-16T16:47:34.917Z
+updated: 2024-10-17T17:23:53.877Z
 tags:
   - deals
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Compare Folders From Properties](https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-youtube-comments-wont-load/)
 * [Compare Folders Using Command Prompt](https://video-capture.techidaily.com/new-in-2024-exacting-speech-recognition-via-googles-precision-tools/)
 * [Compare Folders With WinMerge](https://win-howtos.techidaily.com/how-to-repair-when-your-macs-trackpad-wont-respond/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,18 +40,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Properties' highlighted for a folder in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-folder-properties.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Keep the first folder’s "Properties" window open. Then, find the second folder, right-click it, and select "Properties."
 
  You now have the "Properties" window open for both your folders. Bring these windows side-by-side by [dragging them](https://extra-resources.techidaily.com/mastering-complex-video-effects-and-transitions-in-gopro-studio/), and you can see the differences in the contents of these folders. For example, you can see how many files both folders have, what size these folders are, and so on.
 
 !['Properties' windows for two folders in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-compare-folder-properties.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That gives you a general overview of the differences between your folders.
 
@@ -56,13 +63,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Command Prompt highlighted in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Command Prompt, type the following command. Replace "Folder1" with the path to your first folder and "Folder2" with the path to your second folder. Ensure both folder paths are enclosed in double quotes.
 
  To copy a folder’s full path along with double quotes around the path, hold down the Shift key on your keyboard, right-click your folder, and choose "Copy as Path."
@@ -70,13 +70,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 ![The 'robocopy' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-compare-folders-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll see the differences between your folders.
 
@@ -88,13 +81,6 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 * **NP**: This flag excludes folder timestamps.
 * **NS**: This flag excludes file security information.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Compare Folders With WinMerge
 
  If you want more details about the differences in your folders, Windows doesn't have a built-in tool to help you with that. However, you can use a free third-party app called WinMerge to compare multiple folders.
@@ -105,13 +91,40 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 ![File > Open highlighted in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-folder-winmerge.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the "1st File or Folder" field, select "Browse" and choose the first folder to compare.
 
 !['Browse' highlighted for the '1st File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-add-first-folder-winmerge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the "2nd File or Folder" field, click the "Browse" button and choose the second folder to compare.
 
 !['Browse' highlighted for the '2nd File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-add-second-folder-winmerge.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In both fields, enable the "Read-Only" option. Click the "Folder: Filter" field and type **\*.\*** if it isn’t already there. This ensures the app compares all the files in both the specified folders. Then, at the bottom, click "Compare."
 
@@ -120,13 +133,6 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
  On the following screen, you’ll see the comparison of the specified folders. You’ll see information like identical files in both folders, files missing from one folder, and so on.
 
 ![The comparison of two folders in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-folder-comparison-winmerge.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that's how you know what one folder has that another doesn't. This can be really useful if you're trying to quickly compare different versions of the same folder, like you'd have when you[create a backup](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/).
 
@@ -145,24 +151,15 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-prime-5-hd-webcams-for-seamless-video-conferencing/"><u>[New] 2024 Approved Prime 5 HD Webcams For Seamless Video Conferencing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-virtual-realms-with-top-gadgets-and-peripherals/"><u>[New] Explore Virtual Realms with Top Gadgets and Peripherals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-follower-fliers-best-personal-drone-tech/"><u>[New] Follower Fliers Best Personal Drone Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-gaming-displays-top-5-ps5-edition/"><u>[New] Ideal Gaming Displays Top 5 (PS5 Edition)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-iphone-7-screen-capture-manual/"><u>[New] The Complete iPhone 7 Screen Capture Manual</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-sky-images-leading-sites-listed/"><u>[Updated] High-Quality Sky Images Leading Sites Listed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-your-content-in-depth-guide-to-youtube-video-edits/"><u>[Updated] In 2024, Elevate Your Content In-Depth Guide to YouTube Video Edits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-quality-video-summaries-with-smart-templates/"><u>[Updated] Top-Quality Video Summaries with Smart Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exhaustive-explanation-whats-behind-google-podcast/"><u>2024 Approved Exhaustive Explanation What's Behind Google Podcast?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-optimal-visual-performance-in-4k-titles/"><u>2024 Approved Optimal Visual Performance in 4K Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-power-of-luts-color-grading-made-easy-in-pro-for-2024/"><u>Exploring the Power of LUTs Color Grading Made Easy in Pro for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-latest-intel-hd-graphics-655-drivers-for-windows-11-computers/"><u>Get Latest Intel HD Graphics 655 Drivers for Windows 11 Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir/"><u>In 2024, 9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-hats-review-best-action-cameras-on-two-wheels/"><u>In 2024, Exclusive Hats Review Best Action Cameras on Two Wheels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>In 2024, In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/stepwise-navigation-through-bluescreenview-features/"><u>Stepwise Navigation Through BlueScreenView Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-using-dism-on-windows-11/"><u>The Ultimate Guide to Using DISM on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-netgear-devices-a-july-2024-complete-default-password-resource/"><u>Unlocking Your NETGEAR Devices: A July 2024 Complete Default Password Resource</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/video-gamings-top-10-capture-card-recommendations-for-2024/"><u>Video Gaming's Top 10 Capture Card Recommendations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-high-quality-photos-from-androids/"><u>[New] Harnessing High-Quality Photos From Androids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professionals-picks-the-top-5-drones-to-invest-in/"><u>[New] Professional's Picks The Top 5 Drones to Invest In</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-spectrum-analysis-unpacking-adobes-data-preservation-and-alternatives/"><u>[Updated] Full Spectrum Analysis Unpacking Adobe's Data Preservation and Alternatives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-learn-to-convert-your-vids-into-music-on-instagram-today/"><u>[Updated] In 2024, Learn to Convert Your Vids Into Music on Instagram Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-social-media-presence-top-25-hashtags-for-instagram-mastery/"><u>2024 Approved Elevate Your Social Media Presence Top 25 Hashtags for Instagram Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-14-visual-text-motion-examples/"><u>2024 Approved Exceptional 14 Visual Text Motion Examples</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-free-roku-channels/"><u>Discover the Ultimate List: Free Roku Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-filters-to-fun-factors-maximizing-iphones-gif-capabilities/"><u>In 2024, From Filters to Fun Factors Maximizing iPhone's GIF Capabilities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pixel-perfection-portfolio-best-animation-transformation-tools/"><u>Pixel Perfection Portfolio Best Animation Transformation Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A79 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Using Pipx for Easy Python App Deployment
-date: 2024-10-05T02:04:11.721Z
-updated: 2024-10-12T02:21:13.245Z
+date: 2024-10-11T17:36:12.954Z
+updated: 2024-10-17T17:47:50.205Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Python community recommends using something called a virtual environment—often referred to as venvs—to create isolated folders that include all the required parts of a project to work, but using them when you're not familiar with the process can be very frustrating, especially if you're trying to script things. These are just some of the challenges users might face getting Python apps working on their system.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  pipx to the Rescue
 
  To solve our problems, we can use an application called pipx. This is a user-friendly alternative to pip that's aimed at end-users instead of programmers. It creates the virtual environments for you, installs the dependencies, and makes the programs available system-wide—all without requiring sudo privileges on your system as well. It also manages your installed python apps for you, making it easy to add, upgrade, or remove them as you see fit.
@@ -59,29 +66,9 @@ pipx ensurepath
 
 ![terminal window with a message telling the user that pipx's path has been set but a restart may be required](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx06_ensurepath2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On some distros, like Ubuntu, you may get a message that tells you that you may need to re-login for the path change to take effect. On Rhino Linux, things worked immediately, but on Ubuntu I had to log out and in again.
 
  And that's it, pipx is ready to go! Let's take a look at how to use it with some Python apps.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installing Python CLI Apps
 
@@ -91,6 +78,13 @@ pipx install cowsay
 
 ![terminal window that shows the output of the cowsay command, a cow saying 'Welcome to How-To Geek!'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07_cowsay_command.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use the Python app just as if it was a standard Linux command or app we installed. Under the hood, it's running in its own virtual environment, and any dependencies are separated and kept away from our core operating system.
 
  If you need to run an app just once, and you don't want to worry about installing and uninstalling, pipx has a run mode that handles that for you as well.
@@ -98,6 +92,13 @@ pipx install cowsay
 pipx run speedtest-cli
 
 ![terminal output of the speedtest command showing the bandwidth of the internet connection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx08_run.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also provide arguments for the app, so you can run specific commands. There are some caveats to the formatting, so be sure to check out the [official pipx documentation](https://pipx.pypa.io/stable/docs/#pipx-run).
 
@@ -108,10 +109,10 @@ pipx list
 ![terminal window with the output of the pipx list command which shows only cowsay is installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can see that **speedtest-cli** is not installed, but **cowsay** is still present on our system.
@@ -123,13 +124,6 @@ pipx uninstall cowsay
 ![terminal window showing the pipx uninstall command output, which says it successfully uninstalled the cowsay app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07a_uninstall_cowsay.png) 
 
  Where pipx really helps is in managing more complex applications. As an example, you can easily write [simple bash scripts](https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/) to launch and maintain the calibre-web app to host your own ebook library because you can treat it as just another command. Without pipx, the service files you need to write would be much trickier for someone who doesn't know Python and its deployment practices.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Expand Your App Library With pipx
 
@@ -150,21 +144,22 @@ pipx uninstall cowsay
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-find-the-best-videographer/"><u>[New] How to Find the Best Videographer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-active-screen-capture-pro-does-it-reign-supreme-for-2024/"><u>[Updated] Active Screen Capture Pro Does It Reign Supreme for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-catchy-cadences-in-creative-snaps-and-videos/"><u>[Updated] Catchy Cadences in Creative Snaps and Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-leading-websites-for-text-embellishments/"><u>[Updated] Explore Leading Websites for Text Embellishments</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>[Updated] In 2024, Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>2024 Approved Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-ensure-periscope-videos-are-secured-post-record/"><u>2024 Approved How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-impressive-scrutiny-and-comparable-proposals/"><u>2024 Approved Impressive Scrutiny & Comparable Proposals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-thrifty-tech-finds-best-cameras-on-a-dime/"><u>2024 Approved Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581500113-become-a-polyglot-for-0-thanks-to-black-friday/"><u>Become a Polyglot for $0 Thanks to Black Friday</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-popular-lgbtq-shows-streaming-now-on-netflix-july-update/"><u>Discover Popular LGBTQ Shows Streaming Now on Netflix (July Update)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/extend-your-snapstreak-success-with-these-ideas-for-2024/"><u>Extend Your Snapstreak Success with These Ideas for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-go-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark Go (2023) Data? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fresh-topics-eliciting-engagement-in-audio-formats/"><u>In 2024, Fresh Topics Eliciting Engagement in Audio Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-hooked-on-fast-forward-finesse-in-snapchat-writes/"><u>In 2024, Get Hooked on Fast-Forward Finesse in Snapchat' Writes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>[New] Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-timecode-manipulation-in-macos-srt-files/"><u>[New] Expert Insights Into Timecode Manipulation in macOS SRT Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-listen-to-podcasts-on-your-iphone/"><u>[Updated] How to Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improving-box-pull-back-pleasure/"><u>[Updated] Improving Box Pull-Back Pleasure</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>2024 Approved Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-error-224003-for-video-playback/"><u>Decoding Error 224003 for Video Playback</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-solutions-for-elgato-hd60-driver-problems-get-started-now/"><u>Effortless Solutions for Elgato HD60 Driver Problems - Get Started Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-12-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 12 - 4 Easy Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-figma-mastery-techniques-to-eliminate-disruptive-backdrops/"><u>In 2024, Figma Mastery Techniques to Eliminate Disruptive Backdrops</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focusflexpro-x7-smart-resizing-superior-quality/"><u>In 2024, FocusFlexPro X7 Smart Resizing, Superior Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funny-facades-top-quality-free-meme-files/"><u>In 2024, Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-mini-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 mini With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-motorola-moto-g34-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Moto G34 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/srt-to-sub-how-to-convert-srt-to-sub-with-3-actionable-ways-for-2024/"><u>SRT to SUB How to Convert SRT to SUB with 3 Actionable Ways for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/survival-in-mc-top-house-ideas-and-plans-for-2024/"><u>Survival in MC Top House Ideas & Plans for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-dbpower-600a-18000mah-jump-starters-features-and-benefits/"><u>The Ultimate Guide to the DBPOWER 600A, 18000mAh Jump Starter's Features and Benefits</u></a></li>
 </ul></div>
 

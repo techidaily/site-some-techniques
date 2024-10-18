@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-10-09T22:05:08.677Z
-updated: 2024-10-12T00:05:27.704Z
+date: 2024-10-14T00:41:47.298Z
+updated: 2024-10-17T23:20:21.633Z
 tags:
   - mobile
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -56,10 +56,10 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -87,18 +87,22 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-video-seo-on-youtube-as-a-novice/"><u>[New] 2024 Approved Demystifying Video SEO on YouTube as a Novice</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-improving-zoom-hd-quality-quick-fixes/"><u>[New] Improving Zoom HD Quality Quick Fixes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>[Updated] 2024 Approved Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-framefusion-matrix-the-ultimate-montage-craft/"><u>[Updated] FrameFusion Matrix The Ultimate Montage Craft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorous-haven-gratuitous-meme-makers/"><u>[Updated] Humorous Haven Gratuitous Meme Makers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-leading-action-cameras-front-faced-views-available/"><u>2024 Approved Leading Action Cameras Front-Faced Views Available</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/become-a-social-butterfly-engage-in-fb-live-on-your-roku-box-for-2024/"><u>Become a Social Butterfly Engage in FB Live on Your Roku Box for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-installing-canon-dr-c225-printer-drivers-on-various-windows-versions/"><u>Guide: Installing Canon DR-C225 Printer Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography-for-2024/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10c-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark 10C Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-on-google-podcast-upload/"><u>In 2024, Guide on Google Podcast Upload</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-software-by-stellar-your-mac-based-jpeg-savior/"><u>Phoenix Software by Stellar - Your Mac-Based JPEG Savior</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/44ot44oh44kq44kz44oz44og44oz44oe44gu44gf44kb44gu55cg5ooz55qe44gq44ov44kh44kk44or44k44kk44ox44go5qmf5zmo44ks6kal44gk44gr44kl5pa55rov/"><u>ビデオコンテンツのための理想的なファイルタイプと機器を見つける方法</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-gopro-hero4-vs-drift-ghost-ultimate-performance-showdown/"><u>[New] In 2024, GoPro Hero4 Vs. Drift Ghost - Ultimate Performance Showdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-astrological-flair-crafting-bios-for-each-zodiac-house/"><u>[Updated] Astrological Flair Crafting Bios for Each Zodiac House</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-curated-webcams-for-ultimate-zoom-video-conferencing/"><u>[Updated] Expertly Curated Webcams for Ultimate Zoom Video Conferencing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>[Updated] In 2024, Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-started-with-seamless-sound-transitions/"><u>2024 Approved Getting Started with Seamless Sound Transitions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-realism-in-spark-ar-worlds-via-application-of-luts/"><u>2024 Approved Infusing Realism in Spark AR Worlds via Application of LUTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>2024 Approved Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-is-coming-soon-dispelling-rumors-of-a-cancelled-release/"><u>Assassin's Creed Valhalla Is Coming Soon! Dispelling Rumors of a Cancelled Release</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-sounds-into-powerpoint-narratives/"><u>Combine Sounds Into PowerPoint Narratives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-gratuitement-un-fichier-aac-au-format-mp4-sur-internet-avec-movavi/"><u>Convertissez Gratuitement Un Fichier AAC Au Format MP4 Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-free-intro-templates-for-videos-for-2024/"><u>Exclusive Free Intro Templates for Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-poco-x5-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco X5 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-your-life-with-iphones-top-10-photo-rules-for-2024/"><u>Frame Your Life with iPhone's Top 10 Photo Rules for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zip-to-sub-transforming-compressed-texts-to-srt-format-for-2024/"><u>From Zip to Sub Transforming Compressed Texts to SRT Format for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-timekeepers-top-10-androidios-apps-for-your-big-day-for-2024/"><u>Ideal Timekeepers Top 10 Android/iOS Apps for Your Big Day for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme GT 5 (240W)? | Dr.fone</u></a></li>
 </ul></div>
 

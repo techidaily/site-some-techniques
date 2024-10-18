@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Bring Back Your Preferred Photo Viewer in Win 11"
-date: 2024-10-01T11:06:26.595Z
-updated: 2024-10-06T07:22:24.406Z
+date: 2024-10-10T20:31:27.750Z
+updated: 2024-10-17T23:07:24.967Z
 tags: 
   - screen-recording
   - ai video
@@ -58,16 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -78,23 +72,9 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -110,16 +90,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -127,7 +107,21 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,24 +138,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-blurred-to-clean-picsarts-background-elimination/"><u>[New] From Blurred to Clean Picsart's Background Elimination</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-insights-ultimate-guide-to-understand-ig-data/"><u>[New] Instagram Insights Ultimate Guide to Understand IG Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foundations-in-digital-visual-narratives/"><u>[Updated] Foundations in Digital Visual Narratives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[Updated] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-convert-youtube-to-mp3-safely-top-3-guided-approaches/"><u>[Updated] In 2024, Convert YouTube to MP3 Safely Top 3 Guided Approaches</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-setting-up-video-size-on-youtube-complete-tutorial/"><u>[Updated] Setting Up Video Size on YouTube Complete Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-perfect-pitch-discover-no-cost-voice-alteration-apps/"><u>2024 Approved Finding the Perfect Pitch Discover No-Cost Voice Alteration Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-chipset-selection-for-uhd-rendering/"><u>2024 Approved Ideal Chipset Selection for UHD Rendering</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-improving-frame-rate-in-warped-web-videos/"><u>2024 Approved Improving Frame Rate in Warped Web Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>2024 Approved Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-a15-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy A15 4G without App | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-to-resolving-vrchat-load-failures-for-an-uninterrupted-experience/"><u>Complete Guide to Resolving VRChat Load Failures for an Uninterrupted Experience</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dynamic-hues-the-artists-toolkit-for-change-for-2024/"><u>Dynamic Hues The Artist's Toolkit for Change for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-video-playback-acceleration-for-2024/"><u>Harnessing the Power of Video Playback Acceleration for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-nord-ce-3-lite-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Nord CE 3 Lite 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-play-8t-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor Play 8T Phone Now with These Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-examination-samsung-gear-360-virtual-reality-lens-for-2024/"><u>In-Depth Examination Samsung Gear 360 Virtual Reality Lens for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reviving-deleted-messages-a-step-by-step-guide-to-undoing-emails-in-microsoft-outlook/"><u>Reviving Deleted Messages: A Step-by-Step Guide to Undoing Emails in Microsoft Outlook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-loyal-following-with-respectful-requests/"><u>[New] 2024 Approved Building a Loyal Following with Respectful Requests</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-an-auto-subscribe-url-template/"><u>[New] 2024 Approved Generating an Auto-Subscribe URL Template</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategies-for-creating-a-positive-interview-environment/"><u>[New] Strategies for Creating a Positive Interview Environment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-like-never-before-leading-10-vr-devices/"><u>[Updated] Experience Like Never Before Leading 10 VR Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focused-frames-eliminating-jitterbugs/"><u>[Updated] Focused Frames Eliminating Jitterbugs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>2024 Approved Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>In 2024, IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>In 2024, The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728498920325-4/"><u>インコモン・トラブルシューティング：ゴミ箱削除後、データを取り戻す4方法</u></a></li>
 </ul></div>
 

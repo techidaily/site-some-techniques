@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-10-07T01:55:58.617Z
-updated: 2024-10-11T17:42:10.930Z
+date: 2024-10-15T23:01:39.447Z
+updated: 2024-10-17T21:42:17.803Z
 tags:
   - deals
 categories:
@@ -40,31 +40,35 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-apex-10-virtual-warrior-battles-for-2024/"><u>[New] Apex 10 Virtual Warrior Battles for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>[New] Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screensnapper-pro-the-ultimate-guide-to-capturing-your-world-for-2024/"><u>[New] ScreenSnapper Pro The Ultimate Guide to Capturing Your World for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unlock-your-films-potential-top-11-color-grading-and-correction-methods-for-2024/"><u>[New] Unlock Your Film's Potential Top 11 Color Grading and Correction Methods for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>[Updated] Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>[Updated] Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-skies-simple-snaps-vertical-phone-panoramas/"><u>[Updated] High Skies, Simple Snaps Vertical Phone Panoramas</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-practical-methods-reflecting-video-via-vlc-software-for-2024/"><u>[Updated] Practical Methods Reflecting Video via VLC Software for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-color-grading-with-luts-in-pscc/"><u>[Updated] Unlocking Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-yuva-2-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Yuva 2</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-barriers-with-excellent-job-interview-techniques-for-2024/"><u>Breaking Barriers with Excellent Job Interview Techniques for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-correcting-the-common-runtime-error-code-0xc0000185/"><u>Diagnosing & Correcting the Common Runtime Error (Code 0Xc0000185)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-snapseed-a-simple-guide-for-new-users-for-2024/"><u>Exploring Snapseed A Simple Guide for New Users for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-mobile-image-editing-tools-top-10-overlay-app-list-for-2024/"><u>Free Mobile Image Editing Tools - Top 10 Overlay App List for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c32-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C32 Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hues-and-highlights-editing-techniques-for-impact-for-2024/"><u>Hues & Highlights Editing Techniques for Impact for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-distinctions-of-srgb-and-rgb/"><u>In 2024, Exploring the Distinctions of Srgb and Rgb</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>In 2024, Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-perfect-your-android-experience-with-screen-and-video-tech/"><u>In 2024, Perfect Your Android Experience with Screen & Video Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finest-6-economical-4k-hd-projector-picks/"><u>[New] Finest 6 Economical 4K HD Projector Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglesome-footage-downloader/"><u>[New] Gigglesome Footage Downloader</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[New] In 2024, Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-niche-to-mainstream-amassing-a-million-view-channel/"><u>2024 Approved From Niche to Mainstream Amassing a Million-View Channel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/educator-discount-perks-your-pathway-to-lower-cost-dell-computers/"><u>Educator Discount Perks: Your Pathway to Lower-Cost Dell Computers</u></a></li>
+<li><a href="https://solve-info.techidaily.com/expert-processing-partners-boosting-abbyy-advanced-functionality/"><u>Expert Processing Partners Boosting ABBYY Advanced Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/face-enhancement-integrating-motion-blur-in-photos-for-2024/"><u>Face Enhancement Integrating Motion Blur in Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-grayscale-to-glamour-professional-color-adjustment-for-2024/"><u>From Grayscale to Glamour Professional Color Adjustment for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy XCover 6 Pro Tactical Edition to Another | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos-for-2024/"><u>How to Use Android Phones in Watching VR or 360 Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immediate-access-best-5-convertors-no-download-required-for-2024/"><u>Immediate Access Best 5 Convertors, No Download Required for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-sound-quality-top-6-recommendations-for-streamers/"><u>In 2024, Innovating Sound Quality Top 6 Recommendations for Streamers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-guide-uploading-vimeo-videos-for-2024/"><u>Instagram Guide Uploading Vimeo Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-tech-advice-easy-steps-to-restore-your-samsung-televisions-default-configuration/"><u>Simplified Tech Advice - Easy Steps to Restore Your Samsung Televisions Default Configuration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-strategies-for-controlling-and-evaluating-monthly-data-use/"><u>Smart Strategies for Controlling and Evaluating Monthly Data Use</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-usb-wi-fi-adapters-of-2024/"><u>The Best USB Wi-Fi Adapters of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-compatible-with-windows-10-and-11/"><u>Update Your HP Printer Software: Compatible with Windows 10 and 11</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

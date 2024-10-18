@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-10-05T02:09:44.012Z
-updated: 2024-10-12T02:56:36.809Z
+date: 2024-10-15T00:29:17.767Z
+updated: 2024-10-17T21:29:07.273Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 * [How to Disable SmartScreen on Windows 10](https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-by-drfone-ios/)
 * [Disable SmartScreen on Windows 8](https://ai-video-tools.techidaily.com/updated-maximize-your-online-presence-10-best-free-video-hosting-sites-for-2024/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * SmartScreen provides an extra layer of security and can protect your PC from malicious content.
@@ -38,22 +31,29 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then click on "Reputation-based Protection Settings." 
 
@@ -74,22 +74,22 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
-## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
@@ -114,22 +114,24 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-20-copy-free-pubg-thumbnail-sequences/"><u>[New] Excellent 20 Copy-Free PUBG Thumbnail Sequences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-script-to-screen-mastery-through-vida-writers-guide/"><u>[New] From Script to Screen Mastery Through Vida’ Writers Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-def-camera-the-top-audio-mics-guide/"><u>[New] High-Def Camera The Top Audio Mics Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-stepwise-guide-for-discovering-recent-watch-history-on-fb/"><u>[Updated] 2024 Approved Stepwise Guide for Discovering Recent Watch History on FB</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-become-a-successful-smm-in-10-steps/"><u>[Updated] Become a Successful SMM in 10 Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-improve-gopro-battery-life/"><u>2024 Approved How to Improve GoPro Battery Life</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-online-sessions-with-essential-zoom-transformations/"><u>2024 Approved Revolutionize Online Sessions with Essential Zoom Transformations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-the-secrets-to-youtube-comment-insight/"><u>2024 Approved Unveiling the Secrets to YouTube Comment Insight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-roundup-of-best-game-casting-apps-for-2024/"><u>Expert Roundup of Best Game Casting Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacited-mobile-devices-vr-conversion-path-for-2024/"><u>From Standard to Spectacited Mobile Device's VR Conversion Path for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12-pro-4g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi Note 12 Pro 4G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-vr-movie-might-change-the-world-for-2024/"><u>How VR Movie Might Change the World for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 with iTunes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-worlds-best-live-streaming-sites/"><u>In 2024, In-Depth Look at World's Best Live Streaming Sites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>In 2024, Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/successfully-fixed-access-your-origin-profile-again/"><u>Successfully Fixed: Access Your Origin Profile Again</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhancing-instagram-experience-with-in-story-captions/"><u>[New] 2024 Approved Enhancing Instagram Experience with In-Story Captions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus/"><u>[New] Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-interest-with-your-own-solo-podcast-series/"><u>[New] Ignite Interest with Your Own Solo Podcast Series</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-tranquil-acoustic-settings-on-computers/"><u>[New] Tranquil Acoustic Settings on Computers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-video-threads-on-youtube/"><u>[Updated] 2024 Approved Exploring Video Threads on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-introduction-to-adding-new-fonts-in-ae/"><u>[Updated] 2024 Approved Introduction to Adding New Fonts in AE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-updates-to-sonys-s6500-model/"><u>[Updated] Exploring Updates to Sony's S6500 Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>[Updated] GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>[Updated] Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>2024 Approved Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-galore-top-10-virtual-reality-for-phones/"><u>2024 Approved Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-finest-digital-classrooms-a-ranking-of-educational-websites/"><u>Discover the Finest Digital Classrooms: A Ranking of Educational Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-boost-for-editors-leveraging-story-remix-within-windows-photos-for-2024/"><u>Expertise Boost for Editors Leveraging Story Remix Within Windows Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-green-screen-video-magic-must-know-methods/"><u>In 2024, Green Screen Video Magic Must-Know Methods</u></a></li>
+<li><a href="https://win-info.techidaily.com/m2-ssdwindows-1011os/"><u>M.2 SSDへの効率的なWindows 10/11OS移行ガイド:再インストール無し</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-reno-11-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo Reno 11 Pro 5G Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722179690599-top-4-intelligent-ai-based-virtual-murder-mysteries-become-the-sleuth/"><u>Top 4 Intelligent AI-Based Virtual Murder Mysteries - Become the Sleuth!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-blizzards-battlenet-identifying-server-issues-vs-user-connection-problems/"><u>Troubleshooting Blizzard's Battle.net: Identifying Server Issues vs User Connection Problems</u></a></li>
 </ul></div>
 

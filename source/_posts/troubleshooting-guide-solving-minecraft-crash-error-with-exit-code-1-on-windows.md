@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows"
-date: 2024-10-07T02:29:14.471Z
-updated: 2024-10-11T21:49:20.996Z
+date: 2024-10-16T17:18:20.207Z
+updated: 2024-10-17T20:23:11.841Z
 tags:
   - deals
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
 _Minecraft_ is still one of the most popular games on the planet, but it's far from perfect. Sometimes the game will crash with the "Exit Code 1" error, leaving it in an unplayable state. Fortunately, it's a common issue, and we will show you how to fix it in no time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Correct Mod Version
 
  One of the main reasons you're running into the Exit Code 1 error on _Minecraft_ is because your mod version doesn't match the _Minecraft_ version installed on your computer. All of the mods you're using should be the same as the version of _Minecraft_ you're using.
@@ -46,13 +53,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Mods folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mods-folder-in-the-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the mods folder, go through the names of all the mods and check the version number. If you find a mod with a different version number than the _Minecraft_ version installed on your computer, it's probably the culprit behind the error.
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
@@ -61,16 +61,22 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Search icon on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/search-icon-the-curseforge-website.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose the relevant mod from the result that appears. Switch to the "Files" tab. You'll see different versions of that mod. You need to click on that version which corresponds with the version of _Minecraft_ you're using.
 
 ![Different mod versions on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/different-mod-versions-on-the-curseforge-website.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the "Download" button.
 
@@ -86,13 +92,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  Once you've identified the mod that causes the error, you can delete it from your computer. And if you want, you can also report the issue with that mod on its dedicated page on the CurseForge website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Update Your Graphics Driver
 
  Having the latest version of a graphics driver installed on your computer can solve all sorts of problems. If your computer is running an extremely old version of your graphics driver, you could face different graphics-related issues on your computer, including this one.
@@ -102,10 +101,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Check for Updates option on the AMD Software Adrenaline Edition app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-on-the-amd-software-adrenaline-edition-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your computer has an NVIDIA graphics driver, download and install the [GeForce Experience app](https://www.nvidia.com/en-us/geforce/geforce-experience/) or [the newer NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/). Switch to the "Drivers" tab and click the "Check for Update" button. The program will go online to check for [updates to your NVIDIA graphics driver](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/). If it finds any, you will be given the option to download it.
@@ -113,10 +118,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Check for Updates option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-in-the-geforce-experience-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the "Download" button next to the Game Ready Driver.
@@ -126,13 +137,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  Once the download process is complete, choose the "Express Installation" option and then follow the on-screen instructions to complete the NVIDIA graphics driver installation process.
 
 ![Express Installation option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/express-installation.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have an Intel graphics driver, you can visit the [Intel official website](https://www.intel.com/content/www/us/en/search.html#sort=relevancy&f:@tabfilter=[Downloads]&f:@stm%5F10385%5Fen=[Graphics]) and download the latest update for your graphics driver. The downloaded file will be in an executable format, which you can install like any other Windows application.
 
@@ -155,10 +159,10 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Change the Java Executable File
@@ -173,16 +177,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "More Options." Then, click the "Browse" option.
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
@@ -193,6 +197,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  Click the "Save" button.
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, restart the game and check for the issue again.
 
@@ -211,6 +222,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
 ![Minecraft log in page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/minecraft-log-in-page.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have installed _Minecraft_, you can move the "Saves" folder to the following location:
 
@@ -237,19 +255,24 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-clear-focus-navigating-the-nuances-of-zooming-for-2024/"><u>[New] Clear Focus Navigating the Nuances of Zooming for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-needed-drivers-not-installing-hp-deskjet-d1360-on-windows/"><u>[Update Needed] Drivers Not Installing: HP Deskjet D1360 on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-galaxy-s8s-ultra-hd-experience-unveiled/"><u>[Updated] Galaxy S8's Ultra HD Experience Unveiled</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-seamless-teaching-online-screen-sharing-on-skype-explained-for-2024/"><u>[Updated] Seamless Teaching Online Screen Sharing on Skype Explained for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-iphone-close-up-techniques-for-photo-excellence/"><u>2024 Approved Innovative iPhone Close-Up Techniques for Photo Excellence</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-photo-slideshows-exclusive-mac-app-downloaded-in-seconds/"><u>Effortless Photo Slideshows: Exclusive Mac App Downloaded in SECONDS!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-12-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi 12 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/impart-rotational-luminosity-modification-in-photoshopping-for-2024/"><u>Impart Rotational Luminosity Modification in Photoshopping for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>In 2024, A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-episodes-for-auditory-drama/"><u>In 2024, Exemplary Episodes for Auditory Drama</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-list-prime-business-sky-saver/"><u>In 2024, Expert's List Prime Business Sky Saver</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-methods-to-subtly-soften-audible-output-via-lumafusion-for-2024/"><u>Innovative Methods to Subtly Soften Audible Output via Lumafusion for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/what-is-currently-the-favorite-web-browser-insights-from-zdnet-analytics/"><u>What Is Currently the Favorite Web Browser? - Insights From ZDNet Analytics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-cutting-edge-video-creation-the-ultimate-windows-list-for-2024/"><u>[New] Cutting-Edge Video Creation The Ultimate Windows List for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capture-and-save-memories-webcam-recordings-in-vlc-format/"><u>[New] In 2024, Capture & Save Memories Webcam Recordings in VLC Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>[New] Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-review-gopro-hero4-silver/"><u>[Updated] Extensive Review GoPro HERO4 Silver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extraordinary-top-ranked-vr-game-perks/"><u>2024 Approved Extraordinary Top-Ranked VR Game Perks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-scan-the-essence-of-the-lightroom-app-on-android/"><u>2024 Approved Full Scan The Essence of the Lightroom App on Android</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-configurer-un-image-du-syswin-881-pour-un-stockage-externe/"><u>Comment Configurer Un Image Du Syswin 8/8.1 Pour Un Stockage Externe?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ehensive-guide-to-crafting-engaging-youtube-outros-for-2024/"><u>Comprehensive Guide to Crafting Engaging YouTube Outros for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-making-your-laptops-touchpad-work-again/"><u>DIY Repair Techniques: Making Your Laptop's Touchpad Work Again</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-ai-naming-software-for-podcasters-for-2024/"><u>Explore the Best AI Naming Software for Podcasters for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hubsan-h501s-exploration-the-ultimate-fpv-experience-for-2024/"><u>Hubsan H501S Exploration The Ultimate FPV Experience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-focusing-on-the-small-web-details/"><u>In 2024, Expert Tips Focusing on the Small Web Details</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-favorite-tunes-androids-top-6-music-vids/"><u>In 2024, Find Your Favorite Tunes Android's Top 6 Music Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-expert-crafting-top-tier-reddit-posts/"><u>In 2024, From Novice to Expert Crafting Top-Tier Reddit Posts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y100a-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y100A Is Unlocked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-photo-editing-via-vsco-a-compreeved-guide/"><u>In 2024, In-Depth Photo Editing via VSCO A Compreeved Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-the-art-of-vlog-script-creation-for-2024/"><u>Mastering the Art of Vlog Script Creation for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-errors-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Errors with These Simple Solutions</u></a></li>
 </ul></div>
 

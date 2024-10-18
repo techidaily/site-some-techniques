@@ -1,7 +1,7 @@
 ---
 title: "Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones"
-date: 2024-10-02T20:26:18.044Z
-updated: 2024-10-05T22:55:02.390Z
+date: 2024-10-13T01:12:14.286Z
+updated: 2024-10-18T03:44:55.687Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 * [How to Add Custom Songs on Beat Saber for PC](https://screen-capture.techidaily.com/new-2024-approved-video-anonymization-strategies/)
 
  Beat Saber users are not limited to just official music packs but can add custom songs to the game. Since the process can be complicated, follow our step-by-step guide to add custom songs to Beat Saber for [PC VR and Quest headsets](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Do People Add Custom Songs to Beat Saber?
 
@@ -41,18 +48,18 @@ Nalin Rawat / How-To Geek
 
 ![Sideloading apps to the Quest 2 using Sidequest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/custom-songs-for-beat-saber-on-quest.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Nalin Rawat / How-To Geek
 
  Search for "BMBF" on SideQuest and select "Sideload" to install it on your Quest headset.
 
 ![Download BMBF from Sidequest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/download-bmbf-from-sidequest.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
 
@@ -61,10 +68,10 @@ Nalin Rawat / How-To Geek
 ![BMBF For Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/bmbf-for-quest-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
@@ -81,18 +88,18 @@ Do not press Restore. Click on Close
 
 ![Sync to Beat Saber in BMBF.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/bmbf-sync-to-beat-saber-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nalin Rawat / How-To Geek
 
  Once the game launches, look to your left and select "More Songs." A search menu will appear where you can look for songs you want to listen to. Download these custom songs for Beat Saber and go back to the main menu. From here, go to Solo > Custom Songs and you will be able to access all your downloaded maps.
 
 ![Beat Saber Custom Songs Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/beat-saber-custom-songs.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Nalin rawat / How-To Geek
 
@@ -102,6 +109,19 @@ Nalin rawat / How-To Geek
 
  Adding custom songs for Beat Saber on PC is significantly easier when compared to a Quest headset. Adding songs manually is as simple as downloading a song from a website and placing it in the right folder. However, you can also use a third-party software called BSManager to download custom songs, mods, and even downgrade Beat Saber to an older version.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  How to Manually Add Songs to Beat Saber on PC
 
  Users can download custom songs from websites like [BeatSaver](https://beatsaver.com/)or [BeastSaber](https://bsaber.com/). Download the zip file for the custom song you want to add to Beat Saber. Extract the ZIP file into a folder and rename it with the song's title. Open the Beat Saber folder on your PC and go to Beat Saber\_Data > CustomLevels. Move the custom song folder to CustomLevels. You can now access custom songs under Solo > Custom Songs. This method can also work on the latest version of the app. You won't have to downgrade Beat Saber to an older version to run custom songs.
@@ -110,25 +130,11 @@ Nalin rawat / How-To Geek
 
 Nalin Rawat / How-To Geek 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  How to Use BSManager to Add Songs for Beat Saber on PC
 
  BSManager is an application that lets you download custom songs, mods, and avatars. You can also downgrade Beat Saber to an older version to run particular mods. You can download the latest version of BSManager from their [GitHub page](https://github.com/Zagrios/bs-manager/releases) by selecting a setup EXE file like "BSManager-Setup-1.3.0.exe". Once installed, open the app and choose which version of Beat Saber you want to run. We recommend version 1.29.1 because, as of August 2023, the latest versions don't support all mods. The best part is that the application allows you to keep different versions of the game with a shared library.
 
 ![BSManager Beat Saber Versions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/bsmanager.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
 
@@ -151,18 +157,21 @@ Nalin Rawat / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-entrepreneurship-building-a-recognizable-brand/"><u>[New] In 2024, YouTube Entrepreneurship Building a Recognizable Brand</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-down-catch-more-the-best-url-reducers-for-youtube-for-2024/"><u>[Updated] Cut Down, Catch More The Best URL Reducers for YouTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-perfect-dronescopic-stability-a-gimbal-guide/"><u>[Updated] Finding Perfect Dronescopic Stability A Gimbal Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-standard-definition-to-high-dynamic-range-a-comprehensive-tutorial/"><u>2024 Approved From Standard Definition to High Dynamic Range - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-streaming-content-with-chatgpt/"><u>Choosing Your Streaming Content with ChatGPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/editor-de-videos-profesional-y-facil-de-usar-para-mac-con-movavi/"><u>Editor De Vídeos Profesional Y Fácil De Usar Para Mac Con Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-flat-screens-to-spatial-storytelling-understanding-vr-for-2024/"><u>From Flat Screens to Spatial Storytelling Understanding VR for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-forging-a-future-in-artistic-expression-and-commerce/"><u>In 2024, Forging a Future in Artistic Expression and Commerce</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-concept-to-completion-a-windows-10-video-editors-journey/"><u>In 2024, From Concept to Completion A Windows 10 Video Editor’s Journey</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-key-feature-gone-missing-on-the-new-2020-samsung-galaxy-tab-a/"><u>In-Depth Review: Key Feature Gone Missing on the New 2020 Samsung Galaxy Tab A</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ingenious-tactics-to-elevate-customer-feedback-visual-content-for-2024/"><u>Ingenious Tactics to Elevate Customer Feedback Visual Content for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-rated-microsoft-tools-video-transcoder-for-windows-10-and-11/"><u>Top-Rated Microsoft Tools Video Transcoder for Windows 10 and 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-choice-7-premium-videos-on-mac/"><u>[New] Excellent Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exposing-the-pinnacle-5-digital-title-artists/"><u>[New] Exposing the Pinnacle 5 Digital Title Artists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-ai-based-photo-transformations/"><u>[Updated] Excellence in AI-Based Photo Transformations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files/"><u>[Updated] Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-low-cost-recorders-guide-to-webcasting-wisdom/"><u>[Updated] In 2024, Low-Cost Recorder's Guide to Webcasting Wisdom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-superior-visual-treatment-applying-filters-to-videos/"><u>[Updated] In 2024, Superior Visual Treatment Applying Filters to Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-focus-through-the-use-of-leading-lines-in-iphone-photography/"><u>2024 Approved Illuminate Focus Through the Use of Leading Lines in iPhone Photography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastering-computer-monitor-recording-via-zdsoft/"><u>2024 Approved Mastering Computer Monitor Recording via ZDSoft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-photoshop-pro-with-ai-intelligence/"><u>2024 Approved Ultimate Photoshop Pro with AI Intelligence</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-devices-exhibiting-continuous-sheet-outputs/"><u>Epson Devices Exhibiting Continuous Sheet Outputs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-latest-samsung-m2020-driver-download/"><u>Get Your Hands on the Latest Samsung M2020 Driver Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonic-frames-filming-music-tracks-using-iphones/"><u>In 2024, Harmonic Frames Filming Music Tracks Using iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-blur-pictures-on-iphone-for-free/"><u>In 2024, How to Blur Pictures on iPhone for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategizing-the-open-door-to-market-success/"><u>In 2024, Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photographic-fundamentals-in-5-minutes-with-snapseed/"><u>Photographic Fundamentals in 5 Minutes with Snapseed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-overcoming-the-darkness-a-solution-for-rainbow-six-siege-pc-problems/"><u>Step-by-Step Troubleshooting: Overcoming the Darkness – A Solution for Rainbow Six Siege PC Problems</u></a></li>
 </ul></div>
 

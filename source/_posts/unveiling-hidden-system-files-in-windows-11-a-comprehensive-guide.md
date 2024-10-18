@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2024-10-09T17:40:21.713Z
-updated: 2024-10-12T00:08:14.399Z
+date: 2024-10-15T21:53:34.937Z
+updated: 2024-10-18T02:43:13.660Z
 tags:
   - deals
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 * [How to Show Protected Operating System Files in Windows 11](https://screen-recording.techidaily.com/updated-cost-effective-pc-video-archive-tools/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,34 +48,28 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Show Hidden Files on Windows 11 Using Options
 
  When File Explorer opens, click the ellipses (three dots) button in the toolbar near the top of the window. In the menu that appears, select "Options."
 
 ![Click the three-dot menu icon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-the-three-dot-menu-icon-then-click-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Folder Options" window that opens, click the "View" tab. In the "Advanced Settings" list, locate the "Hidden Files and Folders" option. Using the radio buttons, select "Show hidden files, folders, and drives." Then click "OK" or "Apply" at the bottom of the window.
 
 ![Click the "View" tab, then select "Show Hidden Files and folders."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/go-to-view-tba.png) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hidden files and folders will instantly become visible in File Explorer and on your desktop. When you see them, their icons will have a slightly translucent or faded appearance.
@@ -83,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
@@ -126,24 +120,24 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-therapeutics-and-patient-engagement/"><u>[New] 2024 Approved Digital Therapeutics and Patient Engagement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>[New] Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analyzing-lgs-4k-wuhd-hdr-performance/"><u>[New] In Depth Analyzing LG's 4K WUHD HDR Performance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-screen-selection-dilemma-ultrawide-monitors-versus-uhd-4k/"><u>[New] Screen Selection Dilemma UltraWide Monitors versus UHD 4K</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-snapedit-story-complete-video-editor-features/"><u>[New] SnapEdit Story – Complete Video Editor Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-great-outdoors-choose-between-dji-action-4-gopro-max-360-and-insta360-x3/"><u>[Updated] Exploring the Great Outdoors Choose Between DJi Action 4, GoPro Max 360 & Insta360 X3</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-select-a-premium-360-camera-today/"><u>[Updated] In 2024, How to Select a Premium 360 Camera Today</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>[Updated] Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-chortle-to-text-funniest-tone-websites-guide/"><u>2024 Approved Chortle to Text Funniest Tone Websites Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-monotonous-to-melodic-mastering-personalization-of-androids-audio-alerts/"><u>2024 Approved From Monotonous to Melodic Mastering Personalization of Android's Audio Alerts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>2024 Approved Google's Take on AR Stickers An Overview & Beyond</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-s17e-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo S17e Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-speed-media-manipulation-a-practical-approach-for-2024/"><u>High-Speed Media Manipulation A Practical Approach for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-vr-movie-experiences/"><u>In 2024, Exclusive VR Movie Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>In 2024, Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-download-and-convert-youtube-twittersongs-videos-to-mp3/"><u>In 2024, How to Download and Convert YouTube Twittersongs (Videos) to MP3</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-the-latest-echo-dot-fourth-generation-fresh-design-revealed/"><u>Review of the Latest Echo Dot, Fourth Generation: Fresh Design Revealed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-comprehensive-guide-to-screencasting-techniques-for-2024/"><u>The Comprehensive Guide to Screencasting Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>[New] A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-vlogs-optimizing-title-description-and-tags-for-2024/"><u>[New] Elevate Your Vlogs Optimizing Title, Description & Tags for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-asus-proart-329q-4k-monitor-capabilities/"><u>[New] Exploring the Asus ProArt 329Q 4K Monitor Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-discovering-instagrams-most-followed-ae-presets/"><u>[Updated] 2024 Approved Discovering Instagram's Most Followed AE Presets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-demystifying-the-instagram-video-constraint/"><u>[Updated] Demystifying the Instagram Video Constraint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-strategies-to-create-stellar-podcast-names-plus-a-curated-list-of-50plus-examples/"><u>[Updated] Top Strategies to Create Stellar Podcast Names + A Curated List of 50+ Examples</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-and-beyond-a-deep-dive-into-the-cg318-4k-from-eizo/"><u>2024 Approved Gaming and Beyond A Deep Dive Into the CG318-4K From EIZO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-improve-video-quality-in-zoom-meetings/"><u>2024 Approved How to Improve Video Quality in Zoom Meetings?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implement-shutter-speed-blurring-in-psx/"><u>2024 Approved Implement Shutter Speed Blurring in PSX</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-lut-creation/"><u>2024 Approved Innovative Approaches to LUT Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-creating-standout-instagram-collages/"><u>2024 Approved Innovative Methods for Creating Standout Instagram Collages</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exceptional-value-premium-asmr-microphones-at-low-costs/"><u>Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-haptic-feedback-devices-providers-for-2024/"><u>Foremost Haptic Feedback Devices Providers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freezing-fun-at-the-beijing-olympics-2022-for-2024/"><u>Freezing Fun at the Beijing Olympics 2022 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevating-roi-by-mastering-the-craft-of-fb-animated-advertising/"><u>In 2024, Elevating ROI by Mastering the Craft of FB Animated Advertising</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humor-hacks-simplifying-the-process-of-meme-creation/"><u>In 2024, Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-150-2023-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 150 (2023) Phone Network-Ready</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-p60-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my P60?</u></a></li>
 </ul></div>
 

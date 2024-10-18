@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-10-05T22:09:28.529Z
-updated: 2024-10-12T00:14:37.423Z
+date: 2024-10-16T22:39:03.786Z
+updated: 2024-10-18T03:38:27.864Z
 tags:
   - desktop
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is an SMC, and What Does It Do?
 
  The SMC is a dedicated chip on Intel Macs that manages lots of low-level hardware functions. It enables certain hardware features to work regardless of whether the Mac is powered on. The LED indicator on your charger will change color when you plug it in, even if your Mac is turned off, for example.
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  If you're experiencing problems in any of these areas and other attempts to fix them haven't worked, resetting the SMC is worth trying.
 
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Apple Silicon Mac
 
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -88,10 +88,10 @@ Hannah Stryker / How-To Geek
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -126,20 +126,16 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-filmcrafters-compendium-unpacked-qanda/"><u>[New] FilmCrafters' Compendium Unpacked Q&A</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences/"><u>[New] Game On Essential Samsung Gear VR Experiences</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-videos-directly-on-twitter-via-mobile-devices-only/"><u>[New] In 2024, Share Videos Directly on Twitter via Mobile Devices Only</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>[Updated] Gazing Into Clarity In-Depth on the HP Z32X Monitor</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-pin-a-message-on-discord/"><u>[Updated] In 2024, How to Pin A Message on Discord?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-perfecting-speech-interpretation-using-google-tools-for-2024/"><u>[Updated] Perfecting Speech Interpretation Using Google Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guidelines-to-broaden-youtube-content-area/"><u>2024 Approved Guidelines to Broaden YouTube Content Area</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages/"><u>2024 Approved Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-practices-for-4k-screen-recording-for-2024/"><u>Best Practices for 4K Screen Recording for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/four-k-faceoff-sj6-legend-versus-xiaomis-yi-prototype-for-2024/"><u>Four-K Faceoff SJ6 Legend Versus Xiaomi's Yi Prototype for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-feat-hero5-black-vs-hero4-silver-edition-battle/"><u>In 2024, High-Fidelity Feat Hero5 Black vs Hero4 Silver Edition Battle</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-professional-camera-techniques-for-superior-igtv-videos/"><u>In 2024, Mastering Professional Camera Techniques for Superior IGTV Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-narzo-n53-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Narzo N53 Screen | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-6s-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 6s Plus</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-the-new-evolution-of-sonys-s6500-player/"><u>[New] Examining the New Evolution of Sony's S6500 Player</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-set-best-8-macbook-themes-and-skins/"><u>[New] Ideal Set Best 8 MacBook Themes & Skins</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlined-approach-record-movies-everywhere-you-go/"><u>[Updated] In 2024, Streamlined Approach Record Movies Everywhere You Go</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-editing-away-backgrounds/"><u>2024 Approved Expert Advice on Editing Away Backgrounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-amplified-10-must-know-canva-techniques/"><u>2024 Approved Expertise Amplified 10 Must-Know Canva Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-guide-to-photo-transformation-tools-for-2024/"><u>Expert Guide to Photo Transformation Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-captivating-and-impressive-hdr-portraits-for-2024/"><u>Expert Tips for Captivating and Impressive HDR Portraits for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-the-editorial-maze-answers-for-filmora-users/"><u>In 2024, Navigating the Editorial Maze Answers for Filmora Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/nbafever-grows-as-facebook-twitter-stream-games/"><u>NBAFever Grows as Facebook, Twitter Stream Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-2060-driver-update-for-windows-users-compatible-with-win11-win10-win8-and-win7/"><u>NVIDIA RTX 2060 Driver Update for Windows Users: Compatible with Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-spyro-reignited-collection-a-petite-guardians-grand-adventure/"><u>Unboxing Spyro Reignited Collection - A Petite Guardian's Grand Adventure</u></a></li>
 </ul></div>
 

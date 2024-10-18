@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-10-10T04:00:06.768Z
-updated: 2024-10-12T01:14:33.816Z
+date: 2024-10-14T02:35:25.437Z
+updated: 2024-10-17T18:21:10.234Z
 tags:
   - deals
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -35,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The result is that even the most powerful APUs out there, such as the Z1 Extreme found in the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), have a sizably lower memory bandwidth compared to modern discrete GPUs, even the bottom-of-the-barrel models such as the AMD Radeon RX 6400\. As an example, the maximum memory bandwidth of the ROG Ally is 51.20GB/s, while the RX 6400 has a maximum bandwidth of 128.0GB/s.
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _AMD_
 
@@ -57,10 +64,10 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -72,10 +79,16 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -83,19 +96,6 @@ Intel
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -138,21 +138,18 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flawlessimage-advanced-bg-eraser-app/"><u>[New] FlawlessImage Advanced BG Eraser App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-develop-and-download-your-own-instagram-alerts/"><u>[New] How to Develop & Download Your Own Instagram Alerts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-5-exhilarating-virtual-track-gaming-experiences/"><u>[New] In 2024, Top 5 Exhilarating Virtual Track Gaming Experiences</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-maximize-your-impact-knowledge-of-instagrams-video-time-policy-for-2024/"><u>[New] Maximize Your Impact Knowledge of Instagram's Video Time Policy for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-7-writing-linkedin-summary-tips-you-must-know/"><u>[Updated] 7 Writing LinkedIn Summary Tips You Must Know</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-snapshot-service-azs-app-testing-for-2024/"><u>[Updated] Comprehensive Snapshot Service - AZ's App Testing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-12-video-streaming-solution-online/"><u>[Updated] Immersive 12-Video Streaming Solution Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>2024 Approved How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-app-assessment-vlles-view/"><u>2024 Approved In-Depth App Assessment VLLE's View</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-selection-top-voice-recorders-for-macos/"><u>2024 Approved The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/crafting-visual-magic-the-essentials-of-snapchat-photo-editing-for-2024/"><u>Crafting Visual Magic The Essentials of Snapchat Photo Editing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies-for-2024/"><u>First Flight Journey with Syma X5C Best Start to UAV Hobbies for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focus-on-the-frame-advanced-cropping-tips/"><u>In 2024, Focus on the Frame Advanced Cropping Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/online-facebook-video-to-mp3-converters-how-to-convert-fb-to-mp3/"><u>Online Facebook Video to MP3 Converters | How to Convert FB to MP3?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/transform-your-digital-marketing-strategy-using-cookiebots-innovative-tools/"><u>Transform Your Digital Marketing Strategy Using Cookiebot's Innovative Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-free2x-webcam-recorder-software-review-in-depth/"><u>[New] Free2X Webcam Recorder Software Review in Depth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-ingenuity-funnyflick-studio/"><u>[Updated] Image Ingenuity FunnyFlick Studio</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>[Updated] In 2024, The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>2024 Approved From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>2024 Approved Ideas to Paper Top 8 iPhone Sketching Tools Compared</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rapid-assembly-of-google-image-mosaics/"><u>2024 Approved Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-master-photographer-with-lunapic-for-2024/"><u>From Novice to Master Photographer with LunaPic for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-11-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 11 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-s17-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo S17.</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-c110-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C110 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlight-hubs-choosing-the-right-online-aids/"><u>In 2024, Highlight Hubs Choosing the Right Online Aids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming/"><u>In 2024, Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-10-free-manga-sites-to-read-online/"><u>New 2024 Approved Best 10 Free Manga Sites to Read Online</u></a></li>
 </ul></div>
 

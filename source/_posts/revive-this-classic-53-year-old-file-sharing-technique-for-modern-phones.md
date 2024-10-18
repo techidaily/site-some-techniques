@@ -1,7 +1,7 @@
 ---
 title: Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
-date: 2024-10-05T00:48:37.847Z
-updated: 2024-10-11T21:30:49.994Z
+date: 2024-10-15T22:23:26.554Z
+updated: 2024-10-18T00:42:38.920Z
 tags:
   - desktop
 categories:
@@ -19,16 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,10 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is FTP?
@@ -61,10 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -96,10 +90,10 @@ Close
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
@@ -125,20 +119,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>[New] From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-iconic-story-arcs-in-cinemas-pantheon/"><u>[New] Iconic Story Arcs in Cinema’s Pantheon</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-reaction-gurus-playbook-crafting-unforgettable-videos-in-under-5-minutes-each/"><u>[New] The Reaction Guru's Playbook Crafting Unforgettable Videos in Under 5 Minutes Each</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-5-outstanding-book-tts/"><u>[New] The Ultimate Collection 5 Outstanding Book TTs</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-7-best-tiktok-emojis-and-how-to-discover-tiktok-secret-emojis/"><u>[Updated] 2024 Approved 7 Best TikTok Emojis and How to Discover TikTok Secret Emojis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freedomsongextractors-evolution-in-the-2024-landscape/"><u>[Updated] FreedomSongExtractor's Evolution in the 2024 Landscape</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-range-riffs-and-rhythms-in-free-fire/"><u>2024 Approved Free Range Riffs and Rhythms in Free Fire</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/best-free-tools-for-converting-your-favorite-songs-from-spotify-discover-sidifys-top-alternatives/"><u>Best Free Tools for Converting Your Favorite Songs From Spotify - Discover Sidify's Top Alternatives!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-way-to-repair-your-hard-drive-with-windows-chkdsk-command/"><u>Effective Way to Repair Your Hard Drive with Windows' Chkdsk Command</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-logo-blueprints-to-refine-and-personalize-your-symbol-for-2024/"><u>Free Logo Blueprints to Refine and Personalize Your Symbol for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-worlds-unveiled-delving-into-mr-ar-and-vrs-distinctions-for-2024/"><u>Immersive Worlds Unveiled Delving Into MR, AR, and VR's Distinctions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-tide-gear-surfing-camera-innovations-of-2023/"><u>In 2024, High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-s17-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo S17 to iPod | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/time-travel-photos-on-snapchat-step-by-step-guide-for-2024/"><u>Time-Travel Photos on Snapchat Step by Step Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-fleet-footed-fun-prime-pc-and-mobile-game-picks/"><u>[New] Fleet-Footed Fun Prime PC and Mobile Game Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freezing-fun-at-the-beijing-olympics-2022/"><u>[New] Freezing Fun at the Beijing Olympics 2022</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-text-treatments-elevating-ae-titles/"><u>[New] Innovative Text Treatments Elevating AE Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-spinning-indie-podcast-hits/"><u>[New] The Art of Spinning Indie Podcast Hits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-humor-picture-processor/"><u>[Updated] Best Humor Picture Processor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extended-review-for-uncomplicated-hdr-techniques/"><u>[Updated] Extended Review for Uncomplicated HDR Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-selection-ideal-sierra-dvd-creators/"><u>2024 Approved Expert’s Selection Ideal Sierra DVD Creators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detecting-liquids-on-iphone-chargers-navigating-your-next-steps-techguide/"><u>Detecting Liquids on iPhone Chargers: Navigating Your Next Steps | TechGuide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-first-use-to-expertise-a-comprehensive-fcp-guidebook/"><u>From First Use to Expertise A Comprehensive FCP Guidebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-2-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-auditory-theatre-writing/"><u>In 2024, Excellence in Auditory Theatre Writing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmora-fusion-a-comprehensible-comparative-guide/"><u>In 2024, Filmora Fusion A Comprehensible Comparative Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-performance-drones-sold-here/"><u>In 2024, High-Performance Drones Sold Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-c12-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia C12 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

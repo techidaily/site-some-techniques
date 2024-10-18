@@ -1,7 +1,7 @@
 ---
 title: "Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms"
-date: 2024-10-04T22:18:39.649Z
-updated: 2024-10-11T22:38:48.771Z
+date: 2024-10-11T03:32:05.916Z
+updated: 2024-10-17T20:54:38.069Z
 tags:
   - web
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Spot a Phony Representative
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-17.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Official company accounts on many social media platforms should have some form of verification attached to them (i.e. a yellow/gold checkmark or something similar). If the account responding to your grievance isn’t verified, it’s a bot.
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
@@ -49,32 +56,25 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
 
 ![Fake representative account page using a poorly cropped photo of a NBC news anchor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-07.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
@@ -100,18 +100,20 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-non-professionals-in-pixlr/"><u>[Updated] Expert Tips for Non-Professionals in Pixlr</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-windows-11s-photo-quality-filter-options-and-music-playlists/"><u>[Updated] Immerse in Windows 11'S Photo Quality Filter Options and Music Playlists</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-5-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Magic 5 by Name | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/become-a-9gag-meme-connoisseur-with-these-simple-steps-for-2024/"><u>Become a 9GAG Meme Connoisseur with These Simple Steps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-chatgpt-escape-routes-advisable/"><u>Discovering ChatGPT Escape Routes: Advisable?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 7 without Passcode or Face ID</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance-for-2024/"><u>Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>In 2024, [Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-satire-and-smiles-kapwings-meme-builder/"><u>In 2024, Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion/"><u>In 2024, The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/powerful-applications-to-extract-vimeo-content/"><u>Powerful Applications to Extract Vimeo Content</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora/"><u>Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-leading-psp-ios-game-simulators-our-2023s-choices/"><u>[New] 2024 Approved Leading PSP iOS Game Simulators - Our 2023'S Choices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-ultimate-laptops-your-go-to-machine-for-expert-video-editing/"><u>[New] 2024 Approved Ultimate Laptops Your Go-To Machine for Expert Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fading-sound-tracks-with-logic-pro/"><u>[New] Fading Sound Tracks with Logic Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-easy-way-to-modify-iphone-photo-dimensions/"><u>[New] In 2024, The Easy Way to Modify iPhone Photo Dimensions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reinstallation-steps-to-restore-photo-viewer-in-windows-10/"><u>[New] Reinstallation Steps to Restore Photo Viewer in Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-expert-tips-mixing-visual-filters-and-melodies-in-windows-10-photos/"><u>[Updated] 2024 Approved Expert Tips Mixing Visual Filters & Melodies in Windows 10 Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-maximize-video-conferencing-value-discover-our-top-10-recorder-picks/"><u>[Updated] 2024 Approved Maximize Video Conferencing Value - Discover Our Top 10 Recorder Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essential-youtube-rules-for-content-creators-for-2024/"><u>[Updated] Essential YouTube Rules for Content Creators for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-strategies-for-online-video-photo-effects-implementation/"><u>2024 Approved Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-choices-best-mics-enhancing-4k-video-quality-for-2024/"><u>Expert Choices Best Mics Enhancing 4K Video Quality for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/filmopedia-answer-to-inquiries-for-2024/"><u>FilmoPedia Answer to Inquiries for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-your-perfect-match-with-these-best-5-iphone-pods-for-2024/"><u>Find Your Perfect Match with These Best 5 iPhone Pods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-youtube-to-mpeg-compression-guide/"><u>In 2024, Expert Advice YouTube to MPEG Compression Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-wonders-our-favorites-list/"><u>In 2024, High Definition Wonders Our Favorites List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-the-open-box-phenomenon/"><u>In 2024, Innovating the Open-Box Phenomenon</u></a></li>
 </ul></div>
 

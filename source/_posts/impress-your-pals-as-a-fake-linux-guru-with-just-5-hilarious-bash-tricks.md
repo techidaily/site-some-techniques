@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-10-05T17:08:20.718Z
-updated: 2024-10-11T16:29:50.776Z
+date: 2024-10-10T20:01:11.956Z
+updated: 2024-10-17T17:19:25.211Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,10 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -65,10 +65,10 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -88,10 +88,10 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -115,10 +115,10 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -148,15 +148,21 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-funnyframefarm-digital-jokes-galore/"><u>[New] FunnyFrameFarm Digital Jokes Galore</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-film-creation-tools-go-free-and-green/"><u>2024 Approved Film Creation Tools Go Free and Green</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-footage-to-stunning-visuals-using-luts-in-obs-studio/"><u>2024 Approved From Raw Footage to Stunning Visuals Using LUTs in OBS Studio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-pursuit-of-perfection-a-complete-sj-cam-s6-review/"><u>2024 Approved In Pursuit of Perfection A Complete SJ-CAM S6 Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722146244937-cyber-security-outlook-discover-the-latest-trends-and-future-projections/"><u>Cyber Security Outlook: Discover the Latest Trends and Future Projections!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-m6-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco M6 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-clearer-photos-with-blur-effects-apps/"><u>In 2024, Clearer Photos with Blur Effects Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-cost-calculation-estimating-a-podcasts-price-tag-for-2024/"><u>In-Depth Cost Calculation Estimating a Podcast's Price Tag for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/obile-filmmakers-guide-to-creating-thumbnails-for-youtube-for-2024/"><u>The Mobile Filmmaker's Guide to Creating Thumbnails for YouTube for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-realme-12-pro-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Realme 12 Pro 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-luts-for-precision-controlled-image-editing/"><u>[New] Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs/"><u>[New] Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-access-royalty-free-clip-art-tips/"><u>[New] Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-converting-horizontals-for-igtv-tips-and-techniques-explored-for-2024/"><u>[Updated] Converting Horizontals for IGTV Tips & Techniques Explored for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[Updated] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grandest-directors-trailers/"><u>[Updated] Grandest Director's Trailers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-examination-editrite-pro-suite-the-final-word-2023-for-2024/"><u>Comprehensive Examination EditRite Pro Suite – The Final Word, 2023 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-your-roblox-experience-close-up-techniques-for-2024/"><u>Enhancing Your Roblox Experience Close-Up Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/entfernungsmethode-fur-den-dvd-kopierschutz-mit-winxdvd-ideal-fur-windows-and-apple-gerate/"><u>Entfernungsmethode Für Den DVD-Kopierschutz Mit WinXDVD – Ideal Für Windows & Apple Geräte</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-convert-subtitles-to-srt-our-picks-for-the-best-8-tools-on-windowsmac-for-2024/"><u>Expertly Convert Subtitles to SRT - Our Picks for the Best 8 Tools on Windows/Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices-for-2024/"><u>From YouTube to High Definition Prime Downloader Choices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-an-x-formerly-twitter-account/"><u>How to Set up an X (Formerly Twitter) Account</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>In 2024, Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hues-in-action-implementing-color-schemes-properly/"><u>In 2024, Hues in Action Implementing Color Schemes Properly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/smart-techniques-to-capture-gotomeet-participants/"><u>Smart Techniques to Capture GoToMeet Participants</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-tutorial-for-effective-installation-of-windows-11-with-two-scenarios-explained/"><u>Step-by-Step Tutorial for Effective Installation of Windows 11 with Two Scenarios Explained</u></a></li>
 </ul></div>
 

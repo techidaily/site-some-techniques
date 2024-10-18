@@ -1,7 +1,7 @@
 ---
 title: "Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped"
-date: 2024-10-04T18:30:27.498Z
-updated: 2024-10-05T21:10:00.967Z
+date: 2024-10-10T19:12:30.787Z
+updated: 2024-10-17T20:27:33.615Z
 tags:
   - cutting-edge
 categories:
@@ -19,11 +19,25 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
 
  Many fear that AI might stifle human creativity. However, my personal journey with creative hobbies and AI tools tells a different story. Let me share my story of using generative AI tools and how it helped me reconnect with my creative side.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I Always Fancied Myself a Creative
 
  Animated movies were a huge part of my early childhood. The stunning visuals, the imaginative world-building, the gripping drama, and the epic orchestral scores made the real world look pale in comparison.
 
 ![A child watching animated movies with a sense of wonder and imagination](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-a-child-watching-animated-movies-with-a-sense-of-wonder-and-imagination.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -34,13 +48,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
  If you do something for long enough, you get good at it. By the time I was in high school, I became confident in sharing my work, and people seemed to like it. Eventually, I landed my first paid writing gig in college. Fast-forward a decade from then, and here I am, making a living writing on the internet.
 
 ![A person typing on a laptop, surrounded by creative writing materials.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-a-person-typing-on-a-laptop-surrounded-by-creative-writing-materials.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -81,10 +88,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ![People cheering a robot who has opened a gate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-people-cheering-a-robot-who-has-opened-a-gate.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -96,10 +103,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ![Midjourney web app image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-midjourney-web-app-image.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I quickly revisited my old notebook (yes, I have a notebook with my earlier ideas because digitizing them was a lot of work) and started _playing_ with Midjourney.
@@ -109,10 +116,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ![Udio web app music creation interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-udio-web-app-music-creation-interface.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, all these tools—Midjourney, Suno, Udio—start at $10 a month, making them extremely affordable. Also, each tool has an intuitive interface with excellent documentation, so I don’t need to invest hours of training or a fancy course.
@@ -131,13 +138,6 @@ a cat in space.
 
 ![A cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-a-cat-in-space.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dibakar Ghosh / How-To Geek | Midjourney
 
  It looks cool, no doubt, but it isn’t what I had in mind. I was envisioning the cat wearing an astronaut suit, looking at me, while climbing up towards me on the International Space Station. So, to actually get what I want, I need to be [more articulate with my prompt](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/). Kind of like this:
@@ -150,10 +150,10 @@ A curious cat in a sleek white spacesuit and helmet, climbing up the exterior of
 ![11. a better image of a cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/11-a-better-image-of-a-cat-in-space.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -211,21 +211,18 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-worlds-shaping-future-cinematic-experiences/"><u>[New] Immersive Worlds Shaping Future Cinematic Experiences</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-social-strategy-with-these-top-8-apps-phones-included/"><u>[Updated] 2024 Approved Elevate Your Social Strategy with These Top 8 Apps, Phones Included</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-best-4k-laptops-for-playing-games/"><u>[Updated] Exclusive List Best 4K Laptops for Playing Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[Updated] Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-12-game-choices-for-the-ultimate-pc-clicking-journey/"><u>[Updated] In 2024, Top 12 Game Choices for the Ultimate PC Clicking Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-garmin-virb-ultra-30-your-companion-for-outdoor-capture/"><u>2024 Approved Garmin VIRB Ultra 30 – Your Companion for Outdoor Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-light-in-iphone-hdr-photography/"><u>2024 Approved Harnessing the Power of Light in iPhone HDR Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lg-27uhd68-screen-a-detailed-freesync-analysis/"><u>2024 Approved LG 27UHD68 Screen A Detailed FreeSync Analysis</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-camon-20-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Camon 20 to Roku | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easily-set-up-your-epson-wf-7710-update-to-the-newest-windows-driver-pack/"><u>Easily Set Up Your EPSON WF-7710 - Update to the Newest Windows Driver Pack</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-hp-printer-performance-windows-10/"><u>Enhance HP Printer Performance Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-an-iphone-that-isnt-ringing-quick-solutions-and-tips/"><u>Fix an iPhone That Isn't Ringing - Quick Solutions and Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco X5 Pro Phone without PIN</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-achieving-fluidity-in-inshot-cuts/"><u>In 2024, Expert Tips on Achieving Fluidity in Inshot Cuts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-hero4-black-innovation/"><u>In 2024, In-Depth Examination Hero4 Black Innovation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audacitys-secrets-creating-smooth-soundscapes/"><u>[Updated] Audacity's Secrets Creating Smooth Soundscapes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-comparing-instagrams-latest-features-reels-vs-stories/"><u>[Updated] Comparing Instagram's Latest Features Reels Vs Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-samsungs-ue590-4k-gamer-monitor/"><u>[Updated] Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premiers-choice-15-superior-android-simulators/"><u>[Updated] In 2024, Premier's Choice 15 Superior Android Simulators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transforming-memories-from-still-photos-to-motion-pictures/"><u>[Updated] In 2024, Transforming Memories From Still Photos to Motion Pictures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-10-vectors-online-archives/"><u>2024 Approved Explore the Best 10 Vectors Online Archives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>2024 Approved How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-top-7-mac-compatible-videos-viewers/"><u>2024 Approved Top 7 Mac-Compatible Videos Viewers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-live-feed-frames-for-2024/"><u>Excellent Live Feed Frames for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-premium-gif-software-for-iphone-users-for-2024/"><u>Exploring Premium GIF Software for iPhone Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggle-generation-top-ten-templates-for-viral-effect-for-2024/"><u>Giggle Generation Top Ten Templates for Viral Effect for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-iphone-sound-capturing-101-voice-memo-processing/"><u>In 2024, IPhone Sound Capturing 101 – Voice Memo Processing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-xr-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone XR Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
 </ul></div>
 

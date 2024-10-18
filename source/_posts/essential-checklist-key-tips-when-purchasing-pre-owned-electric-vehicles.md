@@ -1,7 +1,7 @@
 ---
 title: "Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles"
-date: 2024-10-10T19:17:04.369Z
-updated: 2024-10-11T19:51:59.640Z
+date: 2024-10-13T23:48:24.800Z
+updated: 2024-10-17T19:10:14.328Z
 tags:
   - cutting-edge
 categories:
@@ -21,22 +21,15 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  While most of the same used car buying principles still apply, like looking over the body, checking for imperfections, and asking [questions about maintenance](https://screen-recording.techidaily.com/in-2024-budget-desktop-encoder-hacks-and-tips/), you'll need to adjust your mindset and consider several other factors. Pre-owned EVs are expensive, and here are a few things to know and do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check the Vehicle's Accident History
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -50,6 +43,13 @@ Justin Duino / How-To Geek
 ##  Look Into the Battery Health and Warranty
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
@@ -65,6 +65,13 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tyler Hayes / Review Geek
 
  Before you even start test-driving used electric vehicles, you'll want to know exactly what you're looking for. By that, I mean you should already know what type of range you'll need for your lifestyle, [check for nearby charging locations](https://extra-resources.techidaily.com/guides-to-unearthing-elite-cinematography/), and make sure your area offers the [type of chargers and speeds](https://data-safeguard.techidaily.com/1721202660702-stellar-file-eraser-5-windows-standard-en-setting-scheduler-for/) the vehicle you want can take advantage of. Certain EVs [take longer to recharge than others](https://technical-tips.techidaily.com/essential-pick-for-15-exceptional-no-cost-uninstallers-available-now/), which is somewhat important.
@@ -74,10 +81,10 @@ Tyler Hayes / Review Geek
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Buy Used EVs From a Dealer or Tesla
@@ -93,13 +100,6 @@ Hannah Stryker / How-To Geek
 ##  Take it For a Test Drive
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -130,18 +130,16 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-skyrocket-traffic-innovative-strategies-for-youtube-backlink-acquisition/"><u>[New] 2024 Approved Skyrocket Traffic Innovative Strategies for YouTube Backlink Acquisition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-a-visual-extravaganza-detailed-examination-of-lg-ud88-uhd-tv/"><u>[New] A Visual Extravaganza Detailed Examination of LG UD88-UHD TV</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-time-your-shots-perfectly-tips-for-instagrams-slow-motion/"><u>[New] Time Your Shots Perfectly Tips for Instagram’s Slow Motion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-health-communication-winning-on-social-networks/"><u>[Updated] Health Communication Winning on Social Networks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-hidden-costs-of-youtube-earning-for-2024/"><u>[Updated] The Hidden Costs of YouTube Earning for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-engine-photo-assembler/"><u>2024 Approved Giggle Engine Photo Assembler</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing-for-2024/"><u>Evaluating SNS HDR's Value & Alternatives for HDR Editing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-illumination-to-inky-tones-pro-fades-for-2024/"><u>From Illumination To Inky Tones Pro Fades for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-changing-tvs-for-ps5-and-xbox-series-x-enthusiasts/"><u>In 2024, Game-Changing TVs for PS5 & Xbox Series X Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-cost-analysis-for-new-podcasters-for-2024/"><u>In-Depth Cost Analysis for New Podcasters for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-gt-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme GT 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-potential-of-dual-screen-broadcasting-in-facebook-lives/"><u>Unveiling the Potential of Dual-Screen Broadcasting in Facebook Lives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-video-editing-made-easy-a-windows-movie-maker-crash-course/"><u>Updated Video Editing Made Easy A Windows Movie Maker Crash Course</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-speech-recognition-into-slides/"><u>[New] Incorporating Speech Recognition Into Slides</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-fixes-for-annoying-ipad-recording-problems-for-2024/"><u>[New] Quick Fixes for Annoying iPad Recording Problems for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-software-less-method-to-save-youtube-videos/"><u>[Updated] Free Software-Less Method to Save YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-gopros-peak-adapters-the-ultimate-6-selection-guide/"><u>2024 Approved Exploring GoPro's Peak Adapters The Ultimate 6 Selection Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-frame-to-script-innovative-ways-of-integrating-text-in-images/"><u>2024 Approved From Frame to Script Innovative Ways of Integrating Text in Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>2024 Approved Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-prime-film-apps-showdown-apples-finest-categories/"><u>2024 Approved Prime Film Apps Showdown Apple's Finest Categories</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v27-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V27 Pro Without PUK Codes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-innovative-iphone-close-up-tips-for-astounding-photos/"><u>In 2024, Innovative iPhone Close-Up Tips for Astounding Photos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
 </ul></div>
 

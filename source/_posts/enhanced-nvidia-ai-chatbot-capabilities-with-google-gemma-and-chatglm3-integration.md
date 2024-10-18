@@ -1,7 +1,7 @@
 ---
 title: Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration
-date: 2024-10-03T03:02:55.318Z
-updated: 2024-10-06T03:55:34.660Z
+date: 2024-10-11T20:40:58.502Z
+updated: 2024-10-18T02:09:37.966Z
 tags:
   - cutting-edge
 categories:
@@ -42,27 +42,25 @@ The third update for NVIDIA's ChatRTX app has arrived. It adds new image recogni
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-and-purchased-color-tools-for-the-discerning-canon-user/"><u>[New] Free & Purchased Color Tools for the Discerning Canon User</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-luts-to-obs-studio-and-download-free-lut/"><u>[New] How to Use LUTs to OBS Studio & Download Free LUT</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-secrets-of-effective-hp-screen-capture/"><u>[New] Unveiling the Secrets of Effective HP Screen Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-accelerated-sizing-youtube-content-for-macs/"><u>[Updated] 2024 Approved Accelerated Sizing YouTube Content for MACs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-beginners-guide-to-designing-engaging-and-shareable-fb-slideshows/"><u>[Updated] 2024 Approved The Beginner's Guide to Designing Engaging and Shareable FB SlideShows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>[Updated] Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immediate-picture-and-film-correction-via-3dlut-apps/"><u>2024 Approved Immediate Picture & Film Correction via 3DLUT Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infuse-rhythms-into-your-whatsapp-story/"><u>2024 Approved Infuse Rhythms Into Your WhatsApp Story</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-code-0xc0000098-problem-in-windows-systems/"><u>Diagnosing and Fixing the 'Code 0Xc0000098' Problem in Windows Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten-for-2024/"><u>Find the Perfect Mix Funny, Touching IG Meme Stories of Ten for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-12-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi 12 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-be-a-ghost-in-the-social-media-crowd-live/"><u>In 2024, How to Be a Ghost in the Social Media Crowd - Live</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-apps-for-editing-and-mixing-dji-video-tapes/"><u>In 2024, Ideal Apps for Editing and Mixing DJi Video Tapes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002510003-unable-to-access-doom-eternal-since-its-delayed-launch-find-remedies-and-get-gaming-now/"><u>Unable to Access DOOM Eternal Since Its Delayed Launch? Find Remedies and Get Gaming Now!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-v30-by-drfone-android/"><u>Universal Unlock Pattern for Realme V30</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-10-vectors-online-archives/"><u>[New] Explore the Best 10 Vectors Online Archives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-optimal-audio-changer-tools-for-vtubers/"><u>[New] Guide to Optimal Audio Changer Tools for VTubers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-superior-capture-software-for-mac-excluding-bandicam/"><u>[Updated] 2024 Approved Superior Capture Software for Mac, Excluding Bandicam</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-images-in-your-instagram-profile-for-2024/"><u>[Updated] Mastering Images in Your Instagram Profile for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-startups-growth-with-these-top-social-media-tips/"><u>2024 Approved Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/comprehensive-guide-to-viewing-facebook-videos-on-apple-tv-devices-for-2024/"><u>Comprehensive Guide to Viewing Facebook Videos on Apple TV Devices for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-system-with-manual-drives-updates-in-windows-os/"><u>Enhance Your System with Manual Drives Updates in Windows OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-monochrome-to-masterpiece-pro-photo-hue-harmony-for-2024/"><u>From Monochrome to Masterpiece Pro Photo Hue Harmony for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enroll-in-chatgpt-plugin-upgrades-now/"><u>How to Enroll in ChatGPT Plugin Upgrades Now!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-add-subtitlescaptions-in-final-cut-pro-x/"><u>New How to Add Subtitles/Captions in Final Cut Pro X?</u></a></li>
+<li><a href="https://facebook.techidaily.com/reclaim-digital-space-delete-old-fb-watch-data/"><u>Reclaim Digital Space: Delete Old FB Watch Data</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728500508973-404/"><u>ウェブサイト上の項目にアクセスできない: 404未検出エラー</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

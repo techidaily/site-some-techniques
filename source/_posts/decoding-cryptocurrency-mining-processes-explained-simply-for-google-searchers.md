@@ -1,7 +1,7 @@
 ---
 title: "Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers"
-date: 2024-10-04T16:10:10.819Z
-updated: 2024-10-12T03:20:39.229Z
+date: 2024-10-15T17:18:26.745Z
+updated: 2024-10-17T21:25:04.169Z
 tags:
   - cutting-edge
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Crypto Mining?
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  The Blockchain
@@ -51,10 +51,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  The Ledger
@@ -70,6 +70,13 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In a way, crypto mining is really just solving these incredibly complicated mathematical puzzles. Do it fast enough, and the reward is a coin. If you're slower than the competition, you don't get one. This method is called "proof of work."
 
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  DIY Supercomputers
 
@@ -88,13 +95,6 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  Interestingly enough, though, not all cryptocurrencies are mined. Rather than use proof of work, some currencies---like [Cardano](https://www.shutterstock.com/nl/image-illustration/block-chain-concept-consists-network-connections-1064476223) and [Ripple](https://ripple.com/)\---use something called "proof of stake." They still operate on blockchain for reasons of security, but instead of mining new blocks you "stake " them instead, claiming them for yourself ahead of time.
 
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Future of Mining
 
@@ -117,20 +117,21 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-face-off-frenzy-legendary-sj6-vs-xiaomis-four-k-creators/"><u>[New] Face-Off Frenzy Legendary SJ6 Vs. Xiaomi's Four-K Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frolicsome-videoland-assessor/"><u>[New] Frolicsome Videoland Assessor</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-locate-lively-youtube-conversations/"><u>[New] Locate Lively YouTube Conversations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>[Updated] 2024 Approved How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fresh-look-at-sonys-ultra-hd-player-s3700/"><u>[Updated] Fresh Look at Sony's Ultra HD PLAYER S3700</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-intensity-the-ultimate-guide-to-video-audio/"><u>[Updated] In 2024, Instagram Intensity The Ultimate Guide to Video Audio</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-cinematic-reels-embracing-the-power-of-pause/"><u>2024 Approved Crafting Cinematic Reels Embracing the Power of Pause</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-drone-flight-q500-typhoon-review/"><u>2024 Approved Innovative Drone Flight - Q500 Typhoon Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extraordinary-assessment-and-alternative-choices-for-2024/"><u>Extraordinary Assessment & Alternative Choices for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-pixel-processor-windowsmac/"><u>In 2024, Flawless Pixel Processor (Windows/Mac)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovations-in-crafting-engaging-vlogging-scripts-for-2024/"><u>Innovations in Crafting Engaging Vlogging Scripts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-copilot-vs-copilot-pro-key-features-and-benefits-of-upgrading/"><u>Understanding Copilot Vs. Copilot Pro: Key Features & Benefits of Upgrading</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>[New] 2024 Approved Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-discounts-on-economical-gopro-cameras/"><u>[New] Exclusive Discounts on Economical GoPro Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-different-footage-sources-on-ios-device/"><u>[New] Harmonizing Different Footage Sources on iOS Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-podcasting-generating-custom-rss-files/"><u>[New] Innovations in Podcasting Generating Custom RSS Files</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-seamless-communication-the-best-5-webcams-with-inbuilt-microphones/"><u>[Updated] 2024 Approved Seamless Communication The Best 5 Webcams with Inbuilt Microphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gradual-sound-reduction-for-computers-mac-and-windows/"><u>[Updated] Gradual Sound Reduction for Computers (Mac & Windows)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hype-generating-headline-author/"><u>2024 Approved Hype-Generating Headline Author</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exclusive-mac-hd-scribing-plus-auditory-logging-solution-for-2024/"><u>Exclusive Mac HD Scribing + Auditory Logging Solution for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focus-and-frame-the-art-of-intimate-movie-filming/"><u>In 2024, Focus & Frame The Art of Intimate Movie Filming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-free-and-uncomplicated-youtube-image-extractor-tools-reviewed/"><u>In 2024, Free and Uncomplicated YouTube Image Extractor Tools Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-digitize-your-old-photos-and-turn-them-into-impressive-videos/"><u>In 2024, How to Digitize Your Old Photos and Turn Them Into Impressive Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-prime-8-converters-seamless-sub-and-srt-transition/"><u>In 2024, Prime 8 Converters Seamless Sub and SRT Transition</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-hot-40i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Hot 40i to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>In 2024, Universal Synchronization Zoom on Phones, Tablets, PCs All</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-shaping-your-sound-strategies-for-modifying-your-speaking-voice-for-2024/"><u>New Shaping Your Sound Strategies for Modifying Your Speaking Voice for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
 

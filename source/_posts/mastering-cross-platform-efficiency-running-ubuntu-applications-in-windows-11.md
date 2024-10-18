@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-10-08T22:35:00.519Z
-updated: 2024-10-12T00:45:37.055Z
+date: 2024-10-16T20:20:45.971Z
+updated: 2024-10-18T01:31:47.456Z
 tags:
   - deals
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Enabling Windows Subsystem for Linux (WSL)
 
  Windows Subsystem for Linux is not enabled by default on Windows 11\. You'll need to activate this feature on Windows before you can use it to run Ubuntu apps on your Windows PC.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing Ubuntu
@@ -73,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 ##  Basic Configuration Tips
@@ -96,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
 
@@ -122,10 +122,10 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -149,25 +149,19 @@ nohup program_name & disown
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -203,19 +197,20 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flipped-frames-understanding-instagram-video-orientation/"><u>[New] Flipped Frames Understanding Instagram Video Orientation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-low-res-to-hd-your-first-foray-into-frame-rates/"><u>[New] From Low-Res to HD Your First Foray Into Frame Rates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>[Updated] In 2024, A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-guide-video-recording-with-vlc/"><u>[Updated] In 2024, Essential Guide Video Recording with VLC</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-navigating-a-new-digital-landscape-detailed-steps-for-updating-tiktok-handle/"><u>[Updated] Navigating a New Digital Landscape Detailed Steps for Updating TikTok Handle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-idea-to-implementation-crafting-a-powerful-documntary-narrative/"><u>2024 Approved From Idea to Implementation Crafting a Powerful Documntary Narrative</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-match-made-in-heaven-camera-showdowns/"><u>2024 Approved GoPro Match Made in Heaven Camera Showdowns</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-homemade-video-making-top-5-efficient-methods-you-must-know/"><u>2024 Approved Homemade Video Making Top 5 Efficient Methods You Must Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-k70-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi K70 Phone Screen?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-find-x6-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Find X6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-in-action-top-video-editing-strategies/"><u>In 2024, Innovation in Action Top Video Editing Strategies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-selection-of-webcams-for-optimal-zoom-video-quality/"><u>Prime Selection of Webcams for Optimal Zoom Video Quality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/sound-issue-fix-and-analysis-features-in-winx-hd-video-converter-deluxe-troubleshooting-errors/"><u>Sound Issue Fix & Analysis Features in WinX HD Video Converter Deluxe | Troubleshooting Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-everything-about-metaverse-marketing-example-strategies-and-more/"><u>[Updated] Everything About Metaverse Marketing Example, Strategies, and More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-iphones-potential-for-breathtaking-hdr-images/"><u>[Updated] Harness iPhone's Potential for Breathtaking HDR Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-whatsapp-voice-chat-features/"><u>2024 Approved Exploring WhatsApp Voice Chat Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-switch-windows-11-to-auto-hdr-mode/"><u>2024 Approved How to Switch Windows 11 To Auto HDR Mode</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/conquering-complex-codes-stellar-hits-major-milestone-in-data-retrieval/"><u>Conquering Complex Codes: Stellar Hits Major Milestone in Data Retrieval</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-capture-stellar-tiktoks-with-ease-and-flair-for-2024/"><u>How to Capture Stellar TikToks with Ease and Flair for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-ai-hearing-and-handling-software/"><u>In 2024, Free AI Hearing and Handling Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hold-your-audiences-gaze-essential-6-video-formats/"><u>In 2024, Hold Your Audience's Gaze Essential 6 Video Formats</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-assessment-gopro-silver-hero4-sliver/"><u>In 2024, In-Depth Assessment GoPro Silver Hero4 Sliver</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-the-power-of-playback-turning-youtube-content-into-engaging-gifs-pcmobile/"><u>In 2024, Unleashing the Power of Playback Turning YouTube Content Into Engaging GIFs (PC/Mobile)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10/"><u>Maximizing Your Virtual Meetings Expert Insights on Using Zoom (Win10)</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-system-streamlined-windows-autoupdate-and-driver-change/"><u>Optimize System: Streamlined Windows Autoupdate & Driver Change</u></a></li>
 </ul></div>
 

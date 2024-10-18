@@ -1,7 +1,7 @@
 ---
 title: "Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices"
-date: 2024-10-11T04:22:05.649Z
-updated: 2024-10-11T23:36:44.423Z
+date: 2024-10-11T21:50:11.038Z
+updated: 2024-10-17T16:31:40.527Z
 tags:
   - deals
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
  Downloading your photos and videos from iCloud lets you store them locally or even switch to a different storage service. There are a few ways to do this, depending on what device you’re using. Here's what you need to know.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download iCloud Photos on Your iPhone or iPad
@@ -47,14 +47,14 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Enable original photo storage on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_2489.jpg) 
 
- You can reverse this selection if you decide you’d rather let your devices manage free space and store everything in iCloud again.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can reverse this selection if you decide you’d rather let your devices manage free space and store everything in iCloud again.
 
 ##  Download iCloud Photos on Your Mac
 
@@ -88,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Disabling iCloud Photos warning in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are other options for Windows users including using the iCloud website, a command line tool, and requesting data from Apple as noted below.
 
 ##  Download iCloud Photos Using iCloud.com (Works for Linux)
@@ -105,19 +98,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Downloading photos from iCloud.com using Firefox for Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-06.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  iCloud will download your media in [ZIP file format](https://remote-screen-capture.techidaily.com/new-visual-voyage-amds-radeon-reborn-for-2024/) which you can then extract to a location of your choice. Repeat as necessary to get all of your photos downloaded. iCloud will show you how many items you have selected at a time in the top-right corner of the page, which simplifies this process a bit.
 
 ![iCloud Photos downloading in a ZIP archive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-12.png) 
@@ -125,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
  Linux users can also use the command line utility and request data from Apple as detailed below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download iCloud Photos With a Command Line Utility
@@ -153,6 +133,13 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Downloading iCloud Photos using a mobile browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/icloud-photos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hit the ellipsis “…” icon in the bottom-right corner of the screen and choose “Download” or “More Download Options” to download the photos to your device.
 
 ##  Download iCloud Photos from Apple Directly
@@ -162,23 +149,30 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 ![Apple's Privacy website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-56-06.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the next screen, check “iCloud Photos” and anything else you’d like a copy of, then hit the blue “Continue” button at the bottom of the page. Your request will be processed by Apple and you’ll eventually receive an invitation to download your data.
 
 ![Request a copy of your iCloud Photos data from Apple.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-57-23.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also use the privacy website to [switch directly from iCloud to Google Photos](https://extra-support.techidaily.com/2024-approved-praise-in-pixels-the-new-marketing-trend/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Convenience at a Price
@@ -202,19 +196,14 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-best-gopro-cases-rated-1-10/"><u>[New] Explore Best GoPro Cases Rated #1-10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-from-roots-to-refined-rogues-journey-through-genres-for-2024/"><u>[New] From Roots to Refined Rogue's Journey Through Genres for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-eco-film-frameworks-unlimited-free-template-access-for-pros-and-amateurs-for-2024/"><u>[Updated] Eco-Film Frameworks Unlimited Free Template Access for Pros & Amateurs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonic-helpers-sourcing-video-music/"><u>[Updated] Harmonic Helpers Sourcing Video Music</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-dark-art-of-night-photography-best-practices-revealed/"><u>[Updated] In 2024, The Dark Art of Night Photography Best Practices Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-film-in-educational-practice/"><u>2024 Approved Harnessing the Power of Film in Educational Practice</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-enabled-enhancing-your-websites-user-experience/"><u>Cookiebot-Enabled: Enhancing Your Website's User Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmora-guide-efficiently-convert-avi-files-to-gifs-on-both-operating-systems-for-2024/"><u>Filmora Guide Efficiently Convert AVI Files to GIFs on Both Operating Systems for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-create-an-affordable-customizable-virtual-reality-gear-for-2024/"><u>How to Create an Affordable, Customizable Virtual Reality Gear for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-framing-essentials-top-apps-and-websites-creators/"><u>In 2024, Image Framing Essentials Top Apps & Websites Creators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-road-ahead-for-generative-ai-and-conversational-bots-advancements-to-watch-out-for/"><u>The Road Ahead for Generative AI and Conversational Bots: Advancements to Watch Out For</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/0-youtube-rippers-for-media-conversion-for-2024/"><u>Top 10 YouTube Rippers for Media Conversion for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-gaming-guide-ea-plays-ps5-favorites/"><u>Ultimate Gaming Guide: EA Play's PS5 Favorites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-fix-one-airpod-not-working/"><u>[New] How to Fix One Airpod Not Working?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-tech-critical-review-of-vr-gadgets/"><u>[New] Immersive Tech Critical Review of VR Gadgets</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uick-fixes-how-to-shorten-youtube-videos-easily-for-2024/"><u>[New] Quick Fixes How to Shorten YouTube Videos Easily for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gratitude-unboxed-free-and-paid-creative-otus/"><u>[Updated] Gratitude Unboxed Free & Paid Creative OTUs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tuned-focus-mastering-online-zooms-and-closures-for-2024/"><u>Fine-Tuned Focus Mastering Online Zooms and Closures for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-renowned-companies-advancing-virtual-reality-tech/"><u>In 2024, Renowned Companies Advancing Virtual Reality Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-sleep-inducing-screenplays-video-evaluation/"><u>In 2024, Sleep-Inducing Screenplays Video Evaluation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-new-horizons-at-any-age-the-multilingual-advantage-in-your-40s-and-beyond/"><u>Unlock New Horizons at Any Age: The Multilingual Advantage in Your 40S and Beyond</u></a></li>
 </ul></div>
 

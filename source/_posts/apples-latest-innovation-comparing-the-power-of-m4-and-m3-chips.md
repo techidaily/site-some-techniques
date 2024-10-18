@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2024-10-10T00:54:05.401Z
-updated: 2024-10-11T23:37:11.270Z
+date: 2024-10-11T22:36:49.434Z
+updated: 2024-10-17T16:19:04.880Z
 tags:
   - desktop
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Introducing Apple M4 Silicon
 
  On the surface, the M4 is the fourth iteration of Apple's M-branded system-on-a-chip (SoC) that houses a nine or 10-core CPU, a 10-core GPU, and a 16-core Neural Engine. Currently, it is only available in two configurations (where one variant has more processing cores than the other) [on the 2024 iPad Pro](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/). However, Apple could soon add more variants to the M4 lineup.
@@ -50,10 +43,10 @@ Apple
  The M4 looks set to be a compelling upgrade over [the previous generation of iPad Pro](https://driver-download.techidaily.com/upgrade-and-enhance-performance-with-official-dell-wd19-graphics-drivers-download-guide/), which featured an M2 chip. But how does it compare to the M3 chip that never made it to an iPad? Although Apple has yet to directly compare the M4 with the M3, here's an early comparison of the two chipsets based on their specifications.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  M4 Gets More Efficiency Cores for Better Performance
@@ -65,10 +58,10 @@ Apple
 ![Apple M4 Silicon's representative image highlighting the number of performance and efficiency cores.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-s-m4-chip-gets-more-efficiency-cores.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -89,24 +82,18 @@ Apple
 
  On the brighter side, the M4's media engine now supports hardware-accelerated 8K H.264, HEVC, ProRes, and ProRes RAW formats, a clear upgrade over [2023's M3 chip](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/).
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What About the M4's Neural Engine?
 
  With [generative AI features right around the corner](https://sound-issues.techidaily.com/fixing-headphone-issues-on-windows-11-a-step-by-step-guide/), Apple is focusing heavily on the M4's Neural Engine. The new 16-core Neural Engine can perform up to 38 trillion operations per second (TOPS), compared to 18 TOPS for the 16-core Neural Engine on the M3 Silicon. Apple claims that the new Neural Engine is "faster than the neural processing unit of any AI PC today."
 
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -120,15 +107,22 @@ Apple
 
 ![Screenshot of Apple M2 Silicon's features and specifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m2-chip-on-the-new-ipad-air.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apple
 
  Nonetheless, the M4 iPad Pro has become the longest-lasting iPad in [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs) tests, indicating that the chipset is indeed more efficient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  M4 on MacBooks? It Might Happen Soon
@@ -164,20 +158,22 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-craft-your-channels-moniker-youtube-naming-tools-and-tips-for-2024/"><u>[New] Craft Your Channel's Moniker YouTube Naming Tools and Tips for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-set-your-tiktok-track-as-ringtone/"><u>[Updated] A Step-by-Step Guide to Set Your TikTok Track as Ringtone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-select-and-download-the-right-audio-for-your-video/"><u>[Updated] How to Select and Download the Right Audio for Your Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-episodic-unveiling-schedule/"><u>[Updated] Ideal Episodic Unveiling Schedule</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-perfect-for-broadcasters-top-360-cameras-listed-for-2024/"><u>[Updated] Perfect for Broadcasters Top 360° Cameras Listed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmmakers-checklist-on-the-go-gear-guide/"><u>2024 Approved Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-haste-assessment-of-windows-documents/"><u>2024 Approved Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-watch-instagram-live-anonymously/"><u>2024 Approved How to Watch Instagram Live Anonymously</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-designs-unleashed-comprehensive-guide-to-animation-suites/"><u>2024 Approved Innovative Designs Unleashed Comprehensive Guide to Animation Suites</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-speed-up-secrets-eliminating-unwanted-sound-waves/"><u>2024 Approved Speed-Up Secrets Eliminating Unwanted Sound Waves</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-v27-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo V27 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-finger-sets-taking-vr-to-new-heights/"><u>In 2024, Innovative Finger Sets Taking VR to New Heights</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-address-crashes-from-essential-services-causing-bsod-on-windows-11/"><u>Step-by-Step Guide to Address Crashes From Essential Services Causing BSoD on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-utilizing-the-power-of-claude-artificastern-ai-for-better-results/"><u>The Ultimate Guide to Utilizing the Power of Claude Artificastern AI for Better Results</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-efficiency-how-to-implement-codegpt-into-visual-studio-code/"><u>Unlocking Efficiency: How to Implement CodeGPT Into Visual Studio Code</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-quick-and-easy-audio-extraction-top-6-free-apps-to-convert-youtube-videos-to-mp3/"><u>[New] 2024 Approved Quick & Easy Audio Extraction Top 6 Free Apps to Convert YouTube Videos to MP3</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-evasive-action-to-escape-the-shadowban-snare-for-2024/"><u>[New] Evasive Action to Escape the Shadowban Snare for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freememogen-your-guide-to-free-memes/"><u>[New] FreeMemoGen Your Guide to FREE Memes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-flicker-fun-prime-speedy-software-for-systems/"><u>[Updated] Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-monochrome-to-multicolor-grading-journey/"><u>[Updated] From Monochrome to Multicolor Grading Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-the-potential-of-gratuitous-timer-tools/"><u>[Updated] Harness the Potential of Gratuitous Timer Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-digital-dynamos-8-youtube-channels-surging-forward/"><u>[Updated] In 2024, Digital Dynamos 8 YouTube Channels Surging Forward</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-your-pathway-to-tiktok-live-spectatorship/"><u>[Updated] Your Pathway to TikTok Live Spectatorship</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-on-the-go-visual-adjustments/"><u>2024 Approved Harness the Power of On-the-Go Visual Adjustments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-gems-premium-mac-speech-to-text-tools/"><u>2024 Approved Hidden Gems Premium Mac Speech-to-Text Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cash-in-on-your-searches-a-closer-look-at-the-benefits-of-switching-to-bing-based-on-personal-trial-and-success/"><u>Cash In on Your Searches: A Closer Look at the Benefits of Switching to Bing, Based on Personal Trial and Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-ahead-with-snapchats-latest-features-for-2024/"><u>Getting Ahead with Snapchat's Latest Features for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-bridging-the-gap-tweeting-plus-tumblr-video-uploads/"><u>In 2024, Bridging the Gap Tweeting + Tumblr Video Uploads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-comprehensive-guide-to-macs-preferred-snippers/"><u>In 2024, Comprehensive Guide to Mac's Preferred Snippers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-gradual-audio-lowering-with-lumafusion-for-2024/"><u>In-Depth Analysis of Gradual Audio Lowering with Lumafusion for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-price-point-an-insightful-appraisal-of-the-amazingly-elegant-but-expensive-kindle-oasis/"><u>Navigating the Price Point: An Insightful Appraisal of The Amazingly Elegant but Expensive Kindle Oasis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722903258846-what-to-expect-from-the-upcoming-samsung-galaxy-s25-ultra-price-predictions-and-release-date-insights/"><u>What to Expect From the Upcoming Samsung Galaxy S25 Ultra - Price Predictions & Release Date Insights</u></a></li>
 </ul></div>
 

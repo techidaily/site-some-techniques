@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced: Boosting Your Site's Engagement with Cutting-Edge Marketing Tech"
-date: 2024-08-22T06:10:46.403Z
-updated: 2024-08-23T06:10:46.403Z
+date: 2024-10-19T17:11:58.798Z
+updated: 2024-10-23T18:35:25.468Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40d591496be1b3a2b61ca7796.jpg
@@ -18,6 +18,13 @@ Healthcare & Pharmaceuticals | Digital Archiving
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/70324.png?h=40&iar=0&w=120)
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Detaillierte Dokumenten­erfassung im Dienste der Gesundheit
 
@@ -78,6 +85,13 @@ Die Installation bei Boehringer Ingelheim umfasst einen ABBYY Recognition Server
 
 [![ABBYY Recognition Server wird jetzt ABBYY FineReader Server genannt](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (jetzt FineReader Server genannt)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![10-Healthcare](https://static2.abbyy.com/abbyycommedia/14360/10-healthcare.jpg)](https://tools.techidaily.com/abbyy/products/) [Gesundheitswesen](https://tools.techidaily.com/abbyy/products/) 
@@ -85,6 +99,13 @@ Die Installation bei Boehringer Ingelheim umfasst einen ABBYY Recognition Server
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![cs-fraunhofernzz-360x162](https://static3.abbyy.com/abbyycommedia/17083/cs-fraunhofernzz-360x162.jpg)](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") [PDF-Version](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Zum Dokument](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
 
@@ -97,8 +118,12 @@ Teilen  True ?  : ""
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -111,8 +136,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +143,18 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-for-image-collections-acquisition/"><u>[New] Innovative Approaches for Image Collections Acquisition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-streamline-your-office-work-with-voice-to-text-in-ms-word/"><u>[New] Streamline Your Office Work with Voice-to-Text in MS Word</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-vector-graphics-using-the-best-software/"><u>[Updated] Innovative Approaches to Vector Graphics Using the Best Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-iosandroid-apps-for-photo-writing/"><u>[Updated] Innovative iOS/Android Apps for Photo-Writing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-optimal-cameras-for-extreme-adventure-pursuits-for-2024/"><u>[Updated] Optimal Cameras for Extreme Adventure Pursuits for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-real-time-photo-editing-on-the-go-cropping-techniques-for-2024/"><u>[Updated] Real-Time Photo Editing On-the-Go Cropping Techniques for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-detecting-changes-in-your-instagram-network/"><u>2024 Approved Detecting Changes in Your Instagram Network</u></a></li>
+<li><a href="https://os-tips.techidaily.com/airtag-enhancers-and-tools-expert-picks-for-the-latest-and-greatest/"><u>AirTag Enhancers and Tools - Expert Picks for the Latest & Greatest</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-time-periscope-income-strategies-for-success/"><u>In 2024, First-Time Periscope Income Strategies for Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>In 2024, GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-clear-choice-between-projectors-and-televisions-for-4k-quality/"><u>The Clear Choice Between Projectors and Televisions for 4K Quality</u></a></li>
+</ul></div>
 

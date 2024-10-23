@@ -1,7 +1,7 @@
 ---
 title: "Creating an Eye-Catching Windows Desktop: A Guide on Utilizing Rainmeter"
-date: 2024-10-16T16:50:33.922Z
-updated: 2024-10-17T23:07:04.053Z
+date: 2024-10-17T21:24:35.476Z
+updated: 2024-10-23T16:30:49.624Z
 tags:
   - deals
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/0c1d83719ebb98dea5d90c27c0b6408d258894840
 * Customize your Rainmeter theme by editing INI files or using the GUI settings menu, allowing you to modify fonts, colors, layouts, and more.
 
  Rainmeter is the oldest desktop customization tool for Windows. It lets you create and display custom skins on your desktop—widgets, visualizers, meters, mini apps, you name it. With a few simple clicks, Rainmeter can totally change the look of your boring old Windows desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What is Rainmeter and How to Install it
 
@@ -56,6 +49,13 @@ winget install rainmeter
 
  Wait for the installation to finish. Once done, search “rainmeter” in the Start menu to launch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Creating a Blank Canvas
 
  By default, Rainmeter comes with a few basic widgets, but we won’t be using them. So let’s clear up our desktop to make room for a fresh theme. Right-click on all the skins you see and click “Unload Skin” (a skin is just a self-contained widget or app, by the way).
@@ -66,6 +66,13 @@ Close
 
 ![Context menu for hiding desktop icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-203230.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The only thing left to deal with is the Taskbar. You can set the Taskbar to auto-hide, but it will reappear when you hover the cursor near it. To auto-hide it, right-click on the taskbar and click “Taskbar Settings.” On the Settings page, toggle “Automatically Hide Taskbar in Desktop Mode.”
 
 Close 
@@ -75,10 +82,10 @@ Close
 ![Blank desktop with hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-204005.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Base Theme
@@ -104,22 +111,22 @@ Close
 ![Loading a music widget skin using Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134400.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The result could look something like this. but feel free to mix and match to create a design that works for you.
 
-## ![Custom theme in Rainmeter.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-135734.png) How to Customize Your Theme
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## ![Custom theme in Rainmeter.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-135734.png) How to Customize Your Theme
 
  The base theme looks good, but it needs some tweaking to actually make it functional. There are two ways to customize a skin. You can either use the INI file, or you can use the GUI settings menu if the Rainmeter package supports it.
 
@@ -128,13 +135,6 @@ Close
  The settings on RetroColor are presented as just another skin. It lets you tweak some basic stuff like the clock formatting, temperature units, the media player of your choice (the player that connects with the media control widget), and the colors.
 
 ![Changing custom skin settings in Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-140016.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Inside Dream skin package doesn’t have a dedicated settings menu. You can only edit it using the INI files. I’m going to edit the dock shortcuts as an example. Right now the Photoshop button says "Photoshop CC" and doesn’t lead anywhere. Here’s how you can fix that shortcut.
 
@@ -169,24 +169,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-from-ordinary-to-extraordinary-profile-videos-for-2024/"><u>[New] From Ordinary to Extraordinary Profile Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-chromebook-screen-capture-simplified-into-four-methods/"><u>[New] In 2024, Chromebook Screen Capture Simplified Into Four Methods</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nlocking-youtubes-potential-understanding-the-impact-of-tags-for-2024/"><u>[New] Unlocking YouTube's Potential Understanding the Impact of Tags for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>[Updated] 2024 Approved Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foundations-of-easing-volume-control-in-audition/"><u>[Updated] Foundations of Easing Volume Control in Audition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-magix-video-pro-x-journey/"><u>[Updated] From Novice to Pro Magix Video Pro X Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-android-adventure-the-apk-breakdown/"><u>[Updated] Funimate Android Adventure The APK Breakdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>[Updated] Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-srt-unveiled-essential-information-for-all-ages/"><u>[Updated] SRT Unveiled Essential Information for All Ages</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hasten-haste-in-videos-with-top-apps-android/"><u>2024 Approved Hasten Haste in Videos with Top Apps, Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-unique-ringtone-from-social-media-music-tracks/"><u>2024 Approved How To Create Unique Ringtone From Social Media Music Tracks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>Audience Engagement On Demand Top 5 Mac Streaming Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-live-video-broadcasting-tool-with-virtual-webcam-feature-discover-manycam/"><u>Best Live Video Broadcasting Tool with Virtual Webcam Feature – Discover ManyCam!</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-speed-with-wordpad-embedding-keyboard-macros-into-windows-menu/"><u>Boosting Speed with WordPad: Embedding Keyboard Macros Into Windows Menu</u></a></li>
-<li><a href="https://win-able.techidaily.com/collaborative-endeavors-reach-new-heights-with-the-official-release-of-it-takes-two/"><u>Collaborative Endeavors Reach New Heights with the Official Release of 'It Takes Two'</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-power-of-easy-video-editing-in-photos-and-windows-11-for-2024/"><u>Explore the Power of Easy Video Editing in Photos & Windows 11 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/focus-frameworks-key-tools-to-brighten-videos-for-2024/"><u>Focus Frameworks Key Tools to Brighten Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-visual-storytelling-through-photo-mosaics-for-2024/"><u>Innovating Visual Storytelling Through Photo Mosaics for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-compilation-of-samsungs-picture-editing-capabilities-for-2024/"><u>The Ultimate Compilation of Samsung's Picture Editing Capabilities for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-affordable-high-res-4k-cameras-under-1k/"><u>[New] Affordable High-Res 4K Cameras Under $1K</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-google-upload-mastery-a-step-by-step-guide/"><u>[New] Google Upload Mastery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-detailed-walkthrough-for-crafting-and-changing-your-videos-covers-on-facebook/"><u>[Updated] 2024 Approved A Detailed Walkthrough for Crafting and Changing Your Videos' Covers on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-essentials-for-webinar-novices-an-introductory-walkthrough/"><u>[Updated] 2024 Approved Zoom Essentials for Webinar Novices An Introductory Walkthrough</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fading-forward-ingenious-techniques-for-soft-echos-in-audacity-for-2024/"><u>Fading Forward Ingenious Techniques for Soft Echos in Audacity for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-examination-samsungs-complete-360-camera-experience-for-2024/"><u>Full Examination Samsung's Complete 360° Camera Experience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>In 2024, Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-game-masters-youtube-money-hacks/"><u>In 2024, Game Masters YouTube Money Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-selection-of-cost-effective-4k-projection-screens/"><u>In 2024, Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>In 2024, Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rapid-share-tactics-for-youtube-lists-for-2024/"><u>Rapid Share Tactics for YouTube Lists for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-for-voice-chat-problems-in-battlefield-v-call-of-duty-black-ops-cold-war/"><u>Solution Guide for Voice Chat Problems in Battlefield V - Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-playlist-tweaking-on-youtube-for-2024/"><u>The Ultimate Playlist Tweaking on YouTube for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-10-14T22:03:16.915Z
-updated: 2024-10-17T20:56:03.413Z
+date: 2024-10-19T17:31:01.037Z
+updated: 2024-10-23T17:10:44.811Z
 tags:
   - deals
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -30,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -50,10 +64,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -67,10 +81,10 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -83,13 +97,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -97,13 +104,6 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -126,22 +126,20 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-express-creativity-for-free-your-meme-toolbox-awaits/"><u>[New] In 2024, Express Creativity for Free – Your Meme Toolbox Awaits</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unleashing-the-magic-searching-for-photos-on-pexels/"><u>[New] Unleashing the Magic Searching for Photos on Pexels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-ae-title-creation/"><u>[Updated] Expert Techniques for AE Title Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-picsart-the-ultimate-2024-guide/"><u>[Updated] Exploring PicsArt The Ultimate 2024 Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-review-of-powerdirector-features-and-tips/"><u>2024 Approved Expert Review of PowerDirector - Features & Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-virtual-realities-shortcomings/"><u>2024 Approved Exploring Virtual Realities' Shortcomings</u></a></li>
-<li><a href="https://windows11.techidaily.com/advance-work-efficiency-with-windows-smart-launcher-tool/"><u>Advance Work Efficiency with Windows' Smart Launcher Tool</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-to-eradicate-stuttering-and-boost-frame-rate-in-your-games-a-2024-perspective/"><u>Comprehensive Solutions to Eradicate Stuttering and Boost Frame Rate in Your Games - A 2024 Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/enablingdisabling-discords-battle-ui/"><u>Enabling/Disabling Discord’s Battle UI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guffaw-generator-pictorial-mixer-for-2024/"><u>Guffaw Generator Pictorial Mixer for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-40c-phone-without-password-by-drfone-android/"><u>How To Unlock Honor Play 40C Phone Without Password?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-efficient-routines-for-video-game-screening/"><u>In 2024, Efficient Routines for Video Game Screening</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-future-with-av1-over-vp9/"><u>In 2024, Exploring the Future with AV1 over VP9</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-your-flavors-top-7-guides-for-delicious-cooking-cinematography/"><u>In 2024, Film Your Flavors Top 7 Guides for Delicious Cooking Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-profit-beginners-guide-on-periscope-earning/"><u>In 2024, From Zero to Profit Beginner’s Guide on Periscope Earning</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-200-action-cameras-thrillers-on-a-shoestring/"><u>In 2024, Top $200 Action Cameras - Thrillers on a Shoestring</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-settings-fix-for-the-vanished-enhancement-tab-in-windows-11/"><u>Restore Your Settings: Fix for the Vanished Enhancement Tab in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-potential-of-color-grading-through-luts-and-ar/"><u>[New] Explore the Potential of Color Grading Through LUTs and AR</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-playtime-registration-and-logout-tutorials/"><u>[Updated] 2024 Approved Playtime Registration & Logout Tutorials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-high-res-displays-the-best-5-for-ps5/"><u>[Updated] Ideal High-Res Displays The Best 5 For PS5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-high-res-video-leading-4k-conversion-tools/"><u>[Updated] Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-online-places-to-raise-audience-numbers/"><u>2024 Approved Ideal Online Places to Raise Audience Numbers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029585915-pc/"><u>画面録画データ量の最適化:PC/スマホ向け圧縮方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-analysis-full-potential-of-bublcams-360-degree-scope-for-2024/"><u>Exclusive Analysis Full Potential of Bublcam's 360-Degree Scope for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-jpggif-converters-the-best-10-list-for-2024/"><u>Free Online JPG/GIF Converters The Best 10 List for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>In 2024, Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-steps-for-photo-motion-blur-in-photoshop/"><u>In 2024, Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-photo-recovery-with-stellars-all-in-one-tool-for-both-pc-and-mac-users/"><u>Mastering Photo Recovery with Stellar's All-in-One Tool for Both PC & Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagined-automation-top-non-chatgpt-solutions-for-developers/"><u>Reimagined Automation: Top Non-ChatGPT Solutions for Developers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-antop-at-127-a-stylish-antenna-bringing-you-free-clear-tv-signals/"><u>Review of the Antop AT-127: A Stylish Antenna Bringing You Free, Clear TV Signals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-successfully-exiting-safe-mode-in-windows-11/"><u>Step-by-Step Guide: Successfully Exiting Safe Mode in Windows 11</u></a></li>
 </ul></div>
 

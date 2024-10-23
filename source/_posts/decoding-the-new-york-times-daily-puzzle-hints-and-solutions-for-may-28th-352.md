@@ -1,7 +1,7 @@
 ---
 title: Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
-date: 2024-10-15T17:31:34.606Z
-updated: 2024-10-17T21:10:21.155Z
+date: 2024-10-16T19:49:23.958Z
+updated: 2024-10-23T19:33:59.879Z
 tags:
   - web
 categories:
@@ -22,10 +22,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -45,13 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![May 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Amenable.
@@ -64,10 +63,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 28th Connections words sorted into four groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Amenable (Yellow):** 
@@ -86,6 +85,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Lit, Scented, Waxy, Wicked
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 28th was tougher than yesterday's game and harder than average. 
@@ -101,10 +107,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left amazing, beginning, genius, and sound. Try as I might, I couldn't see the connection. It turns out that Blue was "Spelling Bee Ranks." That will be a tough one for anyone that has never participated in a spelling bee. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -135,17 +141,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-extinguish-your-discord-access/"><u>[New] Extinguish Your Discord Access</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-script-to-screen-effective-editing-on-windows-10-for-filmmakers/"><u>[New] From Script to Screen Effective Editing on Windows 10 for Filmmakers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-from-bland-to-brilliant-elevate-your-images-in-canva-for-2024/"><u>[Updated] From Bland to Brilliant Elevate Your Images in Canva for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-closer-look-at-high-end-vr-walking-machines/"><u>[Updated] In 2024, A Closer Look at High-End VR Walking Machines</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles-for-2024/"><u>[Updated] Vlogging Hurdles How to Triumph Over Ten Common Obstacles for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-range-humor-development-unleash-your-wit/"><u>2024 Approved Free-Range Humor Development Unleash Your Wit</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-harvesters-making-memes-without-a-price-tag/"><u>In 2024, Humor Harvesters Making Memes Without a Price Tag</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-simple-high-dynamic-range/"><u>In 2024, In-Depth Guide to Simple High Dynamic Range</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-server-woes-no-more-12-solutions-for-pc-apex-users-(156-chars/"><u>No-Server Woes, No More! 12 Solutions for PC Apex Users (<156 Chars)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-installation-of-the-latest-amd-radeon-graphics-drivers-issue-resolved/"><u>Successful Installation of the Latest AMD Radeon Graphics Drivers - Issue Resolved</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-10-parody-songs-that-totally-crack-you-up-for-2024/"><u>[New] 10 Parody Songs That Totally Crack You Up for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-icicle-impressions-2022s-olympic-skaters/"><u>[New] Icicle Impressions 2022'S Olympic Skaters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transform-your-online-reputation-and-increase-your-social-media-following/"><u>[New] Transform Your Online Reputation and Increase Your Social Media Following</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-20-anime-opening-anthems/"><u>[Updated] Excellent 20 Anime Opening Anthems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-disconnected-headphone-unit/"><u>[Updated] Fixing Disconnected Headphone Unit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-rated-vehicle-tracking-cameras-overview/"><u>[Updated] Highest Rated Vehicle Tracking Cameras Overview</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-missing-links-to-proper-window-11-mastery-revealed-here/"><u>[Updated] In 2024, The Missing Links to Proper WINDOW 11 Mastery Revealed Here</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-elite-gear-top-5-video-chat-headsets-for-2024/"><u>[Updated] YouTube's Elite Gear Top 5 Video Chat Headsets for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-designing-text-in-3d-space-ps/"><u>2024 Approved Expert Tips for Designing Text in 3D Space PS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-the-most-shared-stock-photos-and-backstories/"><u>2024 Approved Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-f04-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy F04</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-zoom-in-tiktok-creation-for-2024/"><u>Harnessing the Power of Zoom in TikTok Creation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-setup-aborted-due-to-access-issues-in-temporary-directory-error-code-5/"><u>How to Correct 'Setup Aborted' Due to Access Issues in Temporary Directory (Error Code 5)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>In 2024, Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>In 2024, From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
 </ul></div>
 

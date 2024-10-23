@@ -1,7 +1,7 @@
 ---
 title: Advanced Smart Doc Solutions Transforming FinTech Industry
-date: 2024-08-22T06:11:53.496Z
-updated: 2024-08-23T06:11:53.496Z
+date: 2024-10-19T20:56:15.218Z
+updated: 2024-10-23T20:13:35.176Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4c3c65f6b07b6c1127c499f9b9889ab3244702ce710d3692e68eb1f54ab083aa.jpg
@@ -31,8 +31,6 @@ USE CASE: KYC (KNOW YOUR CUSTOMER) Identify and remediate KYC vulnerabilities Au
 
 French investment bank processes 10 million+ pages, 400 different document types, with single solution 10 million+ USE CASE: INVESTMENT BANKING Manage finance, investment, and guarantee documents with a single solution Automate processing of hundreds of semi or unstructured document types Classify document types for indexing in document management system Easily retrieve documents from network shares 10 
 
-
-
 0/0
 
 匹配案例每页限制结果 1 个
@@ -61,15 +59,11 @@ French investment bank processes 10 million+ pages, 400 different document types
 
 [![Created with BuildVu](https://www.abbyy.com/buildvu-logo.png)](https://www.idrsolutions.com/online-pdf-to-html-converter)
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -78,8 +72,36 @@ French investment bank processes 10 million+ pages, 400 different document types
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-9-command-center-of-live-gaming-streams/"><u>[Updated] In 2024, 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlock-the-art-of-recording-all-your-hulu-content/"><u>[Updated] Unlock the Art of Recording All Your Hulu Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-12-affordable-and-accessible-online-video-playing-software-pctabletphone-for-2024/"><u>Best 12 Affordable & Accessible Online Video Playing Software (PC/Tablet/Phone) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/empower-your-website-with-the-efficiency-of-cookiebot-technology/"><u>Empower Your Website with the Efficiency of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-digital-marketing-strategies-using-cookiebot-solutions/"><u>Enhance Your Digital Marketing Strategies Using Cookiebot Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-digital-campaigns-effortlessly-using-the-advanced-technology-of-cookiebot/"><u>Enhancing Digital Campaigns Effortlessly Using the Advanced Technology of Cookiebot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-digital-strategies-with-the-power-of-cookiebot-technology/"><u>Enhancing Digital Strategies with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-website-engagement-with-powerful-cookiebot-technology/"><u>Enhancing Website Engagement with Powerful Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fortschritt-und-innovation-in-der-zukunft-von-handelskredit-herausforderungen-and-strategien/"><u>Fortschritt Und Innovation in Der Zukunft Von Handelskredit - Herausforderungen & Strategien</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-overcome-connectivity-issues-in-windows-7-with-driver-fixes/"><u>Guide to Overcome Connectivity Issues in Windows 7 with Driver Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-cookiebot-for-streamlined-advertising-campaigns/"><u>Harnessing the Power of Cookiebot for Streamlined Advertising Campaigns</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-iconic-open-world-games-to-commit-to/"><u>In 2024, Iconic Open World Games to Commit To</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-5-monitors-to-boost-your-ps5-for-2024/"><u>Perfect 5 Monitors to Boost Your PS5 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862797779-ultrawide-revolution-with-samsungs-premium-oled-at-an-all-time-price-drop-shave-off-60-now/"><u>UltraWide Revolution with Samsung's Premium OLED at an All-Time Price Drop - Shave Off $60 Now!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/upgrading-avoided-smart-alternatives-to-windows-11-you-should-know-about/"><u>Upgrading Avoided: Smart Alternatives to Windows 11 You Should Know About</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

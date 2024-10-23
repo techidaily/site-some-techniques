@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-10-15T23:01:39.447Z
-updated: 2024-10-17T21:42:17.803Z
+date: 2024-10-22T20:43:35.957Z
+updated: 2024-10-23T19:41:53.563Z
 tags:
   - deals
 categories:
@@ -40,35 +40,24 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-finest-6-economical-4k-hd-projector-picks/"><u>[New] Finest 6 Economical 4K HD Projector Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gigglesome-footage-downloader/"><u>[New] Gigglesome Footage Downloader</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[New] In 2024, Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-niche-to-mainstream-amassing-a-million-view-channel/"><u>2024 Approved From Niche to Mainstream Amassing a Million-View Channel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/educator-discount-perks-your-pathway-to-lower-cost-dell-computers/"><u>Educator Discount Perks: Your Pathway to Lower-Cost Dell Computers</u></a></li>
-<li><a href="https://solve-info.techidaily.com/expert-processing-partners-boosting-abbyy-advanced-functionality/"><u>Expert Processing Partners Boosting ABBYY Advanced Functionality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/face-enhancement-integrating-motion-blur-in-photos-for-2024/"><u>Face Enhancement Integrating Motion Blur in Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-grayscale-to-glamour-professional-color-adjustment-for-2024/"><u>From Grayscale to Glamour Professional Color Adjustment for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy XCover 6 Pro Tactical Edition to Another | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos-for-2024/"><u>How to Use Android Phones in Watching VR or 360 Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immediate-access-best-5-convertors-no-download-required-for-2024/"><u>Immediate Access Best 5 Convertors, No Download Required for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-sound-quality-top-6-recommendations-for-streamers/"><u>In 2024, Innovating Sound Quality Top 6 Recommendations for Streamers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-guide-uploading-vimeo-videos-for-2024/"><u>Instagram Guide Uploading Vimeo Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplified-tech-advice-easy-steps-to-restore-your-samsung-televisions-default-configuration/"><u>Simplified Tech Advice - Easy Steps to Restore Your Samsung Televisions Default Configuration</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smart-strategies-for-controlling-and-evaluating-monthly-data-use/"><u>Smart Strategies for Controlling and Evaluating Monthly Data Use</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-usb-wi-fi-adapters-of-2024/"><u>The Best USB Wi-Fi Adapters of 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-compatible-with-windows-10-and-11/"><u>Update Your HP Printer Software: Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-red-eye-correction-for-iphone-users-tips-and-tricks/"><u>[New] Free Red-Eye Correction for iPhone Users - Tips and Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-business-communication-essentials-free-slide-show-tools/"><u>[Updated] Business Communication Essentials – Free Slide Show Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-hiring-best-film-makers/"><u>[Updated] Expert Tips for Hiring Best Film Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-platforms-creating-movies-from-photo-galleries/"><u>[Updated] Ideal Platforms Creating Movies From Photo Galleries</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlock-your-contents-potential-mastering-the-art-of-youtube-featured-listings/"><u>2024 Approved Unlock Your Content's Potential Mastering the Art of YouTube Featured Listings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-g42-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia G42 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-costs-boost-output-enjoy-major-savings-on-elegoos-neptune-3plus-great-for-large-printing-projects/"><u>Cut Costs, Boost Output: Enjoy Major Savings on Elegoo's Neptune 3+ - Great for Large Printing Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-best-iphone-selfie-tools-ranked-8-for-2024/"><u>Exploring the Best iPhone Selfie Tools, Ranked #8 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hero5-vs-yi-4k-updated-battle-for-best-action-cam-for-2024/"><u>Hero5 Vs. Yi 4K Updated Battle for Best Action Cam for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo V27 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-lenovo-x240-drivers-quickly-and-easily/"><u>How to Update Lenovo X240 Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

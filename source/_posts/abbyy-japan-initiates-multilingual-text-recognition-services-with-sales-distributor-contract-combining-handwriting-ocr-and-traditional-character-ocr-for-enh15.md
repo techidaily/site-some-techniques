@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Japan Initiates Multilingual Text Recognition Services with Sales Distributor Contract: Combining Handwriting OCR & Traditional Character OCR for Enhanced Value"
-date: 2024-08-22T06:09:25.457Z
-updated: 2024-08-23T06:09:25.457Z
+date: 2024-10-20T18:54:18.090Z
+updated: 2024-10-23T21:49:25.470Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
@@ -60,8 +60,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,8 +67,28 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-new-dawn-for-unadvertised-windows-start-menus/"><u>A New Dawn for Unadvertised Windows Start Menus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacular-the-journey-with-vce-22-for-2024/"><u>From Standard to Spectacular The Journey with VCE 2.2 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms-for-2024/"><u>From Unwrapped to Personalized Perfection 10 Leading Shopping Platforms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fun-and-flight-5-best-drone-options-for-children-for-2024/"><u>Fun and Flight 5 Best Drone Options for Children for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-android-gameplay-apk-to-victory-guide-for-2024/"><u>Funimate Android Gameplay - APK to Victory Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funnybox-simple-setup-for-content-creators-for-2024/"><u>FunnyBox Simple Setup for Content Creators for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusionflicker-compiling-media-on-sierra-screens-for-2024/"><u>FusionFlicker Compiling Media on Sierra Screens for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-c53-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme C53 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006802763-nba-2k20-fixes-resolving-the-game-crashing-problems-swiftly/"><u>NBA 2K20 Fixes: Resolving the Game-Crashing Problems Swiftly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-canais-mais-populares-para-ver-anime-online-de-graca-em-2024/"><u>Top 13 Canais Mais Populares Para Ver Anime Online De Graça Em 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002880995-unveiling-the-reasons-behind-immortals-fenyx-risings-postponed-debut-issue-resolved/"><u>Unveiling the Reasons Behind Immortals Fenyx Rising's Postponed Debut - Issue Resolved</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

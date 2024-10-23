@@ -1,7 +1,7 @@
 ---
 title: "Leveraging AI: ABBYY's Educational Presentation at the 2018 AIIM Convention"
-date: 2024-08-22T06:08:50.968Z
-updated: 2024-08-23T06:08:50.968Z
+date: 2024-10-18T16:44:53.774Z
+updated: 2024-10-23T18:54:54.742Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d9892ee74121db7b4e7f60bc.jpg
@@ -53,8 +53,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,9 +60,27 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-lighten-spirits-with-adobes-meme-magic/"><u>[Updated] Lighten Spirits with Adobe's Meme Magic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-restoring-obs-full-screen-display-for-2024/"><u>[Updated] Restoring OBS Full Screen Display for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplify-a-surplus-of-saves-mastering-edits-for-less-clutter/"><u>[Updated] Simplify a Surplus of Saves Mastering Edits for Less Clutter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fading-frequencies-the-gentle-way-with-garageband/"><u>2024 Approved Fading Frequencies The Gentle Way with Garageband</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-reality-check-does-aurora-meet-expectations/"><u>2024 Approved HDR Reality Check Does Aurora Meet Expectations?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flight-dynamics-unveiling-bebops-parrot-capabilities-for-2024/"><u>Flight Dynamics Unveiling Bebop’s Parrot Capabilities for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focused-freedom-advanced-mounting-solutions-for-phonescams-for-2024/"><u>Focused Freedom Advanced Mounting Solutions for Phones/Cams for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-dominate-instagram-with-superior-reel-content/"><u>In 2024, Dominate Instagram with Superior Reel Content</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-blaze-2-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Blaze 2 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s18-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo S18 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-linklister-video-grab-from-fb-groups/"><u>In 2024, LinkLister Video Grab From FB Groups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-potential-within-chatgpts-token-boundaries/"><u>Maximizing Potential Within ChatGPT's Token Boundaries</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-redmi-note-12-pro-4g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi Redmi Note 12 Pro 4G Android SIM Unlock APK</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 License Code: A Step-by-Step Guide"
-date: 2024-10-11T17:24:53.391Z
-updated: 2024-10-17T18:21:06.032Z
+date: 2024-10-22T16:50:31.919Z
+updated: 2024-10-23T17:06:40.623Z
 tags:
   - deals
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 * [What Is a Windows Product Key?](https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-n3-pattern-lock-screen-by-drfone-android/)
 * [Find an OEM Product Key With Command Prompt](https://facebook-videos.techidaily.com/2024-approved-beam-your-best-achieving-hd-quality-with-fb-live/)
 * [Show a Retail Product Key Using ShowKeyPlus](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  Regardless of what kind of key you have, product keys are 25 characters long and composed of a mixture of capital letters and numbers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Find an OEM Product Key With Command Prompt
 
  If your PC has an OEM license—in other words, if you purchased a computer that came with Windows preinstalled—you can find the license key using Command Prompt, or PowerShell. The command is the same in both programs. 
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![Command prompt displaying key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Right_Size_Console-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Show a Retail Product Key Using ShowKeyPlus
 
  If you purchased and installed Windows yourself, [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv) is a good way to find your product key. ShowKeyPlus is a free application available on the Microsoft Store.
@@ -73,30 +66,37 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![In start menu, type "Microsoft Store", then click open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-09_12h19_00.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the Microsoft Store is open, go to the top of the page and enter **ShowKeyPlus** into the search bar, and hit enter.
 
 !["ShowKeyPlus" in a red box in the search bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/IntoMicrosoft-store.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the ShowKeyPlus app page, click "Install." Once it is done installing, the "Install" button will change into an "Open" button. Click "Open."
 
 ![Click install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Points_To_Install.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ShowKeyPlus displays the currently installed key and the OEM key.
 
 ![ShowKeyPlus Image1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ShowKeyPlus-Image1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're using an OEM copy of Windows 11, both the green and blue boxes display your product key. If you installed a version of Windows 11 you purchased yourself, the green box is the key currently in use.
@@ -120,24 +120,24 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-record-switch-gameplay/"><u>[New] 2024 Approved How To Record Switch Gameplay</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expeditious-windows-file-audit-tactics/"><u>[New] Expeditious Windows File Audit Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-filmmakers-speedy-setup-secrets-for-diy-projects/"><u>[New] Expert Filmmaker's Speedy Setup Secrets for DIY Projects</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes-for-2024/"><u>[New] The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grand-revelations-in-cinema-trailers/"><u>[Updated] Grand Revelations in Cinema Trailers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[Updated] How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-pros-guide-to-best-ever-360-degree-cams-2023/"><u>[Updated] The Pro’s Guide to Best-Ever 360-Degree Cams, 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flexible-cam-mount-revolutionary-positioning-control/"><u>2024 Approved Flexible Cam Mount Revolutionary Positioning Control</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-glimmering-glides-of-2022s-speed-skaters/"><u>2024 Approved Glimmering Glides of 2022'S Speed Skaters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos/"><u>Elevate Your Tech Game Master the Craft of Screen Recordings in macOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extensive-appraisal-hero4-black-capabilities-for-2024/"><u>Extensive Appraisal Hero4 Black Capabilities for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-remove-image-background-with-photopea-for-2024/"><u>How to Remove Image Background With Photopea for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-asus-rog-phone-8-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Asus ROG Phone 8 Pro Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-follower-fliers-best-personal-drone-tech/"><u>In 2024, Follower Fliers Best Personal Drone Tech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-g-stylus-5g-2023-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G Stylus 5G (2023) Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>In 2024, The Best Wedding Stories Online YouTube + Vimeo's Selection (8)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y17ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y17ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-hp-laserjet-1018-drivers-easy-download-for-smooth-printing-experience/"><u>Official HP LaserJet 1018 Drivers: Easy Download for Smooth Printing Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-vs-yi-4k-the-ultimate-battle-of-action-cam-innovation-in-23/"><u>[New] GoPro Vs. Yi 4K The Ultimate Battle of Action Cam Innovation in '23</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-hymn-based-ringtone-options-for-every-believer/"><u>[New] In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-access-full-range-of-groups-shared-media-for-2024/"><u>[Updated] How to Access Full Range of Group's Shared Media for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>2024 Approved Examining the Elite The Top 10 PC VR Headsets of Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>2024 Approved Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-essentials-in-av1-compression/"><u>2024 Approved Exploring the Essentials in AV1 Compression</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-and-understanding-touchless-technologies/"><u>2024 Approved Identifying and Understanding Touchless Technologies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-fundamentals-of-chroma-magic-from-startups-to-savvy-screen-tech/"><u>2024 Approved The Fundamentals of Chroma Magic From Startups to Savvy Screen Tech</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-digital-footprint-crafting-compelling-shorts-thumbnails-for-2024/"><u>Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-fragmented-to-flawless-mastering-kinemaster-edits-for-2024/"><u>From Fragmented to Flawless Mastering Kinemaster Edits for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits/"><u>In 2024, From Basics to Brilliance The Ultimate Guide to HDR Portraits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>In 2024, From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-holistic-mobility-inspection-study/"><u>In 2024, Holistic Mobility Inspection Study</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/life-is-strange-triumph-over-true-colors-crash-issues-a-detailed-guide/"><u>Life Is Strange: Triumph Over True Colors Crash Issues – A Detailed Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-and-resolving-msvbvm50dll-missing-dll-dilemma/"><u>Navigating and Resolving 'Msvbvm50.dll' - Missing DLL Dilemma</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/navigating-screen-recordings-with-gotomeeting-for-2024/"><u>Navigating Screen Recordings with GoToMeeting for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/notice-hacked-recognizing-and-resolving-facebook-breaches/"><u>Notice Hacked? Recognizing & Resolving Facebook Breaches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-techniques-for-ieframedll-errors/"><u>Step-by-Step Troubleshooting Techniques for IEFrame.DLL Errors</u></a></li>
 </ul></div>
 

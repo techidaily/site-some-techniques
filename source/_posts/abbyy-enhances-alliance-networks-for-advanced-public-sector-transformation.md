@@ -1,7 +1,7 @@
 ---
 title: ABBYY Enhances Alliance Networks for Advanced Public Sector Transformation
-date: 2024-08-22T06:09:23.156Z
-updated: 2024-08-23T06:09:23.156Z
+date: 2024-10-18T18:23:50.245Z
+updated: 2024-10-23T19:11:26.806Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f47849200c699a169a5f76d3f.png
@@ -41,6 +41,13 @@ _Bruce Orcutt, SVP of Product Marketing at ABBYY_
 
 To learn more about how government agencies can improve the citizen experience and have their information work smarter, visit <https://www.abbyy.com/hub/gov/ai-identify-proofing-is-transforming-gov-services/?page=20>.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -52,22 +59,34 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### About MCCi
 
 MCCi is a business process automation company that accelerates digital transformation by adding intelligence to your processes. As an IT services company with expertise in delivering end-to-end professional services provider, we provide our clients some of the leading technologies for business process automation, including Laserfiche for content services, Blue Prism and UiPath for robotic process automation, ABBYY for intelligent capture, and One Span for digital signatures. We are a trusted partner to over 1,100 government organizations, including cities, counties, state agencies, special districts, K-12, and higher education and are a proud GovTech 100 company for 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -83,8 +102,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +109,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-solve-audio-absence-in-twitch-style-tweets-for-2024/"><u>[New] Solve Audio Absence in Twitch-Style Tweets for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>[Updated] Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-5-cost-effective-video-editing-software-for-gamers/"><u>[Updated] In 2024, Top 5 Cost-Effective Video Editing Software (For Gamers)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/applications-include-aircraft-part-fabrication-tank-manufacturing-and-joining-dissimilar-metals/"><u>Applications Include Aircraft Part Fabrication, Tank Manufacturing, and Joining Dissimilar Metals.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-obscurity-to-the-top-the-seo-playbook-for-podcasters-for-2024/"><u>From Obscurity to the Top The SEO Playbook for Podcasters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-raw-files-to-artwork-beginners-guide-to-lunapic-for-2024/"><u>From Raw Files to Artwork Beginner’s Guide to LunaPic for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zero-to-trendsetter-solo-podcast-success-story-for-2024/"><u>From Zero to Trendsetter Solo Podcast Success Story for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frugal-shopping-for-cheap-vr-headsets-china-for-2024/"><u>Frugal Shopping for Cheap VR Headsets (China) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusing-fun-and-functionality-top-6-engaging-video-formats-for-2024/"><u>Fusing Fun and Functionality Top 6 Engaging Video Formats for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gamer-gold-grindings-pewdiepies-profit-profile-for-2024/"><u>Gamer Gold Grindings PewDiePie's Profit Profile for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/identifiez-et-corrigez-les-problemes-courants-avec-lexecution-automatique-sous-windows-11/"><u>Identifiez Et Corrigez : Les Problèmes Courants Avec L'exécution Automatique Sous Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-constructing-a-premium-video-editing-pc-from-the-ground-up/"><u>In 2024, Constructing a Premium Video Editing PC From the Ground Up</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-premier-digital-audio-editor/"><u>New Premier Digital Audio Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-18-applicazioni-gratuite-migliori-per-ritaglio-di-video/"><u>Top 18 Applicazioni Gratuite Migliori per Ritaglio Di Video</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 15? | Dr.fone</u></a></li>
+</ul></div>
 

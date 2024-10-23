@@ -1,7 +1,7 @@
 ---
 title: "Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?"
-date: 2024-10-15T21:36:46.626Z
-updated: 2024-10-18T02:57:17.947Z
+date: 2024-10-20T16:02:03.941Z
+updated: 2024-10-23T18:30:54.790Z
 tags:
   - cutting-edge
 categories:
@@ -24,10 +24,16 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 * [Should You Buy the Rivian R1S or R1T?](https://screen-video-capture.techidaily.com/updated-in-2024-achieving-auditory-perfection-zooming-up-your-sound-quality/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,13 +46,20 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Rivian R1S
@@ -100,13 +113,6 @@ Expand
 
 [See at Rivian](https://rivian.com/reserve/r1s) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  R1S Price and Availability
 
  The Rivian R1S starts at $78,000 and includes a 260-mile range, being able to seat seven passengers. The quad-motor AWD trim I tested had a top range of 303 miles because it added a large battery pack, which was slightly offset by its 22-inch sport wheels. The review unit had a retail price of $95,500.
@@ -131,16 +137,16 @@ Tyler Hayes / How-To Geek
 
  This luxurious touch helps keep items from falling out when the rear door is opened. But I suppose the lower half could also provide a place for people to sit too. It let my legs dangle off comfortably. Only the top part was powered. The smaller bottom section needed to be manually lowered or raised.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Interior Design: (Mostly) Comfortable Seating With a Third Row
 
 ![Looking into the back of the Rivian R1S with all the seats down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5e4dca55-2894-4958-adc7-bdb80cac7f74.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -152,19 +158,6 @@ Tyler Hayes / How-To Geek
 
 ![Rivian R1S third-row seats have storage and a USB-C charging port in the armrests](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/cc261bbe-af7e-4a91-96d2-048dd116d765.JPG) 
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tyler Hayes / How-To Geek
 
 Storage and USB-C charging port in the armrests for the third-row
@@ -173,19 +166,6 @@ Storage and USB-C charging port in the armrests for the third-row
 
 ![Looking at the third-row seats in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/53657a5d-252e-469a-b9f3-401f2ab3a0e1.JPG) 
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tyler Hayes / How-To Geek
 
 Peaking into the third-row seats
@@ -193,13 +173,6 @@ Peaking into the third-row seats
  Each side seat in the middle row had a button to slide forward and let passengers get to the last row. All of this seemed common compared to other vehicles with seven seats. Lowering the rear row can provide a healthy amount of cargo room, although lowering all the seats makes for a massive amount of storage.
 
 ![Rivian R1S has power and an air compressor in the trunk area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/b67322fe-cfa6-490c-9fac-efe5a1d295e8.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -230,10 +203,10 @@ Tyler Hayes / How-To Geek
 ![The large 15.3-inch display in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/32a07ad3-f53a-4cb1-a4bf-fc37817d38b7.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -262,6 +235,13 @@ Tyler Hayes / How-To Geek
 
 ![Screenshots from the Rivian App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rivian-app-shots.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Rivian
 
  I had to use a keyfob for this review because of an issue gaining access to the Rivian app—available for [iPhone](https://apps.apple.com/us/app/rivian/id1570215232) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000533/https://play.google.com/store/apps/details?id=com.rivian.android.consumer&hl=en%5FUS&gl=US). I did use the app as my vehicle key for my previous review, and it worked great. The app allows for most of the interactions you'd want for your car remotely, like setting a charging schedule, setting a charging limit, unlocking it, opening the hood, controlling the climate, and so on. This is a modern vehicle app, similar to Tesla's, unlike the myVW one offered for the ID.4.
@@ -285,6 +265,13 @@ Tyler Hayes / How-To Geek
  What I really liked about the Rivian charging experience as is, however, was how proactive it was about providing all the charging information I wanted to see. For example, it showed how fast the station was charging at, when it would finish, how many miles had been added, and what the total range would be for the different driving modes when finished. This is in direct opposition to [how unhelpful VW's ID.4 was in regard to charging](https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v27-device-by-drfone-android/).
 
  In addition to that information on the vehicle’s screen, it also allowed me to slow down the charging speed if I wanted to. You might want to do that to not stress certain locations, like when visiting relatives. Plus, the automatic charging port would close when the vehicle was engaged so I didn't have to manually close it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Head-to-Head: R1T vs. R1S
 
@@ -315,6 +302,13 @@ Tyler Hayes / How-To Geek
 ##  Should You Buy the Rivian R1S or R1T?
 
 ![Rivian R1S from the rear showing the trunk open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/3b8a8a65-f097-409c-a036-8e1dfbd721ea.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -351,24 +345,21 @@ From city streets to far-off trails, explore all types of terrain through all ki
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-screen-to-editors-desk-top-movie-moments/"><u>[New] From Screen to Editor's Desk Top Movie Moments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infusing-emotion-into-documentary-narratives/"><u>[New] Infusing Emotion Into Documentary Narratives</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-money-down-mics-the-frugal-filmmakers-list/"><u>[New] No-Money-Down Mics The Frugal Filmmaker's List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-side-by-side-hero4-vs-hero5-analysis-for-2024/"><u>[New] Side by Side Hero4 vs Hero5 Analysis for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-transforming-business-with-metaverse-ideas-for-2024/"><u>[New] Transforming Business with Metaverse Ideas for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-realm-of-free-photo-frame-video-downloads/"><u>[New] Unlocking the Realm of Free Photo Frame Video Downloads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streaming-virtual-classrooms/"><u>[Updated] 2024 Approved Streaming Virtual Classrooms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-narrowing-down-dji-action-gopro-max-and-insta360-series/"><u>[Updated] Narrowing Down DJi Action, GoPro Max, and Insta360 Series</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-free-text-animation-to-videos/"><u>2024 Approved How to Add Free Text Animation to Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortless-h265-streaming-on-chrome-fixes-for-persistent-black-screen-problems/"><u>Effortless H.265 Streaming on Chrome: Fixes for Persistent Black Screen Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-static-shots-to-time-lapse-video-tapestry/"><u>In 2024, From Static Shots to Time-Lapse Video Tapestry</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-future-proof-files-and-folders-at-zero-price-point-top-20-cloud-service-picks-1tbplus/"><u>In 2024, Future-Proof Files & Folders at Zero Price Point Top 20 Cloud Service Picks (1TB+)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-hooked-on-telegram-advertising-a-starters-guide/"><u>In 2024, Getting Hooked on Telegram Advertising A Starter's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hilarity-in-a-click-meme-creation/"><u>In 2024, Hilarity in a Click (Meme Creation)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-enhancing-testimonial-video-authenticity/"><u>In 2024, Innovative Methods for Enhancing Testimonial Video Authenticity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/increase-photographic-imagery-keeping-details-intact-for-2024/"><u>Increase Photographic Imagery, Keeping Details Intact for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unhiding-hidden-bluetooth-in-device-management-space/"><u>Unhiding: Hidden Bluetooth in Device Management Space</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-a-list-of-the-top-spongebob-voice-generators/"><u>Updated In 2024, A List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-writing-enthralling-videography-content/"><u>[New] Guide to Writing Enthralling Videography Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-depth-examination-samsung-gear-360-virtual-reality-lens-for-2024/"><u>[New] In-Depth Examination Samsung Gear 360 Virtual Reality Lens for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>[New] Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frequent-monetization-is-it-real-on-youtube/"><u>[Updated] 2024 Approved Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-visual-dynamics-the-power-of-luminances-hdr/"><u>[Updated] Evaluating Visual Dynamics The Power of Luminance's HDR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>[Updated] Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlocking-xcreative-hub-potential-a-full-guide-review/"><u>[Updated] Unlocking XCreative Hub Potential - A Full Guide Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-incorporate-your-podcast-into-app-store/"><u>2024 Approved How To Incorporate Your Podcast Into App Store</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cyberspace-to-steps-top-tier-treadmill-innovations-for-2024/"><u>From Cyberspace to Steps Top-Tier Treadmill Innovations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hear-the-difference-on-chrome-the-ultimate-guide-to-voice-alteration-apps-for-2024/"><u>Hear the Difference on Chrome The Ultimate Guide to Voice Alteration Apps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-critical-evaluation-of-ustream-with-equivalents/"><u>In 2024, A Critical Evaluation of Ustream with Equivalents</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-androids-creative-collage-software-haven/"><u>In 2024, Explore Android’s Creative Collage Software Haven</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/master-screen-recording-capturing-and-preserving-snaps-efficiently-for-2024/"><u>Master Screen Recording Capturing and Preserving Snaps Efficiently for 2024</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-galaxy-a34-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Galaxy A34 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sb210-soundbot-unveiling-its-exceptional-acoustic-capabilities-for-a-cozy-winter-season/"><u>SB210 Soundbot: Unveiling Its Exceptional Acoustic Capabilities for a Cozy Winter Season</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/winfr-simplified-recovery-tutorial-retrieve-lost-data-on-various-windows-oses/"><u>Winfr Simplified Recovery Tutorial - Retrieve Lost Data on Various Windows OSes</u></a></li>
 </ul></div>
 

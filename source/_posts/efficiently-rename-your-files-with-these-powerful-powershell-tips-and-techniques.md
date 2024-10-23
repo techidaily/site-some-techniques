@@ -1,7 +1,7 @@
 ---
 title: Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
-date: 2024-10-12T03:04:33.285Z
-updated: 2024-10-17T17:16:07.242Z
+date: 2024-10-18T16:58:30.075Z
+updated: 2024-10-23T21:07:15.422Z
 tags:
   - desktop
 categories:
@@ -30,20 +30,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -61,6 +54,13 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -74,10 +74,10 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -90,6 +90,13 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -97,19 +104,6 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -132,21 +126,24 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-delving-into-color-modification-through-lut-techniques/"><u>[New] 2024 Approved Delving Into Color Modification Through LUT Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-firefoxs-multitasking-toolkit-the-pip-mode/"><u>[New] Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-formulating-fascinating-film-moments/"><u>[New] Formulating Fascinating Film Moments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-inspection-gopro-silver-hero4-detailed-review/"><u>[New] Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-review-showdown-max-360-vs-hero-11-edition/"><u>[New] GoPro Review Showdown Max 360 VS Hero 11 Edition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>[Updated] 2024 Approved From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovations-of-sony-bdp-s6700-a-closer-look/"><u>[Updated] Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-nba-game-broadcasting/"><u>[Updated] Innovative Approaches to NBA Game Broadcasting</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-reel-arena-with-precision/"><u>[Updated] Navigating Instagram's Reel Arena with Precision</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-reels-on-instagram/"><u>2024 Approved How to Make Reels on Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-methodology-for-erasing-canvas-backdrops/"><u>2024 Approved Step-by-Step Methodology for Erasing Canvas Backdrops</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>2024 Approved YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
-<li><a href="https://article-posts.techidaily.com/360-degree-rigging-solutions-vr-production-for-2024/"><u>360 Degree Rigging Solutions VR Production for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-photography-tricks-for-ios-11-users/"><u>Essential Photography Tricks for iOS 11 Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-11x-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme 11X 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-pictorial-archive-networks/"><u>[New] Excellent Pictorial Archive Networks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exemplary-episodes-for-auditory-drama/"><u>[New] Exemplary Episodes for Auditory Drama</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-gopro-hero5-sessions/"><u>[New] Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/"><u>[New] From Streaming to Savings Preserving Your Internet Tunes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-using-chrome-pip-across-devices/"><u>[Updated] 2024 Approved A Comprehensive Guide to Using Chrome PIP Across Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>[Updated] 2024 Approved How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-peak-performance-best-oculus-rift-players/"><u>[Updated] Exploring Peak Performance Best Oculus Rift Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-time-lapse-video-with-canon-camera/"><u>[Updated] How to Create Time-Lapse Video with Canon Camera</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-wizardry-of-images-elevate-your-snapchat-with-edits-for-2024/"><u>[Updated] The Wizardry of Images Elevate Your Snapchat with Edits for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y36-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y36 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convertisseur-gratuite-online-pour-transformer-un-fichier-wmv-en-format-3gp-avec-movavi/"><u>Convertisseur Gratuite Online Pour Transformer Un Fichier WMV en Format 3GP Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-open-top-7-laptop-dvd-player-software-options/"><u>In 2024, Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-the-full-potential-of-animoji-on-iphone-x/"><u>In 2024, Grasping the Full Potential of Animoji on iPhone X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-honing-skills-for-hiring-best-filmmakers/"><u>In 2024, Honing Skills for Hiring Best Filmmakers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12-pro-4g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12 Pro 4G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-slack-and-filmora-scheduling-meetings-flawlessly/"><u>Mastering Slack & Filmora Scheduling Meetings Flawlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-transcription-tools-for-silent-input-for-2024/"><u>Premier Transcription Tools for Silent Input for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-for-techies-starting-your-pc-in-safe-mode-and-uninstalling-amdnvidia-graphics-software-on-windows-8/"><u>Quick Fix for Techies: Starting Your PC in Safe Mode and Uninstalling AMD/NVIDIA Graphics Software on Windows 8</u></a></li>
 </ul></div>
 

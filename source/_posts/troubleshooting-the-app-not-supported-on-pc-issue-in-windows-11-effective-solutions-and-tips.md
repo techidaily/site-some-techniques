@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-10-13T16:17:13.587Z
-updated: 2024-10-17T20:07:46.367Z
+date: 2024-10-16T17:13:30.452Z
+updated: 2024-10-23T19:33:49.010Z
 tags:
   - desktop
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Open the App as an Admin
 
  If the app lacks certain rights, that may be why it displays the above error. In this case, launch the app as an administrator to fix the problem.
@@ -52,21 +59,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Activate Developer Mode
 
@@ -80,14 +88,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
- Quit Settings and launch your app.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Quit Settings and launch your app.
 
 ##  Remove and Reinstall the App
 
@@ -99,34 +107,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the open prompt, select "Uninstall" to delete the app.
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
 
@@ -151,17 +145,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-from-amateur-to-expert-crafting-professional-gopro-content/"><u>[New] From Amateur to Expert Crafting Professional Gopro Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-virtual-escapes-tour-techniques/"><u>[New] Navigating Virtual Escapes Tour Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-crafted-perfection-ranking-the-best-7-stardew-mods-7-for-2024/"><u>[Updated] Crafted Perfection Ranking the Best 7 Stardew Mods (#7) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-prime-cardboard-compatible-vr-adventures/"><u>[Updated] Explore Prime Cardboard-Compatible VR Adventures</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-from-youtube-to-tiktok-and-now-vimeo-gifs-for-2024/"><u>[Updated] From YouTube to TikTok, and Now Vimeo-Gifs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks/"><u>2024 Approved Expert-Level Quick Fixes The Ultimate 5 DIY Filmmaking Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-ingenious-ways-to-modify-voices-for-free/"><u>2024 Approved Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-asmr-enhances-your-daily-life-learn-here/"><u>In 2024, How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-instructions-installing-countdown-clocks-in-obs-for-2024/"><u>In-Depth Instructions Installing Countdown Clocks in OBS for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-rhythms-with-the-magix-groove-master-suite-for-2024/"><u>Innovative Rhythms with the Magix Groove Master Suite for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools-for-2024/"><u>Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/user-experience-breakdown-of-zmis-portable-20000mah-battery-pack/"><u>User Experience Breakdown of ZMI's Portable 20,000mAh Battery Pack</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-cracking-the-code-personalized-tiktok-hash-hunt/"><u>[New] 2024 Approved Cracking the Code Personalized TikTok Hash Hunt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[New] Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-sphere-photos-and-video-on-apple-devices/"><u>[New] Full-Sphere Photos and Video on Apple Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-srt-creation-and-enhancement/"><u>[New] Innovative Strategies for SRT Creation and Enhancement</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[New] Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlining-presentations-webcam-recording-tips/"><u>[New] Streamlining Presentations Webcam Recording Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>[New] The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-redmi-a2plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi Redmi A2+ Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigglegenius-funniest-memes-await-for-2024/"><u>GiggleGenius Funniest Memes Await for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-best-online-stock-market-channels-reviewed/"><u>In 2024, Best Online Stock Market Channels Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>In 2024, Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-circle-camera-unboxing-and-tests/"><u>In 2024, Full Circle Camera Unboxing & Tests</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimize-your-workday-with-io-screen-capture-expertise/"><u>In 2024, Optimize Your Workday with IO Screen Capture Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-what-is-google-ar-sticker-and-are-there-alternatives/"><u>In 2024, What Is Google AR Sticker and Are There Alternatives?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-methodology-for-adding-srt-in-mp4-files-for-2024/"><u>In-Depth Methodology for Adding SRT in MP4 Files for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-video-trimming-for-maximum-instagram-impact-mac-for-2024/"><u>Mastering Video Trimming for Maximum Instagram Impact (Mac) for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-darkness-the-ultimate-guide-to-understanding-bloodborne/"><u>Unveiling Darkness: The Ultimate Guide to Understanding Bloodborne</u></a></li>
 </ul></div>
 

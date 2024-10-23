@@ -1,7 +1,7 @@
 ---
 title: ABBYY Mobile OCR Software Revolutionizes Portable Loan Verification - Fun and Fast
-date: 2024-08-22T06:10:28.358Z
-updated: 2024-08-23T06:10:28.358Z
+date: 2024-10-21T16:33:17.607Z
+updated: 2024-10-23T20:54:53.527Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09fe1222610e43f6045480d9b.jpg
@@ -19,15 +19,42 @@ Financial Services | Mobile Capture
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ABBYY Mobile OCR Engine\* makes on-the-go loan approval a blast
 
 Financial Services | Mobile Capture 
 
 ![](https://static1.abbyy.com/abbyycommedia/15028/dbs-pic1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![DBS Bank](https://static2.abbyy.com/abbyycommedia/15033/dbs-logo-small.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name         | DBS Bank                          |
 | ------------ | --------------------------------- |
@@ -100,9 +127,12 @@ On-the-go loan application based on ABBYY Mobile OCR Engine\* simplifies and enh
 Share  True ?  : "" 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -115,8 +145,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +152,26 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[New] 2024 Approved Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-ultimate-selection-of-transition-apps/"><u>[New] Explore the Ultimate Selection of Transition Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-glimpses-innovation-highlights/"><u>[New] Ghostly Glimpses Innovation Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>[New] Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-visual-identity-with-ae-titles/"><u>[New] Innovating Visual Identity with AE Titles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mirror-movies-a-guide-to-flipping-your-youtube-video-upside-down/"><u>[New] Mirror Movies A Guide to Flipping Your YouTube Video Upside Down</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-expert-techniques-for-changing-your-instagram-sound/"><u>[Updated] Expert Techniques for Changing Your Instagram Sound</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-to-profit-reaching-the-new-500-sub-total/"><u>[Updated] Free to Profit Reaching the New 500 Sub Total</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-fantasy-to-feasibility-vrs-milestones/"><u>[Updated] From Fantasy to Feasibility VR's Milestones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-diy-vr-headgear-crafting-a-personalized-google-model/"><u>[Updated] Guide to DIY VR Headgear Crafting a Personalized Google Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-video-playback-acceleration/"><u>[Updated] Harnessing the Power of Video Playback Acceleration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-screenshot-and-recorder-software-guide-for-macs/"><u>Essential Screenshot & Recorder Software Guide for Macs</u></a></li>
+<li><a href="https://solve-news.techidaily.com/guide-simple-pour-changer-un-fichier-flac-en-format-webm-sans-compte-services-de-movavi-gratuits-online/"><u>Guide Simple Pour Changer Un Fichier FLAC en Format WebM Sans Compte - Services De MovaVi Gratuits Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 14 Ultra to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>In 2024, Expert Guide to Video Editing Leveraging Power of Movies Maker on Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-high-definition-software-top-8-free-listings-for-2024/"><u>Innovative High Definition Software Top 8 FREE Listings for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-story-tempo-adjusting-video-speed-in-instagram-for-2024/"><u>Mastering Story Tempo Adjusting Video Speed in Instagram for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-chrome-os-snapshotting-for-2024/"><u>The Ultimate Guide to Chrome OS Snapshotting for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/webinars-simples-e-eficientes-com-o-apoio-da-movavi-para-seu-sucesso-online/"><u>Webinars Simples E Eficientes Com O Apoio Da Movavi Para Seu Sucesso Online</u></a></li>
+</ul></div>
 

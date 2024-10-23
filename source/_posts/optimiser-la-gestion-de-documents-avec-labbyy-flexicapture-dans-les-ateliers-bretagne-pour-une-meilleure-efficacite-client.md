@@ -1,7 +1,7 @@
 ---
 title: Optimiser La Gestion De Documents Avec L'ABBYY FlexiCapture Dans Les Ateliers Bretagne Pour Une Meilleure Efficacité Client
-date: 2024-08-22T06:10:09.410Z
-updated: 2024-08-23T06:10:09.410Z
+date: 2024-10-22T19:31:31.485Z
+updated: 2024-10-23T19:49:27.533Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5a8f2d8fdc6330db34850673.jpg
@@ -18,6 +18,13 @@ BPO/Service Providers | Document Management
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/71959.png?h=40&iar=0&w=120)
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bretagne Ateliers choisit FlexiCapture pour améliorer la gestion de documents pour ses clients
 
@@ -75,6 +82,13 @@ Les utilisateurs d’ABBYY FlexiCapture ont par ailleurs constaté une accélér
 
 [![4-flexicapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![14-bpo](https://static2.abbyy.com/abbyycommedia/14364/14-bpo.jpg)](https://tools.techidaily.com/abbyy/products/) [BPO / Service bureau](https://tools.techidaily.com/abbyy/products/) 
@@ -82,6 +96,13 @@ Les utilisateurs d’ABBYY FlexiCapture ont par ailleurs constaté une accélér
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![1-accounts-payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://static2.abbyy.com/abbyycommedia/10533/cas-client-bretagne-ateliers-services-industriels-fr.pdf "Version PDF") [Version PDF](https://static2.abbyy.com/abbyycommedia/10533/cas-client-bretagne-ateliers-services-industriels-fr.pdf "Version PDF") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Accéder au document](https://static2.abbyy.com/abbyycommedia/10533/cas-client-bretagne-ateliers-services-industriels-fr.pdf "Version PDF") 
 
@@ -94,8 +115,12 @@ Partager  True ?  : ""
 [Toutes les branches](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -108,8 +133,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +140,24 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-dissecting-facebook-short-videos-a-comprehensive-overview-for-2024/"><u>[New] Dissecting Facebook Short Videos A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fabulous-review-and-diverse-options/"><u>[New] Fabulous Review & Diverse Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-voice-logging-access-and-evaluation-for-2024/"><u>[New] Voice Logging Access & Evaluation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-selecting-the-ideal-video-aspect-ratio/"><u>[Updated] Expert Tips on Selecting the Ideal Video Aspect Ratio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-mobility-examination-2023/"><u>[Updated] Full Mobility Examination 2023</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-discovering-new-horizons-with-samsungs-updated-image-tools/"><u>[Updated] In 2024, Discovering New Horizons with Samsung’s Updated Image Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-can-inshot-outshine-competitors/"><u>[Updated] In-Depth Comparison Can InShot Outshine Competitors?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-archive-mastery-how-and-why-for-2024/"><u>[Updated] Instagram Archive Mastery How and Why for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-proven-ways-to-enhance-your-fb-presence-and-boost-engagement/"><u>2024 Approved Proven Ways to Enhance Your FB Presence and Boost Engagement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-boundaries-hps-z32x-4k-revelation/"><u>2024 Approved Pushing Boundaries HP’s Z32X 4K Revelation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-narzo-n55-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme Narzo N55 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digital-dimensions-rise-of-vr-cinema-for-2024/"><u>Digital Dimensions Rise of VR Cinema for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hasty-hacks-for-enhancing-personal-movie-making-for-2024/"><u>Hasty Hacks for Enhancing Personal Movie Making for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-octane-recordings-top-7-camcorder-picks-for-2024/"><u>High-Octane Recordings Top 7 Camcorder Picks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-chromes-picture-in-progress-screensuitably-across-platforms-for-2024/"><u>How to Use Chrome’s Picture In Progress Screensuitably Across Platforms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-disable-recommended-podcast-features-in-spotify/"><u>In 2024, Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-ai-based-plagiarism-tools-fail-the-hidden-consequences/"><u>Why AI-Based Plagiarism Tools Fail - The Hidden Consequences</u></a></li>
+</ul></div>
 

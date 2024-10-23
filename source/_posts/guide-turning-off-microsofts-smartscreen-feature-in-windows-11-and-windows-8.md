@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-10-15T00:29:17.767Z
-updated: 2024-10-17T21:29:07.273Z
+date: 2024-10-22T19:52:07.918Z
+updated: 2024-10-23T16:01:54.918Z
 tags:
   - desktop
 categories:
@@ -31,33 +31,33 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then click on "Reputation-based Protection Settings." 
 
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are four different Windows SmartScreen options, and you can disable them individually. 
 
@@ -74,20 +74,13 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
@@ -96,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
@@ -114,24 +114,21 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhancing-instagram-experience-with-in-story-captions/"><u>[New] 2024 Approved Enhancing Instagram Experience with In-Story Captions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus/"><u>[New] Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ignite-interest-with-your-own-solo-podcast-series/"><u>[New] Ignite Interest with Your Own Solo Podcast Series</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-tranquil-acoustic-settings-on-computers/"><u>[New] Tranquil Acoustic Settings on Computers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-video-threads-on-youtube/"><u>[Updated] 2024 Approved Exploring Video Threads on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-introduction-to-adding-new-fonts-in-ae/"><u>[Updated] 2024 Approved Introduction to Adding New Fonts in AE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-updates-to-sonys-s6500-model/"><u>[Updated] Exploring Updates to Sony's S6500 Model</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>[Updated] GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>[Updated] Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>2024 Approved Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-galore-top-10-virtual-reality-for-phones/"><u>2024 Approved Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-finest-digital-classrooms-a-ranking-of-educational-websites/"><u>Discover the Finest Digital Classrooms: A Ranking of Educational Websites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-boost-for-editors-leveraging-story-remix-within-windows-photos-for-2024/"><u>Expertise Boost for Editors Leveraging Story Remix Within Windows Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-green-screen-video-magic-must-know-methods/"><u>In 2024, Green Screen Video Magic Must-Know Methods</u></a></li>
-<li><a href="https://win-info.techidaily.com/m2-ssdwindows-1011os/"><u>M.2 SSDへの効率的なWindows 10/11OS移行ガイド:再インストール無し</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-reno-11-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo Reno 11 Pro 5G Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722179690599-top-4-intelligent-ai-based-virtual-murder-mysteries-become-the-sleuth/"><u>Top 4 Intelligent AI-Based Virtual Murder Mysteries - Become the Sleuth!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-blizzards-battlenet-identifying-server-issues-vs-user-connection-problems/"><u>Troubleshooting Blizzard's Battle.net: Identifying Server Issues vs User Connection Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieve-unmatched-visuals-the-ultimate-guide-to-video-enhancer-22/"><u>2024 Approved Achieve Unmatched Visuals The Ultimate Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-selecting-peak-frame-rate-for-exceptional-slow-motion-video/"><u>2024 Approved Selecting Peak Frame Rate for Exceptional Slow Motion Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ace-the-arena-with-easy-techniques-improve-apex-legends-performance-in-6-ways/"><u>Ace the Arena with Easy Techniques - Improve Apex Legends Performance in 6 Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-the-best-looking-linux-operating-systems-a-top-5-list/"><u>Discover the Best-Looking Linux Operating Systems: A Top 5 List</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-the-maximum-molecular-moniker/"><u>Discovering the Maximum Molecular Moniker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-release-and-update-details-a-step-by-step-guide/"><u>Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/easy-methods-to-extract-pictures-without-a-background-using-windows-11-tools/"><u>Easy Methods to Extract Pictures Without a Background Using Windows 11 Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-user-friendliness-windows-subsystem-for-linux-undergoes-potential-improvements/"><u>Enhancing User-Friendliness: Windows Subsystem for Linux Undergoes Potential Improvements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/essential-mac-shortcuts-mastering-the-keyboard-for-email-efficiency/"><u>Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exciting-announcement-apple-prepares-for-its-202-cuy-wwdc-event-in-june/"><u>Exciting Announcement: Apple Prepares for Its 202 Cuy WWDC Event in June!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-elementary-os-a-user-friendly-macos-inspired-alternative/"><u>Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unbiased-review-how-to-obtain-filmora-without-resorting-to-piracy/"><u>In 2024, Unbiased Review How to Obtain Filmora Without Resorting to Piracy</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-a60-music-recovery-recover-deleted-music-from-itel-a60-by-fonelab-android-recover-music/"><u>Itel A60 Music Recovery - Recover Deleted Music from Itel A60</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigate-through-the-5-best-mac-sniping-apps-easily-for-2024/"><u>Navigate Through The 5 Best Mac Sniping Apps Easily for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-d3dx924dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_2‌​4.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-moto-z2s-smart-capabilities/"><u>The Ultimate Guide to Moto Z2's Smart Capabilities</u></a></li>
 </ul></div>
 

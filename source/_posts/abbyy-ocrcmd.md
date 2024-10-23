@@ -1,7 +1,7 @@
 ---
 title: "ABBYY OCRソリューションによるCMDの拡張性:建設プロジェクト文書の効率的な管理と自動化"
-date: 2024-08-22T06:09:26.679Z
-updated: 2024-08-23T06:09:26.679Z
+date: 2024-10-18T21:38:06.905Z
+updated: 2024-10-23T18:22:08.481Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0508e76320f421ee17afaca1.jpg
@@ -19,11 +19,25 @@ Construction | Digital Archiving
 
 [お客様のストーリーに戻る](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 建設情報プロバイダCMDが、ABBYYの拡張性の高いOCRソリューション導入で、大規模な建設文書処理を効率化
 
 建設 | デジタルアーカイブ 
 
 ![](https://static1.abbyy.com/abbyycommedia/15557/11-construction-management-data-cmd-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### お客様の概要
 
@@ -38,6 +52,13 @@ Construction | Digital Archiving
 #### パートナーの概要
 
 ![Conarc](https://static2.abbyy.com/abbyycommedia/15318/conarclogo_150.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | 氏名     | Conarc                                   |
 | ------ | ---------------------------------------- |
@@ -118,8 +139,12 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -132,8 +157,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +164,20 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-tips-for-efficient-internet-use-the-7-finest-android-apps/"><u>[New] 2024 Approved Expert Tips for Efficient Internet Use The 7 Finest Android Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-techniques-for-saving-roblox-playback-on-mac/"><u>[Updated] 2024 Approved Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/digital-customer-care-hub-winx-dvd-ripper-and-video-converter-software-online-troubleshooting-guidance/"><u>Digital Customer Care Hub: WinX DVD Ripper and Video Converter Software Online Troubleshooting Guidance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-listing-top-10-windows-11-cam-capture-devices/"><u>Elite Listing Top 10 Windows 11 Cam Capture Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fuel-ambition-with-these-10-movie-masterpieces-for-2024/"><u>Fuel Ambition with These 10 Movie Masterpieces for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fundamentals-of-managing-volume-increase-in-projects-for-2024/"><u>Fundamentals of Managing Volume Increase in Projects for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusing-youtube-beats-into-film-scenes-for-2024/"><u>Fusing YouTube Beats Into Film Scenes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gag-galore-a-treasury-of-no-cost-memes-for-2024/"><u>Gag Galore A Treasury of No-Cost Memes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-on-mastery-a-critical-review-of-kinemaster-for-android-gamers-2023-for-2024/"><u>Game On Mastery A Critical Review of KineMaster for Android Gamers 2023 for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1720600542848-lost-files-found-now-expedited-stellar-data-provision/"><u>Lost Files Found Now - Expedited Stellar Data Provision</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-real-time-sharing-with-roku-and-fb-live/"><u>Navigating Real-Time Sharing with Roku & FB Live</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-and-detailed-guide-to-xbox-video-capture/"><u>Quick and Detailed Guide to Xbox Video Capture</u></a></li>
+</ul></div>
 

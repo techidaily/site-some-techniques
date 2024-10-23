@@ -1,7 +1,7 @@
 ---
 title: "Case Study: How ABBYY Augmented the Features of Deloitte's eDiscovery Suite - Insight From a Satisfied Customer"
-date: 2024-08-22T06:12:02.056Z
-updated: 2024-08-23T06:12:02.056Z
+date: 2024-10-22T17:29:42.495Z
+updated: 2024-10-23T22:21:34.214Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
@@ -20,8 +20,12 @@ Consulting | eDiscovery
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Deloitte extends the capabilities of their eDiscovery suite with the help of ABBYY Recognition Server
 
 Consulting | eDiscovery 
@@ -29,15 +33,16 @@ Consulting | eDiscovery
 ![](https://static1.abbyy.com/abbyycommedia/15274/cs-deloitte-556x303-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Deloitte LLP](https://static4.abbyy.com/abbyycommedia/6036/logo-deloitte-new-162x30.svg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 | Name                  | Deloitte LLP                                            |
 | --------------------- | ------------------------------------------------------- |
 | Industry              | Professional Services                                   |
@@ -85,27 +90,32 @@ With the new seamless solution, documents in the eDiscovery suite that are not s
 [![ABBYY Recognition Server has rebranded as ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (now FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![BPO](https://static2.abbyy.com/abbyycommedia/14364/14-bpo.jpg)](https://tools.techidaily.com/abbyy/products/) [BPO](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static2.abbyy.com/abbyycommedia/19839/cs-deloitte-360x162.jpg)](https://www.abbyy.com/customer-stories/deloitte-extends-the-capabilities-of-their-ediscovery-suite-with-the-help-of-abbyy-recognition-server/# "PDF version") [PDF version](https://static3.abbyy.com/abbyycommedia/7350/case-study-deloitte-consulting-en.pdf "PDF version") 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 [read more](https://static3.abbyy.com/abbyycommedia/7350/case-study-deloitte-consulting-en.pdf "PDF version") 
 
 ###### Like, share or repost
 
 Share  True ?  : "" 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
 
@@ -119,8 +129,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +136,22 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[Updated] Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-resolve-ipadiphone-fb-video-playback-delays-for-2024/"><u>[Updated] Resolve iPad/iPhone FB Video Playback Delays for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-rated-dj-templates-free-access-for-music-makers/"><u>[Updated] Top-Rated DJ Templates Free Access for Music Makers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-chromes-full-screen-multitasking-capabilities/"><u>2024 Approved Explore Chrome's Full-Screen Multitasking Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-analytics-and-personalization-for-websites/"><u>Cookiebot-Driven Analytics & Personalization for Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-customization-enhance-your-website-with-tailored-user-experiences/"><u>Cookiebot-Driven Customization: Enhance Your Website with Tailored User Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabled-enhancing-your-websites-analytics-with-automation/"><u>Cookiebot-Enabled: Enhancing Your Website's Analytics with Automation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-boosting-your-websites-performance/"><u>Cookiebot-Enhanced: Boosting Your Website's Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-efficient-and-user-friendly-web-tracking-solutions/"><u>Cookiebot: Efficient and User-Friendly Web Tracking Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabling-advanced-analytics-and-personalization/"><u>Cookiebot: Enabling Advanced Analytics and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-the-prime-tool-for-lead-generation/"><u>Cookiebot: The Prime Tool for Lead Generation</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>In 2024, Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-process-to-remove-wsl-from-windows/"><u>Mastering the Process to Remove WSL From Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/professional-comparisons-leading-document-and-image-scanner-picks-of-2024/"><u>Professional Comparisons: Leading Document and Image Scanner Picks of 2024</u></a></li>
+</ul></div>
 

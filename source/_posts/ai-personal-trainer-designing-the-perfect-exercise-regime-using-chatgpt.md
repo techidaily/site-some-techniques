@@ -1,7 +1,7 @@
 ---
 title: "AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT"
-date: 2024-10-15T01:13:24.489Z
-updated: 2024-10-18T02:15:21.017Z
+date: 2024-10-22T16:00:22.333Z
+updated: 2024-10-23T20:53:14.863Z
 tags:
   - cutting-edge
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  Have you been meaning to start exercising regularly but aren't sure where to get started? You can easily use ChatGPT to create a workout routine. While its suggestions may not be tailored perfectly to everyone’s needs, they serve as a good starting point for anyone wanting to improve their fitness.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ChatGPT Can Create Workout Routines. They Just Need Some Work Themselves
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![Asking ChatGPT to create a workout routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/asking-chatgpt-to-create-a-workout-routine.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can therefore either reply to the above questions, or you can go ahead from the outset and specify the kind of workout regime you’d like. For example, you can write something along the lines of, "Create a gym workout routine intended to build upper body strength. I'm a beginner and am able to work out three times a week."
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  It also needs to be stressed that you should make sure to state how experienced and fit you are, while providing your age, height and weight is also a good idea. If the routine ChatGPT produces seems a little too hard (or maybe easy), you should probably start again and make it clear that you want something slightly different.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Always Ask a Personal Trainer First
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![Changing jogging times with ChatGPT routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/changing-jogging-times-with-chatgpt-routine.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Secondly, and more generally, they should also ask trainers whether the routines provided by ChatGPT are actually suitable for their needs. In my case, I created a workout routine for myself centered around upper body strength, and the member of staff I spoke to at my gym pointed out how it could potentially benefit from at least one more exercise focused on the chest.
@@ -103,20 +103,24 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>[New] Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-film-visionarys-hub-the-definitive-15-luts-for-gopro-cinematic-use/"><u>[New] Film Visionary's Hub The Definitive 15 LUTs for GOPRO Cinematic Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-history-best-theme-songs-in-anime/"><u>[New] Harmonizing History Best Theme Songs in Anime</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-sensational-no-cost-visual-collaboration-games-for-2024/"><u>[New] Sensational No-Cost Visual Collaboration Games for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-10-switch-battlecars-for-gamers-unleashed/"><u>[New] Top 10 Switch Battlecars for Gamers Unleashed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-hits-twitters-viral-top-10-list-for-2024/"><u>[Updated] TikTok Hits Twitter's Viral Top 10 List for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>2024 Approved From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-groundwork-for-animate-infographic-creation/"><u>2024 Approved Groundwork for Animate Infographic Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-importing-audio-steps-for-inshot-video-editing/"><u>2024 Approved Importing Audio Steps for InShot Video Editing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-10-sound-issues-a-comprehensive-guide/"><u>Fixing Windows 10 Sound Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics/"><u>In 2024, Capture and Share Your Games Like a Pro with These Windows 11 Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-frequency-facilitator-for-voices/"><u>In 2024, Flawless Frequency Facilitator for Voices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-11-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone 11 Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-drone-designs-always-on-your-side/"><u>In 2024, Innovative Drone Designs Always on Your Side</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ling-8-honest-video-promotion-services/"><u>Unveiling 8 Honest Video Promotion Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>[New] Finest Pencil Masters Free vs Paid Windows Apps Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fuel-ambition-with-these-10-movie-masterpieces/"><u>[New] Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hot-hands-on-10-must-have-vr-peripherals/"><u>[New] Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-effortlessly-convert-spoken-language-into-written-content-using-microsoft-word/"><u>[New] How to Effortlessly Convert Spoken Language Into Written Content Using Microsoft Word</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-perfect-your-stream-essential-tips-for-discord-users/"><u>[Updated] 2024 Approved Perfect Your Stream Essential Tips for Discord Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-create-unique-audio-trailers-at-zero-expense-for-2024/"><u>[Updated] Create Unique Audio Trailers at Zero Expense for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-photo-display-solutions/"><u>[Updated] Innovative Photo Display Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-celebrity-fleeting-frame-study/"><u>2024 Approved Celebrity Fleeting Frame Study</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>In 2024, Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-halovision-highlights-critique/"><u>In 2024, HaloVision Highlights Critique</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-platforms-linking-insta-and-tiktok/"><u>In 2024, Harmonizing Platforms Linking Insta & TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>In 2024, How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-magic-6-lite-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor Magic 6 Lite? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/infuse-satire-and-smiles-kapwings-meme-builder/"><u>Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-oppo-reno-10-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Oppo Reno 10 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-windows-email-application-error-code-0x800713f/"><u>Steps to Solve Windows' Email Application Error (Code 0X800713F)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/taking-audio-to-new-heights-with-samsung-buds-pro/"><u>Taking Audio to New Heights with Samsung Buds Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-role-of-telecommunication-compannies-in-connecting-calls-and-data/"><u>The Role of Telecommunication Compannies in Connecting Calls and Data</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-design-and-send-video-invites-on-the-go-best-mobile-apps/"><u>Updated Design and Send Video Invites On-the-Go Best Mobile Apps</u></a></li>
 </ul></div>
 

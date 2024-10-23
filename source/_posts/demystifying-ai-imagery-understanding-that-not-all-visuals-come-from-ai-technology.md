@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology"
-date: 2024-10-16T02:22:27.171Z
-updated: 2024-10-17T16:09:44.732Z
+date: 2024-10-21T16:53:38.361Z
+updated: 2024-10-23T21:55:53.650Z
 tags:
   - cutting-edge
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
 
  With the proliferation of AI image-generation services, there are thousands, if not millions, of AI-generated images circulating the web. [Facebook is already swamped with tons of AI-generated images](https://smart-video-creator.techidaily.com/in-2024-zero-cost-4k-video-conversion-top-10-solutions/), and other social media platforms are not far behind.
@@ -51,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
@@ -62,17 +61,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -89,11 +81,25 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Meta’s AI Labeling Is Not Foolproof
 
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
 
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
 
@@ -124,24 +130,16 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-file-logistics-unlocked-five-streamlined-techniques-for-computer-upload/"><u>[New] File Logistics Unlocked Five Streamlined Techniques for Computer Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-cluttered-canvases-to-crystal-clear-captures-using-photopea/"><u>[New] From Cluttered Canvases to Crystal Clear Captures Using Photopea</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-eliminating-red-eye-on-your-iphone-shots-for-free/"><u>[Updated] Expert Guide to Eliminating Red Eye on Your iPhone Shots for Free</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-decoding-zdsofts-key-recording-features/"><u>[Updated] In 2024, Decoding ZDSoft's Key Recording Features</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-instant-mp3-from-your-fb-videos-online-converter/"><u>[Updated] In 2024, Instant MP3 From Your FB Videos - Online Converter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incremental-sound-softening-for-professional-productions/"><u>[Updated] Incremental Sound Softening for Professional Productions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-exclusive-list-11-best-sound-capturers-guide/"><u>2024 Approved Exclusive List 11 Best Sound Capturers Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-places-for-next-gen-vr-content/"><u>2024 Approved Exclusive Places for Next-Gen VR Content</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-companion-for-podcast-name-crafting-top-10-tools/"><u>2024 Approved The Ultimate Companion for Podcast Name Crafting Top 10 Tools</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-15-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 15 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-your-lost-or-forgotten-email-a-step-by-step-guide/"><u>Discover Your Lost or Forgotten Email: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/fixen-sie-den-schwarzen-bildschirm-von-windows-11-aktualisierungen-beheben-lassen/"><u>Fixen Sie Den Schwarzen Bildschirm Von Windows 11 - Aktualisierungen Beheben Lassen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-0-to-million-views-the-ultimate-content-blueprint-for-2024/"><u>From 0 to Million Views The Ultimate Content Blueprint for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-correcting-unresponsive-keys-when-logging-into-your-pc/"><u>Guide: Correcting Unresponsive Keys When Logging Into Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y200e-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y200e 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hue-harmony-translating-theory-into-artistry/"><u>In 2024, Hue Harmony Translating Theory Into Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>In 2024, The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-complete-revamp-of-facetune-app-for-2024/"><u>In-Depth Analysis Complete Revamp of Facetune App for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/industrys-airborenas-titans-10-lifters-reviewed-for-2024/"><u>Industry's Airborenas Titans 10 Lifters Reviewed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-record-video-directly-from-webcam-using-vlc-media-player/"><u>[New] In 2024, Record Video Directly From Webcam Using VLC Media Player</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-and-alter-sacred-audio-sounds/"><u>[Updated] How to Download and Alter Sacred Audio Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-future-with-av1-over-vp9/"><u>2024 Approved Exploring the Future with AV1 over VP9</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-venues-expanding-youtube-visibility/"><u>2024 Approved Foremost Venues Expanding YouTube Visibility</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>2024 Approved Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-minimizing-movement-blur-in-media/"><u>2024 Approved Minimizing Movement Blur in Media</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-recording-software-for-education-sector/"><u>2024 Approved Professional Recording Software for Education Sector</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/"><u>In 2024, GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-processors-and-peripherals-at-toms-computing-hub/"><u>Inside the World of Processors and Peripherals at Tom's Computing Hub</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-free-online-video-reversers/"><u>New In 2024, The Best Free Online Video Reversers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ABBYY Study Reveals Key Factors Influencing the Outcomes of Smart Process Automation
-date: 2024-08-22T06:10:29.639Z
-updated: 2024-08-23T06:10:29.639Z
+date: 2024-10-20T16:50:50.956Z
+updated: 2024-10-23T19:56:17.789Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f39dde8952261d2b96a29117.jpg
@@ -64,6 +64,13 @@ _Bruce Orcutt, Senior Vice President, Product Marketing at ABBYY_
 
 This research was conducted by Sapio Research in March 2022 on behalf of ABBYY. The survey was conducted among 1,208 IT decision makers across the UK, US, France, Germany, and Japan on where businesses have invested in automation projects, why they have adopted technologies, and how behavior has impacted the success of projects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -75,15 +82,23 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray, APR
 
 _Director of Global Public Relations_
@@ -98,8 +113,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +120,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer-for-2024/"><u>[New] Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-elevate-iphone-picture-quality/"><u>[New] Expert Tips to Elevate iPhone Picture Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>[New] Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>[New] How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-deciding-on-fps-to-opt-for-30-or-go-for-a-sharp-60hz/"><u>[Updated] 2024 Approved Deciding on FPS To Opt for 30 or Go For a Sharp 60Hz</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-chords-to-clicks-mastering-music-on-ig/"><u>[Updated] From Chords to Clicks Mastering Music on IG</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-key-elements-in-transforming-your-youtube-channels-visibility/"><u>[Updated] In 2024, The Key Elements in Transforming Your YouTube Channels' Visibility</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlock-facebook-slide-in-content-access/"><u>[Updated] In 2024, Unlock Facebook Slide-In Content Access</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-uncovering-inexpensive-deals-for-your-gopro-camera-for-2024/"><u>[Updated] Uncovering Inexpensive Deals for Your GoPro Camera for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-avimp4mp3/"><u>無料変換サービス – Movavi: AVI/MP4をMP3に転送しやすく解説 – オンラインで使える方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdmi-display-showdown-the-creme-de-la-creme-monitors-for-2024/"><u>HDMI Display Showdown The Crème De La Crème Monitors for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-computer-running-smoothly-updating-windows-cpu-drivers/"><u>How to Keep Your Computer Running Smoothly: Updating Window's CPU Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-flat-to-fantastic-3d-text-creation-tips/"><u>In 2024, From Flat to Fantastic 3D Text Creation Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-to-face-with-picsart/"><u>In 2024, How to Add Motion Blur to Face with Picsart</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tackling-negative-comments-a-content-creators-mantra/"><u>Tackling Negative Comments A Content Creator's Mantra</u></a></li>
+</ul></div>
 

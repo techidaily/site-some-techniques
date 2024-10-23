@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-10-11T19:56:22.590Z
-updated: 2024-10-17T23:29:56.818Z
+date: 2024-10-19T17:07:40.978Z
+updated: 2024-10-23T16:51:53.705Z
 tags:
   - desktop
 categories:
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -47,10 +41,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -70,10 +64,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -101,20 +95,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-complete-overview-bublcam-360-camera-explored/"><u>[New] Complete Overview Bublcam 360 Camera Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-apps-to-record-on-iphone/"><u>[New] Exclusive Apps to Record on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-final-cut-pros-essential-toolkit-the-top-10-plugin-list/"><u>[New] Final Cut Pro's Essential Toolkit The Top 10 Plugin List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-windows-10-preparing-your-pc-for-the-upgrade/"><u>[New] From Windows 10 Preparing Your PC for the Upgrade</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-instant-replay-efficient-methods-for-downloading-lives/"><u>[New] In 2024, Instant Replay Efficient Methods for Downloading Lives</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-peak-players-choice-selecting-the-top-7-fps/"><u>[New] Peak Players' Choice Selecting the Top 7 FPS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-feel-motivated-10-epic-movies-with-deep-impact/"><u>[Updated] Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-forge-memes-that-captivate-audiences/"><u>[Updated] How to Forge Memes that Captivate Audiences</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-memorable-youtube-shorts-10-must-do-tips/"><u>[Updated] In 2024, Creating Memorable YouTube Shorts - 10 Must-Do Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-frame-tools-and-websites-image-editors/"><u>[Updated] Innovative Frame Tools and Websites Image Editors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-tactics-for-mastering-mobizen-mobile-screen-recording-for-2024/"><u>Essential Tactics for Mastering Mobizen Mobile Screen Recording for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b-for-2024/"><u>From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>In 2024, Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Max Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/vocal-variety-at-your-fingertips-top-7-speech-modification-apps-reviewed-for-2024/"><u>Vocal Variety at Your Fingertips Top 7 Speech Modification Apps Reviewed for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-first-edition-top-notch-user-centric-game-edit-apps/"><u>[New] First Edition Top-Notch, User-Centric Game Edit Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>[Updated] Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>2024 Approved Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
+<li><a href="https://fox-within.techidaily.com/decouvrez-les-richesses-de-la-variete-des-systemes-de-fichiers-votre-guide-indispensable/"><u>Découvrez Les Richesses De La Variété Des Systèmes De Fichiers: Votre Guide Indispensable!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-smart-8-plus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/examining-the-efficacy-of-dji-mavic-mini-fpv-technology-for-2024/"><u>Examining the Efficacy of DJi Mavic Mini FPV Technology for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-restoring-past-reddit-articles-for-2024/"><u>Mastering the Art of Restoring Past Reddit Articles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-reasons-windows-11-media-player-outshines-competitors-why-switch-now/"><u>Top Reasons Windows 11 Media Player Outshines Competitors: Why Switch Now?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transfer-and-edit-your-android-snapshots-in-no-time-with-windows-11/"><u>Transfer & Edit Your Android Snapshots in No Time with Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transferring-your-memories-effortlessly-downloading-all-icloud-photos-onto-different-devices/"><u>Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transforming-workspaces-discover-the-power-of-lenovos-latest-l-series-laptop-lineup-for-professionals/"><u>Transforming Workspaces: Discover the Power of Lenovo's Latest L-Series Laptop Lineup for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transitioning-to-windows-11-longing-for-the-classic-windows-10-functions-i-loved/"><u>Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-solving-minecraft-crash-error-with-exit-code-1-on-windows/"><u>Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-windows-update-issues-for-essential-security-patch-installation/"><u>Troubleshooting Windows Update Issues for Essential Security Patch Installation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/uncover-the-stealthy-culprits-methods-to-detect-and-remove-secretive-startup-applications-that-sluggish-your-windows-system/"><u>Uncover the Stealthy Culprits: Methods to Detect and Remove Secretive Startup Applications That Sluggish Your Windows System</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/video-bitraser-enterprise-data-erasure-software/"><u>Video - BitRaser Enterprise Data Erasure Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor Magic 5 Lite? | Dr.fone</u></a></li>
 </ul></div>
 

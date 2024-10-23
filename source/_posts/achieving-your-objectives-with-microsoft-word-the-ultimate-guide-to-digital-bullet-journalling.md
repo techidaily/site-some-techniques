@@ -1,7 +1,7 @@
 ---
 title: "Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling"
-date: 2024-10-10T19:53:55.832Z
-updated: 2024-10-17T17:54:42.983Z
+date: 2024-10-16T21:34:45.076Z
+updated: 2024-10-23T18:29:26.041Z
 tags:
   - deals
 categories:
@@ -29,12 +29,32 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
 ![A typical physical bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/back_to_the_basics_1600x.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bulletjournal.com
 
  Most people use a physical notebook and pen to keep their bullet journal. It’s not your only option though. You can also create and keep a digital bullet journal in Microsoft Word. There are two reasons why Word works as a bullet journal:
 
 1. Unlike other preset planners, you’re supposed to add a new page every day for the daily log. Even if you miss a day, there are no gaps in a bullet journal. The next blank space on the page is always where the next entry goes. So you can always just add a new page on your Word document to continue journaling. No friction or hopping around pages whatsoever.
 2. Secondly, a physical bullet journal will eventually run out of space. You can technically keep the Word bullet journal forever.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Create a Bullet Journal in Microsoft Word
 
@@ -58,6 +78,13 @@ Bulletjournal.com
 
 ![Theme templates in Word.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240711-020713.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We need to set up the document before we can create individual pages for the bullet journal. Let’s start by [adding page numbers](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-gt-neo-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/). Double-click anywhere on top of the document to open the Header and Footer menu. On the "Header and Footer" ribbon, click "Page Number" and pick a page number format. Then close the Header and Footer menu.
 
 Close 
@@ -68,18 +95,18 @@ Close
 
  If the pattern doesn’t look right. Try changing its size using the drop-down menu or unchecking the “Washout” button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Create the Index
 
  We’re ready to create our first bullet journal page. Click “Blank Page” on the “Insert” tab. The “Index” page is your directory to find everything in the bullet journal. That’s why we numbered the pages. You can always use the very next page on your journal for anything you want, and later, locate its page or page range in the index.
 
 ![Creating the index page in a bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-202543.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Create the Future Log
 
@@ -87,25 +114,11 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Create the Monthly Log
 
  The monthly log captures and shows you an overview of what you need to get done or remember in that month. It's supposed to be a bird's eye view of your month. Mine is just a list of the month's dates with the notes or tasks. You can add weekdays to the list if you want.
 
 ![ksnip_20240801-203144](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203144.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Create the Daily Log
 
@@ -116,10 +129,16 @@ Close
  Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use the Bullet Journal
@@ -127,10 +146,10 @@ Close
  Every bullet journal has a daily log. It’s a space where you can quickly capture any ideas, notes, reminders, and tasks one after another. There are no premade layouts, no boxes, or dotted lines. Cross items that are done or cancel them. At the end of the day, review your daily log and “migrate” leftover tasks. It keeps you mindful of what truly needs your attention and your tasks from slipping through the cracks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  It's Much More Than a Simple To-Do List
@@ -151,13 +170,6 @@ Close
 
 * Keeps items from getting lost. It makes sure you never forget to do a task just because it didn’t make it to a future to-do list.
 * Keeps you mindful of what you’re carrying on to the next day or any future date. Actually, typing the tasks manually every day allows you to regularly reassess their priority.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Use the Right Symbols
 
@@ -186,17 +198,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-why-filmmakers-cherish-filmora-features/"><u>[New] Exploring Why Filmmakers Cherish Filmora Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-your-windows-11-walls/"><u>[Updated] Innovative Techniques for Your Windows 11 Walls</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-narrowing-down-the-video-platform-wars-youtube-shorts-against-tiktok/"><u>[Updated] Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-aspect-ratios-to-enhance-video-quality/"><u>2024 Approved Best Aspect Ratios to Enhance Video Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-financial-breakdown-of-music-video-production/"><u>2024 Approved Financial Breakdown of Music Video Production</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10/"><u>2024 Approved Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expedite-your-content-with-smart-title-tools/"><u>In 2024, Expedite Your Content With Smart Title Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-camera-to-channel-a-thoroughly-researched-video-instruction-manual/"><u>In 2024, From Camera to Channel A Thoroughly Researched Video Instruction Manual</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximize-your-mobile-top-10-free-image-enhancement-tools/"><u>Maximize Your Mobile Top 10 Free Image Enhancement Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-invisible-aspects-of-social-media-success-for-2024/"><u>Navigating the Invisible Aspects of Social Media Success for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/powerful-protection-review-insights-on-apc-back-ups-pro-1500va-with-abundant-outlets-and-user-friendly-battery-features/"><u>Powerful Protection Review: Insights on APC Back-UPS Pro 1500VA with Abundant Outlets and User-Friendly Battery Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-overcome-sea-of-thieves-not-starting-issues/"><u>Troubleshooting Guide: How to Overcome Sea of Thieves Not Starting Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-building-a-bountiful-beauty-channel-fortune/"><u>[New] 2024 Approved Building a Bountiful Beauty Channel Fortune</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-conventional-to-crystal-clear-with-hp-envy-27/"><u>[New] From Conventional to Crystal Clear with HP Envy 27</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[New] In 2024, Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tripods-for-youtube-creators-filming-needs/"><u>2024 Approved Expert Tripods for YouTube Creators' Filming Needs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basics-to-brilliance-a-comprehensive-guide-to-polarr/"><u>2024 Approved From Basics to Brilliance A Comprehensive Guide to Polarr</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incredibly-swift-blackouts/"><u>2024 Approved Incredibly Swift Blackouts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-words-evaluating-the-performance-of-chatgpt-and-google-translate-for-accurate-translations/"><u>Beyond Words: Evaluating the Performance of ChatGPT and Google Translate for Accurate Translations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-navigating-the-telegram-online-experience-for-2024/"><u>Expert Tips for Navigating the Telegram Online Experience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-much-a-youtube-promotion-for-2024/"><u>How Much a YouTube Promotion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fade-out-in-audacity/"><u>In 2024, How to Fade Out in Audacity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-insiders-guide-to-instagrams-chroma-key-effect/"><u>In 2024, The Insider's Guide to Instagram’s Chroma Key Effect</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-conexant-driver-on-your-windows-11-v2004-system-today/"><u>Install the Latest Conexant Driver on Your Windows 11 v2004 System Today</u></a></li>
+<li><a href="https://win-news.techidaily.com/losung-fur-nicht-funktionierende-freundetasten-auf-ihrem-iphone-behoben-mit-fonebackup/"><u>Lösung Für Nicht Funktionierende Freundetasten Auf Ihrem iPhone - Behoben Mit FoneBackup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-warfare-voice-chat-problems-here-are-the-solutions/"><u>Modern Warfare Voice Chat Problems? Here Are the Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peeling-back-the-layers-of-windows-11-themes-via-registry/"><u>Peeling Back the Layers of Windows 11 Themes via Registry</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-t2-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo T2 Pro 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

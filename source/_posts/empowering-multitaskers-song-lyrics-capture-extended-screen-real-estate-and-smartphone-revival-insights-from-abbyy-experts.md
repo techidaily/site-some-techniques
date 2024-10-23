@@ -1,7 +1,7 @@
 ---
 title: "Empowering Multitaskers: Song Lyrics Capture, Extended Screen Real Estate & Smartphone Revival | Insights From ABBYY Experts"
-date: 2024-08-22T06:07:38.057Z
-updated: 2024-08-23T06:07:38.057Z
+date: 2024-10-17T19:21:20.820Z
+updated: 2024-10-23T17:46:01.805Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c1282454326ca1c10c6fe01b75.jpg
@@ -18,6 +18,13 @@ March 11, 2019
 ![](https://static1.abbyy.com/abbyycommedia/26740/mobile-monday-71.jpg) 
 
 Even the most powerful smartphones can freeze. In today’s issue, we’ll tell you what to do if your device isn’t responding to anything. We’ll also scan song lyrics and use an iOS device as an extra monitor for the computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **iOS Tip: Restarting Your Smartphone**
 
@@ -43,9 +50,6 @@ Here is how to do a force restart on models without a Home button:
 
 ![how to restart iphone x xs xr](https://static1.abbyy.com/abbyycommedia/26741/iphonex.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Android Tip: Restarting an Android Smartphone** 
 
 An Android phone is just as susceptible to freezing and becoming unresponsive. If this happens, the standard way of restarting — holding the **Power** button and tapping **Restart** — will not work, since the device will not respond to touch.
@@ -57,27 +61,29 @@ There is yet another way to unfreeze a smartphone with a **removable** battery. 
 ![battery out](https://static1.abbyy.com/abbyycommedia/26742/battaryout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **ABBYY Tip: Scanning Song Lyrics**
 
 One of our FineScanner customers has shared with us an interesting way of using our app: scanning old song lyrics printed on paper. The user reports that the scans are a success even if the paper has become worn out with time (you can read their full review [here](https://appfollow.io/app/1359/review/19015674?s=abbyy&utm%5Fsource=reviews&utm%5Fmedium=slack&utm%5Fcampaign=permalink)). FineScanner will make its best to correct the document, so that the text becomes crisp and clear. Be sure to follow [these](https://tools.techidaily.com/abbyy/products/) guidelines for taking photos of documents, or you may end up with a bad scan even if the original document is clear and readable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## **App of the Week: Duet Display**
 
 Sometimes, having just one monitor for your computer or laptop is simply not enough. Clearly, buying a second monitor will solve the issue, but in many cases, there is no real need to fork out for an extra screen. There’s an app called [Duet Display](https://www.duetdisplay.com/) which allows you to use your iPad or even your iPhone as an additional monitor, where you display the control panel, Photoshop menus, Logic Pro presets — basically anything that doesn’t fit on your main screen. You can also use your iPad as a monitor with your Mac Mini, which is very useful.
 
 ![duet display](https://static1.abbyy.com/abbyycommedia/26743/app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The app works on both Mac and Windows. However, only Apple devices can be used as the second screen.
 
 Download the app [here](https://itunes.apple.com/app/duet-display/id935754064?mt=8) and turn your iPad or iPhone into a second screen. That’s all, folks! See you next time!
@@ -87,8 +93,12 @@ P.S. You can find the previous issue of this newsletter [here](https://tools.tec
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -144,8 +154,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +161,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-peak-hours-for-releasing-podcasts-for-2024/"><u>[New] Peak Hours for Releasing Podcasts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-optimal-gopro-protection-top-10-selections/"><u>[New] Selecting Optimal GoPro Protection - Top 10 Selections</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-techniques-to-perfectly-transcribe-ppts/"><u>[Updated] 2024 Approved Techniques to Perfectly Transcribe PPTs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamline-your-game-logs-advanced-camcapturing-techniques/"><u>[Updated] In 2024, Streamline Your Game Logs Advanced CamCapturing Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-websites-for-3d-metallic-type-imagery/"><u>2024 Approved Excellent Websites for 3D Metallic Type Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-soundtracks-with-garageband-expertise/"><u>2024 Approved Fine-Tuning Soundtracks with GarageBand Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-on-details-masterful-close-up-techniques-for-gaming/"><u>2024 Approved Focus on Details Masterful Close-Up Techniques for Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>2024 Approved From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-max-versus-hero-11-ultimate-review-guide/"><u>2024 Approved GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-journeys-youtubes-best-storytelling-of-23/"><u>2024 Approved Immersive Journeys YouTube’s Best Storytelling of '23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-websites-for-ultimate-vector-clarity-for-2024/"><u>Exclusive Websites for Ultimate Vector Clarity for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ffmpeg-and-its-role-in-preserving-natural-auditory-formats-for-2024/"><u>FFmpeg and Its Role in Preserving Natural Auditory Formats for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-visuals-galore-top-10-sites-to-explore-for-2024/"><u>Free Visuals Galore – Top 10 Sites to Explore for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-fading-to-flourishing-top-strategies-for-overcoming-zero-views-for-2024/"><u>From Fading to Flourishing Top Strategies for Overcoming Zero Views for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-apple-tvplus-content-on-your-chromecast-device/"><u>Guide: Streaming Apple TV+ Content on Your Chromecast Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-g54-5g-by-drfone-android/"><u>How to Bypass FRP on Motorola G54 5G?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-a-marketer-writes-guide-to-utilizing-hashtags-effectively-on-facebook/"><u>In 2024, A Marketer' Writes Guide to Utilizing Hashtags Effectively on Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/powerdirector-2024-explained-in-depth-review-and-guidebook/"><u>PowerDirector 2024 Explained - In-Depth Review & Guidebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-camon-20-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Camon 20 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
 

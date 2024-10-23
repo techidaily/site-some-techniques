@@ -1,7 +1,7 @@
 ---
 title: L'Impact De La Technologie ABBYY Sur La Stratégie De C Croissance Rapide De Nickel en France
-date: 2024-08-22T06:12:27.886Z
-updated: 2024-08-23T06:12:27.886Z
+date: 2024-10-20T17:44:16.007Z
+updated: 2024-10-23T16:20:54.003Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9bf54bc2e5b6e949de6c9c500.jpg
@@ -19,6 +19,13 @@ Finance/Banking | Document Classification | ID/Passport Recognition
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nickel s’appuie sur ABBYY pour accélérer sa croissance en France
 
 Banques et Finance | Classification de documents 
@@ -28,6 +35,13 @@ Banques et Finance | Classification de documents
 #### Aperçu du client
 
 ![Nickel](https://static4.abbyy.com/abbyycommedia/30005/nickel-logo-172x60.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Prénom         | Nickel                          |
 | -------------- | ------------------------------- |
@@ -75,9 +89,23 @@ L’adoption de la technologie ABBYY correspond à un enjeu stratégique de croi
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![Learn more about ABBYY Content Intelligence](https://static2.abbyy.com/abbyycommedia/24337/mailroom_automation_360x162.jpg)](https://tools.techidaily.com/abbyy/products/) [Content Intelligence](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
@@ -89,9 +117,6 @@ L’adoption de la technologie ABBYY correspond à un enjeu stratégique de croi
 
 [Tous les sièges d'ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -104,8 +129,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +136,23 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-engaging-audiences-via-vo-enhanced-slideshows/"><u>[New] 2024 Approved Engaging Audiences via VO-Enhanced Slideshows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-most-trusted-grid-creation-applications-ranked-anew/"><u>[New] 2024 Approved Instagram's Most Trusted Grid Creation Applications Ranked Anew</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-install-and-modify-whatsapp-alerts-on-both-platforms/"><u>[New] How to Install & Modify WhatsApp Alerts on Both Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ncorporate-no-cost-tunes-to-boost-your-vlogs/"><u>[New] Incorporate No-Cost Tunes to Boost Your Vlogs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-transitions-for-professional-videos/"><u>[New] Innovative Transitions for Professional Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instantize-image-movement-with-photoshop/"><u>[New] Instantize Image Movement with Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imagepurityplus-professional-photo-editing-suite/"><u>[Updated] ImagePurityPlus Professional Photo Editing Suite</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-game-on-with-these-5-must-have-broadcast-cams/"><u>2024 Approved Game on with These 5 Must-Have Broadcast Cams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-stunning-iphone-hdr-results/"><u>Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-techniques-for-adjusting-mov-file-dimensions-and-reducing-video-footprint/"><u>Effective Techniques for Adjusting MOV File Dimensions and Reducing Video Footprint</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flight-friendly-robot-categories/"><u>In 2024, Flight-Friendly Robot Categories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-time-travel-teleportation-effects/"><u>In 2024, How to Create Time Travel Teleportation Effects?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiating-seamless-zoom-gatherings/"><u>In 2024, Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/making-the-most-out-of-your-films-b-roll/"><u>Making the Most Out of Your Film's B-Roll</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a58-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A58 4G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

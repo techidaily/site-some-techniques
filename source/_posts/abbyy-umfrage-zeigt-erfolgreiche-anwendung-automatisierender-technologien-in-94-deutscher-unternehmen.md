@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Umfrage Zeigt: Erfolgreiche Anwendung Automatisierender Technologien in 94%% Deutscher Unternehmen"
-date: 2024-08-22T06:07:12.369Z
-updated: 2024-08-23T06:07:12.369Z
+date: 2024-10-16T19:46:22.567Z
+updated: 2024-10-23T19:46:42.720Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d559912a6d4e6e048b474186.jpg
@@ -56,6 +56,13 @@ _„Die Pandemie, eine größere Kündigungswelle aufgrund von Unzufriedenheit u
 
 Diese Studie wurde von Sapio Research im März 2022 im Auftrag von ABBYY durchgeführt. Die Umfrage wurde unter 1,208 IT-Entscheidern in Deutschland, Großbritannien, Frankreich, den USA und Japan durchgeführt, um zu erfassen, wo Unternehmen in Automatisierungsprojekte investieren, warum sie neue Technologien einsetzen und wie sich das Verhalten auf den Erfolg der Projekte auswirkt.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY treibt die intelligente Automatisierung voran. Wir gestalten die Art und Weise, wie Menschen arbeiten neu, indem wir Automatisierungsplattformen mit der Intelligenz ausstatten, die es Unternehmen ermöglicht, ihr Geschäft zu beschleunigen. Unsere Lösungen wandeln Unternehmensdaten in verwertbare Daten um und liefern die Erkenntnisse, die für ein smarteres und schnelleres Arbeiten erforderlich sind.
@@ -67,16 +74,23 @@ ABBYY ist ein globales Unternehmen mit Sitz in den USA und Niederlassungen in 15
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber. 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Pressekontakt:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 _ABBYY_
@@ -91,8 +105,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +112,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/critical-win1110-kernel-41-resolution-achieved/"><u>[Critical]: Win11/10 Kernel #41 Resolution Achieved</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-power-of-popularity-in-stock-images-and-stories/"><u>[New] 2024 Approved The Power of Popularity in Stock Images & Stories</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-iphone-ios-vr-games-you-should-try/"><u>[New] 2024 Approved Top Iphone iOS VR Games You Should Try</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-on-screen-the-years-best-camcorders-reviewed/"><u>[New] Excellence on Screen The Year's Best Camcorders Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-mac-video-capture-programs-reviewed/"><u>[New] Top 10 Mac Video Capture Programs Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>[Updated] How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imovies-cropping-an-in-depth-look/"><u>[Updated] IMovie's Cropping An In-Depth Look</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>2024 Approved Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-movies-for-free-simple-video-player-software/"><u>2024 Approved Explore Movies for Free Simple VIDEO Player Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-srt-to-the-future-mastering-xmlssattml-transforms/"><u>2024 Approved From SRT to the Future Mastering XML/SSA/TTML Transforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdmi-21-master-list-in-depth-screen-comparisons/"><u>2024 Approved HDMI 2.1 Master List In-Depth Screen Comparisons</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-no-cost-conversion-elevate-your-facebook-videos-to-mp4-and-hd-quality/"><u>2024 Approved No-Cost Conversion Elevate Your Facebook Videos to MP4 & HD Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-vistas-at-their-best-xiaomi-drone-4k-analysis-for-2024/"><u>Aerial Vistas at Their Best – Xiaomi Drone 4K Analysis for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-avoid-watermarks-in-stock-purchases-for-2024/"><u>How To Avoid Watermarks in Stock Purchases for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-principles-of-powerful-video-product-endorsements/"><u>In 2024, Fundamental Principles of Powerful Video Product Endorsements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-c-span-a-legal-grey-area-explored/"><u>In 2024, Grasping C-Span A Legal Grey Area Explored</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-6-inteligentes-herramientas-de-refinamiento-de-video-con-ai-para-una-experiencia-optimizada/"><u>Top 6 Inteligentes Herramientas De Refinamiento De Video Con AI Para Una Experiencia Optimizada</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pro-for-beginners-creating-a-video-slideshow-from-scratch/"><u>Updated In 2024, Final Cut Pro for Beginners Creating a Video Slideshow From Scratch</u></a></li>
+</ul></div>
 

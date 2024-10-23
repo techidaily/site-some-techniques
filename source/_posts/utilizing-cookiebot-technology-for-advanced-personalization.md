@@ -1,7 +1,7 @@
 ---
 title: Utilizing Cookiebot Technology for Advanced Personalization
-date: 2024-08-22T06:09:14.694Z
-updated: 2024-08-23T06:09:14.694Z
+date: 2024-10-18T19:39:55.563Z
+updated: 2024-10-23T19:59:51.180Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3986e176fe5f645b88c2b1e9.jpg
@@ -41,21 +41,28 @@ We discussed how to capitalize on the opportunities of artificial intelligence (
 Our conversation started with exploring why these technologies are so powerful–which is because they can be used in really targeted ways. The opportunity ahead is to be able to use those technologies and others, like [intelligent document processing (IDP)](https://tools.techidaily.com/abbyy/products/) and [process mining](https://tools.techidaily.com/abbyy/products/), to solve specific challenges and achieve specific business outcomes across the traditional insurance value chain. We also touched on how they can enable insurers to really use data as part of the decision-making process at critical points in the policy and claims lifecycles. We definitely agreed that we’re only seeing the beginning of how these technologies will help insurers.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Start with the goal, not the technology
 
 Another topic of discussion was about how the most successful deployments are the ones that were targeted towards a specific business need and had defined metrics about what would be considered successful ROI.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Great Automation Race to Insurance Innovation
 
 IDC’s latest research about intelligent automation in insurance.
 
 [View the infographic](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Understand your processes first
 
@@ -71,12 +78,16 @@ But now, it’s clear that the overnight shift to remote work and virtual custom
 
 ![insurance modernization success](https://static1.abbyy.com/abbyycommedia/33671/news-16-success.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Incrementally improve instead of rip-and-replace
 
 Insurers need to find new approaches to improving their processes. And it’s not another rip-and-replace project. Ultimately, using technology to advance intelligent process automation is most successful when an organization defines what success looks like before a project starts. And that’s because innovative technology projects all have the potential for business value–it just depends on what your business objectives are.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set up an innovation lab
 
@@ -94,21 +105,12 @@ The most successful organizations will be the ones that find ways to embed innov
 
 ![](https://static1.abbyy.com/abbyycommedia/31994/eileenpotter-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Eileen Potter
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static3.abbyy.com/abbyycommedia/35948/14998-cover-1-innovation.jpg) 
@@ -118,11 +120,28 @@ Share
 ![](https://static4.abbyy.com/abbyycommedia/35501/insurance-cover-848x444.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [No Time to Lose: Solving Document Challenges in Insurance](https://tools.techidaily.com/abbyy/products/) 
 
 ![](https://static4.abbyy.com/abbyycommedia/35325/professionals-5-848x444.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Failproof Your Success with Intelligent Process Automation](https://tools.techidaily.com/abbyy/products/) 
 
@@ -176,8 +195,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +202,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-imovie-hacks-for-unique-and-memorable-youtube-openers/"><u>[New] In 2024, IMovie Hacks for Unique and Memorable YouTube Openers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>[Updated] 2024 Approved Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-making-your-stories-more-accessible-a-captioning-guide/"><u>[Updated] Making Your Stories More Accessible A Captioning Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-websites-directory-personalized-ringtone-source/"><u>2024 Approved Expert Websites Directory Personalized Ringtone Source</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-gaming-to-content-creation-twitch-versus-youtube/"><u>2024 Approved From Gaming to Content Creation Twitch Versus YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-snapshot-to-success-an-in-depth-video-guide-for-youtube-photos/"><u>2024 Approved From Snapshot to Success An In-Depth Video Guide for YouTube Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-of-crafting-engaging-stories/"><u>2024 Approved Fundamentals of Crafting Engaging Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highpoint-artist-toolkit-review/"><u>2024 Approved Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-intensify-your-gaming-view-on-roblox-platforms/"><u>2024 Approved How to Intensify Your Gaming View on Roblox Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-offline-audio-to-text-solutions-for-2024/"><u>Expert Offline Audio to Text Solutions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-20plus-funny-memes-of-virtual-universes-for-2024/"><u>Exploring 20+ Funny Memes of Virtual Universes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/framing-speed-the-hyperlapse-video-methods-for-2024/"><u>Framing Speed The Hyperlapse Video Methods for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-150-2023-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia 150 (2023) Without PUK Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>In 2024, A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blend-visuals-and-soundtracks-for-movie-making/"><u>In 2024, Blend Visuals and Soundtracks for Movie Making</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/safe-and-fast-installation-of-sadeheadset-drivers-for-windows-enhance-your-listening-experience-now/"><u>Safe and Fast Installation of SadeHeadset Drivers for Windows: Enhance Your Listening Experience Now!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-evolving-lands-marketplace-facebook-edition/"><u>The Evolving Lands Marketplace: Facebook Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-fixing-common-arise-game-crash-issues/"><u>Tips & Tricks: Fixing Common Arise Game-Crash Issues</u></a></li>
+</ul></div>
 

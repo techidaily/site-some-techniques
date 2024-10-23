@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-10-10T20:01:11.956Z
-updated: 2024-10-17T17:19:25.211Z
+date: 2024-10-16T21:17:30.372Z
+updated: 2024-10-23T17:11:24.849Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,10 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -65,10 +65,10 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -88,10 +88,10 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -115,10 +115,10 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -148,21 +148,21 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-luts-for-precision-controlled-image-editing/"><u>[New] Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs/"><u>[New] Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-access-royalty-free-clip-art-tips/"><u>[New] Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-converting-horizontals-for-igtv-tips-and-techniques-explored-for-2024/"><u>[Updated] Converting Horizontals for IGTV Tips & Techniques Explored for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[Updated] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grandest-directors-trailers/"><u>[Updated] Grandest Director's Trailers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-examination-editrite-pro-suite-the-final-word-2023-for-2024/"><u>Comprehensive Examination EditRite Pro Suite – The Final Word, 2023 for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enhancing-your-roblox-experience-close-up-techniques-for-2024/"><u>Enhancing Your Roblox Experience Close-Up Techniques for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/entfernungsmethode-fur-den-dvd-kopierschutz-mit-winxdvd-ideal-fur-windows-and-apple-gerate/"><u>Entfernungsmethode Für Den DVD-Kopierschutz Mit WinXDVD – Ideal Für Windows & Apple Geräte</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-convert-subtitles-to-srt-our-picks-for-the-best-8-tools-on-windowsmac-for-2024/"><u>Expertly Convert Subtitles to SRT - Our Picks for the Best 8 Tools on Windows/Mac for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices-for-2024/"><u>From YouTube to High Definition Prime Downloader Choices for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-an-x-formerly-twitter-account/"><u>How to Set up an X (Formerly Twitter) Account</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>In 2024, Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hues-in-action-implementing-color-schemes-properly/"><u>In 2024, Hues in Action Implementing Color Schemes Properly</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/smart-techniques-to-capture-gotomeet-participants/"><u>Smart Techniques to Capture GoToMeet Participants</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-tutorial-for-effective-installation-of-windows-11-with-two-scenarios-explained/"><u>Step-by-Step Tutorial for Effective Installation of Windows 11 with Two Scenarios Explained</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-free-resources-for-youtube-intros/"><u>[New] 2024 Approved Essential Free Resources for YouTube Intros</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-into-the-world-of-youtube-stellar-intros-in-imovie/"><u>[New] In 2024, Breaking Into the World of YouTube Stellar Intros in iMovie</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>[Updated] 2024 Approved Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/a-handy-manual-assessing-and-annulling-window-history-data/"><u>A Handy Manual: Assessing & Annulling Window History Data</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ai-vacation-planner-showdown-perplexity-versus-chatgpt-my-experience/"><u>AI Vacation Planner Showdown: Perplexity Versus ChatGPT - My Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-practices-for-designing-an-engaging-youtube-teaser-for-2024/"><u>Best Practices for Designing an Engaging YouTube Teaser for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boosted-ai-capabilities-with-intel-core-ultra-pcs-experience-optimal-integration-of-cutting-edge-including-stable-diffusion/"><u>Boosted AI Capabilities with Intel Core Ultra PCs – Experience Optimal Integration of Cutting-Edge Including Stable Diffusion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/californias-bold-move-prohibiting-new-gasoline-vehicle-purchases-by-2035/"><u>California's Bold Move: Prohibiting New Gasoline Vehicle Purchases by 2035</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/chatgpt-vs-google-translate-which-provides-superior-translation-accuracy/"><u>ChatGPT Vs. Google Translate: Which Provides Superior Translation Accuracy?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comparing-ideograms-and-midjourney-a-comprehensive-showdown/"><u>Comparing Ideograms and Midjourney: A Comprehensive Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprehensive-assessment-of-the-chipolo-card-spot-innovative-tracking-device-mimicking-credit-card-design/"><u>Comprehensive Assessment of the Chipolo CARD Spot: Innovative Tracking Device Mimicking Credit Card Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-ricoh-theta-s-in-full-review/"><u>In 2024, Exploring Ricoh Theta S in Full Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>In 2024, Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-premier-cameras-for-diving-and-snorkeling-enthusiasts/"><u>In 2024, The Ultimate List Premier Cameras for Diving & Snorkeling Enthusiasts</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-system-fixes-navigating-through-windows-11-and-10-built-in-support/"><u>Mastering System Fixes: Navigating Through Windows 11 & 10 Built-In Support</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-card-not-compatible-with-windows-11-fix/"><u>Nvidia Card Not Compatible with Windows 11 [Fix]</u></a></li>
 </ul></div>
 

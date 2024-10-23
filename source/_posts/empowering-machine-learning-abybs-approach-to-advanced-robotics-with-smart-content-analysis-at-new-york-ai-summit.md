@@ -1,7 +1,7 @@
 ---
 title: "Empowering Machine Learning: ABYB's Approach to Advanced Robotics with Smart Content Analysis at New York AI Summit"
-date: 2024-08-22T06:12:17.223Z
-updated: 2024-08-23T06:12:17.223Z
+date: 2024-10-21T16:26:08.527Z
+updated: 2024-10-23T21:47:16.571Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d751281a956fa095e6d4da5fc3673.jpg
@@ -48,8 +48,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -57,9 +55,29 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-360-video-editing-in-premiere/"><u>[New] Advanced Techniques for 360° Video Editing in Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extraordinary-assessment-and-alternative-choices/"><u>[New] Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-logos-sculpt-your-brand-with-stock-imagery/"><u>[New] Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pages-to-production-creating-a-movie-blueprint/"><u>[New] From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-audacity-audio-basics-for-new-mac-users/"><u>[New] In 2024, Audacity Audio Basics for New Mac Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-windows-tunes-hub/"><u>[Updated] Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-virtual-reality-terms-you-should-know/"><u>[Updated] Virtual Reality Terms You Should Know</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/combining-social-media-powers-facebook-plus-linkedin-plus-youtube/"><u>Combining Social Media Powers: Facebook + LinkedIn + YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/defining-your-digital-dna-a-guide-to-youtubing-personal-branding-for-2024/"><u>Defining Your Digital DNA A Guide to YouTubing Personal Branding for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-maximizing-apple-podcast-listing-chances/"><u>In 2024, Guide Maximizing Apple Podcast Listing Chances</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a34-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A34 5G Bootloader Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initial-steps-to-master-the-art-of-pixel-mapping/"><u>In 2024, Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-redmi-note-12-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi Redmi Note 12 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-card-recovered-after-driver-stall/"><u>Video Card Recovered After Driver Stall</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

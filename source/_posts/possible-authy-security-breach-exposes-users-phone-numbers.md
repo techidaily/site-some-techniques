@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2024-10-17T02:06:52.366Z
-updated: 2024-10-18T02:40:56.045Z
+date: 2024-10-18T18:06:02.753Z
+updated: 2024-10-23T17:43:18.376Z
 tags:
   - web
 categories:
@@ -38,29 +38,21 @@ Authy is one of the best authentication services out there, as well as one of th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-budget-friendly-obs-optimization-techniques/"><u>[New] 2024 Approved Budget-Friendly OBS Optimization Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-gear-up-for-glory-your-top-5-pick-of-racing-titles/"><u>[Updated] 2024 Approved Gear Up for Glory Your Top 5 Pick of Racing Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-capturing-dynamic-action-sequences-on-iphone/"><u>[Updated] Capturing Dynamic Action Sequences on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-windows-podcast-software-selections/"><u>[Updated] Ideal Windows Podcast Software Selections</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally/"><u>2024 Approved A Gamer's Treasure Chest Top 5 Ways to Record VR Games Professionally</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-boring-to-breathtaking-transforming-podcast-blurbs/"><u>2024 Approved From Boring to Breathtaking Transforming Podcast Blurbs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-ai-names-for-podcasts-the-ultimate-guide/"><u>2024 Approved Innovative AI Names for Podcasts – The Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-voice-changing-methods-in-free-fire/"><u>2024 Approved Voice Changing Methods in Free Fire</u></a></li>
-<li><a href="https://extra-information.techidaily.com/amplify-iphone-film-and-photo-experience-with-extra-gear-for-2024/"><u>Amplify iPhone Film & Photo Experience with Extra Gear for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-live-video-streaming-software/"><u>Best Live Video Streaming Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/goofy-unleashed-the-movie-an-examination-for-2024/"><u>Goofy Unleashed The Movie – An Examination for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero5-black-in-action-essential-shooting-advice-for-amazing-results-for-2024/"><u>Hero5 Black in Action Essential Shooting Advice for Amazing Results for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-note-50-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme Note 50 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-radio-recordings-a-practical-handbook/"><u>In 2024, Free Online Radio Recordings - A Practical Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>In 2024, High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/klare-schritte-zum-einstellen-automatischer-backups-mit-onedrive-auf-windows-11/"><u>Klare Schritte Zum Einstellen Automatischer Backups Mit OneDrive Auf Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-wi-fi-login-failures-on-android-phones-and-tablets/"><u>Troubleshooting Wi-Fi Login Failures on Android Phones and Tablets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-imovies-automated-size-control/"><u>[Updated] Exploring iMovie's Automated Size Control</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-definition-spectacle-top-ten-4ks/"><u>[Updated] High Definition Spectacle – Top Ten 4Ks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/geen-kosten-converteren-van-mov-naar-avi-formaat-online-met-convertmovtoavi/"><u>Geen Kosten! Converteren Van MOV Naar Avi Formaat Online Met ConvertMOVtoAVI</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-nord-n30-se-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus Nord N30 SE Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-horizon-unveiled-an-elite-list-of-online-sky-sites/"><u>In 2024, HDR Horizon Unveiled An Elite List of Online Sky Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highpoint-artist-suite-evaluation/"><u>In 2024, Highpoint Artist Suite Evaluation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-connectivity-issues-the-ultimate-guide-for-ralink-rt3290-drivers-on-various-windows-versions/"><u>Solving Connectivity Issues: The Ultimate Guide for Ralink RT3290 Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 13 Pro Max</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-10-10T23:48:39.627Z
-updated: 2024-10-18T03:51:31.938Z
+date: 2024-10-20T18:29:02.392Z
+updated: 2024-10-23T19:35:52.248Z
 tags:
   - deals
 categories:
@@ -24,10 +24,10 @@ Lucas Gouveia / How-To Geek
  I will say that the upgrade was completely painless. It was quite different from my previous installation scenarios, although I figure if I ever had to reinstall the operating system, the from-scratch installation is probably more complicated than the upgrade. After about twenty minutes of downloading and updating files, the machine rebooted, and I was immediately into Windows 11\. And that's where things started to go downhill.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Enabling TPM 2.0
@@ -46,13 +46,6 @@ Benj Edwards / How-To Geek
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
  It wasn't so bad, since all one had to do to fix the "problem" was right-click on the taskbar and [change the setting from center aligned to left aligned](https://twitter-videos.techidaily.com/updated-in-2024-twitters-new-era-of-videography-aspect-ratios-mandatory/). It was a cosmetic change, although I'm not sure why Microsoft decided to default the Start button to center-aligned when all the previous iterations of Windows were left-aligned. But I digress—this one annoyed me, but it wasn't a functional issue.
@@ -64,6 +57,13 @@ Benj Edwards / How-To Geek
 ##  Truncated Context Menus Hurt Usability
 
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
 
@@ -86,10 +86,10 @@ Benj Edwards / How-To Geek
 ![No Action Center (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/no-action-center-light.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
@@ -101,16 +101,10 @@ Benj Edwards / How-To Geek
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lucas Gouveia / Hannah Stryker / How-To Geek
@@ -134,18 +128,20 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quintessential-scriptwriting-throughout-the-film-landscape/"><u>[New] 2024 Approved Quintessential Scriptwriting Throughout the Film Landscape</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>[New] In 2024, Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-next-gen-screen-leaders-best-4k-tvs/"><u>[Updated] 2024 Approved Next-Gen Screen Leaders Best 4K TVs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>[Updated] Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-picture-perfectionism-top-tools-and-sites-for-adding-frame-elements/"><u>[Updated] Picture Perfectionism Top Tools & Sites for Adding Frame Elements</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-understanding-and-utilizing-facebooks-live-feature-a-complete-overview/"><u>[Updated] Understanding and Utilizing Facebook's Live Feature A Complete Overview</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>2024 Approved 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratitude-freepaid-outro-template-selections/"><u>2024 Approved Gratitude Free/Paid Outro Template Selections</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-speaker-trouble-get-your-sound-back-on-windows-10-now/"><u>Anthem Speaker Trouble? Get Your Sound Back on Windows 10 Now!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-definition-at-its-peak-top-10-4k-screens-for-2024/"><u>High Definition at Its Peak #Top 10 4K Screens for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-enhancing-your-gopro-cinematic-vision/"><u>In 2024, Expert Tips for Enhancing Your GoPro Cinematic Vision</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-impressive-scrutiny-and-comparable-proposals/"><u>In 2024, Impressive Scrutiny & Comparable Proposals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-inactive-microphones-on-windows-10-systems/"><u>Troubleshooting Inactive Microphones on Windows 10 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-clearer-zoomed-snapshots-on-snapchat/"><u>[New] Expert Tips for Clearer Zoomed Snapshots on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-handling-timecodes-in-srt-using-macos-tools/"><u>[New] Expertly Handling Timecodes in SRT Using macOS Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-highest-rated-virtual-reality-games/"><u>[Updated] Explore the Highest-Rated Virtual Reality Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-virtual-journeys-ultimate-listing-of-10-free-mmorpg-games/"><u>[Updated] Virtual Journey's Ultimate Listing of 10 Free MMORPG Games</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-a1-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo A1 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exquisite-solution-for-vr-adventures/"><u>2024 Approved Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-audio-gear-compatible-with-cutting-edge-4k-technology/"><u>2024 Approved Ideal Audio Gear Compatible with Cutting-Edge 4K Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exploring-the-apex-of-mobile-photography-with-ios-11-for-2024/"><u>Exploring the Apex of Mobile Photography with iOS 11 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-sony-xperia-5-v-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pixels-to-power-top-photo-editing-strategies-unlocked/"><u>In 2024, Pixels to Power Top Photo Editing Strategies Unlocked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469348960-troubleshooting-tips-for-issues-with-apple-family-sharing-discover-6-fixes/"><u>Troubleshooting Tips for Issues with Apple Family Sharing – Discover 6 Fixes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/uncovering-youtubes-star-comment/"><u>Uncovering YouTube's Star Comment</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unleash-your-ugc-making-memes-and-marks-on-fb-for-2024/"><u>Unleash Your UGC Making Memes and Marks on FB for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-screen-record-with-ease-top-10-webcam-software-for-windows-10-for-2024/"><u>Updated Screen Record with Ease Top 10 Webcam Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/why-does-imovie-crop-my-videos-for-2024/"><u>Why Does iMovie Crop My Videos for 2024</u></a></li>
 </ul></div>
 

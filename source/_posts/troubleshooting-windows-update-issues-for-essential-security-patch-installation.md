@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Issues for Essential Security Patch Installation
-date: 2024-10-12T16:06:03.422Z
-updated: 2024-10-18T01:20:15.920Z
+date: 2024-10-18T19:54:20.806Z
+updated: 2024-10-23T16:57:15.626Z
 tags:
   - deals
 categories:
@@ -26,15 +26,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Update Now' highlighted on the Windows Update Assistant site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-download-windows-update-assistant.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run the downloaded tool file, install the updates displayed in the tool, and [restart your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/).
 
  In the future, you can update your system from Settings > Update & Security > Windows Update as usual without encountering the above error.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Clear Your Windows Update Cache
@@ -52,10 +59,10 @@ services.msc
 !['Stop' highlighted for the 'Windows Update' service on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-stop-windows-update-service.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, open the Run dialog box again, enter the following in the field, and press Enter:
@@ -80,19 +87,6 @@ C:\Windows\SoftwareDistribution\
 
  Wait for the tool to detect and resolve your update problems. This can take anywhere from a few seconds to a few minutes, then restart your PC.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Fix Windows’ Corrupted System Files
 
  If Windows’ core files are corrupted, that can cause your various system features to malfunction, including Windows Update. In this case, use your PC’s built-in SFC (System File Checker) tool to [find and repair all the damaged system files on your computer](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/).
@@ -110,10 +104,10 @@ DISM.exe /Online /Cleanup-image /Restorehealth
 ![The DISM command on a Command Prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-run-dism-command-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next up, run the following command to begin finding and fixing your system’s damaged files:
@@ -141,19 +135,21 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-guide-to-securing-top-tier-images-for-free/"><u>[New] A Guide to Securing Top-Tier Images for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-auteurs-toolkit-5-critical-cinematographic-insights/"><u>[New] The Auteur's Toolkit 5 Critical Cinematographic Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-maintain-a-seamless-video-experience-by-removing-stickers/"><u>[Updated] How to Maintain a Seamless Video Experience by Removing Stickers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-mc-shelter-design-tips-for-2024/"><u>[Updated] Innovative MC Shelter Design Tips for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-approaches-to-in-game-auditory-logging-for-2024/"><u>Cutting-Edge Approaches to In-Game Auditory Logging for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-review-insights-acevideo-editor-2023-edition-for-2024/"><u>Full Review Insights AceVideo Editor, 2023 Edition for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-lava-yuva-2-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Lava Yuva 2 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-your-favorites-on-netflix-with-playback-speeds/"><u>In 2024, Fast-Track Your Favorites on Netflix with Playback Speeds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>In 2024, Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-creating-luts/"><u>In 2024, Innovative Methods for Creating LUTs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-essential-guide-to-win11-video-grabber-apps/"><u>In 2024, The Essential Guide to Win11 Video Grabber Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-tips-tiktok-age-authentication-for-2024/"><u>Quick Tips TikTok Age Authentication for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-most-affordable-cpus-of-202e-thorough-evaluation-by-anandtech/"><u>The Ultimate Guide to the Most Affordable CPUs of 202E: Thorough Evaluation by AnandTech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-viral-instagram-unboxing-vids-for-2024/"><u>The Ultimate Guide to Viral Instagram Unboxing Vids for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-halt-and-rewind-mastering-live-streams-on-twitch/"><u>[New] Halt & Rewind Mastering Live Streams on Twitch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-imagery-the-art-of-digital-bending/"><u>[New] Innovative Imagery The Art of Digital Bending</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>[New] M1 Pro Vs. M1 Max Delving Into the Details of Apple's Latest CPUs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[Updated] From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-fast-snapfinders-handbook/"><u>[Updated] In 2024, Fast Snapfinder's Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-forming-inspiring-collage-photos/"><u>2024 Approved Expertise in Forming Inspiring Collage Photos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-platform-prowess-finding-your-future-in-obstwitch/"><u>2024 Approved Platform Prowess Finding Your Future in OBS/Twitch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-a2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi A2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bring-the-future-to-your-fingertips-android-and-ios-users-can-harness-the-power-of-bings-ai-driven-search/"><u>Bring the Future to Your Fingertips: Android & iOS Users Can Harness the Power of Bing's AI-Driven Search</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone-for-2024/"><u>How to Transfer Photos and Videos From Android Phone to an iPhone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-floodproof-favorites-compiling-top-7-cameras-list/"><u>In 2024, Floodproof Favorites Compiling Top 7 Cameras List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>In 2024, FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 VIP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering/"><u>Mastering.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-youtube-and-instagram-sharing-video-content-without-limits-for-2024/"><u>Navigating YouTube and Instagram Sharing Video Content without Limits for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-errors-with-the-absent-d3dx940-dynamic-link-library/"><u>Overcoming Errors with the Absent D3dx9_40 Dynamic Link Library</u></a></li>
 </ul></div>
 

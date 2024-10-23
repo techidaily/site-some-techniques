@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Und Bosch: Vorreiter Der Intelligenten Automatisierungstechnologie"
-date: 2024-08-22T06:09:27.785Z
-updated: 2024-08-23T06:09:27.785Z
+date: 2024-10-19T18:40:23.156Z
+updated: 2024-10-23T20:57:08.466Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b29838c074677a1e86056393.jpg
@@ -42,24 +42,29 @@ ABBYY ist ein globales Unternehmen mit Sitz in den USA und Niederlassungen in 15
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Pressekontakt:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 _ABBYY_
 
 [bianca.stupp@abbyy.com](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Über die Bosch Gruppe
 
 Die Bosch-Gruppe ist ein international führendes Technologie- und Dienstleistungsunternehmen mit weltweit rund 401 300 Mitarbeitern (Stand: 31.12.2021). Sie erwirtschaftete im Geschäftsjahr 2021 nach vorläufigen Zahlen einen Umsatz von 78,8 Milliarden Euro. Die Aktivitäten gliedern sich in die vier Unternehmensbereiche Mobility Solutions, Industrial Technology, Consumer Goods sowie Energy and Building Technology. Als führender Anbieter im Internet der Dinge (IoT) bietet Bosch innovative Lösungen für Smart Home, Industrie 4.0 und Connected Mobility. Bosch verfolgt die Vision einer nachhaltigen, sicheren und begeisternden Mobilität. Mit seiner Kompetenz in Sensorik, Software und Services sowie der eigenen IoT-Cloud ist das Unternehmen in der Lage, seinen Kunden vernetzte und domänenübergreifende Lösungen aus einer Hand anzubieten. Strategisches Ziel der Bosch-Gruppe sind Lösungen und Produkte für das vernetzte Leben, die entweder über künstliche Intelligenz (KI) verfügen oder mit ihrer Hilfe entwickelt oder hergestellt werden. Mit innovativen und begeisternden Produkten sowie Dienstleistungen verbessert Bosch weltweit die Lebens-qualität der Menschen. Bosch bietet „Technik fürs Leben“. Die Bosch-Gruppe umfasst die Robert Bosch GmbH sowie ihre rund 440 Tochter- und Regionalgesellschaften in rund 60 Ländern. Inklusive Handels- und Dienstleistungspartnern erstreckt sich der weltweite Fertigungs-, Entwicklungs- und Vertriebsverbund von Bosch über fast alle Länder der Welt. Mit ihren weltweit mehr als 400 Standorten ist die Bosch-Gruppe seit Frühjahr 2020 CO2-neutral. Basis für künftiges Wachstum ist die Innovationskraft des Unternehmens. Bosch beschäftigt weltweit rund 76 300 Mitarbeiter in Forschung und Entwicklung an 128 Standorten, davon mehr als 38 000 Software-Entwickler.
@@ -67,15 +72,29 @@ Die Bosch-Gruppe ist ein international führendes Technologie- und Dienstleistun
 Das Unternehmen wurde 1886 als „Werkstätte für Feinmechanik und Elektrotechnik“ von Robert Bosch (1861–1942) in Stuttgart gegründet. Die gesellschaftsrechtliche Struktur der Robert Bosch GmbH sichert die unternehmerische Selbstständigkeit der Bosch-Gruppe. Sie ermöglicht dem Unternehmen langfristig zu planen und in bedeutende Vorleistungen für die Zukunft zu investieren. Die Kapitalanteile der Robert Bosch GmbH liegen zu 94 Prozent bei der gemeinnützigen Robert Bosch Stiftung GmbH. Die übrigen Anteile halten eine Gesellschaft der Familie Bosch und die Robert Bosch GmbH. Die Stimmrechte liegen mehrheitlich bei der Robert Bosch Industrietreuhand KG; sie übt die unternehmerische Gesellschafterfunktion aus.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Bosch Ansprechpartner:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Andreas Magnussen
 
 _Bosch_
@@ -90,8 +109,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +116,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-linking-youtubes-harmony-to-imovie-clips-effortlessly/"><u>[New] 2024 Approved Linking Youtube's Harmony to iMovie Clips Effortlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levate-engagement-top-hashtags-for-gameplay-vids-for-2024/"><u>[New] Elevate Engagement Top Hashtags for Gameplay Vids for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-explore-free-options-10-leading-mac-artists-preferences/"><u>[New] In 2024, Explore Free Options 10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-shine-a-light-the-12-ultimate-fixes-for-making-facebook-videos-visible-again/"><u>[Updated] 2024 Approved Shine a Light The 12 Ultimate Fixes for Making Facebook Videos Visible Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-balancing-iphone-hd-video-with-premiere-pros-exposure-control/"><u>2024 Approved Balancing iPhone HD Video with Premiere Pro’s Exposure Control</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/code-224003-cleared-videos-playable-now/"><u>Code 224003 Cleared, Videos Playable Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide-for-2024/"><u>From Script to Screen Mastery Through Vida’ Writers Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-script-to-screenshot-crafting-viral-meme-gifs-for-2024/"><u>From Script to Screenshot Crafting Viral Meme GIFs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts-for-2024/"><u>From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frozen-olympics-spectacular-2022-highlights-for-2024/"><u>Frozen Olympics Spectacular 2022 Highlights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-breakdown-the-ultimate-dji-phantom-4-experience-for-2024/"><u>Full Breakdown The Ultimate DJI Phantom 4 Experience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-screen-mastery-for-premier-pro-users-for-2024/"><u>Full Screen Mastery for Premier Pro Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fundamentals-of-crafting-engaging-stories-for-2024/"><u>Fundamentals of Crafting Engaging Stories for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-enhancing-screens-top-5-for-ps5-and-xbox-gamers-for-2024/"><u>Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-11-innovative-steps-toward-perfect-post-production-colorwork/"><u>In 2024, 11 Innovative Steps Toward Perfect Post-Production Colorwork</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-vr-film-experiences-to-witness/"><u>Key VR Film Experiences to Witness</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-hot-30-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Hot 30 5G Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essentials-of-narrowing-virtual-room-spaces/"><u>The Essentials of Narrowing Virtual Room Spaces</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-technology-with-toms-equipment-analysis/"><u>Unveiling the Latest in Technology with Tom’s Equipment Analysis</u></a></li>
+</ul></div>
 

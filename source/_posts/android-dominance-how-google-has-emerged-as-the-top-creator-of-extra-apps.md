@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2024-10-11T22:11:05.657Z
-updated: 2024-10-18T02:23:52.286Z
+date: 2024-10-19T17:40:36.797Z
+updated: 2024-10-23T16:58:27.100Z
 tags:
   - mobile
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 * [I Don't Want to Give All of My Data to Google](https://buynow-marvelous.techidaily.com/2024-sonic-winners-top-tier-headphones-roundup/)
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  While Android is free, Google has control over the primary way developers distribute their apps to Android users. In order for a company to ship the Play Store on their device, they must agree to include a bundle of Google apps and background services. The company has also been willing to pay big bucks to limit the creation of alternative Android app stores. In 2023, Google lost a case against Epic for monopolistic practices centered around the Play Store, as reported by the [BBC](https://www.bbc.com/news/business-67688720).
@@ -55,22 +55,15 @@ Jerome Thomas / How-To Geek
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I Don't Want to Give All of My Data to Google
@@ -98,10 +91,10 @@ Close
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google Apps Make Android Phones All Feel the Same
@@ -113,6 +106,13 @@ Close
  Phones aren't the only devices that suffer from this. Consider the [XREAL Beam Pro](https://us.shop.xreal.com/products/xreal-beam-pro), an Android-based (and far more affordable) alternative to Apple's Vision Pro. It's a tempting addition to [the AR glasses I replaced my computer monitor with](https://youtube-docs.techidaily.com/approved-expert-insights-where-to-invest-in-youtube-creator-revenue/). When you launch the device for the first time, you're presented with a large array of Google apps that you probably didn't buy AR glasses to use. They continue to clutter up the launcher unless you dive into settings and disable them.
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
@@ -137,22 +137,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>[New] Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-highlighted-10-faceshaping-tech-on-phones/"><u>[New] Highlighted 10 Faceshaping Tech on Phones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expert-review-of-apeaksoft-for-video-capture-technology/"><u>[Updated] Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[Updated] How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-typography-trick-sets/"><u>2024 Approved Excellent Typography Trick Sets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imovie-sound-design-made-simple/"><u>2024 Approved IMovie Sound Design Made Simple</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-steps-to-create-a-compelling-community-giving-event-post/"><u>2024 Approved Steps to Create a Compelling Community Giving Event Post</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/airpods-alone-restoring-connection-for-2024/"><u>Airpods Alone Restoring Connection for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-origins-unveiling-the-dawn-of-artific/"><u>Exploring the Origins: Unveiling the Dawn of Artific</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expressive-faces-with-motion-blur-in-picsart-for-2024/"><u>Expressive Faces with Motion Blur in Picsart for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-vs-drift-ghost-speed-camera-showdown-explained-for-2024/"><u>GoPro vs Drift Ghost - Speed Camera Showdown Explained for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-7-ultimate-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 7 Ultimate to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-storytelling-through-total-environmental-capture/"><u>In 2024, Immersive Storytelling Through Total Environmental Capture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-in-search-of-the-best-fps-experience-ever/"><u>In 2024, In Search of the Best FPS Experience Ever</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-top-7-stardew-valley-improvement-packs/"><u>In 2024, The Top 7 Stardew Valley Improvement Packs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-free-video-converter-tools-for-windows-10-best-dvd-ripping-software/"><u>Top Free Video Converter Tools for Windows 10 - Best DVD Ripping Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-digital-artistry-the-meme-generator/"><u>[New] Free Digital Artistry The Meme Generator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-outstanding-transforming-your-meetings-with-zoom-filters/"><u>[New] From Ordinary to Outstanding Transforming Your Meetings with Zoom Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-drone-review/"><u>[New] GoPro Karma Drone Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-personal-tones-androids-ringtone-and-sound-guide-for-2024/"><u>[New] Mastering Personal Tones Android's Ringtone & Sound Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-podcast-creation-in-garageband/"><u>[New] The Essential Guide to Podcast Creation in GarageBand</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-banishing-the-blank-screen-from-youtube-videos/"><u>[Updated] 2024 Approved Banishing the Blank Screen From YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hours-of-videography-expected-gb-usage/"><u>[Updated] Hours of Videography Expected GB Usage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-watermarking-essentials-the-hottest-apps-reviewed/"><u>[Updated] In 2024, Watermarking Essentials - The Hottest Apps Reviewed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-customizing-your-watch-the-art-of-altering-youtube-video-pace/"><u>2024 Approved Customizing Your Watch The Art of Altering YouTube Video Pace</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-fixing-two-users-ms-login-conflicts/"><u>Expert Tips: Fixing Two Users' MS Login Conflicts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/haunting-shots-next-gen-action-hddc-for-2024/"><u>Haunting Shots Next-Gen Action HDDC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-achieve-lightning-fast-periscope-transmission-for-2024/"><u>How to Achieve Lightning-Fast Periscope Transmission for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-14-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 14 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-color-grading-navigating-luts-in-adobe-premiere-pro/"><u>In 2024, Immersive Color Grading Navigating LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-giroptic-360-angle-reviews-for-2024/"><u>In-Depth Giroptic 360-Angle Reviews for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-mosaic-photography-for-2024/"><u>Innovative Approaches for Mosaic Photography for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-alan-wake-2-stability-fix-your-game-crash-issues-now/"><u>Master Alan Wake 2 Stability: Fix Your Game Crash Issues Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-propella-amidst-a-storm-said-mr-hawkins-his-eyes-reflecting-a-mix-of-concern-and-resilience-this-is-no-ordinary-storm-its-been-brewing126/"><u>The Ultimate Guide to Propella Amidst a Storm, Said Mr. Hawkins, His Eyes Reflecting a Mix of Concern and Resilience. This Is No Ordinary Storm; It's Been Brewing for Years, Hidden From Our Sight by the Deceptive Calm.</u></a></li>
 </ul></div>
 

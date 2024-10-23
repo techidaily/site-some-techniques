@@ -1,7 +1,7 @@
 ---
 title: At the Helm of Client Satisfaction - Meet Nina Walker, VP of Customer Success at ABBYY
-date: 2024-08-22T06:11:31.880Z
-updated: 2024-08-23T06:11:31.880Z
+date: 2024-10-19T21:12:19.668Z
+updated: 2024-10-23T21:23:27.867Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b088afea3c5a850da277e1159.jpg
@@ -37,13 +37,24 @@ I joined ABBYY in 2016\. Initially I started in marketing, then moved into an op
 
 Last year I was given the exciting opportunity to become Head of Customer Experience at ABBYY. It is a brand-new role and a super interesting position that enables me to grow professionally. There is a lot of cross-departmental collaboration, analysis, and strategic input required. Some of my niche responsibilities include Voice of the Customer such as knowing our customers, their expectations, and how we meet them, as well as understanding how we can improve and operationalize the whole customer journey.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What does a typical day look like for you at ABBYY?
 
 A typical day for me starts with an early morning coffee and checking emails and messages that have come in overnight. Next, I get my kids sorted, and off to school then it’s back to my desk. About once a month, I travel to the Munich office, but most of the time I work from home. Typically, I’ll have a mixture of meetings with colleagues, discussing and brainstorming new and existing initiatives, as well as having some set focus time, getting into the weeds, and moving existing projects along.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What keeps you going, and what do you enjoy the most in your role, any highlights?
 
 Two things, firstly I love my job. I am happy where I am and with the responsibilities I have. I love solving problems, improving processes, and putting myself into the customers’ shoes.
@@ -52,9 +63,6 @@ Secondly, I have a brilliant set of colleagues around me. From a very transparen
 
 ![Life At ABBYY - Nina Walker and Colleagues](https://static1.abbyy.com/abbyycommedia/36837/nina-walker-v2-c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### What was your previous experience before ABBYY?
 
 Before joining ABBYY I was a Sales, Marketing and Event Manager living in Oxfordshire in the UK. It has been a journey that I wouldn’t want to miss. Every job I’ve held has taught me something that I was able to apply to the next position.
@@ -65,9 +73,6 @@ Giving one piece of advice is a bit tricky, but in principle I believe ‘Nothin
 
 [Nine Customer Success Operations Questions Answered by Experts featuring Nina Walker, ABBYY | ChurnZero Blog](https://churnzero.com/blog/customer-success-operations-experts-answer-questions/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How do you spend your free time?
 
 I really enjoy being outdoors with my kids, socializing and visiting new places.
@@ -75,15 +80,23 @@ I really enjoy being outdoors with my kids, socializing and visiting new places.
 ![Life at ABBYY - Nina Walker](https://static1.abbyy.com/abbyycommedia/36832/nina-walker-ski-family.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### If you could have one wish come true, what would it be?
 
 That we, as human beings, stopped comparing each other, but instead started tolerating and accepting one another for who we really are. I believe it would lead to a much more colorful and peaceful life.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What’s your pet peeve?
 
 I find it hard when people complain a lot. There might always be things that do not go to plan, but in my opinion, it is all about perspective. Most of the time there is something positive you can find in any situation.
@@ -103,8 +116,19 @@ Some advice I would like to give to female colleagues who might experience chall
 ![Women at ABBYY - Oktoberfest](https://static1.abbyy.com/abbyycommedia/36835/nina-walker-v2-a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)
@@ -119,16 +143,10 @@ Share
 
 ![](https://static4.abbyy.com/abbyycommedia/37757/larysa-lototska.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 [ABBYY Spotlight: Larysa Lototska, Director of Customer Success, North America](https://tools.techidaily.com/abbyy/products/) 
 
 ![](https://static5.abbyy.com/abbyycommedia/37764/viacheslav-prodan.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 [ABBYY Spotlight: Viacheslav Prodan, Director Customer Excellence (CEx) Systems, Processes, and Automations](https://www.abbyy.com/blog/meet-viacheslav-prodan/) 
 
 #### Subscribe for blog updates
@@ -181,8 +199,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +206,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-mastering-pc-hd-video-viewing-and-editing-with-windows-hdr-support-for-2024/"><u>[New] Mastering PC HD Video Viewing & Editing with Windows HDR Support for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pivot-point-review-diversifying-video-tech-for-2024/"><u>[New] Pivot Point Review Diversifying Video Tech for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-android-enthusiasts-winning-list-updated-top-10-fb-video-downloaders-for-2024/"><u>[Updated] Android Enthusiasts Winning List Updated Top 10 FB Video Downloaders for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-efficient-methods-to-extract-and-save-video-audio-as-mp3/"><u>[Updated] In 2024, Efficient Methods to Extract and Save Video Audio as MP3</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>[Updated] In 2024, Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pacing-your-content-the-importance-of-regularity-in-a-successful-youtube-channel/"><u>[Updated] Pacing Your Content The Importance of Regularity in a Successful YouTube Channel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-prolific-producers-of-profits-online/"><u>[Updated] Prolific Producers of Profits Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-metro-ags-transaction-speed-for-bulk-customers-by-90-using-abbyy-solutions/"><u>Boost Metro AG's Transaction Speed for Bulk Customers by 90% Using ABBYY Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-sites-traffic-with-the-help-of-cookiebot-the-ultimate-seo-solution/"><u>Boost Your Site's Traffic with the Help of Cookiebot: The Ultimate SEO Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boosting-online-engagement-with-advanced-cookiebot-marketing-tools/"><u>Boosting Online Engagement with Advanced Cookiebot Marketing Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/chinese-script-for-newcomers/"><u>Chinese Script for Newcomers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/convert-books-and-documents-to-editable-text-with-ios-scanner-and-ocr-app/"><u>Convert Books & Documents to Editable Text with iOS Scanner & OCR App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-analytics-enhancing-your-digital-marketing-strategy/"><u>Cookiebot-Driven Analytics: Enhancing Your Digital Marketing Strategy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-customized-user-experiences/"><u>Cookiebot-Driven Customized User Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabled-enhancing-your-websites-user-experience-with-advanced-tracking/"><u>Cookiebot-Enabled: Enhancing Your Website's User Experience with Advanced Tracking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-experience-the-ultimate-personalization-tool/"><u>Cookiebot-Enhanced Experience: The Ultimate Personalization Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-boosting-your-sites-engagement-with-cutting-edge-marketing-tech/"><u>Cookiebot-Enhanced: Boosting Your Site's Engagement with Cutting-Edge Marketing Tech</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y77t Bootloader Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-handbook-for-swapping-music-libraries/"><u>The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+</ul></div>
 

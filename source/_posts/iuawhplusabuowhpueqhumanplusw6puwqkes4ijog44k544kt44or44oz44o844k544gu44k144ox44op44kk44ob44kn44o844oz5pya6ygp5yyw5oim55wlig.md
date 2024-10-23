@@ -1,7 +1,7 @@
 ---
 title: "文書処理速度向上: スキルベースのサプライチェーン最適化戦略"
-date: 2024-08-22T06:10:04.154Z
-updated: 2024-08-23T06:10:04.154Z
+date: 2024-10-19T21:39:55.037Z
+updated: 2024-10-23T16:50:58.624Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f33408103ebb2dc34b6570fb.jpg
@@ -31,11 +31,22 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
 ![supply chain workers using AI skills](https://static1.abbyy.com/abbyycommedia/34763/skills-for-transportation-2-848x444.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 多くの場合、テクノロジープロバイダーや企業は、文書を記録システムのデータ問題にしがち、このような仮定のしかたは、混乱や競争に対して脆弱性をもたらすものです。 文書には貴重なデータとコンテンツの両方が含まれています。ただし後者には熟練した読解力と文脈に基づいた解釈が必要であり、迅速な意思決定が求められます。 熟練したスタッフは、この明確な目的のために文書やコンテンツに接しています。なぜなら、データは、日々、貨物を動かしたり、材料やサービスを調達したりする重要な意思決定に必要な情報の一部を提供するだけだからです。 人工知能 （AI） は、経験とデータの間のミッシングリンクを埋めて、熟練した読解力を文書に加えることができますが、サプライチェーンはまだその可能性を認識しておらず、オペレーションを変革することができていません。
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## オペレーションにドキュメント「スキル」を加える
 
 もし、熟練した訓練を受けた経験豊富な人材が必要ないのであれば、「文書問題」は10年前に解決していたでしょう。しかし、現実には、コンテンツに関する意思決定、すなわち調達、出荷、受領に関する意思決定を行うために、これらのスキルと経験が頻繁に必要とされています。 ほとんどの場合、データ抽出は十分であり、90％以上のストレートスルー・プロセッシングが一般的に期待できるようになっています。 しかし、そのようなレベルの効率性を実現するためには、ツールに組み込まれたContent Intelligenceが必要であり、それ以外にも高度な意思決定スキルが必要です。
@@ -44,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
 もはや、ドキュメントスキルの運用メリットを得るために、大きなキャプチャープラットフォームやフレームワークは必要ありません。 事前学習済みのコンテナ化されたドキュメント「スキル」（データだけでなく、文書に対して必要なアクションを理解する、事前に学習されたアクション）を持つAIの助けを借りれば、サプライチェーンはついに一般的なボトルネックを取り除き、輸送・物流から買掛金（AP）の支払い処理まで、あらゆるレベルのビジネスオペレーションが依存する文書主導のプロセスをコントロールできるようになります。
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 急速な変化に対応して輸送・物流業務を最適化したいとお考えですか？
 
 当社にはそのためのスキルがあります。
@@ -54,8 +62,18 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 [ABBYY MarketplaceにアクセスするENG](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY Marketplaceのアプローチ方法
 
 [輸送・物流分野](https://tools.techidaily.com/abbyy/products/)では、スピードが顧客満足度と競争力の鍵となります。これこそが、まさに新しい[ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/)の背景にある考え方です。これは、企業文書を処理および理解するための初のデジタルマーケットプレイスであり、コンテンツスキル、コネクター、およびアセットを豊富に提供します。 トップレベルの荷主や物流業者、そして多くのクラウドベースの企業が、数分ですぐに使用できる、使いやすく設定可能でプラグイン可能な当社のプラットフォームを使って、ビジネスユーザーとシチズンディベロッパーに対し業界最高レベルの文書およびコンテンツ処理を提供しています。
@@ -69,13 +87,14 @@ ABBYY VantageとMarketplaceには、ABBYYとABBYYパートナーが開発した�
 ![Reggie Twigg ABBYY](https://static4.abbyy.com/abbyycommedia/25636/02c-reggietwigg-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Reginald J. Twigg
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -130,8 +149,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +156,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[New] 2024 Approved Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-taking-the-leap-secrets-for-free-fcp-acquisition/"><u>[New] 2024 Approved Taking the Leap Secrets for Free FCP Acquisition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-demystifying-instagram-selfies-a-comprehensive-guide/"><u>[New] Demystifying Instagram Selfies A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-greatest-vr-handhelds-listed/"><u>[New] Explore Greatest VR Handhelds Listed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-quality-faceoff-hero-black-and-keymission-camera/"><u>[New] Film Quality Faceoff HERO Black and Keymission Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>[New] Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-spiritual-sounds-on-cellphones/"><u>[New] Incorporating Spiritual Sounds on Cellphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-2023s-leading-platforms-for-picture-frame-adjustment-techniques/"><u>[Updated] 2024 Approved 2023'S Leading Platforms for Picture Frame Adjustment Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-external-to-inshot-your-tunes-transformation-guide/"><u>[Updated] From External to InShot Your Tunes Transformation Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-score-facebooks-1-10-music-video-showcase/"><u>[Updated] Top Score Facebook’s #1-#10 Music Video Showcase</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-take-control-of-your-tiktok-videos-learn-numeric-editing-techniques/"><u>2024 Approved Take Control of Your TikTok Videos Learn Numeric Editing Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>2024 Approved The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upgrading-simplified-navigating-macos-11-big-surs-changes/"><u>2024 Approved Upgrading Simplified Navigating macOS 11 Big Sur's Changes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-prime-fan-favorites-highest-likes-and-view-counts/"><u>Amazon Prime Fan Favorites Highest Likes & View Counts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-and-yi-the-2023-ultimate-actions-camera-verdict-for-2024/"><u>GoPro & YI The 2023 Ultimate Actions Camera Verdict for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-proplus-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro+ 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>In 2024, Evolving Videography Redefining Social Sharing with Periscope Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expanding-viewable-area-of-youtube-recordings/"><u>In 2024, Expanding Viewable Area of YouTube Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-achieve-premium-picture-standards-without-paying/"><u>In 2024, How to Achieve Premium Picture Standards Without Paying</u></a></li>
+</ul></div>
 

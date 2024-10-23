@@ -1,7 +1,7 @@
 ---
 title: "Experience macOS Sequoia on Your Device: A Step-by-Step Guide for a Secure Trial"
-date: 2024-10-15T03:47:08.403Z
-updated: 2024-10-17T18:23:22.227Z
+date: 2024-10-18T19:10:21.242Z
+updated: 2024-10-23T20:25:01.083Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  Wondering what the next version of macOS is like? Try it out for yourself without risking your Mac by either installing it on a separate partition or using a virtual machine. Here’s how you can try both methods.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Install macOS Sequoia on a Separate Partition
 
  If you have the disk space to spare and you’re comfortable [playing around in Disk Utility](https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/), you can install a pre-release version of macOS on a separate partition. You can retain your stable macOS installation on one partition, then reboot your Mac to try out the beta version.
@@ -25,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  Your data won’t be affected, and you won’t even need to “sacrifice” disk space since macOS can take any data it needs from the main drive.
 
  It’s never a bad idea to [create a Time Machine backup](https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/) before you start playing around with macOS partitions, just in case. Back up your Mac now, before you begin, so that you can restore your data if something goes wrong.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Download the macOS Sequoia Installer
 
@@ -35,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  First, head to System Settings > General > Software Update then under “Beta Updates” choose the version of macOS that you want to install. We recommend the public beta, since developer betas can be even more unstable.
 
 ![Enable macOS beta updates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-09-18-17.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now open Terminal and run the following command:
 
@@ -52,42 +73,34 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
  If the "list-full-installers" command isn’t working after you enabled the Beta flag in System Settings, restart your Mac and try again. If it's still not working, turn off beta participation and make sure your Mac is updated to the latest stable version of macOS and then switch beta participation back on and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Create a New Partition for macOS Sequoia
 
  Now open Disk Utility and with your internal startup volume selected (probably labeled “Macintosh HD”), click the plus “+” icon near Volume. Give your new volume a name you can recognize, make sure “APFS” is selected, and don’t worry about specifying a size.
 
 ![Creating a new volume in "Macintosh HD."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-14-50-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click “Add” and your volume will be created. You can now close Disk Utility, you’re ready to install the macOS beta.
 
 ![Creating a partition for macOS Sequoia installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-14-55-38.png) 
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Install macOS Sequoia on Your New Volume
 
  By now, you should hopefully have a new item in your Applications folder called “Install macOS 15 beta” (if you don’t, check the progress in that Terminal window).
 
 ![Running the macOS Sequoia beta installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-14-51-57.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  All that’s left to do is run this file and start the installation. Click “Continue” and on the next screen you’ll be invited to select an installation location. Click “Show All Disks” and select the volume you created earlier.
 
@@ -99,21 +112,7 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
 ![Final step of installing the macOS beta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-14-57-35.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the installation is finished, your Mac will restart and you’ll be invited to set up the new version of macOS [as if you were using a brand-new Mac](https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/).
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Switching Between Stable and Beta macOS Versions
 
@@ -123,6 +122,19 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
  You’ll need to do this each time you want to swap between beta and stable macOS versions.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Deleting the macOS Beta
 
  To delete the beta, head back to Disk Utility from your stable version of macOS (in this case, macOS 14) and highlight the "macOS Sequoia" partition you created. Click on the minus "–" button next to "Volumes" and confirm by clicking "Delete."
@@ -130,10 +142,10 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 ![Deleting a macOS 15 volume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-15-00-57.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About Installing macOS 15 Beta in a Virtual Machine?
@@ -211,20 +223,21 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-cheap-not-bad-chromebooks-top-recording-tools/"><u>[New] 2024 Approved Cheap Not Bad – Chromebook's Top Recording Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey/"><u>[New] From Standard Pixels to Dynamic Range Extremes A Transformation Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-fidelity-window-listening-the-ultimate-list-of-the-best-8-podcasts-8/"><u>[New] High Fidelity Window Listening The Ultimate List of the Best 8 Podcasts (#8)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hymn-based-ringtone-options-for-every-believer/"><u>[New] Hymn-Based Ringtone Options for Every Believer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-plotlines-defining-theatrical-success/"><u>[New] Pinnacle Plotlines Defining Theatrical Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-your-macs-screen-in-hd-zero-price/"><u>[New] Your Mac's Screen in HD - Zero Price</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-video-space-on-a-64gb-card/"><u>2024 Approved Evaluating Video Space on a 64GB Card</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-affordable-no-cost-artistic-elements/"><u>2024 Approved Finding Affordable, No-Cost Artistic Elements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-green-screen-resources-no-price-tag/"><u>2024 Approved Green Screen Resources – No Price Tag</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ultimate-budget-breakdown-how-much-does-it-cost-to-start-a-podcast/"><u>2024 Approved Ultimate Budget Breakdown How Much Does It Cost To Start a Podcast?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-your-ipad-as-a-creative-tool-for-time-lapse/"><u>2024 Approved Your iPad as a Creative Tool for Time Lapse</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-depth-review-of-updated-videoshow-app-for-24-users-for-2024/"><u>In-Depth Review of Updated VideoShow App for '24 Users for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/optimizing-vimeo-media-velocity-for-2024/"><u>Optimizing Vimeo Media Velocity for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviews-of-apc-back-up-be600m1-powerful-battery-protection-with-integrated-usb-charging/"><u>Reviews of APC Back-Up BE600M1: Powerful Battery Protection with Integrated USB Charging</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-are-machine-learning-mirage-moments-recognizing-ai-error-patterns/"><u>What Are Machine Learning Mirage Moments? Recognizing AI Error Patterns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-the-art-of-recording-in-audacity/"><u>[New] Fine-Tuning the Art of Recording in Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fly-high-with-gopro-karma-an-insiders-review/"><u>[New] Fly High with GoPro Karma An Insider's Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-income-on-instagram-comprehensive-step-by-step-guide/"><u>[Updated] 2024 Approved Income on Instagram Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-live-stream-giants-twitch-and-youtube/"><u>[Updated] Evaluating Live Stream Giants Twitch & YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ffmpeg-and-the-art-of-audio-preservation/"><u>[Updated] FFmpeg and the Art of Audio Preservation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fight-for-finesse-the-best-of-royale-battles/"><u>[Updated] In 2024, Fight for Finesse The Best of Royale Battles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approach-to-hdr-portraiture-excellence/"><u>[Updated] Innovative Approach to HDR Portraiture Excellence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-strategies-to-enhance-video-craftsmanship-on-windows-10/"><u>[Updated] Innovative Strategies to Enhance Video Craftsmanship on Windows 10</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-enabled-enhancing-your-websites-analytics-with-advanced-tracking/"><u>Cookiebot-Enabled: Enhancing Your Website's Analytics with Advanced Tracking</u></a></li>
+<li><a href="https://win-popular.techidaily.com/data-safe-transition-how-to-upgrade-your-system-from-windows-7881-to-windows-10/"><u>Data-Safe Transition: How to Upgrade Your System From Windows 7/8/8.1 to Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/giving-a-fresh-twist-to-pre-filtered-memories-using-instagram-tools-for-2024/"><u>Giving a Fresh Twist to Pre-Filtered Memories Using Instagram Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-access-download-your-own-tailored-tracks/"><u>In 2024, Exclusive Access Download Your Own Tailored Tracks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-hardware-selection-with-tips-from-toms-technology-insights/"><u>Mastering Computer Hardware Selection with Tips From Tom's Technology Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-wireless-connections-turn-on-bluetooth-on-windows-11-or-10-easily/"><u>Mastering Wireless Connections: Turn On Bluetooth on Windows 11 or 10 Easily</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/precision-in-replication-crafting-a-perfect-clone-on-the-worlds-stage-tiktok-for-2024/"><u>Precision in Replication Crafting a Perfect Clone on the World's Stage, TikTok for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/understanding-the-latest-display-technology-in-huawei-p10-for-2024/"><u>Understanding the Latest Display Technology in Huawei P10 for 2024</u></a></li>
 </ul></div>
 

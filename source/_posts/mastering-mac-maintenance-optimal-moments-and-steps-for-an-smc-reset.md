@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-10-16T22:39:03.786Z
-updated: 2024-10-18T03:38:27.864Z
+date: 2024-10-17T21:20:00.741Z
+updated: 2024-10-23T21:51:29.991Z
 tags:
   - desktop
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * Apple Silicon Macs don't have a separate SMC; rebooting is equivalent to an SMC reset.
 
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is an SMC, and What Does It Do?
 
@@ -50,11 +43,25 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Reset the SMC on an Apple Silicon Mac
 
  Because Apple Silicon Macs don't have an SMC, you don't need to—and indeed can't—reset it. That doesn't mean you won't ever encounter any of the problems that might be related to an SMC issue. It just means there's a far easier way to fix them: simply reboot your Mac.
 
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
 
@@ -63,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -86,13 +93,6 @@ Hannah Stryker / How-To Geek
  On older Intel MacBooks from earlier than 2018, you reset the SMC by using a different combination of key presses. Start by shutting down the Mac.
 
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -126,16 +126,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-examining-the-new-evolution-of-sonys-s6500-player/"><u>[New] Examining the New Evolution of Sony's S6500 Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-set-best-8-macbook-themes-and-skins/"><u>[New] Ideal Set Best 8 MacBook Themes & Skins</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlined-approach-record-movies-everywhere-you-go/"><u>[Updated] In 2024, Streamlined Approach Record Movies Everywhere You Go</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-editing-away-backgrounds/"><u>2024 Approved Expert Advice on Editing Away Backgrounds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-amplified-10-must-know-canva-techniques/"><u>2024 Approved Expertise Amplified 10 Must-Know Canva Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-guide-to-photo-transformation-tools-for-2024/"><u>Expert Guide to Photo Transformation Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-captivating-and-impressive-hdr-portraits-for-2024/"><u>Expert Tips for Captivating and Impressive HDR Portraits for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-the-editorial-maze-answers-for-filmora-users/"><u>In 2024, Navigating the Editorial Maze Answers for Filmora Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/nbafever-grows-as-facebook-twitter-stream-games/"><u>NBAFever Grows as Facebook, Twitter Stream Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-2060-driver-update-for-windows-users-compatible-with-win11-win10-win8-and-win7/"><u>NVIDIA RTX 2060 Driver Update for Windows Users: Compatible with Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-spyro-reignited-collection-a-petite-guardians-grand-adventure/"><u>Unboxing Spyro Reignited Collection - A Petite Guardian's Grand Adventure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-full-picture-the-essence-of-google-podcasts-app/"><u>[New] In 2024, Full Picture The Essence of Google Podcasts App</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-prioritize-tags-the-essentials-for-your-youtube-video-posting/"><u>[Updated] 2024 Approved Prioritize Tags The Essentials for Your YouTube Video Posting</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-framefinder-pro-a-treasure-trove-for-every-twitterscape-enthusiast/"><u>2024 Approved FrameFinder Pro A Treasure Trove for Every Twitterscape Enthusiast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-4-wont-start-here-are-the-proven-solutions/"><u>Battlefield 4 Won't Start? Here Are the Proven Solutions!</u></a></li>
+<li><a href="https://facebook.techidaily.com/copyright-clarity-for-digital-photo-posting/"><u>Copyright Clarity for Digital Photo Posting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-n3-flip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find N3 Flip Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-s17-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo S17 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y27-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y27 4G to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/macbook-air-by-walmart-leading-the-market-with-unbeatable-price/"><u>MacBook Air by Walmart: Leading the Market with Unbeatable Price</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/master-the-art-of-using-pipx-for-easy-python-app-deployment/"><u>Master the Art of Using Pipx for Easy Python App Deployment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-file-permissions-in-linux-a-guide-to-suid-sgid-and-sticky-bit-settings/"><u>Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-the-underworld-of-pcs-explore-5-essential-terminal-commands-for-enhanced-system-control-on-windows/"><u>Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/microsoft-prepares-to-discontinue-paint-3d-what-it-means-for-users-and-creators/"><u>Microsoft Prepares to Discontinue Paint 3D – What It Means for Users and Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/move-beyond-windows-emulators-top-online-retailers-offering-authentic-linux-gaming-experiences/"><u>Move Beyond Windows Emulators: Top Online Retailers Offering Authentic Linux Gaming Experiences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-picks-for-classroom-audio-for-2024/"><u>Prime Picks for Classroom Audio for 2024</u></a></li>
 </ul></div>
 

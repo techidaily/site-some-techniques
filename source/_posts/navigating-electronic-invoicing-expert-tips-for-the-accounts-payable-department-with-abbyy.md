@@ -1,7 +1,7 @@
 ---
 title: "Navigating Electronic Invoicing: Expert Tips for the Accounts Payable Department with ABBYY"
-date: 2024-08-22T06:06:57.594Z
-updated: 2024-08-23T06:06:57.594Z
+date: 2024-10-19T16:22:38.103Z
+updated: 2024-10-23T20:07:13.858Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa43faa2585a2bbac8dade3639.jpg
@@ -32,15 +32,25 @@ E-invoicing isn't exactly a new idea, but its recent rise in use has been spurre
 
 As the business environment adapts, it's crucial for companies to grasp both the hurdles and advantages that come with e-invoicing. Challenges include dealing with varied international standards, maintaining compliance with regulations, and integrating smoothly with current systems. Nevertheless, if implemented with a thoughtful strategy and the right technology, e-invoicing can greatly enhance the efficiency, accuracy, and eco-friendliness of AP automation processes across different sectors.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is e-invoicing?
 
 Electronic Invoicing ([e-invoicing](https://tools.techidaily.com/abbyy/products/)) is the digital exchange of invoices that follow a structured, machine-readable data format (such as JSON or XML) and can be automatically imported into the buyer’s ERP system without manual data keying.
 
 Per definition, the main goal of an e-invoice is the automated import into the AP system. A visual representation of the data in a human-readable format (such as PDF) is, while possible, secondary, not obligatory, and not considered part of the invoice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How does e-invoicing work?
 
 E-invoicing automates the entire invoicing process, from invoice creation and data transfer to validation and integration with the customer's systems, resulting in a more efficient, accurate, and streamlined accounts payable workflow.
@@ -52,6 +62,13 @@ Technically e-invoices are not a new concept. Alongside technology standards suc
 * Svefaktura in Sweden,
 * and many more have evolved\*, driven mainly by the need for efficient AP processes of private business in high-volume industries.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the benefits of e-invoicing?
 
 E-invoicing offers enterprises benefits such as efficiency, data accuracy, visibility, security, and cost reduction.
@@ -60,14 +77,8 @@ However, its primary driver is closing the [“VAT Gap”](https://www.allenover
 
 ![guide-to-e-invoicing-accounts-payable-a-848x44](https://content.abbyy.com/-/jssmedia/Project/Abbyy/Abbyy/Insights/Blog/A%20Guide%20to%20E-invoicing%20in%20Accounts%20Payable/guide-to-e-invoicing-accounts-payable-a-848x44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 The [2022 VAT in the Digital Age (ViDA)](https://www.ey.com/en%5Fgr/tax/tax-alerts/eu-proposals-for-vat-in-the-digital-age-vida) proposal aims to implement cross-border digital reporting using e-invoicing for B2B transactions, while [PEPPOL](https://peppol.org/about/for-end-users/) invoices are becoming mandatory for B2G transactions. Many EU states plan to enforce e-invoicing in B2B transactions within four years, reflecting a growing trend towards regulatory adoption of e-invoicing standards.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What impact does e-invoicing have on accounts payable processes? 
 
 The benefits of e-invoicing for the state treasury are undeniable, and the initial results are already impressive. From the business perspective, there are also significant efficiency benefits in moving from scanning and manually processing paper and PDF invoices to standardized electronic formats.
@@ -84,12 +95,6 @@ At least in theory, the concept promises to solve many efficiency hurdles. But p
 
 ![guide-to-e-invoicing-accounts-payable-a-848x44](https://content.abbyy.com/-/jssmedia/Project/Abbyy/Abbyy/Insights/Blog/A%20Guide%20to%20E-invoicing%20in%20Accounts%20Payable/guide-to-e-invoicing-accounts-payable-b-848x44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is e-invoicing the answer to all AP automation dreams?
 
 While e-invoicing adoption is accelerating, it is important to keep in mind that it will be implemented in a phased roll-out depending on the jurisdiction.
@@ -107,8 +112,12 @@ With governments across the globe acting as catalysts for the adoption of e-invo
 Although the theory behind e-invoicing sounds like every automation team’s dream, the reality is that the complexity of regulations, maturity, adoption, standards and formats leaves global companies still dealing with a messy reality, that requires new solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Choosing the right AP automation solution for your e-invoicing
 
 The bottom line is that hybrid [invoice automation](https://tools.techidaily.com/abbyy/products/) is here to stay for the foreseeable future. Being able to deal with this complexity requires purpose-built [AI solutions](https://tools.techidaily.com/abbyy/products/), such as [Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/), capable of intelligently analyzing, classifying, capturing and normalizing data from invoices of any type, format and language into a single structured stream into their ERP system.
@@ -133,6 +142,13 @@ Learn more about how ABBYY addresses hybrid accounts payable automation [here](h
 ---
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Slavena Hristova
 
@@ -192,8 +208,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +215,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-implementing-azure-transcript-api-in-software/"><u>[New] Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>[New] In 2024, The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-secure-quick-and-simple-screenshot-techniques-for-w8-users/"><u>[New] Secure, Quick & Simple Screenshot Techniques for W8 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streampulse-app-testimonials/"><u>[Updated] StreamPulse App Testimonials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>2024 Approved Expertly Elevating Images Premier Frame Apps in 2E '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hosting-charismatic-chats-keeping-audiences-hooked-live/"><u>2024 Approved Hosting Charismatic Chats Keeping Audiences Hooked Live</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-azure-transcript-api-in-software/"><u>In 2024, Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-humorous-gifry-on-giphy-network/"><u>In 2024, Innovate Humorous Gifry on Giphy Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-for-effective-task-juggling/"><u>Leveraging Windows 11 for Effective Task Juggling</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-guide-to-free-file-copying-programs-unveiling-aomei-backupper/"><u>Ultimate Guide to Free File Copying Programs: Unveiling AOMEI Backupper</u></a></li>
+</ul></div>
 

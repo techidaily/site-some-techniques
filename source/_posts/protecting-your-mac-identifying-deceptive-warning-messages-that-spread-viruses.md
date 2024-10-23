@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-10-13T23:45:32.855Z
-updated: 2024-10-17T19:49:57.980Z
+date: 2024-10-21T21:06:31.671Z
+updated: 2024-10-23T19:57:20.245Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What's Going On?
 
  Bad actors try to trick people into downloading (and paying for) software they don’t need using Apple’s macOS notification system. The same trick could even be used to download malware like [remote access trojans](https://youtube-videos.techidaily.com/maximizing-your-channels-earning-potential-through-trailers/) and [ransomware](https://screen-activity-recording.techidaily.com/updated-ultimate-techniques-for-screen-recording-games-on-win10-for-2024/) onto your Mac.
@@ -32,19 +39,25 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
@@ -57,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Avoid This Happening Again
 
  If you’ve turned the notifications feature off in your browser, you won’t see this problem again. Otherwise, make sure you are careful when allowing a website to send you notifications.
@@ -71,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
@@ -98,22 +104,20 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-casual-to-pro-unpacking-kinemaster-for-android-gamers/"><u>[New] From Casual to Pro Unpacking KineMaster for Android Gamers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-premier-quality-4k-panels-for-expert-colour-correction/"><u>[New] In 2024, Premier Quality 4K Panels for Expert Colour Correction</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>[New] Jocular Joke-Crafting A Step-by-Step Guide to Memelore</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-streamers-choice-of-live-broadcasting-apps/"><u>[Updated] Exclusive Streamer's Choice of Live Broadcasting Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-impact-solo-podcasts-that-resonate/"><u>[Updated] From Idea to Impact Solo Podcasts that Resonate</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gaming-hub-clashes-with-content-creation-empire-a-detailed-twitchyoutube-comparison/"><u>[Updated] Gaming Hub Clashes with Content Creation Empire A Detailed Twitch/YouTube Comparison</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>[Updated] Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovations-in-office-layout-for-enhanced-productivity/"><u>[Updated] Innovations in Office Layout for Enhanced Productivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fable-formulators-fellowship-top-7-titans/"><u>2024 Approved Fable Formulators Fellowship – Top 7 Titans</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-list-seamless-no-download-gif-to-video-converters/"><u>2024 Approved Ultimate List Seamless No-Download GIF to Video Converters</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-comprehensive-strategies-for-tracking-yt-traffic-and-gains/"><u>In 2024, Comprehensive Strategies for Tracking YT Traffic and Gains</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>In 2024, Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gaiety-media-download-review/"><u>In 2024, Gaiety Media Download Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-step-by-step-to-youtube-fame-excellence-in-music-video-reactions/"><u>In 2024, Step-by-Step to YouTube Fame Excellence in Music Video Reactions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/master-your-media-comprehensive-guide-to-instagram-converters-windowsmac-for-2024/"><u>Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safe-psychological-dialogues-gpt-enhanced-therapy/"><u>Safe Psychological Dialogues: GPT-Enhanced Therapy</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/vocabulary-volleyball-international-words-serving-english/"><u>Vocabulary Volleyball: International Words Serving English</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-simulate-hand-held-camera-effects-in-photoshop-for-2024/"><u>[New] Simulate Hand-Held Camera Effects in Photoshop for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-4k-ultra-hd-screens-ranked-1-10/"><u>2024 Approved Best 4K Ultra HD Screens Ranked #1-10</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/asfmp4-movavi/"><u>簡單上網免費改變ASF文件為MP4 - Movavi 影片編輯器指南</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-halo-an-unusual-almost-invasive-fitness-tracker/"><u>Amazon Halo: An Unusual, Almost Invasive Fitness Tracker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-maximizing-gameplay-smoothness-by-fixing-frames-per-second-fps-issues-on-desktop-computers/"><u>Expert Tips for Maximizing Gameplay Smoothness by Fixing Frames Per Second (FPS) Issues on Desktop Computers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-video-visibility-ethically-one-million-in-views/"><u>In 2024, Elevate Your Video Visibility Ethically One Million in Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-streamsmart-beyond-the-dacast-shell/"><u>In 2024, StreamSmart Beyond the DaCast Shell</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-discovering-and-organizing-images-on-your-windows-10-computer/"><u>Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-empower-your-pc-with-vivetool-for-cutting-edge-windows-functions/"><u>Step-by-Step Guide: Empower Your PC with ViVeTool for Cutting-Edge Windows Functions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-uncovering-the-secrets-of-your-windows-11-activation-code/"><u>Step-by-Step Guide: Uncovering the Secrets of Your Windows 11 Activation Code</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/streamline-your-arch-linux-experience-how-to-prevent-pacman-mishaps-with-smart-mirror-update-automation/"><u>Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/struggling-with-missing-migrated-documents-in-linux-examine-splits-and-directories/"><u>Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-rise-of-the-slabtop-revolutionary-ideas-for-personalizing-your-apple-laptops-design/"><u>The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency-discover-how/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency - Discover How!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-pre-launch-system-conditions-and-checks/"><u>Understanding Pre-Launch System Conditions and Checks</u></a></li>
 </ul></div>
 

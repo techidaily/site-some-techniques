@@ -1,7 +1,7 @@
 ---
 title: "Exploring ABBYY's Diverse Talent Pool: Discovering More than Just Roles and Responsibilities"
-date: 2024-08-22T06:06:53.289Z
-updated: 2024-08-23T06:06:53.289Z
+date: 2024-10-16T17:42:17.505Z
+updated: 2024-10-23T16:14:01.695Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27daf3516cb90c9a543d54e11.jpeg
@@ -18,9 +18,23 @@ August 9, 2024
 
 In this edition of our "Beyond the Job Title" interview series, we sat down with our colleagues Liza, Dmitry, Tetiana, and Sergey to delve into their fascinating hobbies and interests outside of their professional roles at ABBYY. These activities not only showcase their diverse talents but also highlight how their passions contribute to their personal growth and professional success. Read on to find out more: 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Elizaveta (Liza) Lagireva, Talent Acquisition Partner, Serbia 
 
 ![elizaveta-lagireva](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/elizaveta_lagireva.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza’s love for chess began in childhood when her father introduced her to the game. For her, chess is more than a game—it's a mental challenge that she embraces both competitively and leisurely, and which helps her recharge and stay focused at work. 
 
@@ -41,16 +55,29 @@ Liza finds solace in blitz games during breaks, describing them as a mental rech
 "Chess hones my strategic thinking, patience, and problem-solving skills. It helps me stay focused and approach complex challenges with a clear and calm mindset, which is invaluable as a Talent Acquisition Partner at ABBYY," she told us.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Dmitry Golivets, Head of Application Software, Hungary 
 
 ![abbyy-greta-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/dmitry_golivets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Dmitry Golivets’ passion for Historical Medieval Battles (Buhurt) stems from his lifelong fascination with medieval history and combat sports. He sees this unique hobby as a physical and mental challenge that complements his professional responsibilities. 
 
 ##### What made you choose Buhurt, or Historical Medieval Battles, and how did it all start? 
@@ -65,16 +92,10 @@ Dmitry navigates the challenges of balancing his rigorous training schedule with
 
 Dmitry emphasized teamwork and resilience as key takeaways from Buhurt, essential for collaborative success and personal growth at ABBYY. "Medieval combat is the ultimate metaphor for teamwork. You must do your absolute best every single round or your teammates are going to feel the consequences of your failure on their skin, literally. Another aspect is the concept of going the extra mile. The first thing you realize when you put that armor on is that you are fighting against your own brain telling you to quit—the weight, the discomfort of movement, the lack of oxygen inside a helmet. And on top of that comes your opponent trying to take you down. Nobody gets to the finish line without falling. Picking yourself up and taking every fall as an opportunity to work on your mistakes is another great lesson of this sport." 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Tetiana Riznyk, Payroll and Benefits Administrator, Ukraine 
 
 ![tetiana-ryznik-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/tetiana_riznyk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 For Tetiana Riznyk, pysanka (Ukrainian Easter eggs painting) is more than a creative outlet; it’s a cultural tradition that connects her deeply to her heritage and brings joy through artistic expression. 
 
 ##### What made you choose this hobby, and how did you come across this activity? 
@@ -93,14 +114,6 @@ Tetiana’s patience and focus during the intricate process of creating pysanka 
 
 This meditative practice not only enhances her artistic skills but also fosters a sense of well-being and satisfaction, contributing positively to her ability to bring her best self to work at ABBYY. 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Sergey Kaginyan, Website Marketing Project Manager, Cyprus 
 
 ![sergey-abbyy-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/sergey_kaginyan.jpg)
@@ -127,13 +140,6 @@ The stories of Elizaveta, Dmitry, Tetiana, and Sergey remind us of the power of 
 
 ![common-abbyy-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/image-2024-08-09-12-07-35-919.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 These unique hobbies not only provide moments of relaxation and rejuvenation but also equip our team members with valuable skills such as strategic thinking, teamwork, and creativity, which are essential in driving innovation and excellence in everything we do. 
 
 Interested in joining a team where individual passions are valued, and personal growth is encouraged? Explore career opportunities at ABBYY today and discover how you can contribute to our innovative culture. Visit [abbyy.com/careers](https://www.abbyy.com/company/careers/?itm%5Fsource=corpblog-en
@@ -189,8 +195,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +202,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-xml-to-srt-a-step-by-step-solution-approach/"><u>[New] From XML to SRT A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pick-the-best-days-to-post-on-youtube/"><u>[New] In 2024, Pick the Best Days to Post on YouTube!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-7-platforms-for-transforming-art-into-nfts/"><u>[Updated] Explore the Best 7 Platforms for Transforming Art Into NFTs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-picsart-remove-bg-comprehensive-tutorial-for-2024/"><u>[Updated] Picsart Remove Bg Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-mix-techniques-for-crossfading-sounds-with-audacity/"><u>[Updated] Professional Mix Techniques for Crossfading Sounds with Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-proof-file-storage-essential-cloud-services-revealed/"><u>2024 Approved Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5x-faster-to-master-beginners-blueprint-with-10-tips-for-the-modern-formerly-twitter-landscape/"><u>5X Faster to Master: Beginner's Blueprint with 10 Tips for the Modern 'Formerly Twitter' Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-applications-for-video-from-pics-for-2024/"><u>Expert Applications for Video From Pics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-start-to-end-mastering-the-art-of-fading-in-pro-for-2024/"><u>From Start to End Mastering the Art of Fading in Pro for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>In 2024, Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-best-gopro-cases-rated-1-10/"><u>In 2024, Explore Best GoPro Cases Rated #1-10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-70-lite-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor 70 Lite 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-gpt-variants-to-enhance-your-projects-instantly/"><u>Top 8 GPT Variants to Enhance Your Projects Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-secure-your-discounted-amazon-fire-tv-omni-qled-for-just-150-less-exclusive-zdnet-insight/"><u>Unbeatable Deal Alert! Secure Your Discounted Amazon Fire TV Omni QLED for Just $150 Less – Exclusive ZDNET Insight!</u></a></li>
+</ul></div>
 

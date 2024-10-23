@@ -1,7 +1,7 @@
 ---
 title: ABBYY Online Platform Use Policy - Binding Legal Framework with Integrated GDPR Provisions for User Privacy and Data Security
-date: 2024-08-22T06:06:37.940Z
-updated: 2024-08-23T06:06:37.940Z
+date: 2024-10-21T20:36:38.055Z
+updated: 2024-10-23T20:50:04.892Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90fc111239be7bdf14c7e0c06b.jpg
@@ -35,6 +35,13 @@ Last updated: 5 March 2024
 [23 June 2022](https://tools.techidaily.com/abbyy/products/)
 
 view archived versions
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### GDPR ADDENDUM   
 to Universal DPA (hereinafter “GDPR ADDENDUM”)
@@ -1121,17 +1128,12 @@ c. A data subject may also bring legal proceedings against the data exporter and
 d. The Parties agree to submit themselves to the jurisdiction of such courts. 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### APPENDIX
 
 **EXHIBIT I.A - LIST OF PARTIES**
@@ -1704,8 +1706,6 @@ and in either case it has first taken reasonable steps to reduce those costs or 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -1713,4 +1713,26 @@ and in either case it has first taken reasonable steps to reduce those costs or 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elite-zoonotic-themes-and-structures/"><u>[New] 2024 Approved Elite Zoonotic Themes and Structures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-hush-managing-music-on-pc-mac/"><u>[New] Harmonious Hush Managing Music on PC, Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pinnacle-peak-tracker-your-highest-youtube-rankings/"><u>[New] In 2024, Pinnacle Peak Tracker Your Highest YouTube Rankings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flexible-cam-balancer-toolkit/"><u>[Updated] Flexible Cam Balancer Toolkit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-invert-colors-in-digital-photos/"><u>[Updated] How to Invert Colors in Digital Photos?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-new-frontier-of-android-gaming-with-kinemaster/"><u>2024 Approved Exploring the New Frontier of Android Gaming with KineMaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-do-live-streaming-with-periscope/"><u>2024 Approved How to Do Live Streaming with Periscope</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipating-the-new-pixel-timepiece-expected-costs-arrival-timeline-and-teasers-about-its-capabilities/"><u>Anticipating the New Pixel Timepiece: Expected Costs, Arrival Timeline, & Teasers About Its Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-los-ocho-tipos-de-dibujos-tradicionales-que-necesitas-aprender/"><u>Descubre Los Ocho Tipos De Dibujos Tradicionales Que Necesitas Aprender</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-policy-nuances-at-facebooks-launched-transparency-center/"><u>Exploring Policy Nuances at Facebook’s Launched Transparency Center</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hot-topic-in-photos-memes-and-their-origin-tales-for-2024/"><u>Hot Topic in Photos Memes & Their Origin Tales for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-8-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-a-thrilling-film-outtakes-package/"><u>In 2024, Formulating a Thrilling Film Outtakes Package</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ice-acceleration-showdown-at-the-olympics-2022/"><u>In 2024, Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen/"><u>In 2024, Illuminating Insight The Ultimate Guide to Choosing a Stunning 4K Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-lonely-moments-using-chatgpt-technology/"><u>Overcoming Lonely Moments Using ChatGPT Technology</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor Magic 5 | Dr.fone</u></a></li>
+</ul></div>
 

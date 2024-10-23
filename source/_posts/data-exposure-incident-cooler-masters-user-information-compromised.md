@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-10-14T00:32:43.521Z
-updated: 2024-10-17T23:34:54.054Z
+date: 2024-10-17T17:20:12.883Z
+updated: 2024-10-23T20:06:16.491Z
 tags:
   - web
 categories:
@@ -38,24 +38,25 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flawless-image-reader-with-quick-access/"><u>[New] Flawless Image Reader with Quick Access</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-urban-oasis-best-6-modern-mc-living-spaces/"><u>[New] In 2024, Urban Oasis Best 6 Modern MC Living Spaces</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-free-video-call-apps-versatile-use-on-windows-and-macos-for-2024/"><u>[New] Top Free Video Call Apps Versatile Use on Windows & MacOS for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-from-concept-to-cinematic-the-art-of-creating-memorable-tiktoks-with-templates/"><u>2024 Approved From Concept to Cinematic The Art of Creating Memorable TikToks with Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-animation-with-windows-movie-maker/"><u>2024 Approved How to Make Animation with Windows Movie Maker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/correct-dell-latitude-writable-drive-errors/"><u>Correct Dell Latitude' Writable Drive Errors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-endorsed-webcams-for-top-notch-zoom-engagement-for-2024/"><u>Expert-Endorsed Webcams for Top-Notch Zoom Engagement for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-image-haven-best-10-sites-reviewed-for-2024/"><u>Free Image Haven Best 10 Sites Reviewed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-escapes-delving-into-jaunt-vr-for-2024/"><u>Immersive Escapes Delving Into Jaunt VR for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-journey-to-captivating-hdr-portraits/"><u>Step-by-Step Journey to Captivating HDR Portraits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-content-premier-iphoneipad-apps-for-fb-video-loading-for-2024/"><u>Unlock Content Premier iPhone/iPad Apps for FB Video Loading for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-find-the-right-aspect-ratio-for-your-video/"><u>[New] Find The Right Aspect Ratio For Your Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-holo-health-interventions/"><u>[New] Holo-Health Interventions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-hints-for-efficiently-managing-extra-large-files-iphones-and-macs/"><u>[Updated] Expert Hints for Efficiently Managing Extra-Large Files IPhones & Macs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-latest-wins-windows-10-enhancements/"><u>[Updated] Exploring Latest Wins Windows 10 Enhancements</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-free-vimeo-tutorial-to-craft-engaging-videos/"><u>2024 Approved Free Vimeo Tutorial to Craft Engaging Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-aquatic-test-results-how-well-does-it-handle-moisture/"><u>IPhone 15 Aquatic Test Results: How Well Does It Handle Moisture?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-the-pack-abbyys-top-performance-in-2ebrst-group-matrix-analysis-for-peak-2023-insights/"><u>Leading the Pack: ABBYY's Top Performance in 2Ebrst Group Matrix Analysis for PEAK - 2023 Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-hide-n-seek-of-fb-securing-personal-information/"><u>Master the Hide-N-Seek of FB: Securing Personal Information</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/redirect-macs-image-backup-to-new-folder-for-2024/"><u>Redirect Mac's Image Backup to New Folder for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-iphone-capabilities-crafting-and-transforming-slow-videos-for-2024/"><u>Unlocking iPhone Capabilities Crafting & Transforming Slow Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-deceptive-design-poor-privacy-decisions/"><u>Unveiling Deceptive Design: Poor Privacy Decisions</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Digitalisierung Des Edinburgher Königlichen Botanischen Gartens Mit ABBYY: Eine Innovation Im Bereich Der Pflanzenwissenschaften"
-date: 2024-08-22T06:08:35.619Z
-updated: 2024-08-23T06:08:35.619Z
+date: 2024-10-18T21:23:45.816Z
+updated: 2024-10-23T16:57:26.870Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a430b43148a19a35d32e38f9.jpg
@@ -19,6 +19,13 @@ Government | Document Management/Compliance | Digital Archiving
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Das Herbarium des königlichen botanischen Gartens von Edinburgh wird durch ABBYY revolutioniert
 
 Behörden und öffentlicher Sektor | Dokumentenmanagement 
@@ -28,6 +35,13 @@ Behörden und öffentlicher Sektor | Dokumentenmanagement
 #### Über den Kunden
 
 ![Royal Botanic Garden Edinburgh](https://static5.abbyy.com/abbyycommedia/18492/royal-botanic-garden_logo-155.gif) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name      | Royal Botanic Garden Edinburgh             |
 | --------- | ------------------------------------------ |
@@ -83,6 +97,13 @@ Der RBGE ist außerdem sehr zufrieden mit dem erweiterten Zugang zu seinen Samml
 
 [![11-government](https://static2.abbyy.com/abbyycommedia/14361/11-government.jpg)](https://tools.techidaily.com/abbyy/products/) [Behörden und Verwaltung](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![kipo-pic2](https://static1.abbyy.com/abbyycommedia/15527/kipo-pic2.jpg)](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") [PDF-Version](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") 
@@ -94,8 +115,12 @@ Der RBGE ist außerdem sehr zufrieden mit dem erweiterten Zugang zu seinen Samml
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -108,8 +133,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +140,19 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-importing-audio-steps-for-inshot-video-editing/"><u>[New] Importing Audio Steps for InShot Video Editing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-silent-streaming-rankings-of-the-top-8-secret-downloaders-2023/"><u>[Updated] 2024 Approved Silent Streaming Rankings of the Top 8 Secret Downloaders, 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-tutorial-on-zoom-podcasts-recording/"><u>[Updated] Complete Tutorial on Zoom Podcasts Recording</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-error-caused-by-nvlddmkmsys-in-windows-diagnosis-and-repair-guide/"><u>BSOD Error Caused by nvlddmkm.sys in Windows - Diagnosis & Repair Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tune-focus-effective-minecraft-zooming-strategies-for-2024/"><u>Fine-Tune Focus Effective Minecraft Zooming Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flip-the-script-design-your-own-video-finale-for-free-for-2024/"><u>Flip the Script Design Your Own Video Finale for Free for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-analog-to-digital-safeguarding-older-photographic-memories-for-2024/"><u>From Analog to Digital Safeguarding Older Photographic Memories for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-digital-to-physical-crafting-flawless-dvds-on-a-mac-for-2024/"><u>From Digital to Physical Crafting Flawless DVDs on a Mac for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-edge-40-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Edge 40 Pattern Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-mov-video-combiner-software-top-picks/"><u>Updated 2024 Approved Free MOV Video Combiner Software Top Picks</u></a></li>
+</ul></div>
 

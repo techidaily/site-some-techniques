@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments"
-date: 2024-10-12T17:30:57.952Z
-updated: 2024-10-17T16:50:59.733Z
+date: 2024-10-20T18:20:40.608Z
+updated: 2024-10-23T19:53:59.861Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 * Deep Game, an AI fiction writer, excels in creating engaging stories, offering various genres, and even allows users to direct the plot development.
 
  If you browse the "Explore GPTs" section of ChatGPT, you'll find a near-endless selection of custom GPTs for everything you can think of and at least a few things you'd never think of!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Astrology Birth Chart GPT
 
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  This is a detailed birth chart! However, it doesn't take AI to do a birth chart, just an extensive database. A real test would be to prompt the GPT to apply this chart to a specific scenario.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Prompt: What Would Be a Good Career for Me Based on This Info?
@@ -71,25 +78,11 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
  My kids have been telling me to write about the Rizz GPT for a while. They keep saying, "It's hilarious!" I'd ask for an example, but they'd inevitably just tell me, "It boosts your Rizz!" In hindsight, I think they thought it was hilarious because they'd seen examples of its use on TikTok and YouTube. Now I know why the videos are funny, because anyone actually using anything out of this AI in real life would, indeed, be hilarious.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Prompt: What is Rizz?
 
  The one quality answer I got out of this AI was with this prompt. It gave an excellent definition of this Gen Z slang in layperson terms.
 
 "Rizz" is a slang term that refers to someone's charisma or ability to attract and charm others, especially in a romantic context. It's short for "charisma," and is often used to describe someone with a smooth, confident, and engaging personality. If someone is said to have "rizz," it means they can easily flirt or make connections with people through their charm and wit."
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Prompt: Give 5 Good Pickup Lines for a 73-Year-Old to Use at the Nursing Home
 
@@ -106,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![Screenshot of GPTs response to the prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225152_chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Despite this red flag, I pressed on. I described my work, hobbies, kids, and preferences, and asked it to write me a dating profile. The resulting response was poorly written, formulaic, cheesy, and exactly what one would expect from the author of those pickup lines. It later occurred to me that using that profile as an obvious joke on a dating site might actually generate interest. I didn't test it out, but it made me wonder if I was taking the AI too seriously. Is this AI supposed to be a caricature of Gen Z? Perhaps I'm too old to get the joke. However, not meeting the basic standards of AI we've come to expect from GPTs means the joke is poorly executed, in my opinion.
@@ -129,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Without missing a beat, Deep Game continued the story, "The sun blazes high in the sky, its relentless heat beating down on the small, desolate island. Palm trees sway gently in the breeze, their fronds rustling softly. The sand beneath your feet is hot, almost unbearable. You've managed to set up a small camp using the few supplies you had, but with no rain in days, your collected water is dangerously low."
 
 ![Screenshot of prompt and the first part of the GPT response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225031_chatgpt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The writing is verbose and the story lines are archaic. However, that's typical of AI writing, in my experience. This AI is as good as ChatGPT gets. Of the three GPTs I tried, this is the only one I can see myself using again. I'm thoroughly a non-fiction writer. However, if I did start writing fiction and inevitably got stuck, I think I could enter the plot I had so far to see what it suggested. It could be fun to do with kids. It might also be useful for fantasy tabletop role-playing games like _Dungeons & Dragons_, because the user can direct the story while Deep Game paints the scenes both with words and art. For those with [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) accounts, it can generate an image of the scene just described. Just use the command "/visualize".
 
@@ -151,16 +151,17 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-tactics-to-expose-youtubes-well-guarded-videotapes/"><u>[New] In 2024, Tactics to Expose YouTube's Well-Guarded Videotapes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>[Updated] Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-command-the-stage-of-youtube-with-studio-skills/"><u>[Updated] In 2024, Command the Stage of YouTube with Studio Skills</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>2024 Approved Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chuckle-worthy-captures-for-iphones/"><u>Chuckle-Worthy Captures for IPhones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conquer-the-art-of-quick-messages-using-your-ipad/"><u>Conquer the Art of Quick Messages Using Your iPad</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-techniques-for-acquiring-pristine-images/"><u>Expert Techniques for Acquiring Pristine Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonize-hues-learning-to-edit-tamil-tracks-for-ringtones-for-2024/"><u>Harmonize Hues Learning to Edit Tamil Tracks for Ringtones for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-14-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 14</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-seamlessly-incorporate-premium-visuals-at-zero-expense/"><u>In 2024, How to Seamlessly Incorporate Premium Visuals at Zero Expense</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminate-your-graphics-instinct-for-adobe-motion-blur/"><u>In 2024, Illuminate Your Graphics Instinct for Adobe Motion Blur</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-zoom-video-enhancement-playbook/"><u>[New] 2024 Approved The Ultimate Zoom Video Enhancement Playbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hue-harmony-simplified-steps-for-professional-color-adjustment/"><u>[New] Hue Harmony Simplified Steps for Professional Color Adjustment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-streamline-filming-in-water-proven-7-tips-for-vids/"><u>[New] In 2024, Streamline Filming in Water Proven 7 Tips for Vids</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-listenleaders-pursuing-better-podcasts-for-2024/"><u>[Updated] ListenLeaders Pursuing Better Podcasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-supplemental-film-footage/"><u>2024 Approved Harnessing the Power of Supplemental Film Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-in-vocal-customization-for-playstation-devices/"><u>2024 Approved Immerse in Vocal Customization for PlayStation Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-inexpensive-mirrorless-and-dslr-options/"><u>2024 Approved Inexpensive Mirrorless & DSLR Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-poco-c51-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Poco C51 Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality/"><u>In 2024, From Verbal to Written An Intensive Guide to Google Document Voice Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-itel-p55-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Itel P55 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>In 2024, Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guidelines-for-red-dead-redemption-2s-errgfxstate-graphic-issue/"><u>Solution Guidelines for Red Dead Redemption 2'S ERR_GFX_STATE Graphic Issue</u></a></li>
 </ul></div>
 

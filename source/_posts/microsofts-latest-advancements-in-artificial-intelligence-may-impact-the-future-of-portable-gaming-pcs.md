@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-10-14T02:35:25.437Z
-updated: 2024-10-17T18:21:10.234Z
+date: 2024-10-18T21:58:36.766Z
+updated: 2024-10-23T20:44:54.316Z
 tags:
   - deals
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -37,10 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _AMD_
@@ -64,10 +64,10 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -79,16 +79,10 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -138,18 +132,16 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-free2x-webcam-recorder-software-review-in-depth/"><u>[New] Free2X Webcam Recorder Software Review in Depth</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-ingenuity-funnyflick-studio/"><u>[Updated] Image Ingenuity FunnyFlick Studio</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>[Updated] In 2024, The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>2024 Approved From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>2024 Approved Ideas to Paper Top 8 iPhone Sketching Tools Compared</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-rapid-assembly-of-google-image-mosaics/"><u>2024 Approved Rapid Assembly of Google Image Mosaics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-master-photographer-with-lunapic-for-2024/"><u>From Novice to Master Photographer with LunaPic for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-11-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 11 Pro Max With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-s17-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo S17.</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-c110-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C110 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highlight-hubs-choosing-the-right-online-aids/"><u>In 2024, Highlight Hubs Choosing the Right Online Aids</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming/"><u>In 2024, Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-10-free-manga-sites-to-read-online/"><u>New 2024 Approved Best 10 Free Manga Sites to Read Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-professional-techniques-for-sims-4-live-action/"><u>[New] 2024 Approved Professional Techniques for Sims 4 Live-Action</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-astrology-in-whatsapp-profiles-for-better-engagement/"><u>[New] Infusing Astrology in WhatsApp Profiles for Better Engagement</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-earning-potential-on-youtube-shorts-for-2024/"><u>[Updated] Boosting Earning Potential on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-strategies-for-windows-media-players-audio-operations/"><u>[Updated] Comprehensive Strategies for Windows Media Player's Audio Operations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos/"><u>2024 Approved How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-guidelines-to-improve-zoom-on-chromeos-for-2024/"><u>Expert Guidelines to Improve Zoom on ChromeOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-virtual-horizons-with-meaningful-metaverse-sentiments-for-2024/"><u>Exploring Virtual Horizons with Meaningful Metaverse Sentiments for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gear-vr-and-mobile-devices-the-2023-compatibility-guide/"><u>In 2024, Gear VR and Mobile Devices The 2023 Compatibility Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/review-spotlight-on-yuneecs-aerodrone-typhoon-h-for-2024/"><u>Review Spotlight on Yuneec’s AeroDrone Typhoon H for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-htc-u23-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For HTC U23</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-3gp-video-editing-rotate-flip-and-more-with-these-top-tools-for-2024/"><u>Updated Free 3GP Video Editing Rotate, Flip, and More with These Top Tools for 2024</u></a></li>
 </ul></div>
 

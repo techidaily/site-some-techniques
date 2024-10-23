@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Software From the Microsoft Store Onto Your Windows 11 PC"
-date: 2024-10-13T03:10:50.161Z
-updated: 2024-10-17T20:02:44.557Z
+date: 2024-10-22T17:58:49.182Z
+updated: 2024-10-23T16:34:27.506Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
  Before we begin, we'll assume that you have already [created a Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and you are logged in. For app purchases, you'll need some form of payment that has already been linked to your Microsoft account.
@@ -55,10 +48,16 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![Search for 'Microsoft store' in the Start menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-microsoft-store.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the "Microsoft Store" app opens, you will see a screen that includes many flashy banners that advertise the latest deals and other promotions.
@@ -77,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
@@ -84,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
 ![The download is in progress when the 'Get' or 'Install' button changes to a stop button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-download-in-progress.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the app is installed, you can launch it by clicking "Launch" or "Play" button located just beside the download progress indicator bar. Or you can open the "Start" menu and browse for the app name in an alphabetical list. Click the app's icon when you find it, and it will launch.
 
@@ -101,15 +100,22 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
 
 ![Click the 'Library' button in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-click-the-library-button.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will see a list of all the apps you have installed through the Microsoft Store, and you can sort it by install date and other criteria. If you want to [uninstall the app later](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), you'll need to visit Settings > Apps, select the program, then click "Uninstall."
 
@@ -130,24 +136,22 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-exceptional-online-tv-services-featuring-community-broadcasts/"><u>[Updated] Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-experiences-top-15plus-virtual-reality-tales-on-cardboard/"><u>[Updated] Exclusive Experiences Top 15+ Virtual Reality Tales on Cardboard</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gradual-volume-lessening-in-music-creation-garageband/"><u>[Updated] Gradual Volume Lessening in Music Creation (Garageband)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>2024 Approved Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-selection-prime-auto-tracking-tech-review/"><u>2024 Approved Expert Selection Prime Auto Tracking Tech Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-tranquility-with-gpt/"><u>A Guide to Tranquility with GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bring-ai-talk-to-life-on-android-via-widgets/"><u>Bring AI Talk to Life on Android via Widgets</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-razer-blade-17-driver-rejuvenation-maximizing-compatibility-with-windows-11-10-8-and-7/"><u>Comprehensive Razer Blade 17 Driver Rejuvenation: Maximizing Compatibility with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-10-most-powerful-drawing-tools-on-chrome-os-for-2024/"><u>Explore the 10 Most Powerful Drawing Tools on Chrome OS for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/go-viral-in-10-easy-steps-on-instagram-the-ultimate-guide/"><u>Go #Viral in 10 Easy Steps on Instagram - The Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/imovies-beat-based-filmmaking-for-2024/"><u>IMovie's Beat-Based Filmmaking for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>In 2024, From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-disclosure-unveiling-all-about-google-podcasts-app/"><u>In 2024, Full Disclosure Unveiling All About Google Podcasts App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-slug-lines-in-seo-and-content-marketing/"><u>In 2024, The Power of Slug Lines in SEO and Content Marketing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-videdit-mac/"><u>New In 2024, VidEdit Mac</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-tier-android-and-ios-timers-unveiled-your-weddings-guardian-angels-for-2024/"><u>Top-Tier Android & iOS Timers Unveiled Your Wedding's Guardian Angels for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ultimate-gameplay-modifications-in-terraria/"><u>Ultimate Gameplay Modifications in Terraria</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-modest-class-cameras-at-reasonable-prices-vixia-hf-r800/"><u>Unveiling Modest-Class Cameras at Reasonable Prices – VIXIA HF R800</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725287472188-winxvideo-ai/"><u>WinXVideo AI 기능 정보 - [공식] 가이드</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-muddled-to-clear-mastering-photo-bg-removal/"><u>[New] From Muddled to Clear Mastering Photo Bg Removal</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-revenue-driven-approach-to-youtube-content-creation-for-2024/"><u>[Updated] Crafting a Revenue-Driven Approach to YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experiences-with-the-syma-x8c-drone/"><u>[Updated] Experiences with the Syma X8C Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illumination-innovations-advanced-lighting-in-video-making/"><u>[Updated] Illumination Innovations Advanced Lighting in Video Making</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-5-slow-mo-video-recording/"><u>[Updated] Innovative 5 Slow Mo Video Recording</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>2024 Approved Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-top-8-must-have-educational-apps-for-mastery/"><u>Discover Top 8 Must-Have Educational Apps for Mastery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-call-of-duty-warzone-from-freezing-and-crashing-on-your-computer/"><u>How to Prevent Call of Duty Warzone From Freezing and Crashing on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hue-mastery-interface-for-2024/"><u>Hue Mastery Interface for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flair-filled-images-top-10-screenshot-sticker-addons-on-iphonesandroids/"><u>In 2024, Flair-Filled Images – Top 10 Screenshot Sticker Addons on iPhones/Androids</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-play-40c-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Play 40C</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-14-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 14 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-identifying-excellent-video-production-experts/"><u>In 2024, Identifying Excellent Video Production Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-cutzone-pro-review-unveiled-for-2024/"><u>In-Depth Analysis CutZone Pro Review Unveiled for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/masterclass-in-timelapse-capture-via-gopro-studio-for-2024/"><u>Masterclass in Timelapse Capture via GoPro Studio for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mpeg-flac/"><u>MPEG FLAC 자유성 변환 - 웹 사이트에서 편리한 도구</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/novices-guide-to-photo-enhancements-with-photoshop/"><u>Novice's Guide to Photo Enhancements with Photoshop</u></a></li>
 </ul></div>
 

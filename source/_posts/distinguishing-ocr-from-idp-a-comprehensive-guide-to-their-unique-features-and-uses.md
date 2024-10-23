@@ -1,7 +1,7 @@
 ---
 title: "Distinguishing OCR From IDP: A Comprehensive Guide to Their Unique Features and Uses"
-date: 2024-08-22T06:08:36.878Z
-updated: 2024-08-23T06:08:36.878Z
+date: 2024-10-16T20:13:05.268Z
+updated: 2024-10-23T20:17:23.264Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a90dc3d2a15bfc646351df71a.jpg
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
 OCRが導入される前は、データをコンピューターシステムに取り込むために、手作業でテキストを入力する必要がありました。OCRソフトウェアは、画像内の文字を分析し、それらを抽出し、機械が読み取り・編集可能なテキストに変換します。IDPは、OCRを組み込んで文字を認識し、人工知能（AI）と機械学習を使ってテキストを読み取り、解釈し、価値ある情報を抽出して、その情報を人間のように処理します。この技術は、例えば、請求書を確認して支払いのために転送するといったビジネスプロセスを完了するために使用されます。IDPは、定型・非定型を問わず、多様なコンテンツを扱っているため、文書主体のワークフロー全体を自動化することができます。これにより企業のデジタルトランスフォーメーションへの道が切り開かれます。
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## OCRとは？
 
 **OCRは「[光学式文字認識（Optical Character Recognition）](https://tools.techidaily.com/abbyy/products/)」の略称です。OCR技術は、スキャンされた文書や画像のテキストを読み取り、分析・抽出し、機械が読み取り可能なテキストに変換するために使用されます。** 印刷された書籍や記事のデジタル化、請求書や領収書などの紙媒体の文書を扱う業務プロセスにおいて、テキスト内容を編集、検索、電子的に保存できるようにするために広く活用されています。OCR 技術は、インテリジェント文書処理 (IDP) など他のアプリケーションと連携して、より広範なインテリジェント オートメーション プロセスの一段階として機能します。
@@ -44,13 +51,18 @@ OCR 処理は、情報抽出したいファイルから始まります。この�
 抽出されたデータは、既知の文字や記号を表す定義済みのパターンやテンプレートのセットと照合されます。その過程において、機械学習やニューラルネットワークなどの技術を組み込んで認識精度を向上させながら、異なるフォントや言語、表やリスト、バーコードなどの複雑なレイアウトに対応するための調整を行います。問題が発生した場合は、人間による評価を行うためにフラグを立てることも可能です。文字認識プロセスが完了したら、スペルチェック、文脈分析、言語モデリングなどを使ってエラーをチェックしながら、精度を向上させていきます。その後、OCRソフトウェアが最終的な機械可読テキストを作成したら、コンピューターシステムへの統合が可能となります。
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### OCRのメリット
 
 [OCR](https://tools.techidaily.com/abbyy/products/)は、文書を多用するあらゆる業界にとって不可欠な技術です。従業員が日々行っている現行の文書処理業務に取り入れたり、アーカイブをデジタル化したりすることができるだけでなく、医療文書や物流文書など大量の文書を処理してアクセス可能なデジタル文書保管庫を作成することも可能です。
@@ -65,8 +77,12 @@ OCR 処理は、情報抽出したいファイルから始まります。この�
 OCRソリューションの一般的な使用例としては、大量の紙文書やデジタル文書をアクセシブルで検索可能なフォーマットに変換することで、政府や企業の規制へのコンプライアンスを促進する組織、検索、eDiscovery、データ分析のために紙の契約書を編集可能なデジタルフォーマットに変換する法律事務所、HIPAAコンプライアンスを維持するために患者の記録をコンピュータシステムに転送するヘルスケア企業などが挙げられます。 図書館や公文書館では、歴史的文書をデジタル形式で保存することで、スタッフが日々のさまざまな文書関連業務を効率的に行えるようにします。ソフトウェア開発会社では、コンテンツサービス、デジタルアーカイブ、文書管理システム（DMS）、エンタープライズコンテンツ管理（ECM）ソリューションなどを開発しています。
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## IDPとは？
 
 [インテリジェント文書処理](https://tools.techidaily.com/abbyy/products/)**(IDP) は**、あらゆる業界のあらゆるプロセスにおいて、ビジネス文書に埋め込まれたデータを自動的に取り込み、抽出・処理することで、文書のストレートスルー処理を可能にします。
@@ -74,8 +90,12 @@ OCRソリューションの一般的な使用例としては、大量の紙文�
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 仕組み
 
 IDPは、光学式文字認識（OCR）をを活用して、印刷物や手書き文字をテキスト化し、コンピューターが読み取れるフォーマットに変換します。さらに、人工知能（AI）と機械学習（ML）の技術を応用して、定型、準定型、非定型データの文書を人間のように読み取り、理解・処理します。
@@ -85,6 +105,13 @@ IDPは、機械学習モデルを使用して、文書をその内容、レイ�
 自然言語処理（NLP）を組み込むことで、このテクノロジーは読み取った情報の文脈を解釈することもできます。例えば、「ジャガー」という言葉は、動物のジャガーを指しているのか、それとも車メーカーを指しているのかを判断します。あるいは、「訴える」という言葉が、人が何かを訴えかけること指すのか、それとも法的行為を指すのかを判断します。NLPを適用することで、これまで認識が難しかった非構造化データの特定と抽出をかつてないレベルで実現します。NLP を活用した IDP は、あたかも人間の脳のように、変化する入力に素早く適応し、最良の結果を導き出すことができます。この種の高度な技術は、インテリジェントオートメーションまたはハイパーオートメーションと呼ばれています 。
 
 The [IDPプラットフォーム](https://tools.techidaily.com/abbyy/products/)は、ERPやCRMなど、さまざまなビジネスシステムに簡単に統合することができます。新しいローコード／ノーコードのプラットフォームを活用すれば、シチズンデベロッパー (非エンジニア開発者) でも、大規模な IT インフラ構築や保守をクライアント側で行う必要がなく、IDP テクノロジーを数日で導入することが可能です。
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### IDPのメリット
 
@@ -102,9 +129,6 @@ IDPテクノロジーは、人間がドキュメントを理解し管理する�
 * **拡張性。**業務が拡大するにつれ、処理すべき文書の量も増加します。IDPソリューションは、容易に拡張ができ、より大量の文書を処理できるため、拡大の規模に応じて人件費を増加させる必要もありません。
 * **会社のワークフローに簡単に統合。**IDPは他のデジタルシステムやワークフローとの統合が可能で、社内各部署や組織全体のビジネスプロセスをシームレスかつ効率的にデジタル化できます。
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## OCRとIDPの違いとは？
 
 光学式文字認識（OCR）は古くから存在する技術で、文書キャプチャに関連する技術として知られています。OCR は主に、紙の書類、スキャンされた画像や写真からテキストを抽出して、コンピュータで編集可能なデジタルテキストに変換するために用いられます。
@@ -146,9 +170,6 @@ IDPテクノロジーは、人間がドキュメントを理解し管理する�
 
 [デモを申し込む](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## よくある質問
 
 [IDPはOCRを使用していますか？](https://tools.techidaily.com/abbyy/products/)
@@ -197,10 +218,6 @@ ABBYY Vantageグループ、 製品マーケティングディレクター
 
 [LinkedIn](https://www.linkedin.com/in/slavena-hristova-r%C3%B6%C3%9Fler-044aa05a/)でスラベナと繋がりませんか。
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### いいね、シェア、再投稿
 
 Share 
@@ -255,8 +272,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +279,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-troubleshooting-obs-frame-loss-for-2024/"><u>[New] Troubleshooting OBS Frame Loss for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-curated-list-prime-places-to-pick-pixel-ringtones/"><u>[Updated] 2024 Approved Curated List Prime Places to Pick Pixel Ringtones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-5-pcs-and-monitors-for-ps5-games/"><u>[Updated] Best 5 PCs & Monitors for PS5 Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-editing-software-for-mobile-creations/"><u>2024 Approved Foremost Editing Software for Mobile Creations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-simplicity-to-spectacle-the-rise-of-hdr-in-video-editing/"><u>2024 Approved From Simplicity to Spectacle The Rise of HDR in Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-tech-equipment-picking-game/"><u>2024 Approved High-Tech Equipment Picking Game</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-an-nft-easily-an-ultimate-guide-for-beginners/"><u>2024 Approved How to Create an NFT Easily An Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-taming-the-tremble-keep-your-gopro-movies-steady-and-smooth/"><u>2024 Approved Taming the Tremble Keep Your GoPro Movies Steady and Smooth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6s</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streaming-tweets-on-whatsapp-a-2023-guide-for-2024/"><u>Streaming Tweets on WhatsApp A 2023 Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailoring-twitter-hashtags-insights-from-chatgpt/"><u>Tailoring Twitter Hashtags: Insights From ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-series-s-reviewed-delighting-gamers-with-its-impressive-hardware-despite-tiny-design/"><u>Xbox Series S Reviewed: Delighting Gamers with Its Impressive Hardware Despite Tiny Design</u></a></li>
+</ul></div>
 

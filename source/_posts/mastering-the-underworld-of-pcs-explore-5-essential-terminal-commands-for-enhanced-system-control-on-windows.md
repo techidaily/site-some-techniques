@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-10-12T20:54:54.307Z
-updated: 2024-10-17T19:31:36.375Z
+date: 2024-10-20T19:45:04.957Z
+updated: 2024-10-23T22:24:13.023Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 * Use commands like dir /s, ping -t, cmatrix, genact, and hollywood to simulate the hacker aesthetics.
 
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
 
@@ -51,13 +44,6 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -65,6 +51,13 @@ color 2
 color
 
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
 
@@ -93,6 +86,13 @@ dir /s | more
 
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the ping-t Command to Ping a Website Continuously
 
  Next up is the ping command with the -t option:
@@ -109,13 +109,6 @@ Your browser does not support the video tag.
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -129,6 +122,19 @@ cmatrix
 Your browser does not support the video tag. 
 
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
@@ -161,10 +167,10 @@ genact -m cryptomining
 Your browser does not support the video tag. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
@@ -204,16 +210,22 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>[New] 2024 Approved A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pioneering-techniques-in-screen-snatching-for-2024/"><u>[New] Pioneering Techniques in Screen Snatching for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-art-of-tweaking-soundtracks-in-youtube-videos-for-2024/"><u>[New] The Art of Tweaking Soundtracks in YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-clip-maker/"><u>[Updated] In 2024, Youtube Clip Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incorporating-seconds-and-minutes-on-youtube-clips/"><u>[Updated] Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/arctic-accolades-top-athletes-and-events/"><u>Arctic Accolades Top Athletes & Events</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/artisanarray-pro-online-creation-powerhouse-for-2024/"><u>ArtisanArray Pro Online Creation Powerhouse for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-quality-radio-dramatic-works-for-2024/"><u>Highest Quality Radio Dramatic Works for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-free-online-music-beat-detection-tools/"><u>In 2024, Explore Free Online Music Beat Detection Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-mastery-a-critical-review-of-kinemaster-for-android-gamers-2023/"><u>In 2024, Game On Mastery A Critical Review of KineMaster for Android Gamers 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-steer-clear-of-virtual-sickness/"><u>In 2024, How to Steer Clear of Virtual Sickness</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-streams-weighing-xsplit-against-obs-capabilities/"><u>[Updated] Mastering Streams Weighing XSplit Against OBS Capabilities</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pro-level-insights-enhancing-your-interview-recordings-on-ios-devices/"><u>2024 Approved Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ai-enhanced-copilot-pro-upgrades-microsoft-office-suite/"><u>AI Enhanced Copilot Pro Upgrades Microsoft Office Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ai-driven-assistance-neweggs-smart-way-to-select-your-perfect-pc-components/"><u>AI-Driven Assistance: Newegg's Smart Way to Select Your Perfect PC Components</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/astounding-revelation-on-the-plaud-note-miniature-ai-microphone-an-innovative-voice-recordant/"><u>Astounding Revelation on the Plaud Note Miniature AI Microphone – An Innovative Voice Recordant</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boosting-trust-in-e-mobility-how-chargepoint-is-advancing-the-reliability-of-ev-chargers-with-their-new-plan/"><u>Boosting Trust in E-Mobility: How ChargePoint Is Advancing the Reliability of EV Chargers with Their New Plan</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-itel-a60-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Itel A60</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-perfect-moment-for-podcast-debuts/"><u>In 2024, Perfect Moment for Podcast Debuts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-portable-audio-choices-decoded/"><u>In 2024, Top Portable Audio Choices Decoded</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/passos-detalhados-para-converter-e-salvar-filmes-mp4-como-dvds-utilizando-o-sistema-operacional-windows-para-edicoes-111087/"><u>Passos Detalhados Para Converter E Salvar Filmes MP4 Como DVDs Utilizando O Sistema Operacional Windows: Para Edições 11/10/8/7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-fast-track-to-optimizing-scansnap-s1100-a-step-by-step-software-guide/"><u>The Fast Track to Optimizing ScanSnap S1100: A Step-by-Step Software Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/us-accelerates-electric-vehicle-uptake-through-updated-auto-emission-regulations/"><u>U.S. Accelerates Electric Vehicle Uptake Through Updated Auto Emission Regulations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unraveling-the-a-z-of-electric-car-terminology-and-initialisms/"><u>Unraveling the A-Z of Electric Car Terminology and Initialisms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unveiling-the-truth-busting-top-7-ev-ownership-fallacies/"><u>Unveiling the Truth: Busting Top 7 EV Ownership Fallacies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/what-sets-rabbit-r1-apart-from-the-rest-of-artificial-intelligence-companions/"><u>What Sets Rabbit R1 Apart From the Rest of Artificial Intelligence Companions?</u></a></li>
 </ul></div>
 

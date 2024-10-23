@@ -1,7 +1,7 @@
 ---
 title: Join ABBYY Professionals! Explore Why a Career with ABBYY Is Beneficial
-date: 2024-08-22T06:10:05.392Z
-updated: 2024-08-23T06:10:05.392Z
+date: 2024-10-16T17:37:53.876Z
+updated: 2024-10-23T20:13:42.923Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce451943a850955e0879da3d83a3f.jpg
@@ -25,11 +25,25 @@ ABBYYの成功の土台は、企業とその社員のアイデンティティ、
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_star-128.svg?h=128&iar=0&w=128)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### シンプルさ 
 
 物事をシンプルに保つことを心がけましょう。簡単に説明、理解できることが極めて重要です。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-128.svg?h=128&iar=0&w=128)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 透明性 
 
@@ -103,9 +117,6 @@ ABBYYでは、フレックスタイム制により、すべての社員にリモ
 
 多くの成功しているビジネスがそうであるように、ABBYYも企業としての個性を重視し、顧客により良いサービスを提供できる製品を作ろうと努力しています。 イノベーションは、挑戦と非線形思考の機能であり、それは異なる視点を反映する個人によって可能になるものなのです。多様な人材を雇用し、維持するためには、何者も排除しない環境、つまり違いが尊重され、誰もが自分の居場所だと感じられるようなコミュニティを提供する必要があります。それがABBYYの願いであり、ビジョンです」 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 環境および社会に対する責任 
 
 ABBYYにおいて、環境および社会的責任への取り組みは、長きにわたって極めて重要なものであり続けています。当社の製品は、世界中の何百ものクライアントが非効率を解消し、資源管理を改善するのに役立っていますが、当社では持続可能性と社会的責任を促進するための独自のイニシアチブも展開しています。 
@@ -113,17 +124,18 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_checkmark-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### 取り引きが1件成立するごとに1本の木を植樹 
 
 新規契約1件につき1本の木をOne Tree Plantedを通じて寄付しています。2021年には2000本以上を植樹しました。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_people_employee-1-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### 価値ある目的のための有給休暇 
 
 誰もが年2日の有給休暇を取得し、関心のある活動を支援することができます。昨年は40以上の活動に貢献しました。 
@@ -131,24 +143,29 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_mountain-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### カーボンニュートラルへの道 
 
 2023年から、ABBYYは出張時の二酸化炭素排出量を測定し、オフセットプログラムに投資しています。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### ABBYY Summer Challenge 
 
 毎年、世界的なスポーツコンペティションを開催し、社員が1キロメートル走ったり、サイクリングしたり、歩いたり、泳いだりするごとにチャリティを寄付しています。 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### ABBYYについて詳しく 
 
 AIを活用したインテリジェントオートメーションのリーディング企業
@@ -161,8 +178,6 @@ AIを活用したインテリジェントオートメーションのリーディ
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +185,22 @@ AIを活用したインテリジェントオートメーションのリーディ
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-free-srt-conversion-uncover-top-8-online-options/"><u>[New] Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[New] From Airwaves to Archives Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-multiple-windows-learn-pip-in-microsoft-edge/"><u>[New] Harnessing Multiple Windows Learn PIP in Microsoft Edge</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-freelancers-corner-yearly-best-free-text-files/"><u>[Updated] In 2024, Freelancers’ Corner Yearly Best FREE Text Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-techniques-to-repair-unresponsive-ps4-controller-sync-issue/"><u>DIY Techniques to Repair Unresponsive PS4 Controller Sync Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-self-care-best-gpt-enhancements-for-wellness/"><u>Elevate Self-Care: Best GPT Enhancements for Wellness</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994747909-fix-your-civilization-6-startup-troubles-under-windows-10-with-these-simple-solutions/"><u>Fix Your Civilization 6 Startup Troubles Under Windows 10 With These Simple Solutions!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-in-fun-the-top-samsung-gear-vr-games-for-2024/"><u>Immerse in Fun The Top Samsung Gear VR Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-selling-vr-games-on-oculus-devices/"><u>In 2024, Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-guide-to-download-windows-movie-maker-60/"><u>In 2024, Full Guide to Download Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gadget-grapple-comparing-gopros-hero5-and-garmin-virb/"><u>In 2024, Gadget Grapple Comparing GoPro's Hero5 & Garmin VIRB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-enable-windows-11-auto-hdr-settings/"><u>In 2024, Guide to Enable Windows 11 Auto-HDR Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/merge-music-and-graphics-in-ppt/"><u>Merge Music and Graphics in PPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-drone-enhancement-list-for-dji-phantom-4/"><u>The Ultimate Drone Enhancement List for DJI Phantom 4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-transform-your-videos-effortlessly-using-video-converter-factorys-no-cost-features/"><u>Ultimate Tutorial: Transform Your Videos Effortlessly Using Video Converter Factory's No-Cost Features</u></a></li>
+</ul></div>
 

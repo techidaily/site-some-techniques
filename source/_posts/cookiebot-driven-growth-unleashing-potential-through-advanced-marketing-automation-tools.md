@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Growth: Unleashing Potential Through Advanced Marketing Automation Tools"
-date: 2024-08-22T06:12:03.404Z
-updated: 2024-08-23T06:12:03.404Z
+date: 2024-10-16T21:16:44.700Z
+updated: 2024-10-23T21:32:19.817Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9c9468344b2134e03f9a56958c7757399982c5d29eede76c4f6e8b74b7163ad3.jpg
@@ -29,6 +29,13 @@ Intelligent capture replaces manual capture with fully-automated conversion of d
 * Classification to identify the type of document, based on its content and format
 * Text analytics to extract specific data elements from the document required for the business process
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Intelligent Capture and Digital Transformation
 
 Digital transformation is a fundamental shift of business models and activities onto digital platforms, and requires rethinking and retooling an organization’s end-to-end business processes. Not just impacting internal workers, digital transformation can only occur through significant enablement of customer channels. This requires comprehensive self-service capabilities, where customers create and complete transactions without intervention from workers inside the organization.
@@ -43,8 +50,12 @@ Here are some of the key benefits that intelligent capture brings to digital tra
 * Customers can be offered additional goods and services during their transaction based on content analytics
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Application of Intelligent Capture in the service industry
 
 There are many possible uses for intelligent capture in service industries:
@@ -54,8 +65,12 @@ There are many possible uses for intelligent capture in service industries:
 * **Employee onboarding**. When a new employee starts with a company, they may have to submit many documents, such as identity and tax forms. Intelligent capture allows them to photograph or submit these using their mobile device, then automatically extract the information and upload it to the HR system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Points to consider before implementation
 
 Intelligent capture solutions employ a suite of technologies, depending on the documents and data to be captured: recognition, classification, text analytics, and even photo recognition. It’s essential that the solution that you select has been tested on the type of documents that you will be capturing to ensure that documents are properly classified, and the content extracted for use in the downstream business processes. If your customers will be capturing their documents directly, the solution needs to support mobile device cameras and uploading from their own PCs, which may require a cloud solution to support secure scanning and upload.
@@ -67,8 +82,12 @@ However, you also need to ensure that the downstream business processes are as a
 ![Sandy Kemsley](https://static4.abbyy.com/abbyycommedia/25712/sandykemsley-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sandy Kemsley
 
 Process Automation Industry Analyst at Column 2
@@ -79,9 +98,6 @@ During her career of more than 20 years, she has started and run successful prod
 
 Since 2001, she has returned to private consulting practice as a BPM/DPA architect, performing engagements for financial services and insurance organizations across North America, and as an analyst working with BPM/DPA vendors. In addition to writing her blog, she often speaks at conferences about BPM/DPA and digital transformation, and is a contributing author to books on social BPM and adaptive case management. Sandy is the recipient of the 2016 Marvin L. Manheim award for significant contributions in the field of workflow, and the 2019 winner of the Workflow Management Coalition’s award for Outstanding Business Transformation Consultant.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -136,8 +152,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +159,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elite-5-emulators-transforming-old-ps1-games-on-pcs/"><u>[New] In 2024, Elite 5 Emulators Transforming Old PS1 Games on PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-master-the-craft-streamlining-your-online-television-recordings/"><u>2024 Approved Master the Craft Streamlining Your Online Television Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breathless-races-showcasing-2022s-elite-snowboard-cross-at-winter-olympics/"><u>Breathless Races Showcasing 2022'S Elite Snowboard Cross at Winter Olympics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/deutsche-post-dhl-group-verdoppelt-effizienz-durch-rpa-integration-mit-abbyy-idp-steigerung-von-bis-zu-70/"><u>Deutsche Post DHL Group Verdoppelt Effizienz Durch RPA-Integration Mit ABBYY IDP - Steigerung Von Bis Zu 70%</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/driving-sales-success-through-cookiebot-enabled-analytics-tools/"><u>Driving Sales Success Through Cookiebot-Enabled Analytics Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/efficiently-managing-core-records-pwcs-use-of-abbyy-advanced-ocr-technologies/"><u>Efficiently Managing Core Records: PwC's Use of ABBYY Advanced OCR Technologies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/elevating-business-efficiency-with-abbyys-hyperautomation-combining-advanced-computer-vision-llm-technology-and-seamless-idp-connectivity/"><u>Elevating Business Efficiency with ABBYY's Hyperautomation: Combining Advanced Computer Vision, LLM Technology, and Seamless IDP Connectivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/empower-your-site-with-cookiebots-advanced-conversion-optimization-features/"><u>Empower Your Site with Cookiebot's Advanced Conversion Optimization Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-wav-audio-format-everything-you-need-to-know-featuring-tips-from-movavi-converter/"><u>Exploring the .WAV Audio Format - Everything You Need to Know, Featuring Tips From Movavi Converter</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-meizu-21-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pathways-to-identifying-outstanding-video-artists/"><u>In 2024, Pathways to Identifying Outstanding Video Artists</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-viewing-choice-leveraging-chatgpt-for-personalized-movie-recommendations/"><u>Next Viewing Choice: Leveraging ChatGPT for Personalized Movie Recommendations</u></a></li>
+</ul></div>
 

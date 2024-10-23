@@ -1,7 +1,7 @@
 ---
 title: "Optimized with the Help of Cookiebot: Your Pathway to Enhanced SEO Performance"
-date: 2024-08-22T06:08:05.688Z
-updated: 2024-08-23T06:08:05.688Z
+date: 2024-10-21T19:22:44.703Z
+updated: 2024-10-23T20:44:55.223Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4082ac6c30e6e25f75285938.jpg
@@ -37,6 +37,20 @@ Bevor es OCR gab, musste man zur Dateneingabe Text manuell in ein Computersystem
 
 ![](https://static1.abbyy.com/abbyycommedia/37740/ds-66-ocr-idp-image-1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wie es funktioniert
 
 OCR beginnt mit der Datei, aus der Sie Informationen extrahieren möchten. Dabei kann es sich um ein gescanntes Dokument, eine PDF-Datei oder um Fotos von Papierdokumenten handeln. Moderne OCR-Plattformen können automatisch die Qualität verbessern, den Kontrast erhöhen und die Auflösung schärfen, um die Genauigkeit zu erhöhen. Als Nächstes verwenden die OCR-Algorithmen vorab trainierte Extraktionsmodelle, um Wörter und Zeilen im Bild zu identifizieren und einzelne erkannte Zeichen zu extrahieren.
@@ -57,20 +71,18 @@ Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern od
 Typische Anwender von OCR-Lösungen sind unter anderem Organisationen, die damit zur Einhaltung von behördlichen und unternehmensinternen Vorschriften große Mengen an Papier- und digitalen Dokumenten in barrierefreie und durchsuchbare Formate umwandeln, Anwaltskanzleien, die gedruckte Verträge in bearbeitbare digitale Formate für die Suche, eDiscovery und Datenanalyse umwandeln, Unternehmen des Gesundheitswesens, die Patientenakten auf ihr Computersystem übertragen, um die Einhaltung des HIPAA zu gewährleisten, Bibliotheken und Archive, die historische Dokumente in digitaler Form aufbewahren, damit die Mitarbeiter eines Unternehmens ihre tägliche Arbeit mit Dokumenten effizient erledigen können, und Softwareentwickler, die Inhaltsdienste, digitale Archivierung, Dokumentenverwaltungssysteme (DMS) und ECM-Lösungen (Enterprise Content Management) entwickeln.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Was ist IDP?
 
 [Intelligente Dokumentenverarbeitung](https://tools.techidaily.com/abbyy/products/) **(IDP) ermöglicht die durchgängige Verarbeitung von Dokumenten durch automatisches Erfassen, Extrahieren und Verarbeiten von Daten, die in Geschäftsdokumenten eingebettet sind,** in nahezu jedem Prozess in jeder Branche.
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Wie es funktioniert
 
 IDP beinhaltet eine optische Zeichenerkennung (OCR), um gedruckten oder handschriftlichen Text in ein maschinenlesbares Format umzuwandeln. IDP nutzt darüber hinaus Techniken der künstlichen Intelligenz (KI) und des maschinellen Lernens (ML), um strukturierte, halbstrukturierte und unstrukturierte Daten in Dokumenten wie ein Mensch zu lesen, zu verstehen und zu verarbeiten.
@@ -97,6 +109,13 @@ Die IDP-Technologie orientiert sich eng an der Art und Weise, wie Menschen Dokum
 * **Skalierbarkeit.** Mit wachsender Geschäftstätigkeit steigt auch das Volumen der zu verarbeitenden Dokumente. IDP-Lösungen können problemlos skaliert werden, um größere Dokumentenmengen zu verarbeiten, ohne dass die Arbeitskosten proportional ansteigen.
 * **Einfache Integration in den Unternehmens-Workflow.** IDP kann mit anderen digitalen Systemen und Workflows kombiniert werden, um eine nahtlose und effiziente Digitalisierung von Geschäftsprozessen in allen Unternehmensbereichen und in der gesamten Organisation zu ermöglichen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Was ist der Unterschied zwischen OCR und IDP?
 
 OCR gibt es schon seit Langem und ist als Technologie zur Dokumentenerfassung bekannt. **OCR wird in erster Linie verwendet, um Text aus Papierdokumenten, gescannten Bildern oder Fotos zu extrahieren und in maschinengeschriebenen Text umzuwandeln, der digital auf einem Computer bearbeitet werden kann.**
@@ -114,10 +133,6 @@ So kann IDP beispielsweise eine Rechnung lesen, ihren Inhalt mit einer entsprech
 | **Technologie**              | Bildverbesserung, Objekterkennung OCR / ICR                                                                                                                                                                                                                        | Klassifizierung Deep Machine Learning Fast Machine Learning Extraktionsregeln Segmentierung Erkennung von Eigennamen (NER) Natural Language Processing (NLP)                                                                                                                                      |
 | **Typische Anwendungsfälle** | Bietet Zugang zu maschinenlesbarem Text als Grundlage für: PDF-Konvertierung, Digitale Archivierung / Suche eDiscovery Erweiterte Suche / Digitale Forensik Datenanalyse Intelligente Dokumentenverarbeitung (IDP)                                                 | Automatisierung aller dokumentenzentrierten Geschäftsprozesse: Automatisierung der Kreditorenbuchhaltung Neukundenaufnahme / KYC Kreditbearbeitung Automatisierung von Transport- und Logistikdokumentation Bearbeitung von Versicherungsansprüchen                                               |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Beispiele für OCR und IDP in Geschäftsprozessen
 
 #### Bearbeitung von Rechnungen
@@ -136,9 +151,6 @@ Studien zufolge stellen 90% der Unternehmen fest, dass potenzielle Kunden den di
 
 Mit intelligenter Dokumentenverarbeitung können Sie die Hindernisse beseitigen, die zu Abbrüchen veranlassen. [Unternehmen können die IDP-Technologie für den Identitätsnachweis](https://tools.techidaily.com/abbyy/products/) und die Identitätsbestätigung nutzen, was das Ganze für Kunden einfacher und für Unternehmen sicherer macht. IDP kann Ausweisdokumente wie Führerscheine oder Reisepässe oder unterstützende Dokumente wie Kontoauszüge oder Rechnungen von Versorgungsunternehmen erfassen und klassifizieren, die zum Nachweis der Adresse benötigt werden. Sie kann beispielsweise von Kraftfahrzeugbehörden für die Verlängerung eines Führerscheins oder von einer Bank für Hypothekenanträge verwendet werden.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OCR vs. IDP: Was ist für Ihr Unternehmen am besten?
 
 **Bei der OCR geht es in erster Linie darum, den vollständigen Text aus Bildern und Dokumenten zu extrahieren, damit er am Computerbildschirm dargestellt und bearbeitet werden kann.** OCR erkennt verschiedene Schriftarten, Bilder und handschriftliche Notizen und wandelt sie in bearbeitbaren und durchsuchbaren digitalen Text um. Für Unternehmen, die Lösungen zur digitalen Archivierung suchen oder unterstützende Technologien entwickeln wollen, die eine hervorragende Texterkennung, PDF-Konvertierung und Datenerfassungsfunktionen erfordern, ist eine OCR-Lösung am besten geeignet. Mit dem [OCR Software Development Kit (SDK) von ABBYY](https://tools.techidaily.com/abbyy/products/) erhalten Sie hervorragende Funktionen für die Dokumentenerfassung.
@@ -187,6 +199,13 @@ Technologien für OCR (optische Zeichenerkennung) und IDP (intelligente Dokument
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Slavena Hristova
 
 Director of Product Marketing, Vantage group at ABBYY
@@ -195,9 +214,6 @@ Slavena Hristova ist Direktorin für Produktmarketing, Vantage bei ABBYY. Hristo
 
 Verbinden Sie sich mit Slavena auf [LinkedIn](https://www.linkedin.com/in/slavena-hristova-r%C3%B6%C3%9Fler-044aa05a/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Gefällt mir, teilen oder neu posten 
 
 Teilen 
@@ -248,8 +264,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +271,24 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-guide-to-choosing-between-igtv-and-youtube-for-content-creators/"><u>[New] In 2024, The Ultimate Guide to Choosing Between IGTV & YouTube for Content Creators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-marker-techniques-for-efficient-video-cutting/"><u>[New] Mastering Marker Techniques for Efficient Video Cutting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-stay-snappin-strategies-for-unbroken-streaks/"><u>[New] Stay Snappin' Strategies for Unbroken Streaks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-pros-pathway-to-effective-discord-dialogue-and-reactions-for-2024/"><u>[New] The Pro's Pathway to Effective Discord Dialogue and Reactions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-content-ready-faster-with-this-list-of-easy-editors/"><u>[Updated] 2024 Approved Get Content Ready Faster With This List of Easy Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-2023s-standout-professional-360cameras/"><u>2024 Approved Exploring 2023'S Standout Professional 360°Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>2024 Approved Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglemaker-step-by-step-to-fun-videos/"><u>2024 Approved GiggleMaker Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-step-by-step-approach-to-measuring-yt-popularity-and-revenue/"><u>2024 Approved Step-by-Step Approach to Measuring YT Popularity & Revenue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evolution-of-action-cameras-from-gopro-hero4-to-hero5-for-2024/"><u>Evolution of Action Cameras From GoPro (Hero4 to Hero5) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-guide-to-enhancing-video-subtitles-through-web-apps-for-2024/"><u>Expert Guide to Enhancing Video Subtitles Through Web Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explaining-the-freeze-photo-booth-film-flow-for-2024/"><u>Explaining the Freeze Photo Booth Film Flow for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-high-resolution-with-lgs-digital-cinema-31mu97-b-for-2024/"><u>Exploring High-Resolution with LG's Digital Cinema 31MU97-B for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor-for-2024/"><u>Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-balancing-consistency-and-quality-a-key-to-increasing-youtube-viewership/"><u>In 2024, Balancing Consistency & Quality A Key to Increasing YouTube Viewership</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-various-audio-and-video-files-with-easy-methods/"><u>Step-by-Step Guide: Converting Various Audio and Video Files with Easy Methods</u></a></li>
+</ul></div>
 

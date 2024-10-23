@@ -1,7 +1,7 @@
 ---
 title: "Globale Partnerschaft: Kodak Alaris Und AbbyY Treten Bei Der Weltweiten Verbraucherdatenerfassung Zusammen"
-date: 2024-08-22T06:11:35.721Z
-updated: 2024-08-23T06:11:35.721Z
+date: 2024-10-21T18:51:39.456Z
+updated: 2024-10-23T19:12:05.121Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c0651a85c9e09e34c344274922.jpg
@@ -33,6 +33,13 @@ Der INfuse Scanner digitalisiert Dokumente und liefert die Daten direkt an die A
 
 Weitere Informationen unter [AlarisWorld.com](https://www.AlarisWorld.com).
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich [Intelligent Document Processing (IDP)](https://www.abbyy.com/company/news/everest-group-recognizes-abbyy-as-a-leader-in-intelligent-document-processing-products-peak-matrix-assessment-for-second-consecutive-year-2020/ "Everest Group Recognizes ABBYY as a Leader in Intelligent Document Processing Products") und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
@@ -40,8 +47,12 @@ ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Ges
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Über den Geschäftsbereich Alaris von Kodak Alaris
 
 Kodak Alaris ist ein führender Anbieter von Informationserfassungslösungen, die Unternehmensprozesse vereinfachen. Wir unterstützen Unternehmen, Informationen sinnvoll mit intelligenten, vernetzten Lösungen zu nutzen, basierend auf innovativer Bildwissenschaft, die seit Jahrzehnten unsere Kernkompetenz darstellt. Unsere [ausgezeichneten](https://www.alarisworld.com/de-de/about-us/industry-recognition?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=brand) Scanner, Software und Services sind weltweit über unsere Channelpartner verfügbar. Für weitere Informationen besuchen Sie bitte [AlarisWorld.com](http://www.alarisworld.com/) und folgen uns unter [@AlarisDACH](https://twitter.com/AlarisDACH).
@@ -49,8 +60,12 @@ Kodak Alaris ist ein führender Anbieter von Informationserfassungslösungen, di
 ©2022 Kodak Alaris Inc. TM/MC/MR: Alaris. Alle Marken und Markennamen sind Eigentum ihrer jeweiligen Inhaber. Die Marke Kodak und das Logo von Kodak werden unter Lizenz von der Eastman Kodak Company verwendet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Unternehmenskontakt:
 
 Kodak Alaris Germany GmbH
@@ -68,9 +83,12 @@ E-Mail: [scannerfamilie@kodakalaris.com](https://tools.techidaily.com/abbyy/prod
 Internet: <http://www.AlarisWorld.com>
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Pressekontakt:
 
 public touch –
@@ -95,8 +113,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +120,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[New] 2024 Approved Your Daily Diary Staying Fresh & Avoiding Common Mistakes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-retro-radeon-tech-boost/"><u>[Updated] 2024 Approved Retro Radeon Tech Boost</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[Updated] Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-captivate-audiences-with-fb-live-todays-way/"><u>[Updated] How to Captivate Audiences with FB Live, Today's Way</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728482518823-windows-10/"><u>如何解决Windows 10中自动清理下载文件问题</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-presence-with-advanced-cookiebot-technology/"><u>Enhancing Online Presence with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-visibility-through-strategic-webpage-content-mastery/"><u>Enhancing Online Visibility Through Strategic Webpage Content Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explorez-clairement-tous-les-bienfaits-de-lutilisation-dabbyy-recognition-server-avec-rewalk/"><u>Explorez Clairement Tous Les Bienfaits De L'utilisation D’ABBYY Recognition Server Avec Rewalk</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/integration-of-abbyy-flexicapture-with-paperstream-nx-manager-maximizing-efficiency-for-pfu-applications/"><u>Integration of ABBYY FlexiCapture with PaperStream NX Manager: Maximizing Efficiency for PFU Applications</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/leverage-cookiebot-power-for-advanced-seo-optimization-techniques/"><u>Leverage Cookiebot Power for Advanced SEO Optimization Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Analytics and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-advanced-analytics-via-cookiebot-integration/"><u>Leveraging Advanced Analytics via Cookiebot Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/masterclass-by-abbyy-enhancing-user-engagement-through-innovative-onboarding-techniques/"><u>Masterclass by ABBYY: Enhancing User Engagement Through Innovative Onboarding Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-e-invoice-management-in-ap-comprehensive-strategies-using-abbyy-software/"><u>Mastering E-Invoice Management in AP: Comprehensive Strategies Using ABBYY Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-financial-exposure-a-comprehensive-guide-on-reducing-libor-contract-vulnerabilities/"><u>Mastering Financial Exposure: A Comprehensive Guide on Reducing LIBOR Contract Vulnerabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ocr-versus-idp-unveiling-how-they-differently-serve-purposes/"><u>OCR Versus IDP: Unveiling How They Differently Serve Purposes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-installation-of-lenovo-g580-drivers/"><u>Smooth Installation of Lenovo G580 Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y17s-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y17s to iOS not Working Problems | Dr.fone</u></a></li>
+</ul></div>
 

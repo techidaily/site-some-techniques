@@ -1,7 +1,7 @@
 ---
 title: Cookiebot's Effective Consent Solutions for Seamless Online Tracking and Analytics
-date: 2024-08-22T06:10:49.121Z
-updated: 2024-08-23T06:10:49.121Z
+date: 2024-10-16T18:39:05.153Z
+updated: 2024-10-23T22:15:28.454Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b088afea3c5a850da277e1159.jpg
@@ -27,6 +27,13 @@ ABBYY社の最高財務責任者（CFO）に就任したJames Ritterは次のよ
 
 Ritterは、WPP、Ferrovial、BigCommerceなど複数の世界企業で上級管理職を務めてきました。2021年6月に財務担当バイスプレジデントとしてABBYYに入社する前は、国際的な企業向けソフトウェア会社であるAccruentのVPコントローラーでした。ローワン大学で会計学士号を取得し、公認会計士の資格を持つとともに、現在はボストン大学のクエストロムビジネススクールのMBA課程で学んでおり、テキサス州在住です。
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ABBYYについて
 
 1989年創業のABBYYはあらゆる組織に真のデジタルトランスフォーメーション（DX）を実現するリーディングカンパニーとして、ドキュメントデータとビジネスプロセスの完全な理解を可能にするインテリジェントなビジネス製品を提供しています。金融、保険、輸送、製造、その他業界の企業が名を連ねるFortune 500の企業の多くを含む5,000以上の企業で使用されており、インテリジェント ドキュメント プロセッシング（IDP）およびプロセス ディスカバリー & マイニングの分野でのリーダーシップにより、ユーザーエクスペリエンス、効果、収益性、競争上の優位性など、最も重要な点に大きな影響を与えています。ABBYYは世界14カ国にオフィスを構えてグローバルに活動しています。詳細については <https://www.abbyy.com/ja>/ をご覧ください。
@@ -34,8 +41,12 @@ Ritterは、WPP、Ferrovial、BigCommerceなど複数の世界企業で上級管
 ABBYYとABBYYのロゴは、ABBYY Software Ltd.の登録商標または商標です。本記事に記載されているその他の製品名は、各所有者の商標または登録商標の場合があります。
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 
@@ -50,8 +61,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -59,4 +68,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-capture-to-screen-advanced-editing-strategies-for-full-spherical-video-content-in-adobe-premiere-pro/"><u>[New] From Capture to Screen Advanced Editing Strategies for Full Spherical Video Content in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-in-note-taking-with-mematic-platform/"><u>[New] Innovate in Note-Taking with Mematic Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply/"><u>[New] Innovative Shooting Modes Smart HDR 3 & 4 Explained Simply</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-four-straightforward-methods-for-lenovo-screenshots/"><u>[Updated] 2024 Approved Four Straightforward Methods for Lenovo Screenshots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giggle-genesis-creepy-clones-with-a-smile/"><u>[Updated] Giggle Genesis Creepy Clones with a Smile</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mobile-guide-kickstarting-your-youtube-entrepreneurial-venture/"><u>[Updated] In 2024, Mobile Guide Kickstarting Your YouTube Entrepreneurial Venture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-video-editing-on-imac-with-m1-processor/"><u>2024 Approved Video Editing on iMac with M1 Processor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-spark-10-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Spark 10 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-framing-essentials-top-apps-and-websites-creators-for-2024/"><u>Image Framing Essentials Top Apps & Websites Creators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://win11.techidaily.com/open-local-group-policies-with-a-click-on-win11/"><u>Open Local Group Policies with a Click on Win11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-christmas-tunes-of-the-season-from-timeless-classics-to-fresh-hits-and-kid-friendly-melodies/"><u>Top Christmas Tunes of the Season: From Timeless Classics to Fresh Hits & Kid-Friendly Melodies</u></a></li>
+</ul></div>
 

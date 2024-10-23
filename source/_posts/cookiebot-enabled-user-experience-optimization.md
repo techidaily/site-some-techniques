@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Enabled User Experience Optimization
-date: 2024-08-22T06:09:42.172Z
-updated: 2024-08-23T06:09:42.172Z
+date: 2024-10-22T18:20:51.577Z
+updated: 2024-10-23T16:18:21.297Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee05a4b5b8a249fec882bec30.jpg
@@ -22,6 +22,13 @@ In this edition of our "Beyond the Job Title" interview series, we sat down with
 
 ![elizaveta-lagireva](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/elizaveta_lagireva.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza’s love for chess began in childhood when her father introduced her to the game. For her, chess is more than a game—it's a mental challenge that she embraces both competitively and leisurely, and which helps her recharge and stay focused at work. 
 
 ##### What made you choose chess, and how did you come across this activity? 
@@ -40,16 +47,10 @@ Liza finds solace in blitz games during breaks, describing them as a mental rech
 
 "Chess hones my strategic thinking, patience, and problem-solving skills. It helps me stay focused and approach complex challenges with a clear and calm mindset, which is invaluable as a Talent Acquisition Partner at ABBYY," she told us.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dmitry Golivets, Head of Application Software, Hungary 
 
 ![abbyy-greta-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/dmitry_golivets.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 Dmitry Golivets’ passion for Historical Medieval Battles (Buhurt) stems from his lifelong fascination with medieval history and combat sports. He sees this unique hobby as a physical and mental challenge that complements his professional responsibilities. 
 
 ##### What made you choose Buhurt, or Historical Medieval Battles, and how did it all start? 
@@ -64,13 +65,17 @@ Dmitry navigates the challenges of balancing his rigorous training schedule with
 
 Dmitry emphasized teamwork and resilience as key takeaways from Buhurt, essential for collaborative success and personal growth at ABBYY. "Medieval combat is the ultimate metaphor for teamwork. You must do your absolute best every single round or your teammates are going to feel the consequences of your failure on their skin, literally. Another aspect is the concept of going the extra mile. The first thing you realize when you put that armor on is that you are fighting against your own brain telling you to quit—the weight, the discomfort of movement, the lack of oxygen inside a helmet. And on top of that comes your opponent trying to take you down. Nobody gets to the finish line without falling. Picking yourself up and taking every fall as an opportunity to work on your mistakes is another great lesson of this sport." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tetiana Riznyk, Payroll and Benefits Administrator, Ukraine 
 
 ![tetiana-ryznik-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/tetiana_riznyk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 For Tetiana Riznyk, pysanka (Ukrainian Easter eggs painting) is more than a creative outlet; it’s a cultural tradition that connects her deeply to her heritage and brings joy through artistic expression. 
 
 ##### What made you choose this hobby, and how did you come across this activity? 
@@ -89,16 +94,17 @@ Tetiana’s patience and focus during the intricate process of creating pysanka 
 
 This meditative practice not only enhances her artistic skills but also fosters a sense of well-being and satisfaction, contributing positively to her ability to bring her best self to work at ABBYY. 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Sergey Kaginyan, Website Marketing Project Manager, Cyprus 
 
 ![sergey-abbyy-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/sergey_kaginyan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sergey Kaginyan’s passion for motorcycles is more than just a hobby; it’s a way of life that fuels his personal and professional growth. 
 
 ##### What made you choose motorcycles, and how did you come across this activity? 
@@ -122,8 +128,12 @@ The stories of Elizaveta, Dmitry, Tetiana, and Sergey remind us of the power of 
 ![common-abbyy-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-unique-passions-of-abbyy/image-2024-08-09-12-07-35-919.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 These unique hobbies not only provide moments of relaxation and rejuvenation but also equip our team members with valuable skills such as strategic thinking, teamwork, and creativity, which are essential in driving innovation and excellence in everything we do. 
 
 Interested in joining a team where individual passions are valued, and personal growth is encouraged? Explore career opportunities at ABBYY today and discover how you can contribute to our innovative culture. Visit [abbyy.com/careers](https://www.abbyy.com/company/careers/?itm%5Fsource=corpblog-en
@@ -179,8 +189,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +196,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-acquiring-the-latest-360-cameras/"><u>[New] Expert Advice on Acquiring the Latest 360 Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freeing-up-your-screen-time-which-video-player-prevails-vlc-or-mpc/"><u>[New] Freeing Up Your Screen Time Which Video Player Prevails, VLC or MPC?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-screen-shot-entire-page-view/"><u>[New] In 2024, Screen Shot Entire Page View</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-newbie-vlogger-tips-simple-video-concepts/"><u>[New] Newbie Vlogger Tips Simple Video Concepts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-scripts-to-screen-making-youtube-splits/"><u>[Updated] From Scripts to Screen Making YouTube Splits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-of-hue-adjustments-in-photoshop/"><u>[Updated] Fundamentals of Hue Adjustments in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-synopsis-gopro-slr4-sliver-camera-review/"><u>[Updated] In-Depth Synopsis GoPro SLR4 Sliver Camera Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-text-techniques-in-videos/"><u>[Updated] Innovative Text Techniques in Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70e-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70E Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-roundup-videonix-editors-capabilities/"><u>In 2024, Expert Roundup Videonix Editor's Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-footage-to-fortune-unveiling-the-secrets-of-sj-cam-s6/"><u>In 2024, From Footage to Fortune Unveiling the Secrets of SJ-CAM S6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-sound-to-sight-choosing-between-audio-and-video-media/"><u>In 2024, From Sound to Sight Choosing Between Audio and Video Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-use-preview-app-on-mac/"><u>In 2024, How to Use Preview App on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/integrating-obs-studio-for-optimal-android-performance/"><u>Integrating OBS Studio for Optimal Android Performance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-8s-proplus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/scoping-out-social-network-supporters/"><u>Scoping Out Social Network Supporters</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-updating-razer-naga-drivers-in-windows-os/"><u>Step-by-Step Guide to Downloading & Updating Razer Naga Drivers in Windows OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-color-composers-toolkit-3-innovative-methods-for-photo-enhancement/"><u>The Color Composer's Toolkit 3 Innovative Methods for Photo Enhancement</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-10-13T18:47:04.005Z
-updated: 2024-10-17T18:31:58.083Z
+date: 2024-10-19T17:58:50.510Z
+updated: 2024-10-23T18:15:09.266Z
 tags:
   - desktop
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
@@ -50,10 +50,10 @@ Microsoft/Gearbox
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
@@ -67,10 +67,10 @@ Microsoft/Gearbox
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
@@ -86,10 +86,10 @@ Microsoft/Gearbox
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  It Just Works (In Supported Games)
@@ -127,20 +127,22 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-30-webcams-elevating-audio-quality/"><u>[New] 2024 Approved Top 30 Webcams Elevating Audio Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-sprucing-up-photos-top-10-mobile-apps-list/"><u>[New] Expert Tips for Sprucing Up Photos Top 10 Mobile Apps List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-footage-to-fortune-unveiling-the-secrets-of-sj-cam-s6/"><u>[New] From Footage to Fortune Unveiling the Secrets of SJ-CAM S6</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-metaverse-laughter/"><u>[New] The Ultimate Guide to Metaverse Laughter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-movies-for-free-simple-video-player-software/"><u>[Updated] Explore Movies for Free Simple VIDEO Player Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-maximize-focus-with-enhanced-zoom-on-google-meet/"><u>[Updated] How to Maximize Focus with Enhanced Zoom on Google Meet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-video-edits-leveraging-kinemasters-techniques/"><u>2024 Approved Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-elon-musks-project-the-revolutionary-truthgpt-ai/"><u>Exploring Elon Musk’s Project: The Revolutionary TruthGPT AI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flip-clips-android-reversal-technique-for-2024/"><u>Flip Clips Android Reversal Technique for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-how-to-get-more-views-with-youtube-shorts/"><u>In 2024, How to Get More Views with YouTube Shorts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tigating-the-power-of-4-second-youtube-subscriptions/"><u>Investigating the Power of 4-Second YouTube Subscriptions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigate-your-newly-enjoyed-facebook-movies-with-this-2023-guide/"><u>Navigate Your Newly Enjoyed Facebook Movies with This 2023 Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/real-time-broadcast-at-your-fingertips-12-channels/"><u>Real-Time Broadcast at Your Fingertips - 12 Channels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-essentials-of-navigating-ez-grabber-interface-for-2024/"><u>The Essentials of Navigating EZ Grabber Interface for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oneplus-nord-3-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of OnePlus Nord 3 5G on Mac?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-centrino-advanced-n-6205-driver/"><u>[Download] Intel Centrino Advanced-N 6205 Driver</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mobile-media-upload-share-videos-on-twitter-without-retweeting/"><u>[Updated] In 2024, Mobile Media Upload Share Videos on Twitter Without Retweeting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-photos-pro-level-pixlr-techniques/"><u>[Updated] Revolutionize Your Photos Pro-Level Pixlr Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-under-the-waves-best-practices-in-underwater-filming-with-a-gopro/"><u>[Updated] Under the Waves Best Practices in Underwater Filming with a GoPro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-techniques-for-live-action-sims-playback/"><u>2024 Approved Advanced Techniques for Live-Action Sims Playback</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/continued-security-guaranteed-why-windows-10-remains-protected-beyond-2025-with-subscription-support/"><u>Continued Security Guaranteed: Why Windows 10 Remains Protected Beyond 2025 with Subscription Support</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/creating-the-ultimate-smart-home-experience-this-prime-day/"><u>Creating the Ultimate Smart Home Experience This Prime Day</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-delegates-top-youtube-creators-by-followers/"><u>Digital Delegates Top YouTube Creators by Followers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-license-code-a-step-by-step-guide/"><u>Discovering Your Windows 11 License Code: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/easy-instructions-for-starting-google-chrome-from-terminal-on-windows-11/"><u>Easy Instructions for Starting Google Chrome From Terminal on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effective-techniques-to-minimize-or-remove-taskbar-visibility-on-windows-10-systems/"><u>Effective Techniques to Minimize or Remove Taskbar Visibility on Windows 10 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-privacy-protonvpn-brings-cutting-edge-stealth-functionality-to-windows-platforms/"><u>Enhance Your Privacy: ProtonVPN Brings Cutting-Edge Stealth Functionality to Windows Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-access-real-time-weather-updates-right-from-your-windows-1011-lock-screen/"><u>Enhanced User Experience: Access Real-Time Weather Updates Right From Your Windows 10/11 Lock Screen!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-tech-savings-alert-grab-the-latest-apple-pencil-samsungs-galaxy-s2/"><u>Exclusive Tech Savings Alert: Grab the Latest Apple Pencil, Samsung's Galaxy S2</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-13c-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi 13C 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-7-apps-mais-comuns-para-edicao-de-videos-em-mobile-e-computador/"><u>Top 7 Apps Mais Comuns Para Edição De Vídeos Em Mobile E Computador</u></a></li>
 </ul></div>
 

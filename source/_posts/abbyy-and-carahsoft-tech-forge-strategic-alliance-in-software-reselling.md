@@ -1,7 +1,7 @@
 ---
 title: ABBYY and Carahsoft Tech Forge Strategic Alliance in Software Reselling
-date: 2024-08-22T06:07:08.622Z
-updated: 2024-08-23T06:07:08.622Z
+date: 2024-10-21T19:31:37.995Z
+updated: 2024-10-23T21:19:47.510Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bb47cd4fd3c3317200fd6a0408edf3404c84e0ce2b2a16adf3218bdf1eaafd6a.jpg
@@ -18,6 +18,13 @@ September 30, 2021
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 ![News Partners19](https://static4.abbyy.com/abbyycommedia/33833/news-partners19.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ABBYY Digital Intelligence Solutions Help Federal, State, Local, and Higher Education Organizations Improve the Citizen Experience
 
@@ -46,8 +53,12 @@ The growing list of government contracts for ABBYY include:
 Learn more about ABBYY’s Digital Intelligence solutions for the public sector at <https://www.abbyy.com/solutions/government/>.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY empowers organizations to gain a complete understanding of their business processes and the content that fuels them with its [Digital Intelligence](https://tools.techidaily.com/abbyy/products/) platform. ABBYY technologies are used by more than 5,000 companies, including many of the Fortune 500, and is recognized for its leadership in [Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/) (IDP) and [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) for driving significant impact where it matters most: customer experience, effectiveness, profitability, and competitive advantage. ABBYY is a global company with offices in 14 countries. For more information, visit [www.abbyy.com/company/about-us/](https://tools.techidaily.com/abbyy/products/).[](https://tools.techidaily.com/abbyy/products/)
@@ -55,15 +66,29 @@ ABBYY empowers organizations to gain a complete understanding of their business 
 ABBYY and the ABBYY Logo are either registered trademarks or trademarks of ABBYY Software Ltd. Other product names mentioned herein may be trademarks and/or registered trademarks of their respective owners and are hereby recognized.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### ABBYY editorial contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray, APR
 
 **ABBYY**
@@ -79,8 +104,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +111,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-handheld-film-smoother-companion-2022/"><u>[New] Handheld Film Smoother Companion 2022</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-seamless-image-transformations-with-our-6-best-erasers-online-for-2024/"><u>[New] Seamless Image Transformations with Our 6 Best Erasers Online for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>[Updated] Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-money-can-a-podcaster-make/"><u>[Updated] How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>2024 Approved Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-face-unlock-tech-iphone-xs-face-id-versus-samsung/"><u>2024 Approved Face Unlock Tech IPhone X's Face ID Versus Samsung'</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-vrs-winning-features-and-faults/"><u>2024 Approved In-Depth Review VR's Winning Features & Faults</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/6-types-of-videos-that-will-hook-your-viewers-for-2024/"><u>6 Types of Videos That Will Hook Your Viewers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/find-your-perfect-editor-top-15-budget-friendly-online-solutions/"><u>Find Your Perfect Editor Top 15 Budget-Friendly Online Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-your-tiktok-storytelling-with-effects/"><u>In 2024, Innovate Your TikTok Storytelling with Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-quick-reference-for-mac-writers-obsplusstreamlabs/"><u>In 2024, The Ultimate Quick Reference for Mac' Writers OBS+Streamlabs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-a51-5g-exceptional-value-in-the-5g-market/"><u>In-Depth Analysis of the Samsung Galaxy A51 5G - Exceptional Value in the 5G Market</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-study-of-the-dji-inspire-1-drone/"><u>In-Depth Study of the DJI Inspire 1 Drone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/malware-alert-the-reality-behind-chatgpt-windows-clients-and-how-to-protect-yourself/"><u>Malware Alert: The Reality Behind 'ChatGPT Windows Clients' And How to Protect Yourself</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/prime-zero-dollar-webcam-recorder-app-for-2024/"><u>Prime Zero-Dollar Webcam Recorder App for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-security-settings-through-gpo/"><u>Unveiling Windows Security Settings Through GPO</u></a></li>
+</ul></div>
 

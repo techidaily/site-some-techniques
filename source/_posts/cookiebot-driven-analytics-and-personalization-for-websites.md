@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Analytics & Personalization for Websites
-date: 2024-08-22T06:07:21.624Z
-updated: 2024-08-23T06:07:21.624Z
+date: 2024-10-21T16:30:19.396Z
+updated: 2024-10-23T20:41:48.835Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2813317b01db0f7c4ae52564fdce492f88f0016328d542565dd1aa28d152d580.jpg
@@ -19,15 +19,36 @@ Other | Accounts Payable Automation
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ABBYY Helps Adactus Improve Its Purchase Order Processes
 
 Other | Accounts Payable Automation 
 
 ![](https://static1.abbyy.com/abbyycommedia/15312/cs-adactus-556x303-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Adactus Housing Group](https://static2.abbyy.com/abbyycommedia/14441/adactus_155x80.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name                  | Adactus Housing Group                                          |
 | --------------------- | -------------------------------------------------------------- |
@@ -112,6 +133,13 @@ With this solution, Adactus has increased budgetary control and full oversight o
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/15311/cs-adactus-360x162-2.jpg)](https://static1.abbyy.com/abbyycommedia/7347/case-study-adactus-2-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7347/case-study-adactus-2-real-estate-en.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [read more](https://static1.abbyy.com/abbyycommedia/7347/case-study-adactus-2-real-estate-en.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -122,9 +150,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -137,8 +162,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +169,22 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-game-changer-how-bandicams-2023-update-transforms-capturing-games/"><u>[New] 2024 Approved A Game Changer How Bandicam's 2023 Update Transforms Capturing Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-seamless-addition-youtube-videos-into-google-slides-for-2024/"><u>[Updated] Seamless Addition YouTube Videos Into Google Slides for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-text-editing-with-ae-presets/"><u>2024 Approved Excellence in Text Editing with AE Presets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-audio-recording-on-windows-10-part-1/"><u>2024 Approved Expert Audio Recording on Windows 10, Part 1</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>2024 Approved Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-impact-best-practices-for-podcast-graphics/"><u>2024 Approved Infusing Impact Best Practices for Podcast Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide-for-2024/"><u>Exploring the Seven Superior Water-Tough Cams Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fainter-frequencies-for-pc-and-mac-harmony-for-2024/"><u>Fainter Frequencies for PC & Mac Harmony for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/grand-adventures-await-in-yokus-island-express-an-seo-title-guide/"><u>Grand Adventures Await in Yoku's Island Express - An SEO Title Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a79-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A79 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/leading-edge-vr-game-development-technology-2023-edition/"><u>Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rless-challenge-to-dslr-who-wins-in-video-for-2024/"><u>Mirrorless Challenge to DSLR Who Wins in Video for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/terminal-talk-2023-interfacing-chatgpt-using-shellgpt/"><u>Terminal Talk 2023: Interfacing ChatGPT Using ShellGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-organizing-a-memorable-karaoke-party-at-home/"><u>The Ultimate Guide to Organizing a Memorable Karaoke Party at Home</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
+</ul></div>
 

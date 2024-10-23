@@ -1,7 +1,7 @@
 ---
 title: "Navigate the Future of Intelligent DocuProcessing: Discover ABBYY Within Everest Group’s PEAK Matrix for Top-Tier Assessment in 2#"
-date: 2024-08-22T06:08:01.333Z
-updated: 2024-08-23T06:08:01.333Z
+date: 2024-10-20T21:32:52.057Z
+updated: 2024-10-23T17:11:53.948Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9bf3ddc744f9f9ddbc0ddf17.jpg
@@ -30,8 +30,6 @@ Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has be
 Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has been licensed to ABBYY Intelligent Document Processing (IDP) Products PEAK Matrix ® Assessment 2024 9 ABBYY profile (page 5 of 6) Capabilities and offerings Available In the roadmap Available via partner Not available Commercial model Perpetual licensing Subscription licensing Fixed capacity-based Usage-based (per document) Usage-based (per page) Per process based Outcome-based Hybrid models 
 
 Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has been licensed to ABBYY Intelligent Document Processing (IDP) Products PEAK Matrix ® Assessment 2024 10 Measure of capability: High Low Market impact Vision and capability Market adoption Portfolio mix Value delivered Overall Vision and strategy Document processing capability Monitoring and improvement Implementation and support Commercial model Overall Overall IDP Strengths  ABBYY's IDP offering, ABBYY Vantage and FlexiCapture, offers the capabilities to process structured and unstructured documents with a no-code/low-code approach. ABBYY also provides its proprietary OCR (FineReader), process intelligence solution (Timeline), and partners with a large number of complementary technology providers  It offers HITL feature for feedback-based learning of the model and has the ability to leverage generative AI for software learning and training and synthetic data generation for training ML models. Clients appreciate its ease of use in terms of training the model  ABBYY provides an online marketplace for pre-built models or skills, custom solution packages, and third- party connectors. Clients have also appreciated the breadth of the marketplace  The solution has the ability to provide domain-specific training data for entity recognition and the ability for business users to add, configure, and manage validation rules using external data  It leverages generative AI to recognize sentiments from text, summarize documents, extract key-value pairs from complex documents, and compare documents. It also offers a pre-built connector with generative AI/LLMs including ChatGPT  It can be deployed on-premises, cloud, and hybrid environments. It is also available as a SaaS offering and supports multi-tenant operations. Clients highlighted its cloud offering as one of its strengths Limitations  ABBYY has rich experience in serving clients from banking and capital markets, public sector, professional services, and manufacturing. Its experience in serving hi-tech and telecom, media and entertainment, CPG and retail, and travel and logistics sectors is relatively low  Though the platform offers semantic search capabilities for scanned documents and PDFs, the ability to query documents in Q&A fashion using generative AI is currently not available and is in the roadmap  Its ability to predict the likelihood of future events (e.g., loan default) based on understanding of the document is in the roadmap  Currently, ABBYY Vantage does not offer a chat interface to answer user queries around analytics and reports generation by leveraging generative AI/LLM  Clients expect ABBYY to improve reporting capabilities, especially for Straight Through Processing (STP) rate, to help users know when manual verification of a document can be skipped  Clients wish to see improvement in its query resolution time and ease of version control. They also expect ABBYY to add more pre-trained models for banking use cases ABBYY profile (page 6 of 6) Everest Group overall IDP assessment – Leader 
-
-
 
 [Everest Group Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2024](https://www.abbyy.com/hub/vantage/everest-group-names-abbyy-leader-in-its-2024-peak-matrix-assessment/?page=1 "Page 1")
 
@@ -99,8 +97,6 @@ Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,8 +104,28 @@ Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has be
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-budding-filmmakers-best-gopro-upgrades/"><u>[New] Budding Filmmakers Best GoPro Upgrades</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-roadmap-to-crafting-a-dynamic-youtube-presence-for-enterprise-and-individuals-for-2024/"><u>[New] The Roadmap to Crafting a Dynamic YouTube Presence for Enterprise & Individuals for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-renowned-20-free-public-domain-pubg-sets/"><u>[Updated] Renowned 20 Free, Public Domain PUBG Sets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-seamlessly-navigate-to-youtube-video-comments-for-2024/"><u>[Updated] Seamlessly Navigate to YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluation-the-advantages-and-challenges-in-samsung-photo-tools/"><u>2024 Approved Evaluation The Advantages & Challenges in Samsung Photo Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaining-unauthorized-entry-to-c-spans-vault/"><u>2024 Approved Gaining Unauthorized Entry to C-Span's Vault</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-optimize-your-browsing-with-ffxp/"><u>2024 Approved How to Optimize Your Browsing with FFXP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-snip-save-and-share-high-quality-tamil-ringtones-easily/"><u>2024 Approved How to Snip, Save and Share High-Quality Tamil Ringtones Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-quality-leading-4k-panels-for-filmmaking-for-2024/"><u>Excellence in Quality Leading 4K Panels for Filmmaking for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/high-quality-live-streaming-games-via-obs-for-2024/"><u>High-Quality Live Streaming Games via OBS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixels-of-peaceful-tales-video-critique/"><u>In 2024, Pixels of Peaceful Tales Video Critique</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-new-version-of-wacom-digital-sketchpad-control-program/"><u>Secure New Version of Wacom Digital Sketchpad Control Program</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solving-the-configuration-file-missing-error-in-vmware/"><u>Solving the 'Configuration File Missing' Error in VMware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-creative-potential-write-faster-and-smarter-with-hixs-gpt-4-technology/"><u>Unleash Creative Potential: Write Faster and Smarter with Hix's GPT-4 Technology</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

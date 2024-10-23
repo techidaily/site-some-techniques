@@ -1,7 +1,7 @@
 ---
 title: Wie Deloitte Die Funktionalität Ihres eDiscovery Suites Erweitert
-date: 2024-08-22T06:11:47.771Z
-updated: 2024-08-23T06:11:47.771Z
+date: 2024-10-17T21:59:55.271Z
+updated: 2024-10-23T19:15:56.892Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
@@ -18,6 +18,13 @@ Consulting | BPO/Service Providers | PDF and Document Conversion
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/70285.png?h=40&iar=0&w=120)
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Deloitte erweitert die Möglichkeiten ihrer eDiscovery-Suite mithilfe von ABBYY Recognition Server
 
@@ -81,9 +88,23 @@ Mit der neuen, nahtlos eingebundenen Lösung können Dokumente in der eDiscovery
 
 [![14-bpo](https://static2.abbyy.com/abbyycommedia/14364/14-bpo.jpg)](https://tools.techidaily.com/abbyy/products/) [BPOs und Outsourcing-Dienstleiter](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![cs-hendre-360x162-2](https://static2.abbyy.com/abbyycommedia/15275/cs-hendre-360x162-2.jpg)](https://static3.abbyy.com/abbyycommedia/7351/fallstudie-deloitte-consulting-de.pdf "PDF-Version") [PDF-Version](https://static3.abbyy.com/abbyycommedia/7351/fallstudie-deloitte-consulting-de.pdf "PDF-Version") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Zum Dokument](https://static3.abbyy.com/abbyycommedia/7351/fallstudie-deloitte-consulting-de.pdf "PDF-Version") 
 
@@ -92,8 +113,12 @@ Mit der neuen, nahtlos eingebundenen Lösung können Dokumente in der eDiscovery
 Teilen  True ?  : "" 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -106,8 +131,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +138,24 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-pick-the-top-10-video-capture-tools-for-windows/"><u>[New] 2024 Approved Prime Pick The Top 10 Video Capture Tools for Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-whatsapp-call-data-a-compreayers-guide-for-2024/"><u>[New] Capturing WhatsApp Call Data A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-seamless-screen-sequences-cycle-youtube-on-your-television/"><u>[New] In 2024, Seamless Screen Sequences Cycle YouTube on Your Television</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-poco-x5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Poco X5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-camera-plugin/"><u>Live Streaming Mastery with ManyCam: Top Virtual Camera Plugin</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-insurgency-sandstorm-fixes-and-tips-to-stop-unexpected-crashes-now/"><u>Mastering Insurgency: Sandstorm - Fixes and Tips to Stop Unexpected Crashes Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-conversion-tracking-using-the-powerful-features-of-cookiebot-technology/"><u>Optimized Conversion Tracking Using the Powerful Features of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revealing-hidden-insights-into-effective-digital-evolution-tactics/"><u>Revealing Hidden Insights Into Effective Digital Evolution Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-data-insights-and-personalization-with-state-of-the-art-cookiebot-solutions/"><u>Revolutionizing Data Insights and Personalization with State-of-the-Art Cookiebot Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-energy-companies-finance-with-abbyys-advanced-invoice-processing-technology-for-improved-profitability-and-management/"><u>Revolutionizing Energy Companies’ Finance With ABBYY’s Advanced Invoice Processing Technology for Improved Profitability and Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/rpa/"><u>RPA強化のための包括的プロセス洞察力プラットフォームの最適化</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-checklist-for-achieving-high-quality-vocal-recordings/"><u>The Ultimate Checklist for Achieving High-Quality Vocal Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transform-your-images-into-editable-text-on-iphone-using-pdfscanpro-app/"><u>Transform Your Images Into Editable Text on iPhone Using PDFScanPro App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transformation-von-herkommlichen-zu-digitalisierten-geschaftsmodellen-durch-automation/"><u>Transformation Von Herkömmlichen Zu Digitalisierten Geschäftsmodellen Durch Automation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-process-mining-when-does-it-fall-short-insights-from-industry-experts-at-abbyy/"><u>Understanding Process Mining - When Does It Fall Short? Insights From Industry Experts at ABBYY</u></a></li>
+</ul></div>
 

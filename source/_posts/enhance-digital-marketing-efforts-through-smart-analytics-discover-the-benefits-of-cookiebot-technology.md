@@ -1,7 +1,7 @@
 ---
 title: Enhance Digital Marketing Efforts Through Smart Analytics - Discover the Benefits of Cookiebot Technology
-date: 2024-08-22T06:07:40.819Z
-updated: 2024-08-23T06:07:40.819Z
+date: 2024-10-20T21:46:46.583Z
+updated: 2024-10-23T20:22:11.925Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3cbb50495af3357fea0a04a08.png
@@ -35,18 +35,6 @@ OCRとはOptical Character Recognitionの略で、光学文字認識とも呼ば
 
 ここからは特に、RPA, DXで利用されている帳票OCRについて、ソリューション選択時の評価ポイントについて触れたいと思います。
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 帳票処理ソリューションの評価ポイント
 
 帳票処理ソリューションを選択する際、評価ポイントとして何に注目されてますでしょうか？多くの方がOCRの認識精度をまず第一に挙げられるのではないでしょうか。実は、これはとても危険です。弊社でも、これまで認識精度に着目してOCR帳票処理ソリューションを選定した結果、思うように導入効果が出ず何とかしてほしい、といった相談を頂戴することが多数ありました。なぜこのようなことが起こるのでしょうか。以下では、主な原因について説明いたします。
@@ -59,9 +47,6 @@ OCRとはOptical Character Recognitionの略で、光学文字認識とも呼ば
 
 ![AI OCR](https://static1.abbyy.com/abbyycommedia/29415/solcial-media-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##### ROI（費用対効果）について
 
 上記プロセスを想定するとご理解いただけるかと思いますが、実は文字毎のOCR認識精度が数％違っても全体のROIへの影響はほとんどありません。それよりも、仕分け・項目抽出等トータルでの精度、確認・修正のしやすさ、他システム連携のしやすさ、処理スピード性能等、プロセス全体で効率化が図られるかを評価する必要があります。
@@ -76,6 +61,13 @@ OCRとはOptical Character Recognitionの略で、光学文字認識とも呼ば
 * 他システム連携性（必要な場合）
 * 開発・メンテナンスコスト
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ABBYY FlexiCaptureの強み
 
 帳票処理ソリューション選択時の評価ポイントをふまえ、FlexiCaptureの評価が特に高いポイントについてご紹介いたします。
@@ -89,16 +81,16 @@ OCRとはOptical Character Recognitionの略で、光学文字認識とも呼ば
 ![AI OCR](https://static1.abbyy.com/abbyycommedia/29417/forms-image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [例2: 帳票のレイアウトが異なる複数ページにわたる明細の読み取り](https://tools.techidaily.com/abbyy/products/)
 
 ![AI OCR](https://static1.abbyy.com/abbyycommedia/29416/forms-image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### 簡単かつ高精度な仕分け機能
 
 先程お話しした通り、自動仕分けの精度はプロセス全体に大きな影響を与えます。
@@ -106,6 +98,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ABBYY FlexiCaptureには簡単な操作で高精度な仕分けを実現する機能があり、世界中で利用されています。数百～数千の帳票仕分けの実績が多数ございます。
 
 [例3: AIで高精度な自動文書仕分け](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 柔軟にカスタマイズ可能な検証ツールやワークフロー
 
@@ -130,18 +129,18 @@ FlexiCaptureの大きな特徴として、様々なシステム・アプリケ�
 [例7: 外部手書きエンジンとの連携](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### まとめ
 
 本コラムでは、帳票処理ソリューション選択、導入時の評価ポイントについて紹介しました。これらのポイントを踏まえ、適切なソリューションを選定することが非常に重要となります。また評価にあたり、[ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) が選択肢となるような場合は、是非弊社までご連絡頂ければ幸いです。
 
 [OCR（文字認識）](https://tools.techidaily.com/abbyy/products/) [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) [AI（人工知能）](https://tools.techidaily.com/abbyy/products/) [AI OCR](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -196,8 +195,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +202,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-game-changer-elevating-your-virtual-reality-film-quality-for-2024/"><u>[New] The Game Changer Elevating Your Virtual Reality Film Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-your-channels-viewer-count-12-must-try-approaches/"><u>[Updated] In 2024, Boosting Your Channel's Viewer Count - 12 Must-Try Approaches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framework-for-visual-storytelling/"><u>2024 Approved Framework for Visual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-flat-panes-to-360-viewing-a-vr-comparison/"><u>2024 Approved From Flat Panes to 360 Viewing A VR Comparison</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-fade-music-on-windowsmac/"><u>2024 Approved How to Fade Music on Windows/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-action-into-photos-using-illustrators-features/"><u>2024 Approved Infusing Action Into Photos Using Illustrator's Features</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-methods-combining-wav-audio-tracks-seamlessly/"><u>Effortless Methods: Combining WAV Audio Tracks Seamlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-conceptualization-to-connection-stream-your-video-now-for-2024/"><u>From Conceptualization to Connection Stream Your Video Now for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-tabletop-adventures-integrating-chatgpt-into-dandd-gameplay/"><u>Mastering Tabletop Adventures: Integrating ChatGPT Into D&D Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-changing-your-mac-folder-colors/"><u>Step-by-Step Guide: Changing Your Mac Folder Colors</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating Effective Alt Tags with Free AI Text Generation Software
-date: 2024-10-11T18:04:59.194Z
-updated: 2024-10-17T16:46:39.277Z
+date: 2024-10-17T17:27:29.018Z
+updated: 2024-10-23T16:51:08.639Z
 tags:
   - cutting-edge
 categories:
@@ -25,19 +25,6 @@ Perhaps you’ve heard of AI-driven web tools like the [Bing AI Image Creator](h
 
  Be cautious about uploading sensitive images to any website. It is important to remember that images uploaded to any of these websites will be processed by that site according to their policies and procedures, and there is no guarantee that your privacy will be protected.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which One is Most Useful?
 
  If we want to be able to share images with useful alt text quickly, which of these AI-driven tools might help? Each of the AI-driven text generators has its own way of processing a picture and interpreting the image. There are four main AI alternative text generators that came up when I did some research. To experiment with each one of the four options, I used a public domain image of a tree from Wikimedia to see how each of the alt-text creators handled describing the photo.
@@ -54,22 +41,36 @@ ahrefs
 
 ![List of descriptions of a tree image given as options by the ahrefs alternative text generator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-01-at-6-58-34-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ahrefs
 
  In the end, I found that the “Middle School” voice was the most useful and efficient. The Ahrefs alt text generator gave me this: “A tall pine tree standing in a park with green grass and blue sky in the background.” This is a more useful and accurate description for a screen reader or an image replacement if the picture is missing.
 
 ![The landing page for Microsoft Bing Copilot with an entry field to chat with Copilot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-12-at-9-01-51-am.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft Bing Copilot
 
-### 
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 
 
 ###  Bing Copilot Needs a Little Guidance
 
@@ -79,13 +80,6 @@ Microsoft Bing Copilot
 
 ![A screenshot in which Bing Copilot returns three descriptive sentences about a picture of a tree](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-12-at-9-05-03-am.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft Bing Copilot
 
  For one thing, this lovely little essay is much too long. While it may give a pretty depiction of my image of a tree, it's repetitive and may not fit in an alt text field. To its credit, Copilot did mention the fence and the old stone wall as well as the time of day, which is great for anyone who can't see the image but wants to know the details.
@@ -93,6 +87,13 @@ Microsoft Bing Copilot
  The nice thing about working with a chatbot is that I can ask it to shorten the description, which is what I did. I said, "Give me shorter alternative text for this image", and Bing Copilot delivered! I received, "A tall green tree against a blue sky, casting shadows on the grass below", an excellent, helpful, and succinct alt text. Microsoft Bing Copilot is a great free tool for making alt text for your photos, if you don't mind doing a little bit of coaching to make sure the description is shorter.
 
 ![The front page of an upload form on Alttext.in Alt Text Generator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-02-at-3-55-06-pm.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Alttext.in
 
@@ -103,22 +104,15 @@ Alttext.in
 ![The landing page of Alttext.in with a tree photo uploaded and a description generated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-02-at-4-07-17-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Alttext.in
 
  True to its promise, Alttext.in delivered a quick, accessible experience with a picture summary to match. Once you copy the text that was generated, you can click Reset and go again. The site is free, lightweight, and accurate. There were no downsides that I could see.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  If You Have ChatGPT Plus, It's Even Easier
 
@@ -139,14 +133,24 @@ Alttext.in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-examining-the-impact-of-aurora-on-home-entertainment/"><u>[New] Examining the Impact of Aurora on Home Entertainment</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-boost-your-youtube-facebook-integration-with-hd-streams/"><u>[Updated] Boost Your YouTube-Facebook Integration with HD Streams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-cutting-edge-chroma-techniques-for-kinemaster/"><u>2024 Approved Expert Insights Cutting-Edge Chroma Techniques for KineMaster</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-movie-talent-release-declaration/"><u>2024 Approved Free Movie Talent Release Declaration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-disseminate-vimeo-videos-widely/"><u>In 2024, Disseminate Vimeo Videos Widely</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-optimizing-sticker-eradication-on-tiktok/"><u>In 2024, In-Depth Analysis Optimizing Sticker Eradication on TikTok</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-x3daudiodll-file-absentnot-detected-issues/"><u>Solutions for Resolving 'X3DAudio.dll' File Absent/Not Detected Issues</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-overview-dynamic-team-based-shooter-with-unparalleled-fun-factor/"><u>Top Overview: Dynamic Team-Based Shooter with Unparalleled Fun Factor</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unlocking-windows-secrets-how-a-microsoft-internal-test-tool-reveals-hidden-functionality-insights-from-zdnet/"><u>Unlocking Windows Secrets: How a Microsoft Internal Test Tool Reveals Hidden Functionality - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-performance-of-dji-raptor-eyewear/"><u>[New] Examining Performance of DJI Raptor Eyewear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-picshots-magic-for-quick-photo-cohesion/"><u>[New] Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-handle-previewed-activities-on-facebook/"><u>[New] How to Handle Previewed Activities on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-haptic-feedback-devices-providers/"><u>[Updated] Foremost Haptic Feedback Devices Providers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-windows-11-dvd3mp4aviwmv/"><u>1. 最佳Windows 11 DVD转码器列表:选择3家免费软件转换MP4、AVI、WMV格式</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/15-recommended-stop-motion-films-of-all-time-for-2024/"><u>15 Recommended Stop Motion Films of All Time for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-power-play-is-sns-the-best-option/"><u>2024 Approved HDR Power Play Is SNS the Best Option?</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1728502311579-ssd/"><u>最新のバックアップ術を学ぶ：外付けSSDの完全取扱いマニュアル</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/broadcasting-hidden-voices-on-instagram-live-for-2024/"><u>Broadcasting Hidden Voices on Instagram Live for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-seamless-integration-of-pip-in-microsoft-edge-for-2024/"><u>Expert Tips for Seamless Integration of PIP in Microsoft Edge for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-detection-failed-missing-intel-component/"><u>Hardware Detection Failed: Missing Intel Component</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing-for-2024/"><u>How to Pick a Perfect Virtual Reality Device Is Wireless Vision or Connected Content More Appealing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-8-support-systems-for-high-res-4k-cameras-for-2024/"><u>Ideal 8 Support Systems for High Res 4K Cameras for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-techniques-for-capturing-and-storing-android-and-mac-snaps/"><u>In 2024, Techniques for Capturing and Storing Android & Mac Snaps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-editing-basics-unveiled-dive-into-lunapic/"><u>Photo Editing Basics Unveiled Dive Into LunaPic</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sound-engineering-simplified-gradual-diminishment-in-lumafusion-for-2024/"><u>Sound Engineering Simplified Gradual Diminishment in Lumafusion for 2024</u></a></li>
 </ul></div>
 

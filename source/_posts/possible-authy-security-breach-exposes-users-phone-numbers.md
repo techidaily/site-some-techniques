@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2024-10-18T18:06:02.753Z
-updated: 2024-10-23T17:43:18.376Z
+date: 2024-10-25T17:27:09.219Z
+updated: 2024-10-29T17:10:37.585Z
 tags:
   - web
 categories:
@@ -38,21 +38,29 @@ Authy is one of the best authentication services out there, as well as one of th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-imovies-automated-size-control/"><u>[Updated] Exploring iMovie's Automated Size Control</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-definition-spectacle-top-ten-4ks/"><u>[Updated] High Definition Spectacle – Top Ten 4Ks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/geen-kosten-converteren-van-mov-naar-avi-formaat-online-met-convertmovtoavi/"><u>Geen Kosten! Converteren Van MOV Naar Avi Formaat Online Met ConvertMOVtoAVI</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-nord-n30-se-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus Nord N30 SE Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-horizon-unveiled-an-elite-list-of-online-sky-sites/"><u>In 2024, HDR Horizon Unveiled An Elite List of Online Sky Sites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highpoint-artist-suite-evaluation/"><u>In 2024, Highpoint Artist Suite Evaluation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-connectivity-issues-the-ultimate-guide-for-ralink-rt3290-drivers-on-various-windows-versions/"><u>Solving Connectivity Issues: The Ultimate Guide for Ralink RT3290 Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-turn-off-youtube-preview-in-one-easy-step-guide/"><u>[New] 2024 Approved Turn Off YouTube Preview in One Easy Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-20plus-funny-memes-of-virtual-universes/"><u>[New] Exploring 20+ Funny Memes of Virtual Universes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[New] From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>[New] From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-detailed-steps-to-supercharge-your-youtube-audio-content/"><u>[Updated] 2024 Approved Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-melodic-selections-for-video-editing/"><u>[Updated] Exclusive Melodic Selections for Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>[Updated] From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-review-of-lg-bp350-from-screen-brightness-to-audio-output/"><u>[Updated] Full Review of LG BP350 - From Screen Brightness to Audio Output</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-res-videos-2024s-finest-camcorders-ranked/"><u>[Updated] High-Res Videos 2024'S Finest Camcorders Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-photos-master-the-art-of-adding-motion-blur-effects/"><u>[Updated] Pro Photos Master the Art of Adding Motion Blur Effects</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-hdr-workflows-for-aspiring-pros/"><u>In 2024, Comprehensive HDR Workflows for Aspiring Pros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-av1-coders/"><u>In 2024, First Steps in AV1 Coders</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-filmora-x-takes-a-leap-introducing-arm-support/"><u>New 2024 Approved Filmora X Takes a Leap Introducing ARM Support</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pierce-through-darkness-essential-techniques-to-brighten-iphone-vids-for-2024/"><u>Pierce Through Darkness Essential Techniques to Brighten iPhone Vids for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tiktok-number-modification-easy-to-follow-steps-for-2024/"><u>TikTok Number Modification Easy to Follow Steps for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-choosing-a-high-quality-nintendo-switch-earpiece/"><u>Ultimate Guide to Choosing a High-Quality Nintendo Switch Earpiece</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Smart App Control in Windows 11: Activation Steps Explained"
-date: 2024-10-22T17:16:05.953Z
-updated: 2024-10-23T22:11:17.405Z
+date: 2024-10-27T17:19:16.314Z
+updated: 2024-10-29T16:17:59.205Z
 tags:
   - deals
 categories:
@@ -41,14 +41,14 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ![Smart App Control Evaluation mode selected in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-screen-windows-security-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the evaluation is complete, if Windows thinks SAC can work without too many interruptions on your system, it's automatically turned on. If not, it's disabled.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn On Smart App Control
 
@@ -58,30 +58,37 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ![Windows 11 Privacy & security settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-privay-security-screen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click "Open Windows Security" to launch the Windows Security app.
 
 ![Windows 11 Settings app showing Open Windows Security option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-open-windows-security-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Windows Security, select the "App & Browser Control" tab. Then, beneath "Smart App Control", click "Smart App Control Settings".
 
 ![App and Browser Control tab selected in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-security-app-browser-control-tab-selected-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select "On" to enable Smart App Control on your Windows device. Once enabled, SAC starts monitoring and blocks any suspicious app execution on your computer.
 
 ![Smart App Control turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-turned-on-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Force Enable Smart App Control Using the Registry Editor
@@ -102,35 +109,15 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 ![Windows 11 Registry Editor showing the 'VerifiedAndReputablePolicyState' value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-registry-editor-showing-smart-app-control-policy.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "Value Data" field, type 1 to enable Smart App Control and click "OK" to save the changes. Alternatively, type 2 to put SAC in Evaluation mode, or 0 to turn it off. You need to relaunch the Windows Security app to apply the changes.
 
 ![Changing VerifiedAndReputablePolicyState value in Registry Editor to 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/changing-verifiedandreputablepolicystate-value-in-registry-editor-to-1-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Turn Off Smart App Control
@@ -140,6 +127,13 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
  Open the Start menu, search for "Smart App Control", and select the matching result.
 
 ![Smart App Control in Windows 11 search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-in-windows-11-search.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Within the Smart App Control window, select "Off."
 
@@ -168,20 +162,20 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-replacement-for-magixs-acid-pro/"><u>[New] Finding the Best Replacement for Magix's ACID Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-5-low-cost-solar-panels-powering-your-tech/"><u>[New] In 2024, Top 5 Low-Cost Solar Panels Powering Your Tech</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-ppc-advertising-essential-guidance-for-newbies-on-social-platforms/"><u>[New] Navigating the World of PPC Advertising Essential Guidance for Newbies on Social Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-duo-of-photo-and-sound-capture-software/"><u>[Updated] High-Quality Duo of Photo & Sound Capture Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-pursuit-of-perfection-a-complete-sj-cam-s6-review/"><u>[Updated] In Pursuit of Perfection A Complete SJ-CAM S6 Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-earning-potential-with-youtube-shorts-crucial-elements-possible-returns-for-2024/"><u>[Updated] Unlocking Earning Potential with Youtube Shorts Crucial Elements, Possible Returns for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphoneandroid-blur-application-guide/"><u>2024 Approved Expert iPhone/Android Blur Application Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-car-news-update-potential-launch-timeline-price-estimates-and-revolutionary-features-explored/"><u>Apple Car News Update: Potential Launch Timeline, Price Estimates, and Revolutionary Features Explored</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-venintanddev33a0-drive-errors/"><u>Correcting VEN_INT&DEV_33A0 Drive Errors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-spend-on-youtube-campaigns-for-2024/"><u>Evaluating Spend on YouTube Campaigns for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-steams-storage-manager-to-quickly-manage-your-games/"><u>How to Use Steam’s Storage Manager to Quickly Manage Your Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-14-animated-text-display-cases-for-2024/"><u>Innovative 14 Animated Text Display Cases for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-windows-slide-show-setup-7-essential-steps/"><u>Instant Windows Slide Show Setup: 7 Essential Steps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pioneering-video-sharing-techniques-in-zoom-and-tiktok-for-2024/"><u>Pioneering Video Sharing Techniques in Zoom and TikTok for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-100-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor 100 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hacking-youtube-success-peak-audience-engagement-timing/"><u>[New] 2024 Approved Hacking YouTube Success Peak Audience Engagement Timing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-add-border-to-instagram-video-3-ways/"><u>[New] In 2024, How to Add Border to Instagram Video? [3 Ways]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fortified-process-for-adding-tiktok-profile-hyperlinks/"><u>[Updated] Fortified Process for Adding TikTok Profile Hyperlinks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-does-imovie-set-dimensions/"><u>[Updated] How Does iMovie Set Dimensions?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-at-your-fingertips-complimentary-toolset/"><u>[Updated] Humor at Your Fingertips - Complimentary Toolset</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-practical-methods-for-capturing-vimeo-media-for-2024/"><u>[Updated] Practical Methods for Capturing Vimeo Media for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quickscreen-freeze-methods-manual/"><u>[Updated] QuickScreen Freeze Methods Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/continued-two-figure-expansion-abbyys-successful-annual-performance-over-three-years/"><u>Continued Two-Figure Expansion: ABBYY's Successful Annual Performance Over Three Years</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-srt-to-subc-efficient-conversion-tactics-for-2024/"><u>From SRT to SUBC Efficient Conversion Tactics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hidden-elements-the-photoshop-anonymity-guide-for-2024/"><u>Hidden Elements The Photoshop Anonymity Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-grove-memetic-magic-for-all-ages/"><u>In 2024, Giggle Grove Memetic Magic for All Ages</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/konverteren-van-3g2-naar-mp4-heuristisch-gratis-online-oplossing-met-movavi/"><u>Konverteren Van 3G2 Naar MP4 Heuristisch: Gratis Online Oplossing Met Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meet-the-future-of-sleek-super-light-monitors-with-vaios-groundbreaking-visionplus-14/"><u>Meet the Future of Sleek, Super-Light Monitors with Vaio's Groundbreaking Vision+ 14</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-streamers-selection-the-best-websites-for-2024/"><u>Prime Streamers' Selection The Best Websites for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-correcting-livekernelevent-error-code-117/"><u>Step-by-Step Solution: Correcting LiveKernelEvent Error Code 117</u></a></li>
 </ul></div>
 

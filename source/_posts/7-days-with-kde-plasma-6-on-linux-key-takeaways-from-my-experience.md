@@ -1,7 +1,7 @@
 ---
 title: "7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience"
-date: 2024-10-20T20:52:10.847Z
-updated: 2024-10-23T21:11:03.040Z
+date: 2024-10-24T17:51:29.633Z
+updated: 2024-10-29T16:11:47.356Z
 tags:
   - desktop
 categories:
@@ -23,10 +23,16 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 * [Will I Stick With Plasma 6.0?](https://facebook-video-content.techidaily.com/in-2024-exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -53,16 +59,16 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  With [Plasma 6.0 recently released](https://instagram-video-recordings.techidaily.com/new-professional-thumbnails-for-engaging-igtv-posts/), it seemed like a great time to take a serious look at it. I used Plasma exclusively for a week, and this is how it went.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  First Impressions
@@ -72,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  My initial impression was Plasma looked great.
 
 ![The KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -90,11 +89,31 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 desktop with several windows open and a panel thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-6.png) 
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  By default, Plasma windows have their close, minimize, and maximize icons on the top right, and a small application icon on the top left. Clicking the icon and choosing “More Actions” from the menu gives you access to a further set of options for the window, including keeping this window on top of other windows.
 
 ![The More Actions window menu in KDE Plasma 6.0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -114,25 +133,11 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma Dolphin file browser with split panes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Yes, you can do this in other file browsers, but a small icon labeled "Split" has to be the easiest way to do this. Likewise, the Icons View, Compact View, and Details View icons make these common actions accessible and simple.
 
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -152,6 +157,13 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 Application Launcher showing Frequently Used applications and places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/12-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  You can search by name, browse through categories such as Development, Graphics, and Internet, or pick from frequently used applications.
@@ -169,13 +181,6 @@ Dave McKay/How-To Geek
  A small progress bar in the lower left lets you know how close to completion your installation is.
 
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -196,10 +201,10 @@ Dave McKay/How-To Geek
 ![The KDE Plasma 6.0 Settings application open at the Quick Settings pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -217,6 +222,13 @@ Dave McKay/How-To Geek
  Plasma 6.0 is touted as having much-improved support for Wayland, but I couldn’t get it to work at all. Swapping back to X11 brought everything to life, and no doubt Wayland support will continue to improve. The chatter on forums tells me it works just fine for many people.
 
  I had the Discover app store crash on me a few times, but that was about it. Everything else ran perfectly well, including the applications I manually installed and made heavy use of every day, such as LibreOffice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Will I Stick With Plasma 6.0?
 
@@ -245,21 +257,21 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-your-visual-narrative-the-10-best-text-upgrades/"><u>[New] Innovate Your Visual Narrative - The 10 Best Text Upgrades</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-silver-screen-streaming-apples-no1-top-8-for-iphones-filmmakers/"><u>[New] Silver Screen Streaming Apple's No.1, Top 8 for iPhones Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-power-of-picture-in-picture-on-chrome-platforms/"><u>[Updated] Harness the Power of Picture In Picture on Chrome Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-simplified-dynamic-range-photography/"><u>[Updated] In-Depth Analysis Simplified Dynamic Range Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-to-enhance-images-through-cropping/"><u>[Updated] Innovative Methods to Enhance Images Through Cropping</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-reverberation-artisan-collection-for-2024/"><u>[Updated] Reverberation Artisan Collection for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-screenplay-blueprint-unveiled/"><u>2024 Approved Screenplay Blueprint Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy S23 Ultra?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/delving-into-auto-gpt-how-it-differs-from-chatgpts-approach/"><u>Delving Into Auto-GPT: How It Differs From ChatGPT's Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guffaw-generator-cyborg-comic-coders-for-2024/"><u>Guffaw Generator Cyborg Comic Coders for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30i-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Note 30i</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-choice-best-hdmi-21-display-models-evaluated/"><u>In 2024, Expert's Choice Best HDMI 2.1 Display Models Evaluated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-lovers-ultimate-selection-of-stop-motion-works/"><u>In 2024, Film Lovers' Ultimate Selection of Stop-Motion Works</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-resolved-inaccessible-full-screen-obs/"><u>In 2024, Resolved Inaccessible Full Screen OBS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-overcoming-current-obstacles-in-streaming-titles-on-netflix/"><u>Quick Fixes: Overcoming Current Obstacles in Streaming Titles on Netflix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dota-2-microphone-issues-a-comprehensive-fix-guide/"><u>Troubleshooting Dota 2 Microphone Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/udience-augmentation-made-simple-5-solutions-available/"><u>[New] Audience Augmentation Made Simple - $5 Solutions Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-selecting-video-control-software/"><u>[New] Expert Tips for Selecting Video Control Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-your-passport-featured-with-these-top-10-free-portrait-makers/"><u>[New] Get Your Passport Featured with These Top 10 Free Portrait Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero-session-vs-hero-session-duel/"><u>[Updated] Hero Session Vs Hero Session Duel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-a-unique-cellphone-alert-from-favorite-tiktok-songs/"><u>[Updated] How to Create a Unique Cellphone Alert From Favorite TikTok Songs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-is-your-yt-channel-earning-as-it-should-tips-to-find-out/"><u>[Updated] In 2024, Is Your YT Channel Earning as It Should? – Tips to Find Out</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-get-still-on-the-move-gopro-stability-tips/"><u>2024 Approved How to Get Still on the Move GoPro Stability Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aac-wav-movavi/"><u>移動視頻自由轉化 AAC 到 WAV: 利用 Movavi 進行無條件轉換</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-your-digital-footprints-in-windows-11/"><u>Exploring Your Digital Footprints in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-8-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Asus ROG Phone 8 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-edit-extravagant-tiktoks-your-key-to-less-overloaded-drafts/"><u>In 2024, Expertly Edit Extravagant TikToks Your Key to Less Overloaded Drafts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-film-making-mastery-guidebook/"><u>In 2024, Film Making Mastery Guidebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-moto-g-stylus-5g-2023-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Moto G Stylus 5G (2023) to Mac? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-8-hd-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-screen-snapper-unlocking-zd-softwares-potential-for-2024/"><u>Ultimate Screen Snapper Unlocking ZD Software's Potential for 2024</u></a></li>
 </ul></div>
 

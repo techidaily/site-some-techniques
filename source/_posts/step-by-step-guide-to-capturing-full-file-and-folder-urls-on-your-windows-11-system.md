@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2024-10-21T21:04:01.001Z
-updated: 2024-10-23T16:48:40.909Z
+date: 2024-10-28T17:49:04.039Z
+updated: 2024-10-29T16:54:43.278Z
 tags:
   - deals
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
 Hannah Stryker / How-To Geek  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  To copy a file or folder's path, open File Explorer, find the file or folder, right-click it, and select "Copy as Path."
 * To copy the path using a keyboard shortcut, select the file or folder in File Explorer and press Ctrl+Shift+C.
@@ -32,10 +39,10 @@ Hannah Stryker / How-To Geek
  Copying a file or folder’s path on Windows 11 is as easy as selecting an option in the right-click menu or pressing a keyboard shortcut. We’ll show you how to do it in various ways on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  From the Right-Click Menu
@@ -47,15 +54,22 @@ Hannah Stryker / How-To Geek
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
  Windows has copied the full absolute path to your selected item(s).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using a Keyboard Shortcut
 
@@ -89,36 +103,22 @@ Hannah Stryker / How-To Geek
 
 ![The 'Target' field highlighted on the 'Properties' window of an app shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-copy-path-app-shortcut-target-field.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the open window, right-click the app again and select "Open File Location."
 
  Your app is now highlighted. Right-click the app and select "Copy as Path."
 
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
@@ -147,18 +147,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-illusory-motion-capture-guide/"><u>[New] 2024 Approved Illusory Motion Capture Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-learning-snapseed-essentials/"><u>[New] From Novice to Pro Learning Snapseed Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-grading-for-emotion-altering-footage-to-evoke-feelings/"><u>[New] Grading for Emotion Altering Footage to Evoke Feelings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[New] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-surrender-to-serenity-top-10-game-guides/"><u>[New] Surrender to Serenity Top 10 Game Guides</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-screens-top-5-for-impeccable-color-accuracy/"><u>[Updated] In 2024, Cutting-Edge Screens TOP 5 for Impeccable Color Accuracy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-audio-integration-in-digital-photo-albums/"><u>2024 Approved Audio Integration in Digital Photo Albums</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-second-count-for-a-20mb-visual-file/"><u>2024 Approved Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/create-custom-ai-powered-visuals-directly-through-google-search-new-update/"><u>Create Custom AI-Powered Visuals Directly Through Google Search - New Update!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-bootmgr-not-found-error-step-by-step-guide-includes-screenshots/"><u>Effortless Fix for Bootmgr Not Found Error - Step-by-Step Guide Includes Screenshots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-framerates-in-photos-innovating-with-windows-paint-app-for-2024/"><u>Fast Framerates in Photos Innovating with Windows Paint App for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-energy-for-health-selecting-prime-workout-music-for-2024/"><u>Harness Energy for Health Selecting Prime Workout Music for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-code-0x80240034-explained-and-how-to-fix-it-successfully/"><u>Windows 11 Update Error Code 0X80240034 Explained and How to Fix It Successfully</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>[New] 2024 Approved 'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-complete-periscope-users-handbook/"><u>[New] 2024 Approved The Complete Periscope User's Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flashing-lights-of-olympic-speed/"><u>[New] Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>[New] From Amateurs to A-Listers Top 10 Film Cameras Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-elite-10-in-mac-gif-recording-apps-for-2024/"><u>[New] The Elite 10 in Mac GIF Recording Apps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-turn-the-clock-back-reverse-video-mastery-in-instagram/"><u>[Updated] 2024 Approved Turn the Clock Back Reverse Video Mastery in Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-fine-tune-music-for-stunning-canva-clips/"><u>[Updated] How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-new-wave-of-fbx-free-gaming-analysis-tools-for-2024/"><u>[Updated] The New Wave of FBX-Free Gaming Analysis Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero-session-evolution-four-to-five/"><u>2024 Approved Hero Session Evolution Four to Five</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-red-magic-8s-proplus-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Red Magic 8S Pro+’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-fix-a-non-reactive-windows-download-folder/"><u>Methods to Fix a Non-Reactive Windows Download Folder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-reno-10-pro-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Reno 10 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepwise-guide-to-leveraging-picture-in-picture-feature-on-microsoft-edge-for-2024/"><u>Stepwise Guide to Leveraging Picture-in-Picture Feature on Microsoft Edge for 2024</u></a></li>
 </ul></div>
 

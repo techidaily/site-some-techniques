@@ -1,7 +1,7 @@
 ---
 title: "Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles"
-date: 2024-10-20T21:35:22.280Z
-updated: 2024-10-23T22:12:50.792Z
+date: 2024-10-25T16:33:20.709Z
+updated: 2024-10-29T16:48:10.852Z
 tags:
   - cutting-edge
 categories:
@@ -21,16 +21,16 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  While most of the same used car buying principles still apply, like looking over the body, checking for imperfections, and asking [questions about maintenance](https://screen-recording.techidaily.com/in-2024-budget-desktop-encoder-hacks-and-tips/), you'll need to adjust your mindset and consider several other factors. Pre-owned EVs are expensive, and here are a few things to know and do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check the Vehicle's Accident History
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -40,23 +40,9 @@ Justin Duino / How-To Geek
 
  Additionally, most VIN reports will have detailed information about recalls, if any, service records, and other important information that will help you make the most informed decision possible.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Look Into the Battery Health and Warranty
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
@@ -73,10 +59,10 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
@@ -91,6 +77,13 @@ Tyler Hayes / Review Geek
 
 ![Front trunk open on a Tesla Model 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/tesla-model-3-frunk-maintenance.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Tesla vehicles are trendy, and you likely see them on the road everywhere you go. As a result, they're one of the most in-demand used electric cars for sale. Buying a used EV directly from a manufacturer like Tesla is your best bet. They'll do visual and software inspections that a regular person or used car lot won't. In fact, Tesla does a [102-point inspection](https://www.tesla.com/support/ordering-used-tesla) on every used vehicle.
@@ -100,6 +93,19 @@ Hannah Stryker / How-To Geek
 ##  Take it For a Test Drive
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -130,24 +136,24 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-17-premier-tools-to-extract-photo-borders/"><u>[New] Expert Advice 17 Premier Tools to Extract Photo Borders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right/"><u>[New] First Steps in UAV World? The Syma X5C Review Sets You Up Right</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fixing-photo-booth-lags-for-smoother-playbacks/"><u>[New] Fixing Photo Booth Lags for Smoother Playbacks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-urban-to-agrarian-journey-stardew-titles-traced/"><u>[New] In 2024, Urban to Agrarian Journey Stardew Titles Traced</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-enhancing-livestream-quality/"><u>[New] Innovative Techniques for Enhancing Livestream Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-field-photography-frenzy-samsung-vs-lg-cameras-collide/"><u>[Updated] Field Photography Frenzy Samsung VS LG Cameras Collide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-youtubes-maker-central-interface/"><u>[Updated] Navigating YouTube's Maker Central Interface</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/44cm5pyj57ea44kk44ok44ob44oz44go5luy5bge44oe44kk44kv44ks5l244gj44gf6auy5zob5l2n44gq6zplusz5aow6yyy6zplusz44og44kv44ol44od44kv44cn/"><u>「有線イヤホンと付属マイクを使った高品位な音声録音テクニック」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold/"><u>2024 Approved Evaluating High-Capacity Drives How Many Vids Can a 64/128GB Hold?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmoras-rival-a-comprehensive-list-of-top-quality-template-collections/"><u>2024 Approved Filmora's Rival A Comprehensive List of Top-Quality Template Collections</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/conquer-windows-10-a-mov-filming-masterclass-for-2024/"><u>Conquer Windows 10 A MOV Filming Masterclass for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/consumer-favorites-premium-external-storage-solutions/"><u>Consumer Favorites: Premium External Storage Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-review-why-the-kooteekt-laptop-chiller-deserves-a-spot-on-your-desk/"><u>Expert Review: Why the Kooteekt Laptop Chiller Deserves a Spot on Your Desk</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-prime-church-livestreaming-services-for-2024/"><u>Guide to Prime Church Livestreaming Services for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-save-and-play-gifs-on-an-iphone-for-2024/"><u>How to Save and Play GIFs on An iPhone for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-instagram-group-photography/"><u>In 2024, Mastering the Art of Instagram Group Photography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-transition-website-to-desktop-compatibility/"><u>Seamless Transition: Website to Desktop Compatibility</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-playing-games-from-an-external-drive-on-xbox-one/"><u>Step-by-Step Instructions: Playing Games From an External Drive on Xbox One</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-tutorial-for-effective-screen-recording-for-2024/"><u>[New] Comprehensive Tutorial for Effective Screen Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-seamless-photo-and-video-import-in-windows-10/"><u>[New] Expert Tips for Seamless Photo and Video Import in Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-review-and-insight-into-movavi-editor-plus-now-available-for-2024/"><u>[New] Review & Insight Into Movavi Editor Plus, Now Available for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-constructing-an-intriguing-trailer-blueprint/"><u>[Updated] Constructing an Intriguing Trailer Blueprint</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hubs-of-immersive-visual-storytelling/"><u>[Updated] Hubs of Immersive Visual Storytelling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>[Updated] Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue-for-2024/"><u>[Updated] The Zen of Zoom Talk Top Strategies for Smooth Virtual Dialogue for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-lite-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 Lite 5G without App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/consider-xbox-game-pass-ultimate-better-or-same/"><u>Consider Xbox Game Pass Ultimate: Better or Same?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flip-the-script-on-classic-films-7-list-for-2024/"><u>Flip the Script on Classic Films, #7 List for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-on-essential-samsung-gear-vr-experiences-for-2024/"><u>Game On Essential Samsung Gear VR Experiences for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-versatility-of-magix-designer/"><u>In 2024, Exploring the Versatility of MAGIX Designer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-photo-oasis-a-guide-to-pexels/"><u>In 2024, Find Your Photo Oasis A Guide to Pexels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gleeful-loginsign-up-step-guide/"><u>In 2024, Gleeful Login/Sign Up Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-3d-text-illustration/"><u>In 2024, Innovative Methods for 3D Text Illustration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-guide-best-audio-techniques-on-windows-for-2024/"><u>In-Depth Guide Best Audio Techniques on Windows for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-training-on-googles-automatic-transcription-tool-for-2024/"><u>In-Depth Training on Google's Automatic Transcription Tool for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-bring-back-sounds-in-your-astro-a50-device/"><u>Quick Fixes to Bring Back Sounds in Your Astro A50 Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps/"><u>Updated 2024 Approved Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps</u></a></li>
 </ul></div>
 

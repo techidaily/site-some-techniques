@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-10-18T17:40:13.523Z
-updated: 2024-10-23T22:01:30.865Z
+date: 2024-10-26T16:59:02.830Z
+updated: 2024-10-29T16:36:58.339Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is a Slabtop?
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  In the context of a slabtop, headless simply means that the built-in monitor (and the lid that houses the monitor) has been removed. This results in a slab computer that houses all the components in the base. This isn't a million miles away from the home computers of the 80s (like the Commodore 64) where the keyboard _was_ the computer.
 
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
 
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  CalDigit USB-C Gen2 Dock
@@ -62,13 +69,6 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Rather than dragging the dead weight of a cracked display around with you, turn that laptop into a project and remove the screen entirely. You'll be amazed how freeing a laptop can feel once you've taken the weighty display away. It's also pretty much essential if you hope to use it at a desk or near a display that's around head height.
 
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Add Your Own Display
 
@@ -84,6 +84,13 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Make Your Own Slabtop
 
  Before you grab your pliers, it's important to understand that there is a process involved here. You must disconnect (or remove) the battery from your slabtop before you get too involved in the decapitation process. This is especially important on Apple's 'opening the lid turns it on' M1 or later machines.
@@ -93,13 +100,6 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  On a MacBook, this can mean disconnecting essential components like the Wi-Fi antennas. Since every laptop is different, it's impossible to provide precise instructions for every model. Thankfully, there's a good chance you can find instructions online somewhere indicating how to replace the display on your laptop.
 
 [iFixit](https://www.ifixit.com) is a great resource for this. This resource has screen replacement guides (like [this one for a 2021 MacBook Pro 16-inch](https://www.ifixit.com/Guide/MacBook+Pro+16-Inch+2021+Screen+Replacement/150595)) that you can follow, plus there are video repair guides on the internet for all kinds of laptops. Your ultimate goal should be a clean headless laptop, free of unsightly ribbon cables.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Things to Consider Before Going Headless
 
@@ -130,20 +130,16 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-valorant-screenshots-transformed-by-rapid-skilled-designers/"><u>[New] 2024 Approved Valorant Screenshots Transformed by Rapid, Skilled Designers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-praise-in-pixels-the-new-marketing-trend/"><u>[New] Praise in Pixels The New Marketing Trend</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-top-5-weightless-camcorders-for-adventure/"><u>[Updated] Prime Top 5 Weightless Camcorders for Adventure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-best-value-299-laptops-ideal-choice-for-university-scholars-top-reviews/"><u>1. Best Value $299 Laptops: Ideal Choice for University Scholars - Top Reviews</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/beyond-likes-the-unseen-world-of-instagram-story-audiences/"><u>Beyond Likes The Unseen World of Instagram Story Audiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/effortless-conversion-of-drm-protected-epub-books-to-kindle-format-on-your-mac/"><u>Effortless Conversion of DRM-Protected EPUB Books to Kindle Format on Your Mac</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone SE (2020)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/locating-your-nearest-electric-vehicle-charger-a-comprehensive-guide/"><u>Locating Your Nearest Electric Vehicle Charger: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/massive-tesla-recall-more-than-300k-cars-affected-by-safety-issue/"><u>Massive Tesla Recall: More Than 300K Cars Affected by Safety Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximize-your-interactions-6-proven-techniques-for-enhanced-ai-chatbot-engagement/"><u>Maximize Your Interactions: 6 Proven Techniques for Enhanced AI Chatbot Engagement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-through-vrchats-expansive-universe-of-virtual-environments-an-insiders-perspective/"><u>Navigating Through VRChat's Expansive Universe of Virtual Environments: An Insider’s Perspective</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-uncertainty-what-lies-in-store-for-the-future-of-metas-innovative-quest-pro-gear/"><u>Navigating Uncertainty: What Lies in Store for the Future of Meta's Innovative Quest Pro Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/nostalgia-for-the-90s-internet-exploring-vrml-the-precursor-to-modern-metaverses/"><u>Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/the-rise-of-siri-at-apple-signals-a-move-to-an-ai-powered-bing-equivalent-zdnet/"><u>The Rise of Siri at Apple Signals a Move to an AI-Powered Bing Equivalent | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-higher-fps-gaming-potential-with-our-proven-boosting-tactics/"><u>Unlock Higher FPS Gaming Potential with Our Proven Boosting Tactics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-beginners-guide-to-video-equipment-selection/"><u>[New] 2024 Approved The Beginner's Guide to Video Equipment Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-selection-of-vr-for-drone-pilots/"><u>[New] Exclusive Selection of VR for Drone Pilots</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-redefining-your-viewing-experience-youtube-playlist-shuffle/"><u>[New] In 2024, Redefining Your Viewing Experience YouTube Playlist Shuffle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-gimbals-seamless-video-on-smartphones-and-dslrs/"><u>[New] Innovative Gimbals Seamless Video on Smartphones & DSLRs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ghostly-glance-at-fb-sequences/"><u>[Updated] Ghostly Glance at Fb Sequences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-efficient-practices-for-ps3-video-capture-setup/"><u>[Updated] In 2024, Efficient Practices for PS3 Video Capture Setup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-pruveeo-fhd-dashcam-with-full-hd-recording-in-depth-review/"><u>Affordable Pruveeo FHD Dashcam with Full HD Recording - In-Depth Review!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-allure-in-online-visuals-for-beauty-for-2024/"><u>Crafting Allure in Online Visuals for Beauty for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-choice-the-10-best-movie-making-cameras-for-2024/"><u>Expert's Choice The 10 Best Movie Making Cameras for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hear-and-heed-free-recognition-and-response-platform/"><u>In 2024, Hear and Heed Free Recognition & Response Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphone-potential-with-google-lens-expert-tips-and-tricks/"><u>Unlocking iPhone Potential with Google Lens: Expert Tips and Tricks</u></a></li>
 </ul></div>
 

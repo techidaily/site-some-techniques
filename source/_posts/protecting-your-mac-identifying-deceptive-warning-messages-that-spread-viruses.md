@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-10-21T21:06:31.671Z
-updated: 2024-10-23T19:57:20.245Z
+date: 2024-10-28T17:17:08.257Z
+updated: 2024-10-29T16:10:49.783Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Going On?
@@ -39,26 +39,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
 
@@ -70,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Avoid This Happening Again
 
  If you’ve turned the notifications feature off in your browser, you won’t see this problem again. Otherwise, make sure you are careful when allowing a website to send you notifications.
@@ -77,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
@@ -104,20 +98,15 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-simulate-hand-held-camera-effects-in-photoshop-for-2024/"><u>[New] Simulate Hand-Held Camera Effects in Photoshop for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-best-4k-ultra-hd-screens-ranked-1-10/"><u>2024 Approved Best 4K Ultra HD Screens Ranked #1-10</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/asfmp4-movavi/"><u>簡單上網免費改變ASF文件為MP4 - Movavi 影片編輯器指南</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-halo-an-unusual-almost-invasive-fitness-tracker/"><u>Amazon Halo: An Unusual, Almost Invasive Fitness Tracker</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-maximizing-gameplay-smoothness-by-fixing-frames-per-second-fps-issues-on-desktop-computers/"><u>Expert Tips for Maximizing Gameplay Smoothness by Fixing Frames Per Second (FPS) Issues on Desktop Computers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevate-your-video-visibility-ethically-one-million-in-views/"><u>In 2024, Elevate Your Video Visibility Ethically One Million in Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-streamsmart-beyond-the-dacast-shell/"><u>In 2024, StreamSmart Beyond the DaCast Shell</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-discovering-and-organizing-images-on-your-windows-10-computer/"><u>Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-empower-your-pc-with-vivetool-for-cutting-edge-windows-functions/"><u>Step-by-Step Guide: Empower Your PC with ViVeTool for Cutting-Edge Windows Functions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-uncovering-the-secrets-of-your-windows-11-activation-code/"><u>Step-by-Step Guide: Uncovering the Secrets of Your Windows 11 Activation Code</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/streamline-your-arch-linux-experience-how-to-prevent-pacman-mishaps-with-smart-mirror-update-automation/"><u>Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/struggling-with-missing-migrated-documents-in-linux-examine-splits-and-directories/"><u>Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-rise-of-the-slabtop-revolutionary-ideas-for-personalizing-your-apple-laptops-design/"><u>The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency-discover-how/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency - Discover How!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-pre-launch-system-conditions-and-checks/"><u>Understanding Pre-Launch System Conditions and Checks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-eyecatcher-firefox-tools/"><u>[New] EyeCatcher Firefox Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flight-cam-combat-dji-spark-vs-gopro-fury/"><u>[New] Flight Cam Combat DJI Spark VS GoPro Fury</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-haven-memes-for-iphones/"><u>[New] Humor Haven Memes for iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-public-domain-art-what-is-it-and-website-recommendations/"><u>[Updated] Exploring Public Domain Art What Is It and Website Recommendations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-insight-into-vsco-image-editing/"><u>[Updated] Full Insight Into VSCO Image Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-asus-rog-phone-7-ultimate-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Asus ROG Phone 7 Ultimate Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-itel-a60-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Itel A60 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-integrating-audio-tracks-with-avi-files-seamlessly/"><u>Quick Guide: Integrating Audio Tracks with AVI Files Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-netflix-issue-step-by-step-guide-to-correcting-error-nw-1-19/"><u>Resolving Netflix Issue: Step-by-Step Guide to Correcting Error NW-1-19</u></a></li>
 </ul></div>
 

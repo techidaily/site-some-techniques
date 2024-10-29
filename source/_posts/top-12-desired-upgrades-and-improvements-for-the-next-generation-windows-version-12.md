@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-10-19T19:06:41.896Z
-updated: 2024-10-23T22:26:54.080Z
+date: 2024-10-28T17:35:27.370Z
+updated: 2024-10-29T16:37:41.910Z
 tags:
   - deals
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
  It feels like Windows 11 was just released yesterday, but there is good reason to believe Windows 12 will be released in 2024 or 2025\. Here are some things we'd love to see included in Windows 12.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Finish the Settings App and Remove Control Panel
 
  The modern Settings app has been present in Windows since the days of Windows 8, but it still doesn’t contain everything that Control Panel does.
@@ -43,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Expand Phone Link's Usefulness
 
 [Phone Link](https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/), formerly Your Phone, has steadily improved over the years, but it is still a far cry from the sort of seamless integration Apple users have access to if they combine a Mac and an iPhone.
@@ -57,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
  We’re not likely to ever see that ease of use and depth of integration. However, while we’re wishing, we’d like to see all the features Phone Link supports (like screen mirroring) available on all Android devices, not just a select few Samsung phones.
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
 
@@ -68,14 +61,14 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
-Andrew Heinzman / How-To Geek
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Andrew Heinzman / How-To Geek
 
 ##  Live and Dynamic Backgrounds
 
@@ -97,6 +90,13 @@ Andrew Heinzman / How-To Geek
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Control Over the Right-Click Menu
 
  The right-click context menu is an essential part of using a Windows computer, and yet, we have no meaningful built-in tools to customize how it looks and operates. Why not?
@@ -117,6 +117,13 @@ Andrew Heinzman / How-To Geek
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Better Control Over the Start Menu
 
  The Windows 11 Start menu has proven to be as divisive as it is different. We don’t expect a complete reversal in Windows 12, but more control would be a very welcome change.
@@ -124,10 +131,10 @@ Andrew Heinzman / How-To Geek
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Xbox App Needs a Rework
@@ -137,13 +144,6 @@ Andrew Heinzman / How-To Geek
  It also lacks basic functionality that other game distribution platforms support, like the ability to limit your bandwidth within the actual app, among others. You shouldn’t need to fiddle around in the Windows Settings app to achieve something basic like that.
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Better Device Backup Options in Windows Backup
 
@@ -162,20 +162,14 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
- We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
 ##  Helpful Local AI Tools
 
@@ -202,20 +196,18 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/verage-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback-for-2024/"><u>[New] Average Earnings Per View What's the Income for YouTubers per Ad Playback for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-format-switching-srt-to-advanced-standards/"><u>[Updated] Expertise in Format Switching SRT to Advanced Standards</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hack-the-art-world-essential-free-3d-psd-files/"><u>[Updated] Hack the Art World Essential Free 3D PSD Files</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-which-ios-app-crushes-in-video-editing-for-2024-cameo-or-filmorago/"><u>[Updated] Which iOS App Crushes in Video Editing for 2024 Cameo or FilmoraGo?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expedite-your-content-with-smart-title-tools/"><u>2024 Approved Expedite Your Content With Smart Title Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmony-hearts-the-ultimate-song-playlist-for-a-promise/"><u>2024 Approved Harmony Hearts The Ultimate Song Playlist for a Promise</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-11-sfc-scannow/"><u>如何在 Windows 11上使用 SFC / Scannow 快速修复 - 全程解释图文对比</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-new-era-image-inspired-style-evolution-via-facebooks-ai/"><u>A New Era: Image-Inspired Style Evolution via Facebook's AI</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-techniques-for-managing-packages-via-winget-on-win11/"><u>Advanced Techniques for Managing Packages via Winget on Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/convert-vts-videos-into-mp4-format-using-the-vts-video-converter-a-comprehensive-guide/"><u>Convert VTS Videos Into MP4 Format Using the VTS Video Converter - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-artfully-diminish-image-details-for-2024/"><u>How to Artfully Diminish Image Details for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>In 2024, Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>In 2024, Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/l-sizzle-how-to-make-your-youtube-logo-pop/"><u>Visual Sizzle How to Make Your YouTube Logo Pop</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/windows-10-aomei-backupper-synology-nas/"><u>Windows 10 に対して AOMEI Backupper を用いた Synology NAS への自動バックアップ方法</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>[New] In 2024, A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premier-cycling-titles-to-try-out/"><u>[New] In 2024, Premier Cycling Titles to Try Out</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-apps-for-mastering-dji-footage-quality/"><u>[New] Innovative Apps for Mastering DJi Footage Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-a-world-of-sound-the-ultimate-guide-to-androids-music-videos/"><u>[Updated] Explore a World of Sound The Ultimate Guide to Android's Music Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-utilize-legal-free-clip-art-resources/"><u>[Updated] How to Utilize Legal, Free Clip-Art Resources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-end-vision-booster-convert-with-clarity/"><u>2024 Approved High-End Vision Booster Convert with Clarity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-mobvoo-ticwatch-e2-is-saving-on-price-worth-sacrificing-quality/"><u>Examining the Mobvoo TicWatch E2: Is Saving on Price Worth Sacrificing Quality?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-review-non-apple-non-tile-wallet-airtag-emerges-as-a-top-contender-insights/"><u>Expert Review: Non-Apple, Non-Tile Wallet AirTag Emerges as a Top Contender - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sound-card-software-for-your-windows-7-pc-download-now/"><u>Get the Latest Sound Card Software for Your Windows 7 PC - Download Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grateful-choices-comprehensive-otu-guide-for-2024/"><u>Grateful Choices Comprehensive OTU Guide for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/kostenlose-wiederherstellung-von-daten-auf-formatiertem-ssd-speicher/"><u>Kostenlose Wiederherstellung Von Daten Auf Formatiertem SSD Speicher</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-note-taking-software-of-2024-a-comprehensive-guide-to-enhancing-your-efficiency/"><u>The Best Note-Taking Software of 2024: A Comprehensive Guide to Enhancing Your Efficiency</u></a></li>
 </ul></div>
 

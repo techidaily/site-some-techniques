@@ -1,7 +1,7 @@
 ---
 title: Personalized Navigation with Cookiebot Technology
-date: 2024-08-22T06:12:35.197Z
-updated: 2024-08-23T06:12:35.197Z
+date: 2024-10-24T16:28:11.226Z
+updated: 2024-10-29T16:03:35.973Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5eeabfb4f334c0a2440c4fac.jpeg
@@ -30,6 +30,13 @@ Passer à :
 [Différences entre PI et BI](https://tools.techidaily.com/abbyy/products/)  
 [Principales similitudes](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Qu’est-ce que la process intelligence (PI) ?
 
 **La process intelligence est un ensemble de nouvelles approches de data science qui se concentrent sur l’analyse et l’optimisation des processus métier dans tous les systèmes et outils de gestion concernés, de bout-en-bout.**
@@ -47,9 +54,6 @@ Lorsque l’on se penche sur les processus de trésorerie avec les lunettes de l
 
 Par exemple, la Process Intelligence peut révéler qu’une étape spécifique du processus, comme la vérification d’une commande, prend trop de temps et entraîne ainsi des retards qui ont des répercussions sur l’ensemble du processus. Ou bien, la PI peut révéler des cas où des étapes capitales telles que la vérification des crédits sont oubliées, ce qui se traduit par un risque financier accru pour l’entreprise. La Process intelligence offre une perspective globale et peut fournir des informations essentielles sur la dynamique des processus et les possibilités d’optimisation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Qu’est-ce que la business intelligence (BI) ?
 
 **La Business intelligence, pour sa part, est un processus technologique qui couvre l’analyse et la présentation des informations de l’entreprise.**  Son premier objectif est d’aider les entreprises à prendre des décisions éclairées en leur fournissant des renseignements sur leurs opérations, le comportement de leurs clients, les tendances du marché et le paysage concurrentiel.
@@ -66,8 +70,12 @@ Ce que la BI ne pourra pas vous dire, du moins pas sans un travail de développe
 Par exemple, pouvez-vous déterminer, dans les cas où certains vendeurs ont reçu le plus grand nombre de commandes, si cela coïncide avec des interactions efficaces avec les clients auxquels on a rapidement répondu ? Et inversement, pouvez-vous déterminer si des niveaux faibles de commandes correspondent à des délais de réponse lents ou à des demandes de clients passées à la trappe ? C’est là que la BI n’est plus à la hauteur, car elle n’est pas en mesure d’établir ou de prouver ces corrélations.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Différences-clés entre la process intelligence et la business intelligence
 
 ### Focus
@@ -79,15 +87,16 @@ La **Process intelligence** se focalise sur l’analyse et l’optimisation des 
 La **Process intelligence** utilise les journaux des événements, les tableaux d’audit, les interactions des utilisateurs et les activités de l’ordinateur comme premières sources de données. La **Business intelligence** utilise les données tirées de différentes sources en lien avec une étape/une partie spécifique d’un processus métier, afin d’analyser et de visualiser les schémas, les tendances et les anomalies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Résultats
 
 La **Process intelligence** fournit des renseignements qui aident les entreprises à optimiser leurs processus métier, en leur offrant une meilleure compréhension du contexte global des étapes spécifiques et des variations entre les différents processus. La **Business intelligence** fournit des renseignements qui aident les entreprises à prendre des décisions éclairées, basées sur les données.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Outils
 
 Les outils de **Process intelligence** comprennent des fonctionnalités de process mining, de task mining, d’analyse, de suivi, de prédiction et de simulation. Les outils de   **Business intelligence** comprennent habituellement des fonctionnalités de tableaux de bord, de reporting, d’analyse de données et de visualisation.
@@ -97,6 +106,13 @@ Les outils de **Process intelligence** comprennent des fonctionnalités de proce
 La Process intelligence et la Business intelligence ont des similitudes : les deux utilisent des données de l’entreprise pour fournir des informations sous forme visuelle afin d’aider les entreprises en termes de gestion, d’analyses et de prises de décision. Ces mêmes stockages de données peuvent être exploités au mieux, tant par des outils de process intelligence que de business intelligence, mais les informations fournies varieront selon les fonctionnalités et les limites de chaque plateforme. Ce savoir est fondamental, tant pour des étudiants de première année en école de commerce que pour des professionnels, car c’est la base d’une [prise de décision éclairée et de l’optimisation du fonctionnement de l'entrerpise](https://tools.techidaily.com/abbyy/products/) dans un monde alimenté par les données.
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/process-intelligence-vs-business-intelligence/process-intelligence-and-business-intelligence-differences-and-similarities-fr.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Process intelligence et business intelligence : laquelle est la meilleure ?
 
@@ -110,9 +126,6 @@ Il est important, pour ceux qui ne connaissent pas la process intelligence et le
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -123,10 +136,6 @@ Ayant 30 ans d’expérience dans le secteur informatique, Scott a créé et dé
 
 Précédemment, Scott a également occupé les fonctions de Vice-Président Senior, Chargé du développement marketing & commercial de webMethods (aujourd’hui Software AG), où il était également responsable de la commercialisation, du développement commercial et de la planification stratégique pour les produits. Il a rejoint webMethods suite à son acquisition d’IntelliFrame Corporation, fournisseur de produits d’intégration des données, et du flux intégré InVista, ainsi que de la plateforme BPM qu’il a cofondée. Scott a également occupé de nombreuses fonctions de cadre dans la technologie, le marketing et le développement commercial, tant pour des entreprises publiques que privées.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Aimer, partager ou reposter 
 
 Share 
@@ -181,8 +190,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +197,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-the-most-preferred-free-video-players-our-best-12-picks-pcmobile/"><u>[New] Guide to the Most Preferred Free Video Players Our Best 12 Picks (PC/Mobile)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-husqvarna-h501x4-fpv-quad-examination/"><u>[New] Husqvarna H501X4 FPV Quad Examination</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-independent-ringtones-at-your-fingertips-a-comprehensive-guide/"><u>[New] Independent Ringtones at Your Fingertips A Comprehensive Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>[New] Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>[Updated] Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gif-mastery-10-key-elements-to-perfect-creation/"><u>[Updated] GIF Mastery 10 Key Elements to Perfect Creation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfect-shots-no-hassle-leading-smartphone-tripods-for-2024/"><u>[Updated] Perfect Shots, No Hassle Leading Smartphone Tripods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>2024 Approved Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-filmography-foundation-answer-hub/"><u>2024 Approved Filmography Foundation Answer Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-use-preview-app-on-mac/"><u>2024 Approved How to Use Preview App on Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-discover-top-performing-vpns-with-in-depth-reviews-and-polls/"><u>Ace Your Online Privacy: Discover Top-Performing VPNs With In-Depth Reviews & Polls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-facilement-votre-fichier-3gp-en-format-mp4-gratuitement-avec-cette-astuce-en-ligne-movavi/"><u>Convertissez Facilement Votre Fichier 3Gp en Format Mp4 Gratuitement Avec Cette Astuce en Ligne - Movavi</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-lava-yuva-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Yuva 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-steps-for-saving-your-iphones-tunes-on-itunes-icloud-or-your-computer/"><u>Easy Steps for Saving Your iPhone's Tunes on iTunes, iCloud or Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-exit-strategies-for-windows-s-mode/"><u>Effortless Exit Strategies for Windows' 'S Mode'</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-applications-for-image-to-video-conversion-for-2024/"><u>Excellent Applications for Image to Video Conversion for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-snapchat-adjust-your-voice-fast-and-simple/"><u>Mastering Snapchat Adjust Your Voice Fast and Simple</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unboxing-and-testing-how-does-the-jackery-explorer-1500-pro-stack-up-an-in-depth-look-by-tech-gurus-at-zdnet/"><u>Unboxing & Testing: How Does the Jackery Explorer 1500 Pro Stack Up? An In-Depth Look by Tech Gurus at ZDNet.</u></a></li>
+</ul></div>
 

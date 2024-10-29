@@ -1,7 +1,7 @@
 ---
 title: Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts
-date: 2024-10-14T22:17:29.020Z
-updated: 2024-10-17T18:08:22.769Z
+date: 2024-10-27T17:53:08.981Z
+updated: 2024-10-29T16:12:09.563Z
 tags:
   - cutting-edge
 categories:
@@ -29,11 +29,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Make a Throwaway Account?
 
  Facebook requires that each Quest 2 user must have a Facebook account. This creates three distinct types of Quest 2 users. The first is someone with an existing Facebook account who may have no problem linking their Oculus account and sharing their VR content with their friends, families, and followers. We aren't concerned with these folks, so it's the remaining two kinds of Quest 2 users that are the subject of this article.
 
  If you're reading this, you're either a Quest 2 user who has a Facebook profile but doesn't want to merge it with your Oculus account, or you don't have a Facebook account and you don't want one. Regardless of which situation you're in, there are a few things you can't do or Facebook will be annoyed with you.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What You Can't Do
 
@@ -51,21 +71,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Quest Privacy Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Quest-Privacy-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The safest option is to choose "only me" for all types of activity. This means that although your activity will be on your timeline, no one besides you can see or interact with it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  If You Have to Create an Account
 
@@ -76,10 +82,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Facebook Settings and Privacy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Facebook-Settings-and-Privacy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, choose "Privacy Checkup."
@@ -99,16 +111,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Posts and Stories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Posts-and-Stories.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
+<span id="1983539">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The final step involves blocking specific users, but for this account that's irrelevant, so just complete the wizard. Now you should have an account that's Facebook policy-compliant but is locked down as much as possible.
@@ -116,10 +128,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Account Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Account-Quest-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Modding Your Quest 2
@@ -141,21 +153,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expanding-horizons-the-vr-in-classroom-effect/"><u>[New] Expanding Horizons The VR in Classroom Effect</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-intro-to-role-customization-for-discopundits-for-2024/"><u>[New] Intro to Role Customization for DiscoPundits for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-branding-excellence-integrating-watermarks-and-logos-into-video-media/"><u>[Updated] 2024 Approved Branding Excellence Integrating Watermarks and Logos Into Video Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-front-runners-in-4k-gaming-graphics/"><u>[Updated] Front-Runners in 4K Gaming Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grading-inshot-does-it-reign-supreme/"><u>[Updated] Grading InShot Does It Reign Supreme?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-retreat-from-macos-sierras-latest-upgrade/"><u>[Updated] How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-live-viewers-choice-obs-or-shadowtoolkit/"><u>[Updated] Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-essential-guide-to-crafting-dynamic-snaps-for-2024/"><u>[Updated] The Essential Guide to Crafting Dynamic Snaps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gazegraphic-reviews-synopsis/"><u>2024 Approved GazeGraphic Reviews Synopsis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-roadmap-for-visual-impact-professionals/"><u>2024 Approved The Roadmap for Visual Impact Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-clarity-in-colors-top-5-4k-monitors-showcased-for-2024/"><u>Finding Clarity in Colors Top 5 4K Monitors Showcased for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-achieve-premium-picture-standards-without-paying-for-2024/"><u>How to Achieve Premium Picture Standards Without Paying for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>In 2024, Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/karaoke-extravaganza-across-america-high-quality-entertainment-below-150/"><u>Karaoke Extravaganza Across America: High-Quality Entertainment Below $150</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-low-fps-and-stuttering-in-splitgate-effective-solutions-you-must-try/"><u>Troubleshooting Low FPS & Stuttering in Splitgate - Effective Solutions You Must Try</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-streamline-your-footage-iphones-shortening-methods/"><u>[New] 2024 Approved Streamline Your Footage IPhone's Shortening Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-seas-of-hertz-best-websites-for-thrones-audio-files/"><u>[New] High Seas of Hertz Best Websites for Thrones Audio Files</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-edge-advanced-photo-editing-strategies/"><u>[New] In 2024, Instagram Edge Advanced Photo Editing Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-record-vlc-webcam-footage-recording-for-2024/"><u>[New] Record VLC Webcam Footage Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-expand-your-youtube-video-footprint/"><u>[Updated] How to Expand Your YouTube Video Footprint</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>[Updated] In 2024, How To Downgrade Or Rollback The macOs Sierra To Os X El Capitan</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-selections-free-vs-paid-hd-playback-software/"><u>2024 Approved Exclusive Selections Free vs Paid HD Playback Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-specifics-how-to-determine-your-windows-10-operating-system-version-and-build-number/"><u>Discover the Specifics: How to Determine Your Windows 10 Operating System Version and Build Number</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-master-the-ultimate-periscope-handbook-for-2024/"><u>From Novice to Master The Ultimate Periscope Handbook for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-12-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-film-talents-unleashed-downloadable-content-pass/"><u>In 2024, Film Talents Unleashed Downloadable Content Pass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guided-steps-to-decrease-audio-intensity-using-lumafusion/"><u>In 2024, Guided Steps to Decrease Audio Intensity Using Lumafusion</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-techniques-for-superior-recordings-with-audacity-for-2024/"><u>Innovative Techniques for Superior Recordings with Audacity for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-50eb-web-challenge-strategies-for-repairing-server-errors/"><u>Overcoming the 50Eb Web Challenge: Strategies for Repairing Server Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with PowerToys 0. 79: Now Including Personalized Keyboard Shortcuts on Windows"
-date: 2024-10-21T20:49:20.576Z
-updated: 2024-10-23T17:12:17.474Z
+date: 2024-10-23T16:04:35.944Z
+updated: 2024-10-29T17:00:39.073Z
 tags:
   - desktop
 categories:
@@ -44,29 +44,31 @@ PowerToys is a utility from Microsoft that adds some great productivity features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-analysis-of-srt-unpacking-its-significance/"><u>[New] Expert Analysis of SRT Unpacking Its Significance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-film-equipment-roundup-2024-edition/"><u>[New] High-Definition Film Equipment Roundup, 2024 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fierce-competition-gopro-vs-sonys-dslr-for-adventure-films/"><u>[Updated] Fierce Competition GoPro Vs. Sony's DSLR for Adventure Films</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-firefox-picture-in-picture-explained-for-efficiency/"><u>[Updated] Firefox Picture-in-Picture Explained for Efficiency</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition/"><u>[Updated] Gear VR Compatibility The Definitive Mobile Device List - 2023 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-face-by-face-guide-to-selectivity/"><u>[Updated] Gopro Face-By-Face Guide to Selectivity</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-start-guide-to-setup-and-use-obs-on-apple-systems/"><u>2024 Approved Quick Start Guide to Setup and Use OBS on Apple Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-recipe-for-success-video-styling-in-gastronomy/"><u>2024 Approved Recipe for Success Video Styling in Gastronomy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-the-gap-seamless-integration-of-android-apps-with-windows-11/"><u>Bridging the Gap: Seamless Integration of Android Apps with Windows 11</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/demystifying-absence-no-recommended-video-content-on-facebook-for-2024/"><u>Demystifying Absence No Recommended Video Content on Facebook for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-13-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 13 Pro without Apple ID?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor X9b Phone without PIN</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funflicks-full-evaluation-and-instructions-24/"><u>In 2024, FunFlicks Full Evaluation & Instructions '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/incorporating-secondary-footage-a-filmmakers-guide-for-2024/"><u>Incorporating Secondary Footage A Filmmaker's Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/masterclass-in-timelapse-capture-via-gopro-studio-for-2024/"><u>Masterclass in Timelapse Capture via GoPro Studio for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-secrets-tips-on-disabling-security-in-excel-spreadsheets/"><u>Unlocking Secrets: Tips on Disabling Security in Excel Spreadsheets</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-arcade-avenue-a-million-paths-in-play/"><u>[New] Arcade Avenue A Million Paths in Play</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-genesis-and-evolution-of-windows-movie-maker/"><u>[Updated] Exploring the Genesis and Evolution of Windows Movie Maker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030325387-valorant/"><u>「アーティストが使う究極のValorantクリップ撮影テクニック」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-inshot-is-it-the-pinnacle-of-editing/"><u>2024 Approved Exploring InShot Is It the Pinnacle of Editing?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-mastering-facetunes-complete-features/"><u>2024 Approved In-Depth Review Mastering Facetune's Complete Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eyeview-scrutiny-exploration-for-2024/"><u>Eyeview Scrutiny Exploration for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-avoid-and-eliminate-fog-on-gopro-lenshousing-for-2024/"><u>How to Avoid and Eliminate Fog on GoPro Lens/Housing for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-update-your-intel-graphic-cards-driver-on-windows-11/"><u>How to Download & Update Your Intel Graphic Card's Driver on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro with a Mask On</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-influential-vr-development-studios/"><u>In 2024, Influential VR Development Studios</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-find-x7-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Find X7 Phone? Unlock It Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-ace-3-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus Ace 3 Device</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating an Eye-Catching Windows Desktop: A Guide on Utilizing Rainmeter"
-date: 2024-10-17T21:24:35.476Z
-updated: 2024-10-23T16:30:49.624Z
+date: 2024-10-26T17:48:45.689Z
+updated: 2024-10-29T16:00:20.319Z
 tags:
   - deals
 categories:
@@ -49,13 +49,6 @@ winget install rainmeter
 
  Wait for the installation to finish. Once done, search “rainmeter” in the Start menu to launch the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Creating a Blank Canvas
 
  By default, Rainmeter comes with a few basic widgets, but we won’t be using them. So let’s clear up our desktop to make room for a fresh theme. Right-click on all the skins you see and click “Unload Skin” (a skin is just a self-contained widget or app, by the way).
@@ -66,13 +59,6 @@ Close
 
 ![Context menu for hiding desktop icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-203230.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The only thing left to deal with is the Taskbar. You can set the Taskbar to auto-hide, but it will reappear when you hover the cursor near it. To auto-hide it, right-click on the taskbar and click “Taskbar Settings.” On the Settings page, toggle “Automatically Hide Taskbar in Desktop Mode.”
 
 Close 
@@ -82,10 +68,10 @@ Close
 ![Blank desktop with hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-204005.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Base Theme
@@ -100,30 +86,37 @@ Close
 
 ![Learning the Rainmeter interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-215114.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can drag to arrange skins in a layout of your choice. Be sure “Draggable” is checked for the active skin you’re trying to reposition (right-click on the skin to find that menu). Inside Dream replaced my desktop shortcuts with a shortcut bar and added a visualizer, clock, and greeting. The visualizer automatically picks up audio played from any app.
 
  There’s one more thing you need to know about skins: you’re not limited to a single Rainmeter package when building your design. You can actually install multiple themes and load skins from any of the installed packages to mix and match however you like. You can see the four Rainmeter packages that I have installed on my computer, though they're not all active. 
 
 ![Installed skins on Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134717.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I didn't like the visualizer skin in Inside Dream. It looked pretty but didn't have any music controls, s I installed a second package called [RetroColor](https://www.deviantart.com/apexxx-sensei/art/RetrOcOlOr-792148096) and loaded the music skin from it.
 
 ![Loading a music widget skin using Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134400.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The result could look something like this. but feel free to mix and match to create a design that works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ![Custom theme in Rainmeter.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-135734.png) How to Customize Your Theme
@@ -135,6 +128,13 @@ Close
  The settings on RetroColor are presented as just another skin. It lets you tweak some basic stuff like the clock formatting, temperature units, the media player of your choice (the player that connects with the media control widget), and the colors.
 
 ![Changing custom skin settings in Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-140016.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Inside Dream skin package doesn’t have a dedicated settings menu. You can only edit it using the INI files. I’m going to edit the dock shortcuts as an example. Right now the Photoshop button says "Photoshop CC" and doesn’t lead anywhere. Here’s how you can fix that shortcut.
 
@@ -169,18 +169,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-affordable-high-res-4k-cameras-under-1k/"><u>[New] Affordable High-Res 4K Cameras Under $1K</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-google-upload-mastery-a-step-by-step-guide/"><u>[New] Google Upload Mastery - A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-detailed-walkthrough-for-crafting-and-changing-your-videos-covers-on-facebook/"><u>[Updated] 2024 Approved A Detailed Walkthrough for Crafting and Changing Your Videos' Covers on Facebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-essentials-for-webinar-novices-an-introductory-walkthrough/"><u>[Updated] 2024 Approved Zoom Essentials for Webinar Novices An Introductory Walkthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fading-forward-ingenious-techniques-for-soft-echos-in-audacity-for-2024/"><u>Fading Forward Ingenious Techniques for Soft Echos in Audacity for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-examination-samsungs-complete-360-camera-experience-for-2024/"><u>Full Examination Samsung's Complete 360° Camera Experience for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>In 2024, Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-game-masters-youtube-money-hacks/"><u>In 2024, Game Masters YouTube Money Hacks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-selection-of-cost-effective-4k-projection-screens/"><u>In 2024, Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>In 2024, Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/rapid-share-tactics-for-youtube-lists-for-2024/"><u>Rapid Share Tactics for YouTube Lists for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-voice-chat-problems-in-battlefield-v-call-of-duty-black-ops-cold-war/"><u>Solution Guide for Voice Chat Problems in Battlefield V - Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-playlist-tweaking-on-youtube-for-2024/"><u>The Ultimate Playlist Tweaking on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fetching-mp3-from-facebook-groups/"><u>[New] Fetching MP3 From Facebook Groups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-range-virtual-sphere-review/"><u>[New] Full Range Virtual Sphere Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808087378-solved-how-to-fix-windows-detected-a-hard-disk-problem/"><u>[Solved] How to Fix “Windows Detected a Hard Disk Problem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-dji-phantom-4-analysis-and-review/"><u>[Updated] Complete DJI Phantom 4 Analysis and Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-online-seminar-tagline-creator/"><u>[Updated] Expert Online Seminar Tagline Creator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[Updated] Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>[Updated] From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[Updated] Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-for-fisheye-sphere-capture/"><u>2024 Approved Innovative Techniques for Fisheye Sphere Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-composition-wizard-an-audio-editing-experience/"><u>2024 Approved Magix Composition Wizard An Audio Editing Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/hdr-on-your-desk-a-windows-guide-to-color-mastery/"><u>HDR on Your Desk A Windows Guide to Color Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-audio-clips-to-written-content-harnessing-ms-words-transcription-features/"><u>In 2024, From Audio Clips to Written Content Harnessing MS Word's Transcription Features</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/step-by-step-instructions-for-downloading-inshot-editing-software-on-pc/"><u>Step-by-Step Instructions for Downloading InShot Editing Software on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamlining-system-performance-addressing-high-resource-utilization-in-the-windows-drivers-framework/"><u>Streamlining System Performance: Addressing High Resource Utilization in the Window's Drivers Framework</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/what-sets-final-cut-pro-apart-from-final-cut-express-for-2024/"><u>What Sets Final Cut Pro Apart From Final Cut Express for 2024</u></a></li>
 </ul></div>
 

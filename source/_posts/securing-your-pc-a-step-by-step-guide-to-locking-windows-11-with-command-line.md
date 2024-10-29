@@ -1,7 +1,7 @@
 ---
 title: "Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line"
-date: 2024-10-18T19:56:31.018Z
-updated: 2024-10-23T16:57:20.225Z
+date: 2024-10-24T16:36:59.726Z
+updated: 2024-10-29T17:41:48.326Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To lock your Windows PC using Command Prompt, run "**Rundll32.exe user32.dll,LockWorkStation"** in the Command Prompt
@@ -24,25 +31,11 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
@@ -50,13 +43,20 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -68,10 +68,10 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
@@ -109,21 +109,19 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-vimeo-and-youtube-the-ultimate-showdown/"><u>[New] 2024 Approved Vimeo and YouTube The Ultimate Showdown</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-prime-video-cameras-that-will-elevate-your-twitch-channel-for-2024/"><u>[New] Prime Video Cameras That Will Elevate Your Twitch Channel for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ultimate-image-booster-intense-visual-upgrade/"><u>[Updated] 2024 Approved Ultimate Image Booster Intense Visual Upgrade</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-subscriber-chart-5-most-subscribed-youtuber/"><u>[Updated] In 2024, YouTube Subscriber Chart - 5 Most Subscribed YouTuber</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-stop-snippet-playback-on-youtube/"><u>[Updated] The Ultimate Guide Stop Snippet Playback on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726027504838-7/"><u>「静止画を創造的な動画に生まれ変わらせる:最新の7つのツールベストセレクション」</u></a></li>
-<li><a href="https://win-webster.techidaily.com/complete-step-by-step-tutorial-retrieve-deleted-items-from-palworld/"><u>Complete Step-by-Step Tutorial: Retrieve Deleted Items From Palworld</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-breakdown-of-preinstalled-applications-in-specific-windows-11-machines/"><u>Troubleshooting Breakdown of Preinstalled Applications in Specific Windows 11 Machines</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-why-wont-my-new-ssd-appear-on-windows-discover-solutions/"><u>Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ubuntu-tips-concealing-taskbar-and-launcher-a-comprehensive-guide/"><u>Ubuntu Tips: Concealing Taskbar & Launcher - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-quicktime-player-a-comprehensive-guide/"><u>Understanding QuickTime Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-the-role-of-ntuserdat-in-windows-systems/"><u>Understanding the Role of NTUSER.DAT in Windows Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/upgrade-now-secure-your-windows-11-professional-copy-with-a-staggering-87-savings-opportunity/"><u>Upgrade Now: Secure Your Windows 11 Professional Copy with a Staggering 87% Savings Opportunity!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/visual-impact-techniques-for-warped-image-content-for-2024/"><u>Visual Impact Techniques for Warped Image Content for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/why-microsofts-upscaler-is-essential-the-key-attraction-of-upgrading-to-a-copilotplus-gaming-pc/"><u>Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>[New] Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>[New] Exploring HoloLens by Microsoft A 3D Dream Come True</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/our-pathway-to-a-clutter-free-device-with-video-deletion-tips-for-2024/"><u>[New] Your Pathway to a Clutter-Free Device with Video Deletion Tips for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-colors-unveiled-the-comprehensive-tutorial/"><u>[Updated] 2024 Approved Colors Unveiled The Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-shopping-spree-to-stardom-editing-your-haul-video/"><u>2024 Approved From Shopping Spree to Stardom Editing Your Haul Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funimate-masterclass-gameplay-enhancement/"><u>2024 Approved Funimate Masterclass Gameplay Enhancement</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-105-classic-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia 105 Classic Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-and-paid-iphone-photo-experience-top-app-lineup-for-2024/"><u>Free & Paid iPhone Photo Experience - Top App Lineup for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/harnessing-ambiance-with-thoughtful-lighting/"><u>Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-with-iphone-for-complete-360-video-capture/"><u>In 2024, Innovating with iPhone for Complete 360 Video Capture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-se-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone SE You Should Try Out</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-meizu-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Meizu Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/verstandnis-von-4k-ultra-hd-video-die-vollstandige-anleitung/"><u>Verständnis Von 4K Ultra HD-Video: Die Vollständige Anleitung</u></a></li>
 </ul></div>
 

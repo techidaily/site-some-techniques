@@ -1,7 +1,7 @@
 ---
 title: "Crafting Professional Bios With Artificial Intelligence: Is It Worth the Risk?"
-date: 2024-10-11T22:30:59.617Z
-updated: 2024-10-18T00:39:52.470Z
+date: 2024-10-23T17:06:23.894Z
+updated: 2024-10-29T16:28:52.987Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 * [How to Use AI to Create Top-Notch Cover Letters and Resumes](https://sound-issues.techidaily.com/no-more-quiet-computers-diy-solutions-for-a-lenovo-laptop-that-wont-play-sounds/)
 * [Some Companies Use AI Detection Tools to Scan Cover Letters](https://ai-live-streaming.techidaily.com/updated-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT can create decent resumes & cover letters from scratch and with minimal input.
@@ -27,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
  If you're on a job hunt, you know how tedious and time-consuming it is to write cover letters for every single job posting. Enter ChatGPT—it can save you countless hours by tailoring your resume and cover letter for each job application in just a few seconds. However, is there a catch?
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Is Shockingly Good at Creating Cover Letters and Resumes
@@ -48,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 ![ChatGPT showing questions for needed to create a resume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-job-quesitons.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Remember, your resume is a concise summary of essential personal information, your greatest achievements, relevant skills, and not much else. Even human-written resumes sound pretty robotic, so the results are more or less in line with the norm. For instance, I told ChatGPT to create a resume and gave it very little information to work with, and here are the results:
@@ -77,10 +90,10 @@ Close
  The worst part is that some recruiters won't even read your cover letter but will instead focus on your answers to the application questions. I briefly worked as a recruiter myself, and I'd only read a cover letter when I was on the fence. In such instances, the cover letter is there merely as a supplementary document that satisfies hiring norms. Ultimately, it's up to you to decide whether it's okay to use ChatGPT for your cover letter and resume. If you opt to use it, carefully proofread everything to make sure that there are no lies or half-truths in your job application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use AI to Create Top-Notch Cover Letters and Resumes
@@ -92,19 +105,6 @@ Close
  This is still pretty basic, as I haven't given ChatGPT enough information to work with, but it's serviceable. You can now ask it to identify gaps and help you improve the resume in general to make it even better. It'll give you actionable feedback you can implement immediately to improve your resume.
 
 ![ChatGPT providing feedback on a resume it helped generate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/feedback-1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use these same general principles to create a killer cover letter as well. You can go back and forth with ChatGPT until you land on something that you like. You can treat ChatGPT the same way you'd treat a resume consultant. Once you're done generating, first make sure there are no errors in the text. After that, add some personal flair to make sure you stand out from other applicants.
 
@@ -135,24 +135,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-get-to-know-the-pros-of-engaging-with-asmr/"><u>[New] Get to Know the Pros of Engaging with ASMR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-a-video-from-photo-with-music/"><u>[New] How to Make a Video From Photo with Music</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-video-repository-explorator/"><u>[New] In 2024, Video Repository Explorator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freedomforsounders-review-extraction-excellence/"><u>[Updated] FreedomForSounders Review Extraction Excellence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-black-and-white-to-richness-embracing-hdrs-power/"><u>[Updated] From Black and White to Richness Embracing HDR's Power</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hope-on-the-big-screen-top-10-cinematic-power-ups/"><u>[Updated] Hope on the Big Screen Top 10 Cinematic Power-Ups</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-a-channels-automatic-subscribe-purl/"><u>[Updated] In 2024, Formulating a Channel’s Automatic Subscribe PURL</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-vsdm-video-capture-overview-thorough-scrutiny/"><u>[Updated] In 2024, VSDM Video Capture Overview Thorough Scrutiny</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-lenovo-laptop-screen-recording-for-2024/"><u>[Updated] Step-by-Step Lenovo Laptop Screen Recording for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-innovators-playbook-for-premiere-pro-fullscreen-edits/"><u>[Updated] The Innovator's Playbook for Premiere Pro Fullscreen Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>2024 Approved Fluidity in Filming A Deep Dive Into Inshot's Transition Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-platform-unveiled-the-ultimate-guide-to-podcast-postings/"><u>2024 Approved Google's Platform Unveiled The Ultimate Guide to Podcast Postings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-voice-to-text-an-all-inclusive-guide-to-googles-document-feature/"><u>2024 Approved Voice to Text An All-Inclusive Guide to Google's Document Feature</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhance-your-online-presence-using-manycams-advanced-features-for-virtual-webcams-and-video-software/"><u>Enhance Your Online Presence Using ManyCam's Advanced Features for Virtual Webcams and Video Software</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/essential-strategies-to-tackle-life-threatening-obstacles-for-your-companys-2024-debut/"><u>Essential Strategies to Tackle Life-Threatening Obstacles for Your Company's 2024 Debut</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-software-gamers-streaming-companions/"><u>In 2024, Exclusive Software Gamers' Streaming Companions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-eye-on-video-the-premier-cameras-excellence/"><u>In 2024, Eye on Video The Premier Cameras Excellence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-lowered-cpu-demand-for-windows-hosts/"><u>Navigating Lowered CPU Demand for Windows Hosts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-cutting-edge-computer-components-t17239718687555/"><u>Tom's Tech Review: In-Depth Analysis of Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>[New] Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-photo-editing-unleashed-android-and-iphones-top-tools-ranked/"><u>[New] Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-change-song-speed-on-spotify/"><u>[New] Innovative Approaches to Change Song Speed on Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-secrets-of-iphone-hdr/"><u>[New] Unraveling the Secrets of iPhone HDR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-guide-to-automatic-text-generation-with-google-docs-voice-recognition/"><u>[Updated] In-Depth Guide to Automatic Text Generation with Google Docs Voice Recognition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quickly-change-digital-pictures-darkness-level/"><u>[Updated] Quickly Change Digital Pictures' Darkness Level</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-fix-for-immersive-experiences/"><u>2024 Approved Ideal Fix for Immersive Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-game-sound-transformation-the-no-cost-pathway-in-free-fire/"><u>2024 Approved In-Game Sound Transformation The No-Cost Pathway in Free Fire</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-generative-ai-emerges-as-a-major-threat-to-business-security/"><u>CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-guide-to-downloading-and-converting-youtubes-videos-into-3gp-format/"><u>Easy Guide to Downloading and Converting YouTubes Videos Into 3GP Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-user-experience-with-our-cookiebot-technology-tailored-content-and-insights-for-seo-growth/"><u>Enhance User Experience with Our Cookiebot Technology - Tailored Content & Insights for SEO Growth</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-microsoft-bluetooth-driver-updates-for-your-windows-computer-windows-101187/"><u>Get the Latest Microsoft Bluetooth Driver Updates for Your Windows Computer (Windows 10/11/8/7)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-harness-high-quality-artwork-at-no-cost-for-2024/"><u>How to Harness High-Quality Artwork at No Cost for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-11-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 11 and iPad</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-freshflicks-app-overview-and-score/"><u>In 2024, FreshFlicks App Overview & Score</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-disappearing-playback-problem-on-sony-a6400/"><u>The Disappearing Playback Problem on Sony A6400</u></a></li>
 </ul></div>
 

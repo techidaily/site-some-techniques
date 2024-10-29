@@ -1,7 +1,7 @@
 ---
 title: Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer
-date: 2024-10-19T19:38:43.590Z
-updated: 2024-10-23T18:46:27.135Z
+date: 2024-10-28T17:20:08.027Z
+updated: 2024-10-29T16:42:31.818Z
 tags:
   - deals
 categories:
@@ -18,10 +18,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Use Screenpresso to Capture the Mouse Cursor in Screenshots](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-narzo-60x-5g-without-them-knowing-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,13 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It's easy to [take screenshots](https://fox-http.techidaily.com/new-inside-the-labyroud-of-vrs-latest-creations/) in Windows 10\. However, you can't grab a screenshot that includes your mouse cursor in the image unless you use a workaround or a third-party tool. We'll show you how to do both.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Take Visible Mouse Cursor Screenshots with Steps Recorder
 
  If you want the mouse cursor to show up in your screenshots, then Steps Recorder is one way to do it. It ships with Windows 10, so you don't need to install it separately. To use it, click the search box next to the Start button in Windows 10 and type "Steps Recorder." You can also search in the Start menu, if you prefer that. 
@@ -48,13 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This will open up the search results in the Start menu. Click "Steps Recorder" in the results to launch the app.
 
 ![The search results for 'Steps Recorder.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-steps-recorder.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steps Recorder's UI looks a bit barebones, but don't let that put you off. It's a useful troubleshooting tool that takes a screenshot whenever you click on the screen. To start taking screenshots with a visible mouse cursor, press "Start Record" in the Steps Recorder app.
 
@@ -68,39 +60,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, the tricky part lies in saving these screenshots on your computer. You can scroll down in the Steps Recorder app to review every screenshot. To enlarge any screenshot, click it once.
 
 ![An enlarged screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-enlarged-screenshot.png) 
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've enlarged a screenshot, click the maximize button (the square icon) in the top-right corner of the Steps Recorder app. This button is located right next to the close button, denoted by an "X."
 
 ![Maximize the Steps Recorder window in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-maximize.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the Steps Recorder window maximized, you'll need to take a standard Windows screenshot of the step to convert it to a file. To do so, you can use various ways to [capture screenshots](https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) in Windows 10\. We used the keyboard shortcut Windows+Shift+S to get the job done.
 
 ![Windows 10's built-in screenshot utility. Press Windows+Shift+S to access it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5af9d02f546b5.png) 
 
  After capturing a screenshot, you can save it wherever you like and then repeat the process to grab other screenshots. The screenshots might appear compressed, however. If that doesn't suit your needs, you can try using our alternative method below.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Take Visible Mouse Cursor Screenshots with IrfanView
 
@@ -109,13 +101,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  First, you'll have to download IrfanView and install it on your computer. When you're done, open IrfanView and press C on your keyboard to fire up its screenshot capture tool. You can also access the same option by going to Options > Capture/Screenshot in IrfanView's menu bar.
 
 ![Go to Options > Capture/Screenshot in IrfanView to take screenshots using the free image editing app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-capture-tool.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To take a screenshot that includes the mouse cursor, check the option labeled "Include Mouse Cursor" in the "Capture Setup" window, and then click "Start" at the bottom of the window.
 
@@ -127,15 +112,42 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To save the screenshot wherever you like, use File > Save As in the menu bar. Alternatively, press "S on the keyboard to quickly open the "Save As" window.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Screenpresso to Capture the Mouse Cursor in Screenshots
 
 [Screenpresso](https://www.screenpresso.com/) is another third-party utility that can be configured to display the cursor in screenshots. After you've installed and launched the app, right-click the Screenpresso icon on the taskbar and select "Settings." 
 
 ![Right-click the Screenpresso icon, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the "Screenshot" tab, tick the box next to "Capture Mouse Cursor," then click "OK" to apply the new setting. 
 
 ![Click the 'Screenshot' tab, then tick 'Capture Mouse Cursor.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-screenshot-capture-mouse-cursor.png) 
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Screenpresso will capture your cursor in all screenshots going forward. It is best to use hotkeys to take screenshots if you want to capture your cursor, otherwise you'll just have a bunch of screenshots with your mouse cursor interacting with the Screenpresso user interface. 
 
@@ -158,22 +170,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-complete-examination-the-video-show-app-for-2024/"><u>[New] Complete Examination The Video Show App for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/utting-edge-editors-elevating-online-videos-for-2024/"><u>[New] Cutting-Edge Editors Elevating Online Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-improve-mobile-video-clarity-iphone-tips/"><u>[New] Improve Mobile Video Clarity IPhone Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-covert-videography-the-premier-8-downloader-list/"><u>[New] In 2024, Covert Videography The Premier 8 Downloader List</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-scouring-youtubes-discussions/"><u>[New] Scouring YouTubes' Discussions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-art-of-imitation-crafting-parody-videos/"><u>[Updated] 2024 Approved The Art of Imitation Crafting Parody Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-instagrams-secure-livestream-your-silent-journey/"><u>[Updated] Instagram's Secure Livestream Your Silent Journey</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-straightforward-steps-simplified-laptop-screening-on-dell/"><u>2024 Approved Straightforward Steps Simplified Laptop Screening on Dell</u></a></li>
-<li><a href="https://win-forum.techidaily.com/wtvwmv-movavi/"><u>即時免收費格式轉換WTV為WMV - 使用Movavi 影片編輯器</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-techniques-for-smooth-iphone-video-experience-for-2024/"><u>Expert Techniques for Smooth iPhone Video Experience for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-but-platinum-plan-holds-6-significant-perks-still-intact/"><u>Free GPT-4, but Platinum Plan Holds 6 Significant Perks Still Intact.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-feature-analysis-videon-plus-suite-the-edit-experience-for-2024/"><u>Full Feature Analysis Videon Plus Suite – The Edit Experience for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hiding-identity-on-instagram-live-secure-viewing-tips-for-2024/"><u>Hiding Identity on Instagram Live Secure Viewing Tips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-industrys-mightiest-drone-fleet-compilation/"><u>In 2024, Industry's Mightiest Drone Fleet Compilation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/simplified-cell-phone-unlocking-approved-by-the-federal-communications-commission/"><u>Simplified Cell Phone Unlocking Approved by the Federal Communications Commission</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unlocking-todays-nytimes-puzzle-challenge-discover-the-connection-on-july-24th/"><u>Unlocking Today's NYTimes Puzzle Challenge - Discover the Connection on July 24Th</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/why-its-crucial-to-organize-your-virtual-world-unlock-the-secrets-of-a-neat-digital-existence/"><u>Why It’s Crucial to Organize Your Virtual World: Unlock the Secrets of a Neat Digital Existence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-online-image-perfection-at-your-fingertips/"><u>[New] Free Online Image Perfection at Your Fingertips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-content-creator-to-earnings-expert-on-youtube-for-2024/"><u>[New] From Content Creator to Earnings Expert on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-beginnings-secrets-to-successful-podcast-intros/"><u>[New] Immersive Beginnings Secrets to Successful Podcast Intros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basic-to-exceptional-gopro-filming-techniques/"><u>[Updated] From Basic to Exceptional Gopro Filming Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-deciphering-how-to-spot-your-video-enthusiasts/"><u>[Updated] In 2024, Deciphering How to Spot Your Video Enthusiasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tumblr-id-visualization-guide-size-format-duration/"><u>[Updated] In 2024, Tumblr ID Visualization Guide Size, Format, Duration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-quick-and-easy-dvd-conversion-winx-dvd-ripper-platinum-transform-your-dvds-to-hd-quality-mp4-in-minutes/"><u>1. Quick & Easy DVD Conversion: WinX DVD Ripper Platinum - Transform Your DVDs to HD-Quality MP4 in Minutes!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>2024 Approved High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 7 Plus</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grassroot-game-gear-free-film-tips-for-fans-for-2024/"><u>Grassroot Game Gear - Free Film Tips for Fans for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdr-brilliance-justified-choice-or-overkill-in-2024/"><u>HDR Brilliance Justified Choice or Overkill, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-videos-to-audible-pleasures-online-mp3-creation-secrets/"><u>In 2024, FB Videos to Audible Pleasures Online MP3 Creation Secrets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-save-top-cloud-providers-rates/"><u>In 2024, How to Save Top Cloud Providers' Rates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-innovating-advertising-on-facebook-the-most-effective-videography/"><u>In 2024, Innovating Advertising on Facebook The Most Effective Videography</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ps5-variants-explored-an-in-depth-look-at-ps5-slim-against-the-regular-ps5/"><u>PS5 Variants Explored: An In-Depth Look at PS5 Slim Against The Regular PS5</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Never Miss a Beat with Smart Planning for WhatsApp Updates on Key Occasions
-date: 2024-10-18T19:49:23.303Z
-updated: 2024-10-23T21:35:43.442Z
+date: 2024-10-28T16:23:40.345Z
+updated: 2024-10-29T17:04:49.588Z
 tags:
   - mobile
 categories:
@@ -29,18 +29,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recipients option in the SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/recipients-option-in-the-skedit-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close 
 
  Type your message in the message field and add any attachments if needed. Next, select the date and time for the scheduled message and tap the check icon at the top.
 
 ![SKEDit app message field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/skedit-app-message-field.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Check icon in SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/check-icon-on-skedit-app.jpg) 
 
@@ -54,6 +54,13 @@ Close
 
 ![New Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-automation-option-in-the-shortcuts-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Time of Day option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/time-of-day-option-in-the-shortcuts-app.jpg) 
 
 Close 
@@ -63,25 +70,19 @@ Close
 ![Run Immediately option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/run-immediately-option-in-the-shortcuts-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![New Blank Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-blank-automation-option-in-the-shortcuts-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close 
@@ -90,50 +91,31 @@ Close
 
 ![Send Message via WhatsApp  option in Shortscut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/send-message-via-whatsapp-option-in-shortscut.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Done option in the Shortcut app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/done-option-in-the-shortcut-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close 
 
  That's about it. The WhatsApp message will be sent automatically at the scheduled time. Make sure to delete the automation task once you no longer need the scheduled message.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Schedule WhatsApp Messages on WhatsApp Web
 
  Similar to your iPhone and Android smartphone, you can also schedule WhatsApp messages on [WhatsApp Web](https://fox-that.techidaily.com/dealing-with-iphone-x-troubles-heres-how-you-can-resolve-the-7-biggest-nuisances/). All you need to do is get the Blueticks extension from the Chrome Web Store. To begin, open Google Chrome and visit the [Chrome Web Store](https://chromewebstore.google.com/). Then, select the "Extensions" option in the top bar, type "Blueticks" in the search bar, and hit Enter.
 
 ![Extensions tab in Chrome Web Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-tab-in-chrome-web-store.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click the "Add to Chrome" button on the Blueticks page.
 
@@ -144,10 +126,10 @@ Close
 ![Add Extension option in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-extension-option-in-chrome.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the extension is installed, click the extensions icon in the Chrome toolbar and then click "Blueticks." Create a Blueticks account and log in.
@@ -181,20 +163,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>[New] Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-extend-the-usage-of-your-gopro-battery/"><u>[New] How to Extend the Usage of Your GoPro Battery</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-deep-dive-inside-the-dji-inspire-2/"><u>[New] In 2024, Deep Dive Inside the DJI Inspire 2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-express-humor-no-charge-with-easymeme-tools/"><u>[Updated] Express Humor, No Charge with EasyMeme Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-mindset-tunes-no-copyrights/"><u>[Updated] Free Mindset Tunes - No Copyrights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-vs-yi-4k-evaluating-2023s-best-for-high-speed-cameras/"><u>[Updated] GoPro Vs. Yi 4K Evaluating 2023'S Best for High-Speed Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-green-screen-glossary-for-novice-visual-effect-enthusiasts/"><u>[Updated] Green Screen Glossary for Novice Visual Effect Enthusiasts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-photo-color-reversal-techniques/"><u>[Updated] In 2024, Mastering Photo Color Reversal Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-side-by-side-display-logging/"><u>[Updated] In 2024, Side-by-Side Display Logging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-training-on-googles-advanced-speech-to-text-feature/"><u>[Updated] In-Depth Training on Google's Advanced Speech to Text Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-to-subtly-soften-audible-output-via-lumafusion/"><u>[Updated] Innovative Methods to Subtly Soften Audible Output via Lumafusion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-prepping-space-for-virtual-reality/"><u>2024 Approved Mastering the Art of Prepping Space for Virtual Reality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/imovie-soundtracks-made-easy-and-effective/"><u>IMovie Soundtracks Made Easy & Effective</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-deciphering-facebooks-iconic-blue-emoji-usage-in-messages/"><u>In 2024, Deciphering Facebook's Iconic Blue Emoji Usage in Messages</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-honor-100-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor 100 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-headline-hypnotizer-simulator/"><u>[New] Headline Hypnotizer Simulator</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamline-and-slim-vids-instagram-tips-using-macos-for-2024/"><u>[Updated] Streamline and Slim Vids Instagram Tips Using macOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-best-gopro-accessories-for-beginners/"><u>2024 Approved Best GoPro Accessories for Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>2024 Approved From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-greatest-hits-max-360-vs-hero-11-comparison/"><u>2024 Approved GoPro's Greatest Hits Max 360 vs Hero 11 Comparison</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-11-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-the-world-of-photography-with-adobes-hdr-techniques/"><u>In 2024, Illuminating the World of Photography with Adobe's HDR Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-api-essential-techniques-and-best-practices/"><u>Integrating ChatGPT API: Essential Techniques and Best Practices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a24-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A24 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sifting-through-codegpt-can-it-realistically-write-complex-code/"><u>Sifting Through CodeGPT: Can It Realistically Write Complex Code?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-fixing-print-driver-errors-on-windows-11-systems/"><u>Troubleshooting and Fixing Print Driver Errors on Windows 11 Systems</u></a></li>
 </ul></div>
 

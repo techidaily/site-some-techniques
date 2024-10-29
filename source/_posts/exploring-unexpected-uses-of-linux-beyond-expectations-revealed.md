@@ -1,7 +1,7 @@
 ---
 title: Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-date: 2024-10-21T17:09:26.672Z
-updated: 2024-10-23T20:40:05.374Z
+date: 2024-10-23T17:35:49.358Z
+updated: 2024-10-29T17:19:12.292Z
 tags:
   - desktop
 categories:
@@ -31,44 +31,31 @@ Hannah Stryker / How-To Geek
 
  Smart appliances like smart TVs often have an operating system derived from Linux, but there's a good chance there's some form of Linux in appliances like smart fridges or internet-connected microwaves. Since the Linux kernel is free and open-source, there's plenty of incentive to simply adapt it to run on appliances that need this level of software to do their jobs, instead of writing software from scratch. There's even a chance that your Wi-Fi router could be running Linux. Even your [coffee maker at work](https://www.reddit.com/r/LinuxActionShow/comments/594b7m/the%5Fnew%5Fcoffee%5Fmachine%5Fat%5Fmy%5Fworkplace%5Fruns%5Flinux/) could be running Linux.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Supercomputers 
 
 ![The Cray XK7 Titan Supercomputer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/cray_titan_supercomputer.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _ORNL_
 
  The 500 most powerful computers in the world [all run Linux](http://www.stackscale.com/blog/most-powerful-supercomputers-linux/)[.](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/) So if you have millions on the line, running mission-critical work on the most expensive computers known to man, Linux seems to be the way to go. Of course, these mega computers don't run the same Linux distros our beloved Linux readership love to argue about in the comments. One of the main reasons Linux dominates the high-performance computing world is that it's completely open and customizable. Computer scientists and engineers can trim absolutely all the fat from the operating system, and modify it to get the absolute most our of the hardware and electrical power they have.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Your Car's Infotainment Unit 
 
 ![Waze running on a car infotainment screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/909ecb91.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Waze](https://www.waze.com/press)_
 
@@ -78,16 +65,22 @@ _[Waze](https://www.waze.com/press)_
 
 ![Front and rear view of some flagship smartphones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/front-and-rear-view-of-some-flagship-smartphones.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lucas Gouveia / How-To Geek | Best Buy
 
  This is technically cheating a little but, but most smartphones in the world run Android, and Android is based on Linux. However, it's heavily modified and doesn't contain the same set of libraries as standard Linux distros meant for desktop use. However, there _are_ [proper Linux smartphones](https://driver-install.techidaily.com/startech-windows-drives-mended-across-xp-to-11/) such as the [Librem 5](https://puri.sm/products/librem-5/), which runs [PureOS](https://pureos.net/), a distro of Linux.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Medical Devices 
 
@@ -97,22 +90,16 @@ _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical
 
  Medical devices such as MRI machines or the machines that monitor vital signs more often than not run Linux. There are many reasons why Linux is a popular choice for embedded software in medical devices, but patient data security, real-time OS (RTOS) capabilities, flexibility, and reliability are at the top of the list. The next time you need to get a scan, or if you're ever operated on by a surgical robot, chances are both of those devices are running some flavor of Linux.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  IoT Gadgets 
 
 ![iot devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/05/241daf9c.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shutterstock/Panchenko Vladimir
 
@@ -121,6 +108,13 @@ Shutterstock/Panchenko Vladimir
 ## 7  Emulator Handhelds 
 
 ![Anbernic RG35X H portable handheld retro gaming console.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/anbernic_rg35xx_h.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Anbernic
 
@@ -141,20 +135,15 @@ Anbernic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gigabytes-needed-for-a-full-days-movie-watching/"><u>[New] Gigabytes Needed for a Full Day's Movie Watching</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hero-11-vs-max-360-deciding-the-top-tier-gopro-video-camera/"><u>[New] Hero 11 vs Max 360 - Deciding the Top-Tier GoPro Video Camera</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-changing-igtv-video-covers/"><u>[New] In 2024, The Art of Changing IGTV Video Covers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-book-trailers-displayed/"><u>[New] Innovative Book Trailers Displayed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-static-to-spinning-mastering-photo-effects-in-illustrator/"><u>[Updated] From Static to Spinning Mastering Photo Effects in Illustrator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-find-your-perfect-livestream-service-match/"><u>[Updated] How to Find Your Perfect Livestream Service Match</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-complete-blueprint-for-capturing-your-ps4-adventures-for-2024/"><u>[Updated] The Complete Blueprint for Capturing Your PS4 Adventures for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-essence-photos-meet-music-videos/"><u>Capturing Essence Photos Meet Music Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-10-popular-and-free-email-providers-our-picks/"><u>Explore These 10 Popular and Free Email Providers – Our Picks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-and-update-the-driver-for-your-tp-link-ub400-wireless-bluetooth-adapter/"><u>How to Get and Update the Driver for Your TP-Link UB400 Wireless Bluetooth Adapter</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-luts-to-spark-ar-and-download-free-lut-for-2024/"><u>How to Use LUTs to Spark AR & Download Free LUT for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ditch-the-viewfinder-top-6-non-periscope-video-platforms/"><u>In 2024, Ditch the Viewfinder Top 6 Non-Periscope Video Platforms</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-animated-logo-magic-11-free-tools-and-pro-design-tips/"><u>New 2024 Approved Animated Logo Magic 11 Free Tools and Pro Design Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-madden-nfl-22-issues-easy-solutions/"><u>Quick Fixes for 'Madden NFL 22' Issues: Easy Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-fantasy-to-reality-vrs-path/"><u>[New] From Fantasy to Reality VR’s Path</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-windows-10s-premier-choice-of-video-grabber-software/"><u>[New] In 2024, Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-alternatives-to-blockbuster-flicks/"><u>[Updated] 2024 Approved Best Alternatives to Blockbuster Flicks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elevate-your-reddit-presence-with-these-essentials-for-2024/"><u>[Updated] Elevate Your Reddit Presence with These Essentials for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-photography-with-insights-into-lut-use/"><u>[Updated] Innovative Photography with Insights Into LUT Use</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-syncing-twitter-to-snapchat-video-uploading-techniques/"><u>[Updated] Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-sites-for-secure-and-quick-download-of-youtube-ringtones/"><u>2024 Approved Exclusive Sites for Secure & Quick Download of YouTube Ringtones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-snappy-sharing-uploading-and-publishing-short-videos-online/"><u>2024 Approved Snappy Sharing Uploading and Publishing Short Videos Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-spotify-code-4-connection-error-in-windows-11-and-11/"><u>How to Fix the Spotify Code 4 Connection Error in Windows 11 & 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/implement-shutter-speed-blurring-in-psx-for-2024/"><u>Implement Shutter Speed Blurring in PSX for 2024</u></a></li>
 </ul></div>
 

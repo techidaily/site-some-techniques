@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2024-10-18T19:58:20.288Z
-updated: 2024-10-23T20:28:28.315Z
+date: 2024-10-27T16:28:26.783Z
+updated: 2024-10-29T17:17:15.770Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Better Way: Let Windows Search Find All Your Photos
@@ -48,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
@@ -69,18 +75,24 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the results return everything from pictures used by the system to personal pictures contained within the folder and all its subfolders. The search includes images saved in JPG, PNG, GIF, and BMP formats, which are the most common formats used. If you've got pictures stored in another format, like RAW, you'll have to find them another way.
 
  The search I ran on my C: drive came back with 27,494 pictures.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you've located the picture(s) you were looking for, you can right-click it, then select "Open File Location" to open the folder where it's contained.
 
@@ -93,10 +105,16 @@ kind:=picture
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
@@ -106,10 +124,10 @@ kind:=picture
 ![Click the filter button, enter an image format, then click "Apply Filter."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-include-filter-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
@@ -144,22 +162,24 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies/"><u>[New] 2024 Approved Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prestigious-websites-elevating-youtube-content/"><u>[New] Prestigious Websites Elevating YouTube Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/treamline-marketing-with-top-rated-video-tags-generators/"><u>[New] Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mood-matcher-auditory-selection-for-videos/"><u>[Updated] 2024 Approved Mood Matcher Auditory Selection for Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-quintessential-list-of-top-15-masterpieces-in-stop-motion/"><u>2024 Approved The Quintessential List of Top 15 Masterpieces in Stop Motion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-key-sites-for-enhancing-youtube-video-popularity/"><u>In 2024, Key Sites for Enhancing YouTube Video Popularity</u></a></li>
-<li><a href="https://article-files.techidaily.com/secrets-of-6-video-categories-for-viewer-retention-for-2024/"><u>Secrets of 6 Video Categories for Viewer Retention for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-to-turn-off-igtv/"><u>Step-by-Step to Turn Off IGTV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-ultimate-guide-discover-the-top-tech-innovations-honored-at-ces-2024/"><u>The Ultimate Guide: Discover the Top Tech Innovations Honored at CES 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/this-seo-title-emphasizes-exploration-of-innovation-suggesting-that-viewers-will-not-only-watch-but-also-understand-and-learn-from-the-event/"><u>This SEO Title Emphasizes Exploration of Innovation, Suggesting that Viewers Will Not only Watch but Also Understand and Learn From the Event.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-features-to-consider-when-choosing-your-first-e-bike/"><u>Top Features to Consider When Choosing Your First E-Bike</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-innovation-in-desktop-computers/"><u>Ultimate Innovation in Desktop Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-artificial-intelligence-does-chatgpt-experience-hallucinations/"><u>Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-teslas-track-mode-functionality-and-operating-mechanics-explained/"><u>Understanding Tesla's Track Mode: Functionality and Operating Mechanics Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-the-distinction-between-electric-and-hybrid-vehicles/"><u>Understanding the Distinction Between Electric and Hybrid Vehicles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/understanding-valves-latest-policy-a-comprehensive-look-at-the-ban-on-steams-blockchain-nft-and-cryptocurrency-games/"><u>Understanding Valve's Latest Policy: A Comprehensive Look at the Ban on Steam's Blockchain, NFT, and Cryptocurrency Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/unlock-personalized-ai-experiences-with-chatgpts-newly-available-free-generative-pre-trained-transformer-templates/"><u>Unlock Personalized AI Experiences with ChatGPT's Newly-Available Free Generative Pre-Trained Transformer Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-emotions-an-hdr-portraitists-guide/"><u>[New] Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-detailed-insights-into-camstudio-capture-functionality/"><u>[New] In 2024, Detailed Insights Into CamStudio Capture Functionality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-prime-uav-options-to-maximize-your-gopro-video-potential/"><u>[New] Prime UAV Options to Maximize Your GoPro Video Potential</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-strategy-for-efficient-use-of-mobizens-recording-features/"><u>[Updated] 2024 Approved The Ultimate Strategy for Efficient Use of Mobizen's Recording Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-giggle-enhancer-for-images/"><u>[Updated] Expert Giggle Enhancer for Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-mindfulness-melodies/"><u>[Updated] Free Mindfulness Melodies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>[Updated] Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ripple-rhythms-selecting-audio-distortion-tools/"><u>[Updated] Ripple Rhythms Selecting Audio Distortion Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-streamers-guide-to-360-degree-live-footage/"><u>2024 Approved Excellent Streamers' Guide to 360-Degree Live Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-plate-to-screen-perfecting-the-art-of-food-cinema/"><u>2024 Approved From Plate to Screen Perfecting the Art of Food Cinema</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-11-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 11 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/convert-3gp-files-effortlessly-change-to-popular-video-formats-like-mp4-avi-and-more/"><u>Convert 3GP Files Effortlessly: Change to Popular Video Formats Like MP4, AVI & More!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exhaustive-explanation-unveiling-the-google-podcasts-app-for-2024/"><u>Exhaustive Explanation Unveiling the Google Podcasts App for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-face-flaunting-visual-guidebook/"><u>In 2024, Face Flaunting Visual Guidebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-note-30-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Note 30 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-sharpen-your-vision-in-the-world-of-roblox/"><u>In 2024, How to Sharpen Your Vision in the World of Roblox</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/inside-out-a-review-of-individual-3d-printing-journey-for-2024/"><u>Inside Out A Review of Individual 3D Printing Journey for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-evaluation-toms-technological-tools-and-systems/"><u>Precision Performance Evaluation - Tom's Technological Tools and Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

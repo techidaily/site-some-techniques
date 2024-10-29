@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology"
-date: 2024-10-21T16:53:38.361Z
-updated: 2024-10-23T21:55:53.650Z
+date: 2024-10-24T17:52:15.745Z
+updated: 2024-10-29T17:09:41.135Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
 
  The uproar around Meta’s AI labeling stems from the fact that the company does not discriminate between using AI to generate photo-realistic images and [using an AI process to edit a photo](https://fox-http.techidaily.com/enhancing-your-aesthetic-vision/). As far as Meta is concerned, both fall into the same category.
@@ -44,28 +58,15 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
 
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
 
@@ -81,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Meta’s AI Labeling Is Not Foolproof
 
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
@@ -95,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
@@ -130,16 +130,19 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-record-video-directly-from-webcam-using-vlc-media-player/"><u>[New] In 2024, Record Video Directly From Webcam Using VLC Media Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-and-alter-sacred-audio-sounds/"><u>[Updated] How to Download and Alter Sacred Audio Sounds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-future-with-av1-over-vp9/"><u>2024 Approved Exploring the Future with AV1 over VP9</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-venues-expanding-youtube-visibility/"><u>2024 Approved Foremost Venues Expanding YouTube Visibility</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>2024 Approved Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-minimizing-movement-blur-in-media/"><u>2024 Approved Minimizing Movement Blur in Media</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-recording-software-for-education-sector/"><u>2024 Approved Professional Recording Software for Education Sector</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/"><u>In 2024, GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-processors-and-peripherals-at-toms-computing-hub/"><u>Inside the World of Processors and Peripherals at Tom's Computing Hub</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-free-online-video-reversers/"><u>New In 2024, The Best Free Online Video Reversers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-picture-unraveling-the-google-podcast-application/"><u>[New] Full Picture Unraveling the Google Podcast Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-efficiently-retrieve-youtubes-srt-files/"><u>[Updated] Guide to Efficiently Retrieve YouTube's SRT Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighting-key-developments-in-windows-movie-maker-releases/"><u>2024 Approved Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-select-and-download-the-right-audio-for-your-video/"><u>2024 Approved How to Select and Download the Right Audio for Your Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-mobile-cloud-storage-for-android-guidebook/"><u>2024 Approved Top Ranked Mobile Cloud Storage for Android Guidebook</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-resoudre-les-problemes-de-non-reconnaissance-pour-le-samsung-ssd-860-evo-et-970-evo/"><u>Comment Résoudre Les Problèmes De Non-Reconnaissance Pour Le Samsung SSD 860 EVO Et 970 EVO</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-6-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic 6 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-attract-and-retain-more-viewers-on-youtube/"><u>In 2024, How to Attract and Retain More Viewers on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-psglasses-delight-the-best-5-playstation-vr-titles-coming-soon/"><u>In 2024, PSGlasses Delight The Best 5 PlayStation VR Titles Coming Soon</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-llama-2-insights-into-the-advanced-language-ai-and-its-potential-impact/"><u>Mastering Llama 2: Insights Into the Advanced Language AI and Its Potential Impact</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-transform-your-clips-time-lapse-video-editing-essentials-in-final-cut-pro/"><u>New In 2024, Transform Your Clips Time Lapse Video Editing Essentials in Final Cut Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/predictions-for-a-troubled-path-understanding-the-escalating-security-pitfalls-in-generative-ai-technology/"><u>Predictions for a Troubled Path: Understanding the Escalating Security Pitfalls in Generative AI Technology</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>Updated 2024 Approved Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
 </ul></div>
 

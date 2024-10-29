@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] High Definition Face-Off  Ultimate Legend SJ6 Vs. Xiaomi's Yi\""
-date: 2024-08-19T23:08:57.851Z
-updated: 2024-08-20T23:08:57.851Z
+date: 2024-10-28T17:43:02.650Z
+updated: 2024-10-29T16:54:16.671Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 | Loop Recording                 | 5 min, 20 min, 60 min, 120 min, Max | 3min/5min/10min           |
 | Waterproof                     | 40 m (with case)                    | 30 m (with case)          |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Hardware Comparison
 
 #### Design
@@ -78,8 +85,12 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  If you are a underwater adventure lover then Yi 4K cannot provide your more satisfactory service because it can go underwater up to 40 meters and this dive is not possible without protective case. The sad part is that the camera box doesn’t include case so you have to make additional payment to buy it. SJ6 legend is designed to offer impressive underwater performance with its ability to go underwater up to 30 meters with ease and a sturdy, sleek, well designed waterproof case is included in its package.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Features and Performance Comparison
 
 #### Video and Image Quality
@@ -95,8 +106,12 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  If you are found of recording videos on the go then SJ6 Gyro Stabilizer feature can serve you with better results. Simply turn on Gyro mode during your recordings and it will adjust all ups and downs during motion recordings. No matter whether you are going to attach your camera to handlebar or wish to place it on helmet; this camera with ensure quality results in all cases. In case of Yi 4K you will be able to avail electronic image stabilization for 2.7K resolution level. It is designed using 3 axis type gyroscope and also includes 3-axis accelerometer to ensure smooth recording on the go. The cross border compensation feature makes videos more stable.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  By comparing all the features, readers will find more reasons to buy Yi 4K action camera. Tests reveal its impressive video quality with stunning color distributions. It can also serve you better for travelling needs but those who want to shoot under water are advised to think about SJ6 cam. You will find wide range of options for mounts and accessories with SJ6 that make it easier to adjust even for tough location recordings. You will also be able to get Micro HDMI port option with external microphone support with SJCAM SJ6 Legend, all these features make it best for shooting videos at tough locations; it will definitely ensure impressive audio-video quality .
@@ -108,15 +123,17 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,3 +141,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-crescendo-to-calmness-premier-asmr-artists/"><u>[New] 2024 Approved Crescendo to Calmness Premier ASMR Artists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-top-8-accessories-for-vr-games/"><u>[New] Innovative Top 8 Accessories for VR Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giggle-geniuses-selecting-superior-memery-apps/"><u>[Updated] Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-banishing-vibration-effects-in-uav-videos/"><u>2024 Approved Banishing Vibration Effects in UAV Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-compelling-macos-sierra-coders-for-vids/"><u>2024 Approved Compelling MacOS Sierra Coders for Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-skies-with-top-10-beginner-drones/"><u>2024 Approved Exploring the Skies with Top 10 Beginner Drones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-professional-videographers-choice-for-screen-recordings/"><u>2024 Approved Professional Videographer's Choice for Screen Recordings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-11-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 11 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-correcting-d3d9dll-absence-in-windows-systems/"><u>Expert Tips: Correcting 'D3D9.DLL' Absence in Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-cinema-the-vr-impact/"><u>In 2024, Future Cinema The VR Impact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-honored-hubs-best-websites-to-download-snapalert-beats/"><u>In 2024, Honored Hubs Best Websites to Download SnapAlert Beats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminate-creativity-engage-in-pcs-high-dynamic-range-vision/"><u>In 2024, Illuminate Creativity Engage in PC's High Dynamic Range Vision</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-free-video-editing-software-for-32-bit-windows/"><u>New In 2024, Unleash Your Creativity Top Free Video Editing Software for 32-Bit Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-10-16T21:17:30.372Z
-updated: 2024-10-23T17:11:24.849Z
+date: 2024-10-28T17:05:12.621Z
+updated: 2024-10-29T16:42:55.988Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,10 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -65,10 +65,10 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -88,10 +88,10 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -115,10 +115,10 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -148,21 +148,19 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-free-resources-for-youtube-intros/"><u>[New] 2024 Approved Essential Free Resources for YouTube Intros</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-into-the-world-of-youtube-stellar-intros-in-imovie/"><u>[New] In 2024, Breaking Into the World of YouTube Stellar Intros in iMovie</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>[Updated] 2024 Approved Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
-<li><a href="https://win11.techidaily.com/a-handy-manual-assessing-and-annulling-window-history-data/"><u>A Handy Manual: Assessing & Annulling Window History Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ai-vacation-planner-showdown-perplexity-versus-chatgpt-my-experience/"><u>AI Vacation Planner Showdown: Perplexity Versus ChatGPT - My Experience</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-practices-for-designing-an-engaging-youtube-teaser-for-2024/"><u>Best Practices for Designing an Engaging YouTube Teaser for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boosted-ai-capabilities-with-intel-core-ultra-pcs-experience-optimal-integration-of-cutting-edge-including-stable-diffusion/"><u>Boosted AI Capabilities with Intel Core Ultra PCs – Experience Optimal Integration of Cutting-Edge Including Stable Diffusion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/californias-bold-move-prohibiting-new-gasoline-vehicle-purchases-by-2035/"><u>California's Bold Move: Prohibiting New Gasoline Vehicle Purchases by 2035</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/chatgpt-vs-google-translate-which-provides-superior-translation-accuracy/"><u>ChatGPT Vs. Google Translate: Which Provides Superior Translation Accuracy?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comparing-ideograms-and-midjourney-a-comprehensive-showdown/"><u>Comparing Ideograms and Midjourney: A Comprehensive Showdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-assessment-of-the-chipolo-card-spot-innovative-tracking-device-mimicking-credit-card-design/"><u>Comprehensive Assessment of the Chipolo CARD Spot: Innovative Tracking Device Mimicking Credit Card Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-ricoh-theta-s-in-full-review/"><u>In 2024, Exploring Ricoh Theta S in Full Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>In 2024, Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-premier-cameras-for-diving-and-snorkeling-enthusiasts/"><u>In 2024, The Ultimate List Premier Cameras for Diving & Snorkeling Enthusiasts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-system-fixes-navigating-through-windows-11-and-10-built-in-support/"><u>Mastering System Fixes: Navigating Through Windows 11 & 10 Built-In Support</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-card-not-compatible-with-windows-11-fix/"><u>Nvidia Card Not Compatible with Windows 11 [Fix]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-lush-looks-and-flawless-filters-building-your-vlog-empire/"><u>[New] Lush Looks and Flawless Filters Building Your Vlog Empire</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-path-to-personalization-adjusting-snapchat-videos-pace/"><u>[New] The Path to Personalization Adjusting Snapchat Videos' Pace</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-zoom-meeting-fundamentals-for-the-uninitiated/"><u>[Updated] 2024 Approved Zoom Meeting Fundamentals for the Uninitiated</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>[Updated] Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-tips-for-crafting-professional-slug-line-notations/"><u>[Updated] Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-manipulating-colors-in-video-edits/"><u>[Updated] Expertly Manipulating Colors in Video Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-going-back-with-android-video-editing/"><u>[Updated] Going Back with Android Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-file-downloader-examination/"><u>[Updated] Humorous File Downloader Examination</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-iphone-shots-the-ultimate-hdr-guide-for-2024/"><u>[Updated] Mastering iPhone Shots The Ultimate HDR Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-frustration-to-finishing-how-magix-vpx-saves-time-for-2024/"><u>From Frustration to Finishing How Magix VPX Saves Time for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/harness-the-power-of-external-game-control-on-your-android-phonetablet/"><u>Harness the Power of External Game Control on Your Android Phone/Tablet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-boxes-crafting-memorable-receiving-moments/"><u>In 2024, Beyond Boxes Crafting Memorable Receiving Moments</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-5-player-audio-mp3-and-aac-di-musica-migliori-del-2020-windows-e-mac-os-compatibili/"><u>Top 5 Player Audio MP3 & AAC Di Musica Migliori Del 2020: Windows E Mac OS Compatibili</u></a></li>
 </ul></div>
 

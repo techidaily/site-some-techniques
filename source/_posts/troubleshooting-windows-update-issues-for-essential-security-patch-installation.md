@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Issues for Essential Security Patch Installation
-date: 2024-10-18T19:54:20.806Z
-updated: 2024-10-23T16:57:15.626Z
+date: 2024-10-28T17:41:00.589Z
+updated: 2024-10-29T17:50:01.404Z
 tags:
   - deals
 categories:
@@ -26,22 +26,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Update Now' highlighted on the Windows Update Assistant site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-download-windows-update-assistant.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the downloaded tool file, install the updates displayed in the tool, and [restart your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/).
 
  In the future, you can update your system from Settings > Update & Security > Windows Update as usual without encountering the above error.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Clear Your Windows Update Cache
@@ -58,13 +57,6 @@ services.msc
 
 !['Stop' highlighted for the 'Windows Update' service on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-stop-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, open the Run dialog box again, enter the following in the field, and press Enter:
 
 C:\Windows\SoftwareDistribution\
@@ -72,6 +64,13 @@ C:\Windows\SoftwareDistribution\
  You’ll see your Windows Update cache folder. Here, [select all available files](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/) by pressing Ctrl+A. Then, right-click a selected file and choose "Delete". This deletes all your update cache files.
 
 !['Delete' highlighted in the right-click menu for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-windows-update-cache.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Make sure to [empty your Recycle Bin](https://youtube-webster.techidaily.com/n-2024-effortless-guide-to-designing-youtube-follow-links/) after deleting the above files. Then, return to the "Services" window, right-click "Windows Update", and select "Start".
 
@@ -85,6 +84,13 @@ C:\Windows\SoftwareDistribution\
 
 !['Run the Troubleshooter' highlighted for the 'Windows Update' troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-launch-windows-update-troubleshooter.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the tool to detect and resolve your update problems. This can take anywhere from a few seconds to a few minutes, then restart your PC.
 
 ##  4\. Fix Windows’ Corrupted System Files
@@ -95,6 +101,13 @@ C:\Windows\SoftwareDistribution\
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "User Account Control" prompt, choose "Yes".
 
  On the Command Prompt window, type the following command and press Enter. This will download the files needed to fix your corrupted files.
@@ -102,13 +115,6 @@ C:\Windows\SoftwareDistribution\
 DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![The DISM command on a Command Prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-run-dism-command-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next up, run the following command to begin finding and fixing your system’s damaged files:
 
@@ -135,21 +141,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-halt-and-rewind-mastering-live-streams-on-twitch/"><u>[New] Halt & Rewind Mastering Live Streams on Twitch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-imagery-the-art-of-digital-bending/"><u>[New] Innovative Imagery The Art of Digital Bending</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>[New] M1 Pro Vs. M1 Max Delving Into the Details of Apple's Latest CPUs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[Updated] From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-fast-snapfinders-handbook/"><u>[Updated] In 2024, Fast Snapfinder's Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-forming-inspiring-collage-photos/"><u>2024 Approved Expertise in Forming Inspiring Collage Photos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-platform-prowess-finding-your-future-in-obstwitch/"><u>2024 Approved Platform Prowess Finding Your Future in OBS/Twitch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-a2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi A2 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bring-the-future-to-your-fingertips-android-and-ios-users-can-harness-the-power-of-bings-ai-driven-search/"><u>Bring the Future to Your Fingertips: Android & iOS Users Can Harness the Power of Bing's AI-Driven Search</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone-for-2024/"><u>How to Transfer Photos and Videos From Android Phone to an iPhone for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-floodproof-favorites-compiling-top-7-cameras-list/"><u>In 2024, Floodproof Favorites Compiling Top 7 Cameras List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>In 2024, FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 VIP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering/"><u>Mastering.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-youtube-and-instagram-sharing-video-content-without-limits-for-2024/"><u>Navigating YouTube and Instagram Sharing Video Content without Limits for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-errors-with-the-absent-d3dx940-dynamic-link-library/"><u>Overcoming Errors with the Absent D3dx9_40 Dynamic Link Library</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streamlining-your-digital-workspace-mastering-zoom-sessions/"><u>[New] 2024 Approved Streamlining Your Digital Workspace Mastering Zoom Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-can-i-stop-my-videos-from-flipping-on-instagram/"><u>[New] How Can I Stop My Videos From Flipping on Instagram?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[Updated] 2024 Approved Exclusive YouTube Snippet Access - High Quality, Free Download!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cutting-edge-tips-for-game-capture-in-obs/"><u>[Updated] Cutting-Edge Tips for Game Capture in OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-flying-brain-games-top-11-knowledge-channels/"><u>[Updated] High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-macbook-air-beginners-guide-to-screen-recording-for-2024/"><u>[Updated] Mastering MacBook Air Beginner's Guide to Screen Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-illumination-the-essential-list-of-frame-enhancing-apps/"><u>2024 Approved Image Illumination The Essential List of Frame-Enhancing Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-evolving-skills-in-the-realm-of-google-photos-for-2024/"><u>From Novice Evolving Skills in the Realm of Google Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-create-time-lapse-video-with-canon-camera-for-2024/"><u>How to Create Time-Lapse Video with Canon Camera for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s23-ultra-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S23 Ultra for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-artistry-studios-feedback-studio-review-2023-for-2024/"><u>Supreme Artistry Studios Feedback Studio Review 2023 for 2024</u></a></li>
 </ul></div>
 

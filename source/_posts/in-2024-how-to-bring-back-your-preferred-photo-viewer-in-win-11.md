@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Bring Back Your Preferred Photo Viewer in Win 11"
-date: 2024-10-10T20:31:27.750Z
-updated: 2024-10-17T23:07:24.967Z
+date: 2024-10-26T16:55:11.338Z
+updated: 2024-10-29T16:45:08.465Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -75,6 +75,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -90,16 +97,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -108,20 +115,13 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,14 +138,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-loyal-following-with-respectful-requests/"><u>[New] 2024 Approved Building a Loyal Following with Respectful Requests</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-an-auto-subscribe-url-template/"><u>[New] 2024 Approved Generating an Auto-Subscribe URL Template</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-strategies-for-creating-a-positive-interview-environment/"><u>[New] Strategies for Creating a Positive Interview Environment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experience-like-never-before-leading-10-vr-devices/"><u>[Updated] Experience Like Never Before Leading 10 VR Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-focused-frames-eliminating-jitterbugs/"><u>[Updated] Focused Frames Eliminating Jitterbugs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>2024 Approved Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>In 2024, IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>In 2024, The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728498920325-4/"><u>インコモン・トラブルシューティング：ゴミ箱削除後、データを取り戻す4方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-innovative-sequencing-with-gopros-burst-feature/"><u>[New] Exploring Innovative Sequencing with GoPro's Burst Feature</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-perfect-thumbnails/"><u>[Updated] 2024 Approved Unlocking the Secrets to Perfect Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-sd-cards-compatible-with-gopro-hero-7-and-8/"><u>[Updated] Excellent SD Cards Compatible with GoPro Hero 7 & 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-building-massive-memes/"><u>[Updated] Guide to Building Massive Memes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-how-to-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>[Updated] In 2024, How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>2024 Approved From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-tweeted-videos-to-downloadable-mp3-files/"><u>2024 Approved From Tweeted Videos to Downloadable MP3 Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-windows-movie-maker-6-installed-quickly-and-easily/"><u>2024 Approved Getting Windows Movie Maker 6 Installed Quickly & Easily</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-practices-for-incorporating-b-footage-in-projects/"><u>Best Practices for Incorporating B-Footage in Projects</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-success-using-youtube-statistics-to-grow-engagement/"><u>Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-determine-the-ideal-tv-size-based-on-your-room-and-viewing-preferences/"><u>How to Determine the Ideal TV Size Based on Your Room and Viewing Preferences</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-13t-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi 13T Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-causes-of-unplayable-video-on-sony-a6400-for-2024/"><u>Identifying Causes of Unplayable Video on Sony A6400 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-mastery-comprehensive-editing-for-lifelong-learners/"><u>In 2024, YouTube Mastery Comprehensive Editing for Lifelong Learners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-seconds-and-minutes-on-youtube-clips-for-2024/"><u>Incorporating Seconds and Minutes on YouTube Clips for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-clicks-the-elite-selection-of-wireless-and-wired-mac-mice-2024-edition/"><u>Revolutionize Your Clicks: The Elite Selection of Wireless & Wired Mac Mice - 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-prime-day-offer-snag-the-blink-video-doorbell-at-just-30-your-perfect-smart-home-addition-today/"><u>Unbeatable Prime Day Offer: Snag the BLINK Video Doorbell at Just $30 - Your Perfect Smart Home Addition Today!</u></a></li>
 </ul></div>
 

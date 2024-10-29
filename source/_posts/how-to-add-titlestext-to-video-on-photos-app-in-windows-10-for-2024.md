@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Photos App in Windows 10 for 2024"
-date: 2024-08-19T23:12:40.658Z
-updated: 2024-08-20T23:12:40.658Z
+date: 2024-10-25T16:58:18.851Z
+updated: 2024-10-29T16:52:03.950Z
 tags: 
   - screen-recording
   - ai video
@@ -62,22 +62,39 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -85,15 +102,17 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,3 +120,27 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/astering-video-thumbnail-personalization-on-youtube-for-2024/"><u>[New] Mastering Video Thumbnail Personalization on YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-beginners-guide-to-no-cost-countdown-usage-for-2024/"><u>[Updated] A Beginner's Guide to No-Cost Countdown Usage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ffmpegs-capabilities-for-unaltered-audio-extraction/"><u>[Updated] FFmpeg's Capabilities for Unaltered Audio Extraction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-interaction-steps-for-crafting-a-successful-product-evaluation-vlog/"><u>[Updated] From Idea to Interaction Steps for Crafting a Successful Product Evaluation Vlog</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-pros-playbook-3-ways-to-record-competitive-games/"><u>[Updated] The Pro's Playbook 3 Ways to Record Competitive Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-captivation-creator-for-articles/"><u>2024 Approved Captivation Creator for Articles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insight-on-sierras-icloud-drive-accessibility/"><u>2024 Approved Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/actionable-tips-on-how-to-post-on-reddit-step-by-step-guide-for-2024/"><u>Actionable Tips On How to Post on Reddit - Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focusing-the-lens-detailed-film-techniques-for-2024/"><u>Focusing the Lens Detailed Film Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fundamental-steps-for-transforming-pins-into-audios-for-2024/"><u>Fundamental Steps for Transforming Pins Into Audios for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721939795991-get-your-chatgpt-app-up-and-running-again-9-proven-troubleshooting-tips-for-iphones/"><u>Get Your ChatGPT App Up and Running Again: 9 Proven Troubleshooting Tips for iPhones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-gionee-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Gionee Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-edit-text-in-image-photo-text-editor-online-and-app-for-2024/"><u>How to Edit Text in Image? [Photo Text Editor Online and App] for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmmakers-delight-filmoras-best-aspects-exposed/"><u>In 2024, Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hidden-horizons-in-hand-drawn-harmony/"><u>In 2024, Hidden Horizons in Hand-Drawn Harmony</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/learn-how-to-create-engaging-animation-from-any-video-for-2024/"><u>Learn How To Create Engaging Animation From Any Video for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/qnap-naswindows-7/"><u>QNAP NASにWindows 7データを簡単に複製する - 実用ガイド</u></a></li>
+</ul></div>
+

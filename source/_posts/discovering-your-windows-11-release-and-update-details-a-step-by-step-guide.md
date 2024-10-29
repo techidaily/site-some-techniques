@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide"
-date: 2024-10-16T20:20:47.337Z
-updated: 2024-10-23T20:01:22.642Z
+date: 2024-10-27T17:19:47.374Z
+updated: 2024-10-29T17:20:25.419Z
 tags:
   - desktop
 categories:
@@ -17,25 +17,11 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -45,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
@@ -52,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -71,15 +70,22 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -101,19 +107,18 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>[Updated] Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-frame-freedom-in-photography/"><u>[Updated] Fast Frame Freedom in Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-historical-imagery-unleashed-from-copyrights/"><u>[Updated] Historical Imagery Unleashed From Copyrights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-identifying-the-best-iphone-watermarks-a-complete-guide/"><u>[Updated] Identifying the Best iPhone Watermarks A Complete Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creator-to-critic-evaluating-video-value-across-platforms/"><u>[Updated] In 2024, From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-why-marketers-love-video-commendations-for-2024/"><u>[Updated] Why Marketers Love Video Commendations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/generate-giggle-worthy-graphics-for-2024/"><u>Generate Giggle-Worthy Graphics for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy Z Flip 5 Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Smart 7 HD</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>In 2024, Ideas to Paper Top 8 iPhone Sketching Tools Compared</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-spark-20-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Spark 20 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tigating-youtube-dialogues/"><u>Investigating YouTube Dialogues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-and-installation-guide-for-insignia-bluetooth-receiver-drivers-in-windows/"><u>Update & Installation Guide for Insignia Bluetooth Receiver Drivers in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-film-flair-in-frame-up-smart-setup-tips-for-stellar-videos/"><u>[New] Film Flair in Frame-Up Smart Setup Tips for Stellar Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>[New] Get the Perfect Slideshow Design 10 Places to Download for Inspiration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[New] In 2024, 2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-2024s-leading-video-recorders-unveiled/"><u>[New] In-Depth Analysis 2024'S Leading Video Recorders Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-os-admin-error-run-blocked-apps/"><u>Bypassing OS Admin Error: Run Blocked Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hottest-online-hubs-for-metallic-3d-type-graphics-for-2024/"><u>Hottest Online Hubs for Metallic 3D Type Graphics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-got-ringtones-where-to-find-them-online/"><u>In 2024, Exclusive GoT Ringtones - Where to Find Them Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-xml-to-srt-a-step-by-step-solution-approach/"><u>In 2024, From XML to SRT A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>In 2024, Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo )</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-ready-dive-into-crystal-clear-viewing-on-hitachi-4k-uhd-tv-screens/"><u>Roku Ready? Dive Into Crystal Clear Viewing on Hitachi 4K UHD TV Screens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-steps-to-screenshot-like-a-pro-on-your-acer-device/"><u>Simple Steps to Screenshot Like a Pro on Your Acer Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-magic5-ultimate-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor Magic5 Ultimate? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

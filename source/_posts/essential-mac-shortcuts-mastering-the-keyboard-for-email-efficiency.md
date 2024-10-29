@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-10-19T19:33:06.926Z
-updated: 2024-10-23T21:56:23.115Z
+date: 2024-10-26T17:50:23.330Z
+updated: 2024-10-29T17:48:53.842Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Erase Junk Mail (Command+Option+J) 
 
  Got lots of junk mail taking up space in your inbox? Apple Mail lets you clear it fast. By pressing Command+Option+J, a popup window will appear confirming you want to permanently delete everything in your junk folder. It might be worth checking that nothing was mistakenly flagged as junk before doing so.
@@ -26,33 +33,33 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
 
@@ -67,13 +74,6 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  But, it isn't always necessary. If you want to condense your email window, you can hide this sidebar with a keyboard shortcut. By pressing Control+Command+S, you can hide the sidebar from view, and bring it back again the same way.
 
 ![Apple Mail app with Sidebar, including folders, highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-5-16-59-pm.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -96,24 +96,24 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-superiority-gopros-max-and-hero-11-face-off/"><u>[New] Evaluating Superiority GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-our-list-best-21-hdmi-monitors-compared/"><u>[Updated] Explore Our List Best 2.1 HDMI Monitors Compared</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-examination-of-vsco-image-tools/"><u>[Updated] Extensive Examination of VSCO Image Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-cheap-quality-gopro-cameras-today/"><u>[Updated] How to Get Cheap, Quality GoPro Cameras Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-hub-for-apple-devices/"><u>[Updated] Humor Hub for Apple Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initiate-integrate-and-interact-the-basics-of-zoom-for-android/"><u>[Updated] Initiate, Integrate, and Interact The Basics of Zoom for Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-laugh-track-in-the-air-parody-anthems/"><u>[Updated] Laugh Track in the Air Parody Anthems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-kindle-vs-amazon-fire-tablet-understanding-their-unique-features/"><u>Amazon Kindle Vs. Amazon Fire Tablet: Understanding Their Unique Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-online-omwandelen-van-snd-naar-wav-professionele-dienst-voor-audioconversies/"><u>Gratis Online Omwandelen Van SND Naar WAV - Professionele Dienst Voor Audioconversies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-smart-8-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Smart 8 Pro Is Unlocked</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-x90s-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo X90S</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-remove-items-from-iphone-photo-with-top-6-apps/"><u>In 2024, Expertly Remove Items From iPhone Photo with Top 6 Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-sustainable-scenes-for-filmmakers/"><u>In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-mac-live-streaming-options-ranked-1-5/"><u>In 2024, Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimize-gaming-performance-overcoming-fortnites-video-memory-limitations/"><u>Optimize Gaming Performance: Overcoming Fortnite's Video Memory Limitations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sync-your-maciphoneipad-display-with-apple-tv-simple-mirroring-tutorial/"><u>Sync Your Mac/iPhone/iPad Display with Apple TV: Simple Mirroring Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-new-challenge-facebook-vs-apples-ios-145-features/"><u>The New Challenge: Facebook Vs. Apple's iOS 14.5 Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-recovering-lost-mac-passwords-from-the-keychain-macos/"><u>The Ultimate Guide to Recovering Lost Mac Passwords From the Keychain (macOS)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s18-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S18 Pro Device</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>[New] 2024 Approved Comprehensive Lookup Experience the World in Virtual Reality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-on-demand-media-podcast-or-youtube/"><u>[New] Evaluating On-Demand Media Podcast or YouTube?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-conquer-tiktok-installation-made-simple-for-macbook-users/"><u>[New] In 2024, Conquer TikTok Installation Made Simple for MacBook Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-cutting-edge-ai-companions-discord/"><u>[Updated] 2024 Approved Cutting-Edge AI Companions Discord</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insight-into-budget-friendly-design-portals/"><u>[Updated] Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-video-maker-login-to-sign-up-guide/"><u>[Updated] Funimate Video Maker Login to Sign up Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-visual-tools-of-2024-the-ultimate-monitors-list/"><u>[Updated] Innovative Visual Tools of 2024 The Ultimate Monitors List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stay-steady-with-the-right-tripod-techniques-for-top-notch-video-content-for-2024/"><u>[Updated] Stay Steady with the Right Tripod Techniques for Top-Notch Video Content for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevate-drones-to-new-peaks-with-these-crucial-supplementary-gear/"><u>Elevate Drones to New Peaks with These Crucial Supplementary Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-techniques-for-navigating-popular-and-trending-youtube-reactions-for-2024/"><u>Expert Techniques for Navigating Popular and Trending YouTube Reactions for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/fonebackup-fehlerbehebung-so-umgehen-sie-probleme-mit-dem-ubertragungsmodus-von-android-auf-ios/"><u>FoneBackup Fehlerbehebung: So Umgehen Sie Probleme Mit Dem Übertragungsmodus Von Android Auf iOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-darkroom-to-digital-mastering-modern-grading-techniques/"><u>In 2024, From Darkroom to Digital Mastering Modern Grading Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-crafting-engaging-stories/"><u>In 2024, Fundamentals of Crafting Engaging Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-movies-innovation-in-recorders/"><u>In 2024, Ghostly Movies Innovation in Recorders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-8-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 8 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-speedy-windows-image-browser/"><u>In 2024, Superior Speedy Windows Image Browser</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/save-the-scene-techniques-for-transcribing-live-videos/"><u>Save the Scene Techniques for Transcribing Live Videos</u></a></li>
 </ul></div>
 

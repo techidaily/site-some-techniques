@@ -1,7 +1,7 @@
 ---
 title: Discover Exquisite Anime Masterpieces with MidJourney - A Complete Guide on Using the Powerful Model
-date: 2024-10-12T21:25:09.363Z
-updated: 2024-10-17T21:38:40.573Z
+date: 2024-10-23T16:55:26.809Z
+updated: 2024-10-29T16:51:45.634Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  MidJourney is arguably the best overall AI image generator currently on the market, and it can handle almost any type of request with aplomb. However, you might not have known that it has a special alternate mode specifically for anime and manga style illustrations—Niji.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Meet the Niji Model for MidJourney
 
  Niji is an alternative model to the standard, general-purpose MidJourney model. It's been trained and tuned specifically to create the best anime and manga style art it can. As I write this, the latest model of Niji is V6, which is the same number of generations as the main MidJourney model. While Niji has always been good at creating anime-style images, with the V6 Alpha its taken a similar leap in consistency, prompt adherence, and quality as its mainstream sibling.
@@ -38,11 +31,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![MidJourney V6 attempting an anime style image of a male swordsman](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-11-at-12-55-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  Then, the Niji V6 model for the same prompt.
 
 ![Niji V6 attempting to render Anime swordsmen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-11-at-12-54-52.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek / MidJourney
 
@@ -56,19 +63,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![Discord Settings Command for MidJourney.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/discord-command.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see a settings window pop up, where you can choose Niji from a drop-down list. Choose the latest version, or the latest non-Alpha version if you prefer.
 
 ![Discord MidJourney Select Model Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/discord-select-model.png) 
@@ -78,13 +72,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 ![MidJourney web Alpha Dropdown menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/web-alpha-dropdown.png) 
 
  Until you change it back, all of your subsequent images will now be run through Niji. To get back to the standard model, just repeat the same steps.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Making Cool Anime Art With the Right Keywords
 
@@ -103,10 +90,10 @@ Sydney Louw Butler / How-To Geek / MidJourney
 ![An 80s anime style mech walking through a jungle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-80s-anime-style-mech-walking-through-a-jungle.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek / MidJourney
@@ -115,24 +102,37 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![70s anime male elven archers wearing light armor generated by MidJourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/elven-archers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sydney Louw Butler / How-To Geek / MidJourney
 
  Prompt: "Modern anime style female cyborg character with blue hair and visible body panels."
 
 ![Modern anime style female cyborg character with blue hair and visible body panels created by MidJourney Niji.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_modern_anime_style_female_cyborg_character_with_97585d10-1114-4600-88bb-1ac706b7ab11_0.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  Prompt:"90s anime male vampire warrior dark and gothic."
 
 ![90s anime male vampire warrior dark and gothic generated by MidJourney Niji.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/90s-anime-male-vampire-warrior-dark-and-gothic.png) 
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek / MidJourney
 
@@ -155,14 +155,18 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-finding-a-way-to-download-fcp-free-of-charge/"><u>[New] Finding a Way to Download FCP Free-Of-Charge</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>[Updated] 2024 Approved DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-of-top-hd-video-player-apps-android/"><u>[Updated] Exclusive List of Top HD Video Player Apps, Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/webp-tiff-movavi/"><u>在網路上無成本 WEBP 檔案變更TIFF - 利用Movavi對準器</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-a14-4g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-for-making-reaction-video-on-ios-and-android/"><u>In 2024, Best Apps for Making Reaction Video on iOS and Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-image-editing-on-ios-best-tools-to-erase-objects-from-photos/"><u>In 2024, Innovative Image Editing on iOS Best Tools to Erase Objects From Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initial-trial-ideal-accessories-to-boost-your-gopro-footage-for-2024/"><u>Initial Trial Ideal Accessories to Boost Your GoPro Footage for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/pro-gameplay-documentation-on-fbx-format-for-2024/"><u>Pro Gameplay Documentation on FBX Format for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-dynamic-delivery-dissection-episode-8-revision/"><u>[New] 2024 Approved Dynamic Delivery Dissection - Episode 8 Revision</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-vcr-video-vault-extensive-reviews-and-summary/"><u>[New] 2024 Approved VCR Video Vault Extensive Reviews & Summary</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expedite-tech-advancement-how-to-embrace-macos-11-big-sur/"><u>[New] Expedite Tech Advancement How to Embrace macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-go-backwards-the-iphones-playback-power/"><u>[New] Go Backwards The iPhone's Playback Power</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-securing-your-content-adobe-presenter-captures/"><u>[Updated] 2024 Approved Securing Your Content Adobe Presenter Captures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-simple-to-stunning-infusing-life-into-text-on-instagram/"><u>[Updated] From Simple to Stunning Infusing Life Into Text on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-download-apple-podcasts/"><u>2024 Approved How to Download Apple Podcasts?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-between-outlookcom-and-gmail-a-comprehensive-guide-to-best-practices/"><u>Choosing Between Outlook.com and Gmail: A Comprehensive Guide to Best Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-future-of-web-search-bings-ai-on-android-and-ios/"><u>Explore the Future of Web Search: Bing's AI on Android & iOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix Note 30 VIP Racing Edition.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y100t-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y100t Without PUK Codes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/would-you-benefit-from-chatgpt-plus-heres-why-you-should-consider-signing-up/"><u>Would You Benefit From ChatGPT Plus? Here's Why You Should Consider Signing Up!</u></a></li>
 </ul></div>
 

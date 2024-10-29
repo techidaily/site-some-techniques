@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-10-17T16:56:51.256Z
-updated: 2024-10-23T21:13:54.786Z
+date: 2024-10-28T17:45:37.280Z
+updated: 2024-10-29T16:58:06.841Z
 tags:
   - deals
 categories:
@@ -21,18 +21,18 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 * [Registry Hack for Unsupported CPUs and/or Only TPM 1.2](https://mondly-stories.techidaily.com/linguistic-tools-portuguese-shortcuts-in-brazil-and-europe/)
 * [PCs With No TPM at All, No UEFI, or Other Major Problems](https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  To install Windows 11 on an unsupported PC, try making the PC supported by enabling TPM 2.0, Secure Boot, and switching to GPT. If those features cannot be enabled on your PC, you must use a few registry hacks to force Windows 11 to install.
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Upgrade an Unsupported PC?
 
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  In some situations, you can make your PC officially supported with a configuration change or two.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to See Why Your PC Is Unsupported
 
  You can [check if Windows 11 supports your PC](https://remote-screen-capture.techidaily.com/2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/) by downloading and running [Microsoft's PC Health Check app](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck).
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
@@ -78,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  After enabling TPM, re-run the PC Health Check tool. You should be able to upgrade normally if that was your only problem.
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -108,6 +108,13 @@ Benj Edwards / How-To Geek
 
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
 
  If your only problem is that your computer has an unsupported CPU and/or that it only has TPM 1.2 instead of TPM 2.0, this is the easiest problem to get around.
@@ -119,13 +126,6 @@ Benj Edwards / How-To Geek
  To get started, open the Registry Editor. You can press Windows+R, type "regedit", and press Enter, or type "registry" into the Start menu's search box and click the "Registry Editor" shortcut.
 
 ![Launch regedit in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/open-regedit.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type the following address into the address bar in the Registry Editor window (or navigate to it in the left pane):
 
@@ -139,16 +139,16 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
 
 ![Enter &quot;1&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/set-registry-value.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Want to skip the registry-editing process? Download our [Enable Unsupported Upgrades registry hack](https://driver-error.techidaily.com/device-seeks-additional-resources-for-operation/) to perform the change in just a few clicks.
 
@@ -158,18 +158,18 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click the REG file and click &quot;Yes&quot; to agree.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/reg-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To ensure the change takes effect, reboot your PC before continuing.
 
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
 
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
 
@@ -198,17 +198,22 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unveiling-the-top-8-instagram-ae-design-choices/"><u>[New] 2024 Approved Unveiling the Top 8 Instagram AE Design Choices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-text-to-stunning-three-dimensional-designs-photo/"><u>[New] From Ordinary Text to Stunning Three-Dimensional Designs PHOTO</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-inshot-video-magic-mastering-segment-shifts/"><u>[Updated] 2024 Approved Inshot Video Magic Mastering Segment Shifts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initial-steps-to-professional-motion-graphics/"><u>[Updated] Initial Steps to Professional Motion Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-famed-stop-motion-movies-15-of-all-time/"><u>2024 Approved Famed Stop-Motion Movies #15 of All Time</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-is-personal-data-at-risk/"><u>ChatGPT: Is Personal Data at Risk?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fusionphotosync-designers-slide-show-tool-for-2024/"><u>FusionPhotosync Designers' Slide Show Tool for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-make-a-hyperlapse-video-for-2024/"><u>How to Make A Hyperlapse Video for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-optimal-thumbnail-size-for-engagement/"><u>In 2024, The Optimal Thumbnail Size for Engagement</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/up-to-date-tutorial-installing-and-refreshing-ftdi-drivers-for-windows-users/"><u>Up-to-Date Tutorial: Installing and Refreshing FTDI Drivers for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/yakuza-3-remastered-not-starting-up-troubleshooting-steps-for-pc/"><u>Yakuza 3 Remastered Not Starting Up: Troubleshooting Steps for PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-feature-a-podcast-in-one-quick-snap/"><u>[New] Feature a Podcast in One Quick Snap</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-acting-availability-pledge/"><u>[New] Free Acting Availability Pledge</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-transforming-facebook-videos-steps-to-high-definition-for-2024/"><u>[New] Transforming Facebook Videos Steps to High Definition for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-30-must-have-youtube-intros-tools-for-beginners-all-free/"><u>[Updated] 2024 Approved 30 Must-Have YouTube Intros Tools for Beginners, All Free</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-tonal-triumphs-the-art-of-hue-enhancement/"><u>[Updated] In 2024, Tonal Triumphs The Art of Hue Enhancement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stellar-sparks-top-ten-threads-that-captivated-reddit-users/"><u>[Updated] Stellar Sparks Top Ten Threads that Captivated Reddit Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>2024 Approved From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-12-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme 12 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-live-stream-giants-twitch-and-youtube-for-2024/"><u>Evaluating Live Stream Giants Twitch & YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-the-top-10-affordable-online-image-format-switchers-for-2024/"><u>Find the Top 10 Affordable Online Image Format Switchers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-the-funimate-guide/"><u>In 2024, From Novice to Pro - The Funimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-metaverse-humor-creation/"><u>In 2024, Harnessing the Power of Metaverse Humor Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-13-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 13 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-in-action-sonys-s6500-player-redefined/"><u>In 2024, Innovation in Action Sony's S6500 Player Redefined</u></a></li>
 </ul></div>
 

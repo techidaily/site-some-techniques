@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-10-19T17:58:50.510Z
-updated: 2024-10-23T18:15:09.266Z
+date: 2024-10-27T16:19:36.675Z
+updated: 2024-10-29T16:10:57.280Z
 tags:
   - desktop
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
@@ -49,28 +49,28 @@ Microsoft/Gearbox
 
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft/Gearbox
 
  You'll notice fewer details found on complex textures in the second screenshot. Just look at those vines hanging from the building in the distance. See how they lack some detail on the Auro SR screenshot compared to the native image.
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
@@ -85,13 +85,6 @@ Microsoft/Gearbox
 
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  It Just Works (In Supported Games)
 
  One of the best things about Auto SR is that it just works. After you enable the option in Windows settings, Auto SR automatically turns on in supported games, in full-screen and windowed borderless modes, and then seamlessly turns off and switches your native resolution back once you exit the game. On the other hand, driver-based upscalers require a manual set-up process for each game, on top of not looking as good as Auto SR.
@@ -101,6 +94,13 @@ Microsoft/Gearbox
  From what I can tell, Microsoft plans to make most DX11 and DX12 games Auto SR-compatible. On the other hand, DX9 and older games and those that use Vulkan and OpenGL graphics runtimes are not and won’t be compatible with Auto SR.
 
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
 
@@ -127,22 +127,14 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-centrino-advanced-n-6205-driver/"><u>[Download] Intel Centrino Advanced-N 6205 Driver</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mobile-media-upload-share-videos-on-twitter-without-retweeting/"><u>[Updated] In 2024, Mobile Media Upload Share Videos on Twitter Without Retweeting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-photos-pro-level-pixlr-techniques/"><u>[Updated] Revolutionize Your Photos Pro-Level Pixlr Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-under-the-waves-best-practices-in-underwater-filming-with-a-gopro/"><u>[Updated] Under the Waves Best Practices in Underwater Filming with a GoPro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-techniques-for-live-action-sims-playback/"><u>2024 Approved Advanced Techniques for Live-Action Sims Playback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/continued-security-guaranteed-why-windows-10-remains-protected-beyond-2025-with-subscription-support/"><u>Continued Security Guaranteed: Why Windows 10 Remains Protected Beyond 2025 with Subscription Support</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/creating-the-ultimate-smart-home-experience-this-prime-day/"><u>Creating the Ultimate Smart Home Experience This Prime Day</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/al-delegates-top-youtube-creators-by-followers/"><u>Digital Delegates Top YouTube Creators by Followers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-license-code-a-step-by-step-guide/"><u>Discovering Your Windows 11 License Code: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/easy-instructions-for-starting-google-chrome-from-terminal-on-windows-11/"><u>Easy Instructions for Starting Google Chrome From Terminal on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/effective-techniques-to-minimize-or-remove-taskbar-visibility-on-windows-10-systems/"><u>Effective Techniques to Minimize or Remove Taskbar Visibility on Windows 10 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-your-privacy-protonvpn-brings-cutting-edge-stealth-functionality-to-windows-platforms/"><u>Enhance Your Privacy: ProtonVPN Brings Cutting-Edge Stealth Functionality to Windows Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-access-real-time-weather-updates-right-from-your-windows-1011-lock-screen/"><u>Enhanced User Experience: Access Real-Time Weather Updates Right From Your Windows 10/11 Lock Screen!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-tech-savings-alert-grab-the-latest-apple-pencil-samsungs-galaxy-s2/"><u>Exclusive Tech Savings Alert: Grab the Latest Apple Pencil, Samsung's Galaxy S2</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-13c-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi 13C 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-7-apps-mais-comuns-para-edicao-de-videos-em-mobile-e-computador/"><u>Top 7 Apps Mais Comuns Para Edição De Vídeos Em Mobile E Computador</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-metaverse-life-your-ultimate-device-list-for-2024/"><u>[Updated] Mastering Metaverse Life Your Ultimate Device List for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-telegram-marketing-an-initiation-handbook/"><u>2024 Approved First Steps in Telegram Marketing An Initiation Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>2024 Approved Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-23-on-apex-legends-how-to-correctly-troubleshoot-and-resolve-it/"><u>Error 23 on Apex Legends: How to Correctly Troubleshoot and Resolve It</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-pick-a-vr-gear-is-mobile-mobility-more-attractive-than-cable-connections-for-2024/"><u>How to Pick a VR Gear Is Mobile Mobility More Attractive Than Cable Connections for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide-for-2024/"><u>How To Use The Background Eraser Tool In Photoshop Detailed Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-7-ideas-to-improve-the-unboxing-experience/"><u>In 2024, 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-guide-updating-your-windows-system-with-new-ricoh-printer-drivers/"><u>Latest Guide: Updating Your Windows System with New Ricoh Printer Drivers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-11-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 11 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
 </ul></div>
 

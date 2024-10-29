@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-10-20T17:08:29.861Z
-updated: 2024-10-23T18:46:45.081Z
+date: 2024-10-26T17:20:47.975Z
+updated: 2024-10-29T16:37:07.387Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select "Yes" in the User Account Control prompt.
@@ -53,10 +53,16 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Microphone Access' and 'Let Apps Access Your Microphone' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-enable-mic-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Windows 10, navigate to Settings > Privacy > Microphone. On the right pane, select "Change" and turn on the toggle. On the same page, enable both "Allow Apps to Access Your Microphone" and "Allow Desktop Apps to Access Your Microphone" options.
@@ -71,22 +77,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
@@ -98,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -137,20 +143,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-visual-storytelling-101-mastering-the-art-of-posting-images-on-youtube-for-2024/"><u>[New] Visual Storytelling 101 Mastering the Art of Posting Images on YouTube for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-120plus-snapchat-private-story-name-ideas-to-make-you-unique-for-2024/"><u>[Updated] 120+ Snapchat Private Story Name Ideas to Make You Unique for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/anticipate-future-tech-marvels-googles-leaked-lineup-for-aug-2amoon-pixel-9-pro-xl-and-revolutionary-fold-on-display/"><u>Anticipate Future Tech Marvels: Google's Leaked Lineup for Aug 2Amoon - Pixel 9 Pro, XL, and Revolutionary Fold on Display</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/apple-defines-new-guidelines-on-app-store-for-emulator-software/"><u>Apple Defines New Guidelines on App Store for Emulator Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/assessing-googles-pixel-8-pro-performance-at-one-year-mark-is-it-time-for-a-switch-to-pixel-9/"><u>Assessing Google's Pixel 8 Pro Performance at One Year Mark - Is It Time for a Switch to Pixel 9?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/beyond-visibility-understanding-how-the-genuine-ai-revolution-is-happening-quietly-around-us/"><u>Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/decoding-the-future-of-smartphones-the-hidden-meaning-behind-the-pixel-cuseries/"><u>Decoding the Future of Smartphones: The Hidden Meaning Behind the Pixel cuSeries?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-these-underutilized-facetime-tricks-for-an-enhanced-video-call-experience/"><u>Discover These Underutilized FaceTime Tricks for an Enhanced Video Call Experience!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nokia-c22-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nokia C22 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-10-vfx-tools-for-final-cut/"><u>In 2024, Best 10 VFX Tools for Final Cut</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-high-end-horizons-the-elite-8k-camera-selection/"><u>In 2024, High-End Horizons The Elite 8K Camera Selection</u></a></li>
-<li><a href="https://driver-install.techidaily.com/msi-bravo-15-drive-update-strategies-for-efficiency/"><u>MSI Bravo 15 Drive Update Strategies for Efficiency</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-stuck-iphone-issues-7-methods-to-move-past-the-apple-boot-screen/"><u>Overcoming Stuck iPhone Issues: 7 Methods to Move Past the Apple Boot Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-biometric-control-in-w11-for-domain-users/"><u>Secure Biometric Control in W11 for Domain Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-solution-for-when-right-click-stops-working-on-windows-10-computers/"><u>The Definitive Solution for When Right Click Stops Working on Windows 10 Computers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[New] 2024 Approved Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-animated-branding/"><u>[New] Fundamentals of Animated Branding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>[New] Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ps5xbox-series-x-game-screens-the-ultimate-guide-for-2024/"><u>[New] PS5/Xbox Series X Game Screens The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[Updated] 2024 Approved InShot vs Other Editors A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tale-architecting-network/"><u>[Updated] Top Tale Architecting Network</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-unlimited-free-fun-with-top-meme-templates/"><u>2024 Approved Explore Unlimited Free Fun with Top Meme Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-your-journey-with-hdr-in-ps/"><u>2024 Approved From Novice to Pro Your Journey with HDR in PS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-changing-tactics-to-record-high-stakes-gameplay/"><u>2024 Approved Game-Changing Tactics to Record High-Stakes Gameplay</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-enhanced-comfort-with-cumuluspro-standing-desk-mats-the-ultimate-office-revamp/"><u>Explore Enhanced Comfort with CumulusPRO Standing Desk Mats: The Ultimate Office Revamp</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-garmin-virb-ultra-30-action-camera-review/"><u>In 2024, Garmin VIRB Ultra 30 Action Camera Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grab-tailor-made-cost-free-outro-videos/"><u>In 2024, Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero-vs-hero-upgraded-edition/"><u>In 2024, Hero Vs Hero Upgraded Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-review-samsungs-immersive-360-degree-camera-for-2024/"><u>In-Depth Review Samsung's Immersive 360-Degree Camera for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remedies-for-a-broken-key-a-comprehensive-fix-guide/"><u>Remedies for a Broken '@' Key: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-recovering-files-from-a-samsung-portable-ssd-models-t3-t5-x5-t7/"><u>Step-by-Step Guide: Recovering Files From a Samsung Portable SSD (Models T3, T5, X5, T7)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-profit-prodigy-in-the-digital-age/"><u>Ultimate Profit Prodigy in the Digital Age</u></a></li>
 </ul></div>
 

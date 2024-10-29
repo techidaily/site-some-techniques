@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-10-19T17:07:40.978Z
-updated: 2024-10-23T16:51:53.705Z
+date: 2024-10-22T17:46:38.922Z
+updated: 2024-10-29T17:01:07.176Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,10 +41,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -64,10 +64,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -95,22 +95,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-first-edition-top-notch-user-centric-game-edit-apps/"><u>[New] First Edition Top-Notch, User-Centric Game Edit Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>[Updated] Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>2024 Approved Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
-<li><a href="https://fox-within.techidaily.com/decouvrez-les-richesses-de-la-variete-des-systemes-de-fichiers-votre-guide-indispensable/"><u>Découvrez Les Richesses De La Variété Des Systèmes De Fichiers: Votre Guide Indispensable!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-smart-8-plus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Smart 8 Plus</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/examining-the-efficacy-of-dji-mavic-mini-fpv-technology-for-2024/"><u>Examining the Efficacy of DJi Mavic Mini FPV Technology for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-restoring-past-reddit-articles-for-2024/"><u>Mastering the Art of Restoring Past Reddit Articles for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-reasons-windows-11-media-player-outshines-competitors-why-switch-now/"><u>Top Reasons Windows 11 Media Player Outshines Competitors: Why Switch Now?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transfer-and-edit-your-android-snapshots-in-no-time-with-windows-11/"><u>Transfer & Edit Your Android Snapshots in No Time with Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transferring-your-memories-effortlessly-downloading-all-icloud-photos-onto-different-devices/"><u>Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transforming-workspaces-discover-the-power-of-lenovos-latest-l-series-laptop-lineup-for-professionals/"><u>Transforming Workspaces: Discover the Power of Lenovo's Latest L-Series Laptop Lineup for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transitioning-to-windows-11-longing-for-the-classic-windows-10-functions-i-loved/"><u>Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-solving-minecraft-crash-error-with-exit-code-1-on-windows/"><u>Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-windows-update-issues-for-essential-security-patch-installation/"><u>Troubleshooting Windows Update Issues for Essential Security Patch Installation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/uncover-the-stealthy-culprits-methods-to-detect-and-remove-secretive-startup-applications-that-sluggish-your-windows-system/"><u>Uncover the Stealthy Culprits: Methods to Detect and Remove Secretive Startup Applications That Sluggish Your Windows System</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/video-bitraser-enterprise-data-erasure-software/"><u>Video - BitRaser Enterprise Data Erasure Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-virtual-worlds-with-top-tier-game-engines-2023/"><u>[New] 2024 Approved Mastering Virtual Worlds with Top-Tier Game Engines, 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-tips-for-high-quality-zoom-podcast-sessions/"><u>[Updated] Expert Tips for High-Quality Zoom Podcast Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovating-audio-visuals-podcast-covers-explained/"><u>[Updated] Innovating Audio Visuals Podcast Covers Explained</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-master-the-art-of-movie-capture-on-any-device-for-2024/"><u>[Updated] Master the Art of Movie Capture on Any Device for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-how-to-mass-download-tiktok-videos/"><u>2024 Approved How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-subtitle-transformation-made-simple-top-10-lists-for-2024/"><u>Expert Subtitle Transformation Made Simple - Top 10 Lists for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-your-perfect-match-gear-vr-compatible-phones-2023-for-2024/"><u>Find Your Perfect Match Gear VR-Compatible Phones 2023 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hacky-yet-effective-face-blurring-on-piscart-for-2024/"><u>Hacky Yet Effective Face-Blurring on PiscArt for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-videography-unveiled-by-yi-for-2024/"><u>High Definition Videography Unveiled by Yi for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-your-pc-settings-navigating-to-control-panel-in-windows-versions-11-7-and-8/"><u>Mastering Your PC Settings: Navigating to Control Panel in Windows Versions 11, 7, and 8</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-advanced-analytics-with-cookiebot-integration/"><u>Unlocking Advanced Analytics with Cookiebot Integration</u></a></li>
 </ul></div>
 

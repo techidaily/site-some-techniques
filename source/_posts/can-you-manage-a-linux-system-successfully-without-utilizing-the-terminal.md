@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2024-10-19T18:01:58.085Z
-updated: 2024-10-23T19:55:16.326Z
+date: 2024-10-26T17:41:41.689Z
+updated: 2024-10-29T16:40:14.249Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I took on the "no terminal" challenge and explored whether it's possible to use Linux without a terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is Using the Terminal a Must on Linux?
@@ -43,15 +43,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For this experiment, I'll be using [Linux Mint](https://smart-video-creator.techidaily.com/updated-in-2024-cutting-edge-video-editing-top-3-4k8k-software-solutions/), one of the most GUI-friendly Linux distros. It's also considered a [great distro for beginners](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/), as most distros geared towards newcomers have great GUI experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing New Software
 
 ![The homepage of the Software Manager on Linux Mint displaying different kinds of software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/software-manager-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Dealing with software is likely the biggest use of the command line. By issuing simple commands, you can install, update, and delete any software from your system. But it's not the only way to deal with software. Popular Linux distros like Ubuntu, Linux Mint, Fedora, and Pop!\_OS come with a dedicated software center (similar to the [Microsoft Store](https://on-screen-recording.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps/)). On Linux Mint, it's known as Software Manager.
 
@@ -59,16 +66,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of Installing VLC on Linux Mint using Software Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installing-vlc-on-linux-mint-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But what if you need to update some software? There's an update manager too. You can open it from time to time and see what packages have updates available. Then you can press the "Install Updates" button to update selected software or all of them.
 
 ![An example of the Update Manager user interface on Linux Mint for updating installed software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/update-manager-linux-mint.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Managing old and new software on Linux is pretty simple thanks to existing software centers. But even if you can't find one preinstalled on your Linux distro, you can easily install software using [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) or [AppImages](https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/). So then, why do people use the terminal? That's because it gives you a better experience in certain situations.
 
@@ -105,10 +112,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  You can use commands such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/), [sed](https://visual-screen-recording.techidaily.com/new-in-2024-forward-thinking-ios-for-ps2-emulation/), and [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to search for specific text patterns within files and make changes based on the search results. If you want to go further, you can use regular expressions for more powerful filtering. Wildcards enable you to perform mass operations on multiple files across multiple directories.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Text Editing
@@ -122,20 +129,6 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  If you're looking for an [alternative to Microsoft Word](https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/), then LibreOffice Writer comes pre-installed with most Linux distros. For more basic text editing, other graphical tools are available. On Linux Mint, you have the xed text editor. On Ubuntu, you have [gedit](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-drfone-by-drfone-ios/).
 
 ![An instance of a text document opened in the xed text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xed-text-editor-on-linux-mint.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Programming and Development
 
@@ -156,10 +149,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 ![An instance of the Qt5 customizer tool opened in Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-mint-customization.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Linux is known for its customization abilities. You can find a good number of both GUI tools and command line tools for customizing Linux to your heart's content.
@@ -167,6 +160,13 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  In fact, GUI tools have some advantages to this. Firstly, they're easily available in the built-in settings menu. Most desktop environments offer built-in settings and tools for changing themes, wallpapers, icons, and desktop layouts. You won't need much technical knowledge. Secondly, you can see each change instantly while you're doing them.
 
  There are a bunch of GUI tools available out there, including GNOME Tweaks, Dconf Editor, and KDE System Settings. You can play between different options to get your preferred look and feel. Sure, the command line unlocks a new world of customization opportunities. But if it's customization work I'm doing, then GUI tools seem to do pretty well considering there's no learning curve.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Other Advanced Tasks
 
@@ -195,16 +195,21 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-guide-to-the-best-free-video-conferencing-software-for-corporate-and-educational-sectors/"><u>[New] 2024 Approved Guide to the Best Free Video Conferencing Software for Corporate and Educational Sectors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-high-quality-srgb-vs-rgb/"><u>[New] From Basics to High-Quality Srgb vs Rgb</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-magix-video-pro-xs-design/"><u>[Updated] Expert Insights Into Magix Video Pro X's Design</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-instant-archive-access-revived-deleted-reddit-entries/"><u>2024 Approved Instant Archive Access Revived Deleted Reddit Entries</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmony-and-hype-perfecting-film-teaser-tunes-for-2024/"><u>Harmony and Hype Perfecting Film Teaser Tunes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-front-seat-pleasures-not-so-sporty-top-ten/"><u>In 2024, Front Seat Pleasures Not So Sporty Top Ten</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-funimate-video-downloader-review/"><u>In 2024, Funimate Video Downloader Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-mobile-file-exchange-in-ios/"><u>In 2024, In-Depth Guide to Mobile File Exchange in iOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stuck-at-installing-apps-on-your-iphone-here-are-10-quick-fixes-to-get-them-working-again/"><u>Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-90-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor 90 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/underwater-scenes-in-stunning-360-vr-by-insta360/"><u>Underwater Scenes in Stunning 360 VR by Insta360</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-securing-your-social-snapshot-instagram-edition/"><u>[New] 2024 Approved Securing Your Social Snapshot Instagram Edition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-the-secret-for-instantaneous-deletion-of-youtube-feedbacks/"><u>[New] 2024 Approved Unveiling the Secret for Instantaneous Deletion of Youtube Feedbacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>[New] Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-review-google-podcasts-app-explained/"><u>[New] Full Spectrum Review Google Podcasts App Explained</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-incredibly-swift-blackouts/"><u>[New] Incredibly Swift Blackouts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gratitude-archive-complete-collection-freepaid/"><u>[Updated] Gratitude Archive Complete Collection (Free/Paid)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-backgrounds-a-filmmakers-guide/"><u>[Updated] Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>[Updated] YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-curated-audio-experience-on-android/"><u>2024 Approved Expertly Curated Audio Experience on Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024top8/"><u>2024年の最新動画で効果的なテロップ挿入手順TOP8</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enabling-cross-platform-compatibility-streaming-and-viewing-any-video-format-on-xbox-360-using-a-mac/"><u>Enabling Cross-Platform Compatibility: Streaming and Viewing Any Video Format on Xbox 360 Using a Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-combining-zoom-with-facebook-live-features-for-2024/"><u>Harness the Power of Combining Zoom with Facebook Live Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-escapes-how-to-choose-between-rift-vive-ps-vr-in-2024/"><u>Immersive Escapes How to Choose Between Rift, Vive, PS VR, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-c65-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco C65 FRP</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-maintaining-continuous-connections-on-snapchat-tips-and-tricks/"><u>In 2024, Maintaining Continuous Connections on Snapchat Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-troubleshooting-guide-get-it-working-again/"><u>Logitech G533 Microphone Troubleshooting Guide: Get It Working Again!</u></a></li>
 </ul></div>
 

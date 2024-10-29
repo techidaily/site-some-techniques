@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-10-21T19:13:56.496Z
-updated: 2024-10-23T20:08:04.816Z
+date: 2024-10-23T16:27:03.668Z
+updated: 2024-10-29T16:22:22.766Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Installing Ubuntu
 
  Ubuntu for WSL is available for Windows 11 via the Microsoft Store, enabling the installation of Ubuntu on your system to run Linux apps within Windows 11.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -103,16 +110,16 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
 
@@ -127,13 +134,6 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -155,6 +155,19 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, applications can be started from the Windows 11 start menu.
 
 ##  Integration with Windows 11
@@ -162,13 +175,6 @@ nohup program_name & disown
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -197,24 +203,17 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-figure-skatings-top-talent-review-of-22-moments/"><u>[New] Figure Skating's Top Talent Review of '22 Moments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frustrated-photographers-face-black-screen-woes/"><u>[New] Frustrated Photographers Face Black Screen Woes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-giggle-guide-quick-tips-for-meme-artistry/"><u>[New] Giggle Guide Quick Tips for Meme Artistry</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-convert-instagram-videos-into-audio-clips-mp3/"><u>[New] In 2024, Convert Instagram Videos Into Audio Clips (MP3)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-easy-process-extracting-youtube-media-directly-for-2024/"><u>[Updated] Easy Process Extracting YouTube Media Directly for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fitness-frontiers-unveiling-premier-virtual-reality-walkers/"><u>[Updated] Fitness Frontiers Unveiling Premier Virtual Reality Walkers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-noisy-to-neat-cutting-out-clutter-on-photos/"><u>[Updated] From Noisy to Neat Cutting Out Clutter on Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hidden-treasures-the-undisclosed-window-11-tricks-youve-overlooked/"><u>[Updated] Hidden Treasures The Undisclosed WINDOW 11 Tricks You've Overlooked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic/"><u>[Updated] HTC's Immersive Revolution A Deep Dive Into VR Headset Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-applications-for-video-from-pics/"><u>2024 Approved Expert Applications for Video From Pics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-landscape-capture-iphone-killer-secrets-revealed/"><u>2024 Approved Pro Landscape Capture IPhone Killer Secrets Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-the-finest-7-wet-proof-recorders-for-2024/"><u>Expert Tips The Finest 7 Wet-Proof Recorders for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/find-your-windows-11-backdrops-saving-spot/"><u>Find Your Windows 11 Backdrop's Saving Spot</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-everscape-ii-pc-malfunction-problems/"><u>How To Resolve Everscape II PC Malfunction Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateur-vlogs-to-professional-gopro-cinematography-excellence/"><u>In 2024, From Amateur Vlogs to Professional GoPro Cinematography Excellence</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-steam-connection-problems-rust-guide-for-windows-users/"><u>Mastering Steam Connection Problems: Rust Guide for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-your-productivity-with-chatgpt-plugin-setup-instructions/"><u>Maximizing Your Productivity with ChatGPT Plugin Setup Instructions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-premium-online-meeting-applications-no-zoom/"><u>[New] 2024 Approved Premium Online Meeting Applications (No Zoom)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>[New] Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-standard-to-spectaculuxe-video-enhancer-22-upgrade-guide/"><u>[New] From Standard to Spectaculuxe Video Enhancer 2.2 Upgrade Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-glow-up-your-android-footage/"><u>[New] Glow Up Your Android Footage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unboxed-talent-the-breakout-females-dominating-youtube/"><u>[New] Unboxed Talent The Breakout Females Dominating YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[Updated] How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unlock-twitter-written-by-your-name-for-2024/"><u>[Updated] Unlock Twitter' Written By [Your Name] for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-start-earning-today-the-top-13-money-making-tips-for-newbies/"><u>2024 Approved Start Earning Today The Top 13 Money-Making Tips for Newbies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-symphony-broadcasts/"><u>In 2024, Exclusive Symphony Broadcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-best-8-spots-for-free-3d-text-psd-downloads/"><u>In 2024, Find the Best 8 Spots for FREE 3D Text PSD Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-troubleshoot-setup-errors-in-your-origin-games/"><u>Resolving Issues: Troubleshoot Setup Errors in Your Origin Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-usb-driver-update-a-comprehensive-guide-for-phone-users/"><u>Samsung USB Driver Update: A Comprehensive Guide for Phone Users</u></a></li>
 </ul></div>
 

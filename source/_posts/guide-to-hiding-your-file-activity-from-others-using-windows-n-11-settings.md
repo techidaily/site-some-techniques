@@ -1,7 +1,7 @@
 ---
 title: Guide to Hiding Your File Activity From Others Using Windows N 11 Settings
-date: 2024-10-19T21:38:59.259Z
-updated: 2024-10-23T17:23:48.472Z
+date: 2024-10-26T16:26:06.660Z
+updated: 2024-10-29T16:12:09.923Z
 tags:
   - deals
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Stop Windows From Keeping Recent Items History](https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/)
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To manually remove recently accessed items from File Explorer, select the items you wish to delete, right-click, and select "Remove From Recent."
@@ -38,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
 
 ![Removing a recently accessed folder from the File Explorer's Jump List.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-removing-a-recently-accessed-folder-from-the-file-explorer-s-jump-list.jpg) 
@@ -48,15 +48,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
 
  Windows doesn't display a confirmation popup when removing items from the Recent Items folder or Recent section in File Explorer, so proceed with caution while removing items.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Stop Windows From Keeping Recent Items History
@@ -72,10 +79,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The best way is to [clear your File Explorer history](https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/) after using your PC. Doing so will erase the entire history, ensuring no traces are left for anyone to see.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clear the Entire History of Recent Items
@@ -87,13 +94,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To clear the File Explorer History, click on the folder icon on the taskbar to open File Explorer. Click on the See More menu, represented by three horizontal dots at the top, and select "Options."
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
@@ -116,15 +116,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-and-create-chrome-oss-10-best-sketches-tools/"><u>[New] Innovate and Create Chrome OS's 10 Best Sketches Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-learn-the-essential-steps-recording-youtube-live-with-ease-across-devices/"><u>[Updated] 2024 Approved Learn the Essential Steps Recording YouTube Live with Ease Across Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>[Updated] Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlock-the-full-potential-of-your-fb-timeline/"><u>[Updated] Unlock the Full Potential of Your FB Timeline</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-empower-your-video-creation-blending-youtube-and-imovie-for-impressive-results/"><u>2024 Approved Empower Your Video Creation Blending YouTube and iMovie for Impressive Results</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-windows-update-service-quickly/"><u>Bring Back Windows Update Service Quickly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-effective-angle-rotations-on-android-for-2024/"><u>Expert Strategies for Effective Angle Rotations on Android for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>In 2024, From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-neo-5-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT Neo 5 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/premier-8-web-based-photo-fusion-app-for-2024/"><u>Premier 8 Web-Based Photo Fusion App for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nstantly-access-all-episodes-premium-downloader-tools-reviewed-for-2024/"><u>[New] Instantly Access All Episodes Premium Downloader Tools Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-steps-for-recording-insta-stories/"><u>[Updated] 2024 Approved Quick Steps for Recording Insta Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extended-review-uncomplicated-hdr-approach/"><u>[Updated] Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hidden-gems-in-window-11s-interface-top-30-tips-and-tricks-unveiled/"><u>[Updated] Hidden Gems in Window 11'S Interface Top 30 Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-design-an-eye-catching-logo-for-podcasts/"><u>[Updated] How to Design an Eye-Catching Logo for Podcasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>[Updated] Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos-for-2024/"><u>Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-light-to-shadow-premiere-pro-transitions-for-2024/"><u>From Light to Shadow Premiere Pro Transitions for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-12-pro-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 12 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-of-virtual-reality-speak/"><u>In 2024, Foundations of Virtual Reality Speak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-golden-collection-classic-ringtones-at-your-fingertips/"><u>In 2024, Golden Collection Classic Ringtones at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-impact-best-practices-for-podcast-graphics/"><u>In 2024, Infusing Impact Best Practices for Podcast Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-communication-microsoft-azure-speech-to-text-explained-for-2024/"><u>Innovating Communication Microsoft Azure Speech to Text Explained for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/pc-para-iphone-jasa-paratharashana-val-fita-aayajata-karana-ma-aapaka-sahayata/"><u>PC पर iPhone जैसा प्रदर्शन वाले फ़ोटो आयोजित करने में आपकी सहायता?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/seamless-conversion-techniques-transforming-ape-files-into-high-quality-flac-format/"><u>Seamless Conversion Techniques: Transforming APE Files Into High-Quality FLAC Format</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-play-40c-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Play 40C without backup.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-of-truthgpt-coin-investigating-claims-security-and-possible-scam-concerns/"><u>Unveiling the Mystery of TruthGPT Coin: Investigating Claims, Security, and Possible Scam Concerns</u></a></li>
 </ul></div>
 

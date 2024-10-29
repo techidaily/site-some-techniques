@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2024-10-19T22:04:46.231Z
-updated: 2024-10-23T21:01:31.654Z
+date: 2024-10-27T16:53:20.706Z
+updated: 2024-10-29T17:29:40.648Z
 tags:
   - deals
 categories:
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Show Hidden Files on Windows 11 Using Options
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  When File Explorer opens, click the ellipses (three dots) button in the toolbar near the top of the window. In the menu that appears, select "Options."
 
 ![Click the three-dot menu icon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-the-three-dot-menu-icon-then-click-options.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the "Folder Options" window that opens, click the "View" tab. In the "Advanced Settings" list, locate the "Hidden Files and Folders" option. Using the radio buttons, select "Show hidden files, folders, and drives." Then click "OK" or "Apply" at the bottom of the window.
 
@@ -62,20 +69,20 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
 
- If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
-
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
 
 ##  How to Show Protected Operating System Files in Windows 11
 
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  In the Folder Options window, click the "View" tab, then scroll down in the "Advanced Settings" list and uncheck "Hide protected operating system files (Recommended)."
 
 ![Unhide protected system files on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hide-protected-files.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As soon as you click the check box, a new dialog window will open that warns you about the dangers of revealing protected operating system files.
 
@@ -101,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![Click "Yes" to confirm that you want to reveal protected files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-yes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then close the Folder Options window by pressing "OK." As with the hidden files revealed in the section above, protected operating system files will appear translucent on your desktop and in File Explorer.
@@ -126,20 +126,16 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-virtual-realms-pros-and-cons/"><u>[New] Evaluating Virtual Realms Pros and Cons</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-discovery-gpodcs-best-series/"><u>[New] Exclusive Discovery GPodC's Best Series</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unveiling-instagram-reels-10-surprising-insights/"><u>[New] Unveiling Instagram Reels 10 Surprising Insights</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-your-full-potential-changing-status-in-discord/"><u>[Updated] 2024 Approved Unlocking Your Full Potential Changing Status in Discord</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-film-finishing-finesse-download-personalized-epilogues-no-money/"><u>[Updated] Film Finishing Finesse Download Personalized Epilogues, No Money</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-disable-recommended-podcast-features-in-spotify/"><u>2024 Approved Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quirky-expressions-in-text-master-meme-creation/"><u>2024 Approved Quirky Expressions in Text Master Meme Creation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/funniest-memes-to-download-iphone/"><u>Funniest Memes to Download (iPhone)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices-for-2024/"><u>How to Get Gratis, Safe VLC Media Player on Mac OS X Devices for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-chronological-disruption-in-acting/"><u>In 2024, Innovative Methods for Chronological Disruption in Acting</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p40plusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P40+FRP Lock</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/optimizing-live-obs-broadcasts-for-fb-viewers-for-2024/"><u>Optimizing Live OBS Broadcasts for FB Viewers for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/streamline-the-conversion-process-top-tips-to-transform-4k-into-full-hd-with-ease/"><u>Streamline the Conversion Process: Top Tips to Transform 4K Into Full HD with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-achieving-professional-screen-record-quality-on-your-hp-notebook/"><u>2024 Approved Achieving Professional Screen Record Quality on Your HP Notebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-phones-topping-list-for-high-definition-video/"><u>2024 Approved Exceptional Phones Topping List for High Definition Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-your-phone-for-virtual-world-explorations/"><u>2024 Approved Harnessing Your Phone for Virtual World Explorations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-is-inshot-the-editors-choice/"><u>2024 Approved In-Depth Review Is InShot The Editor's Choice?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdr-on-your-desk-a-windows-guide-to-color-mastery-for-2024/"><u>HDR on Your Desk A Windows Guide to Color Mastery for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improving-ai-communication-skills-master-these-7-prompting-tactics-for-chatgpt/"><u>Improving AI Communication Skills: Master These 7 Prompting Tactics for ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-investigation-are-you-best-off-with-inshot-app-in-2024/"><u>In-Depth Investigation Are You Best Off with InShot App, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-stalled-audio-channels-proven-fixes-for-streaming-issues/"><u>Reviving Stalled Audio Channels: Proven Fixes for Streaming Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-set-up-your-epson-wf-2750-with-official-driver-download/"><u>Step-by-Step: Set Up Your Epson WF-2750 with Official Driver Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-game-changing-impact-of-freesync-on-lgs-ud68-monitors/"><u>The Game-Changing Impact of FreeSync on LG's UD68 Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mkv-m4v-onlinetool-movavi/"><u>무료 MKV에서 M4V로 전환해주는 Onlinetool - Movavi</u></a></li>
 </ul></div>
 

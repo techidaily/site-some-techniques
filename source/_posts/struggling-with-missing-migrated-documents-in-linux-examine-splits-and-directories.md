@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-10-17T18:29:37.526Z
-updated: 2024-10-23T22:12:02.548Z
+date: 2024-10-23T17:43:17.038Z
+updated: 2024-10-29T17:23:48.729Z
 tags:
   - desktop
 categories:
@@ -52,10 +52,10 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
@@ -69,10 +69,10 @@ ls ~/Documents/backup/
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The original and target directories are both empty. Where did the file go?
@@ -82,6 +82,13 @@ ls ~/Documents/backup/
 ls -l ~/Documents
 
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
 
@@ -98,10 +105,10 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 ![The trailing slash on the mv command line flags errors with the final directory name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The trailing slash explicitly tells Bash that this is a directory name, not a filename. Because Bash can’t find the misspelled directory, it reports the error to you and doesn’t move anything.
@@ -109,13 +116,6 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
  This is a better outcome for failures. You’re alerted to the error, and the original file remains touched.
 
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  It’s Not Exactly Slash’s Fault
 
@@ -138,18 +138,24 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formatting-youtubes-auto-subscribe-page-easily/"><u>[New] 2024 Approved Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-video-privacy-techniques-for-obscuring-details/"><u>[New] Mastering Video Privacy Techniques for Obscuring Details</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-spotlight-tactics-a-3-step-guide/"><u>[Updated] In 2024, Instagram Spotlight Tactics A 3-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-treasure-chest-digging-into-fb-status-videos/"><u>[Updated] In 2024, Unlocking the Treasure Chest Digging Into FB Status Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-upgrades-of-ram-1500s-revamped-model-essential-facts-you-should-know/"><u>Exploring the Upgrades of Ram 1500’S Revamped Model – Essential Facts You Should Know!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ford-begins-distribution-of-the-revolutionary-f-150-lightning-ev-pickup/"><u>Ford Begins Distribution of the Revolutionary F-150 Lightning EV Pickup</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-unlocking-chatgpts-capabilities-through-browser-integration-and-plugin-support/"><u>Guide: Unlocking ChatGPT’s Capabilities Through Browser Integration and Plugin Support</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-reno-9a-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo Reno 9A</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/introducing-advanced-artificial-intelligence-assistance-on-bings-search-engine/"><u>Introducing Advanced Artificial Intelligence Assistance on Bing's Search Engine</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/lifetime-vip-pass-at-coachella-exclusive-entry-through-ownership-of-rare-nft/"><u>Lifetime VIP Pass at Coachella: Exclusive Entry Through Ownership of Rare NFT</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-speed-up-your-sluggish-spotify-web-player-2022-edition/"><u>Resolved! How to Speed Up Your Sluggish Spotify Web Player - 2022 Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-rated-free-high-quality-video-editors-for-creating-stunning-4k-and-hd-content-on-youtube/"><u>Top Rated Free High-Quality Video Editors for Creating Stunning 4K & HD Content on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorhatchery-studio/"><u>[Updated] HumorHatchery Studio</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-chuckle-trail-your-guide-to-hilarious-online-stars/"><u>2024 Approved Chuckle Trail Your Guide to Hilarious Online Stars</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-updates-the-2023-samsung-bd-j5900/"><u>2024 Approved Examining Updates The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-navigating-the-telegram-online-experience/"><u>2024 Approved Expert Tips for Navigating the Telegram Online Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-soft-decline-in-logic-pro-audio/"><u>2024 Approved Implementing Soft Decline in Logic Pro Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-increase-snapshot-size-no-quality-compromise/"><u>2024 Approved Increase Snapshot Size - No Quality Compromise</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-revenue-analysis-made-simple/"><u>2024 Approved YouTube Revenue Analysis Made Simple</u></a></li>
+<li><a href="https://win-help.techidaily.com/download-your-favorite-songs-from-youtube-as-mp3-or-flac-files-with-easy-steps/"><u>Download Your Favorite Songs From YouTube as MP3 or FLAC Files with Easy Steps!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exemplary-narratives-distributed-by-category-for-2024/"><u>Exemplary Narratives Distributed by Category for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-range-locomotion-appraisal-for-2024/"><u>Full Range Locomotion Appraisal for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-switch-on-windows-11s-hdr-functionality-for-2024/"><u>How to Switch On Windows 11'S HDR Functionality for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ignite-your-design-prowess-top-14-text-animation-snapshots-for-2024/"><u>Ignite Your Design Prowess Top 14 Text Animation Snapshots for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-nord-3-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Nord 3 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-video-for-maximum-impact-with-these-5-youtube-strategies/"><u>In 2024, Leveraging Video for Maximum Impact with These 5 YouTube Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/lustrous-android-video-techniques-for-every-user-for-2024/"><u>Lustrous Android Video Techniques for Every User for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/overcoming-green-tint-in-youtubes-on-mac-a-guide-for-2024/"><u>Overcoming Green Tint in YouTubes on Mac A Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-facebook-from-humble-beginnings-to-global-phenomenon-and-what-makes-it-popular/"><u>Understanding Facebook: From Humble Beginnings to Global Phenomenon & What Makes It Popular</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wav-mp3ogg-movavi/"><u>WAV 파일을 쉽게 MP3/OGG로 전환하세요: Movavi의 공식 오픈소스</u></a></li>
 </ul></div>
 

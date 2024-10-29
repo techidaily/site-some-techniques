@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-10-22T21:19:32.997Z
-updated: 2024-10-23T17:40:37.438Z
+date: 2024-10-23T17:06:18.924Z
+updated: 2024-10-29T17:08:50.923Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Learn How to use Windows and Your Other Software And Devices](https://digital-screen-recording.techidaily.com/new-in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/)
 * [Don't Panic!](https://ios-unlock.techidaily.com/resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To keep your accounts and devices secure, do not open links in suspicious emails and pay attention to security warnings.
@@ -31,6 +38,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Keep work and personal accounts separate, set passcodes on your devices, and avoid unusual requests.
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
@@ -59,10 +73,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Keep Your Work and Private Life Separate
@@ -79,13 +93,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If your device is stolen, you should remotely wipe it if it is supported on your [iOS](https://facebook-record-videos.techidaily.com/video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks-for-2024/) or [Android](https://some-techniques.techidaily.com/incor-writes-photo-kinetic-vibrance-for-2024/) device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  If Someone Asks For Something Out Of The Usual, Check In With Them
 
  Impersonation scams—where a scammer impersonates your friend, family member, or colleague to get you to send them money or information—are becoming increasingly common. Scammers can even use AI tools to impersonate voices, so if someone texts, emails, or even calls you with an unusual request for money or information (which could be used for later scams), find another way to contact that person to confirm that it's actually them asking.
@@ -99,22 +106,21 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
@@ -126,16 +132,16 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
 
@@ -158,21 +164,17 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-quick-tips-for-iphone-7-video-saving/"><u>[New] Quick Tips for iPhone 7 Video Saving</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-essentials-of-instagram-filters-for-picture-perfection/"><u>[Updated] 2024 Approved The Essentials of Instagram Filters for Picture Perfection</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024s-best-portable-power-nintendo-switch-docks-guide/"><u>2024'S Best Portable Power: Nintendo Switch Docks Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/can-you-afford-not-to-sign-up-for-youtube-tv/"><u>Can You Afford Not to Sign Up for YouTube TV?</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effiziente-techniken-zur-quality-beibehaltung-bei-der-veranderung-von-videowurfelflachen-wassermarkenlos/"><u>Effiziente Techniken Zur Quality-Beibehaltung Bei Der Veränderung Von Videowürfelflächen – Wassermarkenlos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/printing-without-your-own-device-top-ways-to-get-the-job-done/"><u>Printing Without Your Own Device: Top Ways to Get the Job Done</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/quick-troubleshooting-how-to-immediately-close-a-frozen-program-on-your-windows-10-pc/"><u>Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/realigning-windows-11-taskbar-buttons-a-step-by-step-guide/"><u>Realigning Windows 11 Taskbar Buttons: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/revive-this-classic-53-year-old-file-sharing-technique-for-modern-phones/"><u>Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/solve-your-bluetooth-connection-issues-by-making-devices-visible-in-device-manager/"><u>Solve Your Bluetooth Connection Issues by Making Devices Visible in Device Manager</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/solving-the-issue-of-non-functional-headphones-in-windows-11/"><u>Solving the Issue of Non-Functional Headphones in Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-screencasting-team-virtual-gatherings-for-2024/"><u>Step-by-Step Screencasting Team Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-list-of-algorithms-to-erase-files-and-directories-permanently/"><u>The Ultimate List of Algorithms to Erase Files and Directories Permanently</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-10-essential-steps-to-set-up-your-new-mac-a-comprehensive-guide/"><u>Top 10 Essential Steps to Set Up Your New Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/trouble-with-your-windows-5/"><u>Trouble with Your Windows 지정된 업데이트를 다운로드할 수 있는가요? 제공되는 5가지 해결 방법을 시도하세요!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-creative-content-for-fb-video-advertising/"><u>[New] 2024 Approved Mastering Creative Content for Fb Video Advertising</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-spots-for-acquiring-got-tones/"><u>[New] Explore the Best Spots for Acquiring GoT Tones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-samsungs-photo-enhancing-tools/"><u>[New] Exploring Samsung’s Photo Enhancing Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-fade-effects-in-music-software/"><u>[Updated] Fine-Tuning Fade Effects in Music Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-tecno-spark-10c-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Tecno Spark 10C Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-money-on-periscope-if-you-are-new-to-this-space-for-2024/"><u>How to Make Money on Periscope if You Are New to This Space for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illusory-motion-capture-guide-for-2024/"><u>Illusory Motion Capture Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interrogating-the-webs-blockade-on-gptbot-usage-policies/"><u>Interrogating the Web's Blockade on GPTBot Usage Policies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-screen-capture-in-linux-with-these-tools-for-2024/"><u>Mastering Screen Capture in Linux with These Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-windows-photography-errors/"><u>Mastering the Art of Fixing Windows Photography Errors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210697917-9780639723426-the-compassionate-activist/"><u>The Compassionate Activist | Free Book</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728465936297-windows-10/"><u>Windows 10 で簡単なクリーンアップ - 更新ファイルを効果的に管理</u></a></li>
 </ul></div>
 

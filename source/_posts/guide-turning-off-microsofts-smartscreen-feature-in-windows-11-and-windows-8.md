@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-10-22T19:52:07.918Z
-updated: 2024-10-23T16:01:54.918Z
+date: 2024-10-25T17:08:20.233Z
+updated: 2024-10-29T17:32:58.696Z
 tags:
   - desktop
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are four different Windows SmartScreen options, and you can disable them individually. 
@@ -65,19 +58,33 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
@@ -114,21 +114,17 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieve-unmatched-visuals-the-ultimate-guide-to-video-enhancer-22/"><u>2024 Approved Achieve Unmatched Visuals The Ultimate Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-selecting-peak-frame-rate-for-exceptional-slow-motion-video/"><u>2024 Approved Selecting Peak Frame Rate for Exceptional Slow Motion Video</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ace-the-arena-with-easy-techniques-improve-apex-legends-performance-in-6-ways/"><u>Ace the Arena with Easy Techniques - Improve Apex Legends Performance in 6 Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-best-looking-linux-operating-systems-a-top-5-list/"><u>Discover the Best-Looking Linux Operating Systems: A Top 5 List</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discovering-the-maximum-molecular-moniker/"><u>Discovering the Maximum Molecular Moniker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-release-and-update-details-a-step-by-step-guide/"><u>Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/easy-methods-to-extract-pictures-without-a-background-using-windows-11-tools/"><u>Easy Methods to Extract Pictures Without a Background Using Windows 11 Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-user-friendliness-windows-subsystem-for-linux-undergoes-potential-improvements/"><u>Enhancing User-Friendliness: Windows Subsystem for Linux Undergoes Potential Improvements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/essential-mac-shortcuts-mastering-the-keyboard-for-email-efficiency/"><u>Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exciting-announcement-apple-prepares-for-its-202-cuy-wwdc-event-in-june/"><u>Exciting Announcement: Apple Prepares for Its 202 Cuy WWDC Event in June!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-elementary-os-a-user-friendly-macos-inspired-alternative/"><u>Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unbiased-review-how-to-obtain-filmora-without-resorting-to-piracy/"><u>In 2024, Unbiased Review How to Obtain Filmora Without Resorting to Piracy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-a60-music-recovery-recover-deleted-music-from-itel-a60-by-fonelab-android-recover-music/"><u>Itel A60 Music Recovery - Recover Deleted Music from Itel A60</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/navigate-through-the-5-best-mac-sniping-apps-easily-for-2024/"><u>Navigate Through The 5 Best Mac Sniping Apps Easily for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-d3dx924dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_2‌​4.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-moto-z2s-smart-capabilities/"><u>The Ultimate Guide to Moto Z2's Smart Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-compre-written-by-daniel-kelley/"><u>[New] In 2024, A Compre Written by Daniel Kelley</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-captivating-content-through-words-top-5-innovative-tiktok-caption-ideas/"><u>[New] In 2024, Captivating Content Through Words Top 5 Innovative TikTok Caption Ideas</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-solving-youtube-pixel-monotony-a-quick-guide/"><u>[Updated] Solving YouTube Pixel Monotony A Quick Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10plus-iconic-ae-text-techniques-for-professionals/"><u>10+ Iconic AE Text Techniques for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-forwarding-fundamentals-a-novices-guide-to-snapchat/"><u>2024 Approved Fast Forwarding Fundamentals A Novice's Guide to Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-camera-rewind-selecting-superior-sd-cards-hero-7-8/"><u>2024 Approved GoPro Camera Rewind Selecting Superior SD Cards (Hero 7, 8)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immortalizing-moments-live-photo-to-dynamic-video/"><u>2024 Approved Immortalizing Moments Live Photo to Dynamic Video</u></a></li>
+<li><a href="https://win-superb.techidaily.com/beheben-von-fehlern-windows-halt-sich-vor-xlsx-datei-laden/"><u>Beheben Von Fehlern: Windows Hält Sich Vor XLSX-Datei-Laden</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/exploring-factors-that-cause-increased-video-size-after-conversion-processes/"><u>Exploring Factors That Cause Increased Video Size After Conversion Processes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/foremost-video-starters-the-leading-16-youtube-openers/"><u>Foremost Video Starters The Leading 16 YouTube Openers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-gifs-to-stickers-full-guide-for-social-channels-for-2024/"><u>From GIFs to Stickers Full Guide for Social Channels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-shopping-spree-to-stardom-editing-your-haul-video-for-2024/"><u>From Shopping Spree to Stardom Editing Your Haul Video for 2024</u></a></li>
 </ul></div>
 

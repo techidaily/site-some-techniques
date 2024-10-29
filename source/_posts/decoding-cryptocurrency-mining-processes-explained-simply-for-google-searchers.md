@@ -1,7 +1,7 @@
 ---
 title: "Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers"
-date: 2024-10-15T17:18:26.745Z
-updated: 2024-10-17T21:25:04.169Z
+date: 2024-10-26T16:20:31.170Z
+updated: 2024-10-29T17:42:34.473Z
 tags:
   - cutting-edge
 categories:
@@ -20,25 +20,11 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is Crypto Mining?
 
  In short, crypto mining is how new units of [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/)\---usually called coins---are created. As you can imagine, this type of mining doesn't involve callused hands gripping pickaxe handles. Instead, it's computer processors that do all the hard work, chipping away at complex math problems.
 
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  The Blockchain
 
@@ -51,10 +37,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  The Ledger
@@ -62,6 +48,13 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  Every time a new coin is unlocked, it's recorded in the cryptocurrency's ledger, a massive file anybody can access at any time to see which coins were mined when and by whom. The ledger also shows when a coin changed hands, and who was involved in the transaction, putting the lie to [the claim that Bitcoin is anonymous](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/).
 
  To summarize, the ledger records the creation and movement of coins in the blockchain. Mining is validating new blocks and gaining access to the coins within. Interestingly enough, since the blockchain has to be finite, it also means that most cryptocurrencies have a hard limit to how many can exist: Bitcoin for example has a [cap of 21 million](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/).
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Crypto Mining Works
 
@@ -72,10 +65,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  DIY Supercomputers
@@ -89,6 +82,13 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  On top of the competition between these groups, there is also the problem that each next block is more complicated to solve than the last, a failsafe built into the blockchain to prevent it from being all unlocked at once.
 
  As a result, the market for GPUs was practically destroyed, with these groups buying all the units they could get their hands on---even [stealing them](https://fortune.com/2021/11/09/thieves-steal-nvidia-graphics-cards/) in some cases---and making it so regular consumers had to pay [massive prices](https://www.nme.com/news/gaming-news/700000-graphics-cards-were-bought-by-crypto-miners-in-early-2021-alone-2973241) even for badly outdated models. Though, as of late 2021, this arms race is quieting down thanks to a number of factors (including a [crackdown on miners](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html) by China), the GPU market has yet to recover.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Mined vs. Non-Mined Cryptocurrencies
 
@@ -117,21 +117,18 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>[New] 2024 Approved Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-discounts-on-economical-gopro-cameras/"><u>[New] Exclusive Discounts on Economical GoPro Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-different-footage-sources-on-ios-device/"><u>[New] Harmonizing Different Footage Sources on iOS Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovations-in-podcasting-generating-custom-rss-files/"><u>[New] Innovations in Podcasting Generating Custom RSS Files</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-seamless-communication-the-best-5-webcams-with-inbuilt-microphones/"><u>[Updated] 2024 Approved Seamless Communication The Best 5 Webcams with Inbuilt Microphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gradual-sound-reduction-for-computers-mac-and-windows/"><u>[Updated] Gradual Sound Reduction for Computers (Mac & Windows)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hype-generating-headline-author/"><u>2024 Approved Hype-Generating Headline Author</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/exclusive-mac-hd-scribing-plus-auditory-logging-solution-for-2024/"><u>Exclusive Mac HD Scribing + Auditory Logging Solution for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focus-and-frame-the-art-of-intimate-movie-filming/"><u>In 2024, Focus & Frame The Art of Intimate Movie Filming</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-free-and-uncomplicated-youtube-image-extractor-tools-reviewed/"><u>In 2024, Free and Uncomplicated YouTube Image Extractor Tools Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-digitize-your-old-photos-and-turn-them-into-impressive-videos/"><u>In 2024, How to Digitize Your Old Photos and Turn Them Into Impressive Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-prime-8-converters-seamless-sub-and-srt-transition/"><u>In 2024, Prime 8 Converters Seamless Sub and SRT Transition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-hot-40i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Hot 40i to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>In 2024, Universal Synchronization Zoom on Phones, Tablets, PCs All</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-shaping-your-sound-strategies-for-modifying-your-speaking-voice-for-2024/"><u>New Shaping Your Sound Strategies for Modifying Your Speaking Voice for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglemaker-step-by-step-to-fun-videos/"><u>[Updated] GiggleMaker Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-block-facebook-video-ads/"><u>[Updated] How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more/"><u>2024 Approved From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/7-best-adblock-apps-for-android-for-2024/"><u>7 Best AdBlock Apps for Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-ai-myths-inadequate-cryptocurrency-expertise/"><u>Debunking AI Myths: Inadequate Cryptocurrency Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-vegaspro-2019-edition-highlights-for-2024/"><u>Exploring VegasPro 2019 Edition Highlights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-examination-of-djis-drone-inspire-1-for-2024/"><u>Full Examination of DJI's Drone, Inspire 1 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-12-techniques-for-storing-web-based-songs-for-2024/"><u>In-Depth Look at 12 Techniques for Storing Web-Based Songs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/initial-steps-in-vlogging-essential-hardwaresoftware-for-2024/"><u>Initial Steps in Vlogging Essential Hardware/Software for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamers-playbook-broadcasting-to-facebook-network-for-2024/"><u>Streamer's Playbook Broadcasting to Facebook Network for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-essential-guide-to-understanding-the-power-of-oneplus-nord-n10-5g/"><u>The Essential Guide to Understanding the Power of OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-airpods-charge-issues-with-these-9-effective-tips/"><u>Troubleshoot AirPods Charge Issues with These 9 Effective Tips</u></a></li>
 </ul></div>
 

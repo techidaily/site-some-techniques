@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation"
-date: 2024-10-20T19:48:41.510Z
-updated: 2024-10-23T21:27:59.504Z
+date: 2024-10-24T16:19:38.758Z
+updated: 2024-10-29T17:18:07.177Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  Mirrors are servers that replicate a Linux distribution’s repositories. Arch Linux has many mirrors situated around the globe. We show you two ways to select which mirrors your Arch Linux computer uses.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Mirrors Matter
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
 ![The Arch Linux mirror list generator web page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I’m selecting "United Kingdom" from the scrolling list and "HTTPS" and "IPV4" from the checkboxes. I’ve selected the "Use Mirror Status" checkbox, so only active mirrors are included in the results.
 
  To see the results, click the "Generate List" button.
@@ -78,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
         `sudo gedit /etc/pacman.d/mirrorlist`
     
 ![Editing the mirrolist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Replace “gedit” with your favorite editor. Copy and paste the list you’ve just created into the mirrorlist file, replacing the original contents. Save the file and close your editor.
 
@@ -100,26 +100,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
         `sudo pacman -S reflector`
     
 ![Installing Reflector on Arch Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using Reflector on the Command Line
 
@@ -149,18 +129,18 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
     
 ![The Reflector help output in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As we've seen, omitting the --save option lets you dry-run Reflector commands without putting your existing mirror list at risk. Let's include the --save option so that we update our mirrorlist file. You need to use sudo when using this option.
 
         `sudo reflector --verbose --country DE,SE,GB --protocol https --sort rate --latest 20 --download-timeout 6 --save /etc/pacman.d/mirrorlist`
     
 ![Reflector generating a mirror list in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Our new options are:
 
@@ -176,16 +156,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 ![Using less to view the mirrorlist](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11.png) 
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reflector writes a timestamped header, so you can see when the last update happened.
@@ -206,10 +180,10 @@ sudo systemctl enable reflector.timer
 ![Enabling and starting the Reflector timer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To edit the Reflector configuration file, use your favorite editor in this command:
@@ -218,9 +192,29 @@ sudo systemctl enable reflector.timer
     
 ![Editing the Reflector configuration file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14.png) 
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can see that the command-line options are listed on separate lines.
 
 ![The contents of the Reflector configuration file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/15.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can change their values or add in the ones you want to use.
 
@@ -233,10 +227,10 @@ sudo systemctl enable reflector.timer
  We've described [how to configure timers in-depth](https://screen-activity-recording.techidaily.com/smooth-video-capture-with-your-laptops-webcam/) in another article.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Timer and Update When You Want
@@ -258,24 +252,24 @@ sudo systemctl enable reflector.timer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-easy-win-strategy-clownfish-chatter-on-any-pc-with-windows/"><u>[Updated] 2024 Approved Easy-Win Strategy Clownfish Chatter on Any PC with Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>[Updated] 2024 Approved Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-snap-edit-and-enchant-the-ultimate-guide-to-stellar-tiktok-videos-for-2024/"><u>[Updated] Snap, Edit & Enchant The Ultimate Guide to Stellar TikTok Videos for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-turning-up-the-focus-crafting-astonishing-slow-motion-videos-for-ig-reels-for-2024/"><u>[Updated] Turning Up the Focus Crafting Astonishing Slow Motion Videos for IG Reels for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/demystifying-ai-imagery-understanding-that-not-all-visuals-come-from-ai-technology/"><u>Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/electric-innovation-showdown-rivian-r1s-vs-electric-trucks-which-reigns-supreme/"><u>Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-your-spreadsheet-mastery-with-the-new-copilot-capability-in-microsoft-excel/"><u>Enhance Your Spreadsheet Mastery with the New Copilot Capability in Microsoft Excel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/essential-checklist-key-tips-when-purchasing-pre-owned-electric-vehicles/"><u>Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/essential-computer-components-a-buyers-guide-for-optimal-stable-diffusion-performance/"><u>Essential Computer Components: A Buyer’s Guide for Optimal Stable Diffusion Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-an-ai-generated-ultimate-nightmarish-yet-cozy-home-lounge/"><u>Experience an AI-Generated Ultimate Nightmarish Yet Cozy Home Lounge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-tomorrows-tech-today-with-groundbreaking-virtual-reality-shoot-innovations/"><u>Experience Tomorrow's Tech Today with Groundbreaking Virtual Reality Shoot Innovations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-craziest-personalized-gpt-variations-top-3-outrageously-creative-experiments/"><u>Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-downsides-key-issues-with-apple-vision-pro-to-consider-before-investing/"><u>Exploring the Downsides: Key Issues with Apple Vision Pro to Consider Before Investing</u></a></li>
-<li><a href="https://windows11.techidaily.com/further-issues-discovered-new-windows-updates-causing-devastating-bluescreens/"><u>Further Issues Discovered: New Windows Updates Causing Devastating Bluescreens</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revitalize-your-windows-10-audio-experience-in-just-5-easy-steps/"><u>Revitalize Your Windows 10 Audio Experience in Just 5 Easy Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-reverting-to-safe-mode-and-removing-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Reverting to Safe Mode & Removing Graphics Drivers on Windows 8</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-performance-issues-overcoming-lag-and-stutter-in-naraka-point-of-hell/"><u>Troubleshooting Performance Issues: Overcoming Lag & Stutter in Naraka: Point of Hell</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-instant-subtitling-hacks-for-all-your-facebook-videos/"><u>[New] 2024 Approved Instant Subtitling Hacks for All Your Facebook Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-social-media-blend-easy-twitch-to-facebook-integration/"><u>[New] 2024 Approved Social Media Blend Easy Twitch to Facebook Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-file-transportation-hacks-efficient-ways-to-upload-on-pc/"><u>[New] File Transportation Hacks Efficient Ways to Upload on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fix-for-freezing-photo-booth-videos-that-disrupt-usage/"><u>[New] Fix for Freezing Photo Booth Videos That Disrupt Usage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-glow-dynamics-enhancing-visual-storytelling-through-lighting/"><u>[New] Glow Dynamics Enhancing Visual Storytelling Through Lighting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-quality-inexpensive-countdown-apps/"><u>[New] High-Quality Inexpensive Countdown Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-guide-to-exceptional-srt-text-management/"><u>[New] How-To Guide to Exceptional SRT Text Management</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-clear-photography-archives-legal-purchase-tactics/"><u>[New] In 2024, Clear Photography Archives Legal Purchase Tactics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-demystifying-mac-audio-capture-via-audacity-for-2024/"><u>[Updated] Demystifying Mac Audio Capture via Audacity for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pinnacle-of-plotting-the-worlds-best-8-schools-for-writers-for-2024/"><u>[Updated] Pinnacle of Plotting The World's Best 8 Schools for Writers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/11-cutting-edge-techniques-for-optimizing-your-fb-videos/"><u>11 Cutting-Edge Techniques for Optimizing Your FB Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-explore-advanced-video-quality-with-apple-music/"><u>2024 Approved Explore Advanced Video Quality with Apple Music</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-hybrid-gpu-errors-in-windows-11/"><u>Eliminating Hybrid GPU Errors in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expand-your-viewing-realm-on-youtube-platforms-for-2024/"><u>Expand Your Viewing Realm on YouTube Platforms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-uavs-operation-a-guide-to-aerial-robotics-for-2024/"><u>Exploring UAVs' Operation A Guide to Aerial Robotics for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-a-non-launching-mass-effect-legendary-edition-game-on-pcconsoles/"><u>How to Fix a Non-Launching Mass Effect Legendary Edition Game on PC/Consoles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-graph-meme-trends-by-occasion-type/"><u>In 2024, Giggle Graph Meme Trends by Occasion Type</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-gimbals-seamless-video-on-smartphones-and-dslrs/"><u>In 2024, Innovative Gimbals Seamless Video on Smartphones & DSLRs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-and-greatest-seamlessly-install-the-new-logitech-m325-driver/"><u>Latest and Greatest: Seamlessly Install the New Logitech M325 Driver</u></a></li>
 </ul></div>
 

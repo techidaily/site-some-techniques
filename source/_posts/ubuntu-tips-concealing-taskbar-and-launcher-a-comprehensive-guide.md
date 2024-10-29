@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Tips: Concealing Taskbar & Launcher - A Comprehensive Guide"
-date: 2024-10-22T19:43:45.576Z
-updated: 2024-10-23T16:20:01.410Z
+date: 2024-10-22T16:32:48.002Z
+updated: 2024-10-29T17:30:29.463Z
 tags:
   - desktop
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 * You can also auto-hide the dock by navigating to "Display Settings", and enabling the "Auto-Hide the Dock" option under the "Appearance" settings.
 
  Imagine diving into your work or favorite shows with no distractions. Hiding the top bar and dock in Ubuntu does just that. It's like customizing your Ubuntu desktop to fit your vibe and make everything flow better.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Hide the Top Bar and Dock in Ubuntu?
 
@@ -62,6 +55,13 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![Search box with a search text for Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Extension Manager will show you a list of all the extensions that are already installed on Ubuntu. Simply, navigate to the "Browse" tab, and in the search box, type "Hide Top Bar" to locate the extension. Then, click "Install."
 
 ![Search option displaying the Hide Top Bar extension and install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-6.png) 
@@ -78,13 +78,40 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![All installed extension displayed with the settings icon of the Hide Top Bar extension is highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here you will get different settings related to the top bar, such as sensitivity, animation, and others. You can even assign a keyboard shortcut to hide the top bar. Take a look at the given settings and tweak them as required.
 
 ![The Hide Top Bar extension settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With default settings, this extension tucks away the top bar when you drag a window near it. However, you can also permanently hide the top bar with a simple tweak in the settings. To do this, simply navigate to the "Intellihide" tab and disable the first option.
 
 ![The intellihide settings menu of the Hide Top Bar extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-5.png) 
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now the top bar will remain hidden, independent of the other application window movements.
 
@@ -100,30 +127,9 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![All installed extensions displayed with the Ubuntu Dock option turned off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Ubuntu dock is gone. Now enjoy a distraction-free desktop.
 
 ![The dock or side panel is hidden after dragging an application window towards it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Auto-Hide the Top Bar and Dock in Ubuntu
 
@@ -136,24 +142,24 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 ![Ubuntu Desktop context menu with display settings option highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/12-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Inside the "Display" settings, navigate to "Appearance" and enable the "Auto-hide the Dock" option.
 
 ![System Appearance settings with auto hide dock option enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it, now the dock will auto-hide when you drag a window near it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Personalize Your Ubuntu Screen
 
@@ -174,24 +180,14 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-secure-and-fast-instagram-to-mp4-conversion-for-windowsmac-users/"><u>[New] In 2024, Secure & Fast Instagram to MP4 Conversion for Windows/Mac Users</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-crafting-contrast-and-depth-in-hdr-portraits-for-2024/"><u>[Updated] Crafting Contrast and Depth in HDR Portraits for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-account-takeover-restoring-access-in-the-new-year/"><u>[Updated] In 2024, Account Takeover? Restoring Access in the New Year</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-attention-grabber-designer/"><u>[Updated] Innovative Attention Grabber Designer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/6kal44gi44gl44kj44ge5pig55s744gu5a2x5bmv44ks44gp44gg44ke44gj44gm44oa44km44oz44ot44o844oj44gx44cb6lplus95yqg44gz44kl77yf/"><u>見えづらい映画の字幕をどうやってダウンロードし、追加する？</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-hiding-your-file-activity-from-others-using-windows-n-11-settings/"><u>Guide to Hiding Your File Activity From Others Using Windows N 11 Settings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-f5-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Poco F5 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-check-the-specifics-of-your-windows-11-installation/"><u>How to Check the Specifics of Your Windows 11 Installation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-spot-and-dispose-of-malware-in-your-windows-system-efficiently/"><u>How to Spot and Dispose of Malware in Your Windows System Efficiently</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-multilingual-typing-adjusting-keyboards-on-windows-11-systems/"><u>Mastering Multilingual Typing: Adjusting Keyboards on Windows 11 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/microsofts-latest-advancements-in-artificial-intelligence-may-impact-the-future-of-portable-gaming-pcs/"><u>Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/reviving-classic-file-explorer-on-your-new-windows-11-system/"><u>Reviving Classic File Explorer on Your New Windows 11 System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/simplifying-windows-subsystem-for-linux-an-enhanced-user-experience-on-the-horizon/"><u>Simplifying Windows Subsystem for Linux: An Enhanced User Experience on the Horizon</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/1716464648668-step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-have-the-same-depth/"><u>Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version </u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-to-capturing-full-file-and-folder-urls-on-your-windows-11-system/"><u>Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/testing-new-advertising-features-microsofts-integration-of-ads-into-windows-11-start-menu/"><u>Testing New Advertising Features: Microsoft's Integration of Ads Into Windows 11 Start Menu</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-top-13-freebie-pdf-editing-tools-for-june-july-2024/"><u>The Ultimate List of Top 13 Freebie PDF Editing Tools for June-July 2024</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-for-resolving-the-0x80070422-error-on-windows-10-devices/"><u>Troubleshooting Guide for Resolving the 0X80070422 Error on Windows 10 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>[New] Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmoras-peer-level-alternatives-the-top-10-background-changers/"><u>[Updated] Filmora's Peer-Level Alternatives The Top 10 Background Changers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-download-hassle-free-video-closures-here/"><u>2024 Approved Exclusive Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-next-gen-virtual-playgrounds-predicted-top-5-psvr-gaming-highlights/"><u>2024 Approved Next-Gen Virtual Playgrounds Predicted Top 5 PSVR Gaming Highlights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-note-30-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Note 30 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-design-an-eye-catching-logo-for-podcasts/"><u>In 2024, How to Design an Eye-Catching Logo for Podcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-reversing-chronological-order/"><u>In 2024, Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/resolved-mystery-of-absentee-shorts/"><u>Resolved Mystery of Absentee Shorts</u></a></li>
 </ul></div>
 

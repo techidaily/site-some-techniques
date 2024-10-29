@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-10-17T17:20:12.883Z
-updated: 2024-10-23T20:06:16.491Z
+date: 2024-10-27T16:52:35.808Z
+updated: 2024-10-29T17:05:58.628Z
 tags:
   - web
 categories:
@@ -38,25 +38,27 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-the-right-aspect-ratio-for-your-video/"><u>[New] Find The Right Aspect Ratio For Your Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-holo-health-interventions/"><u>[New] Holo-Health Interventions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-hints-for-efficiently-managing-extra-large-files-iphones-and-macs/"><u>[Updated] Expert Hints for Efficiently Managing Extra-Large Files IPhones & Macs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-latest-wins-windows-10-enhancements/"><u>[Updated] Exploring Latest Wins Windows 10 Enhancements</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-free-vimeo-tutorial-to-craft-engaging-videos/"><u>2024 Approved Free Vimeo Tutorial to Craft Engaging Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15-aquatic-test-results-how-well-does-it-handle-moisture/"><u>IPhone 15 Aquatic Test Results: How Well Does It Handle Moisture?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/leading-the-pack-abbyys-top-performance-in-2ebrst-group-matrix-analysis-for-peak-2023-insights/"><u>Leading the Pack: ABBYY's Top Performance in 2Ebrst Group Matrix Analysis for PEAK - 2023 Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/master-the-hide-n-seek-of-fb-securing-personal-information/"><u>Master the Hide-N-Seek of FB: Securing Personal Information</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/redirect-macs-image-backup-to-new-folder-for-2024/"><u>Redirect Mac's Image Backup to New Folder for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-iphone-capabilities-crafting-and-transforming-slow-videos-for-2024/"><u>Unlocking iPhone Capabilities Crafting & Transforming Slow Videos for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-deceptive-design-poor-privacy-decisions/"><u>Unveiling Deceptive Design: Poor Privacy Decisions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gif-design-essentials-top-9-tools-to-elevate-your-creativity/"><u>[New] GIF Design Essentials Top 9 Tools to Elevate Your Creativity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>[New] Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-combine-videos-on-iphone/"><u>[Updated] How to Combine Videos on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-websites-accelerating-youtube-traffic/"><u>2024 Approved Foremost Websites Accelerating YouTube Traffic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>2024 Approved Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-guide-10-simple-steps-to-mastering-x-in-no-time/"><u>Beginner's Guide: 10 Simple Steps to Mastering X in No Time!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-capturing-high-quality-verbal-notes-for-2024/"><u>Expertise in Capturing High-Quality Verbal Notes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/five-easy-steps-to-enhance-photo-hues-for-2024/"><u>Five Easy Steps to Enhance Photo Hues for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-illustration-tools-for-windows-no-cost-high-prices-for-2024/"><u>Ideal Illustration Tools for Windows No Cost, High Prices for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s24-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S24 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-the-art-of-tiktok-visual-enhancements/"><u>Mastering the Art of TikTok Visual Enhancements</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dont-let-plugin-issues-hold-you-back-fcpx-troubleshooting-tips/"><u>Updated Dont Let Plugin Issues Hold You Back FCPX Troubleshooting Tips</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expand Your Visual Palette in After Effects"
-date: 2024-08-19T23:08:01.317Z
-updated: 2024-08-20T23:08:01.317Z
+date: 2024-10-22T16:12:04.274Z
+updated: 2024-10-29T16:37:26.822Z
 tags: 
   - screen-recording
   - ai video
@@ -57,16 +57,10 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 
 ![effects and presets adobe](https://images.wondershare.com/filmora/article-images/2022/07/effects-and-presets-adobe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Now, add that text effect to your video by clicking on it and dragging and dropping it on your video. Then select any animation preset for your text from "Adobe Bridge".
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Alternative ways to edit text fonts
 
 If for some reason you don't want to use After Effects on your device to edit your videos, or your PC is incompatible with your device, then [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative for you. Filmora is a paid application that is supported on both Windows as well as Mac and comes with a free version where you can try the different video editing features.
@@ -91,8 +85,12 @@ These features also include adding texts and changing the fonts of those texts o
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -104,15 +102,23 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
 * If you want to add any opener (Intro) or end credits (outro) to your video, then there are plenty of options available in the "Title" tab. You can apply them by clicking on the "apply" button.
@@ -121,8 +127,12 @@ These features also include adding texts and changing the fonts of those texts o
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -149,4 +159,26 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-finding-pixel-ringtone-treasures-online/"><u>[New] Finding Pixel Ringtone Treasures Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-football-footage-fundamentals-without-finances/"><u>[New] Football Footage Fundamentals Without Finances</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freeze-laughs-select-the-best-templates/"><u>[New] Freeze Laughs Select the Best Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6/"><u>[New] From Recording to Reality A Detailed Look at the SJ-CAM S6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>[New] Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-make-every-snap-count-top-15-tips-and-tricks/"><u>[New] In 2024, How to Make Every Snap Count Top 15 Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exquisite-makeup-moments-captured/"><u>[Updated] Exquisite Makeup Moments Captured</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-a-sports-highlight-video/"><u>[Updated] How to Create a Sports Highlight Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-freewinrecorder-straightforward-pc-screens/"><u>2024 Approved FreeWinRecorder Straightforward PC Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-friends-first-gaming-metaverses-10-best-picks/"><u>2024 Approved Friends First Gaming Metaverse’s 10 Best Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accessibility-achieved-the-simple-setup-of-ifunny-app-for-2024/"><u>Accessibility Achieved The Simple Setup of iFunny App for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/googles-platform-unveiled-the-ultimate-guide-to-podcast-postings-for-2024/"><u>Google's Platform Unveiled The Ultimate Guide to Podcast Postings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-creating-polished-composites-with-skillful-modes-use/"><u>In 2024, Creating Polished Composites with Skillful Modes Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-sticker-free-video-creation-on-tiktok/"><u>In 2024, Expert Sticker-Free Video Creation on TikTok</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-find-x6-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Find X6 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-motorola-g24-power-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola G24 Power, is it possible?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-file-m4a-in-formato-wmv-online-e-gratuitamente-con-movavi/"><u>Trasforma File M4A in Formato WMV Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-techniques-for-transferring-dvd-content-onto-windows-10-systems/"><u>Ultimate Techniques for Transferring DVD Content Onto Windows 10 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-fast-video-transcoding-on-handbrake-no-need-for-cuda/"><u>Unlocking Fast Video Transcoding on Handbrake: No Need for CUDA!</u></a></li>
+</ul></div>
 

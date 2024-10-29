@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 License Code: A Step-by-Step Guide"
-date: 2024-10-22T16:50:31.919Z
-updated: 2024-10-23T17:06:40.623Z
+date: 2024-10-26T16:08:07.761Z
+updated: 2024-10-29T16:43:21.108Z
 tags:
   - deals
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  Windows 11 uses a product key to ensure your OS is genuine—in other words, not pirated. You can find the product key in use on your PC, which is particularly useful if you bought Windows yourself and need to reinstall it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is a Windows Product Key?
 
  A product key is Microsoft's way to ensuring that the copy of Windows being used is genuine. The key is provided to Microsoft when Windows 11 is activated, and Microsoft checks the key against its records. Windows will not be activated if the key is invalid.
@@ -34,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Alternatively, there are retail licenses available for enthusiasts who build their own PCs or purchase different versions of Windows 11.
 
  Regardless of what kind of key you have, product keys are 25 characters long and composed of a mixture of capital letters and numbers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Find an OEM Product Key With Command Prompt
 
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![Command prompt displaying key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Right_Size_Console-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Show a Retail Product Key Using ShowKeyPlus
 
  If you purchased and installed Windows yourself, [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv) is a good way to find your product key. ShowKeyPlus is a free application available on the Microsoft Store.
@@ -70,22 +77,15 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 !["ShowKeyPlus" in a red box in the search bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/IntoMicrosoft-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the ShowKeyPlus app page, click "Install." Once it is done installing, the "Install" button will change into an "Open" button. Click "Open."
 
 ![Click install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Points_To_Install.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ShowKeyPlus displays the currently installed key and the OEM key.
@@ -93,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![ShowKeyPlus Image1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ShowKeyPlus-Image1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're using an OEM copy of Windows 11, both the green and blue boxes display your product key. If you installed a version of Windows 11 you purchased yourself, the green box is the key currently in use.
@@ -120,24 +120,20 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-vs-yi-4k-the-ultimate-battle-of-action-cam-innovation-in-23/"><u>[New] GoPro Vs. Yi 4K The Ultimate Battle of Action Cam Innovation in '23</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-hymn-based-ringtone-options-for-every-believer/"><u>[New] In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-access-full-range-of-groups-shared-media-for-2024/"><u>[Updated] How to Access Full Range of Group's Shared Media for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>2024 Approved Examining the Elite The Top 10 PC VR Headsets of Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>2024 Approved Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-essentials-in-av1-compression/"><u>2024 Approved Exploring the Essentials in AV1 Compression</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-and-understanding-touchless-technologies/"><u>2024 Approved Identifying and Understanding Touchless Technologies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-fundamentals-of-chroma-magic-from-startups-to-savvy-screen-tech/"><u>2024 Approved The Fundamentals of Chroma Magic From Startups to Savvy Screen Tech</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/te-your-digital-footprint-crafting-compelling-shorts-thumbnails-for-2024/"><u>Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-fragmented-to-flawless-mastering-kinemaster-edits-for-2024/"><u>From Fragmented to Flawless Mastering Kinemaster Edits for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits/"><u>In 2024, From Basics to Brilliance The Ultimate Guide to HDR Portraits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>In 2024, From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-holistic-mobility-inspection-study/"><u>In 2024, Holistic Mobility Inspection Study</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/life-is-strange-triumph-over-true-colors-crash-issues-a-detailed-guide/"><u>Life Is Strange: Triumph Over True Colors Crash Issues – A Detailed Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-and-resolving-msvbvm50dll-missing-dll-dilemma/"><u>Navigating and Resolving 'Msvbvm50.dll' - Missing DLL Dilemma</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/navigating-screen-recordings-with-gotomeeting-for-2024/"><u>Navigating Screen Recordings with GoToMeeting for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/notice-hacked-recognizing-and-resolving-facebook-breaches/"><u>Notice Hacked? Recognizing & Resolving Facebook Breaches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-techniques-for-ieframedll-errors/"><u>Step-by-Step Troubleshooting Techniques for IEFrame.DLL Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-stunning-iphone-close-ups-and-macros/"><u>[New] Expert Tips for Stunning iPhone Close-Ups & Macros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-manipulating-colors-in-video-edits/"><u>[New] Expertly Manipulating Colors in Video Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebooks-shift-to-short-videos-a-look-into-2023-trends/"><u>[New] In 2024, Facebook's Shift to Short Videos A Look Into 2023 Trends</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-buying-smart-key-accessories-for-dynamic-cinematography-for-2024/"><u>[Updated] Buying Smart Key Accessories for Dynamic Cinematography for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-static-shots-to-time-lapse-video-tapestry/"><u>[Updated] From Static Shots to Time-Lapse Video Tapestry</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-expertise-amplified-10-must-know-canva-techniques/"><u>[Updated] In 2024, Expertise Amplified 10 Must-Know Canva Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-windows-drivers-at-no-cost-easy-guide-included/"><u>Download Canon Windows Drivers at No Cost – Easy Guide Included</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-holy-hymns-for-mobile-phones/"><u>In 2024, Exploring Holy Hymns for Mobile Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>In 2024, From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>In 2024, Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-top-10-drones-filmmakings-visual-frontiers/"><u>In 2024, Prime Top 10 Drones Filmmaking's Visual Frontiers</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-0x80240017-dilemma-proven-fixes-to-revive-your-windows-updates-successfully/"><u>Tackling the 0X80240017 Dilemma - Proven Fixes to Revive Your Windows Updates Successfully</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

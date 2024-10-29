@@ -1,7 +1,7 @@
 ---
 title: "Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy"
-date: 2024-10-16T21:10:27.522Z
-updated: 2024-10-23T20:41:48.765Z
+date: 2024-10-27T16:52:30.223Z
+updated: 2024-10-29T16:51:08.617Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  Goodnotes gained popularity among the younger generation of iPad users because it makes note-taking fun and keeps files organized. The only downside was that the app was only compatible with iOS devices. Luckily, Goodnotes finally released a Windows version, and here are the things you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Signing Up for Goodnotes
 
  You can sign up or log in to the Goodnotes app on Windows with Google, Microsoft, or Apple. So, if you've signed up to Goodnotes in the past, you can use the same account on your Windows PC. Additionally, you can sign in to multiple accounts and easily switch between profiles, making your note-taking experience smoother than ever.
@@ -26,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ![The sign-in options for Goodnotes on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sign-in-goodnotes.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It comes as no surprise that to enjoy all the features on Goodnotes for Windows, you’ll need to subscribe to the premium version. For example, the free version has a notebook limit of three, meaning you can only get three documents or notes. So, if you need more notes, you’ll have to upgrade to one of the paid subscriptions.
@@ -46,47 +53,33 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  I ran the Goodnotes app on an HP Envy x360 with Windows 11 to get the tablet-like effect. Here are some of the cool features I used.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Multiple Page Formats
 
 ![A variety of paper formats displayed in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paper-formats.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After launching the Goodnotes app and setting it up, you’ll need a notebook to start taking notes. Much like the iOS versions, Goodnotes for Windows offers many different page formats for taking notes and even daily planning to stay organized. I was very impressed to see different music sheet options, so you can write music using the app.
 
  If you use Goodnotes to take notes in class or a meeting and prefer writing in a straight line, there is a ruled paper option. And if you love to bullet journal, you can now do so digitally with the dotted page options. There are also blank pages for drawing or jotting down ideas freely. The best part is customizing your own templates to make your notes exactly how you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Offline Access
 
  You can also access your notes offline, so there's no need to worry about having a stable internet connection. Goodnotes lets you view and edit your notes, and they will sync when your connection is restored.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
@@ -96,18 +89,18 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ![Selecting the heart diagram in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-diagram.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are a student and deal with many charts and diagrams while studying and taking notes, the lasso tool in Goodnotes is like having a rope for your diagrams and charts. If you are unfamiliar with it, the lasso tool, represented by lines forming a rope, lets you select and move multiple elements simultaneously. This makes it easy to copy and paste elements onto your notes or rearrange notes.
 
  It's as simple as selecting the lasso tool and drawing a line around the diagram. Then, you can move and drag the diagram to any part of the page you like.
 
  Another benefit of the lasso tool is if you have a more complex diagram and want to adjust a few things. Instead of erasing and redrawing, you can use the lasso tool to grab what you want and move it around easily.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Sharing Docs And Collaborating
 
@@ -122,6 +115,19 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ###  Beta Testing Marketplace
 
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
 
@@ -150,24 +156,20 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-eliminate-grainy-footage-tips-for-social-media-apps/"><u>[New] Eliminate Grainy Footage Tips for Social Media Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>[Updated] From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-removing-unseen-frames-from-video-recordings/"><u>[Updated] In 2024, Removing Unseen Frames From Video Recordings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-hidden-dangers-how-you-might-be-compromising-your-personal-information/"><u>7 Hidden Dangers: How You Might Be Compromising Your Personal Information</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-potential-glitches-that-can-cause-youtube-malfunction/"><u>Exploring Potential Glitches That Can Cause YouTube Malfunction</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/identifying-if-youve-been-banned-from-contacting-via-imessage/"><u>Identifying If You've Been Banned From Contacting via iMessage</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-s17-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo S17 Pro FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-blog.techidaily.com/in-depth-analysis-of-modern-warfare-3s-frame-rate-drops-and-stuttering-challenges-a-2024-review/"><u>In-Depth Analysis of Modern Warfare 3'S Frame Rate Drops and Stuttering Challenges - A 2024 Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/market-opens-up-for-third-party-iphone-components-amidst-apples-revised-policy-on-device-part-replacements/"><u>Market Opens Up for Third-Party iPhone Components Amidst Apple's Revised Policy on Device Part Replacements</u></a></li>
-<li><a href="https://review-topics.techidaily.com/new-iphone-8-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 8 Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/retro-innovation-in-tech-experience-iphones-echo-of-the-original-macintosh/"><u>Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/revamping-iphone-privacy-how-to-modify-your-device-lock-screen-pinpassword/"><u>Revamping iPhone Privacy: How to Modify Your Device Lock Screen PIN/Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/system-hiccups-at-apple-lead-to-widespread-crashes-of-iphone-apps/"><u>System Hiccups at Apple Lead to Widespread Crashes of iPhone Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-arrival-of-samsung-galaxy-watch-7-latest-updates-and-features-unveiled/"><u>The Arrival of Samsung Galaxy Watch 7: Latest Updates and Features Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-unmatched-excellence-of-oneplus-12-why-it-remains-my-go-to-device-at-the-6-month-mark/"><u>The Unmatched Excellence of OnePlus 12: Why It Remains My Go-To Device at the 6-Month Mark</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-titanium-band-enhances-your-apple-watch-exclusive-review-on-zdnet/"><u>Top-Rated Titanium Band Enhances Your Apple Watch - Exclusive Review on ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ultimate-selection-preferred-covers-for-galaxy-z-fold-6-launched/"><u>Ultimate Selection: Preferred Covers for Galaxy Z Fold #6 Launched</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/visualvoyage-mastering-the-art-of-image-and-video-size-on-instagram-for-2024/"><u>VisualVoyage Mastering the Art of Image and Video Size on Instagram for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grassroot-game-gear-free-film-tips-for-fans/"><u>[New] Grassroot Game Gear - Free Film Tips for Fans</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-accessing-facebook-videos-via-apple-tv-essential-tips/"><u>[Updated] 2024 Approved Accessing Facebook Videos via Apple TV Essential Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-quick-editing-incorporating-jump-cuts-in-video-content/"><u>[Updated] 2024 Approved Quick Editing Incorporating Jump Cuts in Video Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-exploring-past-social-media-engagement-via-twitter-archive-for-2024/"><u>[Updated] Exploring Past Social Media Engagement via Twitter Archive for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-filmmakers-companion-quickly-convert-any-avi-file-into-a-trendy-gif-using-filmora-for-2024/"><u>[Updated] Filmmakers' Companion Quickly Convert Any AVI File Into a Trendy GIF Using Filmora for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improving-visual-storytelling-with-secondary-shoots/"><u>[Updated] Improving Visual Storytelling with Secondary Shoots</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-premier-5-film-scraper-apps/"><u>[Updated] In 2024, Premier 5 Film Scraper Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>2024 Approved From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-augmentation-changes-our-reality-view/"><u>2024 Approved How Augmentation Changes Our Reality View</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/express-faster-window-photo-sorter-for-2024/"><u>Express Faster Window Photo Sorter for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-1320-optimize-printing-performance-with-updated-drivers-on-windows-machines/"><u>HP LaserJet 1320: Optimize Printing Performance with Updated Drivers on Windows Machines</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/imovie-step-by-step-guide-adding-captions-and-subtitles-to-your-videos/"><u>IMovie Step-by-Step Guide: Adding Captions and Subtitles to Your Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-final-cut-pro-unlocked-how-to-edit-for-free/"><u>In 2024, Final Cut Pro Unlocked How to Edit for Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-banking-securing-premium-stock-graphics/"><u>In 2024, Image Banking Securing Premium Stock Graphics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-system-settings-for-seamless-samurai-warriors-5-gaming-experience-on-pc/"><u>Optimizing System Settings for Seamless Samurai Warriors 5 Gaming Experience on PC</u></a></li>
 </ul></div>
 

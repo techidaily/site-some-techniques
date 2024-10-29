@@ -1,7 +1,7 @@
 ---
 title: Will Politeness Enhance ChatGPT Efficiency? Discover the Intriguing Findings From Our Test
-date: 2024-10-13T19:55:03.940Z
-updated: 2024-10-18T03:02:32.241Z
+date: 2024-10-25T17:45:44.354Z
+updated: 2024-10-29T16:03:26.490Z
 tags:
   - cutting-edge
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  ChatGPT is just a piece of software running on a machine, so you might not think how you treat it matters. Still, could the magic words like "please" and "thank you" make a difference to how well ChatGPT works? Let's find out!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How We Tested
 
  This is going to be a simple test where we'll give ChatGPT a series of prompts and then judge the quality of the responses. Of course, there's a lot of subjectivity when it comes to the quality of a response, but you can judge for yourself based on the text we get back, or by putting these prompts into ChatGPT yourself.
@@ -46,14 +39,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Tweet censored for strong language that reads so a couple days ago i made a post about tipping chatgpt, and someone replied "huh would this actually help performance"  so i decided to test it and IT ACTUALLY WORKS. The tweet shows a bar chart where offering more tips to ChatGPT improves response length.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-03-at-15-40-49.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Instead of pretending to offer money to an AI that doesn't need it, we're going to look at being nice versus being neutral. Also, response length isn't the only thing we care about, but also the subjective quality of the response. I'll be using GPT-4, which is the more advanced version currently available to the public through [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Let The Prompting Commence!
 
@@ -79,6 +72,19 @@ Close
                 ![Screenshot 2024-01-08 at 17.42.23](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-42-23.png)
                     
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here it again gives better-formatted output when asked nicely, and on top of that, it's tone when speaking to me is nicer, too.
 
 **Prompt: I'd appreciate it if you could list the major differences between Python and JavaScript.** 
@@ -99,13 +105,6 @@ Close
                 ![An excerpt from a response by ChatGPT to a polite question about electric and gasoline cars](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-46-13.png)
                     
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Prompt: What are the pros and cons of electric cars versus gasoline cars?** 
                                         
             
@@ -113,10 +112,10 @@ Close
                     
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The same thing happens as before, the content is pretty much the same in tone, format, and facts, but I just get a nice little greeting when being more polite.
@@ -128,15 +127,22 @@ Close
                     
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Prompt: What are the latest trends in artificial intelligence?** 
 
 ![An excerpt from a response by ChatGPT to a neutral question about AI trends](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-49-44.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With this final prompt, again the responses are pretty much the same overall.
 
@@ -177,20 +183,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-8-best-authentic-youtube-growth-tactics/"><u>[New] 2024 Approved The 8 Best Authentic Youtube Growth Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-offline-speech-recognition-software/"><u>[New] Excellence in Offline Speech Recognition Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-in-hdr-perfecting-dynamic-range-in-photoshop/"><u>[New] Expertise in HDR Perfecting Dynamic Range in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-android-your-companion-for-vr-and-360-videos/"><u>[New] Explore Android Your Companion for VR & 360 Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-freeing-up-youtube-footage-borderless-exploration-for-2024/"><u>[New] Freeing Up YouTube Footage Borderless Exploration for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[New] Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[Updated] 2024 Approved Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flawless-conversion-needed-try-these-top-8-sub-and-srt-tools/"><u>[Updated] Flawless Conversion Needed? Try These Top 8 Sub & Srt Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlock-ig-potential-the-best-tools-for-post-management-for-2024/"><u>[Updated] Unlock IG Potential The Best Tools for Post Management for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fading-into-silence-the-subtle-approach-in-fl-studio/"><u>2024 Approved Fading Into Silence The Subtle Approach in FL Studio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-by-frame-helpdesk/"><u>2024 Approved Frame by Frame Helpdesk</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-set-up-the-epson-xp-400-drivers-a-comprehensive-walkthrough/"><u>How to Get and Set Up the Epson XP-400 Drivers: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-camerascape-woes-a-guide-to-overcoming-7-prevalent-problems/"><u>How to Repair Your iPhone's Camerascape Woes - A Guide to Overcoming 7 Prevalent Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolving-stutter-in-counter-strike-global-offensive-games/"><u>Step-by-Step Guide to Resolving Stutter in Counter-Strike: Global Offensive Games</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-resolving-hp-wireless-keyboard-malfunctions-step-by-step/"><u>Troubleshooting Tips for Resolving HP Wireless Keyboard Malfunctions [Step-by-Step]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-luts-for-lightroom-enthusiasts/"><u>[New] Explore the Best LUTs for LightRoom Enthusiasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-content-summaries-top-templates-examples/"><u>[New] Streamline Content Summaries Top Templates Examples</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-compact-guide-to-creating-viral-music-on-youtube-for-2024/"><u>[New] The Compact Guide to Creating Viral Music on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-webcam-ingenuity-for-productivity-boost/"><u>[Updated] 2024 Approved Webcam Ingenuity for Productivity Boost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>[Updated] Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fresh-topics-eliciting-engagement-in-audio-formats/"><u>[Updated] Fresh Topics Eliciting Engagement in Audio Formats</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-ig-success-a-guide-to-best-management-tools-for-2024/"><u>[Updated] Navigating IG Success A Guide to Best Management Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-rate-soundbites-googles-best-talk-series/"><u>2024 Approved First-Rate Soundbites Google's Best Talk Series</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>2024 Approved PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>2024 Approved Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-yis-4k-capability-in-action-capture/"><u>2024 Approved Yi's 4K Capability in Action Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-photography-at-your-fingertips-best-phones-with-image-stabilization/"><u>In 2024, Expert Photography at Your Fingertips Best Phones with Image Stabilization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-scratch-building-a-lighthearted-image-meme/"><u>In 2024, From Scratch Building a Lighthearted Image Meme</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-showdown-sj6-versus-yi-4k-innovator/"><u>In 2024, High Definition Showdown SJ6 Versus Yi 4K Innovator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imovie-magic-ranking-the-best-8-free-and-paid-film-apps/"><u>In 2024, IMovie Magic Ranking the Best 8 Free and Paid Film Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-hd-graphics-driver-errors-heres-how-you-can-successfully-repair-them/"><u>Realtek HD Graphics Driver Errors? Here's How You Can Successfully Repair Them!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-writing-failure-on-0x-referenced-memory-address/"><u>Resolved! Writing Failure on 0X Referenced Memory Address</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Resolving Window's Antivirus Software Failures Efficiently
-date: 2024-10-22T16:57:02.959Z
-updated: 2024-10-23T19:33:16.549Z
+date: 2024-10-25T16:05:18.110Z
+updated: 2024-10-29T16:15:34.900Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Temporarily Disable or Delete Third-Party Antivirus Software](https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Repair the Corrupt System Files](https://visual-screen-recording.techidaily.com/updated-in-2024-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To repair and reset the Windows Security app, go to Settings > Apps > Installed Apps > Advanced Options > Repair (or Reset).
@@ -31,10 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Experiencing issues with the Windows Security app? Is it not opening, displaying a black screen, or showing an error like "Windows Security Center service is turned off?" These problems can stem from a faulty Windows update, infection, and corrupted files. Here are a few ways to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  1\. Perform Some Preliminary Checks
@@ -45,11 +52,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the Signature details of a process in the Windows Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/checking-the-signature-details-of-a-process-in-the-windows-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The process is likely genuine if the signature belongs to a well-known company, like Microsoft or Google. whose products you use. If the signer information is missing or associated with an unfamiliar company, you need to investigate further. So, right-click on the process and select "Open File Location."
 
 ![Opening the file location of a process from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-opening-the-file-location-of-a-process-in-task-manager.jpg) 
 
  If the process is associated with an unfamiliar app you don't recall installing, proceed to delete that app from your device. If you want to dig deeper, you can also search online for more information about the process and its authenticity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. Repair and Reset the Windows Security App
 
@@ -72,16 +93,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Repairing and resetting the Windows security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-repairing-and-resetting-the-windows-security-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Install the Latest Windows Update
@@ -96,19 +111,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows downloading and installing an update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/windows-downloading-and-installing-an-update.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In some cases, you may need to restart your device to install updates.
 
 ##  4\. Delete the Recently Installed Windows Update
@@ -117,16 +119,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening the update history from the settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-opening-the-update-history-from-the-settings-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here, open the recently installed updates, particularly the "Quality Updates" and "Driver Updates," and note their version or any other details you find. After that, search for more information about the update online, especially on the [Microsoft Community forum](https://answers.microsoft.com/en-us).
 
 ![Checking details of the recently installed updates on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-checking-details-of-the-recently-installed-updates-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you find other users reporting similar issues with the Windows Security app after installing the latest updates, that update could be to blame. Therefore, [uninstall the update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/).
 
@@ -139,16 +141,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Uninstalling a recently installed update in the settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-uninstalling-a-recently-installed-update-in-the-settings-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Ensure Your Device Isn't Infected
@@ -162,13 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you encounter an error such as "Windows Security Center service is turned off" when opening the Windows Security app, this service could be disabled. To check, type "Services" in Windows Search and open the "Services" app. In the right pane, locate the "Security Center" service, right-click on it, and open "Properties."
 
 ![Opening the properties of a service form the services app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-opening-the-properties-of-a-service-form-the-services-app-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the service is disabled, click on the "Start" button and select "Automatic (Delayed Start)" from the dropdown menu next to "Startup Type."
 
@@ -186,13 +175,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you prefer using a third-party security suite for additional security, consider switching to a different antivirus program that doesn't interfere with the Windows Security app.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  8\. Repair the Corrupt System Files
 
  Corruption of system files can also lead to unforeseen issues with the default apps in Windows. To verify that this isn't the root cause of the problem, run the SFC scan, which identifies corrupt system files and repairs them. To run the SFC scan, type "Command Prompt" in Windows Search, right-click on the "Command Prompt" app, and click "Run as Administrator."
@@ -206,10 +188,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Sfc scan command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/sfc-scan-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the SFC scan fails to find and repair the corrupted system files or presents errors during the process, you can [run the DISM scan](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/).
@@ -233,24 +215,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-metaverse-ranking-best-8-vr-headsets/"><u>[New] 2024 Approved Exploring Metaverse Ranking Best 8 VR Headsets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-online-destinations-for-video-promotion/"><u>[New] Ideal Online Destinations for Video Promotion</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-a-striking-online-presence-with-perfect-yt-dimensions/"><u>[New] In 2024, Crafting a Striking Online Presence with Perfect YT Dimensions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-brand-identity-complimentary-logo-templates-customization/"><u>[Updated] Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-designs-in-syma-x8c/"><u>[Updated] Innovative Designs in Syma X8C</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-stylish-shots-top-trending-instagram-filters-for-2024/"><u>[Updated] Stylish Shots Top Trending Instagram Filters for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-closer-look-at-immersive-virtual-reality-tech/"><u>2024 Approved A Closer Look at Immersive Virtual Reality Tech</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-navigating-the-path-of-adobe-presenter-video-creation/"><u>2024 Approved Navigating the Path of Adobe Presenter Video Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-hulu-and-hulu-plus-key-distinctions-explained/"><u>Comparing Hulu and Hulu + : Key Distinctions Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/future-ready-audio-gadgets-the-ultimate-mp3-player-guide-cnet/"><u>Future-Ready Audio Gadgets: The Ultimate MP3 Player Guide | CNET</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hollywood-hacks-a-filmmakers-guide-to-cinematic-excellence-for-2024/"><u>Hollywood Hacks A Filmmaker’s Guide to Cinematic Excellence for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-skies-in-4k-with-mi-drone/"><u>In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-online-destinations-for-sparkling-3d-typography/"><u>In 2024, Exquisite Online Destinations for Sparkling 3D Typography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>In 2024, From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>In 2024, Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-discover-how-to-play-pathfinder-wrath-of-the-righteamaximized-for-pc/"><u>No More Crashes! Discover How to Play Pathfinder: Wrath of the Righteamaximized for PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-groundbreaking-gear-for-next-level-virtual-reality/"><u>[New] Groundbreaking Gear for Next-Level Virtual Reality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-acquiring-yt-channel-revenue/"><u>[New] Mastering the Art of Acquiring YT Channel Revenue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-next-gen-audiovideo-1-players-guide-for-24/"><u>[Updated] 2024 Approved Next Gen Audio/Video #1 Players Guide for '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-iphones-macro-photography-secrets-revealed/"><u>[Updated] Expertise in iPhone's Macro Photography Secrets Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-worlds-with-samsung-gear-vr-games/"><u>[Updated] Exploring Virtual Worlds with Samsung Gear VR Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>[Updated] From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-engaging-with-youtube-comment-threads/"><u>[Updated] In-Depth Look at Engaging with YouTube Comment Threads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-bw-16d1c-u-blu-ray-drive-insight-a-combination-of-style-and-quirkiness-explored/"><u>Asus BW-16D1C-U Blu-Ray Drive Insight: A Combination of Style and Quirkiness Explored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-google-pixel-8-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Google Pixel 8</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/enhancing-selfies-mastering-the-cartoon-effect-in-snapchat-for-2024/"><u>Enhancing Selfies Mastering the Cartoon Effect in Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-max-vs-hero-11-a-video-quality-showdown/"><u>In 2024, GoPro Max vs Hero 11 A Video Quality Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guideline-on-budgeting-for-music-video-filming/"><u>In 2024, Guideline on Budgeting for Music Video Filming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-counter-strike-2-crashes-on-pc-expert-tips-and-solutions/"><u>Preventing Counter-Strike 2 Crashes on PC - Expert Tips & Solutions</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/two-easy-methods-to-enable-auto-syncing-of-folders-on-your-mac/"><u>Two Easy Methods to Enable Auto-Syncing of Folders on Your Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-failing-to-detect-nvidia-graphics/"><u>Windows Failing to Detect Nvidia Graphics</u></a></li>
 </ul></div>
 

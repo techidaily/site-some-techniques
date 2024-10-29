@@ -1,7 +1,7 @@
 ---
 title: Exploring the Reasons Behind Apple Not Upgrading Previous Models with 'Apple Intelligence'
-date: 2024-10-20T17:05:03.264Z
-updated: 2024-10-23T20:36:44.389Z
+date: 2024-10-23T16:51:37.702Z
+updated: 2024-10-29T16:35:58.645Z
 tags:
   - mobile
 categories:
@@ -56,28 +56,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
 
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
 
@@ -89,6 +76,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
 
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
@@ -96,10 +90,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
@@ -107,10 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Changes I Want to See in Apple Intelligence in the Future
@@ -136,21 +130,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[New] From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-put-a-stay-to-unsolicited-youtube-trails/"><u>[New] Put a Stay to Unsolicited YouTube Trails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expanding-creative-horizons-with-custom-fonts-in-after-effects/"><u>[Updated] Expanding Creative Horizons with Custom Fonts in After Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[Updated] Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorhub-design-your-own-jokes-and-gifs/"><u>[Updated] HumorHub Design Your Own Jokes and Gifs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ai-photo-masterclass/"><u>[Updated] Ingenious AI Photo Masterclass</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-ae-text-styles-for-impact/"><u>[Updated] Innovative AE Text Styles for Impact</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-best-of-the-best-top-facebook-memes-to-find/"><u>2024 Approved The Best of the Best – Top Facebook Memes to Find</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>2024 Approved Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/buy-now-stellar-eraser-for-iphone/"><u>Buy Now - Stellar Eraser for iPhone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-mini-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-honor-x50-gt-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor X50 GT Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-honor-x7b-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor X7b Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-acquiring-the-best-unboxing-tunes-and-melodies/"><u>In 2024, Expertise Acquiring the Best Unboxing Tunes and Melodies</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-10-online-yoga-classrooms-enhancing-physical-strength/"><u>Top 10 Online Yoga Classrooms Enhancing Physical Strength</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>[New] FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-facebook-live-experience-combat-interruptions/"><u>[New] In 2024, Seamless Facebook Live Experience Combat Interruptions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-htc-u23-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-htc-vives-diving-into-depth-a-vr-experience-review/"><u>2024 Approved HTC Vive's Diving Into Depth A VR Experience Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmoquery-your-guide-to-video-editing-insights-for-2024/"><u>FilmoQuery Your Guide to Video Editing Insights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-high-fps-impacts-slow-motion-movie-quality-for-2024/"><u>How High FPS Impacts Slow Motion Movie Quality for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-retrieve-flawless-copyright-free-images-for-2024/"><u>How to Retrieve Flawless, Copyright-Free Images for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-14-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi 14 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-interactive-interface-for-podcasters/"><u>In 2024, Ideal Interactive Interface for Podcasters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/messenger-off-the-grid-how-to-enjoy-messaging-without-a-facebook-presence/"><u>Messenger Off the Grid: How to Enjoy Messaging without a Facebook Presence</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-the-initialization-issue-with-vanguard-ability-in-valorant/"><u>Resolved: Fixing the Initialization Issue with Vanguard Ability in Valorant</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209858210-9781907105135-the-mentor-within/"><u>The Mentor Within | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-possibilities-with-chatgpt-vision-eight-innovative-strategies/"><u>Unlocking New Possibilities with ChatGPT Vision – Eight Innovative Strategies</u></a></li>
 </ul></div>
 

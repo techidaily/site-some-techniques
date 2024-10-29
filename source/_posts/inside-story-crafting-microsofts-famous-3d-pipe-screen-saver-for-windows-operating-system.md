@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-10-22T20:43:35.957Z
-updated: 2024-10-23T19:41:53.563Z
+date: 2024-10-25T17:03:32.176Z
+updated: 2024-10-29T16:01:18.959Z
 tags:
   - deals
 categories:
@@ -40,24 +40,26 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-red-eye-correction-for-iphone-users-tips-and-tricks/"><u>[New] Free Red-Eye Correction for iPhone Users - Tips and Tricks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-business-communication-essentials-free-slide-show-tools/"><u>[Updated] Business Communication Essentials – Free Slide Show Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-hiring-best-film-makers/"><u>[Updated] Expert Tips for Hiring Best Film Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-platforms-creating-movies-from-photo-galleries/"><u>[Updated] Ideal Platforms Creating Movies From Photo Galleries</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unlock-your-contents-potential-mastering-the-art-of-youtube-featured-listings/"><u>2024 Approved Unlock Your Content's Potential Mastering the Art of YouTube Featured Listings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-g42-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia G42 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cut-costs-boost-output-enjoy-major-savings-on-elegoos-neptune-3plus-great-for-large-printing-projects/"><u>Cut Costs, Boost Output: Enjoy Major Savings on Elegoo's Neptune 3+ - Great for Large Printing Projects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-best-iphone-selfie-tools-ranked-8-for-2024/"><u>Exploring the Best iPhone Selfie Tools, Ranked #8 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hero5-vs-yi-4k-updated-battle-for-best-action-cam-for-2024/"><u>Hero5 Vs. Yi 4K Updated Battle for Best Action Cam for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo V27 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-lenovo-x240-drivers-quickly-and-easily/"><u>How to Update Lenovo X240 Drivers | Quickly & Easily</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-film-substitutes-to-stream-top-7-picks/"><u>[New] 2024 Approved Film Substitutes to Stream - Top 7 Picks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quick-tips-sending-tweets-content-via-whatsapp-app/"><u>[New] 2024 Approved Quick Tips Sending Tweets' Content via WhatsApp App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-gpodc-must-haves/"><u>[New] Exclusive GPodC Must-Haves</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions/"><u>[New] From Low to High A Beginner's Guide to Video Frame Rates & Resolutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-zooms-potential-with-key-conversion-techniques/"><u>[New] Harnessing Zoom's Potential with Key Conversion Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-performance-mac-editors-ranked-1-to-5/"><u>[Updated] High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>2024 Approved Advanced Photographic Techniques From Auto to Smart HDR</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pixelpilots-perspective-leading-screen-recording-tools-of-the-year/"><u>2024 Approved PixelPilot's Perspective Leading Screen Recording Tools of the Year</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-14-on-iphone-heres-how-to-solve-it-easily/"><u>Error 14 on iPhone? Here's How to Solve It Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-resolution-passport-portraits-download-for-free-and-print-your-document-for-2024/"><u>High-Resolution Passport Portraits - Download for FREE & Print Your Document for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-x90s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on X90S</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-choosing-top-9-webcam-enhancement-tools/"><u>In 2024, Expert Tips on Choosing Top 9 Webcam Enhancement Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-ranked-iphone-ipad-file-sync-software-effortlessly-move-photos-music-and-videos-between-devices-and-pc/"><u>Ultimate Guide: Top-Ranked iPhone iPad File Sync Software - Effortlessly Move Photos, Music & Videos Between Devices and PC</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-10-22T16:35:51.075Z
-updated: 2024-10-23T22:22:40.686Z
+date: 2024-10-26T17:33:38.060Z
+updated: 2024-10-29T16:51:14.844Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 * [Set It and Forget It](https://on-screen-recording.techidaily.com/updated-2024-approved-mp4-screen-grabber-free-easy-access/)
 
  The Linux `timedatectl` command lets you set your time, date, and timezone for your system clock and your real-time clock. Spare a moment, and we'll show you how it all works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  It's All Relative
 
@@ -43,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
  On systemd-based Linux distributions, we use the `timedatectl` command to see or change those settings and values.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Getting Started With timedatectl
@@ -62,6 +75,13 @@ timedatectl status
 timedatectl
 
 ![The output from the timedatectl command with no operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/2-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both sets of output show:
 
@@ -79,18 +99,18 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
 
 ![Filtering out American time zones with grep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/4-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
 
@@ -111,10 +131,10 @@ timedatectl
 ![New time zone and time settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
@@ -152,17 +172,10 @@ timedatectl
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  RTC: UTC or LTZ?
@@ -187,13 +200,6 @@ timedatectl
 
 timedatectl set-local-rtc 0
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Set It and Forget It
 
  Unless you made an error during the installation of your Linux distribution, or you relocate there's usually no reason to be modifying the settings of your system and real-time clocks.
@@ -217,24 +223,21 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-dj-tools-for-windows/"><u>[New] Expert DJ Tools for Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-boost-interaction-with-crafted-ig-story-queries/"><u>[New] In 2024, Boost Interaction with Crafted IG Story Queries</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-broadcasted-theatrical-skits/"><u>[Updated] Excellence in Broadcasted Theatrical Skits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-costless-methods-for-superior-photo-quality/"><u>[Updated] Explore Costless Methods for Superior Photo Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-completion-a-windows-10-video-editors-journey/"><u>[Updated] From Concept to Completion A Windows 10 Video Editor’s Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fusionflix-your-all-inclusive-tv-streaming-companion/"><u>[Updated] FusionFlix Your All-Inclusive TV Streaming Companion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-retrieve-flawless-copyright-free-images/"><u>[Updated] How to Retrieve Flawless, Copyright-Free Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-cloud-services-with-infinite-capacity/"><u>[Updated] Ideal Cloud Services with Infinite Capacity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminate-your-graphics-instinct-for-adobe-motion-blur/"><u>[Updated] Illuminate Your Graphics Instinct for Adobe Motion Blur</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-perfecting-gopro-cinematography-with-these-15-luts/"><u>[Updated] Perfecting GoPro Cinematography with These 15 LUTs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-vital-10-gadgets-your-mobile-movie-player-must-haves-for-2024/"><u>[Updated] Vital 10 Gadgets Your Mobile Movie Player Must-Haves for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x50iplus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X50i+ Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-and-maintain-your-iphones-sound-level-a-step-by-step-fix-for-dropping-volume-issues/"><u>How to Restore and Maintain Your iPhone's Sound Level – A Step-by-Step Fix for Dropping Volume Issues</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-our-1-10-list-of-camera-lenses-for-the-best-shots/"><u>In 2024, Expert Picks Our #1-10 List of Camera Lenses for the Best Shots</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-iphones-artistry-for-time-extended-cinematography/"><u>In 2024, IPhone's Artistry for Time-Extended Cinematography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-new-frontiers-ais-influence-on-digital-entertainment/"><u>Navigating New Frontiers: AI's Influence on Digital Entertainment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-gratuite-tod-mov-vervanger-allemaal-verschilend-gereed-tod-naar-mov-movavi-als-solutie/"><u>Online Gratuite TOD-MOV Vervanger: Allemaal Verschilend Gereed TOD Naar MOV - Movavi Als Solutie</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-15-pro-max-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone 15 Pro Max and Android Phones</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-6-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 6</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-create-impactful-youtube-videos-top-20-font-picks-for-2024/"><u>[New] Create Impactful YouTube Videos Top 20 Font Picks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero-vs-hero-upgraded-edition/"><u>[Updated] Hero Vs Hero Upgraded Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-the-effectiveness-of-shake-reduction-in-adobe-photos/"><u>2024 Approved Evaluating the Effectiveness of 'Shake' Reduction in Adobe Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imovie-harmony-blending-visuals-and-melodies/"><u>2024 Approved IMovie Harmony Blending Visuals and Melodies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-14ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 14/iPad/iPod</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-champion-firefox-capture-extensions/"><u>In 2024, Champion FireFox Capture Extensions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fainter-frequencies-for-pc-and-mac-harmony/"><u>In 2024, Fainter Frequencies for PC & Mac Harmony</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-speed-controls-unveiled-a-comprehensible-guide/"><u>In 2024, Game Speed Controls Unveiled A Comprehensible Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-greatest-of-all-time-reddits-favorite-threads/"><u>In 2024, Greatest of All Time Reddit's Favorite Threads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-nokia-c300-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Nokia C300 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-podcast-branding-a-comprehensive-logo-guidebook/"><u>In 2024, Innovating Podcast Branding A Comprehensive Logo Guidebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-luminous-lore-of-video-production-expert-insights/"><u>In 2024, Luminous Lore of Video Production Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-effective-guide-converting-mov-videos-into-mkv-format/"><u>Quick & Effective Guide: Converting MOV Videos Into MKV Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-cod-vanguards-pc-crash-issues-for-smooth-gaming/"><u>Solving CoD Vanguard's PC Crash Issues for Smooth Gaming</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-10-27T16:19:36.675Z
-updated: 2024-10-29T16:10:57.280Z
+date: 2024-11-03T09:23:58.656Z
+updated: 2024-11-04T05:18:15.439Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,19 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [It Just Works (In Supported Games)](https://www.howtogeek.com/microsofts-upscaler-is-the-only-reason-gamers-will-care-about-a-copilot-pc/#it-just-works-in-supported-games)
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Auto SR is Microsoft's answer to DLSS, FSR, and XeSS.
@@ -27,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
@@ -49,29 +62,22 @@ Microsoft/Gearbox
 
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  You'll notice fewer details found on complex textures in the second screenshot. Just look at those vines hanging from the building in the distance. See how they lack some detail on the Auro SR screenshot compared to the native image.
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
@@ -96,10 +102,10 @@ Microsoft/Gearbox
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
@@ -127,14 +133,22 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-metaverse-life-your-ultimate-device-list-for-2024/"><u>[Updated] Mastering Metaverse Life Your Ultimate Device List for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-telegram-marketing-an-initiation-handbook/"><u>2024 Approved First Steps in Telegram Marketing An Initiation Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>2024 Approved Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-23-on-apex-legends-how-to-correctly-troubleshoot-and-resolve-it/"><u>Error 23 on Apex Legends: How to Correctly Troubleshoot and Resolve It</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-pick-a-vr-gear-is-mobile-mobility-more-attractive-than-cable-connections-for-2024/"><u>How to Pick a VR Gear Is Mobile Mobility More Attractive Than Cable Connections for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide-for-2024/"><u>How To Use The Background Eraser Tool In Photoshop Detailed Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-7-ideas-to-improve-the-unboxing-experience/"><u>In 2024, 7 Ideas to Improve the Unboxing Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-guide-updating-your-windows-system-with-new-ricoh-printer-drivers/"><u>Latest Guide: Updating Your Windows System with New Ricoh Printer Drivers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-11-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 11 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-blip-to-big-time-the-9-laws-of-instagram-glory/"><u>[New] From Blip to Big Time The 9 Laws of Instagram Glory</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[New] From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-highlight-trail-from-skatescape-2022/"><u>[New] In 2024, The Ultimate Highlight Trail From Skatescape 2022</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-racing-revelry-junior-edition-for-2024/"><u>[New] Racing Revelry Junior Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-on-iphone-ringtones-and-customization/"><u>[Updated] Expert Advice on iPhone Ringtones & Customization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-full-features-sony-fdr-x1000-model/"><u>[Updated] Exploring the Full Features Sony FDR-X1000 Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exposing-effective-promotions/"><u>[Updated] Exposing Effective Promotions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-facial-artistry-on-the-go-iphone-and-android-apps-review/"><u>[Updated] Facial Artistry on the Go IPhone & Android Apps Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-recording-sims-4-games-a-complete-beginners-guide/"><u>[Updated] Recording Sims 4 Games A Complete Beginner's Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android/"><u>2024 Approved Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggle-in-the-virtual-realm-how-to-create-your-own-hilarious-memes-for-2024/"><u>Giggle in the Virtual Realm How to Create Your Own Hilarious Memes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-websites-accelerating-youtube-traffic/"><u>In 2024, Foremost Websites Accelerating YouTube Traffic</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-10-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark 10 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tools.techidaily.com/myusbonly/products/"><u>Myusbonly's Products</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/srt-and-mp4-synergy-expert-advice-edition/"><u>SRT & MP4 Synergy Expert Advice Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-gtx-750-ti-driver-downloads/"><u>Streamlined GTX 750 Ti Driver Downloads</u></a></li>
 </ul></div>
 

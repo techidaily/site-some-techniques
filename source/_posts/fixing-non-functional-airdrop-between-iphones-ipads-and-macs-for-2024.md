@@ -1,7 +1,7 @@
 ---
 title: "\"Fixing Non-Functional AirDrop Between iPhones, iPads & Macs for 2024\""
-date: 2024-07-26T16:36:10.734Z
-updated: 2024-07-27T16:36:10.734Z
+date: 2024-10-28T22:32:02.632Z
+updated: 2024-11-04T00:04:19.868Z
 tags: 
   - screen-recording
   - ai video
@@ -50,8 +50,12 @@ Airdrop is one of the latest features of Apple that is not compatible with some 
 Now if your device comes under the above categories but you are still unable to use Airdrop properly then try the following adjustments.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Airdrop Setting on iOS
 
 Airdrop contains three options to choose from, Off, Contacts Only, and Everyone. The users can select any of these options depending upon their needs and requirements. But the Contacts Only is the most complex option of all. It requires you to verify the person with whom you want to be connected. To avoid this complexity, we recommend you choose "Everyone".
@@ -60,25 +64,16 @@ Airdrop contains three options to choose from, Off, Contacts Only, and Everyone.
 
 **Step 02:** From all these options, Tap on General
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-ios](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios.png)
 
 **Step 03:** Now select Airdrop
 
 **Step 04:** From these three options, make sure to choose "Everyone"
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-ios2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios2.jpg)
 
 It will make your device visible to everyone around you whether they are on your contact list or not.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Airdrop Setting on Mac
 
 If you are trying to use Airdrop from iPhone or iPad to Mac but the mac is not being shown in the list, try the following steps.
@@ -87,10 +82,14 @@ If you are trying to use Airdrop from iPhone or iPad to Mac but the mac is not b
 
 **Step 02:** It will open a new window. Under this window, select Airdrop from the sidebar
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-mac-step2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 03:** At the bottom of the screen, you can an option named "Allow me to be discovered by". Click on it and select Everyone from the drop-down list.
 
@@ -103,6 +102,13 @@ Is airdrop not working yet? If you are still facing the same problem try togglin
 You can do that on your iPhone simply by navigating to Settings > Wi-Fi. Now tap the Wi-Fi switch on/off twice.
 
 ![airdrop-detail-setting-on-mac-step4](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The same is the case with Bluetooth. Navigate to Settings > Bluetooth. Now tap the Bluetooth switch on/off twice.
 
@@ -127,8 +133,12 @@ After completing all the stated methods, the Airdrop will start to work properly
 3. Press & Hold Sleep button and keep holding it until the screen is off and it is on again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We have tried to compile all the possible ways to fix the problem of Airdrop not working on your iPhone, iPad, and Mac. We understand the importance of sharing files such as images, videos, and other media in today's world. Try all these available ways to fix your Airdrop and start sharing and receiving files on your device without any difficulty.
@@ -143,12 +153,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/-comprehensive-guide-to-earnings-from-youtube-short-videos-for-2024/"><u>[New] A Comprehensive Guide to Earnings From YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framing-character-arcs-on-screen/"><u>[New] Framing Character Arcs on Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-picture-in-picture-in-browsing-with-edge/"><u>[New] Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems/"><u>[Updated] From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-does-pewdiepie-make/"><u>[Updated] How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-programs-transforming-pictures-to-movies/"><u>[Updated] Prime Programs Transforming Pictures to Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-monotonous-to-magical-applying-video-effects-in-zoom/"><u>2024 Approved From Monotonous to Magical Applying Video Effects in Zoom</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ubiquitous-display-dynamics-choosing-a-media-company/"><u>2024 Approved Ubiquitous Display Dynamics Choosing a Media Company</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-camera-to-canvas-getting-started-with-lunapic-for-2024/"><u>From Camera to Canvas Getting Started with LunaPic for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-embark-on-a-cinematic-journey-step-by-step-tutorial-for-creating-slow-motion-video-from-stills-online/"><u>In 2024, Embark on a Cinematic Journey Step-by-Step Tutorial for Creating Slow-Motion Video From Stills Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-transforming-mundane-into-masterpieces-with-canva/"><u>In 2024, Expert Tips Transforming Mundane Into Masterpieces with Canva</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x6-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X6 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-transforming-your-igtv-presence-with-new-covers/"><u>In 2024, Transforming Your IGTV Presence with New Covers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/prinkle-of-life-in-your-text-animations/"><u>The Sprinkle of Life in Your Text Animations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-powerdirector-alternatives-for-mobile-top-rated-video-editors/"><u>Updated PowerDirector Alternatives for Mobile Top-Rated Video Editors</u></a></li>
+</ul></div>
 

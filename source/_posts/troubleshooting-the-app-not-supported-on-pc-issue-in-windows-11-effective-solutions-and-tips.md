@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-10-28T16:46:21.966Z
-updated: 2024-10-29T17:32:11.957Z
+date: 2024-11-03T00:08:19.143Z
+updated: 2024-11-03T18:42:03.012Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you’ve encountered a “This app can't run on your PC” error, the app you’re trying to launch is likely incompatible with your system. There are other reasons this issue occurs, and we’ll show you various ways to fix it on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Review Your Startup App List
 
  If the error occurs at your PC’s startup without you manually launching any app, [review your startup app list](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/) and ensure no unwanted apps are there. A startup app might be launching when your PC boots, causing the problem.
@@ -34,23 +27,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Startup Apps' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-startup-apps-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the right pane, review each app. If you find an unwanted app on the list, prevent it from running automatically on your PC’s boot by right-clicking it and choosing "Disable."
 
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
@@ -64,6 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use App Compatibility Troubleshooter
 
  It’s possible the app is not compatible with your Windows 11 system, causing your issue. In this case, run Windows’ built-in App Compatibility Troubleshooter to find and fix the app’s compatibility problems.
@@ -71,6 +57,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Start by right-clicking the app’s shortcut on your desktop and choosing "Properties." Access the "Compatibility" tab and select "Run Compatibility Troubleshooter."
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
@@ -85,10 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-for-developers-windows-11-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Activate the "Developer Mode" option, then choose "Yes" in the prompt.
@@ -96,6 +95,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
  Quit Settings and launch your app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove and Reinstall the App
 
@@ -111,22 +117,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
 
@@ -151,21 +151,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-on-camera-lens-selection-for-professional-vloggers/"><u>[New] Expert Tips on Camera Lens Selection For Professional Vloggers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exceptional-uav-selection-for-optimal-gopro-footage/"><u>[Updated] Exceptional UAV Selection for Optimal GoPro Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-meme-noob-to-pro-mastering-the-9gag-craft/"><u>[Updated] From Meme Noob to Pro Mastering the 9GAG Craft</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-halt-recommendations-no-more-suggests/"><u>[Updated] How to Halt Recommendations No More Suggests</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhance-your-marketing-game-the-top-15-social-media-analyzers-to-increase-e-commerce/"><u>2024 Approved Enhance Your Marketing Game The Top 15 Social Media Analyzers to Increase E-Commerce</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freeframe-finder-unearthing-elite-tiktok-background-art/"><u>2024 Approved FreeFrame Finder Unearthing Elite TikTok Background Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-assessment-photo-editing-tool-for-creatives/"><u>2024 Approved In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-navigating-vrs-negative-aspects/"><u>2024 Approved Navigating VR's Negative Aspects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fine-tune-video-playback-pace-in-instagram-stories-for-2024/"><u>Fine-Tune Video Playback Pace in Instagram Stories for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-start-to-finish-complete-xvideostudioinsight/"><u>From Start to Finish Complete XVideoStudioInsight</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-void-of-originality-in-vr-content/"><u>In 2024, Exploring the Void of Originality in VR Content</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-gionee-f3-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Gionee F3 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-iphone-training-from-high-speed-videos-to-sluggish-movements-for-2024/"><u>In-Depth iPhone Training From High Speed Videos to Sluggish Movements for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-generating-the-nut-button-meme-for-2024/"><u>New Generating the Nut Button Meme for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tier-wired-headphones-2024-edition/"><u>Top-Tier Wired Headphones, 2024 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-samsung-galaxy-s8s-4k-superiority/"><u>[New] Exploring Samsung Galaxy S8's 4K Superiority</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stellar-15-stop-motion-films-to-remember/"><u>[New] Stellar 15 Stop-Motion Films to Remember</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gear-selection-guide-for-global-filmmakers/"><u>[Updated] Gear Selection Guide for Global Filmmakers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-enlargement-editor-for-media-files/"><u>[Updated] Image Enlargement Editor for Media Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-snapseeds-power-for-everyday-photos-for-2024/"><u>Exploring Snapseed's Power for Everyday Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-to-stunning-applying-filters-in-zoom-step-by-step-for-2024/"><u>From Standard to Stunning Applying Filters in Zoom Step-by-Step for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/high-quality-capture-on-mac-a-review-of-top-10-software-for-2024/"><u>High-Quality Capture on Mac A Review of Top 10 Software for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-visual-dynamics-the-power-of-luminances-hdr/"><u>In 2024, Evaluating Visual Dynamics The Power of Luminance's HDR</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-s17-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo S17 Pro FRP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-refined-noctua-nh-d15-g2-whisper-quieter-cooling-fans-extra-heatpipes-for-optimal-performance/"><u>Introducing the Refined Noctua NH-D15 G2: Whisper Quieter Cooling Fans, Extra Heatpipes for Optimal Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/my-guide-to-preventing-post-gaming-session-discomfort-and-aches/"><u>My Guide to Preventing Post-Gaming Session Discomfort and Aches</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quietude-quotient-windowsmac-music-control/"><u>Quietude Quotient Windows/Mac Music Control</u></a></li>
 </ul></div>
 

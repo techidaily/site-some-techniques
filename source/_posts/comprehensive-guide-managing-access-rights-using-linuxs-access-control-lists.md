@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2024-10-25T16:36:57.575Z
-updated: 2024-10-29T16:27:16.118Z
+date: 2024-10-31T23:14:17.488Z
+updated: 2024-11-04T06:50:27.831Z
 tags:
   - desktop
 categories:
@@ -19,15 +19,22 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
  Are you in charge of a shared file server between multiple groups of people, who all need varying access? In this tutorial we'll go over the basics of ACLs and employ them in a fictional office scenario.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Are ACLs?
 
  Access Control Lists (ACLs) supplement the [standard file system permissions model on Linux and Unix](https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/). In a nutshell, they allow you to go beyond the "user/group/other" concept to create additional sets of permissions for files and directories. They also do neat things like automatically applying permissions to new files and directories. But first, let's cover some basic Linux file system permissions concepts in which ACLs work alongside.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Standard File System Permissions
@@ -65,10 +72,10 @@ ls -l mysupersecretfile.txt
  This approach to file system permissions works well for most at-home and standalone setups. Of course, when you're working with systems where multiple users are accessing the same file hierarchy, and you must give certain people access to some areas (and restrict them from others), you'll start to understand the standard "1 owner, 1 group" methodology falls a bit short.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How ACLs Enhance the Standard Permissions Model
@@ -91,6 +98,13 @@ ls -l report.pdf
 
  What to do? Well, you _could_ just take an early lunch break. However, let's instead employ ACLs!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Checking for ACL Support on Your System
 
  Most modern Linux distributions support ACLs out-of-the-box. Most common file systems support them, their default mount options include ACL support and default installations should include the proper packages.
@@ -100,6 +114,13 @@ ls -l report.pdf
 sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 
 ![A terminal window showing output of tune2fs command, and acl default mount option circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For reference, here's a [list of different file system support for ACLs, grouped by platform, written by IBM](https://www.ibm.com/docs/en/storage-protect/8.1.21?topic=linux-file-system-acl-support).
 
@@ -125,13 +146,6 @@ ls -l report.pdf
 
 ![A terminal window showing ls command output with ACL entry flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The setfacl Command
 
  The setfacl command is what actually _sets_ ACLs for files and directories. It adds and removes user and group entries, modifies permissions and other tasks like setting default ACLs on directories and working with masks. We'll use it to complete the request above by granting the lumberg user read access to report.pdf.
@@ -139,13 +153,6 @@ ls -l report.pdf
  To add the new user ACL entry, you'll use setfacl with this syntax (which I'll break down below):
 
 sudo setfacl -m u:lumberg:r report.pdf
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ![A terminal window showing the setfacl command modifying a file's ACL entry.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png) 
 
@@ -162,16 +169,10 @@ getfacl report.pdf
 ![A terminal window showing output of getfacl command on our sample file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Do you spot our new entry?
@@ -185,13 +186,6 @@ getfacl report.pdf
 sudo setfacl -d -m u:lumberg:rX Accounting
 
 ![A terminal window showing setfacl command to set permissions, then getfacl to show them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  An upper-case **X** applies the execute permission only against new subdirectories; not files.
 
@@ -212,19 +206,16 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-suggestions-prime-frame-addition-software-2023-update/"><u>[New] Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-10-high-quality-passport-photos-available-here/"><u>[New] Free 10 High-Quality Passport Photos Available Here</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos/"><u>[Updated] 2024 Approved Elevate Your Tech Game Master the Craft of Screen Recordings in macOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-and-open-top-7-laptop-dvd-player-software-options/"><u>[Updated] Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-sync-saving-your-camera-memories-seamlessly-on-snapchat-for-2024/"><u>[Updated] Perfect Sync Saving Your Camera Memories Seamlessly on Snapchat for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>2024 Approved Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-note-12r-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi Note 12R FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tial-free-mcb-theme-templates/"><u>Essential Free MCB Theme Templates</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-web-video-file-changer-convert-avi-to-mp4-easily-with-the-help-of-movevivai/"><u>Free Web Video File Changer - Convert AVI To MP4 Easily With the Help of MoveVIvAi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-script-to-airwaves-step-by-step-guide-for-ios-audio-recording/"><u>In 2024, From Script to Airwaves Step-by-Step Guide for iOS Audio Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-safely-procure-pure-photography-collections/"><u>In 2024, How to Safely Procure Pure Photography Collections</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-8-best-meme-maker-app-to-create-memes-with-your-own-picture-for-2024/"><u>New 8 Best Meme Maker App to Create Memes with Your Own Picture for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-2023-guide-to-top-value-streaming-tools-for-all-platform-users-for-2024/"><u>The 2023 Guide to Top Value Streaming Tools for All Platform Users for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-what-causes-your-car-audio-system-to-fail/"><u>Unraveling the Mystery: What Causes Your Car Audio System to Fail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-strategies-for-online-video-photo-effects-implementation/"><u>[New] Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-virtual-reality-systems-for-drones/"><u>[New] Ideal Virtual Reality Systems for Drones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gb-required-for-one-full-movie-hour-by-hour/"><u>[Updated] GB Required for One Full Movie, Hour by Hour</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-colors-in-lightroom-with-the-best-luts/"><u>[Updated] Harnessing Colors in LightRoom with the Best LUTs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-10-instagram-hashtag-that-you-should-be-using-today/"><u>[Updated] In 2024, 10 Instagram Hashtag That You Should Be Using Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-underwater-videography-best-action-cameras-for-snorkelers/"><u>2024 Approved Essential Underwater Videography Best Action Cameras for Snorkelers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-methodology-viewing-favorited-and-well-liked-youtube-remarks/"><u>2024 Approved Seamless Methodology Viewing Favorited and Well-Liked YouTube Remarks</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-onedrives-reparse-point-tag-misstep-on-windows/"><u>Correcting OneDrive's Reparse Point Tag Misstep on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-if-theyve-seen-it-the-guide-to-knowing-when-your-messages-are-read/"><u>Discovering If They've Seen It: The Guide to Knowing When Your Messages Are Read</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-turn-offon-smartfiltration-on-windows-11/"><u>Steps to Turn Off/On SmartFiltration on Windows 11</u></a></li>
 </ul></div>
 

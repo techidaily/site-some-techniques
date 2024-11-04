@@ -1,7 +1,7 @@
 ---
 title: Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
-date: 2024-10-23T16:05:11.815Z
-updated: 2024-10-29T17:48:36.262Z
+date: 2024-10-28T20:57:27.322Z
+updated: 2024-11-04T06:22:39.303Z
 tags:
   - deals
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Compare Folders With WinMerge](https://win-howtos.techidaily.com/how-to-repair-when-your-macs-trackpad-wont-respond/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,13 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Properties' highlighted for a folder in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-folder-properties.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Keep the first folder’s "Properties" window open. Then, find the second folder, right-click it, and select "Properties."
 
  You now have the "Properties" window open for both your folders. Bring these windows side-by-side by [dragging them](https://extra-resources.techidaily.com/mastering-complex-video-effects-and-transitions-in-gopro-studio/), and you can see the differences in the contents of these folders. For example, you can see how many files both folders have, what size these folders are, and so on.
@@ -54,6 +47,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Properties' windows for two folders in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-compare-folder-properties.jpg) 
 
  That gives you a general overview of the differences between your folders.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Compare Folders Using Command Prompt
 
@@ -63,6 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Command Prompt highlighted in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Command Prompt, type the following command. Replace "Folder1" with the path to your first folder and "Folder2" with the path to your second folder. Ensure both folder paths are enclosed in double quotes.
 
  To copy a folder’s full path along with double quotes around the path, hold down the Shift key on your keyboard, right-click your folder, and choose "Copy as Path."
@@ -70,13 +77,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 ![The 'robocopy' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-compare-folders-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll see the differences between your folders.
 
@@ -88,13 +88,6 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 * **NP**: This flag excludes folder timestamps.
 * **NS**: This flag excludes file security information.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Compare Folders With WinMerge
 
  If you want more details about the differences in your folders, Windows doesn't have a built-in tool to help you with that. However, you can use a free third-party app called WinMerge to compare multiple folders.
@@ -105,15 +98,22 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 ![File > Open highlighted in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-folder-winmerge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the "1st File or Folder" field, select "Browse" and choose the first folder to compare.
 
 !['Browse' highlighted for the '1st File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-add-first-folder-winmerge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the "2nd File or Folder" field, click the "Browse" button and choose the second folder to compare.
@@ -145,19 +145,21 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-new-realms-the-ultimate-guide-to-iphone-vr-gaming/"><u>[New] Explore New Realms The Ultimate Guide to IPhone VR Gaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-five-iphone-compatible-podcast-services/"><u>[New] Five iPhone-Compatible Podcast Services</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-from-compressed-to-captioned-zip-to-srt-effortlessly/"><u>[New] From Compressed To Captioned Zip to .Srt Effortlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-editing-essentials-for-pc-users/"><u>[New] HDR Editing Essentials for PC Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units-for-2024/"><u>[New] Navigating the Thrilling World of Drone Racing & Premium FPV Units for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-top-10-websites-for-no-fee-images/"><u>2024 Approved Explore the Top 10 Websites for No-Fee Images</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-efficient-video-marketing-for-smalls/"><u>2024 Approved Infographic Efficient Video Marketing for Smalls</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-ranked-alternatives-to-sporting-events-in-firstrow-views/"><u>2024 Approved Ranked Alternatives to Sporting Events in Firstrow Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>2024 Approved Unleash the Power of Zoom Your Win10 Journey Begins Here</u></a></li>
-<li><a href="https://facebook.techidaily.com/7-key-tools-for-social-media-embarrassment-extraction/"><u>7 Key Tools for Social Media Embarrassment Extraction</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/thing-you-need-to-know-about-youtube-shorts-templates/"><u>Everything You Need To Know About YouTube Shorts Templates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guiding-windows-users-through-driver-reinstallation/"><u>Guiding Windows Users Through Driver Reinstallation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>In 2024, How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-subscription-the-art-of-positive-engagement/"><u>In 2024, Mastering Subscription The Art of Positive Engagement</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-stream-downloading-on-different-operating-systems/"><u>[New] 2024 Approved FB Stream Downloading on Different Operating Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-sites-for-secure-and-quick-download-of-youtube-ringtones/"><u>[New] Exclusive Sites for Secure & Quick Download of YouTube Ringtones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-leveraging-fb-platforms-for-public-health-initiatives/"><u>[Updated] 2024 Approved Leveraging FB Platforms for Public Health Initiatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>[Updated] Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-video-warfare-samsung-vs-lg-cam-clash/"><u>[Updated] Immersive Video Warfare Samsung VS LG Cam Clash</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pro-tips-for-high-quality-ps3-game-screenshots-for-2024/"><u>[Updated] Pro Tips for High-Quality PS3 Game Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-refining-published-videos-on-youtube/"><u>[Updated] The Art of Refining Published Videos on YouTube</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726028269976-google-meet/"><u>「決して発見されない、無料＆有料でGoogle Meetを録音する簡単ガイド」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evolving-narratives-in-the-age-of-vr-movies/"><u>2024 Approved Evolving Narratives in the Age of VR Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-performance-desktops/"><u>2024 Approved High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-photoshop-for-beginners-essential-snapseed-techniques/"><u>2024 Approved Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-8-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 8 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-frame-one-15-key-shot-types-for-film-beginners/"><u>In 2024, From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-selecting-the-finest-displays-for-your-xbox-series-x-console/"><u>In 2024, Game On Selecting the Finest Displays for Your Xbox Series X Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-non-compatible-hardware-drivers-on-your-pc-a-guide-to-overcoming-wow-issues/"><u>Solution Steps for Non-Compatible Hardware Drivers on Your PC - A Guide to Overcoming WoW Issues</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50i Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

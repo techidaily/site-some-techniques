@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows"
-date: 2024-10-24T16:52:47.541Z
-updated: 2024-10-29T17:06:45.173Z
+date: 2024-11-03T04:00:22.877Z
+updated: 2024-11-04T09:55:43.896Z
 tags:
   - deals
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 * [Reinstall Minecraft](https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,31 +35,24 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
 _Minecraft_ is still one of the most popular games on the planet, but it's far from perfect. Sometimes the game will crash with the "Exit Code 1" error, leaving it in an unplayable state. Fortunately, it's a common issue, and we will show you how to fix it in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Correct Mod Version
 
  One of the main reasons you're running into the Exit Code 1 error on _Minecraft_ is because your mod version doesn't match the _Minecraft_ version installed on your computer. All of the mods you're using should be the same as the version of _Minecraft_ you're using.
 
 ![Exit Code 1 on Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-code-1-on-minecraft.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For example, if you have _Minecraft_ version 1.20.6 installed on your computer and you have a mod made for version 1.19.4, you might see the error. In this case, you'll need to manually update the outdated mod to its latest version.
 
  To do this, you'll first need to check the _Minecraft_ version installed on your computer. Open _Minecraft_, click the "Installations" tab, and check the "Latest Release" entry to see your _Minecraft_ version.
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
@@ -71,9 +64,23 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll need to replace that mod with its latest version to fix the problem. For this, take note of the name of that mod, and then visit the [CurseForge website](https://www.curseforge.com/minecraft). Type the name of that mod and hit the search icon.
 
 ![Search icon on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/search-icon-the-curseforge-website.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose the relevant mod from the result that appears. Switch to the "Files" tab. You'll see different versions of that mod. You need to click on that version which corresponds with the version of _Minecraft_ you're using.
 
@@ -83,13 +90,20 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Detect and Delete the Problematic Mod
@@ -99,6 +113,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  To find the culprit mod, go to the _Minecraft_ mods folder and move all of your mods to a different location. Then, start moving each mod back to the mods folder one at a time and launch the game after adding each mod. You'll need to do this to identify which mod causes the Exit Code 1 error after adding it back to the folder.
 
  Once you've identified the mod that causes the error, you can delete it from your computer. And if you want, you can also report the issue with that mod on its dedicated page on the CurseForge website.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Update Your Graphics Driver
 
@@ -148,6 +169,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Installations tab in the Minecraft Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installations-tab-in-the-minecraft-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the three dots next to the "Latest release" entry and choose "Edit."
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
@@ -155,13 +183,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  Click "More Options." Then, click the "Browse" option.
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
@@ -175,13 +196,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  Now, restart the game and check for the issue again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Reinstall _Minecraft_ 
 
  If none of the above solutions have helped to fix the problem, the last thing you can try is to reinstall _Minecraft_. But before you do that, you can keep your Minecraft data somewhere safe so you don't lose it even after reinstalling Minecraft. To back up your _Minecraft_ progress, open the Run dialog box, type **%appdata%**, and hit Enter. Then, open the ".Minecraft" folder.
@@ -190,23 +204,9 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
 ![Delete option to delete the Mincraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-option-to-delete-the-mincraft-folder.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
@@ -237,22 +237,21 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>[New] From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-comic-10-must-have-strategies-for-making-gifs/"><u>[New] From Concept to Comic 10 Must-Have Strategies for Making GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gb-usage-for-full-day-film-length/"><u>[New] GB Usage for Full-Day Film Length</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>[New] Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-beginners-pathway-to-livestreaming-on-facebook-and-mobile-devices/"><u>[New] In 2024, Beginner's Pathway to Livestreaming on Facebook and Mobile Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>[New] Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastery-in-video-creation-using-captivate-software/"><u>[Updated] In 2024, Mastery in Video Creation Using Captivate Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-tips-to-elevate-your-canva-projects-by-10x/"><u>2024 Approved Exclusive Tips to Elevate Your Canva Projects by 10X</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-v30t-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme V30T PC | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-oppo-find-x7-ultra-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Find X7 Ultra Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-sharpen-your-vision-in-the-world-of-roblox-for-2024/"><u>How to Sharpen Your Vision in the World of Roblox for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-switch-between-normal-and-picture-in-picture-views-in-youtube-for-2024/"><u>How to Switch Between Normal and Picture In Picture Views in Youtube for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-converting-mac-image-types-a-step-by-step-process/"><u>In 2024, Converting Mac Image Types A Step-by-Step Process</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-green-grounds-a-selection-of-free-downloadable-videography-sets/"><u>In 2024, Green Grounds A Selection of Free, Downloadable Videography Sets</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-se-2022-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone SE (2022) After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-choices-what-to-look-for-in-a-portable-games-device/"><u>Navigating Choices: What To Look For in a Portable Games Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revised-service-setup-inf-validated/"><u>Revised Service Setup: INF Validated</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-video-tools-working-across-systems-seamlessly/"><u>[New] Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initiate-the-art-of-movie-making-xp-edition/"><u>[New] Initiate the Art of Movie Making Xp Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-for-fabulous-photo-collage-artistry/"><u>[New] Techniques for Fabulous Photo Collage Artistry</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tunefab-screen-recorder-review/"><u>[New] Tunefab Screen Recorder Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlink-from-youtube-shorts-follow-this-plan/"><u>[New] Unlink From YouTube Shorts - Follow This Plan</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beyond-viral-tactics-uncovering-the-facts-about-reels-on-instagram/"><u>[Updated] Beyond Viral Tactics Uncovering the Facts About Reels on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fluxvideoart-compile-and-display-on-macos-sierra/"><u>[Updated] FluxVideoArt Compile & Display on macOS Sierra</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-implementation-crafting-a-powerful-documntary-narrative/"><u>[Updated] From Idea to Implementation Crafting a Powerful Documntary Narrative</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-for-eliminating-youtube-video-skip-teasers/"><u>2024 Approved Expert Advice for Eliminating YouTube Video Skip Teasers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-time-stamping-your-photos/"><u>2024 Approved The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-players-in-immersive-vision-sets/"><u>2024 Approved Top Players in Immersive Vision Sets</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhanced-personalization-with-our-cookiebot-enabled-solutions/"><u>Enhanced Personalization with Our Cookiebot-Enabled Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-14-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi 14 Pro Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-incrementally-lower-decibels-in-logic-pro/"><u>In 2024, How to Incrementally Lower Decibels in Logic Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-color-correction-with-canons-paired-luts/"><u>In 2024, Immediate Color Correction with Canon's Paired LUTs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-blh41n-rtf-a-detailed-review-of-the-120-size-blade-rc-helicopter-for-outdoor-enjoyment/"><u>Unveiling the Potential of BLH41n RTF: A Detailed Review of the 120 Size Blade RC Helicopter for Outdoor Enjoyment</u></a></li>
 </ul></div>
 

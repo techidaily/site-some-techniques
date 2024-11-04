@@ -1,7 +1,7 @@
 ---
 title: "Extracting Images From Videos in Windows 11 Photos for 2024"
-date: 2024-07-26T16:36:13.584Z
-updated: 2024-07-27T16:36:13.584Z
+date: 2024-11-02T18:24:27.687Z
+updated: 2024-11-04T10:34:07.389Z
 tags: 
   - screen-recording
   - ai video
@@ -34,9 +34,6 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -57,9 +54,6 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 * Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
 * Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
@@ -71,18 +65,33 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 We are explaining the solutions here –
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -94,17 +103,18 @@ Here comes the guide –
 * Now, run the java applet and just hit the camera icon to capture shots.
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
@@ -117,12 +127,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-windows-best-video-conferencing-apps-2-1/"><u>[New] 2024 Approved Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-ps-essential-editing-techniques-unlocked/"><u>[New] First Steps in PS Essential Editing Techniques Unlocked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-funimates-downloading-prowess-quickly/"><u>[New] Harnessing Funimate's Downloading Prowess Quickly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-picshot-simplifies-photo-collage-creation/"><u>[New] How Picshot Simplifies Photo Collage Creation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-key-practices-for-soundless-media-gathering/"><u>[New] Key Practices for Soundless Media Gathering</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-online-promotion-top-5-proven-methods-for-maximum-impact-on-youtube/"><u>[New] Mastering Online Promotion Top 5 Proven Methods for Maximum Impact on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-expressive-storytelling-with-snapchats-in-your-face-gifs/"><u>[Updated] 2024 Approved Expressive Storytelling with Snapchat's In-Your-Face GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-seamless-photo-and-video-import-in-windows-10/"><u>[Updated] Expert Tips for Seamless Photo and Video Import in Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-the-art-of-choosing-high-quality-hdr-cameras/"><u>[Updated] In 2024, Mastering the Art of Choosing High-Quality HDR Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-legal-gaming-music-without-price-tag/"><u>2024 Approved Exclusive Guide to Legal Gaming Music Without Price Tag</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-windows-11-best-new-gaming-titles/"><u>2024 Approved Explore Windows 11 Best New Gaming Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-editions-windowed-film-editing-software/"><u>2024 Approved Innovative Editions Windowed Film Editing Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/78412949-2024-approved-top-6-youtube-outro-makers-lots-of-free-options/"><u>2024 Approved Top 6 YouTube Outro Makers-Lots of FREE Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-muddled-to-clear-mastering-photo-bg-removal-for-2024/"><u>From Muddled to Clear Mastering Photo Bg Removal for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-brilliance-photoshops-best-hdr-methods-for-2024/"><u>Illuminating Brilliance Photoshop's Best HDR Methods for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-asus-rog-phone-7-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Asus ROG Phone 7? Fixed | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-2024-alternatives-to-microsoft-office-a-comprehensive-guide/"><u>Top 2024 Alternatives to Microsoft Office: A Comprehensive Guide</u></a></li>
+</ul></div>
 

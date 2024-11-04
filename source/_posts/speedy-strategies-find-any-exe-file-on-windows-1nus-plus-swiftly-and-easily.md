@@ -1,7 +1,7 @@
 ---
 title: "Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily"
-date: 2024-10-22T16:30:16.389Z
-updated: 2024-10-29T16:10:37.555Z
+date: 2024-11-01T21:20:21.111Z
+updated: 2024-11-04T08:54:55.107Z
 tags:
   - desktop
 categories:
@@ -35,15 +35,22 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
 
 ![Finding an application's shortcut location using the Start Menu in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_locate_shortcut_startmenu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will open a File Explorer window that points to the actual application shortcut file. Right click on that shortcut, and select "Properties."
@@ -56,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
 
- What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
 
 ##  If You Can't Find a Shortcut to Use
 
@@ -73,27 +80,20 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
  Apps you install from the Microsoft Store, and their executables, are stored in "C:\\Program Files\\WindowsApps."
 
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
 
@@ -112,24 +112,18 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-cutting-edge-of-uhd-with-lgs-27ud68/"><u>[New] Exploring the Cutting-Edge of UHD with LG's 27UD68</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-zoom-visuals-top-techniques/"><u>[New] Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-0-to-million-views-the-ultimate-content-blueprint/"><u>[Updated] From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-growing-presence-in-video-platforms-via-short-films-for-2024/"><u>[Updated] Growing Presence in Video Platforms via Short Films for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-thriving-financially-with-successful-facebook-video-advertising-tactics/"><u>[Updated] Thriving Financially with Successful Facebook Video Advertising Tactics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-techniques-for-downloading-fb-stories-desktop-and-mobile/"><u>2024 Approved Essential Techniques for Downloading FB Stories (Desktop & Mobile)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-fundamentals-of-animated-communication/"><u>2024 Approved Grasping the Fundamentals of Animated Communication</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-metaverse-avatar-easily-an-ultimate-guide/"><u>2024 Approved How to Create Metaverse Avatar Easily An Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-effortlessly-connect-zoom-with-gmail/"><u>2024 Approved How to Effortlessly Connect Zoom with Gmail</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/beat-a-thon-essential-playlists-for-tiktoks-hot-rappers-for-2024/"><u>Beat-a-Thon Essential Playlists for TikTok's Hot Rappers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/click-into-art-ultimate-edits-for-stunning-snaps/"><u>Click Into Art Ultimate Edits for Stunning Snaps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-premium-hd-and-4k-videos-in-full-scope-360-for-free-including-mp4-3gp-and-flv-options/"><u>Download Premium HD & 4K Videos in Full Scope (360°) for Free: Including MP4, 3GP & FLV Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evasive-techniques-for-anonymous-instagram-broadcasting-for-2024/"><u>Evasive Techniques for Anonymous Instagram Broadcasting for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flip-content-sequence-android-video-workaround-for-2024/"><u>Flip Content Sequence Android Video Workaround for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-updated-windows-drivers-for-msi-gs65-free-downloads-available/"><u>Get Your Hands on Updated Windows Drivers for MSi GS65 - Free Downloads Available!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word/"><u>In 2024, Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-the-power-of-windows-11s-media-importer-tools-for-2024/"><u>Unleash the Power of Windows 11'S Media Importer Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-broadcast-power-play-which-livestream-tool-should-you-use/"><u>[New] 2024 Approved Broadcast Power Play Which Livestream Tool Should You Use?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-stealthy-search-strategies-for-elusive-youtube-videos/"><u>[New] 2024 Approved Stealthy Search Strategies for Elusive YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[New] 2024 Approved The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giggle-genesis-app/"><u>[New] Giggle Genesis App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-flawlessly-post-srt-files-in-multiple-social-environments/"><u>[New] How to Flawlessly Post SRT Files in Multiple Social Environments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-leverage-igs-busiest-hours-for-your-content/"><u>[New] How to Leverage IG's Busiest Hours for Your Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-estimating-filming-expenses-for-a-song-video-production/"><u>2024 Approved Estimating Filming Expenses for a Song Video Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heartfelt-goodbyes-free-or-subscribed-video-endings-for-2024/"><u>Heartfelt Goodbyes Free or Subscribed Video Endings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improve-zoo-call-quality-banish-background-noise-for-2024/"><u>Improve Zoo Call Quality Banish Background Noise for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-in-vlogging-gear-and-software-guide/"><u>In 2024, Getting Started in Vlogging Gear and Software Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>In 2024, Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mini-laptops-and-gimbals-for-mobile-videos/"><u>Mini Laptops & Gimbals for Mobile Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/real-time-fbx-filming-tips/"><u>Real-Time FBX Filming Tips</u></a></li>
 </ul></div>
 

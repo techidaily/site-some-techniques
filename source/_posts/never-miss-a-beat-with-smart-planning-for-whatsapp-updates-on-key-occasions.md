@@ -1,7 +1,7 @@
 ---
 title: Never Miss a Beat with Smart Planning for WhatsApp Updates on Key Occasions
-date: 2024-10-28T16:23:40.345Z
-updated: 2024-10-29T17:04:49.588Z
+date: 2024-10-27T19:13:37.161Z
+updated: 2024-11-04T06:04:44.706Z
 tags:
   - mobile
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recipients option in the SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/recipients-option-in-the-skedit-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close 
 
  Type your message in the message field and add any attachments if needed. Next, select the date and time for the scheduled message and tap the check icon at the top.
@@ -48,6 +41,13 @@ Close
 
  That's it! The app will automatically send the scheduled message without requiring any further input from you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Schedule WhatsApp Messages on iPhone
 
  On your iPhone, you can use the Shortcuts app to schedule a WhatsApp or any other [text message](https://facebook-video-footage.techidaily.com/updated-enhanced-engagement-with-effective-youtube-video-outros-strategies-for-2024/). If you don't have the app installed on your iPhone, [download it from the App Store](https://apps.apple.com/us/app/shortcuts/id915249334) and then open it. Tap "Automation" at the bottom and choose "New Automation." Then, select "Time of Day."
@@ -55,13 +55,26 @@ Close
 ![New Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-automation-option-in-the-shortcuts-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Time of Day option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/time-of-day-option-in-the-shortcuts-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -69,21 +82,7 @@ Close
 
 ![Run Immediately option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/run-immediately-option-in-the-shortcuts-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![New Blank Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-blank-automation-option-in-the-shortcuts-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -93,16 +92,22 @@ Close
 
 ![Done option in the Shortcut app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/done-option-in-the-shortcut-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close 
 
  That's about it. The WhatsApp message will be sent automatically at the scheduled time. Make sure to delete the automation task once you no longer need the scheduled message.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Schedule WhatsApp Messages on WhatsApp Web
 
@@ -111,10 +116,16 @@ Close
 ![Extensions tab in Chrome Web Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-tab-in-chrome-web-store.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, click the "Add to Chrome" button on the Blueticks page.
@@ -125,16 +136,16 @@ Close
 
 ![Add Extension option in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-extension-option-in-chrome.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the extension is installed, click the extensions icon in the Chrome toolbar and then click "Blueticks." Create a Blueticks account and log in.
 
 ![Extensions icon in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-icon-in-chrome.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, open [WhatsApp Web on Chrome](https://web.whatsapp.com/) and launch the conversation of the person you want to schedule a message for, type the message in the message field, then click the clock icon next to it.
 
@@ -143,6 +154,13 @@ Close
  In the Blueticks window that opens, select the date and time for your scheduled message. You can also configure other options that Blueticks offers, like adding files, sending recurring messages, and more. Finally, click the "Schedule Send" option, and your message will be sent at the scheduled time.
 
 ![Schedule Send optoin in WhatsApp Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/schedule-send-optoin-in-whatsapp-web.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -163,16 +181,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-headline-hypnotizer-simulator/"><u>[New] Headline Hypnotizer Simulator</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-streamline-and-slim-vids-instagram-tips-using-macos-for-2024/"><u>[Updated] Streamline and Slim Vids Instagram Tips Using macOS for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-best-gopro-accessories-for-beginners/"><u>2024 Approved Best GoPro Accessories for Beginners</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>2024 Approved From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-greatest-hits-max-360-vs-hero-11-comparison/"><u>2024 Approved GoPro's Greatest Hits Max 360 vs Hero 11 Comparison</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-11-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-the-world-of-photography-with-adobes-hdr-techniques/"><u>In 2024, Illuminating the World of Photography with Adobe's HDR Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-api-essential-techniques-and-best-practices/"><u>Integrating ChatGPT API: Essential Techniques and Best Practices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a24-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A24 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sifting-through-codegpt-can-it-realistically-write-complex-code/"><u>Sifting Through CodeGPT: Can It Realistically Write Complex Code?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-fixing-print-driver-errors-on-windows-11-systems/"><u>Troubleshooting and Fixing Print Driver Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-circumference-video-rigging/"><u>[New] Full-Circumference Video Rigging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focal-point-expose/"><u>[Updated] Focal Point Exposé</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-global-industrys-biggest-uav-lifters-the-ultimate-list/"><u>[Updated] Global Industry's Biggest UAV Lifters The Ultimate List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/d-the-scenes-how-much-creators-earn-from-youtube-shorts-for-2024/"><u>Behind the Scenes How Much Creators Earn From YouTube Shorts for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199747833-fix-windows-10-thread-stuck-in-device-driver-error-easily/"><u>Fix Windows 10 Thread Stuck in Device Driver Error. Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-shot-to-spectacle-pro-tips-for-transformative-photographic-edits-for-2024/"><u>From Shot to Spectacle Pro Tips for Transformative Photographic Edits for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-curriculum-videos-top-tips-for-classroom-edits/"><u>In 2024, Curriculum Videos Top Tips for Classroom Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>In 2024, Hover & Watch Utilizing the Float Feature on Netflix</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-14-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 Pro Activation Lock</u></a></li>
+<li><a href="https://article-tips.techidaily.com/podcasts-versus-video-based-platforms-who-wins-in-2024/"><u>Podcasts versus Video-Based Platforms – Who Wins, In 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sophisticated-office-upgrade-exploring-the-features-and-design-of-flexispots-theodore-standing-desk/"><u>The Sophisticated Office Upgrade: Exploring the Features and Design of Flexispot's Theodore Standing Desk</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-fixing-sony-ps3s-avi-file-playback-problem/"><u>Troubleshooting Guide: Fixing Sony PS3's AVI File Playback Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-future-key-updates-in-ai-siri-enhancements-and-ios-version-18-revealed-at-wwdc-by-apple-technewstoday/"><u>Unveiling the Future: Key Updates in AI, Siri Enhancements & iOS Version 18 Revealed at WWDC by Apple | TechNewsToday</u></a></li>
 </ul></div>
 

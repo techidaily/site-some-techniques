@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-10-22T17:46:38.922Z
-updated: 2024-10-29T17:01:07.176Z
+date: 2024-10-30T05:23:57.206Z
+updated: 2024-11-03T16:05:36.363Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,10 +41,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -64,10 +64,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -95,16 +95,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-virtual-worlds-with-top-tier-game-engines-2023/"><u>[New] 2024 Approved Mastering Virtual Worlds with Top-Tier Game Engines, 2023</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-expert-tips-for-high-quality-zoom-podcast-sessions/"><u>[Updated] Expert Tips for High-Quality Zoom Podcast Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-audio-visuals-podcast-covers-explained/"><u>[Updated] Innovating Audio Visuals Podcast Covers Explained</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-master-the-art-of-movie-capture-on-any-device-for-2024/"><u>[Updated] Master the Art of Movie Capture on Any Device for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-how-to-mass-download-tiktok-videos/"><u>2024 Approved How To Mass Download TikTok Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-subtitle-transformation-made-simple-top-10-lists-for-2024/"><u>Expert Subtitle Transformation Made Simple - Top 10 Lists for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-your-perfect-match-gear-vr-compatible-phones-2023-for-2024/"><u>Find Your Perfect Match Gear VR-Compatible Phones 2023 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hacky-yet-effective-face-blurring-on-piscart-for-2024/"><u>Hacky Yet Effective Face-Blurring on PiscArt for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-definition-videography-unveiled-by-yi-for-2024/"><u>High Definition Videography Unveiled by Yi for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-your-pc-settings-navigating-to-control-panel-in-windows-versions-11-7-and-8/"><u>Mastering Your PC Settings: Navigating to Control Panel in Windows Versions 11, 7, and 8</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-advanced-analytics-with-cookiebot-integration/"><u>Unlocking Advanced Analytics with Cookiebot Integration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716069807502-new-2024-approved-in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10/"><u>[New] 2024 Approved In-Device Recorder Activation Huawei's Mate 10/20 & P Series Phones (P20, P10).</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-simplifying-screen-views-during-google-meet-chats/"><u>[New] 2024 Approved Simplifying Screen Views During Google Meet Chats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-pixlr-edits-top-15-tricks-for-perfection/"><u>[New] Expert Guide to Pixlr Edits Top 15 Tricks for Perfection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>[New] Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-success-starts-with-these-strategies-for-2024/"><u>[New] Instagram Success Starts with These Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-speed-of-instagram-videos-effortlessly/"><u>[Updated] How To Control Speed of Instagram Videos Effortlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-videography-journey-using-adobe-connects-tools/"><u>[Updated] Optimizing Your Videography Journey Using Adobe Connect's Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ffmpeg-review-upholding-authentic-audio-formats/"><u>2024 Approved FFmpeg Review Upholding Authentic Audio Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-video-openers-to-increase-views/"><u>2024 Approved Free Video Openers to Increase Views</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/access-global-grooves-at-zero-price/"><u>Access Global Grooves at Zero Price</u></a></li>
+<li><a href="https://article-tips.techidaily.com/creative-vanguard-collection-free-3d-text-psds-classics-for-2024/"><u>Creative Vanguard Collection Free 3D Text PSDS Classics for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/explore-the-world-of-drawing-on-your-chromebook-today/"><u>Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-slow-motion-pro-level-gopro-hero-10-techniques-for-2024/"><u>Harnessing the Power of Slow Motion Pro-Level GoPro Hero 10 Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmopedia-answer-to-inquiries/"><u>In 2024, FilmoPedia Answer to Inquiries</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawlessai-imager-perfected-photo-processes/"><u>In 2024, FlawlessAI Imager Perfected Photo Processes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-facetune-a-photographers-best-friend-for-2024/"><u>In-Depth Look at Facetune A Photographer’s Best Friend for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-essential-fcpx-add-ons-top-10-free-and-paid-plugins-you-need-for-2024/"><u>New Essential FCPX Add-Ons Top 10 Free and Paid Plugins You Need for 2024</u></a></li>
 </ul></div>
 

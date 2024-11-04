@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-10-24T16:27:20.132Z
-updated: 2024-10-29T16:39:21.895Z
+date: 2024-10-31T08:42:16.955Z
+updated: 2024-11-03T23:41:01.868Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Ubuntu adds its own cache to the mix. By default, the [systemd](https://facebook-clips.techidaily.com/2024-approved-restore-order-fixing-compromised-fb-profile/)\-resolved service is enabled. This caches DNS requests and responses. If a single cache entry (or the whole cache for that matter) becomes corrupted, you can experience connectivity issues with remote servers, web resources, and local devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Does Flushing the DNS Cache Do?
 
  Flushing the DNS cache tells your computer to forget all the stored name and IP address pairs it has collected. That means any connection request that requires resolving from a name to an IP address requires your computer to query an outside source such as your local router or an external DNS service. The response will be cached.
@@ -68,10 +75,10 @@ resolvectl statistics
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
@@ -80,6 +87,13 @@ resolvectl flush-caches
 
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
 
 resolvectl statistics
@@ -87,10 +101,10 @@ resolvectl statistics
 ![Verifying the DNS cache is empty on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Our cache size is zero, just as we predicted.
@@ -98,6 +112,13 @@ resolvectl statistics
 ##  Don’t Forget Your Browser's Cache
 
  Your internet browsers have their own caches. If you’re flushing your DNS buffers to try to remove a problem, make a point of doing the same for your browsers.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Firefox
 
@@ -108,10 +129,10 @@ about:networking
 ![Selecting the DNS option in the Firefox sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the "DNS" entry in the sidebar.
@@ -122,19 +143,6 @@ about:networking
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Flushing the DNS Cache in Google Chrome
 
  To do the same operation in Google Chrome, enter this in the URL address bar and hit the Enter key:
@@ -143,21 +151,7 @@ chrome://net-internals/#dns
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Remember to Flush Your DNS Cache
 
@@ -180,18 +174,22 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-physical-action-review/"><u>[New] Full Spectrum Physical Action Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-itunes-video-management-made-simple/"><u>[New] In 2024, ITunes Video Management Made Simple</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-compreranal-guide-to-best-free-budget-friendly-lut-sources-for-2024/"><u>[Updated] Compreranal Guide to Best Free, Budget-Friendly LUT Sources for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streamers-playbook-broadcasting-to-facebook-network-for-2024/"><u>[Updated] Streamer's Playbook Broadcasting to Facebook Network for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-selection-of-cost-effective-4k-projection-screens/"><u>2024 Approved Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
-<li><a href="https://driver-download.techidaily.com/best-practices-for-obtaining-broadcom-bluetooth-software-for-various-versions-of-windows-os/"><u>Best Practices for Obtaining Broadcom Bluetooth Software for Various Versions of Windows OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-clipcomposer-critique-full-report/"><u>In 2024, ClipComposer Critique – Full Report</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>In 2024, Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fascinating-film-categories-to-lure-viewers/"><u>In 2024, Fascinating Film Categories to Lure Viewers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-your-perfect-match-premium-videographer-recruitment/"><u>In 2024, Finding Your Perfect Match Premium Videographer Recruitment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-tools-in-live-encoding-technology/"><u>In 2024, Innovative Tools in Live Encoding Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>In 2024, Swiftly Start Sharing Joy Installing the iFunny Meme App</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>[New] In 2024, Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-what-is-virtual-reality-and-how-does-it-work/"><u>[New] What Is Virtual Reality and How Does It Work?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial/"><u>[Updated] 2024 Approved The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-the-right-free-srt-translation-for-you-our-8-picks/"><u>[Updated] Finding the Right FREE SRT Translation for You – Our #8 Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hues-harmony-crafting-colorful-artistry/"><u>[Updated] Hues Harmony Crafting Colorful Artistry</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>[Updated] In 2024, In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-and-frame-the-art-of-intimate-movie-filming/"><u>2024 Approved Focus & Frame The Art of Intimate Movie Filming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamcatcher-pro-for-facebook-videos/"><u>2024 Approved StreamCatcher Pro for Facebook Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nubia-red-magic-9-proplus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nubia Red Magic 9 Pro+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/calculate-the-absolute-deviations-85-25-15-35-45-65/"><u>Calculate the Absolute Deviations: $8.5, 2.5, 1.5, 3.5, 4.5, 6.5$</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-gopro-hero5-sessions-for-2024/"><u>Exploring the GoPro Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/green-canvas-essential-templates-to-enhance-your-cinematographic-journey-for-2024/"><u>Green Canvas Essential Templates to Enhance Your Cinematographic Journey for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-connect-and-talk-using-chatgpt-the-ultimate-guide/"><u>How to Connect and Talk Using ChatGPT - The Ultimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-magix-video-pro-x-journey/"><u>In 2024, From Novice to Pro Magix Video Pro X Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-raw-footage-to-final-product-using-windows-10-for-editing-success/"><u>In 2024, From Raw Footage to Final Product Using Windows 10 for Editing Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-hacking-twitters-humor-for-personal-use-on-pc/"><u>In 2024, Hacking Twitter's Humor for Personal Use on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-is-inshot-the-premier-editing-tool-in-2024/"><u>In-Depth Look Is InShot the Premier Editing Tool, In 2024</u></a></li>
 </ul></div>
 

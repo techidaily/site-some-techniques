@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11"
-date: 2024-10-22T16:33:09.581Z
-updated: 2024-10-29T16:20:55.240Z
+date: 2024-11-01T17:39:16.692Z
+updated: 2024-11-04T00:45:41.170Z
 tags:
   - deals
 categories:
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
@@ -49,33 +42,40 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
  Next, close PowerToys and get ready to grab some colors. The PowerToys Settings app does not need to be running for Color Picker to work.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Activate Color Picker With a Keyboard Shortcut
 
  Once Color Picker is enabled, you can use it at any time by pressing Windows+Shift+C (or whatever keyboard shortcut you chose) on your keyboard. After pressing the shortcut, you'll see a small pop-up box beside your mouse cursor that shows a square preview of the color you're pointing to and the [hexadecimal code](https://tech-hub.techidaily.com/discover-the-best-no-cost-audiobook-sites-for-young-readers-and-adolescents/) (often called "hex" for short) for that color.
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Also, you can adjust the color value you just selected within Color Picker by clicking the center of the large color bar near the top of the window.
 
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
@@ -119,20 +119,22 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flip-the-narrative-ios-video-playback-upside-down/"><u>[New] Flip the Narrative IOS Video Playback Upside-Down</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-business-visual-aids-to-enhance-your-meetings/"><u>[New] Free Business Visual Aids to Enhance Your Meetings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-xbox-one-zooming-pros/"><u>[Updated] Expert Advice for Xbox One Zooming Pros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-realms-with-kinemaster-app-for-android-users/"><u>[Updated] Exploring Virtual Realms with KineMaster App for Android Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-versatile-video-tools-for-linux-windows-and-macos/"><u>2024 Approved Free, Versatile Video Tools for Linux, Windows & MacOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fusion-of-video-files-for-ios-devices/"><u>2024 Approved Fusion of Video Files for iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-amplify-safety-extending-pin-length-on-win11-devices/"><u>How to Amplify Safety: Extending Pin Length on Win11 Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-film-experience-photography-plus-music-for-2024/"><u>Immersive Film Experience Photography + Music for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-6-plus-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 6 Plus Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-fundamentals-of-income-for-t-series-on-youtube/"><u>In 2024, The Fundamentals of Income for T-Series on YouTube</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-online-video-editing-for-free-the-top-options-compared/"><u>New 2024 Approved Online Video Editing for Free The Top Options Compared</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/photosculptor-kit/"><u>PhotoSculptor Kit</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-truth-behind-asmr-video-enthusiasm/"><u>The Truth Behind ASMR Video Enthusiasm</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-get-the-best-of-both-worlds-convert-mp4-to-mp3-with-these-top-converters/"><u>Updated Get the Best of Both Worlds Convert MP4 to MP3 with These Top Converters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/f4v-mp4-wi-fi-movavi/"><u>오독으로 쉬운 F4V 이미지를 MP4로 전환하는 단거리 Wi-Fi용 가장 좋은 방법 – Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-explore-these-seven-sources-for-youtube-sound-effects/"><u>[New] 2024 Approved Explore These Seven Sources for YouTube Sound Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram/"><u>[Updated] Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[Updated] Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-endgame-permanently-blocking-access-to-youtube-shorts/"><u>[Updated] In 2024, The Endgame Permanently Blocking Access to YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unleash-youtube-dominance-a-comprehensive-guide-to-studio-success/"><u>[Updated] Unleash YouTube Dominance A Comprehensive Guide to Studio Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>2024 Approved From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-front-seat-recreation-10-non-athletic-delights/"><u>2024 Approved Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-soft-cessation-of-sounds-using-audacity-procedures/"><u>2024 Approved Implementing Soft Cessation of Sounds Using Audacity Procedures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-breakdown-stream-yourself-successfully-via-zoom-and-youtube/"><u>2024 Approved In-Depth Breakdown Stream Yourself Successfully via Zoom and YouTube</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-conversion-rates-using-the-power-of-cookiebot-software/"><u>Boost Conversion Rates Using the Power of Cookiebot Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora-for-2024/"><u>How to Convert AVI to GIF on Windows and Mac with Filmora for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-manipulate-iphone-pics-flip-tilt-and-more-for-2024/"><u>How to Manipulate iPhone Pics Flip, Tilt & More for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-restore-deleted-game-progress-in-witcher-3-cyberpunk-edition-tips-and-tricks/"><u>How To Restore Deleted Game Progress In Witcher 3 Cyberpunk Edition - Tips & Tricks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-c55-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-gain-graph-finns-financial-flux/"><u>In 2024, Gaming Gain Graph Finn's Financial Flux</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/recuperateurs-de-fichiers-inoubliables-pour-windows-top-4-alternatives-au-pc-inspector-en-ebn-2024/"><u>Récupérateurs De Fichiers Inoubliables Pour Windows : Top 4 Alternatives Au PC Inspector en Ebn 2024</u></a></li>
 </ul></div>
 

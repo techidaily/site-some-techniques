@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal"
-date: 2024-10-24T16:49:50.631Z
-updated: 2024-10-29T16:11:28.091Z
+date: 2024-10-30T18:36:14.324Z
+updated: 2024-11-04T07:38:39.102Z
 tags:
   - desktop
 categories:
@@ -36,28 +36,29 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
 ![Warp terminal home page with download options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/download-the-deb-package-of-warp-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the download is complete, go to the directory where it was downloaded. For me, it's the "\~/Downloads" directory. Open the directory in your terminal using [the cd command](https://audio-shaping.techidaily.com/updated-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios-for-2024/) or by right-clicking on the screen and hitting "Open in Terminal" from the context menu.
 
 ![The Downloads directory being displayed with the context menu open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-download-directory-in-terminal.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To install Warp on Linux Mint (and other Debian-based distros) using the DEB package, run this command:
 
 sudo apt install warp-terminal_*.deb
 
 ![The Linux terminal showing the process of installing Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/installing-warp-terminal-on-linux.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installing, open the application from the app drawer or run this command:
 
@@ -75,16 +76,16 @@ warp-terminal
 
 ![Warp terminal sign up page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-sign-up-page-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll be sent an email. Open that email and click the link to sign in successfully. You should also get a prompt to open a link in the Warp terminal. Click the "Open Link" button.
 
 ![A prompt on the browser to open a link in the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-link-in-the-warp-terminal.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll be returned to the Warp terminal window with a thanks message. Now, Warp will ask a few questions about your terminal usage. You can feel free to skip them by pressing the "Remind me later" option. For your convenience, I'll go through the survey and answer the questions.
 
@@ -115,10 +116,10 @@ Close
 ![Warp command history panel opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-command-history.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Warp AI Can Save You Tons of Googling
@@ -147,11 +148,25 @@ Close
 
 ![Warp Terminal workflow about killing a process running on a certain port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-workflow-about-killing-a-process-running-on-a-certain-port.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can add as many arguments as needed. Another great thing I found is that you can search for your workflows by name. Again, no need to remember the syntax or even the command names.
 
  Notebooks are interactive blocks of text created in the Markdown format. Notebooks can contain text, code blocks, lists, shell snippets, and more. Think of it as a mix of [Notion](https://extra-approaches.techidaily.com/updated-prime-focus-the-top-10-high-res-shoulder-rigs/) and Jupyter Notebook. You can export your notebooks in Markdown format and also import existing ones into Warp from your system.
 
 ![An example of a Warp notebook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Being a Notion user myself, I really enjoyed this feature. Having a notebook feature built into the terminal where I can keep important documentation and notes means I don't need to go back and forth between various resources.
 
@@ -160,17 +175,10 @@ Close
 ![An instance of using split windows in Warp terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks-feature.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Can Collaborate in the Terminal
@@ -179,21 +187,7 @@ Close
 
 ![Creating a team on the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/creating-a-team-on-the-warp-terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once created, you can invite others via email or a custom link. Your team members can access workflows and notebooks you share with the team. On the free plan, you can have up to three members, and share up to three notebooks and 10 workflows. Moreover, you can share sessions, command-line controls, and terminal input-output blocks with members.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  There Are Some Catches
 
@@ -208,10 +202,10 @@ Close
  This might be nitpicking. By default, the prompt panel is stuck to the bottom of the terminal, which, in my opinion, is a bad position. When you're accustomed to regular terminals, you need to look down a lot when typing the commands on Warp. Of course, you can change this easily from the settings and make it stick to the top.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rocking Linux With a Powerful Terminal
@@ -233,20 +227,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-unleash-funimate-with-apk-on-your-phone/"><u>[New] How to Unleash Funimate with APK on Your Phone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[New] In 2024, Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exhaustive-explanation-unveiling-the-google-podcasts-app/"><u>[Updated] Exhaustive Explanation Unveiling the Google Podcasts App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fresh-take-on-the-enhanced-sony-s6500-media-device/"><u>[Updated] Fresh Take on the Enhanced Sony S6500 Media Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-power-of-mematic-for-notes/"><u>[Updated] Harness the Power of Mematic for Notes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-list-of-drones-working-with-gopro-hero-series/"><u>[Updated] In 2024, Ultimate List of Drones Working with GoPro Hero Series</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-impact-of-visual-client-reviews-on-business-image/"><u>2024 Approved Impact of Visual Client Reviews on Business Image</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/artificinas-intelligence-microsofts-innovative-ai-addition-to-windows-11-taskbar/"><u>Artificinas Intelligence: Microsoft’s Innovative AI Addition to Windows 11 Taskbar</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-free-c-span-footage-simple-legal-steps-explained/"><u>In 2024, Get Free C-Span Footage - Simple, Legal Steps Explained</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/redefining-intelligence-openais-latest-breakthrough/"><u>Redefining Intelligence: OpenAI's Latest Breakthrough</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamers-vs-micro-influencers-which-platform-reigns-supreme-for-brief-videos-in-2024/"><u>Streamers Vs. Micro-Influencers Which Platform Reigns Supreme for Brief Videos, In 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-to-delete-social-media-streaming/"><u>The Ultimate Guide to Delete Social Media Streaming</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-avchd-editors-expert-recommendations/"><u>Top-Rated AVCHD Editors Expert Recommendations</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-ultra-hd-viewing-with-tcls-budget-friendly-50s425-50-inch-roku-tv-a-thorough-review/"><u>Unlocking Ultra HD Viewing with TCL's Budget-Friendly 50S425 50-Inch Roku TV - A Thorough Review!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-producers-roadmap-pioneering-high-quality-asmr-content-for-2024/"><u>[New] A Producer's Roadmap Pioneering High-Quality ASMR Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expand-picture-size-maintain-original-quality/"><u>[New] Expand Picture Size - Maintain Original Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-the-prime-10-websites-for-photo-acquisition-without-expense/"><u>[New] Guide to the Prime 10 Websites for Photo Acquisition Without Expense</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-do-time-lapse-on-samsung-phones/"><u>[New] How to Do Time Lapse on Samsung Phones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-techno-titans-earnings-forecast-on-gaming-channels/"><u>[New] In 2024, Techno Titans Earnings Forecast on Gaming Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-showdowns-and-stunts-the-best-of-snowboard-cross/"><u>[New] Showdowns and Stunts The Best of Snowboard Cross</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-bottom-line-how-much-do-podcasters-take-home/"><u>[New] The Bottom Line How Much Do Podcasters Take Home?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-xplits-rival-software-for-effortless-splits/"><u>[New] Xplit's Rival Software for Effortless Splits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-download-and-make-unique-instagram-ringtone-solo/"><u>2024 Approved How to Download & Make Unique Instagram Ringtone Solo</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-through-mixed-reality-an-overview/"><u>2024 Approved Navigating Through Mixed Reality An Overview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/arranging-your-superman-cinematic-adventure-watching-in-correct-sequence/"><u>Arranging Your Superman Cinematic Adventure: Watching in Correct Sequence</u></a></li>
+<li><a href="https://win-special.techidaily.com/clear-your-android-device-from-malware-without-software-a-diy-tutorial-by-malwarefox/"><u>Clear Your Android Device From Malware Without Software – A DIY Tutorial by MalwareFox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-installing-intel-usb-30-drivers-on-windows-10/"><u>Free Download: Ultimate Guide to Installing Intel USB 3.0 Drivers on Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-watch-record-and-edit-football-matches-for-free-for-2024/"><u>How to Watch, Record, and Edit Football Matches for Free for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-unrestricted-pubg-visual-sequences/"><u>In 2024, Excellent Unrestricted PUBG Visual Sequences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-of-premium-sound-recording-mics/"><u>In 2024, Exclusive List of Premium Sound Recording Mics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-companies-pioneering-vr-technology/"><u>In 2024, Foremost Companies Pioneering VR Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-script-to-screen-your-windowed-path-to-video-creation-excellence/"><u>In 2024, From Script to Screen Your Windowed Path to Video Creation Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-clearing-jams-in-your-3d-printers-extruder/"><u>Step-by-Step Tutorial: Clearing Jams in Your 3D Printer's Extruder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Projecting Your Mac/iPhone/iPad Display Onto an Apple TV"
-date: 2024-10-26T16:38:47.083Z
-updated: 2024-10-29T16:21:54.370Z
+date: 2024-10-28T21:43:53.349Z
+updated: 2024-11-03T21:17:49.395Z
 tags:
   - mobile
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  You can beam all kinds of music and video to your TV with an Apple TV streaming box, but did you know you can also mirror the screen of your iPhone, iPad, or Mac on the big screen? Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Make Sure AirPlay Is Enabled on Your Apple TV
 
  To mirror your Mac or iOS display, [you'll be using AirPlay](https://screen-mirroring-recording.techidaily.com/updated-2024-approved-record-and-share-every-victory-in-obs/), which is built in to the Apple TV. The first thing you should probably do is verify that AirPlay is actually on—it's available on [second-generation Apple TVs](https://support.apple.com/en-us/101605) and beyond. I'm using an Apple TV 4K here, but the steps should be similar on older models.
@@ -36,10 +29,10 @@ Close
  With that out of the way, you're ready to mirror your other device's screens to Apple TV.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Mirror an iPhone or iPadScreen to an Apple TV
@@ -59,10 +52,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Mirror a Mac Screen to an Apple TV
@@ -78,10 +71,10 @@ Close
 ![1497544344-picsay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/1497544344-picsay.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Apple TV is just showing a blank wallpaper, it's acting as a second display instead of mirroring the screen. To fix this, click the Screen Mirroring icon in the menu bar and open the dropdown menu next to your Apple TV, then select the "Mirror Display" option.
@@ -93,6 +86,13 @@ Close
  If you want to make Screen Mirroring more accessible, you can add a control directly to the menu bar instead. To do that, go to System Settings > Control Center. Next to "Screen Mirroring" change the option to "Always Show in Menu Bar." After you do this, you'll see the Screen Mirroring icon appear in the menu bar, which you can click any time you want to start or stop mirroring.
 
 ![Screen Mirroring Control Center option on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-mirroring-control-center-option-on-mac.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whenever you want to do this again in the future, you won't have to enter in the four-digit code every time—only when you first set it up on your Mac and Apple TV.
 
@@ -115,16 +115,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/aving-the-way-to-success-with-professional-insights-into-youtube-banners/"><u>[New] Paving the Way to Success with Professional Insights Into YouTube Banners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sketch-funny-graphics-to-share-giphy-wide/"><u>[New] Sketch Funny Graphics to Share Giphy-Wide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero4-black-vs-drift-ghost-s-which-one-is-better/"><u>[Updated] GoPro Hero4 Black VS Drift Ghost-S Which One Is Better?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initial-steps-in-vlogging-essential-hardwaresoftware/"><u>[Updated] Initial Steps in Vlogging Essential Hardware/Software</u></a></li>
-<li><a href="https://techidaily.com/effortlessly-link-a-second-display-unit-in-your-windows-environment-a-comprehensive-guide/"><u>Effortlessly Link a Second Display Unit in Your Windows Environment – A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>In 2024, Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-editions-windowed-film-editing-software-for-2024/"><u>Innovative Editions Windowed Film Editing Software for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-visionarys-list-the-finest-26-video-to-text-converters-available/"><u>The Visionary’s List The Finest 26 Video-to-Text Converters Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-vllo-experiences/"><u>[New] Exploring VLLO Experiences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fish-out-the-frame-underwater-shooting-secrets-with-a-gopro/"><u>[New] Fish Out the Frame Underwater Shooting Secrets with a GoPro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-craftsmanship-avoiding-common-film-lighting-pitfalls/"><u>[New] Illuminating Craftsmanship Avoiding Common Film-Lighting Pitfalls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-science-of-choosing-music-for-movie-previews/"><u>[Updated] The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhancing-igtv-with-translation-captions/"><u>2024 Approved Enhancing IGTV with Translation Captions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-of-virtual-reality-speak/"><u>2024 Approved Foundations of Virtual Reality Speak</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-the-frustration-of-error-code-0x800f0831-leveraging-windows-update-for-quick-repairs/"><u>Avoiding the Frustration of Error Code 0X800f0831: Leveraging Windows Update for Quick Repairs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-connectivity-a-thorough-review-of-the-tp-link-re505x-wifi-booster/"><u>Elevate Connectivity: A Thorough Review of the TP-Link Re505X WiFi Booster</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-not-found-by-win-107/"><u>Graphics Not Found by Win 10/7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-remove-red-eye-from-photos-on-iphone-free-for-2024/"><u>How to Remove Red Eye From Photos on iPhone [Free] for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-secrets-to-exceptional-tiktok-videos/"><u>In 2024, Expert Secrets to Exceptional TikTok Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-navigating-video-recording-and-editing-basics-with-adobe-connect/"><u>In 2024, Navigating Video Recording & Editing Basics with Adobe Connect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-everyday-life-top-10-vr-accessory-guide-for-2024/"><u>Innovating Everyday Life Top 10 VR Accessory Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-sdr-to-hdr-upgrade-blueprint-for-2024/"><u>The Complete SDR to HDR Upgrade Blueprint for 2024</u></a></li>
 </ul></div>
 

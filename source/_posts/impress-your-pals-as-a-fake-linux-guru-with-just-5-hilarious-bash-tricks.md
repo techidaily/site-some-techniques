@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-10-28T17:05:12.621Z
-updated: 2024-10-29T16:42:55.988Z
+date: 2024-10-29T20:33:40.420Z
+updated: 2024-11-03T17:23:55.074Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,10 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -65,10 +65,16 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -88,10 +94,10 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -115,10 +121,10 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -148,19 +154,17 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-lush-looks-and-flawless-filters-building-your-vlog-empire/"><u>[New] Lush Looks and Flawless Filters Building Your Vlog Empire</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-path-to-personalization-adjusting-snapchat-videos-pace/"><u>[New] The Path to Personalization Adjusting Snapchat Videos' Pace</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-zoom-meeting-fundamentals-for-the-uninitiated/"><u>[Updated] 2024 Approved Zoom Meeting Fundamentals for the Uninitiated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>[Updated] Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expert-tips-for-crafting-professional-slug-line-notations/"><u>[Updated] Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-manipulating-colors-in-video-edits/"><u>[Updated] Expertly Manipulating Colors in Video Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-going-back-with-android-video-editing/"><u>[Updated] Going Back with Android Video Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorous-file-downloader-examination/"><u>[Updated] Humorous File Downloader Examination</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-iphone-shots-the-ultimate-hdr-guide-for-2024/"><u>[Updated] Mastering iPhone Shots The Ultimate HDR Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-frustration-to-finishing-how-magix-vpx-saves-time-for-2024/"><u>From Frustration to Finishing How Magix VPX Saves Time for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/harness-the-power-of-external-game-control-on-your-android-phonetablet/"><u>Harness the Power of External Game Control on Your Android Phone/Tablet</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-boxes-crafting-memorable-receiving-moments/"><u>In 2024, Beyond Boxes Crafting Memorable Receiving Moments</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-5-player-audio-mp3-and-aac-di-musica-migliori-del-2020-windows-e-mac-os-compatibili/"><u>Top 5 Player Audio MP3 & AAC Di Musica Migliori Del 2020: Windows E Mac OS Compatibili</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>[New] Perfecting Color The Top 15 GoPro LUTs for Filmmaking</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-shorts-video-editor-tools-for-ios-and-android-devices-for-2024/"><u>[Updated] Best YouTube Shorts Video Editor Tools for iOS & Android Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoiding-pitfalls-smart-strategies-for-acquiring-youtubes/"><u>[Updated] In 2024, Avoiding Pitfalls Smart Strategies for Acquiring Youtubes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-laugh-labyrits-undead-sarcasm-spawners/"><u>[Updated] Laugh Labyrits Undead Sarcasm Spawners</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[Updated] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigabyte-totals-for-extended-video-playback/"><u>2024 Approved Gigabyte Totals for Extended Video Playback</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hps-visionary-color-display-dissecting-the-z32x-monitor/"><u>2024 Approved HP’s Visionary Color Display Dissecting the Z32X Monitor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-study-editmagics-power-edition/"><u>Comprehensive Study EditMagic's Power Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-spectrum-of-picture-alteration-for-2024/"><u>Exploring the Spectrum of Picture Alteration for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixes-for-faded-colors-and-twisted-graphics-on-computer-screens-an-easy-diy-approach/"><u>Fixes for Faded Colors and Twisted Graphics on Computer Screens: An Easy DIY Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-unveiled-the-complete-moto-z2-review/"><u>In 2024, Innovation Unveiled The Complete Moto Z2 Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/winegard-fl5500a-flatwave-antenna-analysis-strong-functionality-but-excessive-cost/"><u>Winegard FL5500A FlatWave Antenna Analysis: Strong Functionality but Excessive Cost</u></a></li>
 </ul></div>
 

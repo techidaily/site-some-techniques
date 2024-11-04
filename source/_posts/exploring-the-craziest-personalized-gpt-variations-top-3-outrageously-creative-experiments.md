@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments"
-date: 2024-10-23T16:10:47.398Z
-updated: 2024-10-29T17:10:20.690Z
+date: 2024-10-29T17:47:37.677Z
+updated: 2024-11-04T06:40:37.351Z
 tags:
   - cutting-edge
 categories:
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![A screenshot of the response including Sun sign and moon sign explanations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225219_chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is a detailed birth chart! However, it doesn't take AI to do a birth chart, just an extensive database. A real test would be to prompt the GPT to apply this chart to a specific scenario.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Prompt: What Would Be a Good Career for Me Based on This Info?
 
@@ -68,22 +68,15 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Overall, I thought this AI was knowledgeable about astrology and good fun for someone with a casual interest. A serious student of astrology probably doesn't need this AI, and may find minor inaccuracies, like with any AI. However, it was fun and interesting for this skeptic to get a little extra insight.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rizz GPT
 
  My kids have been telling me to write about the Rizz GPT for a while. They keep saying, "It's hilarious!" I'd ask for an example, but they'd inevitably just tell me, "It boosts your Rizz!" In hindsight, I think they thought it was hilarious because they'd seen examples of its use on TikTok and YouTube. Now I know why the videos are funny, because anyone actually using anything out of this AI in real life would, indeed, be hilarious.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Prompt: What is Rizz?
 
@@ -106,13 +99,20 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![Screenshot of GPTs response to the prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225152_chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Despite this red flag, I pressed on. I described my work, hobbies, kids, and preferences, and asked it to write me a dating profile. The resulting response was poorly written, formulaic, cheesy, and exactly what one would expect from the author of those pickup lines. It later occurred to me that using that profile as an obvious joke on a dating site might actually generate interest. I didn't test it out, but it made me wonder if I was taking the AI too seriously. Is this AI supposed to be a caricature of Gen Z? Perhaps I'm too old to get the joke. However, not meeting the basic standards of AI we've come to expect from GPTs means the joke is poorly executed, in my opinion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Deep Game
 
@@ -151,22 +151,18 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-out-which-phones-make-the-best-friends-with-gear-vr/"><u>[New] Find Out Which Phones Make the Best Friends with Gear VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>[New] From Stills to Movement Examining the Action Potential of Cam+</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-facetune-review-the-pathway-to-picture-perfection/"><u>[New] Full Facetune Review The Pathway to Picture Perfection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-top-10-live-streaming-networks-ranked/"><u>[Updated] Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-next-generation-of-video-communities-post-youtube/"><u>[Updated] The Next Generation of Video Communities Post-YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>[Updated] The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-leading-8-4k-ultra-hd-players/"><u>2024 Approved Exclusive Listing Leading 8 4K Ultra HD Players</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-photography-at-your-fingertips-best-phones-with-image-stabilization/"><u>2024 Approved Expert Photography at Your Fingertips Best Phones with Image Stabilization</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-leading-free-non-commercial-android-recorders/"><u>2024 Approved Leading Free Non-Commercial Android Recorders</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deep-dive-review-of-the-anker-powercoreplus-26800-portability-meets-style-and-performance/"><u>Deep Dive Review of the Anker PowerCore+ 26800 - Portability Meets Style & Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-speech-to-silence-creating-quality-audio-memos/"><u>In 2024, From Speech to Silence Creating Quality Audio Memos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guidelines-for-reducing-shake-in-mobile-videos/"><u>In 2024, Guidelines for Reducing Shake in Mobile Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/simplify-your-workflow-top-timecode-conversion-tools-for-video-pros-for-2024/"><u>Simplify Your Workflow Top Timecode Conversion Tools for Video Pros for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-9-essential-elements-of-effective-email-campaigns-expert-tips-and-hacks-optimized-with-massmail/"><u>Top 9 Essential Elements of Effective Email Campaigns: Expert Tips & Hacks | Optimized with MassMail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-perfect-our-top-10-photo-lenses-list/"><u>[New] Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>[New] Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-success-secrets-maximizing-post-performance/"><u>[Updated] 2024 Approved Instagram Success Secrets Maximizing Post Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-for-drone-pilots-vr-eyewear/"><u>[Updated] Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-best-practices-boosting-your-game-videos-with-tags/"><u>[Updated] In 2024, Best Practices Boosting Your Game Videos with Tags</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-9-mic-recorder-selections-for-online-use-in-23/"><u>[Updated] In 2024, Essential 9 Mic Recorder Selections for Online Use in '23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-film-seamless-ocean-vibes-with-these-7-hacks/"><u>2024 Approved How to Film Seamless Ocean Vibes with These 7 Hacks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-transform-smartphone-capabilities-into-a-professional-yt-channel/"><u>How to Transform Smartphone Capabilities Into a Professional YT Channel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>In 2024, Exclusive Exploration Superior VR Games on Google Cardboard</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v27-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo V27 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-android-and-ios-apps-for-slowing-down-videos-a-comprehensive-guide/"><u>Top Android & iOS Apps for Slowing Down Videos : A Comprehensive Guide</u></a></li>
 </ul></div>
 

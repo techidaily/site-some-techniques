@@ -1,7 +1,7 @@
 ---
 title: Easy Methods to Extract Pictures Without a Background Using Windows 11 Tools
-date: 2024-10-22T16:34:41.676Z
-updated: 2024-10-29T16:22:41.634Z
+date: 2024-10-30T18:52:02.082Z
+updated: 2024-11-03T17:32:41.641Z
 tags:
   - desktop
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Remove the Entire Background of an Image](https://screen-video-capture.techidaily.com/efficient-tactics-for-recording-vimeo-media/)
 * [Remove Background From the Selected Area of an Image](https://apple-account.techidaily.com/apple-id-unlock-on-iphone-12-how-to-fix-it-by-drfone-ios/)
 * [Replace an Image's Background With a Solid Color](https://youtube-data.techidaily.com/024-approved-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,29 +41,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-background-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for Paint to delete the background. When that’s done, you’ll see the edited image.
 
 ![A background-less image in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-background-removed-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To save this background-less image select File > Save from Paint’s menu bar, or press Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-save-photo-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Background From the Selected Area of an Image
 
@@ -80,37 +80,37 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open With > Paint highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-image-with-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Paint, in the "Selection" section at the top, click the down-arrow icon and choose "Rectangle." You can’t use the "Free-form" selection tool, as accessing it disables Paint’s background removal feature.
 
 ![The 'Rectangle' selection tool highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-rectangle-selection-tool-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Use the rectangle tool to select the part of the image where you want to delete the background. After making the selection, from the "Image" section at the top, choose Remove Background (the icon of a person and multiple lines behind them).
 
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait while Paint deletes the background from the specified image area. Then, save your image by navigating to File > Save or pressing Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Replace an Image's Background With a Solid Color
@@ -121,13 +121,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open With > Photos highlighted in image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-open-image-with-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the app opens, select Edit Image (or press Ctrl+E) in the top bar. 
 
 !['Edit Image' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-edit-image-photos.jpg) 
@@ -135,13 +128,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  On the following screen, from the options at the top, select the icon of a person with lines behind them. This is the background removal and replacement tool.
 
 !['Remove Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-remove-background-photos.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the right pane, select the "Replace" option.
 
@@ -154,6 +140,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  As you make your color selection, you’ll find Photos showing you a demo of the end result. If you’re happy with it, at the bottom of the right pane, click "Apply." To reset your preferences, choose "Reset Background."
 
 !['Apply' and 'Reset Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-apply-color-photos.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your image is now ready to be saved.
 
@@ -170,6 +163,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To update the app version, open the Start Menu, find "Microsoft Store", and launch it. In the Store’s left sidebar, select "Library."
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-microsoft-store-library.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the right pane, next to "Microsoft Photos," choose "Update." Wait while the Store updates the app.
 
@@ -196,19 +196,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-free-editing-software-rankings/"><u>[New] 2024 Approved Essential Free Editing Software Rankings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-demystified-a-comprehensive-look/"><u>[New] GoPro Karma Demystified A Comprehensive Look</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-crafting-engaging-life-journeys-in-video-formats/"><u>[New] In 2024, Crafting Engaging Life Journeys in Video Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foremost-gallery-storage-solutions/"><u>[Updated] Foremost Gallery Storage Solutions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-win10s-best-screen-capture-and-recording-options-for-2024/"><u>[Updated] Win10's Best Screen Capture and Recording Options for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-methods-for-unlocking-and-playing-protected-dvd-content-on-your-desktop-or-laptop/"><u>Easy Methods for Unlocking and Playing Protected DVD Content on Your Desktop or Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-fix-for-your-elgato-hd6e-driver-issues-step-by-step-guide/"><u>Effortless Fix for Your Elgato HD6e Driver Issues | Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-tools-eight-revolutionary-phone-apps-for-iphone-and-android-enthusiasts/"><u>Essential AI Tools: Eight Revolutionary Phone Apps for iPhone and Android Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hitting-a-pixel-snag-a6400s-video-problems-for-2024/"><u>Hitting a Pixel Snag A6400's Video Problems for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-open-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Open FRP?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-and-incorporate-speech-into-powerpoint-decks/"><u>In 2024, How to Record & Incorporate Speech Into PowerPoint Decks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inexpensive-mirrorless-and-dslr-options-for-2024/"><u>Inexpensive Mirrorless & DSLR Options for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reactivating-your-iphone-what-to-do-if-you-cant-remember-the-lock-screen-code/"><u>Reactivating Your iPhone: What to Do If You Can't Remember the Lock Screen Code</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor Magic 5 Lite FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fostering-a-community-best-practices-for-youtubers/"><u>[New] Fostering a Community Best Practices for YouTubers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>[New] Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giggle-generator-for-imgur/"><u>[New] Giggle Generator for Imgur</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-10-indispensable-instagram-video-editing-apps-for-marketers/"><u>[New] In 2024, 10 Indispensable Instagram Video Editing Apps for Marketers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfectly-pair-photos-for-your-instagram-story-easy-guide/"><u>[New] In 2024, Perfectly Pair Photos for Your Instagram Story Easy Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-third-place-ipad-recording-software-guide-for-2024/"><u>[New] Leading Third-Place iPad Recording Software Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-role-of-motion-leveraging-fb-ads-for-outstanding-roi/"><u>[New] The Role of Motion Leveraging FB Ads for Outstanding ROI</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-avoiding-common-drone-purchase-mistakes-a-checklist/"><u>[Updated] 2024 Approved Avoiding Common Drone Purchase Mistakes A Checklist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-of-thrones-ringtones-premier-download-websites-ranked/"><u>2024 Approved Game of Thrones Ringtones Premier Download Websites Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-top-10-no-cost-digital-photography-tools-for-2024/"><u>Explore Top 10 No-Cost Digital Photography Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-personalize-videos-adding-captions-in-the-photos-app-for-2024/"><u>How to Personalize Videos Adding Captions in the Photos App for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-virtual-reality-gaming-the-2023-update-for-2024/"><u>Innovating Virtual Reality Gaming - The 2023 Update for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-ultimate-guide-to-pairing-airpods-with-your-desktop-os/"><u>New 2024 Approved The Ultimate Guide to Pairing AirPods with Your Desktop OS</u></a></li>
 </ul></div>
 

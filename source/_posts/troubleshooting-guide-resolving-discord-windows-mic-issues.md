@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-10-26T17:20:47.975Z
-updated: 2024-10-29T16:37:07.387Z
+date: 2024-10-27T22:48:49.305Z
+updated: 2024-11-03T19:43:30.544Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Run Discord as an Admin
 
  Discord may be unable to use the microphone because it doesn't have permission to use system resources. This usually happens when you aren’t running the app as an admin. [Launch the app with administrative privileges](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/) to resolve the problem.
@@ -30,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select "Yes" in the User Account Control prompt.
@@ -52,22 +59,16 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Microphone Access' and 'Let Apps Access Your Microphone' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-enable-mic-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Windows 10, navigate to Settings > Privacy > Microphone. On the right pane, select "Change" and turn on the toggle. On the same page, enable both "Allow Apps to Access Your Microphone" and "Allow Desktop Apps to Access Your Microphone" options.
 
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
 
@@ -81,20 +82,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Disable QoS High Packet Priority in Discord
 
  Discord’s [QoS](https://digital-screen-recording.techidaily.com/updated-in-2024-nine-powerful-microphone-capture-options-decoded/) High Packet Priority feature tells your router the app’s internet packets are high priority. This feature sometimes clashes with the app configuration. Turn it off and see if that resolves your mic problem.
@@ -104,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -117,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and navigate to the User Settings page (the gear icon in the bottom-left). Select "Voice & Video" in the left sidebar, then scroll down in the right pane and choose "Reset Voice Settings."
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
 
@@ -143,22 +137,16 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[New] 2024 Approved Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-animated-branding/"><u>[New] Fundamentals of Animated Branding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>[New] Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ps5xbox-series-x-game-screens-the-ultimate-guide-for-2024/"><u>[New] PS5/Xbox Series X Game Screens The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[Updated] 2024 Approved InShot vs Other Editors A Comprehensive Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-tale-architecting-network/"><u>[Updated] Top Tale Architecting Network</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-unlimited-free-fun-with-top-meme-templates/"><u>2024 Approved Explore Unlimited Free Fun with Top Meme Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-your-journey-with-hdr-in-ps/"><u>2024 Approved From Novice to Pro Your Journey with HDR in PS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-changing-tactics-to-record-high-stakes-gameplay/"><u>2024 Approved Game-Changing Tactics to Record High-Stakes Gameplay</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-enhanced-comfort-with-cumuluspro-standing-desk-mats-the-ultimate-office-revamp/"><u>Explore Enhanced Comfort with CumulusPRO Standing Desk Mats: The Ultimate Office Revamp</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-garmin-virb-ultra-30-action-camera-review/"><u>In 2024, Garmin VIRB Ultra 30 Action Camera Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grab-tailor-made-cost-free-outro-videos/"><u>In 2024, Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hero-vs-hero-upgraded-edition/"><u>In 2024, Hero Vs Hero Upgraded Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-samsungs-immersive-360-degree-camera-for-2024/"><u>In-Depth Review Samsung's Immersive 360-Degree Camera for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/remedies-for-a-broken-key-a-comprehensive-fix-guide/"><u>Remedies for a Broken '@' Key: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-recovering-files-from-a-samsung-portable-ssd-models-t3-t5-x5-t7/"><u>Step-by-Step Guide: Recovering Files From a Samsung Portable SSD (Models T3, T5, X5, T7)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-profit-prodigy-in-the-digital-age/"><u>Ultimate Profit Prodigy in the Digital Age</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-making-youtube-based-twitter-videos-hearable/"><u>[New] Making YouTube-Based Twitter Videos Hearable</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-top-6-helmet-mounts-to-upgrade-your-adventure-photography/"><u>[Updated] Exploring The Top 6 Helmet Mounts to Upgrade Your Adventure Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garmins-ultra-30-action-camera-revealed-in-full-detail/"><u>[Updated] Garmin's Ultra 30 Action Camera Revealed in Full Detail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-cameras-ideal-for-podcasts/"><u>[Updated] High-Quality Cameras Ideal for Podcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-your-self-photography-game-an-extensive-analysis-of-dji-spark/"><u>2024 Approved Elevating Your Self-Photography Game An Extensive Analysis of DJI Spark</u></a></li>
+<li><a href="https://fox-http.techidaily.com/average-byte-gauge-for-a-24-hour-film/"><u>Average Byte Gauge for a 24 Hour Film</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fortnite-review-a-comeback-with-exhilarating-gameplay-in-the-latest-season/"><u>Fortnite Review: A Comeback with Exhilarating Gameplay in the Latest Season!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hardware-hurdles-whats-necessary-for-big-sur-for-2024/"><u>Hardware Hurdles What's Necessary for Big Sur for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-listing-of-best-5-sd-cards-for-gopro-hero-cameras/"><u>In 2024, Exclusive Listing of Best 5 SD Cards for GoPro HERO Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/latest-lg-360-camera-features-and-review/"><u>Latest LG 360 Camera Features and Review</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolvez-le-probleme-de-mauvaise-capacite-affichee-pour-votre-disque-dur-sous-windows-11/"><u>Resolvez Le Problème De Mauvaise Capacité Affichée Pour Votre Disque Dur Sous Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-10-26T17:50:23.330Z
-updated: 2024-10-29T17:48:53.842Z
+date: 2024-10-31T03:43:21.010Z
+updated: 2024-11-03T17:50:08.487Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
@@ -33,29 +33,22 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
@@ -66,6 +59,13 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  The "junk" designation in email is extremely helpful, as it relegates most spam into a separate folder away from your main inbox. However, email clients are not perfect when it comes to sorting your mail. Sometimes, junk mail may still end up in your primary inbox, or genuine mail can accidentally be sorted as junk.
 
  If you see an email that has ended up in the wrong place, you can move it with a simple keyboard shortcut. To do so, select the email or emails you want to use, and press Command+Shift+J. This will move folders from your inbox into the junk folder, or vice versa.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Hide/Show Sidebar (Control+Command+S) 
 
@@ -96,24 +96,22 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>[New] 2024 Approved Comprehensive Lookup Experience the World in Virtual Reality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-on-demand-media-podcast-or-youtube/"><u>[New] Evaluating On-Demand Media Podcast or YouTube?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-conquer-tiktok-installation-made-simple-for-macbook-users/"><u>[New] In 2024, Conquer TikTok Installation Made Simple for MacBook Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-cutting-edge-ai-companions-discord/"><u>[Updated] 2024 Approved Cutting-Edge AI Companions Discord</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insight-into-budget-friendly-design-portals/"><u>[Updated] Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-video-maker-login-to-sign-up-guide/"><u>[Updated] Funimate Video Maker Login to Sign up Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-visual-tools-of-2024-the-ultimate-monitors-list/"><u>[Updated] Innovative Visual Tools of 2024 The Ultimate Monitors List</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-stay-steady-with-the-right-tripod-techniques-for-top-notch-video-content-for-2024/"><u>[Updated] Stay Steady with the Right Tripod Techniques for Top-Notch Video Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/elevate-drones-to-new-peaks-with-these-crucial-supplementary-gear/"><u>Elevate Drones to New Peaks with These Crucial Supplementary Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-techniques-for-navigating-popular-and-trending-youtube-reactions-for-2024/"><u>Expert Techniques for Navigating Popular and Trending YouTube Reactions for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/fonebackup-fehlerbehebung-so-umgehen-sie-probleme-mit-dem-ubertragungsmodus-von-android-auf-ios/"><u>FoneBackup Fehlerbehebung: So Umgehen Sie Probleme Mit Dem Übertragungsmodus Von Android Auf iOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-darkroom-to-digital-mastering-modern-grading-techniques/"><u>In 2024, From Darkroom to Digital Mastering Modern Grading Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-crafting-engaging-stories/"><u>In 2024, Fundamentals of Crafting Engaging Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-movies-innovation-in-recorders/"><u>In 2024, Ghostly Movies Innovation in Recorders</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-8-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 8 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superior-speedy-windows-image-browser/"><u>In 2024, Superior Speedy Windows Image Browser</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/save-the-scene-techniques-for-transcribing-live-videos/"><u>Save the Scene Techniques for Transcribing Live Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-stand-out-in-the-stream-top-name-generators-reviewed/"><u>[New] 2024 Approved Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-guide-to-rl-streaming-setup-for-2024/"><u>[New] Comprehensive Guide to RL Streaming Setup for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>[New] Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-play-your-iphone-videos-backward/"><u>[New] How to Play Your iPhone Videos Backward</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illustrate-effortlessly-prime-ios-design-software/"><u>[New] Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-premiere-pro-fs-view-techniques/"><u>[New] In-Depth Premiere Pro FS View Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-leading-10-covert-media-collection-tools/"><u>[Updated] 2024 Approved Leading 10 Covert Media Collection Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-frontier-top-pc-vr-headset-innovations-of-the-year/"><u>[Updated] 2024 Approved Virtual Frontier Top PC VR Headset Innovations of the Year</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-top-picks-for-creating-art-on-windows/"><u>[Updated] Expert's Top Picks for Creating Art on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eyeem-pro-your-ultimate-guide-to-freepaid-substitutes/"><u>[Updated] EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans/"><u>[Updated] Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans</u></a></li>
+<li><a href="https://common-error.techidaily.com/demystifying-and-fixing-the-crippling-windows-11-update-glitch-code-0xc190n0028-revealed/"><u>Demystifying and Fixing the Crippling Windows 11 Update Glitch - Code 0Xc190n0028 Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-silencing-the-talkback-option-for-your-samsung-flat-panel-tv/"><u>Guide: Silencing the Talkback Option for Your Samsung Flat Panel TV</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-dji-phantom-4-in-action/"><u>In 2024, In Depth Review DJI Phantom 4 in Action</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-masterful-cloud-keeping-best-service-picks/"><u>In 2024, Masterful Cloud Keeping Best Service Picks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/simplifying-the-process-of-deleting-youtube-files-for-2024/"><u>Simplifying the Process of Deleting YouTube Files for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
 </ul></div>
 

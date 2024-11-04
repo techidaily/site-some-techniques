@@ -1,7 +1,7 @@
 ---
 title: "Creating an Eye-Catching Windows Desktop: A Guide on Utilizing Rainmeter"
-date: 2024-10-26T17:48:45.689Z
-updated: 2024-10-29T16:00:20.319Z
+date: 2024-11-01T18:28:23.312Z
+updated: 2024-11-03T22:35:35.555Z
 tags:
   - deals
 categories:
@@ -47,6 +47,19 @@ winget install rainmeter
 
 ![Installing Rainmeter using Winget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-200229.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the installation to finish. Once done, search “rainmeter” in the Start menu to launch the app.
 
 ###  Creating a Blank Canvas
@@ -68,10 +81,10 @@ Close
 ![Blank desktop with hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-204005.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Base Theme
@@ -87,10 +100,16 @@ Close
 ![Learning the Rainmeter interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-215114.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can drag to arrange skins in a layout of your choice. Be sure “Draggable” is checked for the active skin you’re trying to reposition (right-click on the skin to find that menu). Inside Dream replaced my desktop shortcuts with a shortcut bar and added a visualizer, clock, and greeting. The visualizer automatically picks up audio played from any app.
@@ -100,24 +119,24 @@ Close
 ![Installed skins on Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134717.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I didn't like the visualizer skin in Inside Dream. It looked pretty but didn't have any music controls, s I installed a second package called [RetroColor](https://www.deviantart.com/apexxx-sensei/art/RetrOcOlOr-792148096) and loaded the music skin from it.
 
 ![Loading a music widget skin using Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134400.png) 
 
- The result could look something like this. but feel free to mix and match to create a design that works for you.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The result could look something like this. but feel free to mix and match to create a design that works for you.
 
 ## ![Custom theme in Rainmeter.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-135734.png) How to Customize Your Theme
 
@@ -128,13 +147,6 @@ Close
  The settings on RetroColor are presented as just another skin. It lets you tweak some basic stuff like the clock formatting, temperature units, the media player of your choice (the player that connects with the media control widget), and the colors.
 
 ![Changing custom skin settings in Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-140016.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Inside Dream skin package doesn’t have a dedicated settings menu. You can only edit it using the INI files. I’m going to edit the dock shortcuts as an example. Right now the Photoshop button says "Photoshop CC" and doesn’t lead anywhere. Here’s how you can fix that shortcut.
 
@@ -169,20 +181,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fetching-mp3-from-facebook-groups/"><u>[New] Fetching MP3 From Facebook Groups</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-range-virtual-sphere-review/"><u>[New] Full Range Virtual Sphere Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808087378-solved-how-to-fix-windows-detected-a-hard-disk-problem/"><u>[Solved] How to Fix “Windows Detected a Hard Disk Problem</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-complete-dji-phantom-4-analysis-and-review/"><u>[Updated] Complete DJI Phantom 4 Analysis and Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-online-seminar-tagline-creator/"><u>[Updated] Expert Online Seminar Tagline Creator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[Updated] Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>[Updated] From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[Updated] Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-for-fisheye-sphere-capture/"><u>2024 Approved Innovative Techniques for Fisheye Sphere Capture</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-magix-composition-wizard-an-audio-editing-experience/"><u>2024 Approved Magix Composition Wizard An Audio Editing Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/hdr-on-your-desk-a-windows-guide-to-color-mastery/"><u>HDR on Your Desk A Windows Guide to Color Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-audio-clips-to-written-content-harnessing-ms-words-transcription-features/"><u>In 2024, From Audio Clips to Written Content Harnessing MS Word's Transcription Features</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/step-by-step-instructions-for-downloading-inshot-editing-software-on-pc/"><u>Step-by-Step Instructions for Downloading InShot Editing Software on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamlining-system-performance-addressing-high-resource-utilization-in-the-windows-drivers-framework/"><u>Streamlining System Performance: Addressing High Resource Utilization in the Window's Drivers Framework</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/what-sets-final-cut-pro-apart-from-final-cut-express-for-2024/"><u>What Sets Final Cut Pro Apart From Final Cut Express for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-social-connections-facetime-tutorials-for-android/"><u>[New] 2024 Approved Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-insiders-guide-to-mastering-windows-10-for-2024/"><u>[New] The Insider's Guide to Mastering WINDOWS 10 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funnyface-creator/"><u>[Updated] FunnyFace Creator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-m1-macbook-pro-a-game-changer-for-video-editors/"><u>[Updated] M1 MacBook Pro A Game Changer for Video Editors?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-depicting-realism-in-docuscripts/"><u>[Updated] Techniques for Depicting Realism in Docuscripts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eyegigglesengine-jestimageforge/"><u>2024 Approved EyeGigglesEngine JestImageForge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sd-to-4k-superiority-a-look-inside-the-d500/"><u>2024 Approved From SD to 4K Superiority A Look Inside the D500</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-golden-collection-classic-ringtones-at-your-fingertips/"><u>2024 Approved Golden Collection Classic Ringtones at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>2024 Approved Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-mac-mini-m1-2020-review-apples-arm-powered-pc-blows-the-competition-away/"><u>Apple Mac Mini (M1, 2020) Review: Apple’s ARM-Powered PC Blows The Competition Away</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-color-grading-with-luts-in-premiere-for-2024/"><u>Harnessing Color Grading with LUTs in Premiere for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-12-mini-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 12 mini Without Previous Owner?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>In 2024, Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-music-to-a-video-on-iphone-for-free/"><u>In 2024, How to Add Music to a Video on iPhone for FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-control-speed-of-instagram-videos-effortlessly/"><u>In 2024, How To Control Speed of Instagram Videos Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tools-for-timely-subtitle-conversion-win-and-mac-edition-best-8-srtr-creators-from-sub/"><u>In 2024, Top Tools for Timely Subtitle Conversion - Win & Mac Edition Best 8 SRTR Creators From SUB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ly-increase-views-effective-growth-hacks-for-channels/"><u>Rapidly Increase Views Effective Growth Hacks for Channels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-adding-movie-subtitles-using-vlc-media-player/"><u>Ultimate Guide: Adding Movie Subtitles Using VLC Media Player</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-discontinues-support-for-tips-application/"><u>Windows 11 Discontinues Support for Tips Application</u></a></li>
 </ul></div>
 

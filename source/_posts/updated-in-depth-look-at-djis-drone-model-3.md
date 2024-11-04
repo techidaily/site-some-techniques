@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Look at DJI's Drone Model 3\""
-date: 2024-08-05T17:29:38.105Z
-updated: 2024-08-06T17:29:38.105Z
+date: 2024-10-30T05:21:32.642Z
+updated: 2024-11-04T02:13:15.672Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 # Review for DJI Phantom 3 Standard
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -31,14 +28,8 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  DJI is well known for impressive drone designs and Phantom 3 Standard is a wonderful addition to its quadcopter series. This device provides total [flight time](https://tools.techidaily.com/wondershare/filmora/download/) of 25 minutes and can move up to 1.2 miles with one charge. The added 4k resolution ability with advanced stabilization feature improves its recording focus. Beginners will love to use its return to home feature along with GPS, sensor stabilization and flight path control abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Complete review for DJ Phantom 3 Standard
 
 #### Pros and Cons
@@ -87,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
 
  By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
@@ -98,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 #### Camera (Video and Camera Image)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
 
  Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -116,11 +98,37 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-10-best-instagram-tools-to-manage-post-and-increase-followers/"><u>[New] 10 Best Instagram Tools to Manage Post and Increase Followers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-a-step-by-written-guide-to-luts-for-professional-photographers/"><u>[New] 2024 Approved A Step-By Written Guide to LUTs for Professional Photographers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-2d-to-spatial-the-evolution-of-cinematic-videos/"><u>[New] From 2D to Spatial The Evolution of Cinematic Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastery-of-spotify-ad-formats-and-best-practices/"><u>[New] In 2024, Mastery of Spotify Ad Formats and Best Practices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-integrating-text-in-multimedia-techniques-for-youtube-video-enhancement/"><u>[New] Integrating Text in Multimedia Techniques for YouTube Video Enhancement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-brainy-brigade-top-11-quiz-channels-for-2024/"><u>[Updated] Brainy Brigade Top 11 Quiz Channels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-building-meme-foundations/"><u>[Updated] Expert Tips Building Meme Foundations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>2024 Approved Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-innovation-unveiling-secrets-of-photo-enhancement/"><u>2024 Approved Image Innovation Unveiling Secrets of Photo Enhancement</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-the-most-accurate-residential-weather-gadgets-of-2024/"><u>Expert Picks: The Most Accurate Residential Weather Gadgets of 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmmakers-choice-converting-avi-files-to-gif-via-filmora-software-windowsmac/"><u>In 2024, Filmmaker's Choice Converting AVI Files to GIF via Filmora Software (Windows/Mac)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tune-your-digital-discussions-zooming-upwards/"><u>In 2024, Fine-Tune Your Digital Discussions Zooming Upwards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-with-flair-on-windows-10/"><u>In 2024, How to Record with Flair on Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-screencast-lifeline-crucial-knowledge-for-success-for-2024/"><u>The Screencast Lifeline Crucial Knowledge for Success for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-silence-your-xbox-vibration/"><u>The Ultimate Guide to Silence Your Xbox Vibration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-to-evaluate-when-choosing-a-smartwatch/"><u>Top 5 Essential Factors To Evaluate When Choosing A Smartwatch</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration"
-date: 2024-10-26T16:59:19.409Z
-updated: 2024-10-29T16:25:09.781Z
+date: 2024-10-28T09:27:05.393Z
+updated: 2024-11-03T23:36:43.728Z
 tags:
   - desktop
 categories:
@@ -39,17 +39,10 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -67,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Use Windows Backup
@@ -80,6 +73,19 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
  To open Windows Backup, type **Backup** into your taskbar search box, and click "Windows Backup."
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
@@ -92,33 +98,39 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 * The Settings option will let you copy your accessibility settings, any elements you have personalized on your old PC, your language and dictionary preferences, and any other settings you've adjusted.
 * The Credentials drop-down will help you to transfer your account details, Wi-Fi networks, and passwords.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 3: Backup Your Old PC
 
  Now that you've told Windows what you want to mirror on your new PC, you're ready to perform the backup. To do this, click "Back Up."
 
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 4: Restore to Your New PC
 
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -143,24 +155,24 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-investing-5-yields-hundreds-of-new-viewers-now/"><u>[New] 2024 Approved Investing $5 Yields Hundreds of New Viewers Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[New] Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-20-copy-free-pubg-thumbnail-sequences/"><u>[Updated] Excellent 20 Copy-Free PUBG Thumbnail Sequences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-basics-of-effective-vlogging/"><u>[Updated] Exploring the Basics of Effective Vlogging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-forward-comparing-apple-and-samsungs-face-detection-capabilities/"><u>[Updated] Face Forward Comparing Apple and Samsung's Face-Detection Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-grab-free-and-safe-vlc-with-minimal-risk-for-macos-users/"><u>[Updated] How to Grab Free and Safe VLC with Minimal Risk for macOS Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excursion-videography-tools-compilation/"><u>2024 Approved Excursion Videography Tools Compilation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fuse-video-narratives-with-acoustic-elements-in-premiere-pro/"><u>2024 Approved Fuse Video Narratives with Acoustic Elements in Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-10-solutions-for-seamless-video-background-swapping/"><u>2024 Approved Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-writing-under-ai-scrutiny-are-student-papers-still-relevant/"><u>Academic Writing Under AI Scrutiny: Are Student Papers Still Relevant?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-for-every-level-of-filmmaker-our-top-10-camera-picks/"><u>In 2024, For Every Level of Filmmaker, Our Top 10 Camera Picks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-sprint-to-stunning-photos-in-win-11-edition/"><u>In 2024, Sprint to Stunning Photos in Win 11 Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-is-now-insights-from-jaunt-vr-review/"><u>In 2024, The Future Is Now Insights From Jaunt VR Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-multi-tasking-the-ultimate-guide-to-splitting-your-macbook-airs-screen/"><u>Mastering Multi-Tasking: The Ultimate Guide to Splitting Your MacBook Air's Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-ai-communication-implementing-gpt-creation/"><u>Tailoring AI Communication: Implementing GPT Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-notch-animated-text-settings-for-2024/"><u>Top-Notch Animated Text Settings for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-s18-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo S18 Pro FRP Bypass</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unbiased-review-of-vn-video-editor-apk-worth-your-time-for-2024/"><u>Updated Unbiased Review of VN Video Editor APK Worth Your Time for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mp3ify-your-favorite-videos-top-free-converters-online/"><u>[New] 2024 Approved MP3ify Your Favorite Videos Top Free Converters Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hilarityhub-online-tool-for-funny-image-crafting/"><u>[New] HilarityHub Online Tool for Funny Image Crafting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-luts-in-premiere-pro/"><u>[New] How To Use LUTs In Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-srt-knowledge-for-all-levels/"><u>[New] In-Depth Look at SRT Knowledge for All Levels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-gaming-collection-best-of-action-adventure-classics-for-2024/"><u>[Updated] Essential Gaming Collection Best of Action-Adventure Classics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-monotonous-to-magical-applying-video-effects-in-zoom/"><u>[Updated] From Monotonous to Magical Applying Video Effects in Zoom</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-tiktok-captioning-mastery/"><u>[Updated] In 2024, The Ultimate Guide to TikTok Captioning Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-free-visual-trove-online/"><u>2024 Approved Finding the Free Visual Trove Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grassroot-game-gear-free-film-tips-for-fans/"><u>2024 Approved Grassroot Game Gear - Free Film Tips for Fans</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-top-3-video-converters-for-macos-and-windows-comprehensive-mp4-encoding-solutions/"><u>Best Top 3 Video Converters for macOS & Windows: Comprehensive MP4 Encoding Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/drive-engagement-with-free-tools-crafting-powerful-fb-ad-videos-for-2024/"><u>Drive Engagement with FREE Tools Crafting Powerful FB Ad Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-flight-choosing-superior-drone-motor-technology-for-2024/"><u>Excellence in Flight Choosing Superior Drone Motor Technology for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experiencing-cutting-edge-elegance-with-the-215-4k-resolution-on-the-new-apple-imac-a-stylish-performance/"><u>Experiencing Cutting-Edge Elegance with the 21.5 4K Resolution on the New Apple iMac: A Stylish Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-frontiers-unveiling-pewdiepies-income-graph-for-2024/"><u>Financial Frontiers Unveiling PewDiePie's Income Graph for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210759329-how-to-fix-oddworld-soulstorm-pc-game-crashes-solved/"><u>How to Fix Oddworld: Soulstorm PC Game Crashes - Solved!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frame-your-photos-right-with-top-tools-editors/"><u>In 2024, Frame Your Photos Right with Top Tools Editors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-gt-5-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme GT 5 to iPad | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/maximizing-your-videos-impact-with-expertly-recorded-voices-for-2024/"><u>Maximizing Your Video's Impact with Expertly Recorded Voices for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exhaustive-vimeo-film-metrics-including-aspect-ratio-details/"><u>Updated Exhaustive Vimeo Film Metrics Including Aspect Ratio Details</u></a></li>
 </ul></div>
 

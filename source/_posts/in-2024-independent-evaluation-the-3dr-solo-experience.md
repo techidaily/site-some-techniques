@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Independent Evaluation  The '3DR' Solo Experience\""
-date: 2024-08-19T23:04:57.567Z
-updated: 2024-08-20T23:04:57.567Z
+date: 2024-11-01T07:33:31.534Z
+updated: 2024-11-03T20:53:49.679Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -83,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -97,13 +118,18 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,6 +137,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-your-windows-photos-how-to-incorporate-audio-visual-features/"><u>[Updated] Harmonizing Your Windows Photos How to Incorporate Audio-Visual Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-and-easy-gif-transformation-ultimate-list-of-no-download-services/"><u>2024 Approved Fast and Easy GIF Transformation Ultimate List of No-Download Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-titling-techniques-to-explore/"><u>2024 Approved Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-keyboard-shortcuts-that-power-up-win11/"><u>2024 Approved Keyboard Shortcuts That Power Up Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-logitech-camcorder-mic-a-step-by-step-guide/"><u>Fixing a Non-Functional Logitech Camcorder Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-amateur-to-pro-elevating-your-hdr-portrait-skills-for-2024/"><u>From Amateur to Pro Elevating Your HDR Portrait Skills for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-completa-para-convertir-archivo-3gpp-al-mp3-gratis-con-herramientas-online-movavi/"><u>Guía Completa Para Convertir Archivo 3GPP Al Mp3 Gratis Con Herramientas Online - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hogwarts-legacy-optimized-overcoming-stutter-issues-for-smoother-play/"><u>Hogwarts Legacy Optimized: Overcoming Stutter Issues for Smoother Play</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/igniting-interest-and-inviting-in-accelerating-audience-acquisition-for-2024/"><u>Igniting Interest and Inviting In Accelerating Audience Acquisition for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-90-lite-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor 90 Lite to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-the-look-a-guide-to-haul-video-post-production/"><u>Perfecting the Look A Guide to Haul Video Post-Production</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-update-instructions-for-your-hp-laserjet-1320-driver-on-microsofts-operating-system/"><u>Step-by-Step Update Instructions for Your HP LaserJet 1320 Driver on Microsoft's Operating System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-perceptions-how-todays-electric-vehicles-at-the-ev-expo-prove-theyre-more-than-just-modern-day-prius-cars-zdnet/"><u>Transforming Perceptions: How Today's Electric Vehicles at the EV Expo Prove They're More Than Just Modern-Day Prius Cars | ZDNET</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-tutorial-secure-your-videos-with-smotri-downloader-on-smotricom/"><u>Ultimate Tutorial: Secure Your Videos with Smotri Downloader on smotri.com</u></a></li>
+</ul></div>
+

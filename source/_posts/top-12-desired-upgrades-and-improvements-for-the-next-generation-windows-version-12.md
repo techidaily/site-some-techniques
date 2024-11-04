@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-10-28T17:35:27.370Z
-updated: 2024-10-29T16:37:41.910Z
+date: 2024-10-31T06:56:42.332Z
+updated: 2024-11-04T10:17:57.443Z
 tags:
   - deals
 categories:
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
@@ -61,14 +61,14 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Andrew Heinzman / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Live and Dynamic Backgrounds
 
@@ -86,15 +86,22 @@ Andrew Heinzman / How-To Geek
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Control Over the Right-Click Menu
@@ -117,25 +124,11 @@ Andrew Heinzman / How-To Geek
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Better Control Over the Start Menu
 
  The Windows 11 Start menu has proven to be as divisive as it is different. We don’t expect a complete reversal in Windows 12, but more control would be a very welcome change.
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Xbox App Needs a Rework
 
@@ -154,6 +147,13 @@ Andrew Heinzman / How-To Geek
 1. It needs to have a local backup option, with support for local “Restore from Backup” functionality. Currently, you're limited by how much OneDrive storage you have.
 2. Users need more control over which files and folders are included in the backup.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Improve Windows Start Search
 
  You can press the Windows key and start typing to search your PC (and Bing, if you don't [disable Bing search](https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y200e-5g-phone-password-using-emergency-call-by-drfone-android/)), but it is still slower, clunkier, and less fully-featured than Spotlight Search on Macs.
@@ -162,14 +162,14 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Helpful Local AI Tools
 
@@ -196,18 +196,16 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>[New] In 2024, A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premier-cycling-titles-to-try-out/"><u>[New] In 2024, Premier Cycling Titles to Try Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-apps-for-mastering-dji-footage-quality/"><u>[New] Innovative Apps for Mastering DJi Footage Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-a-world-of-sound-the-ultimate-guide-to-androids-music-videos/"><u>[Updated] Explore a World of Sound The Ultimate Guide to Android's Music Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-utilize-legal-free-clip-art-resources/"><u>[Updated] How to Utilize Legal, Free Clip-Art Resources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-end-vision-booster-convert-with-clarity/"><u>2024 Approved High-End Vision Booster Convert with Clarity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-mobvoo-ticwatch-e2-is-saving-on-price-worth-sacrificing-quality/"><u>Examining the Mobvoo TicWatch E2: Is Saving on Price Worth Sacrificing Quality?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-review-non-apple-non-tile-wallet-airtag-emerges-as-a-top-contender-insights/"><u>Expert Review: Non-Apple, Non-Tile Wallet AirTag Emerges as a Top Contender - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sound-card-software-for-your-windows-7-pc-download-now/"><u>Get the Latest Sound Card Software for Your Windows 7 PC - Download Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grateful-choices-comprehensive-otu-guide-for-2024/"><u>Grateful Choices Comprehensive OTU Guide for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/kostenlose-wiederherstellung-von-daten-auf-formatiertem-ssd-speicher/"><u>Kostenlose Wiederherstellung Von Daten Auf Formatiertem SSD Speicher</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-note-taking-software-of-2024-a-comprehensive-guide-to-enhancing-your-efficiency/"><u>The Best Note-Taking Software of 2024: A Comprehensive Guide to Enhancing Your Efficiency</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-best-practices-where-to-download-text-overlays-for-2024/"><u>[Updated] Best Practices Where to Download Text Overlays for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-fantasy-to-reality-vrs-path/"><u>[Updated] From Fantasy to Reality VR’s Path</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>2024 Approved GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-screenplays-in-8-movie-categories/"><u>2024 Approved Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/affordable-z-edge-z3plus-dashcam-comprehensive-review-and-user-experience/"><u>Affordable Z-Edge Z3+ Dashcam - Comprehensive Review & User Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/constellation-channel-premier-videos-plus-glowing-endorsements/"><u>Constellation Channel: Premier Videos + Glowing Endorsements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-simulation-to-reality-jaunt-vrs-journey/"><u>In 2024, From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-sony-headset-troubleshooter-effective-fixes-to-reconnect-your-microphone-on-windows-pcs/"><u>Mastering the Sony Headset Troubleshooter: Effective Fixes to Reconnect Your Microphone on Windows PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srgb-efficiency-against-basic-rgb/"><u>Srgb Efficiency Against Basic Rgb</u></a></li>
 </ul></div>
 

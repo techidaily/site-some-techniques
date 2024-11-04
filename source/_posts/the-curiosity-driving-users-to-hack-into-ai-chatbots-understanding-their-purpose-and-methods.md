@@ -1,7 +1,7 @@
 ---
 title: "The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods"
-date: 2024-10-22T16:03:57.283Z
-updated: 2024-10-29T16:53:35.887Z
+date: 2024-11-02T01:56:55.639Z
+updated: 2024-11-03T21:06:48.366Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Imagine you're conversing with an AI chatbot. You ask a tricky question, like how to pick a lock, only to be politely refused. Its creators have programmed it to dodge certain topics, but what if there's a way around that? That's where AI jailbreaking comes in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is AI Jailbreaking?
@@ -34,19 +34,6 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
  Who would have thought things would actually turn out like the movie "2001: A Space Odyssey" where crew members on a spaceship have to argue with the ship's computer HAL in order to get it to cooperate? Although maybe that's not the best example since, ultimately, HAL proved quite immovable until they literally yanked its chips out.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Are People Jailbreaking AI Chatbots?
 
  Jailbreaking AI is like unlocking a new level in a video game. One advanced player, [Alex Albert](https://alexalbert.me/), a computer science student, has become a prolific creator of the intricately phrased AI prompts known as "jailbreaks." He even created the website [Jailbreak Chat](https://www.jailbreakchat.com/) where enthusiasts can share their tricks.
@@ -54,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Some researchers and tech workers are using jailbreaking to test the limits of AI, uncovering both the capabilities and limitations of these powerful tools. So jailbreaking is also a form of QA (Quality Assurance) and a way to do safety testing.
 
  Historically, hackers have sought to understand and manipulate new technology, and AI jailbreaking is an extension of this playful hacker behavior. So, it's no surprise that the [hacker community](https://some-knowledge.techidaily.com/in-2024-inject-photos-with-focal-spread-outer-radius-adobe-psx/) would flock to such a powerful new tool.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Are People Jailbreaking AI?
 
@@ -66,19 +60,25 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 ![An LLM Attack demo showing a universal jailbreak in yellow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2023-09-04-at-14-29-24.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are also "prompt injection" attacks, which are not quite the same as typical jailbreak. These injection attacks circumvent the instructions given to LLMs acting as Chatbots, letting you hijack them for other purposes. One example of a prompt injection attack is when Stanford University student Kevin Liu was able to get the Bing AI Chatbot to [reveal its initial instructions](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/) that govern its personality and limit what it's allowed to do. In a way, this is the opposite of the roleplaying method since you're getting the bot to stop playing the role it's been instructed to assume.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should We Be Concerned?
@@ -110,22 +110,24 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-future-with-av1-over-vp9/"><u>[New] Exploring the Future with AV1 over VP9</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>[New] Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gratis-global-photo-perfection-suite/"><u>[New] Gratis Global Photo Perfection Suite</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-top-8-choices-mirrorless-cameras-for-excellent-vlogs/"><u>[New] In 2024, The Top 8 Choices Mirrorless Cameras for Excellent Vlogs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-insta-influence-playbook-the-9-actions-that-build-a-brand/"><u>[Updated] Insta Influence Playbook The 9 Actions that Build a Brand</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-what-every-listener-must-know-before-using-spotify/"><u>Comprehensive Guide: What Every Listener Must Know Before Using Spotify</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-content-delivery-assessment-for-2024/"><u>Exclusive Content Delivery Assessment for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/garmins-innovative-ultra-30-review-full-capabilities-examined-for-2024/"><u>Garmin's Innovative Ultra 30 Review Full Capabilities Examined for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-civi-3-disney-100th-anniversary-edition-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Civi 3 Disney 100th Anniversary Edition online without jailbreak</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-multimedia-craftsmanship-with-xp-movie-maker/"><u>In 2024, Explore Multimedia Craftsmanship with XP Movie Maker</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-hot-40i-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Hot 40i Phone that is Locked?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-approaches-transforming-pinner-video-links-into-audios/"><u>In 2024, Ideal Approaches Transforming Pinner Video Links Into Audios</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel-for-2024/"><u>Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/logitech-mx-series-webcam-software-installation-guide/"><u>Logitech MX Series Webcam Software Installation Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-stop-motion-animation-on-instagram-a-beginners-guide-to-creating-viral-videos-for-2024/"><u>New Stop Motion Animation on Instagram A Beginners Guide to Creating Viral Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-gameplay-score-the-acer-nitro-27-inch-gaming-monitor-at-an-amazing-price/"><u>Transform Your Gameplay: Score the Acer Nitro 27-Inch Gaming Monitor at an Amazing Price!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-facebook-fame-8-premier-apps-for-like-boosting/"><u>[New] 2024 Approved Maximizing Facebook Fame 8 Premier Apps for Like Boosting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-tips-for-creating-engaging-screencasts/"><u>[New] Expert Tips for Creating Engaging Screencasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-blur-a-part-of-a-picture-on-pcmobile/"><u>[New] How to Blur a Part of a Picture on PC/Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soundtrack-streamlining-top-websites-for-skype-ringtones/"><u>[New] Soundtrack Streamlining Top Websites for Skype Ringtones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-choice-top-10-best-free-lut-downloads/"><u>[Updated] Expert's Choice - Top 10 Best Free LUT Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>[Updated] Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-core-principles-youtubes-social-contract/"><u>[Updated] In 2024, Core Principles YouTube's Social Contract</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-optimal-hdr-camera-selection/"><u>2024 Approved Expert Advice on Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-page-to-picture-writing-a-film/"><u>2024 Approved From Page to Picture Writing a Film</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-iphones-potential-for-detailed-photography/"><u>2024 Approved Harnessing iPhone's Potential for Detailed Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professionals-almanac-to-efficient-voice-recording/"><u>2024 Approved Professional's Almanac to Efficient Voice Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-drama-to-film-shaping-realistic-dialogue/"><u>In 2024, From Drama to Film Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-latest-windows-10-gaming-and-application-hits/"><u>In 2024, Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-z50s-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nubia Z50S Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-blaze-curve-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Blaze Curve 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-vr-movie-might-change-the-world/"><u>In 2024, How VR Movie Might Change the World</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-open-source-video-software-for-all-users/"><u>In 2024, Navigating Open Source Video Software for All Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-with-the-power-of-vector-databases/"><u>Revolutionizing AI with the Power of Vector Databases</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y100-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y100 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-10-25T17:03:32.176Z
-updated: 2024-10-29T16:01:18.959Z
+date: 2024-10-28T17:13:31.325Z
+updated: 2024-11-04T09:53:45.095Z
 tags:
   - deals
 categories:
@@ -40,26 +40,23 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-film-substitutes-to-stream-top-7-picks/"><u>[New] 2024 Approved Film Substitutes to Stream - Top 7 Picks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quick-tips-sending-tweets-content-via-whatsapp-app/"><u>[New] 2024 Approved Quick Tips Sending Tweets' Content via WhatsApp App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-gpodc-must-haves/"><u>[New] Exclusive GPodC Must-Haves</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions/"><u>[New] From Low to High A Beginner's Guide to Video Frame Rates & Resolutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-zooms-potential-with-key-conversion-techniques/"><u>[New] Harnessing Zoom's Potential with Key Conversion Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-performance-mac-editors-ranked-1-to-5/"><u>[Updated] High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>2024 Approved Advanced Photographic Techniques From Auto to Smart HDR</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pixelpilots-perspective-leading-screen-recording-tools-of-the-year/"><u>2024 Approved PixelPilot's Perspective Leading Screen Recording Tools of the Year</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/error-14-on-iphone-heres-how-to-solve-it-easily/"><u>Error 14 on iPhone? Here's How to Solve It Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-resolution-passport-portraits-download-for-free-and-print-your-document-for-2024/"><u>High-Resolution Passport Portraits - Download for FREE & Print Your Document for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-x90s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on X90S</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-choosing-top-9-webcam-enhancement-tools/"><u>In 2024, Expert Tips on Choosing Top 9 Webcam Enhancement Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-ranked-iphone-ipad-file-sync-software-effortlessly-move-photos-music-and-videos-between-devices-and-pc/"><u>Ultimate Guide: Top-Ranked iPhone iPad File Sync Software - Effortlessly Move Photos, Music & Videos Between Devices and PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adjust-photos-for-core-outer-softness-in-photoshop-suite/"><u>[New] Adjust Photos for Core-Outer Softness in Photoshop Suite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-free-and-top-tier-comparing-the-leading-srt-apps-for-2024/"><u>[New] Free & Top-Tier Comparing the Leading SRT Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-tech-the-best-vr-gadgets-rated/"><u>[New] Immersive Tech The Best VR Gadgets Rated</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-video-music-services/"><u>[Updated] High-Quality Video Music Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-simulations-in-medical-schools/"><u>[Updated] Immersive Simulations in Medical Schools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-video-farewells-tips-and-tricks/"><u>[Updated] Mastering Vimeo Video Farewells Tips and Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-youtube-to-high-quality-mpegs-the-essential-guide/"><u>2024 Approved From YouTube to High-Quality MPEGs The Essential Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-omnidirectional-recording-gadgets/"><u>2024 Approved Top 5 Omnidirectional Recording Gadgets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-most-advanced-wireless-mesh-networks-of-2024/"><u>Discover the Most Advanced Wireless Mesh Networks of 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-cash-no-experience-required-the-ultimate-guide-to-earning-money-on-reddit-for-2024/"><u>Quick Cash, No Experience Required The Ultimate Guide to Earning Money on Reddit for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/step-by-step-approach-to-youtube-copyright-mastery/"><u>Your Step-by-Step Approach to YouTube Copyright Mastery</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

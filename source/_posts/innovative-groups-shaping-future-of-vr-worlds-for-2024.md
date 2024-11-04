@@ -1,7 +1,7 @@
 ---
 title: "Innovative Groups Shaping Future of VR Worlds for 2024"
-date: 2024-08-19T23:06:21.792Z
-updated: 2024-08-20T23:06:21.792Z
+date: 2024-11-01T22:11:19.914Z
+updated: 2024-11-04T10:14:50.307Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,13 @@ thumbnail: https://www.lifewire.com/thmb/KDQnKAs2Hu7gMnkVlLoGjvCxkow=/400x300/fi
 
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -56,10 +63,18 @@ thumbnail: https://www.lifewire.com/thmb/KDQnKAs2Hu7gMnkVlLoGjvCxkow=/400x300/fi
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## About Chris Milk
 
  Chris Milk a famous director who has gained more acclaim with the VR short film, Clouds Over Syria. He is the founder and CEO of With.in. He also is the co-founder and the creative director of the sister company of With.in, which is the Here Be Dragons. He constantly develops ways in making innovations in the VR content industry. The ideas he has about the concept of the VR development makes it a great point in creating an innovative way to making the best efforts in making VR a great experience for all the viewers.
@@ -74,15 +89,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -90,3 +107,23 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-discover-polarrs-secret-ultimate-guide-to-digital-image-editing/"><u>[New] 2024 Approved Discover Polarr’s Secret Ultimate Guide to Digital Image Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-owning-your-sound-instagrams-ip-framework/"><u>[New] Owning Your Sound Instagram's IP Framework</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-comprehensive-guide-to-incorporating-photo-capabilities-in-meet-for-2024/"><u>[Updated] A Comprehensive Guide to Incorporating Photo Capabilities in Meet for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-premium-4k-converters-for-flawless-recordings/"><u>[Updated] Explore Premium 4K Converters for Flawless Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screencapture-101-with-springs-latest-release/"><u>[Updated] ScreenCapture 101 with Spring's Latest Release</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-use-android-phones-in-watching-vr-or-360-videos-2023-update/"><u>2024 Approved How to Use Android Phones in Watching VR or 360 Videos -2023 Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/a-straightforward-approach-to-pcl-xl-malfunctions/"><u>A Straightforward Approach to PCL XL Malfunctions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capture-and-captivate-creating-incredible-slow-motion-video-masterpieces-on-instagram-for-2024/"><u>Capture and Captivate Creating Incredible Slow-Motion Video Masterpieces on Instagram for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-visual-communication-a-guide-to-gif-creation-for-2024/"><u>Expertise in Visual Communication A Guide to GIF Creation for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-go-2023-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark Go (2023) phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illusory-journeys-through-time-and-dimensions-for-2024/"><u>Illusory Journeys Through Time and Dimensions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-face-to-face-factor-dissecting-apples-x-and-samsungs-identification-methods/"><u>In 2024, Face-to-Face Factor Dissecting Apple’s X and Samsung’s Identification Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 6s?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/inexpensive-high-quality-cameras-for-2024/"><u>Inexpensive High-Quality Cameras for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphics-available-during-startup/"><u>No Graphics Available During Startup</u></a></li>
+</ul></div>
+

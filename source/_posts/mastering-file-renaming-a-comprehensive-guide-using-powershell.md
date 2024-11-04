@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-10-22T17:19:29.965Z
-updated: 2024-10-29T17:29:39.290Z
+date: 2024-10-31T07:51:29.340Z
+updated: 2024-11-04T10:29:53.538Z
 tags:
   - deals
 categories:
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
@@ -73,17 +67,23 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -96,13 +96,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -110,6 +103,13 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -132,24 +132,17 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evasive-techniques-for-anonymous-instagram-broadcasting/"><u>[New] Evasive Techniques for Anonymous Instagram Broadcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-escapades-testing-the-latest-lg-vr-headset/"><u>[New] Immersive Escapades Testing the Latest LG VR Headset</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-adding-depth-to-narratives-through-b-clips/"><u>[Updated] Adding Depth to Narratives Through B-Clips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-vivid-world-with-curved-images/"><u>[Updated] Exploring the Vivid World with Curved Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-a-hyperlapse-video/"><u>[Updated] How to Make A Hyperlapse Video</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-filming-perfecting-the-chroma-key-effect/"><u>[Updated] In 2024, Instagram Filming Perfecting the Chroma Key Effect</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-photos-on-instagram-with-ease-follow-this-guide/"><u>[Updated] In 2024, Unleash Photos on Instagram with Ease – Follow This Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expanding-storytelling-with-alternative-cinematography/"><u>2024 Approved Expanding Storytelling with Alternative Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-nature-garmin-virb-ultra-30-cam-review/"><u>2024 Approved Exploring Nature Garmin VIRB Ultra 30 Cam Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fog-no-more-secrets-for-crisp-clean-filming/"><u>2024 Approved Fog No More Secrets for Crisp, Clean Filming</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-new-era-begins-six-transformative-aspects-of-fbs-metaverse/"><u>A New Era Begins: Six Transformative Aspects of FB's Metaverse</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-vrchat-connectivity-issues-why-it-wont-load/"><u>Fixing VRChat Connectivity Issues: Why It Won't Load</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-text-to-titles-an-in-depth-guide-to-srt-conversion-for-2024/"><u>From Text to Titles An In-Depth Guide to SRT Conversion for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-2023s-fastest-route-to-convert-srt-to-txt-files/"><u>In 2024, 2023'S Fastest Route to Convert SRT to TXT Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-video-openers-to-increase-views/"><u>In 2024, Free Video Openers to Increase Views</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-windows-and-macos-compatible-daws-the-ultimate-selection-for-2024/"><u>New Top 10 Windows & macOS Compatible DAWs The Ultimate Selection for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seven-keys-to-unlocking-the-value-of-ai-for-health-advice/"><u>Seven Keys to Unlocking the Value of AI for Health Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-your-guide-to-cutting-edge-computer-hardware/"><u>Tom's Tech Advice: Your Guide to Cutting-Edge Computer Hardware</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-of-the-modestly-powered-dell-inspiron-3671-desktop/"><u>Unveiling the Features of the Modestly Powered Dell Inspiron 3671 Desktop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-compreranly-assessing-ustream-with-equivalent-sites-for-2024/"><u>[New] Compreranly Assessing Ustream with Equivalent Sites for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-second-count-for-a-20mb-visual-file/"><u>[Updated] Evaluating Second Count for a 20MB Visual File</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-polarr-photo-editor-features-in-detail/"><u>[Updated] Explore Polarr Photo Editor Features in Detail</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>[Updated] TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-superior-video-capture-leading-webcams-for-podcasts/"><u>2024 Approved Superior Video Capture Leading Webcams for Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-advice-elevating-your-nba-live-viewing-for-2024/"><u>Expert Advice Elevating Your NBA Live Viewing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-get-started-initial-setup-tasks-for-your-latest-tech-gadget/"><u>How to Get Started: Initial Setup Tasks for Your Latest Tech Gadget</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-meditation-tracks/"><u>In 2024, Freedom in Meditation Tracks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207621444-step-by-step-guide-to-restore-bluetooth-on-your-windows-11-pc-fast-fixes/"><u>Step-by-Step Guide to Restore Bluetooth on Your Windows 11 PC - Fast Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-accessing-and-reviewing-your-printer-activity-logs-on-windows-10/"><u>Step-by-Step Guide: Accessing and Reviewing Your Printer Activity Logs on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tech-triumphs-10-high-definition-screen-recorder-tools/"><u>Tech Triumphs #10 High-Definition Screen Recorder Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-into-the-future-our-curated-list-of-the-top-9-next-gen-ai-voice-systems-to-revolutionize-your-2023-experience/"><u>Updated In 2024, Step Into the Future Our Curated List of the Top 9 Next-Gen AI Voice Systems to Revolutionize Your 2023 Experience</u></a></li>
 </ul></div>
 

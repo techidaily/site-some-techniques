@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2024-10-22T16:02:57.915Z
-updated: 2024-10-29T17:11:46.241Z
+date: 2024-10-29T17:16:58.633Z
+updated: 2024-11-04T02:36:09.862Z
 tags:
   - mobile
 categories:
@@ -17,17 +17,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Google Is Still Seeing What Sticks](https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/)
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg)  
 Justin Duino / How-To Geek  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Google introduced new AI features but focused more on hype than substance and practicality.
 * Gemini is Google's new generative model taking over as the default assistant on Android phones.
@@ -39,6 +39,13 @@ Justin Duino / How-To Geek
 
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Google
 
  “It's a complete end-to-end experience that only Google can deliver,” Rick Osterloh, Senior Vice President, Platforms & Devices at Google, told the assembled crowd. “For years, we've been pursuing our vision of a mobile AI assistant that you can work with as you work with a real-life personal assistant, but we've been limited by the bounds of what existing technologies could do.”
@@ -46,10 +53,10 @@ Google
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google Goes All In on Generative AI
@@ -62,13 +69,6 @@ Justin Duino / How-To Geek
 
  But this is just the beginning of Google’s AI ambitions. At Tuesday's event, the company announced Gemini as the replacement for Google Assistant, making it the default assistant on Android phones. This move aligns with [Apple's decision to enhance Siri with OpenAI's ChatGPT](https://mondly-stories.techidaily.com/initiate-your-french-phonetic-journey-today/). Gemini offers a more conversational and intelligent assistant capable of being interrupted without losing focus. The newly introduced [Gemini Live feature](https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/) enables real-time interactions with the AI, positioning Google to compete with [OpenAI's Advanced Voice Mode](https://instagram-videos.techidaily.com/new-the-hidden-powerhouses-in-your-instagram-toolkit/). Gemini will also eventually interpret phone screen content using an upcoming overlay feature.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google Is Still Seeing What Sticks
 
  I wish that were the extent of what Google has been working on. Still, as has been the case since ChatGPT made its debut some 18 months ago, tech companies just won’t stop trying to shoehorn AI into any and every product they make, regardless of whether it actually adds value to the user experience.
@@ -78,10 +78,10 @@ Justin Duino / How-To Geek
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Google
@@ -121,21 +121,24 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-beat-buzzers-up-and-coming-background-scores-for-yt-shorts/"><u>[New] Beat Buzzers Up-and-Coming Background Scores For YT Shorts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-best-screen-grabber-gadgets-for-youtube-channels/"><u>[New] Best Screen Grabber Gadgets for YouTube Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-slomos-full-potential-a-compre-written-context/"><u>[New] Exploring SloMo's Full Potential A Compre Written Context</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-indoor-natural-lighting-tips/"><u>[New] Indoor Natural Lighting Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exquisite-airplay-scripts-for-listeners/"><u>[Updated] Exquisite Airplay Scripts for Listeners</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>[Updated] In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/discover-hands-free-and-face-to-face-interaction-for-free-master-tango-calls-now/"><u>Discover Hands-Free and Face-to-Face Interaction for Free: Master Tango Calls Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tricks-for-integrating-playstation-vr-with-your-personal-computer/"><u>Easy Tricks for Integrating PlayStation VR with Your Personal Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-spreadsheets-seamless-synergy-between-chatgpt-google-sheets-and-docs/"><u>Enhancing Your Spreadsheets: Seamless Synergy Between ChatGPT, Google Sheets & Docs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-nvidia-geforce-rtx-20-series-and-gtx-10-series-drivers-today/"><u>Get Your Nvidia GeForce RTX 20 Series and GTX 10 Series Drivers Today!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-seamlessly-incorporate-video-tracks-in-youtube-lists-for-2024/"><u>How to Seamlessly Incorporate Video Tracks in YouTube Lists for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-storage-upgrade-for-sony-a7s-ii-cameras/"><u>In 2024, Excellent Storage Upgrade for Sony A7S II Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-obtain-free-licensed-tunes-for-your-games/"><u>In 2024, How to Obtain Free, Licensed Tunes for Your Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-ranked-mobile-cloud-storage-for-android-guidebook/"><u>In 2024, Top Ranked Mobile Cloud Storage for Android Guidebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-achieve-stunning-gopro-time-lapse-for-2024/"><u>Innovative Approaches to Achieve Stunning GoPro Time Lapse for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-guide-igniting-video-visionaries-in-your-channel-for-2024/"><u>Ultimate Guide Igniting Video Visionaries in Your Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-for-video-thumbnail-creation-in-the-digital-age/"><u>[New] 2024 Approved Best Practices for Video Thumbnail Creation in the Digital Age</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-in-film-gear-2024s-picks/"><u>[New] Excellence in Film Gear 2024'S Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illustrators-playground-navigating-through-top-8-iphone-drawing-tools/"><u>[New] Illustrators' Playground Navigating Through Top 8 iPhone Drawing Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-elevate-your-content-game-with-these-5-proven-youtube-marketing-hacks/"><u>[New] In 2024, Elevate Your Content Game with These 5 Proven YouTube Marketing Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-no-delay-scrutinized-top-8-capture-tools/"><u>[New] In 2024, No Delay Scrutinized Top 8 Capture Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[New] In 2024, Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-zip-archive-to-srt-easy-steps-for-subtitles-conversion/"><u>[New] In 2024, ZIP Archive to SRT Easy Steps for Subtitles Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infallible-steps-to-tiktok-bio-link-integration-without-error/"><u>[New] Infallible Steps to TikTok Bio-Link Integration Without Error</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-idea-incubator-interactive/"><u>[New] Innovative Idea Incubator Interactive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-silence-issue-fixing-audio-absence-in-obs/"><u>[Updated] 2024 Approved Silence Issue Fixing Audio Absence in OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focusflexpro-x7-smart-resizing-superior-quality/"><u>[Updated] FocusFlexPro X7 Smart Resizing, Superior Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approach-for-rotating-and-interlacing-multiple-videographies-android/"><u>[Updated] Innovative Approach for Rotating & Interlacing Multiple Videographies (Android)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-stellar-titling/"><u>2024 Approved Expert Techniques for Stellar Titling</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-beat-bringers-guide-integrating-melody-into-vimeo-videos/"><u>2024 Approved The Beat Bringers' Guide Integrating Melody Into Vimeo Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hololens-review-pioneering-virtual-spacecraft-for-2024/"><u>HoloLens Review Pioneering Virtual Spacecraft for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-tasks-during-your-podcast-sessions/"><u>In 2024, Ideal Tasks During Your Podcast Sessions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/asts-financial-portrait-for-2024/"><u>Mr. Beast’s Financial Portrait for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-fast-forwarding-safely-expedite-your-spotify-experience/"><u>The Art of Fast-Forwarding Safely Expedite Your Spotify Experience</u></a></li>
 </ul></div>
 

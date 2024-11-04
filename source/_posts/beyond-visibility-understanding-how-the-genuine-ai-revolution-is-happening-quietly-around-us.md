@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-10-28T16:38:20.154Z
-updated: 2024-10-29T17:23:12.530Z
+date: 2024-10-29T05:00:17.365Z
+updated: 2024-11-04T03:56:22.323Z
 tags:
   - mobile
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -56,10 +56,10 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -87,22 +87,16 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-syncing-tiktok-content-with-twitter/"><u>[New] In 2024, Syncing TikTok Content with Twitter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-game-changing-trick-enter-mac-apple-watch-style/"><u>[Updated] Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideas-for-efficiently-using-gopro-power-supplies/"><u>[Updated] Ideas for Efficiently Using GoPro Power Supplies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>[Updated] In 2024, Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>[Updated] Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-transform-your-tiktok-videos-stunning-templates-at-hand-for-2024/"><u>[Updated] Transform Your TikTok Videos Stunning Templates at Hand for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-sound-value-for-aspiring-asmr-artists/"><u>2024 Approved Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exemplary-execution-using-apple-watch-to-open-mac/"><u>2024 Approved Exemplary Execution Using Apple Watch to Open Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrate-images-select-caption-apps-for-your-photos-iosandroid/"><u>2024 Approved Illustrate Images Select Caption Apps for Your Photos (iOS/Android)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/animatedapps-review-full-guide-24-year/"><u>AnimatedApps Review - Full Guide '24 Year</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-upcoming-innovations-on-iphone-ipad-mac-and-related-devices-in-fall-spotlighting-artificial-intelligence-enhancements/"><u>Comprehensive Guide: Upcoming Innovations on iPhone, iPad, Mac, & Related Devices in Fall - Spotlighting Artificial Intelligence Enhancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/dispelling-the-incompatibility-with-steam-files/"><u>Dispelling the Incompatibility with Steam Files</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-guide-to-fixing-broken-pics-best-no-cost-software-options/"><u>Expert Guide to Fixing Broken Pics: Best No-Cost Software Options</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-quadro-rtx-6000-drivers-now/"><u>Get Quadro RTX 6000 Drivers Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-prepared-for-macos-11-big-sur-upgrade/"><u>In 2024, Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gif-wizardry-10-tools-to-ignite-your-creative-spark/"><u>In 2024, GIF Wizardry 10 Tools to Ignite Your Creative Spark</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-dialogue-architect-forum/"><u>In 2024, Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigating-price-variations-in-cloud-services/"><u>[Updated] In 2024, Navigating Price Variations in Cloud Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-guide-to-3d-color-grading-using-ps-luts/"><u>[Updated] In-Depth Guide to 3D Color Grading Using PS Luts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-photo-enhancement-with-complete-guide-to-facetune/"><u>[Updated] Mastering Photo Enhancement with Complete Guide to Facetune</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-scraps-to-stunning-a-photomontage-journey/"><u>2024 Approved From Scraps to Stunning A Photomontage Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>2024 Approved How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse/"><u>In 2024, How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>In 2024, Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-programming-enhancements-without-chatgpt/"><u>Innovative Programming Enhancements Without ChatGPT</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ating-youtube-success-through-strategic-studio-use-for-2024/"><u>Navigating YouTube Success Through Strategic Studio Use for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-common-issues-with-samsung-smart-tv-applications/"><u>Resolving Common Issues with Samsung Smart TV Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-6-best-large-language-models/"><u>The 6 Best Large Language Models</u></a></li>
 </ul></div>
 

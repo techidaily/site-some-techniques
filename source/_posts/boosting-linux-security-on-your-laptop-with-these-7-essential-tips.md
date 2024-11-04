@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-10-26T16:23:29.842Z
-updated: 2024-10-29T16:51:16.441Z
+date: 2024-11-03T06:07:49.695Z
+updated: 2024-11-04T00:24:47.662Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Set a System Password 
 
  In a similar vein, you should also always set a system password, which you enter to unlock the laptop on startup or when unlocking the screen—which we talk about in our next entry. This is a good idea on any device, as it prevents anybody from accessing your data. It’s particularly vital for any portable device as it can prevent unauthorized access should it get lost or stolen.
@@ -42,10 +49,16 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -53,6 +66,19 @@ Jerome Thomas / How-To Geek
  With the system password set up, you should also make sure screen lock activates after a period of inactivity, and also commit the manual screen lock command (Ctrl+Alt+L) to memory. We can’t stress enough how important it is to do this if you’re in a shared space; not locking your screen opens you up to all kinds of mischief.
 
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Install a VPN 
 
@@ -62,19 +88,6 @@ Jerome Thomas / How-To Geek
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
 VPNs are great privacy tools, but they're not perfect. They can't protect you from everything.
@@ -82,13 +95,6 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 [](https://win-dash.techidaily.com/how-to-get-the-latest-amd-vega-groovy-drivers-win-compatible-software/) 
 
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Set Up a Firewall 
 
@@ -100,18 +106,18 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  The penultimate piece of advice is a little exotic, but useful. As you probably know, root privileges let you do anything you want on a Linux machine. The problem is that under very specific circumstances anybody accessing the device remotely through an [SSH tunnel](https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/) can gain those privileges and thus do whatever they want on your laptop.
 
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
 
@@ -140,20 +146,14 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-chip-synchrony-the-new-era-of-fluid-video-editing-experience/"><u>[New] Chip Synchrony The New Era of Fluid Video Editing Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-20-essential-methods-for-face-blurring-in-images/"><u>[Updated] 20 Essential Methods for Face Blurring in Images</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-desktop-image-in-windows-versions-11-7-for-2024/"><u>[Updated] Capturing Desktop Image in Windows Versions (11-7) for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-from-play-to-record-the-fraps-verdict-for-2024/"><u>[Updated] From Play to Record The Fraps Verdict for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-best-of-free-and-paid-8-ranked-android-videomosaic-apps-explored/"><u>[Updated] In 2024, The Best of Free & Paid #8 Ranked Android Videomosaic Apps Explored</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-basic-tactics-to-archive-webcam-chats/"><u>2024 Approved Basic Tactics to Archive Webcam Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expand-your-online-presence-with-larger-youtube-content/"><u>2024 Approved Expand Your Online Presence with Larger YouTube Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fusionflix-your-all-inclusive-tv-streaming-companion/"><u>2024 Approved FusionFlix Your All-Inclusive TV Streaming Companion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-m34-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy M34 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-metaphysics-of-metaverse-selling/"><u>In 2024, Exploring the Metaphysics of Metaverse Selling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-jokes-to-laughter-waves-how-to-craft-memes-on-9gag/"><u>In 2024, From Jokes to Laughter Waves How to Craft Memes on 9GAG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-prioritize-close-up-views-for-effective-collaboration/"><u>In 2024, How to Prioritize Close-Up Views for Effective Collaboration</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 13 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-lg-27uhd68-4k-sync-technology-for-2024/"><u>In-Depth Look at LG 27UHD68, 4K Sync Technology for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/innovating-connectivity-facebook-unveils-new-subscription-link-methods/"><u>Innovating Connectivity: Facebook Unveils New Subscription Link Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-light-in-iphone-hdr-photography/"><u>[Updated] Harnessing the Power of Light in iPhone HDR Photography</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-what-you-need-to-know-about-the-truecaller-phone-application/"><u>Expert Review: What You Need to Know About the Truecaller Phone Application</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-immediately-force-quit-stalled-window-software-a-step-by-step-walkthrough/"><u>How To Immediately Force Quit Stalled Window Software – A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-nvidia-display-drivers-on-windows-10-7-and-8-computers/"><u>How to Install NVIDIA Display Drivers on Windows 10, 7 & 8 Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-overcome-sony-a6400-video-viewing-failure-for-2024/"><u>How to Overcome Sony A6400 Video Viewing Failure for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracking-music-in-spotify-efficiency-and-security-in-harmony/"><u>In 2024, Fast-Tracking Music in Spotify Efficiency & Security in Harmony</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-ai-pixel-perfect-editor-for-2024/"><u>Innovative AI Pixel Perfect Editor for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-interactions-proper-use-of-twitchs-bans-and-u-bans/"><u>Streamline Interactions: Proper Use of Twitch's Bans and U-Bans</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-hardware-trustworthy-insights-by-tom/"><u>Unveiling the Latest in Hardware - Trustworthy Insights by Tom</u></a></li>
 </ul></div>
 

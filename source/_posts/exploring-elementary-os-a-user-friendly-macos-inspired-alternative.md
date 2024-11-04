@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2024-10-23T16:01:39.769Z
-updated: 2024-10-29T16:32:46.649Z
+date: 2024-11-02T17:02:33.317Z
+updated: 2024-11-03T16:06:24.869Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is elementary OS?
 
 [elementary OS](https://elementary.io/) is an operating system you can use on your PC in place of something like Windows or macOS. It's one of many, many iterations of the Linux desktop experience you can find out there. What sets elementary OS apart is perhaps its clean, minimalist interface that has an unmistakable macOS flare. While the majority of Linux desktops emulate the Windows layout or try to reinvent the desktop in new and unique ways, elementary OS is going to be most comfortable for you if you're used to a Mac. You'll find a dock full of launchable icons at the bottom of the screen, for example, and quick access to some settings on the righthand side of a top panel, much like [a Mac's Control Center](https://extra-resources.techidaily.com/critical-review-of-superior-stream-platforms/).
@@ -34,14 +27,14 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
- If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
 
 ##  Installing elementary OS Is as Easy as It Gets
 
@@ -54,19 +47,20 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![The boot and install options in an elementary OS live boot menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_04_58.png) 
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Settling in Is Elementary
 
@@ -74,18 +68,18 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
  By default, the AppStore is limited to elementary's curated apps. If that's not enough for you, and you need third-party software like Steam and LibreOffice, you'll need to enable [Flathub support](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) first. The reason for this extra step is that all that extra software hasn't been checked by the elementary team to integrate fully with the desktop and abide by its privacy and security guidelines. That said, I didn't personally experience any issues with the software I installed that way.
 
  Generally, the experience was far cleaner and more cohesive than most Linux desktops I've used. Navigating the desktop in general was a pleasant experience, without the endless subpages of settings and extravegent context menus some distros come with. I didn't experience unexplained freezes or mysterious blank screens on wake. I was able to connect a second monitor generally hassle-free, which isn't always the case for Linux.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Tinkerers Need Not Apply
 
@@ -116,24 +110,24 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-10-finest-iphone-photo-editors-and-filters/"><u>[New] Explore the 10 Finest iPhone Photo Editors & Filters</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-streaming-made-easy-google-meet-to-youtube-guide/"><u>[New] In 2024, Streaming Made Easy Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-twitch-black-screen-issues/"><u>[SOLVED] Twitch Black Screen Issues</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-videos-unleashed-with-new-mobile-app/"><u>[Updated] 2024 Approved FB Videos Unleashed with New Mobile App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capturing-the-essence-of-your-facebook-live-spontaneity-for-2024/"><u>[Updated] Capturing the Essence of Your Facebook Live Spontaneity for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-football-filmmaking-basics-from-screen-to-studio/"><u>[Updated] Free-Football Filmmaking Basics From Screen to Studio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ghostly-horizons-video-tech-update/"><u>[Updated] Ghostly Horizons Video Tech Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-heaviest-inflight-lifters-unveiled-top-10-list/"><u>[Updated] Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/financial-motives-in-consumer-video-evaluations-in-2024/"><u>Financial Motives in Consumer Video Evaluations, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-activate-auto-hdr-setting-in-windows-11-for-2024/"><u>How to Activate Auto HDR Setting in Windows 11 for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-iphoneandroid-faceshaping-software-for-2024/"><u>Ideal iPhone/Android Faceshaping Software for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-on-achieving-high-quality-gopro-videos/"><u>In 2024, Expert Advice on Achieving High-Quality GoPro Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-giroptic-360-angle-reviews/"><u>In 2024, In-Depth Giroptic 360-Angle Reviews</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-comparison-between-sharex-and-rivals/"><u>In 2024, The Ultimate Comparison Between ShareX & Rivals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-techniques-to-transform-your-footage-in-gopro-studio-for-2024/"><u>Innovative Techniques to Transform Your Footage in GoPro Studio for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mp4-capture-and-analysis-toolkit/"><u>MP4 Capture & Analysis Toolkit</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-top-business-vault/"><u>[New] Exclusive List Top Business Vault</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hdrs-edge-pushing-video-production-to-new-heights/"><u>[New] HDR's Edge Pushing Video Production to New Heights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-imagetangle-the-premier-montage-engineer/"><u>[New] ImageTangle The Premier Montage Engineer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-tales-with-flair-unearth-over-120-ingenious-titles-for-your-unique-snapchat-chronicles-for-2024/"><u>[New] Snap Tales with Flair Unearth over 120 Ingenious Titles for Your Unique Snapchat Chronicles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-shade-modifier-software/"><u>[Updated] Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chuckle-filled-chapters-best-comedy-video-plans-in-a-nutshell/"><u>[Updated] In 2024, Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-top-videos-and-tutorials-on-best-iphoneipad-editing-tools-for-2024/"><u>10+ Top Videos & Tutorials on Best iPhone/iPad Editing Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expediting-windows-file-reviews-with-ease/"><u>2024 Approved Expediting Windows File Reviews with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-11/"><u>2024 Approved How to Add Titles/Text to Video on Microsoft Photos in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-google-pixel-8-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Google Pixel 8 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-moto-g-stylus-2023-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Moto G Stylus (2023) has native MKV support?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-insiders-take-on-best-3d-blu-ray-players-for-2024/"><u>Exclusive Insider's Take on Best 3D Blu-Ray Players for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-audio-clips-to-written-content-harnessing-ms-words-transcription-features-for-2024/"><u>From Audio Clips to Written Content Harnessing MS Word's Transcription Features for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>In 2024, Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-expert-strategies-for-flawless-green-screen-videos/"><u>In 2024, Expert Strategies for Flawless Green-Screen Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mac-display-recorder-tips-and-tricks/"><u>In 2024, Mac Display Recorder Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-guide-to-simple-high-dynamic-range-for-2024/"><u>In-Depth Guide to Simple High Dynamic Range for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-action-cams-that-keep-moving-steady-for-2024/"><u>Leading Action Cams That Keep Moving Steady for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-magic-6-lite-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Magic 6 Lite.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your Drive: Top 6 Upgrades Needed in the Next Android Auto Update"
-date: 2024-10-27T16:37:33.046Z
-updated: 2024-10-29T17:10:29.455Z
+date: 2024-11-01T03:36:40.753Z
+updated: 2024-11-04T08:30:45.253Z
 tags:
   - mobile
 categories:
@@ -22,33 +22,33 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  Android Auto has made it drastically easier to enjoy the features of your phone safely while driving. Maps, music, and messages are easily in sight and can be controlled without looking away from the road. However, Android Auto is far from perfect–here are some things that could make it even better.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Bring Back Android Auto for Phones 
 
  In the early days of Android Auto, Google had a version that could run on phone screens. That functionality was eventually removed in 2022 and replaced by "Google Assistant Driving Mode." It was a more limited experience contained inside the Google Maps app, and that was [eventually removed as well in early 2024](https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/).
 
  So, we're left with no official method for running a simplified, car-focused UI on our Android phones. That's a shame because, while it is [easier (and cheaper) than you think to get Android Auto in your car](https://youtube-web.techidaily.com/ed-dazzle-and-stand-out-50-free-youtube-branding-pieces/), a lot of people prefer to have their phone in a mount. There should be an official way to do that safely.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Reporting Road Conditions With Voice Commands 
 
 [Like Waze](https://youtube-help.techidaily.com/2024-approved-maximizing-traffic-with-effective-youtube-titles/) (which is also owned by Google), it's possible to report road conditions in Google Maps. Things like crashes, speed traps, construction, etc. However, it's not very easy to do this while driving. A feature that would make this instantly better is voice commands. "Hey Google, report a speed trap." Boom, easy.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3  Remember Settings for Specific Head Units 
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -56,39 +56,33 @@ Joe Fedewa / How-To Geek
 
  This means that if you use more than one vehicle with Android Auto, certain settings will follow you. For example, you can choose to have media start playing when connected to your car automatically, but that means the same will happen when you connect to your partner's vehicle ([or your bike](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/)). The setting is not vehicle-specific. Same goes for Google Maps views. Admittedly, this is not a big problem, but it can be annoying.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Using Google Maps on Your Phone While Navigating With Android Auto 
 
  Here's another pretty simple one: let me use Google Maps on my phone while Android Auto is navigating. I'm not talking about while I'm driving–this is for passengers, only. It's very frustrating to be the passenger trying to find the next stop on your phone, and Google keeps kicking you out of the Maps app or ends navigation altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Better Use of Split Screen View 
 
 ![CarPlay activated on car's internal display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-10-at-6-31-19-pm.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
  Android Auto's split screen view is essentially a 2/3 split, with the navigation app always taking up the bigger area. I have no problem with that–it's the smaller section that could be used better.
 
  Most of the time the small third of the screen is showing media controls and suggested locations. The suggestions are actually useful maybe 25% of the time I'm driving somewhere. Instead, it'd be nice if that corner of the display could give me extra navigation information, like [how Apple does it with CarPlay](https://i.pcmag.com/imagery/articles/01ypBwaEp6WRCjX7hpKnVRM-33.fit%5Flim.size%5F768x.png). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Voice Prompt for Text Message Notifications 
 
@@ -115,18 +109,24 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[Updated] Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>[Updated] From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-sketches-to-stakes-leading-platforms-turning-art-into-nfts/"><u>[Updated] From Sketches to Stakes Leading Platforms Turning Art Into NFTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-iphones-power-for-dynamic-range-shots/"><u>[Updated] Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-zooms-video-features-on-youtube-platform/"><u>[Updated] Harnessing the Power of Zoom's Video Features on YouTube Platform</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bright-ideas-versatile-lights-the-spk10-037-experience/"><u>Bright Ideas, Versatile Lights - The SPK10-037 Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-the-latest-movavi-software-convert-aac-audio-files-to-mp4-for-free/"><u>Download the Latest Movavi Software: Convert AAC Audio Files to MP4 for FREE!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/game-on-in-reality-the-ultimate-vr-headset-comparison/"><u>Game On in Reality The Ultimate VR Headset Comparison</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-movement-analysis-2023/"><u>In 2024, Extensive Movement Analysis 2023</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/integrating-extra-footage-crafting-engaging-visual-narratives/"><u>Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-invites-best-video-maker-apps-for-ios-and-android/"><u>New Create Stunning Invites Best Video Maker Apps for iOS and Android</u></a></li>
-<li><a href="https://facebook.techidaily.com/reeling-in-social-media-leadership-can-fbs-reels-outshine-tiktok/"><u>Reeling in Social Media Leadership: Can FB's Reels Outshine TikTok?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/unveiling-top-gadgets-and-hardware-insights-from-toms-electronics-hub/"><u>Unveiling Top Gadgets and Hardware Insights From Tom's Electronics Hub</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-boosting-daily-use-tips-to-stay-active-on-facebook/"><u>[New] Boosting Daily Use Tips to Stay Active on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-digital-recorders-companion-pc-mac-phone-edition-for-2024/"><u>[New] Digital Recorder's Companion PC, Mac, Phone Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-the-videos-you-love-from-pinterest-for-free/"><u>[New] Get the Videos You Love From Pinterest for Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-expertly-use-vscos-adjustment-brushes/"><u>[New] How to Expertly Use VSCO's Adjustment Brushes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-get-up-close-with-video-chat-colleagues/"><u>[New] How to Get Up Close with Video Chat Colleagues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-skies-with-top-10-beginner-drones/"><u>[Updated] Exploring the Skies with Top 10 Beginner Drones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>[Updated] From Obscurity to Prominence How to Thrive in Youtube Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frozen-frontier-showcasing-2022s-olympic-peaks-and-precision-riders/"><u>[Updated] Frozen Frontier Showcasing 2022'S Olympic Peaks and Precision Riders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-skyrocket-engagement-key-seo-strategies-for-youtube-videos-for-2024/"><u>[Updated] Skyrocket Engagement Key SEO Strategies for YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-top-8-free-high-definition-video-players/"><u>2024 Approved Exclusive Guide to Top 8 FREE, High Definition Video Players</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-storm-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Storm 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-newest-wi-fi-drivers-compatible-with-80211n-windows-111087/"><u>Download the Newest Wi-Fi Drivers: Compatible with 802.11N, Windows 11/10/8/7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-sites-for-digital-type-creation-for-2024/"><u>Foremost Sites for Digital Type Creation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-essential-guide-broadcast-360-videos-on-facebook/"><u>In 2024, Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flip-funny-with-zero-cost-createyourmemes/"><u>In 2024, Flip Funny with Zero Cost - CreateYourMemes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimizing-dvd-videos-for-easy-integration-into-adobe-premiere-projects/"><u>Optimizing DVD Videos for Easy Integration Into Adobe Premiere Projects</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-rmvb-en-mkv-sin-coste-alguno-con-convertidor-online-de-movavi/"><u>Transforma RMVB en MKV Sin Coste Alguno Con Convertidor Online De Movavi</u></a></li>
 </ul></div>
 

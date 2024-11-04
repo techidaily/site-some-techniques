@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Empower Your PC with ViVeTool for Cutting-Edge Windows Functions"
-date: 2024-10-27T17:17:57.580Z
-updated: 2024-10-29T17:52:22.198Z
+date: 2024-10-28T07:41:08.131Z
+updated: 2024-11-03T16:03:43.094Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 * [How to Use ViVeTool (Command-Line) to Activate Windows Features](https://www.howtogeek.com/what-is-vivetool-and-how-to-use-it/#how-to-use-vivetool-command-line-to-activate-windows-features)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
  Do you want to try out experimental features on Windows to stay ahead of the curve? One way to do that is by joining the Windows Insider Program. However, Microsoft gradually rolls out these experimental features to Insiders, meaning you might not get immediate access or, in some cases, not even be selected for the controlled rollout. This is where ViVeTool steps in.
 
  ViVeTool is a third-party tool that allows you to enable experimental Windows features on your computer. But how does this tool work, and is it safe to use? Let's find out.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is ViVeTool, and How Does It Work?
 
@@ -71,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
  In summary, if you are comfortable with command-line tools like [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and want more flexibility, the command-line version of ViVeTool is the better choice. However, if you prefer a simpler interface and don't have much expertise in executing commands, the GUI version is a more suitable option.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use ViVeTool (GUI) to Activate Windows Features
 
  It's very easy to use ViVeTool's GUI version to activate features on your computer. Begin by visiting the [ViVeTool GUI GitHub page](https://github.com/PeterStrick/ViVeTool-GUI/releases/), and download the latest version of the setup.exe file. You might have to expand the "Assets" dropdown to find the ViVeTool.GUI.Setup.exe file.
@@ -92,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 ![Selecting features in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-features-in-vivetool.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose the feature you want to enable, click the "Perform Action" drop-down menu, and choose "Activate Feature." Alternatively, you can click the "Manually Change a Feature" field, enter the ID of the feature you want to enable, and choose "Activate Feature" from the menu.
 
 ![Activate Feature option in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/activate-feature-option.jpg) 
@@ -107,7 +86,21 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 ![Success message of ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/success-message.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to disable a feature, enter the feature ID in the "Manually Change a Feature" field and choose "Deactivate Feature" from the drop-down menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use ViVeTool (Command-Line) to Activate Windows Features
 
@@ -117,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 ![Zip file on the ViVeTool Downloads page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/zip-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on the downloaded zip file and choose "Extract All" from the menu that appears.
 
 ![Extract All option in the Windows context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-all-option.jpg) 
@@ -125,18 +125,18 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 ![Extract option to Extract ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, open Command Prompt as an administrator (check out [ways to open Command Prompt with elevated rights](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/)) and [change the directory to the extracted folder](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). To do this, type the following command and press Enter:
 
 cd /d PathOfViVeToolFolder
 
 ![ViVeTool path in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/vivetool-path.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, type the following and press Enter to enable a feature:
 
@@ -151,10 +151,10 @@ ViVeTool.exe /enable /id:44788892
 ![ViVoTool Enable command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enable-command.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the command executes successfully, close Command Prompt and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/); the changes will take effect upon restart.
@@ -182,20 +182,21 @@ ViVeTool.exe /disable /id:44788892
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-budget-friendly-microphones-for-online-broadcasters/"><u>[New] 2024 Approved Budget-Friendly Microphones for Online Broadcasters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hacky-podcast-transmission-tactic/"><u>[New] Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-twitter-video-convertors/"><u>2024 Approved The Ultimate List of Twitter Video Convertors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-huawei-nova-y91-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmoras-prime-selective-screen-change-list-for-2024/"><u>Filmora's Prime Selective Screen Change List for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-curated-index-of-leading-vector-art-and-illustration-pages/"><u>In 2024, Curated Index of Leading Vector Art and Illustration Pages</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frontier-of-film-virtual-realities-in-theaters/"><u>In 2024, Frontier of Film Virtual Realities in Theaters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-generate-individual-meme-crafts-today/"><u>In 2024, Generate Individual Meme Crafts Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-healthcare-marketing-on-facebook/"><u>In 2024, Innovative Approaches to Healthcare Marketing on Facebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mental-wellness-through-virtual-environments/"><u>In 2024, Mental Wellness Through Virtual Environments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/incorporating-backgrounds-a-filmmakers-guide-for-2024/"><u>Incorporating Backgrounds A Filmmaker's Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/modern-cellphone-lifespan-finding-the-right-moment-for-an-upgrade/"><u>Modern Cellphone Lifespan: Finding the Right Moment for an Upgrade</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-zero-30-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Zero 30 5G</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/d-you-pay-for-unlimited-youtube-for-2024/"><u>Should You Pay for Unlimited YouTube for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/turn-your-memories-into-moments-share-pics-instantly-for-2024/"><u>Turn Your Memories Into Moments Share Pics Instantly for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] 2024 Approved Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experience-like-never-before-leading-10-vr-devices/"><u>[New] Experience Like Never Before Leading 10 VR Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-audio-on-windows-best-8-applications-you-should-use/"><u>[New] Expertise in Audio on Windows Best 8 Applications You Should Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-following-review-creative-options/"><u>[New] Following Review Creative Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-lgs-new-tech-horizon-in-bp550/"><u>[Updated] Exploring LG's New Tech Horizon in BP550</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-haven-gratuitous-meme-makers/"><u>[Updated] Humorous Haven Gratuitous Meme Makers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails/"><u>[Updated] In 2024, Enhancing Video Visibility on YouTube with Imaginative Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-top-car-traffic-cameras/"><u>2024 Approved In-Depth Analysis Top Car Traffic Cameras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-zooming-into-perfection-a-compreenasional-tutorial-on-audio-recording/"><u>2024 Approved Zooming Into Perfection A Compreenasional Tutorial on Audio Recording</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/as-samsung-reclaims-leadership-in-mobile-market-share-from-apple-rival-companies-catch-up/"><u>As Samsung Reclaims Leadership in Mobile Market Share From Apple, Rival Companies Catch Up</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-hp-deskjet-driver-conflicts-win-10/"><u>Fixing HP Deskjet Driver Conflicts Win 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-index-photoplustune-recording-software/"><u>In 2024, Excellence Index Photo+Tune Recording Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-14-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi 14? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-web-with-smart-search-bing-and-ai/"><u>Navigating the Web with Smart Search: Bing & AI</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-guide-to-vertical-video-editing-on-mobile-devices/"><u>New In 2024, The Ultimate Guide to Vertical Video Editing on Mobile Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-zero-30-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Zero 30 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

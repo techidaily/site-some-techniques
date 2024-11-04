@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2024-10-26T16:26:35.611Z
-updated: 2024-10-29T17:36:17.857Z
+date: 2024-10-28T16:53:28.179Z
+updated: 2024-11-04T00:13:44.599Z
 tags:
   - deals
 categories:
@@ -21,19 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -42,14 +29,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -68,20 +55,13 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -92,6 +72,26 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter = 1 } -Process { Rename-Item $_.FullName -NewName ("{0}_{1}" -f $Counter, $_.Name) ; $Counter++ }
 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
 
@@ -132,22 +132,16 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle/"><u>[New] Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-masterclass-in-muting-and-dismantling-an-instagram-account/"><u>[Updated] 2024 Approved Masterclass in Muting & Dismantling an Instagram Account</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-accessing-and-using-srt-audio-on-various-oses/"><u>[Updated] Accessing and Using SRT Audio on Various OSes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fusing-music-and-photos-online/"><u>[Updated] Fusing Music and Photos Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-metaverse-humor-generating-unique-memes/"><u>[Updated] Innovative Metaverse Humor Generating Unique Memes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-voice-modification-tools-enhance-your-auditory-presentation/"><u>2024 Approved Free Voice Modification Tools – Enhance Your Auditory Presentation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freescape-extraction-revisited-a-look-at-the-latest-update/"><u>2024 Approved Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>2024 Approved From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dive-into-memelore-the-kinemaster-method/"><u>Dive Into Memelore The KineMaster Method</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-sound-to-web-crafting-a-standout-podcast-rss-feed-for-2024/"><u>From Sound to Web Crafting a Standout Podcast RSS Feed for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-mastery-reimagined-top-6-innovations-with-gpt-assistance/"><u>Game Mastery Reimagined: Top 6 Innovations with GPT Assistance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-zoom-and-cut-companion/"><u>In 2024, Expert Zoom and Cut Companion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-displays-ranked-1-to-5-ps5/"><u>In 2024, High-End Displays Ranked #1 to #5 (PS5)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/inside-facetune-an-authoritative-review-for-improved-images-for-2024/"><u>Inside Facetune An Authoritative Review for Improved Images for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/space-saver-protocols-premium-storage-reviewed/"><u>Space Saver Protocols Premium Storage Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-13-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 13 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/clonezilla-windows-118-7/"><u>「利用 Clonezilla 在 Windows 11、8 或 7 系统下进行高效的磁碟拷贝功能」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>2024 Approved Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>2024 Approved Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-overview-of-gpt-plugins-and-uses/"><u>An Overview of GPT Plugins & Uses</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/green-thumbs-up-the-best-farming-titles-for-group-playtime/"><u>Green Thumbs Up The Best Farming Titles for Group Playtime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-engage-listeners-through-instagram-and-podcasts-for-2024/"><u>How To Engage Listeners Through Instagram & Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-achieve-professional-quality-on-yt-with-simple-blurring/"><u>In 2024, Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-youtube-to-high-quality-mpegs-the-essential-guide/"><u>In 2024, From YouTube to High-Quality MPEGs The Essential Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-effect-to-photos-in-photoshop/"><u>In 2024, How to Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-multi-environment-broadcasting-mastery-of-color-key-techniques/"><u>In 2024, Seamless Multi-Environment Broadcasting Mastery of Color Key Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steams-inaccessible-game-servers/"><u>Resolving Steam's Inaccessible Game Servers</u></a></li>
 </ul></div>
 

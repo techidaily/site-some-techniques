@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-10-28T17:45:37.280Z
-updated: 2024-10-29T16:58:06.841Z
+date: 2024-11-03T04:12:45.288Z
+updated: 2024-11-04T00:22:27.574Z
 tags:
   - deals
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Upgrade an Unsupported PC?
 
  First, let's be clear: If you're on the fence, we recommend against [upgrading](https://common-error.techidaily.com/guide-solving-the-problem-of-dysfunctional-usb-mouse-and-keyboard-under-windows-vistawindows-7/) an unsupported PC to Windows 11\. Windows 10 will be officially [supported with security updates until October 2025](https://remote-screen-capture.techidaily.com/new-in-2024-screenflow-unleashed-the-ultimate-macos-experience/).
@@ -47,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  In some situations, you can make your PC officially supported with a configuration change or two.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to See Why Your PC Is Unsupported
@@ -62,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  If Windows 11 doesn't officially support your PC, the PC Health Check will say it "doesn't currently meet Windows 11 system requirements" and tell you why. If the tool reports your PC is unsupported, the process you need to follow will depend on the problem it reports. You may just have to change a setting in your PC's [UEFI firmware (the modern replacement for the BIOS)](https://twitter-videos.techidaily.com/updated-expert-tips-for-twitter-video-interactions/) to make your PC supported — or the process may be more involved.
 
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
 
@@ -86,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benj Edwards / How-To Geek
 
 ##  How to Enable Secure Boot
@@ -98,7 +91,21 @@ Benj Edwards / How-To Geek
 
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benj Edwards / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Fix No UEFI (MBR Instead of GPT)
 
@@ -107,13 +114,6 @@ Benj Edwards / How-To Geek
  There are several ways to do this. [Microsoft's MBR2GPT tool](https://docs.microsoft.com/en-us/windows/deployment/mbr-to-gpt) may allow you to convert a drive from MBR to GPT format. Microsoft warns that you should only do this if you know your PC supports UEFI, and that you may have to change settings in your PC's firmware to make it boot in UEFI mode rather than legacy BIOS mode afterward.
 
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
 
@@ -126,6 +126,13 @@ Benj Edwards / How-To Geek
  To get started, open the Registry Editor. You can press Windows+R, type "regedit", and press Enter, or type "registry" into the Start menu's search box and click the "Registry Editor" shortcut.
 
 ![Launch regedit in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/open-regedit.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type the following address into the address bar in the Registry Editor window (or navigate to it in the left pane):
 
@@ -140,10 +147,10 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
@@ -163,13 +170,6 @@ AllowUpgradesWithUnsupportedTPMOrCPU
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
 
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
 
@@ -198,22 +198,16 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-feature-a-podcast-in-one-quick-snap/"><u>[New] Feature a Podcast in One Quick Snap</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-acting-availability-pledge/"><u>[New] Free Acting Availability Pledge</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-transforming-facebook-videos-steps-to-high-definition-for-2024/"><u>[New] Transforming Facebook Videos Steps to High Definition for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-30-must-have-youtube-intros-tools-for-beginners-all-free/"><u>[Updated] 2024 Approved 30 Must-Have YouTube Intros Tools for Beginners, All Free</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-tonal-triumphs-the-art-of-hue-enhancement/"><u>[Updated] In 2024, Tonal Triumphs The Art of Hue Enhancement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-stellar-sparks-top-ten-threads-that-captivated-reddit-users/"><u>[Updated] Stellar Sparks Top Ten Threads that Captivated Reddit Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>2024 Approved From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-realme-12-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme 12 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-live-stream-giants-twitch-and-youtube-for-2024/"><u>Evaluating Live Stream Giants Twitch & YouTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-the-top-10-affordable-online-image-format-switchers-for-2024/"><u>Find the Top 10 Affordable Online Image Format Switchers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-the-funimate-guide/"><u>In 2024, From Novice to Pro - The Funimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-metaverse-humor-creation/"><u>In 2024, Harnessing the Power of Metaverse Humor Creation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-13-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 13 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-in-action-sonys-s6500-player-redefined/"><u>In 2024, Innovation in Action Sony's S6500 Player Redefined</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-perfecting-youtube-videos-through-enhancement-tips/"><u>[New] 2024 Approved Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flat-screens-to-spatial-storytelling-understanding-vr/"><u>[New] From Flat Screens to Spatial Storytelling Understanding VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-connoisseur-of-funimate-games/"><u>[New] From Novice to Connoisseur of Funimate Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-save-time-and-energy-with-two-way-recording-on-google-meets/"><u>[Updated] 2024 Approved How to Save Time and Energy with Two-Way Recording on Google Meets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>[Updated] How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-still-life-to-dynamic-visual-narrative/"><u>2024 Approved From Still Life to Dynamic Visual Narrative</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>2024 Approved Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expanded-api-horizons-gpt-chat-whisper-for-businesses/"><u>Expanded API Horizons: GPT-Chat, Whisper for Businesses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-methods-for-converting-swf-files-into-avi-format-a-comprehensive-guide/"><u>Free Methods for Converting SWF Files Into AVI Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-10-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 10 Pro 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-ai-conversations-expert-guide-to-thwarting-model-inversion-attacks-on-your-bot/"><u>Safeguarding AI Conversations: Expert Guide to Thwarting Model Inversion Attacks on Your Bot</u></a></li>
 </ul></div>
 

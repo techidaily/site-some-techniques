@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2024-10-26T17:41:41.689Z
-updated: 2024-10-29T16:40:14.249Z
+date: 2024-10-31T01:42:52.933Z
+updated: 2024-11-04T07:22:34.205Z
 tags:
   - desktop
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I took on the "no terminal" challenge and explored whether it's possible to use Linux without a terminal.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Is Using the Terminal a Must on Linux?
 
  Whether you need to use the terminal solely depends on your activities. If you use your desktop for document processing, checking emails, browsing the internet, or consuming multimedia, you may never even need the terminal. Most casual users can get away without touching the terminal.
@@ -43,22 +36,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For this experiment, I'll be using [Linux Mint](https://smart-video-creator.techidaily.com/updated-in-2024-cutting-edge-video-editing-top-3-4k8k-software-solutions/), one of the most GUI-friendly Linux distros. It's also considered a [great distro for beginners](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/), as most distros geared towards newcomers have great GUI experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing New Software
 
 ![The homepage of the Software Manager on Linux Mint displaying different kinds of software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/software-manager-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Dealing with software is likely the biggest use of the command line. By issuing simple commands, you can install, update, and delete any software from your system. But it's not the only way to deal with software. Popular Linux distros like Ubuntu, Linux Mint, Fedora, and Pop!\_OS come with a dedicated software center (similar to the [Microsoft Store](https://on-screen-recording.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps/)). On Linux Mint, it's known as Software Manager.
 
@@ -71,10 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An example of the Update Manager user interface on Linux Mint for updating installed software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/update-manager-linux-mint.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Managing old and new software on Linux is pretty simple thanks to existing software centers. But even if you can't find one preinstalled on your Linux distro, you can easily install software using [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) or [AppImages](https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/). So then, why do people use the terminal? That's because it gives you a better experience in certain situations.
@@ -111,16 +97,16 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  You can use commands such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/), [sed](https://visual-screen-recording.techidaily.com/new-in-2024-forward-thinking-ios-for-ps2-emulation/), and [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to search for specific text patterns within files and make changes based on the search results. If you want to go further, you can use regular expressions for more powerful filtering. Wildcards enable you to perform mass operations on multiple files across multiple directories.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Text Editing
 
 ![An instance of a configuration file opened in the nano text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/nano-text-editor-on-linux-mint.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Have you ever heard a joke about [exiting from Vim](https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/) on Linux? Vim is a popular terminal-based text editor that comes preinstalled on all Linux distros. It's notoriously known for its steep learning curve. Now, the idea of learning "how to use a text editor" may sound surprising to you. But once you learn it, you can save dozens of hours thanks to its useful shortcuts and powerful capabilities.
 
@@ -138,21 +124,35 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An example of compiling a C program using the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/compiling-a-c-program-using-linux-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are many terminal-based development tools such as make, gcc, cmake, and autotools that developers use regularly. Compiling code from various programming languages often relies on tools like gcc and javac. These tools offer better control over the compilation process than a simple Build button on an IDE.
 
  As a developer, you'll have to use many tools that don't have any graphical interface. You'll need to install many dependencies. You may have to [connect to remote servers via SSH](https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/). You'll likely have to automate many repetitive and complex tasks to save time and energy. All of these, if not most, are done using the terminal. For any professional developer, the command line can feel necessary rather than a choice.
 
  Another noteworthy part of a programmer's work is the version control system. While there are [GUI clients for tools like Git](https://desktop-recording.techidaily.com/new-2024-approved-vrecorder-how-to-download-and-install/), learning basic Git commands can come in handy in a professional scenario. Using Git from the command line also makes your development process smoother because you don't need to go back and forth between multiple tools.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Customizing Your Linux Desktop
 
 ![An instance of the Qt5 customizer tool opened in Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-mint-customization.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Linux is known for its customization abilities. You can find a good number of both GUI tools and command line tools for customizing Linux to your heart's content.
@@ -161,18 +161,18 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  There are a bunch of GUI tools available out there, including GNOME Tweaks, Dconf Editor, and KDE System Settings. You can play between different options to get your preferred look and feel. Sure, the command line unlocks a new world of customization opportunities. But if it's customization work I'm doing, then GUI tools seem to do pretty well considering there's no learning curve.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Other Advanced Tasks
 
  When it comes to advanced tasks, the command line mostly reigns supreme. Some of these include system administration, network configuration, system monitoring, troubleshooting, disk management and partitioning, user and group management, and system security maintenance, among other things.
 
  You may find a few GUI tools, either built-in or from third parties. However, most of these activities require basic to intermediate knowledge of the Linux system, commands, and Bash scripting. So if you're planning to use Linux for any of these works, the terminal would be your daily companion.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  No Command Line, No Problem!
 
@@ -195,21 +195,17 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-securing-your-social-snapshot-instagram-edition/"><u>[New] 2024 Approved Securing Your Social Snapshot Instagram Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-the-secret-for-instantaneous-deletion-of-youtube-feedbacks/"><u>[New] 2024 Approved Unveiling the Secret for Instantaneous Deletion of Youtube Feedbacks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>[New] Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-review-google-podcasts-app-explained/"><u>[New] Full Spectrum Review Google Podcasts App Explained</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-incredibly-swift-blackouts/"><u>[New] Incredibly Swift Blackouts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gratitude-archive-complete-collection-freepaid/"><u>[Updated] Gratitude Archive Complete Collection (Free/Paid)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incorporating-backgrounds-a-filmmakers-guide/"><u>[Updated] Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>[Updated] YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-curated-audio-experience-on-android/"><u>2024 Approved Expertly Curated Audio Experience on Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024top8/"><u>2024年の最新動画で効果的なテロップ挿入手順TOP8</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enabling-cross-platform-compatibility-streaming-and-viewing-any-video-format-on-xbox-360-using-a-mac/"><u>Enabling Cross-Platform Compatibility: Streaming and Viewing Any Video Format on Xbox 360 Using a Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-combining-zoom-with-facebook-live-features-for-2024/"><u>Harness the Power of Combining Zoom with Facebook Live Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-escapes-how-to-choose-between-rift-vive-ps-vr-in-2024/"><u>Immersive Escapes How to Choose Between Rift, Vive, PS VR, In 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-c65-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco C65 FRP</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-maintaining-continuous-connections-on-snapchat-tips-and-tricks/"><u>In 2024, Maintaining Continuous Connections on Snapchat Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-troubleshooting-guide-get-it-working-again/"><u>Logitech G533 Microphone Troubleshooting Guide: Get It Working Again!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-1-chart-conversion-software/"><u>[New] No. 1 Chart Conversion Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-imageintensifyx7-transform-scenes-with-simplicity/"><u>[Updated] 2024 Approved ImageIntensifyX7 Transform Scenes with Simplicity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-premier-applications-for-changing-vtuber-sounds/"><u>[Updated] Exploring Premier Applications for Changing Vtuber Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-express-windows-file-audit-procedure/"><u>[Updated] Express Windows File Audit Procedure</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-fixing-windows-10-photo-viewer-hangs-quickly/"><u>[Updated] Fixing Windows 10 Photo Viewer Hangs Quickly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-critical-game-analysis-from-top-creators/"><u>[Updated] In 2024, Critical Game Analysis From Top Creators</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/camera-stabilizers-for-youtube/"><u>Best Camera Stabilizers for YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ground-monitoring/"><u>Ground Monitoring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-key-windows-movie-maker-alternatives-for-2024/"><u>Identifying Key Windows Movie Maker Alternatives for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-premium-video-openers-here/"><u>In 2024, Get Premium Video Openers Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-your-free-passport-photos-with-our-easy-tool/"><u>In 2024, Get Your FREE Passport Photos with Our Easy Tool</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>In 2024, Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
 </ul></div>
 

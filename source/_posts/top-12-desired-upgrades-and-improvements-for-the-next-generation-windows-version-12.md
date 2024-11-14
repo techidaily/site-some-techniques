@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-10-31T06:56:42.332Z
-updated: 2024-11-04T10:17:57.443Z
+date: 2024-11-07T07:12:02.462Z
+updated: 2024-11-12T16:56:52.857Z
 tags:
   - deals
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Expand Phone Link's Usefulness
 
 [Phone Link](https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/), formerly Your Phone, has steadily improved over the years, but it is still a far cry from the sort of seamless integration Apple users have access to if they combine a Mac and an iPhone.
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
@@ -62,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 Andrew Heinzman / How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Live and Dynamic Backgrounds
 
@@ -86,22 +86,15 @@ Andrew Heinzman / How-To Geek
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Control Over the Right-Click Menu
@@ -138,6 +131,13 @@ Andrew Heinzman / How-To Geek
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Better Device Backup Options in Windows Backup
 
  Windows has a few different backup features these days, the most prominent of which is Windows Backup. There is also [File History](https://win-able.techidaily.com/cyberpunk-2077-on-pc-solved-crashing-problems-and-how-to-prevent-them-in-the-future/) and the legacy Backup and Restore Tool, which you may remember from older versions of Windows.
@@ -147,13 +147,6 @@ Andrew Heinzman / How-To Geek
 1. It needs to have a local backup option, with support for local “Restore from Backup” functionality. Currently, you're limited by how much OneDrive storage you have.
 2. Users need more control over which files and folders are included in the backup.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Improve Windows Start Search
 
  You can press the Windows key and start typing to search your PC (and Bing, if you don't [disable Bing search](https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y200e-5g-phone-password-using-emergency-call-by-drfone-android/)), but it is still slower, clunkier, and less fully-featured than Spotlight Search on Macs.
@@ -162,13 +155,26 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Helpful Local AI Tools
@@ -196,16 +202,22 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-practices-where-to-download-text-overlays-for-2024/"><u>[Updated] Best Practices Where to Download Text Overlays for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-fantasy-to-reality-vrs-path/"><u>[Updated] From Fantasy to Reality VR’s Path</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>2024 Approved GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-screenplays-in-8-movie-categories/"><u>2024 Approved Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/affordable-z-edge-z3plus-dashcam-comprehensive-review-and-user-experience/"><u>Affordable Z-Edge Z3+ Dashcam - Comprehensive Review & User Experience</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/constellation-channel-premier-videos-plus-glowing-endorsements/"><u>Constellation Channel: Premier Videos + Glowing Endorsements</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-simulation-to-reality-jaunt-vrs-journey/"><u>In 2024, From Simulation to Reality Jaunt VR's Journey</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-sony-headset-troubleshooter-effective-fixes-to-reconnect-your-microphone-on-windows-pcs/"><u>Mastering the Sony Headset Troubleshooter: Effective Fixes to Reconnect Your Microphone on Windows PCs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/srgb-efficiency-against-basic-rgb/"><u>Srgb Efficiency Against Basic Rgb</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-best-practices-for-instagram-video-sharing/"><u>[New] 2024 Approved Best Practices for Instagram Video Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-perfect-drone-companions-for-skilled-pilots-top-5/"><u>[New] Perfect Drone Companions for Skilled Pilots (Top 5)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-emoji-tips-for-yt-comments-a-quick-guide-for-2024/"><u>[Updated] Emoji Tips for YT Comments A Quick Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>[Updated] Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams/"><u>[Updated] From Concept to Curtain Call Scriptwriting Tips for Successful Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[Updated] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-of-animated-branding/"><u>[Updated] Fundamentals of Animated Branding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-holistic-locomotion-scrutiny-report/"><u>[Updated] Holistic Locomotion Scrutiny Report</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-learning-snapseed-essentials/"><u>2024 Approved From Novice to Pro Learning Snapseed Essentials</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-c67-4g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme C67 4G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-verse-utilizing-chatgpt-for-writing-poetry-collections/"><u>Crafting Verse: Utilizing ChatGPT for Writing Poetry Collections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expanding-viewable-area-of-youtube-recordings-for-2024/"><u>Expanding Viewable Area of YouTube Recordings for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-boredom-to-laughter-your-kinemaster-guide-for-2024/"><u>From Boredom to Laughter Your KineMaster Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-content-gaining-profits-an-insiders-tale-on-instagram-sponsorship/"><u>In 2024, Crafting Content, Gaining Profits An Insider's Tale on Instagram Sponsorship</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-htc-u23-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your HTC U23 Pro Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-your-ipad-keeping-pace-with-the-latest-technology-trends/"><u>Is Your iPad Keeping Pace With the Latest Technology Trends?</u></a></li>
 </ul></div>
 

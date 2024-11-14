@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Glow Innovations  Outshining Videos Through Design\""
-date: 2024-07-26T16:31:36.482Z
-updated: 2024-07-27T16:31:36.482Z
+date: 2024-11-09T16:50:45.256Z
+updated: 2024-11-13T04:33:38.018Z
 tags: 
   - screen-recording
   - ai video
@@ -46,27 +46,18 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -75,9 +66,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -86,9 +74,6 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -105,10 +90,14 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,7 +131,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-depths-top-10-unknown-features-in-vlc-player/"><u>[New] Exploring the Depths Top 10 Unknown Features in VLC Player</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-views-and-engagement-top-rated-online-keyword-generators/"><u>[Updated] 2024 Approved Boost Views and Engagement Top-Rated Online Keyword Generators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-generate-hits-adobe-made-memes/"><u>[Updated] Generate Hits Adobe-Made Memes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ranking-the-top-5-video-frame-capturers/"><u>[Updated] In 2024, Ranking the Top 5 Video Frame Capturers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-strategies-for-broadcasting-social-media-happenings-for-2024/"><u>[Updated] Strategies for Broadcasting Social Media Happenings for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-to-successful-zoom-calls-with-android/"><u>[Updated] Unveiling the Secrets to Successful Zoom Calls with Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>2024 Approved Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-comparison-inshot-against-other-apps/"><u>2024 Approved In-Depth Comparison InShot Against Other Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-future-with-advanced-vr-finger-tech-for-2024/"><u>Explore the Future with Advanced VR Finger Tech for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-the-best-8-spots-for-free-3d-text-psd-downloads-for-2024/"><u>Find the Best 8 Spots for FREE 3D Text PSD Downloads for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>In 2024, From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-fixes-how-to-shorten-youtube-videos-easily-for-2024/"><u>Quick Fixes How to Shorten YouTube Videos Easily for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-roadmap-to-successful-online-job-promotions/"><u>The Roadmap to Successful Online Job Promotions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vision-vanished-retrieving-lost-shots/"><u>Vision Vanished: Retrieving Lost Shots</u></a></li>
+</ul></div>
 

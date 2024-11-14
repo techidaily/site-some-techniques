@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-10-28T16:36:44.881Z
-updated: 2024-11-03T17:24:17.077Z
+date: 2024-11-10T19:16:54.718Z
+updated: 2024-11-13T13:06:05.100Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on an Apple Silicon Mac](https://ai-video-translation.techidaily.com/new-reaching-a-wider-audience-using-video-translation-in-tamil/)
 * [How to Reset the SMC on an Intel Mac with a T2 Security Chip](https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-messages/)
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Apple Silicon Mac
@@ -56,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
 
  On Intel MacBooks with the T2 chip, which means most models from 2018 or later, Apple recommends an extra step before resetting the SMC. Shut down your Mac and press and hold the power button for 10 seconds. Wait a few extra seconds and then turn your Mac back on to see if the problem has been fixed.
@@ -63,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -81,18 +87,18 @@ Hannah Stryker / How-To Geek
 
  On desktop Macs with the T2 chip, it's far simpler. Just shut the Mac down and unplug the power cord. After 15 seconds, plug the power cord back in, wait another five seconds, and then power on your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Reset the SMC on Older Intel Macs
 
  On older Intel MacBooks from earlier than 2018, you reset the SMC by using a different combination of key presses. Start by shutting down the Mac.
 
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -126,19 +132,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>[New] FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nleashing-potential-strategic-hashtags-for-video-success/"><u>[New] Unleashing Potential Strategic Hashtags for Video Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exceptional-facial-editing-software-iphoneandroid/"><u>[Updated] Exceptional Facial Editing Software, iPhone/Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-microsofts-hololens-a-hologram-horizon/"><u>[Updated] Exploring Microsoft's HoloLens A Hologram Horizon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gratuitous-green-backdrops-available/"><u>[Updated] Gratuitous Green Backdrops Available</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-zooming-in-an-intensive-guide-to-youtube-live-stream-success/"><u>2024 Approved Zooming In An Intensive Guide to YouTube Live Stream Success</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/can-vrr-technology-eliminate-gameplay-monitor-flickering-issues/"><u>Can VRR Technology Eliminate Gameplay Monitor Flickering Issues?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-apples-latest-additions-to-the-mac-obsolete-catalog-affect-you-insights-from-zdnet/"><u>How Apple’s Latest Additions to the Mac 'Obsolete' Catalog Affect You, Insights From ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-digital-scribes-leading-screen-recorder-software/"><u>In 2024, Digital Scribes Leading Screen Recorder Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-imagery-the-art-of-digital-bending-for-2024/"><u>Innovative Imagery The Art of Digital Bending for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-this-black-friday-exclusive-offer-on-contixos-advanced-f2n-pro-gps-quadcopter-save-45-and-elevate-your-drone-experience/"><u>Score Big Savings This Black Friday: Exclusive Offer on Contixo's Advanced F2n Pro GPS Quadcopter | Save $45 and Elevate Your Drone Experience!</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-any-video-into-high-quality-mp4-on-your-mac-with-the-no-cost-macx-converter-tool/"><u>Transform Any Video Into High-Quality MP4 on Your Mac with the No-Cost MacX Converter Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-improving-frame-rate-in-warped-web-videos/"><u>[New] Improving Frame Rate in Warped Web Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fostering-flourishing-visuals-with-after-effects-fonts/"><u>[Updated] Fostering Flourishing Visuals with After Effects Fonts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-safely-access-publicly-recorded-c-span-content/"><u>[Updated] How to Safely Access Publicly Recorded C-Span Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-inventory-visualization/"><u>[Updated] Immersive Inventory Visualization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-meme-template-toolkit/"><u>[Updated] The Essential Meme Template Toolkit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-digital-destinations-for-text-overlays-for-2024/"><u>[Updated] Ultimate Digital Destinations for Text Overlays for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-decoding-battery-selection-elevate-your-drones-flight/"><u>2024 Approved Decoding Battery Selection Elevate Your Drone's Flight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-testimonials-for-genuine-brand-connection/"><u>2024 Approved Harnessing Testimonials for Genuine Brand Connection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>2024 Approved Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/compile-of-engaging-games-for-universal-player-partnerships/"><u>Compile of Engaging Games for Universal Player Partnerships</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-chromes-full-screen-multitasking-capabilities-for-2024/"><u>Explore Chrome's Full-Screen Multitasking Capabilities for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/fortify-your-digital-footprint-on-facebook-fb-with-these-7-measures/"><u>Fortify Your Digital Footprint on Facebook (FB) with These 7 Measures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-darkroom-to-digital-mastering-modern-grading-techniques-for-2024/"><u>From Darkroom to Digital Mastering Modern Grading Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-the-finest-fee-free-streamers-and-tools/"><u>In 2024, Expert Recommendations The Finest, Fee-Free Streamers and Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framing-speed-the-hyperlapse-video-methods/"><u>In 2024, Framing Speed The Hyperlapse Video Methods</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-computer-security-securing-your-pc-in-five-ways-on-windows/"><u>Mastering Computer Security: Securing Your PC in Five Ways on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tuneful-transmissions-integrating-audio-with-statuses/"><u>Tuneful Transmissions Integrating Audio with Statuses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-gamers-should-prioritize-dxvk-in-their-win-based-setup/"><u>Why Gamers Should Prioritize DXVK in Their Win-Based Setup?</u></a></li>
 </ul></div>
 

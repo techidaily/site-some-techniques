@@ -1,7 +1,7 @@
 ---
 title: How to Check the Specifics of Your Windows 11 Installation
-date: 2024-11-01T10:14:42.522Z
-updated: 2024-11-04T07:05:57.123Z
+date: 2024-11-07T02:11:28.333Z
+updated: 2024-11-12T19:16:21.378Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
@@ -24,10 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
@@ -38,24 +45,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
@@ -70,22 +71,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -107,22 +101,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-expert-advice-on-acquiring-the-latest-360-cameras-for-2024/"><u>[New] Expert Advice on Acquiring the Latest 360 Cameras for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-video-cameras-of-the-future/"><u>[New] Explore the Best Video Cameras of the Future</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-premium-showdown-black-edition/"><u>[New] GoPro Hero5 Premium Showdown Black Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-apples-m1-processor-showdown-m1-pro-versus-m1-max-differences/"><u>[New] In 2024, Apple’s M1 Processor Showdown M1 Pro versus M1 Max Differences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-diminution-strategies-for-fl-studio-enthusiasts/"><u>[New] Incremental Diminution Strategies for FL Studio Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-faithful-chimes-how-to-personalize-them/"><u>[Updated] Faithful Chimes - How to Personalize Them</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-shoot-vertical-panorama-photos-with-your-mobile-phone/"><u>[Updated] How to Shoot Vertical Panorama Photos with Your Mobile Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-eyes-in-the-sky-full-review-of-djis-phantom-4-pro/"><u>2024 Approved Eyes in the Sky Full Review of DJI's Phantom 4 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-craft-an-engaging-solo-auditory-adventure/"><u>2024 Approved How to Craft an Engaging Solo Auditory Adventure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporate-mp3s-into-presentation-decks/"><u>2024 Approved Incorporate MP3s Into Presentation Decks</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/home-movie-mastery-ezvid-for-mac-makes-video-creation-a-breeze/"><u>Home Movie Mastery Ezvid for Mac Makes Video Creation a Breeze</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nokia-c12-plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nokia C12 Plus to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/igtv-to-facebook-distribution-masterclass-approach/"><u>IGTV to Facebook Distribution Masterclass Approach</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unlock-your-potential-best-free-mac-screen-recorder-software-reviewed/"><u>In 2024, Unlock Your Potential Best Free Mac Screen Recorder Software Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/trending-decor-ideas-for-livestreaming/"><u>Trending Decor Ideas for Livestreaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>[New] Harmonizing Movement with Music Instagram's Reel Synergy Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-art-of-eye-catching-fb-ad-content/"><u>[New] In 2024, Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incredibly-swift-blackouts/"><u>[New] Incredibly Swift Blackouts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uncharted-sci-fi-dimensions-top-10-metaverse-movie-experiences/"><u>[New] Uncharted Sci-Fi Dimensions Top 10 Metaverse Movie Experiences</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[Updated] 2024 Approved Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-efficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile/"><u>[Updated] In 2024, Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-with-ais-help-from-chatgpt/"><u>Enhancing Your CV with AI's Help From ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-speed-files-inspection-on-windows-os-for-2024/"><u>High-Speed Files Inspection on Windows OS for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-google-pixel-fold-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Google Pixel Fold to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-power-of-quantum-hdr-for-2024/"><u>In-Depth Analysis The Power of Quantum HDR for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-your-windows-11-passwords-a-comprehensive-guide-four-methods-explored/"><u>Resetting Your Windows 11 Passwords: A Comprehensive Guide - Four Methods Explored</u></a></li>
 </ul></div>
 

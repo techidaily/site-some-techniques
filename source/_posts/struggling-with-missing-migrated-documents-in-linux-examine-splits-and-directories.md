@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-10-28T23:18:28.814Z
-updated: 2024-11-03T17:18:58.311Z
+date: 2024-11-07T17:19:18.384Z
+updated: 2024-11-12T23:55:24.585Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Part Slash Plays in the mv Command
 
  Let’s say you’re moving a file to a different directory. You’re going to keep the same filename. In theory, this makes things easy because you don’t need to specify a target filename on the command line. By default, mv uses the original filename.
@@ -42,10 +49,10 @@ ls ~/Downloads/src
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
@@ -68,13 +75,6 @@ ls ~/Documents/backup/
     
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The original and target directories are both empty. Where did the file go?
 
  Bash tries to find a directory called backpu, but can't find one. It concludes you want to rename your moved file to backpu. You’ll find a file called backpu one directory level higher than your target directory.
@@ -82,6 +82,13 @@ ls ~/Documents/backup/
 ls -l ~/Documents
 
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
 
@@ -92,10 +99,10 @@ ls ~/Documents/backup
 ![Moving and renaming the misspelled file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The confusion and the hunt for the missing, badly-named file could have been avoided by adding a trailing slash to the target directory on the command line. That way, if you make a typo, Bash reports an error.
@@ -103,13 +110,6 @@ ls ~/Documents/backup
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 ![The trailing slash on the mv command line flags errors with the final directory name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The trailing slash explicitly tells Bash that this is a directory name, not a filename. Because Bash can’t find the misspelled directory, it reports the error to you and doesn’t move anything.
 
@@ -138,20 +138,24 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-subtitle-mastery-selecting-the-top-10-online-apps/"><u>[New] Free Subtitle Mastery Selecting the Top 10 Online Apps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-disrupt-unbidden-youtube-content-feeds/"><u>[Updated] 2024 Approved Disrupt Unbidden YouTube Content Feeds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>[Updated] From Concept to Click An In-Depth Look at GIF Memes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-transforming-youtube-content-for-igtv-success/"><u>[Updated] In 2024, Transforming YouTube Content for IGTV Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-for-podcast-cover-art-mastery/"><u>2024 Approved Innovative Approaches for Podcast Cover Art Mastery</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-100-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 100 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/five-to-fiveteen-tactics-against-oculus-discomfort-for-2024/"><u>Five to Fiveteen Tactics Against Oculus Discomfort for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gnome-videos-open-source-multimedia-for-windows-for-2024/"><u>GNOME Videos Open-Source Multimedia for Windows for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-data-analytics-methods-for-market-research-analysis/"><u>In 2024, Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-effective-image-pairing/"><u>In 2024, Innovative Methods for Effective Image Pairing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initiating-seamless-zoom-gatherings-for-2024/"><u>Initiating Seamless Zoom Gatherings for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/launching-into-the-future-the-latest-apple-iphone-released/"><u>Launching Into the Future: The Latest Apple iPhone Released</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-file-imports-into-windows-11-with-ease-for-2024/"><u>Mastering File Imports Into Windows 11 with Ease for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/passare-da-flac-a-wma-online-senza-costi-effettoconvertitore-facile-e-gratuito/"><u>Passare Da FLAC a WMA Online Senza Costi - EffettoConvertitore Facile E Gratuito</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-phantom-v-flip-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Phantom V Flip and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-review-comprehensive-look-at-videoshow-in-24/"><u>[New] Full Review - Comprehensive Look at VideoShow in '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hosting-charismatic-chats-keeping-audiences-hooked-live/"><u>[New] Hosting Charismatic Chats Keeping Audiences Hooked Live</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-effectively-move-files-between-two-ios-units/"><u>[New] How to Effectively Move Files Between Two iOS Units</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-watch-record-and-edit-football-matches-for-free/"><u>[New] How to Watch, Record, and Edit Football Matches for Free</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-end-scene-excellence-your-guide-to-yt-outro-mastery/"><u>[New] In 2024, End Scene Excellence Your Guide to YT Outro Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>[New] Nikon D500 Unveiled The Frontier of High-Definition Photography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-audiovisual-pro-perfect-ppt-presentation-recording-for-2024/"><u>[Updated] Audiovisual Pro Perfect PPT Presentation Recording for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cerebral-showcase-2024-exclusive-selection-of-trivia-streaming-sites/"><u>[Updated] Cerebral Showcase 2024 Exclusive Selection of Trivia Streaming Sites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-audio-mp3-conversion-from-skype-no-price/"><u>[Updated] Unlocking Audio Mp3 Conversion From Skype, No Price</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highest-quality-costless-clocks/"><u>2024 Approved Highest Quality Costless Clocks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-husqvarnas-sky-high-adventure-with-h501s-x4-review/"><u>2024 Approved Husqvarna's Sky-High Adventure with H501S X4 Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrators-secret-creating-seamless-image-movement/"><u>2024 Approved Illustrator's Secret Creating Seamless Image Movement</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/exploring-toms-hardware-the-ultimate-guide-to-new-technology/"><u>Exploring Tom's Hardware: The Ultimate Guide to New Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-configuring-various-network-setups-on-your-mac-for-optimal-connection-management-cnet-news/"><u>Guide to Configuring Various Network Setups on Your Mac for Optimal Connection Management | CNET News</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>In 2024, Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-raw-images-to-stunning-photos-your-guide-to-iphone-photomosaic-creation/"><u>In 2024, From Raw Images to Stunning Photos Your Guide to iPhone Photomosaic Creation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/secrets-to-proficient-gaming-recordings/"><u>Secrets to Proficient Gaming Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-future-of-filming-xs-100is-bold-journey/"><u>The Future of Filming XS 100I's Bold Journey</u></a></li>
 </ul></div>
 

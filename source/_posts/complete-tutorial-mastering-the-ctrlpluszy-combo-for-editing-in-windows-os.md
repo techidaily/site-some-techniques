@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS"
-date: 2024-10-30T20:38:29.155Z
-updated: 2024-11-04T09:53:01.583Z
+date: 2024-11-07T01:24:28.910Z
+updated: 2024-11-13T05:01:01.286Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
  If you've made a mistake on your Windows 10 or Windows 11 PC and would like to go back a step, it's easy to use the built-in "Undo" command. Similarly, you can sometimes also perform a "Redo" action to restore what you just undid. Here's how to perform both actions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Undo and (Sometimes) Redo Using Your Keyboard
 
  Almost every Windows app supports at least a simple, one-step Undo. To undo an action you just performed in Windows, press Ctrl+Z on your keyboard.
@@ -46,26 +39,32 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
 
  Also, in many applications—such as Microsoft Office apps—you can press Ctrl+Y or F4 on your keyboard to Redo the action you just undid. Another combination that is frequently redo is Ctrl+Alt+Z. 
 
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
@@ -79,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
  To perform an Undo in Office apps, click the curved, left-pointing arrow in the Quick Access Toolbar at the very top of the window.
 
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
 
@@ -101,20 +107,19 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhancing-engagement-with-dynamic-360-videos-on-facebook/"><u>[New] 2024 Approved Enhancing Engagement with Dynamic 360 Videos on Facebook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-bring-pics-into-action-blur-technique/"><u>[New] In 2024, Bring Pics Into Action Blur Technique</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-moto-z2-masterclass-smartphone-smarts-explored/"><u>[New] In 2024, Moto Z2 Masterclass Smartphone Smarts Explored</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-integrating-streamlabs-smoothly-with-obs-on-macbooks-for-2024/"><u>[New] Integrating Streamlabs Smoothly with OBS on MacBooks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-ranked-live-streamers-with-local-channel-access-2024/"><u>[Updated] Highest-Ranked Live Streamers with Local Channel Access, 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-huntings-top-5-high-quality-video-recorders/"><u>2024 Approved Hunting's Top 5 High-Quality Video Recorders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-8-upgrades-for-webcam-visual-quality/"><u>2024 Approved Innovative 8 Upgrades for Webcam Visual Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-cost-free-community-listings-on-oodle-platform/"><u>Experience Cost-Free Community Listings on Oodle Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hype-generating-headline-author-for-2024/"><u>Hype-Generating Headline Author for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-termination-immersive-reality-for-2024/"><u>Ideal Termination Immersive Reality for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>In 2024, FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus Nord CE 3 5G Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incredible-virtual-films-to-explore/"><u>In 2024, Incredible Virtual Films to Explore</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-system-storage-a-guide-to-overcoming-insufficient-resources-for-command-execution/"><u>Optimizing System Storage: A Guide to Overcoming 'Insufficient Resources for Command Execution'</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-canon-mg-series-printer-driver-installation-for-windows-users-versions-included/"><u>Step-by-Step Canon MG Series Printer Driver Installation for Windows Users (Versions Included)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unlock-your-fcp-potential-with-these-10-plugs/"><u>[Updated] In 2024, Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-action-quick-tips-for-online-photo-trimming/"><u>2024 Approved Expertise in Action Quick Tips for Online Photo Trimming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gliding-giants-olympic-skate-tales/"><u>2024 Approved Gliding Giants Olympic Skate Tales</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-lore-of-video-production-expert-insights/"><u>2024 Approved Luminous Lore of Video Production Expert Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flac-vs-alac-understanding-audio-file-formats-expert-comparison-by-movavi/"><u>FLAC vs ALAC: Understanding Audio File Formats - Expert Comparison by Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-integration-blocked-for-win10-device/"><u>Graphics Integration Blocked for Win10 Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-directx-drawing-challenges-step-by-step-solutions/"><u>How to Overcome DirectX Drawing Challenges: Step-by-Step Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>In 2024, 4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-pova-6-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Pova 6 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hybridmix-pro-for-dual-os/"><u>In 2024, HybridMix Pro for Dual OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>In 2024, In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/privacy-purposed-selecting-best-insta-watchers/"><u>Privacy-Purposed Selecting Best Insta Watchers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zen-5-cpus-enter-the-market-with-unchanged-fl1-packaging-signaling-retention-of-rtx-40-gpus-in-latest-laptop-models/"><u>Zen 5 CPUs Enter the Market with Unchanged FL1 Packaging, Signaling Retention of RTX 40 GPUs in Latest Laptop Models</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-11-03T09:23:58.656Z
-updated: 2024-11-04T05:18:15.439Z
+date: 2024-11-07T23:19:54.597Z
+updated: 2024-11-13T11:12:45.803Z
 tags:
   - desktop
 categories:
@@ -19,16 +19,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * The biggest downside of Auto SR is that it's only available on CoPilot+ PCs, since it needs an NPU to work.
 
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
 
@@ -63,10 +50,10 @@ Microsoft/Gearbox
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
@@ -78,6 +65,13 @@ Microsoft/Gearbox
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
@@ -102,10 +96,10 @@ Microsoft/Gearbox
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
@@ -133,22 +127,17 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-blip-to-big-time-the-9-laws-of-instagram-glory/"><u>[New] From Blip to Big Time The 9 Laws of Instagram Glory</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[New] From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-highlight-trail-from-skatescape-2022/"><u>[New] In 2024, The Ultimate Highlight Trail From Skatescape 2022</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-racing-revelry-junior-edition-for-2024/"><u>[New] Racing Revelry Junior Edition for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-on-iphone-ringtones-and-customization/"><u>[Updated] Expert Advice on iPhone Ringtones & Customization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-full-features-sony-fdr-x1000-model/"><u>[Updated] Exploring the Full Features Sony FDR-X1000 Model</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exposing-effective-promotions/"><u>[Updated] Exposing Effective Promotions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-facial-artistry-on-the-go-iphone-and-android-apps-review/"><u>[Updated] Facial Artistry on the Go IPhone & Android Apps Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-recording-sims-4-games-a-complete-beginners-guide/"><u>[Updated] Recording Sims 4 Games A Complete Beginner's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android/"><u>2024 Approved Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giggle-in-the-virtual-realm-how-to-create-your-own-hilarious-memes-for-2024/"><u>Giggle in the Virtual Realm How to Create Your Own Hilarious Memes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-websites-accelerating-youtube-traffic/"><u>In 2024, Foremost Websites Accelerating YouTube Traffic</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-10-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark 10 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://tools.techidaily.com/myusbonly/products/"><u>Myusbonly's Products</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srt-and-mp4-synergy-expert-advice-edition/"><u>SRT & MP4 Synergy Expert Advice Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-gtx-750-ti-driver-downloads/"><u>Streamlined GTX 750 Ti Driver Downloads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-instagram-leadership-for-2024/"><u>[New] Step-by-Step Guide to Instagram Leadership for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-sing-your-own-song-with-an-iphone-ringtone/"><u>[Updated] How to Sing Your Own Song with an iPhone Ringtone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y17s-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-reality-selecting-top-3d-animators-software/"><u>2024 Approved From Concept to Reality Selecting Top 3D Animators' Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-asmr-can-boost-your-health-and-happiness/"><u>2024 Approved How ASMR Can Boost Your Health & Happiness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-user-manual-navigating-through-different-ipados-releases/"><u>Complete User Manual: Navigating Through Different iPadOS Releases</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153298705-essential-silicon-insights-lost-but-now-found-top-4-discoveries/"><u>Essential Silicon Insights, Lost But Now Found - Top 4 Discoveries!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-picture-in-picture-features-on-sierras-operating-systems-for-2024/"><u>Exploring Picture in Picture Features on Sierra's Operating Systems for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-x50iplus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor X50i+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-tutorial-on-converting-your-2018-world-cup-footage-to-optimal-mp4-playback-quality/"><u>The Ultimate Tutorial on Converting Your 2018 World Cup Footage to Optimal MP4 Playback Quality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/thermopro-tp67-examination-low-price-comes-with-high-unreliability-risks/"><u>ThermoPro TP67 Examination: Low Price Comes with High Unreliability Risks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-nokia-g22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Nokia G22 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

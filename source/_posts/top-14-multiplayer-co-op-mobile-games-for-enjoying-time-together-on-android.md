@@ -1,7 +1,7 @@
 ---
 title: Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android
-date: 2024-10-31T02:37:45.504Z
-updated: 2024-11-03T23:04:20.115Z
+date: 2024-11-08T08:34:16.258Z
+updated: 2024-11-12T20:54:50.354Z
 tags:
   - mobile
 categories:
@@ -30,11 +30,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Have you ever spent a casual afternoon in stitches because one of your friends kept setting off all the traps? If yes, you know how much fun co-op gaming can be. Alas, Android games that aren't PvP games are hard to come by, so I've curated a list of games that are an absolute blast to play with friends.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 [Otherworld Legends](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en%5FUS) 
 
 _Otherworld Legends_ is my favorite roguelite Android game of all time. It's great to play alone or with up to three other players. The game features several procedurally-generated dungeons with a boss fight at the end of each level, and in the end, you get to the main boss. Like in other similar games, the enemies' health and damage scales with the number of players.
 
  When you die or defeat the final boss, you're taken back to the main hub called the "Living Room," where a rich cast of playable characters and NPCs greets you. Each hero has multiple spells that completely change your playstyle, allowing you and your friends to come up with unique builds and hero combos.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 [Minecraft](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en%5FUS) 
 
@@ -45,22 +65,15 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
  I first played _Gunfire Reborn_ on PC and absolutely loved it, so I was ecstatic to hear that the game is out on Android, too (though it only supports cross-platform between Android and iOS). It's a fun roguelite first-person shooter with low-poly, cel-shaded graphics reminiscent of the _Borderlands_ franchise. You and up to three other friends work together to kill enemies (including bosses), collect loot, and unlock talents.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 [PewPew Live](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.jyaif.pewpewlive) 
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
@@ -78,23 +91,9 @@ _Bloons TD 6_ is one of the best tower defense games on Android, so it's great t
 
  If you want a serious co-op game, maybe it's best to get a co-op-only game, which is what we have here with _The Past Within_. The game is a two-player cross-platform co-op game that requires constant communication with your teammate. You're in the same environment, but one of you is in the future, and the other in the past, and you have to work together to solve puzzles in both 2D and 3D. The puzzles aren't too challenging, so it's the perfect type of game to play with [someone who isn't into games](https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9 [Keep Talking & Nobody Explodes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en%5FUS) 
 
 _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where you have to defuse a bomb before the timer goes off. The catch is that your friends are the ones with the manual, which is purposefully complicated to navigate. The bomb contains up to 11 modules that you have to disarm. The only downside is the relatively steep price tag, but you only need one copy, as the defusal manual is in PDF format and [available online](https://bombmanual.com/) for free.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 [Pepelo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.Tafusoft.Pepelo&hl=en) 
 
@@ -103,6 +102,13 @@ _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The 
 ## 11 [Maximus 2](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.FourFats.Maximus2) 
 
 _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too seriously. The game supports co-op with up to four players, but the coolest part is that you can all play on a single device if you have Bluetooth controllers. You progress through different levels, fight bosses, and you heal and revive your teammates.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12 [Northgard](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.playdigious.northgard) 
 
@@ -113,10 +119,10 @@ _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too ser
  Here we have another 2D beat-em-up side-scroller, but this time, it's a childhood franchise we all love and cherish—_Teenage Mutant Ninja Turtles_. _TMNT: Shredder's Revenge_ supports six-player cross-platform co-op; you can play as one of the four iconic turtles, but there are a few other characters as well, like Splinter and April. By the way, you can heal your friends by [high-fiving](https://screenrant.com/tmnt-shredders-revenge-how-to-heal-teammates-guide/) them.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 14 [Storiado](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.beakbyte.storiado) 
@@ -142,14 +148,20 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-professional-slideshow-resources-for-entrepreneurs/"><u>[New] Free Professional Slideshow Resources for Entrepreneurs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-top-10-drones-filmmakings-visual-frontiers/"><u>[Updated] Prime Top 10 Drones Filmmaking's Visual Frontiers</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-premium-cordless-telephones-for-the-year-2024/"><u>Elite Selection of Premium Cordless Telephones for the Year 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-harness-analytics-for-live-event-success-for-2024/"><u>How to Harness Analytics for Live Event Success for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminating-the-path-from-auto-to-4th-gen-hdr-shooting-for-2024/"><u>Illuminating the Path From Auto to 4Th Gen HDR Shooting for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>In 2024, From Zero to Meme Hero Crafting Engaging GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-online-locations-for-metallic-3d-lettering/"><u>In 2024, High-End Online Locations for Metallic 3D Lettering</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-dull-to-dynamic-a-pros-guide-to-shade-shifting/"><u>[New] From Dull to Dynamic A Pro's Guide to Shade Shifting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-avoiding-common-pitfalls-in-drone-battery-choices-for-2024/"><u>[Updated] Avoiding Common Pitfalls in Drone Battery Choices for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-precision-cuts-at-a-touch-select-the-best-short-form-editors/"><u>[Updated] Precision Cuts at a Touch Select the Best Short Form Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tunefab-revolutionizing-the-art-of-video-capture/"><u>2024 Approved Tunefab Revolutionizing the Art of Video Capture</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/childrens-superiority-in-acquiring-second-languages/"><u>Children's Superiority in Acquiring Second Languages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-guide-the-intricate-process-of-media-import-in-w11-for-2024/"><u>Exclusive Guide The Intricate Process of Media Import in W11 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-gear-comparison-gopros-best-match-ghost-s-drift-for-2024/"><u>High Gear Comparison GoPro's Best Match? Ghost-S Drift for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-long-is-a-video-at-20-megabits-in-2024/"><u>How Long Is a Video at 20 Megabits, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-skyrims-adventure-the-best-elder-scrolls-game-for-nintendo-switch-reviewed/"><u>Immerse Yourself in Skyrim's Adventure: The Best Elder Scrolls Game for Nintendo Switch Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-archive-to-annotation-turning-zip-into-srt/"><u>In 2024, From Archive to Annotation Turning ZIP Into SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grow-picture-dimensions-maintain-fidelity/"><u>In 2024, Grow Picture Dimensions, Maintain Fidelity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-sound-dynamics-in-ableton/"><u>In 2024, Harmonizing Sound Dynamics in Ableton</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-a05s-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy A05s To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-wevideo-easily-create-videos-online/"><u>Updated 2024 Approved WeVideo Easily Create Videos Online</u></a></li>
 </ul></div>
 

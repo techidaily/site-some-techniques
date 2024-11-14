@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-11-03T04:12:45.288Z
-updated: 2024-11-04T00:22:27.574Z
+date: 2024-11-10T10:30:54.981Z
+updated: 2024-11-13T11:13:52.231Z
 tags:
   - deals
 categories:
@@ -21,11 +21,25 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 * [Registry Hack for Unsupported CPUs and/or Only TPM 1.2](https://mondly-stories.techidaily.com/linguistic-tools-portuguese-shortcuts-in-brazil-and-europe/)
 * [PCs With No TPM at All, No UEFI, or Other Major Problems](https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To install Windows 11 on an unsupported PC, try making the PC supported by enabling TPM 2.0, Secure Boot, and switching to GPT. If those features cannot be enabled on your PC, you must use a few registry hacks to force Windows 11 to install.
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Upgrade an Unsupported PC?
 
@@ -39,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  In some situations, you can make your PC officially supported with a configuration change or two.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to See Why Your PC Is Unsupported
 
  You can [check if Windows 11 supports your PC](https://remote-screen-capture.techidaily.com/2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/) by downloading and running [Microsoft's PC Health Check app](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck).
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  If Windows 11 doesn't officially support your PC, the PC Health Check will say it "doesn't currently meet Windows 11 system requirements" and tell you why. If the tool reports your PC is unsupported, the process you need to follow will depend on the problem it reports. You may just have to change a setting in your PC's [UEFI firmware (the modern replacement for the BIOS)](https://twitter-videos.techidaily.com/updated-expert-tips-for-twitter-video-interactions/) to make your PC supported — or the process may be more involved.
 
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
 
@@ -72,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benj Edwards / How-To Geek
 
 ##  How to Enable Secure Boot
@@ -92,19 +99,19 @@ Benj Edwards / How-To Geek
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Fix No UEFI (MBR Instead of GPT)
@@ -127,13 +134,6 @@ Benj Edwards / How-To Geek
 
 ![Launch regedit in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/open-regedit.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the following address into the address bar in the Registry Editor window (or navigate to it in the left pane):
 
 HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
@@ -147,10 +147,16 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
@@ -198,16 +204,20 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-perfecting-youtube-videos-through-enhancement-tips/"><u>[New] 2024 Approved Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-flat-screens-to-spatial-storytelling-understanding-vr/"><u>[New] From Flat Screens to Spatial Storytelling Understanding VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-connoisseur-of-funimate-games/"><u>[New] From Novice to Connoisseur of Funimate Games</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-save-time-and-energy-with-two-way-recording-on-google-meets/"><u>[Updated] 2024 Approved How to Save Time and Energy with Two-Way Recording on Google Meets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>[Updated] How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-still-life-to-dynamic-visual-narrative/"><u>2024 Approved From Still Life to Dynamic Visual Narrative</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>2024 Approved Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expanded-api-horizons-gpt-chat-whisper-for-businesses/"><u>Expanded API Horizons: GPT-Chat, Whisper for Businesses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-methods-for-converting-swf-files-into-avi-format-a-comprehensive-guide/"><u>Free Methods for Converting SWF Files Into AVI Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-10-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 10 Pro 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguarding-ai-conversations-expert-guide-to-thwarting-model-inversion-attacks-on-your-bot/"><u>Safeguarding AI Conversations: Expert Guide to Thwarting Model Inversion Attacks on Your Bot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-pro-3-the-latest-in-action-cameras-from-ion/"><u>[New] Exploring the Pro 3 - The Latest in Action Cameras From ION</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-z-axis-in-your-text-art/"><u>[New] Finding the Z-Axis in Your Text Art</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-movies-for-free-simple-video-player-software/"><u>[Updated] Explore Movies for Free Simple VIDEO Player Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-gaming-top-5-psvr-releases-on-the-horizon/"><u>[Updated] Future Gaming Top 5 PSVR Releases on the Horizon</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-maximize-focus-with-enhanced-zoom-on-google-meet/"><u>[Updated] How to Maximize Focus with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-strategies-for-displaying-your-screen-in-google-meet-for-2024/"><u>[Updated] Innovative Strategies for Displaying Your Screen in Google Meet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-immediate-streams-from-obs-to-insta/"><u>2024 Approved Immediate Streams From OBS to Insta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-video-edits-leveraging-kinemasters-techniques/"><u>2024 Approved Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-sound-fades-within-logic-pro-settings/"><u>2024 Approved Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/5-youtubemp4avi/"><u>最新フリーなビデオコンバーター5種類 - YouTube、MP4、AVIに対応</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-the-sunday-barrier-chick-fil-as-new-strategy-to-boost-weekend-sales-unveiled/"><u>Breaking the Sunday Barrier: Chick-Fil-A's New Strategy to Boost Weekend Sales Unveiled</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/come-utilizzare-i-prompt-della-riga-di-comando-per-copiare-il-sistema-operativo-e-lintero-disco/"><u>Come Utilizzare I Prompt Della Riga Di Comando per Copiare Il Sistema Operativo E L'Intero Disco</u></a></li>
+<li><a href="https://fox-access.techidaily.com/demystifying-the-use-of-luts-in-professional-photoshop-workflows-for-2024/"><u>Demystifying the Use of LUTs in Professional Photoshop Workflows for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-for-transforming-sporty-pilot-training-videos-into-downloaded-formats-mp4-mp3/"><u>Guide for Transforming Sporty Pilot Training Videos Into Downloaded Formats (MP4, MP3)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-landscape-a-guide-to-using-hashtags-on-facebook-for-2024/"><u>Navigating the Landscape A Guide to Using Hashtags on Facebook for 2024</u></a></li>
 </ul></div>
 

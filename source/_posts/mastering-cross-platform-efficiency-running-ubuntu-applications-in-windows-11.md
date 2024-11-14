@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-10-28T09:27:27.159Z
-updated: 2024-11-04T10:19:02.219Z
+date: 2024-11-11T12:39:03.638Z
+updated: 2024-11-13T04:23:09.235Z
 tags:
   - deals
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Use Ubuntu Apps on Windows 11?
 
  Adding Ubuntu to Windows 11 enables access to a wide variety of free applications unavailable on Windows alone. These aren't just ordinary programs either; they can accomplish nearly any task on your computer, from enhancing your file management to creative projects. For example, if you're looking for a great photo management tool not found on Windows 11, you might try [Shotwell](https://shotwell-project.org/doc/html/) with WSL. Or, if you're not a fan of the email apps available on Windows, you can install the Ubuntu-native [Geary](https://wiki.gnome.org/Apps/Geary) email client. There are many great exclusive applications for Ubuntu that can level up your Windows PC.
@@ -34,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Requirements Before You Begin
@@ -63,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing Ubuntu
@@ -85,6 +72,19 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  After Ubuntu 22.04.3 LTS has finished installing on Windows 11, access the Windows Start Menu, search for "Ubuntu 22.04.3 LTS," and launch it. Upon its first launch, Ubuntu will automatically configure itself and prepare for use.
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
@@ -109,28 +116,15 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
@@ -146,13 +140,6 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -182,6 +169,13 @@ nohup program_name & disown
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Troubleshooting Common Setup Issues
 
  WSL usually installs without a hitch on Windows 11\. However, if you're having issues, there is a quick and easy fix. First, open up PowerShell in Windows 11\. Once it is open, use the update command for WSL. Updating WSL will install various patches and fixes that are sure to alleviate the issues you're experiencing.
@@ -209,21 +203,24 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exceptional-20-no-license-pubg-images/"><u>[New] Exceptional 20 No-License PUBG Images</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-earning-success-on-tiktok-unraveling-the-top-8-pathways/"><u>[New] In 2024, Earning Success on TikTok Unraveling the Top 8 Pathways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-metaverse-meme-landscape/"><u>[Updated] Exploring the Metaverse Meme Landscape</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-five-innovative-apple-podcast-options/"><u>[Updated] Five Innovative Apple Podcast Options</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-how-to-secretly-share-moments-with-instagram-live-for-2024/"><u>[Updated] How to Secretly Share Moments with Instagram Live for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>[Updated] In 2024, Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-guide-to-installing-microsofts-movie-maker/"><u>[Updated] In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-joining-the-digital-dialogue-facebook-basics-for-2024/"><u>[Updated] Joining the Digital Dialogue (Facebook Basics) for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-convert-audio-online-mp3-to-youtube-live-upload-guide/"><u>2024 Approved Convert Audio Online MP3 to YouTube Live Upload Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/fb-takes-aim-at-misinformation-issues-stricter-fines/"><u>FB Takes Aim at Misinformation, Issues Stricter Fines</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guia-paso-a-paso-para-copiar-tu-os-directamente-a-una-ssd-samsung-sin-reformatear-ni-instalar-de-nuevo/"><u>Guía Paso a Paso Para Copiar Tu OS Directamente a Una SSD Samsung: Sin Reformatear Ni Instalar De Nuevo</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-mematic-for-efficient-note-taking-for-2024/"><u>Harness Mematic for Efficient Note-Taking for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-8-best-free-3d-video-player-for-window-and-mac/"><u>In 2024, 8 Best Free 3D Video Player for Window and Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frosty-feats-at-the-olympics-of-2022/"><u>In 2024, Frosty Feats at the Olympics of 2022</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-game-capture-kings-for-2024/"><u>In-Game Capture Kings for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcome-issues-with-hitman-3-initial-launch-failure-on-windows/"><u>Resolved: Overcome Issues with Hitman 3 Initial Launch Failure on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-ffmpeg-written-by-user/"><u>[New] Examining FFmpeg' Written by User</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fine-tuning-your-videoleap-recordings-a-zoom-guide/"><u>[New] Fine-Tuning Your Videoleap Recordings A Zoom Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>[New] From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-humorous-gifry-on-giphy-network/"><u>[New] Innovate Humorous Gifry on Giphy Network</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unmatched-video-capturing-reviews-of-the-best-apps-for-2024/"><u>[New] Unmatched Video Capturing Reviews of the Best Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-10-best-free-luts-roundup-download-links-galore-for-2024/"><u>[Updated] 10 Best Free LUTs Roundup - Download Links Galore for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-dissolves-with-ableton-live/"><u>[Updated] 2024 Approved Crafting Dissolves with Ableton Live</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-iphone-images-jpeg-png-guided-conversion-to-pdfs/"><u>[Updated] From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-hits-lifetime-access-to-memes/"><u>[Updated] Humorous Hits Lifetime Access to Memes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-proven-hashtag-hacks-for-amplifying-your-tiktok-presence/"><u>[Updated] In 2024, Proven Hashtag Hacks for Amplifying Your TikTok Presence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-an-engaging-zoom-youtube-live-session/"><u>2024 Approved Expert Strategies for an Engaging Zoom YouTube Live Session</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-capture-to-clarity-the-complete-guide-for-garageband-editors/"><u>2024 Approved From Capture to Clarity The Complete Guide for GarageBand Editors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-health-ambitions-a-step-by-step-approach-using-chatgpt-assistance/"><u>Elevating Health Ambitions: A Step-by-Step Approach Using ChatGPT Assistance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-manipulating-iphone-photos/"><u>In 2024, Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>In 2024, High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-stop-speaker-buzzing-with-these-simple-steps/"><u>Quick Solutions: Stop Speaker Buzzing with These Simple Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-endurance-of-electric-vehicles-in-extreme-weather-are-they-up-to-the-challenge/"><u>The Endurance of Electric Vehicles in Extreme Weather – Are They Up to the Challenge?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-big-leap-in-arvr-tech-qutech-glasses-from-qualcomms-alliance-with-samsung-and-google/"><u>The Next Big Leap in AR/VR Tech - QuTech Glasses From Qualcomm's Alliance with Samsung and Google</u></a></li>
 </ul></div>
 

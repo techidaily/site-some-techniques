@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-10-31T07:51:29.340Z
-updated: 2024-11-04T10:29:53.538Z
+date: 2024-11-11T10:16:05.937Z
+updated: 2024-11-13T02:06:36.862Z
 tags:
   - deals
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Rename a Specific File
 
  To give a new name to a specific file on your PC, use PowerShell’s Rename-Item [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/). This cmdlet takes your file’s full path, the new name you want to assign, and renames your file.
@@ -56,6 +49,13 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Rename Files in a Folder With an Increasing Number
 
  If you want to add an increasing number, such as 1, 2, 3, and so on, to your files in a specific folder, follow these steps.
@@ -67,23 +67,23 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
+<span id="1983545">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -105,10 +105,10 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
@@ -132,17 +132,15 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-compreranly-assessing-ustream-with-equivalent-sites-for-2024/"><u>[New] Compreranly Assessing Ustream with Equivalent Sites for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-second-count-for-a-20mb-visual-file/"><u>[Updated] Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-polarr-photo-editor-features-in-detail/"><u>[Updated] Explore Polarr Photo Editor Features in Detail</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>[Updated] TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-superior-video-capture-leading-webcams-for-podcasts/"><u>2024 Approved Superior Video Capture Leading Webcams for Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-advice-elevating-your-nba-live-viewing-for-2024/"><u>Expert Advice Elevating Your NBA Live Viewing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-started-initial-setup-tasks-for-your-latest-tech-gadget/"><u>How to Get Started: Initial Setup Tasks for Your Latest Tech Gadget</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-meditation-tracks/"><u>In 2024, Freedom in Meditation Tracks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207621444-step-by-step-guide-to-restore-bluetooth-on-your-windows-11-pc-fast-fixes/"><u>Step-by-Step Guide to Restore Bluetooth on Your Windows 11 PC - Fast Fixes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-accessing-and-reviewing-your-printer-activity-logs-on-windows-10/"><u>Step-by-Step Guide: Accessing and Reviewing Your Printer Activity Logs on Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/tech-triumphs-10-high-definition-screen-recorder-tools/"><u>Tech Triumphs #10 High-Definition Screen Recorder Tools</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-into-the-future-our-curated-list-of-the-top-9-next-gen-ai-voice-systems-to-revolutionize-your-2023-experience/"><u>Updated In 2024, Step Into the Future Our Curated List of the Top 9 Next-Gen AI Voice Systems to Revolutionize Your 2023 Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-wirecast-and-facebook-creating-high-quality-live-streams/"><u>[New] In 2024, Wirecast and Facebook Creating High-Quality Live Streams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premier-streamers-ultimate-concert-selection-for-2024/"><u>[New] Premier Streamers Ultimate Concert Selection for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exhaustive-overview-insights-into-googles-podcast-application/"><u>[Updated] Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-no-cost-premiere-pro-resource-pack/"><u>2024 Approved Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-a-handful-of-personalized-endings-at-zip/"><u>2024 Approved Get a Handful of Personalized Endings, at Zip</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhance-your-sites-personalization-and-analytics/"><u>Cookiebot-Enabled: Enhance Your Site's Personalization and Analytics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-navigating-around-key-blunders-with-chatgpt-prompts/"><u>Essential Dos and Don'ts: Navigating Around Key Blunders with ChatGPT Prompts</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-frameworks-for-every-movie-epilogue-you-dream/"><u>In 2024, Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-4-methods-for-watching-movies-on-your-ipad-using-and-not-using-itunes/"><u>Top 4 Methods for Watching Movies on Your iPad: Using and Not Using iTunes</u></a></li>
 </ul></div>
 

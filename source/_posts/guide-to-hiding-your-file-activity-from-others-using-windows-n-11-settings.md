@@ -1,7 +1,7 @@
 ---
 title: Guide to Hiding Your File Activity From Others Using Windows N 11 Settings
-date: 2024-11-01T18:44:44.012Z
-updated: 2024-11-04T00:40:39.441Z
+date: 2024-11-12T10:57:19.725Z
+updated: 2024-11-13T03:18:41.411Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Stop Windows From Keeping Recent Items History](https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/)
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To manually remove recently accessed items from File Explorer, select the items you wish to delete, right-click, and select "Remove From Recent."
@@ -26,10 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Manually Remove Recently Accessed Items
@@ -38,16 +45,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
 
 ![Removing a recently accessed folder from the File Explorer's Jump List.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-removing-a-recently-accessed-folder-from-the-file-explorer-s-jump-list.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's important to note that removing items in this way only removes them from the Recent section in File Explorer and the jump list; they will remain intact in the Recent Items folder, where the record is stored. If you want to ensure others don't know what files and folders you've accessed, remove them from there as well.
 
@@ -82,22 +89,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
 ![Clearing File Explorer history from the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-clearing-file-explorer-history-from-the-folder-options-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By doing so, you will erase all the information, and File Explorer will start recording new actions from scratch, ensuring your privacy. Besides clearing your history, you can [customize many other settings](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) in Windows 11 to protect your privacy.
 
@@ -116,16 +116,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>[New] In 2024, Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-cross-platform-media-engines-a-buyers-guide/"><u>[New] Mastering Cross-Platform Media Engines A Buyer's Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/amvwmvmovavi/"><u>在线无价格转换AMV成WMV：如何使用Movavi工具</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gaming-galore-top-10-virtual-reality-for-phones-for-2024/"><u>Gaming Galore Top 10 Virtual Reality for Phones for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-14-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Plus Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-perfect-phone-shot-blur/"><u>In 2024, Find the Perfect Phone Shot Blur</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hummingbird-hustle/"><u>In 2024, Harmonious Hummingbird Hustle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-transfer-playlists-between-music-services/"><u>In 2024, How to Transfer Playlists Between Music Services</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-top-7-video-apps-for-apple-devices/"><u>[New] Ideal Top 7 Video Apps for Apple Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-the-secrets-to-earnings-on-youtube-shorts/"><u>[New] Unlocking the Secrets to Earnings on YouTube Shorts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlining-meetings-with-snap-camera-on-teams/"><u>[Updated] In 2024, Streamlining Meetings with Snap Camera on Teams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ready-for-screen-talent-access-agreement-for-2024/"><u>[Updated] Ready for Screen Talent Access Agreement for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pilot-to-producer-editing-mastery-in-drone-filmmaking/"><u>2024 Approved From Pilot to Producer Editing Mastery in Drone Filmmaking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-unbeatable-deals-on-all-your-favorite-presents-at-best-buys-exclusive-final-countdown/"><u>Discover Unbeatable Deals on All Your Favorite Presents at Best Buy's Exclusive Final Countdown!</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-honor-90-gt-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor 90 GT Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhanced-virtual-storefronts-analysis/"><u>Enhanced Virtual Storefronts Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cut-to-connect-advanced-editing-with-kinemaster-for-2024/"><u>From Cut to Connect Advanced Editing with Kinemaster for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-monochrome-to-multicolor-grading-journey-for-2024/"><u>From Monochrome to Multicolor Grading Journey for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v30-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V30 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flip-page-film-narrative-guide/"><u>In 2024, Flip Page Film Narrative Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-flashy-podcast-announcements/"><u>In 2024, Formulating Flashy Podcast Announcements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-illumination-to-inky-tones-pro-fades/"><u>In 2024, From Illumination To Inky Tones Pro Fades</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-and-create-ranked-list-of-best-drawing-apps-for-android-users/"><u>In 2024, Innovate and Create Ranked List of Best Drawing Apps for Android Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stabilizing-high-flying-camera-work-a-guide/"><u>In 2024, Stabilizing High-Flying Camera Work A Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unraveling-the-secrets-of-recording-hulu-across-computersmobile-for-2024/"><u>Unraveling the Secrets of Recording Hulu Across Computers/Mobile for 2024</u></a></li>
 </ul></div>
 

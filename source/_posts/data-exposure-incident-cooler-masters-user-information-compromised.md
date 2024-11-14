@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-11-01T01:28:21.332Z
-updated: 2024-11-03T17:51:57.016Z
+date: 2024-11-10T02:15:27.443Z
+updated: 2024-11-12T21:13:54.883Z
 tags:
   - web
 categories:
@@ -38,28 +38,21 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-examining-vidma-as-a-video-recorder-for-screens/"><u>[Updated] 2024 Approved Examining Vidma as a Video Recorder for Screens</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-pubg-sound-personalization/"><u>[Updated] 2024 Approved Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-seamlessly-download-and-install-movie-maker-6/"><u>[Updated] How to Seamlessly Download and Install Movie Maker 6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-search-of-perfection-gopros-1-10-case-review/"><u>[Updated] In Search of Perfection - GoPro's #1-10 Case Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exemplar-storyboard-creators-circle/"><u>2024 Approved Exemplar Storyboard Creator's Circle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infuse-sound-with-microsoft-powerpoint-decks/"><u>2024 Approved Infuse Sound with Microsoft PowerPoint Decks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-compass-for-content-creators-steering-towards-viral-instagram-success/"><u>2024 Approved The Compass for Content Creators Steering Towards Viral Instagram Success</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-battery-powered-google-nest-doorbell-review/"><u>Comprehensive Battery-Powered Google Nest Doorbell Review</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-para-activar-archivo-sin-conexion-de-windows-11-y-sincronizarlo/"><u>Guía Para Activar Archivo Sin Conexión De Windows 11 Y Sincronizarlo</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extended-examination-of-uncomplicated-hdr-photography/"><u>In 2024, Extended Examination of Uncomplicated HDR Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-vector-art-exploring-kinds-applications/"><u>In 2024, First Steps in Vector Art Exploring Kinds, Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-forego-youtube-previews-to-enjoy-live-videos/"><u>In 2024, Forego YouTube Previews to Enjoy Live Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-x8b-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor X8b Face Lock?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigate-with-ease-mastering-ifunnys-meme-app-for-2024/"><u>Navigate with Ease Mastering iFunny's Meme App for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-horned-gods-hearing-essential-websites-for-got-sound-files/"><u>[Updated] Horned God's Hearing Essential Websites for GoT Sound Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-diy-techniques-transforming-smartphones-into-webcams/"><u>[Updated] In 2024, DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unraveling-periscopes-mystique-is-it-free-and-how-to-signup/"><u>[Updated] In 2024, Unraveling Periscope's Mystique Is It Free and How to Signup?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-strategies-for-effective-whiteboard-interaction-during-online-engagement-across-multiple-systems-for-2024/"><u>[Updated] Strategies for Effective Whiteboard Interaction During Online Engagement Across Multiple Systems for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-for-beginners-the-top-8-versatile-cameras-under-400/"><u>2024 Approved For Beginners The Top 8 Versatile Cameras Under $400</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-flat-to-fierce-transformative-color-workflows/"><u>2024 Approved From Flat to Fierce Transformative Color Workflows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-final-cut-pro-for-free/"><u>In 2024, How to Get Final Cut Pro for Free</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/fic-profits-from-youtube-universal-strategies-unveiled-for-2024/"><u>Prolific Profits From YouTube Universal Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-choose-lucyd-lyte-discovering-the-surprising-relationship-of-smart-glasses-with-chatgpts-constraints/"><u>Why Choose Lucyd Lyte? Discovering the Surprising Relationship of Smart Glasses with ChatGPT's Constraints</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

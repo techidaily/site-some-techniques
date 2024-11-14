@@ -1,7 +1,7 @@
 ---
 title: Reviving Classic File Explorer on Your New Windows 11 System
-date: 2024-10-30T08:53:44.185Z
-updated: 2024-11-04T07:02:01.100Z
+date: 2024-11-07T19:24:24.080Z
+updated: 2024-11-13T11:10:12.935Z
 tags:
   - deals
 categories:
@@ -19,11 +19,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With Windows 11's minimal File Explorer design, Microsoft sacrificed a lot of useful features found in the old Windows 10 ribbon-style File Explorer. There are some ways you can still use that old File Explorer inside Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Access the Old File Explorer from Control Panel
 
  The quickest way to access [Windows 10 File Explorer](https://youtube-web.techidaily.com/ed-2024-approved-streamers-financial-health-check-in-youtubers/) is through the Control Panel. Go to Search and enter **Control Panel**, then go to the top result.
 
 ![Opening Control Panel from Search on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/opening-control-panel-from-search-on-windows-11.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Press the up arrow button repeatedly. Alternatively, hit Alt+Up Arrow on your keyboard.
 
@@ -33,22 +47,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows 10 File Explorer in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can explore different drives and folders. The Windows 10 File Explorer will remain as long as you continue surfing inside this window. However, once you exit the window and open a new window as you usually do, it will go back to the [Windows 11 File Explorer](https://twitter-videos.techidaily.com/efficiency-in-social-media-sharing-tweets-with-snapchat/).
 
  So, this isn't a permanent solution, nor is it convenient to [open the Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/) whenever you'd like to use the old File Explorer. That's where ExplorerPatcher and StartAllBack, two handy tools, will help you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use ExplorerPatcher to Bring Back Windows 10's File Explorer
@@ -64,10 +71,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows 10 Taskbar in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-taskbar-in-windows-11-using-explorerpatcher.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now let's change the File Explorer. To access ExplorerPatcher, go to Search and enter **Properties**, then select the top result.
@@ -77,13 +84,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  On the left side, go to "File Explorer." From the Control Interface drop-down menu, choose "Windows 10 Ribbon."
 
 ![Changing to Windows 10 Ribbon using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-explorerpatcher.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open File Explorer, and you'll discover it has the Windows 10 Ribbon instead of the Windows 11 command bar.
 
@@ -97,14 +97,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Uninstalling ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/uninstalling-explorerpatcher.png) 
 
- When you see the uninstalling prompt, press "Yes." If you'd like to learn more about what you can do with ExplorerPatcher, check out [the official wiki](https://github.com/valinet/ExplorerPatcher/wiki/All-features).
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When you see the uninstalling prompt, press "Yes." If you'd like to learn more about what you can do with ExplorerPatcher, check out [the official wiki](https://github.com/valinet/ExplorerPatcher/wiki/All-features).
 
 ##  Using StartAllBack
 
@@ -126,16 +126,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows 10 File Explorer in Windows 11 using StartAllBack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11-using-startallback.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You may notice that the default Windows 10 File Explorer in StartAllBack isn't 100% faithful. You can play with the different settings to make it look exactly like Windows 10\. If you'd like to access StartAllBack later, right-click the Taskbar and click on "Properties."
 
 ![Accessing StartAllBack from the Windows Taskbar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accessing-startallback-from-the-windows-taskbar.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can uninstall StartAllBack from the Control Panel or use the [Winget package manager](https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-xs-by-drfone-ios/).
 
@@ -158,20 +158,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-enhance-motion-capture-choose-wisely-among-gear-for-2024/"><u>[New] Enhance Motion Capture - Choose Wisely Among Gear for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flexible-cam-mount-revolutionary-positioning-control/"><u>[New] Flexible Cam Mount Revolutionary Positioning Control</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-organize-photo-album-on-iphone-and-icloud/"><u>[New] How To Organize Photo Album On iPhone And iCloud</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-groups-shaping-future-of-vr-worlds/"><u>[New] Innovative Groups Shaping Future of VR Worlds</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-stream-youtube-in-the-background-using-iphone-and-android-for-2024/"><u>[Updated] Stream YouTube in the Background Using iPhone & Android for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-vlc-options-and-rivals/"><u>2024 Approved Exploring VLC Options and Rivals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-slide-show-apps-from-iphone-6-to-xs-max/"><u>2024 Approved Ideal Slide Show Apps From iPhone 6 to XS Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-ace-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your OnePlus Ace 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-channel-your-inner-metaverse-wit-for-2024/"><u>How to Channel Your Inner Metaverse Wit for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-eliminate-the-orange-hue-on-your-iphone-screen-a-step-by-step-guide/"><u>How to Eliminate the Orange Hue on Your iPhone Screen - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-deciphering-digital-narratives-building-blocks/"><u>In 2024, Deciphering Digital Narratives' Building Blocks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-google-image-mastery-rapid-and-remarkable-mosaics-created/"><u>In 2024, Google Image Mastery Rapid & Remarkable Mosaics Created</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-accessible-ai-frontier-gpt-4-for-everyone/"><u>The Accessible AI Frontier: GPT-4 for Everyone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-all-embracing-audit-evaluating-the-gecata-game-monitor-for-2024/"><u>[New] All-Embracing Audit Evaluating the Gecata Game Monitor for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-friends-in-fandoms-forums/"><u>[Updated] 2024 Approved Find Friends in Fandom's Forums</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-premium-giggle-and-graphics-editor-for-2024/"><u>[Updated] Premium Giggle & Graphics Editor for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-muddled-to-clear-mastering-photo-bg-removal/"><u>2024 Approved From Muddled to Clear Mastering Photo Bg Removal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-proof-your-data-with-top-30-free-unlimited-1tbplus-options/"><u>2024 Approved Future-Proof Your Data with Top 30 Free, Unlimited (1TB+) Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-picks-15-free-antivirus-solutions-to-secure-your-device-today/"><u>Discover Our Picks: 15 Free Antivirus Solutions to Secure Your Device Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimp-tutorial-mastering-filters-and-layers-for-2024/"><u>GIMP Tutorial Mastering Filters & Layers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guiding-principles-for-integrating-videos-in-education-for-2024/"><u>Guiding Principles for Integrating Videos in Education for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-teaching-transformative-learning-for-2024/"><u>Immersive Teaching, Transformative Learning for 2024</u></a></li>
 </ul></div>
 

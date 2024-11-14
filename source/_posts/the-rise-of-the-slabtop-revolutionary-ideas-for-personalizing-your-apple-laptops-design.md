@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-10-31T03:24:48.851Z
-updated: 2024-11-04T10:53:30.118Z
+date: 2024-11-12T04:18:54.366Z
+updated: 2024-11-12T22:11:22.489Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is a Slabtop?
 
  A slabtop is a headless laptop, with MacBooks being popular choices for this type of conversion. A headless computer generally refers to a computer that has been designed for use without a monitor. Normally, this involves remote access software or a text-based interface like SSH. Servers are commonly designed to be headless, but headless machines can depend on a monitor from time to time, such as when troubleshooting.
@@ -26,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  In the context of a slabtop, headless simply means that the built-in monitor (and the lid that houses the monitor) has been removed. This results in a slab computer that houses all the components in the base. This isn't a million miles away from the home computers of the 80s (like the Commodore 64) where the keyboard _was_ the computer.
 
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
 
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  CalDigit USB-C Gen2 Dock
@@ -62,6 +68,13 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Rather than dragging the dead weight of a cracked display around with you, turn that laptop into a project and remove the screen entirely. You'll be amazed how freeing a laptop can feel once you've taken the weighty display away. It's also pretty much essential if you hope to use it at a desk or near a display that's around head height.
 
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Add Your Own Display
 
@@ -77,13 +90,6 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Make Your Own Slabtop
 
  Before you grab your pliers, it's important to understand that there is a process involved here. You must disconnect (or remove) the battery from your slabtop before you get too involved in the decapitation process. This is especially important on Apple's 'opening the lid turns it on' M1 or later machines.
@@ -95,10 +101,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 [iFixit](https://www.ifixit.com) is a great resource for this. This resource has screen replacement guides (like [this one for a 2021 MacBook Pro 16-inch](https://www.ifixit.com/Guide/MacBook+Pro+16-Inch+2021+Screen+Replacement/150595)) that you can follow, plus there are video repair guides on the internet for all kinds of laptops. Your ultimate goal should be a clean headless laptop, free of unsightly ribbon cables.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Things to Consider Before Going Headless
@@ -130,21 +136,24 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-complete-revamp-of-facetune-app/"><u>[New] In-Depth Analysis Complete Revamp of Facetune App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero5-mastery-a-comprehensive-guide-to-photo-and-video-excellence/"><u>[Updated] Hero5 Mastery A Comprehensive Guide to Photo and Video Excellence</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-decoding-the-marketplace-where-to-invest-in-monetized-channels/"><u>[Updated] In 2024, Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-premiered-top-8-crowd-pleasing-ae-setups-for-2024/"><u>[Updated] Premiered Top 8 Crowd-Pleasing AE Setups for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-rising-stars-in-streaming-global-youtubes-subs-pantheon-for-2024/"><u>[Updated] Rising Stars in Streaming Global YouTube's Subs Pantheon for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cutting-edge-subtitling-solutions-the-ultimate-top-10-list-online/"><u>2024 Approved Cutting-Edge Subtitling Solutions The Ultimate Top 10 List (Online)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-top-10-live-streaming-networks-ranked/"><u>2024 Approved Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-lgs-ultra-clear-4k-screen-capabilities/"><u>2024 Approved Exploring LG's Ultra-Clear 4K Screen Capabilities</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-scan-the-essence-of-the-lightroom-app-on-android-for-2024/"><u>Full Scan The Essence of the Lightroom App on Android for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-file-funneling-features-5-techniques-to-desktops/"><u>In 2024, File Funneling Features 5 Techniques to Desktops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-asus-monitor-4k-precision-hdr-mastery/"><u>In 2024, High-End ASUS Monitor 4K Precision, HDR Mastery</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-popular-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating the World's Popular Social Media Platforms: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-sony-xperia-5-v-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Sony Xperia 5 V Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-building-authority-in-education-10-tips-for-youtube-channel-creation-for-2024/"><u>[New] Building Authority in Education 10 Tips for YouTube Channel Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-top-10-websites-for-no-fee-images/"><u>[New] Explore the Top 10 Websites for No-Fee Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-leading-action-cameras-front-faced-views-available/"><u>[New] Leading Action Cameras Front-Faced Views Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-itunes-podcasts-on-ios-devices/"><u>[Updated] Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illuminating-iphone-luminary-strategies/"><u>[Updated] Illuminating iPhone Luminary Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>[Updated] In 2024, Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-integrate-spotify-and-youtube-top-5-playlist-to-channel-converters-available/"><u>[Updated] Integrate Spotify and YouTube Top 5 Playlist-to-Channel Converters Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-srt-enhanced-mp4-files/"><u>2024 Approved Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-resolve-fb-live-failure-video-not-posting/"><u>2024 Approved Resolve FB Live Failure Video Not Posting</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-1011zip/"><u>無料ツールでWindows 10/11に削除されたZIPファイルを回復する</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-methods-for-extracting-water-from-the-speaker-units-of-your-iphone/"><u>Effective Methods for Extracting Water From the Speaker Units of Your iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finest-free-and-paid-windows-drawing-software-ranked-for-2024/"><u>Finest Free & Paid Windows Drawing Software Ranked for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-coloredge-4k-capabilities-with-eizo/"><u>In 2024, Exploring the ColorEdge 4K Capabilities with EIZO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-face-motion-blur-magic-a-step-by-step-picsart-approach/"><u>In 2024, Face Motion Blur Magic A Step-by-Step Picsart Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-fires-audio-transformation-tricks/"><u>In 2024, Free Fire's Audio Transformation Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-budget-friendly-4k-cameras/"><u>In 2024, Ultimate Guide to Budget-Friendly 4K Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-study-of-the-dji-inspire-1-drone-for-2024/"><u>In-Depth Study of the DJI Inspire 1 Drone for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-tagging-elevate-your-youtube-content/"><u>Mastering Tagging Elevate Your YouTube Content</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-tri-band-wireless-network-the-asus-ax6600-mesh-wifi-system-detailed-review/"><u>Mastering the Tri-Band Wireless Network: The ASUS AX6600 Mesh WiFi System Detailed Review</u></a></li>
 </ul></div>
 

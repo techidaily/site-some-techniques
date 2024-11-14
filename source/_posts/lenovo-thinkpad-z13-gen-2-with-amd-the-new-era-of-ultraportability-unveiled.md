@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad Z13 Gen 2 with AMD - The New Era of Ultraportability Unveiled
-date: 2024-10-31T23:44:59.908Z
-updated: 2024-11-04T00:49:21.964Z
+date: 2024-11-05T17:20:14.779Z
+updated: 2024-11-13T00:43:41.443Z
 tags:
   - deals
 categories:
@@ -124,6 +124,13 @@ Expand
 
 [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3DUSr2MBRYBxyPWchRfv0ZO18OUkHwPjSRQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam%23tech_specs) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Design: A Tiny but Mighty ThinkPad
 
 ![Rear angled view of the open Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/rear-angled-view-of-the-open-lenovo-z13-gen-2-2jpg_53480774019_o.jpg) 
@@ -154,19 +161,6 @@ Close
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  Like other ThinkPads I've reviewed, such as the [ThinkPad Z16 Gen 2](https://discord-videos.techidaily.com/prime-free-tools-to-sketch-unique-discord-icons/) or the [ThinkPad X1 Nano Gen 3](https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-neo-5-location-settings-drfone-by-drfone-virtual/), the inputs of the Z13 all have the comfortable and premium feel that the ThinkPad line is known for. Despite the Z13's small build, the keyboard is full-size and has a pleasantly springy type feel. I also appreciated, as I usually do, the inclusion of the Trackpoint, which helped me make precise mouse movements without moving my right hand from the keyboard area.
@@ -178,6 +172,13 @@ Sergio Rodriguez / How-To Geek
 ##  Display and Graphics: A Bright OLED Beauty
 
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -193,6 +194,13 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
@@ -200,13 +208,6 @@ Close
 Sergio Rodriguez / How-To Geek
 
  My model came with the AMD Ryzen 7 Pro 7840U processor, which handled many tasks with ease alongside the 32GB of RAM, but I found that the CPU commonly lacked the speeds I was hoping to find. Starting up the Z13 took longer than other similar ThinkPads and several product downloads took longer than I anticipated. This isn't to say the Z13 was slow by any means, but it wasn't as fast as other Lenovos I've worked with that also had 32GB of memory. For instance, the Z13 began to lag in speed when I had about 20 browser tabs open (with one playing a movie on Peacock), as well as a few office programs, the Xbox app, and the Microsoft store. I should note that you can upgrade the Z13's memory to 64GB, which would make the speed faster for multitasking purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Gaming Performance: Only Good for a Small Amount of Casual Gaming
 
@@ -218,6 +219,13 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  I enjoyed listening to music as I worked via the two AI-powered 2W Dolby Atmos speakers, but I had to turn the volume up to about 80 to 100% for it to be a good volume. That said, I didn't notice much distortion, even when listening to crunchy guitar-laden music like the blues or hard rock. But I found the speakers sounded the best when recordings were more simplistic, focusing on one to three instruments and vocals more than a complex, noisy blend, such as some vocal-heavy jazz tracks from Chet Baker and Etta James. The speakers do have a sort of condensed quality to them, but this is nothing I wouldn't expect from most laptop speaker systems, which are still sorely behind in audio quality compared to external speakers and even [some smartphone speakers](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). Of course, you can always [improve the sound of the laptop's speakers](https://extra-guidance.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/) by investing in some [desktop speaker systems](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/) or using [good-quality wired headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/).
@@ -228,29 +236,16 @@ Close
 
  The dual microphone system captures the human voice well, and it has noise-canceling features that work well to cut out background noise. In a noisy environment, I was still audible to the people on the other end of the call, and the recordings also came through crystal clear. It does cut out noises at higher volumes, which I discovered in singing tests.
 
-### 
-
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 
+
+### 
 
 ### 
 
@@ -259,10 +254,10 @@ Close
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -271,23 +266,9 @@ Sergio Rodriguez / How-To Geek
 
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -296,6 +277,13 @@ Sergio Rodriguez / How-To Geek
  If you're ready to call the compact Z13 your own, you can buy the [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3Dxfx2ONQHnxyPWR734TQFI1AsUkHweI3VQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam) starting at $1,241.40 today.
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z13 Gen 2
 
@@ -320,21 +308,22 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/utting-edge-royalty-free-music-platforms-for-content-makers/"><u>[New] Cutting-Edge Royalty-Free Music Platforms for Content Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonious-filmmaking-mastering-imovie-audio/"><u>[New] Harmonious Filmmaking Mastering iMovie Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-increasing-brilliance-on-your-android-videos/"><u>[New] Increasing Brilliance on Your Android Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-pureimages-backdrop-refinement-feature/"><u>[New] PureImage's Backdrop Refinement Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-4k-leading-blu-ray-players-compared/"><u>[Updated] Excellence in 4K Leading Blu-Ray Players Compared</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-harvest-huge-volumes-of-content-from-tiktok-effortlessly/"><u>[Updated] How to Harvest Huge Volumes of Content From TikTok Effortlessly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-easy-guide-to-youtube-livestreaming-from-google-meet/"><u>[Updated] In 2024, Easy Guide to YouTube Livestreaming From Google Meet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mac-high-quality-video-and-audible-recording/"><u>[Updated] In 2024, Mac High-Quality Video & Audible Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-endorsed-8-tripods-for-flawless-4k-footage/"><u>2024 Approved Expert-Endorsed 8 Tripods for Flawless 4K Footage</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-prime-8-film-grabs-from-fb-2023-edition/"><u>2024 Approved Prime 8 Film Grabs From FB 2023 Edition</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-thorough-examination-hero4-black-performance/"><u>2024 Approved Thorough Examination Hero4 Black Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-usb-type-cs-impact-on-modern-display-technology-for-2024/"><u>Examining USB Type-C's Impact on Modern Display Technology for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-redmi-k70-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Xiaomi Redmi K70 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-updated-sony-bdp-s6700-features/"><u>In 2024, Exploring the Updated Sony BDP-S6700 Features</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-note-12-pro-4g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi Note 12 Pro 4G Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-easy-guide-to-see-youtube-liked-comments/"><u>[New] Easy Guide to See YouTube Liked Comments</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>[New] Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focal-point-expose/"><u>[New] Focal Point Exposé</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youngest-entrepreneur-in-media-lands-fortune-peak/"><u>[Updated] 2024 Approved Youngest Entrepreneur in Media Lands Fortune Peak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gently-introducing-scene/"><u>[Updated] Gently Introducing Scene</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices/"><u>[Updated] How to Get Gratis, Safe VLC Media Player on Mac OS X Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-cheapest-deals-on-top-tier-gopros/"><u>2024 Approved Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>2024 Approved From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-maximizing-profile-visibility-in-snapchat-spotlights/"><u>2024 Approved Maximizing Profile Visibility in Snapchat Spotlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here-for-2024/"><u>How to Transcribe Speech to Text in Microsoft Word Learn It Here for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-top-handheld-video-stabilizer-equipment-to-help-shoot-smooth-scenes/"><u>In 2024, Top Handheld Video Stabilizer Equipment To Help Shoot Smooth Scenes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-edge-40-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Edge 40 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-unidentified-usb-port-problems/"><u>Overcoming Windows 11'S Unidentified USB Port Problems</u></a></li>
+<li><a href="https://win-online.techidaily.com/revive-your-apple-health-records-a-comprehensive-tutorial-for-iphone-users/"><u>Revive Your Apple Health Records: A Comprehensive Tutorial for iPhone Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/naries-shaping-marvel-online-experience/"><u>Visionaries Shaping Marvel Online Experience</u></a></li>
 </ul></div>
 

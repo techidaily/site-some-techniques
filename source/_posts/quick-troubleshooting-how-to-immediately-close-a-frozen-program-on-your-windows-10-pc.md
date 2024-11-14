@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2024-11-01T04:51:00.866Z
-updated: 2024-11-03T18:37:18.344Z
+date: 2024-11-08T18:12:48.900Z
+updated: 2024-11-13T02:39:00.605Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * [Force Quit Using Task Manager](https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s24-pattern-lock-screen-by-drfone-android/)
 * [Force Quit an App Using Command Prompt](https://fox-links.techidaily.com/expertly-crafted-images-with-lut-techniques-in-photoshop-cs6-for-2024/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Try pressing Alt+F4 to force-close an app.
@@ -24,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * Run "tasklist" in Command Prompt find tasks, and then use "taskkill /im <program>.exe" to force quit the app.
 
  It’s not uncommon for an application to stop responding on Windows 10\. When it happens, you can force the app to shut down, effectively unfreezing said application. Here’s how to force quit an app on Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Try a Keyboard Shortcut
 
@@ -35,20 +49,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Force Quit Using Task Manager
 
  As the name implies, [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) is a tool that shows which apps are currently running (as well as other information like resource usage and process stats) and allows you to manage them appropriately.
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  To [open Task Manager](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/), you can press Ctrl+Shift+Esc on your keyboard or right-click the Windows task bar and select “Task Manager” from the menu.
 
 ![Right-click the taskbar and select 'Task Manager.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-open-task-manager.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With Task Manager open, select the task you want to force quit and then select “End Task.”
 
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  You can find and force quit tasks from the Command Prompt. [Open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing **cmd** in the Windows search bar, and then selecting the “Command Prompt” app from the search results.
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
@@ -93,10 +93,10 @@ taskkill /im notepad.exe
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
@@ -120,22 +120,21 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expertly-edited-beginnings-anywhere/"><u>[New] Expertly Edited Beginnings, Anywhere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gear-vr-latest-phone-compatibility-guide/"><u>[New] Gear VR Latest Phone Compatibility Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-video-enhancer-22/"><u>[Updated] How To Use Video Enhancer 2.2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-haunting-actions-high-definition-cams/"><u>2024 Approved Haunting Actions High Definition Cams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-choice-of-tools-for-image-to-video-transformation/"><u>2024 Approved Prime Choice of Tools for Image-to-Video Transformation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/beyond-boundaries-revisited-assessing-current-realm-future-challenges-for-2024/"><u>Beyond Boundaries Revisited Assessing Current Realm, Future Challenges for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elites-choice-top-6-superior-4k-dslr-powerhouses/"><u>Elite's Choice Top 6 Superior 4K DSLR Powerhouses</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-laserjet-p2035-and-windows-drivers-overcoming-common-errors-a-resolved-guide/"><u>HP LaserJet P2035 and Windows Drivers - Overcoming Common Errors: A Resolved Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminating-path-to-stellar-android-video-quality-for-2024/"><u>Illuminating Path to Stellar Android Video Quality for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-motorola-g54-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola G54 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focusing-your-view-a-guide-to-zooming-on-microsoft-teams/"><u>In 2024, Focusing Your View A Guide to Zooming on Microsoft Teams</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-use-free-text-animations-online-and-offline-solutions/"><u>In 2024, How to Use Free Text Animations [Online and Offline Solutions]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-use-virtual-reality-tours/"><u>In 2024, How to Use Virtual Reality Tours</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimize-your-images-on-pc-with-these-top-5-sniping-solutions-for-2024/"><u>Optimize Your Images on PC with These Top 5 Sniping Solutions for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-the-art-of-video-marketing-on-youtube-for-2024/"><u>Unlocking the Art of Video Marketing on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-content-step-by-step-guide-to-youtube-video-editing/"><u>[New] Crafting Content Step by Step Guide to YouTube Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-hub-swapping-your-soundtrack-selection/"><u>[New] Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hdr-evaluation-is-aurora-a-game-changer/"><u>[New] HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop/"><u>[Updated] Expert Tips for Snapchat's Magic Invisible Hands Make the Picture Pop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-saving-pc-views-with-a-single-click-win/"><u>[Updated] In 2024, Saving PC Views with a Single Click (Win)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-boring-to-breathtaking-transforming-podcast-blurbs/"><u>2024 Approved From Boring to Breathtaking Transforming Podcast Blurbs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-ai-names-for-podcasts-the-ultimate-guide/"><u>2024 Approved Innovative AI Names for Podcasts – The Ultimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-voice-changing-methods-in-free-fire/"><u>2024 Approved Voice Changing Methods in Free Fire</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-started-with-streamlabs-on-mac-using-obs-instantly-for-2024/"><u>Get Started with Streamlabs on Mac Using OBS Instantly for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grundzahlenlernbuch-deutsch-ab-nummer-1-bis-100-lernen/"><u>Grundzahlenlernbuch: Deutsch Ab Nummer 1 Bis 100 Lernen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-effortless-methods-amp-up-your-yt-video-quality/"><u>In 2024, Effortless Methods Amp Up Your YT Video Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-idea-to-action-creating-engaging-gifs/"><u>In 2024, From Idea to Action Creating Engaging GIFs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-social-media-video-trends-for-smbs/"><u>In 2024, Social Media Video Trends for SMBs</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-emergence-of-metaai-and-its-impact-on-bots/"><u>The Emergence of MetaAI and Its Impact on Bots</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-8-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 8</u></a></li>
 </ul></div>
 

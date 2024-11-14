@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot"
-date: 2024-11-01T19:49:44.509Z
-updated: 2024-11-04T00:04:57.597Z
+date: 2024-11-07T00:15:39.169Z
+updated: 2024-11-13T09:52:28.498Z
 tags:
   - cutting-edge
 categories:
@@ -19,26 +19,26 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
  Amazon Prime Day is July 16-17th! I learn all about Rufus as the AI takes me Amazon shopping for toys, a Chromebook, and a fancy power station. If you want to grab the best deals, you'll want to get familiar with this helpful bot too!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Who Is Rufus?
 
  The original [Rufus (1994-2009)](https://www.amazon.com/gp/help/customer/display.html?nodeId=3711811&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) was a beloved Welsh Corgi who seems to have morphed into a bit of a legend at Amazon and is credited with starting Amazon's dog-friendly workplace culture. Released in February, Amazon's new AI shopping assistant is named in his honor. Rufus, the AI, is trained in Amazon's product catalog, customer reviews, and product Q & As.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Where Is Rufus?
 
  When preparing to write this article, I opened the Amazon website [on my second monitor](https://youtube-sure.techidaily.com/r-the-art-of-subtitlecc-integration-in-youtube-with-this-guide-for-2024/) and was surprised that Rufus wasn't there. I shrugged, opened up my iPad, and settled on the couch with my little dogs. OG Rufus would be proud! To my surprise, Rufus wasn't on my iPad, either. It turns out Rufus is still only available on [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003905/https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=en%5FUS) and [iPhone](https://apps.apple.com/us/app/amazon-shopping/id297606951) mobile Amazon Shopping apps, and only in the U.S.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rufus Searches for General Product Ideas
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Specific Product Searches
 
  Next, I wanted Rufus to help me make a power station wishlist for Prime Day. I've learned that [solar panels are cheap](https://technical-tips.techidaily.com/enjoy-roku-channels-anywhere-even-without-owning-a-roku-player-heres-how/) and plentiful. I have several. However, finding a [portable power station](https://some-approaches.techidaily.com/updated-the-pros-guide-to-conquering-photovideo-importers-in-win11/) that can collect and store a useful amount of solar power has been a challenge!
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![A screenshot of the prompt "What is the most powerful portable power station for under $1000" and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204656_amazon-shopping.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
@@ -91,17 +98,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![Three screenshots that highlight the steps of tapping the three dots, tapping "Manage chat", and "Clear chat history".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_225642_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other Rufus Notes
@@ -114,14 +114,20 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
  Rufus access from a product information page will suggest questions you can ask about that product, not including the price. At this point, I think we're all familiar enough with Amazon's product pages to scroll to the Q & A's and product specifications quicker than we can access Rufus. However, as Rufus develops, this ability may progress into something more useful.
 
-## ![A screenshot of Rufus responding to a prompt with](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_213130_amazon-shopping-2.jpg) Prime Day Ready?
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## ![A screenshot of Rufus responding to a prompt with](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_213130_amazon-shopping-2.jpg) Prime Day Ready?
 
  My first instinct was to judge Rufus harshly as unhelpful for Prime Day because it can not give prices. Prime Day is all about the prices! However, I got a lot of useful information from Rufus. In fact, I often jump for the Prime Day deals and end up returning a product that didn't meet my needs. Rufus could help me do a little more research before and during Prime Day to narrow down a wide selection of products and features. Rufus has proven helpful by making good suggestions and answering simple questions. It doesn't handle prices, and you can't use Rufus to buy things. However, I'd rather work with an AI that does one thing well than multiple things poorly. I'm optimistic that this rather painfully slow Rufus rollout means his quality will remain high. If you're in the US and on a mobile, give Rufus a try!
 
@@ -140,21 +146,18 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-giroptic-360cam-complete-review/"><u>[New] Giroptic 360Cam Complete Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-much-will-it-cost-to-shoot-a-music-video/"><u>[New] How Much Will It Cost To Shoot A Music Video?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-top-10-wedding-clock-apps-for-android-and-ios-to-keep-your-day-on-track-for-2024/"><u>[New] Top 10 Wedding Clock Apps for Android & iOS to Keep Your Day on Track for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-film-timeframe-determining-gb-storage-requirement/"><u>[Updated] Film Timeframe Determining GB Storage Requirement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-getting-the-most-out-of-pc-hdr-videos/"><u>[Updated] Getting the Most Out of PC HDR Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-deals-discover-the-best-free-desktop-recorders/"><u>[Updated] In 2024, Unbeatable Deals Discover the Best Free Desktop Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-save-and-stream-gotomeet-on-desktops-and-phones-for-2024/"><u>[Updated] Save and Stream GoToMeet on Desktops & Phones for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hilarityhatcher-create-comedy-with-a-click/"><u>2024 Approved HilarityHatcher Create Comedy with a Click</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-back-life-to-laptop-tv-hdmi-link/"><u>Bringing Back Life to Laptop-TV HDMI Link</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beginners-guide-to-windows-11-audible-recording/"><u>In 2024, Beginner's Guide to Windows 11 Audible Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-deep-sea-capturing-unforgettable-underwater-scenes/"><u>In 2024, GoPro's Deep Sea Capturing Unforgettable Underwater Scenes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humorhub-join-the-fun-filled-world/"><u>In 2024, HumorHub Join the Fun-Filled World</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-poco-m6-pro-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Poco M6 Pro 4G Location | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/professional-assessment-the-byb-e430-ergonomic-led-lamp-reviewed/"><u>Professional Assessment: The BYB E430 Ergonomic LED Lamp Reviewed</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-mkv-cutting-software-for-mac/"><u>Updated In 2024, Best MKV Cutting Software for Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-air-lift-extraordinaire-top-industrial-drones-for-2024/"><u>[New] Air-Lift Extraordinaire Top Industrial Drones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-casual-to-pro-unpacking-kinemaster-for-android-gamers/"><u>[New] From Casual to Pro Unpacking KineMaster for Android Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-mass-download-tiktok-videos/"><u>[New] How To Mass Download TikTok Videos?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-b-roll-with-finesse-for-visual-enhancement/"><u>[New] Incorporating B-Roll with Finesse for Visual Enhancement</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>[Updated] Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-evolving-shopper-behavior-in-vr-realms/"><u>2024 Approved Evolving Shopper Behavior in VR Realms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funimate-pro-unboxed-your-essential-apk-guide/"><u>2024 Approved Funimate Pro Unboxed Your Essential APK Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-tips-to-add-music-to-whatsapp-status/"><u>2024 Approved Tips to Add Music to WhatsApp Status</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boosting-social-reach-top-facebook-video-engagement-techniques-for-2024/"><u>Boosting Social Reach Top Facebook Video Engagement Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-timekeeping-tools-without-a-price-for-2024/"><u>Expert Timekeeping Tools Without a Price for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-amplify-visual-content-embedding-audio-on-instagram-reels/"><u>In 2024, Amplify Visual Content Embedding Audio on Instagram Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaiety-media-download-review/"><u>In 2024, Gaiety Media Download Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-spark-20-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Spark 20 Phone</u></a></li>
 </ul></div>
 

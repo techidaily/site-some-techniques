@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-10-31T03:43:21.010Z
-updated: 2024-11-03T17:50:08.487Z
+date: 2024-11-10T00:29:51.858Z
+updated: 2024-11-12T19:45:02.388Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,16 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
@@ -33,39 +39,39 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
 
  The "junk" designation in email is extremely helpful, as it relegates most spam into a separate folder away from your main inbox. However, email clients are not perfect when it comes to sorting your mail. Sometimes, junk mail may still end up in your primary inbox, or genuine mail can accidentally be sorted as junk.
 
  If you see an email that has ended up in the wrong place, you can move it with a simple keyboard shortcut. To do so, select the email or emails you want to use, and press Command+Shift+J. This will move folders from your inbox into the junk folder, or vice versa.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6  Hide/Show Sidebar (Control+Command+S) 
 
@@ -96,22 +102,17 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-stand-out-in-the-stream-top-name-generators-reviewed/"><u>[New] 2024 Approved Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-guide-to-rl-streaming-setup-for-2024/"><u>[New] Comprehensive Guide to RL Streaming Setup for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>[New] Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-play-your-iphone-videos-backward/"><u>[New] How to Play Your iPhone Videos Backward</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illustrate-effortlessly-prime-ios-design-software/"><u>[New] Illustrate Effortlessly Prime iOS Design Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-premiere-pro-fs-view-techniques/"><u>[New] In-Depth Premiere Pro FS View Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-leading-10-covert-media-collection-tools/"><u>[Updated] 2024 Approved Leading 10 Covert Media Collection Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-frontier-top-pc-vr-headset-innovations-of-the-year/"><u>[Updated] 2024 Approved Virtual Frontier Top PC VR Headset Innovations of the Year</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experts-top-picks-for-creating-art-on-windows/"><u>[Updated] Expert's Top Picks for Creating Art on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-eyeem-pro-your-ultimate-guide-to-freepaid-substitutes/"><u>[Updated] EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans/"><u>[Updated] Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans</u></a></li>
-<li><a href="https://common-error.techidaily.com/demystifying-and-fixing-the-crippling-windows-11-update-glitch-code-0xc190n0028-revealed/"><u>Demystifying and Fixing the Crippling Windows 11 Update Glitch - Code 0Xc190n0028 Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-silencing-the-talkback-option-for-your-samsung-flat-panel-tv/"><u>Guide: Silencing the Talkback Option for Your Samsung Flat Panel TV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-dji-phantom-4-in-action/"><u>In 2024, In Depth Review DJI Phantom 4 in Action</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-masterful-cloud-keeping-best-service-picks/"><u>In 2024, Masterful Cloud Keeping Best Service Picks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/simplifying-the-process-of-deleting-youtube-files-for-2024/"><u>Simplifying the Process of Deleting YouTube Files for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-21-edition-synopsis-unraveling-the-future-of-online-betting-with-vegas-pro/"><u>[New] '21 Edition Synopsis – Unraveling the Future of Online Betting with Vegas Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>[New] Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-multiplatform-iptv-encoding/"><u>[New] Multiplatform IPTV Encoding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-hdr-tvs-does-aurora-hit-the-mark/"><u>[Updated] Evaluating HDR TVs Does Aurora Hit the Mark?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-essential-checklist-for-syncing-obs-and-zoom/"><u>[Updated] The Essential Checklist for Syncing OBS & Zoom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-music-migration-from-one-service-to-another-for-2024/"><u>Harmonizing Music Migration From One Service to Another for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-motion-blur-to-face-with-picsart-for-2024/"><u>How to Add Motion Blur to Face with Picsart for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Phone that is Locked?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>In 2024, Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-blue-screen-of-death-caused-by-faulty-usb-drivers-in-windows-10/"><u>Step-by-Step Guide: Fixing the Blue Screen of Death Caused by Faulty USB Drivers in Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-easy-microsoft-driver-setup-and-updates-on-windows-versions-11-8-and-7/"><u>Step-by-Step Tutorial for Easy Microsoft Driver Setup and Updates on Windows Versions: 11, 8 & 7</u></a></li>
 </ul></div>
 

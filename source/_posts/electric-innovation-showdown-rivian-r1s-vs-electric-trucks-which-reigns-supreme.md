@@ -1,7 +1,7 @@
 ---
 title: "Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?"
-date: 2024-10-27T22:09:48.658Z
-updated: 2024-11-04T08:54:48.433Z
+date: 2024-11-06T09:47:22.353Z
+updated: 2024-11-13T02:59:42.483Z
 tags:
   - cutting-edge
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
@@ -93,20 +93,27 @@ Expand
 
 [See at Rivian](https://rivian.com/reserve/r1s) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  R1S Price and Availability
 
  The Rivian R1S starts at $78,000 and includes a 260-mile range, being able to seat seven passengers. The quad-motor AWD trim I tested had a top range of 303 miles because it added a large battery pack, which was slightly offset by its 22-inch sport wheels. The review unit had a retail price of $95,500.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  R1S External Design and Features
 
 ![Rivian R1S in silver facing away from view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ab2d9268-0aa3-4b68-bddb-7db4d3473049.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -124,23 +131,9 @@ Tyler Hayes / How-To Geek
 
  This luxurious touch helps keep items from falling out when the rear door is opened. But I suppose the lower half could also provide a place for people to sit too. It let my legs dangle off comfortably. Only the top part was powered. The smaller bottom section needed to be manually lowered or raised.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Interior Design: (Mostly) Comfortable Seating With a Third Row
 
 ![Looking into the back of the Rivian R1S with all the seats down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5e4dca55-2894-4958-adc7-bdb80cac7f74.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -151,13 +144,6 @@ Tyler Hayes / How-To Geek
  A huge 15.3-inch center screen grabs all the attention up front, while a 12.3-inch screen resides behind the wheel to show the driver information. A third, small screen in the middle row provides climate controls for those passengers.
 
 ![Rivian R1S third-row seats have storage and a USB-C charging port in the armrests](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/cc261bbe-af7e-4a91-96d2-048dd116d765.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -181,15 +167,28 @@ Power and seat-release buttons are on the top control panel while the air compre
 
  Packed into the trunk area is an air compressor and a 120V power outlet. Each one is protected by a sliding cover which also hides it away. Under the false trunk floorboard, where several extra inches of storage reside, also housed the hose for the compressor. I didn’t have a chance to use the compressor this time around. But when I did in the truck, I found it incredibly helpful to pump up the tires of bikes that I also carried in the bed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Driving: A Quick and Nimble 7-Seater
 
 ![the front of the Rivian R1S parked on the side of the road](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ca957c62-7842-44ab-bae3-0f59fc573a64.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -209,6 +208,13 @@ Tyler Hayes / How-To Geek
 ##  R1S Technology and Infotainment
 
 ![The large 15.3-inch display in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/32a07ad3-f53a-4cb1-a4bf-fc37817d38b7.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -282,6 +288,13 @@ Tyler Hayes / How-To Geek
 * Storage space: 104cu-ft \[more\]
 * Outlets: Two 120V outlets \[fewer\]
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  R1S Price and Availability
 
  The R1S is currently available to order through [Rivian’s website](http://rivian.com). New builds currently have about a four-month wait, while new inventory vehicles are available within one to six weeks.
@@ -289,13 +302,6 @@ Tyler Hayes / How-To Geek
 ##  Should You Buy the Rivian R1S or R1T?
 
 ![Rivian R1S from the rear showing the trunk open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/3b8a8a65-f097-409c-a036-8e1dfbd721ea.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -308,10 +314,10 @@ Tyler Hayes / How-To Geek
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
@@ -339,19 +345,22 @@ From city streets to far-off trails, explore all types of terrain through all ki
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-to-hashtagging-for-game-focused-yt-channels-for-2024/"><u>[New] Essential Guide to Hashtagging for Game-Focused YT Channels for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-flight-to-film-the-drone-editors-playbook/"><u>[New] From Flight to Film The Drone Editor's Playbook</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-step-by-step-strategies-for-altering-voices-in-tiktok-content-creation/"><u>[New] In 2024, Step-by-Step Strategies for Altering Voices in TikTok Content Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-ai-naming-software-for-podcasters/"><u>[Updated] Explore the Best AI Naming Software for Podcasters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-free-traffic-on-youtube-tips-that-actually-work/"><u>[Updated] Free Traffic on YouTube Tips That Actually Work</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-best-ways-to-get-high-quality-version-of-pictures-for-free/"><u>2024 Approved Best Ways To Get High Quality Version Of Pictures For Free</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>2024 Approved What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fresh-approaches-to-instagram-collages-made-simple-for-2024/"><u>Fresh Approaches to Instagram Collages Made Simple for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-request-a-refund-on-facebook/"><u>How to Request a Refund on Facebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminate-ideas-a-guide-to-8-premier-iphone-drawing-apps/"><u>In 2024, Illuminate Ideas A Guide to 8 Premier iPhone Drawing Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-zero-price-limitless-possibilities-apowersoft-screenshot-tool-review/"><u>In 2024, Zero Price, Limitless Possibilities - Apowersoft Screenshot Tool Review</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-10-free-mp4-video-editing-software-picks/"><u>New In 2024, 10 Free MP4 Video Editing Software Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-common-issues-fixes-for-ghostwire-tokyo-pc-game-freezes/"><u>Troubleshooting Common Issues: Fixes for Ghostwire: Tokyo PC Game Freezes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-creating-smooth-volume-curves-using-keyframes-in-filmora-on-macos-for-2024/"><u>Updated Creating Smooth Volume Curves Using Keyframes in Filmora on macOS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-revenue-with-youtube-short-videos-a-complete-plan-for-2024/"><u>[New] Boosting Revenue with YouTube Short Videos – A Complete Plan for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-art-of-iphone-photo-collage-assembly/"><u>[New] Explore the Art of iPhone Photo Collage Assembly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>[New] In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-can-a-128gb-drive-handle-huge-video-files/"><u>[Updated] Can a 128GB Drive Handle Huge Video Files?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-choice-peak-business-space/"><u>[Updated] Expert's Choice Peak Business Space</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-power-of-intova-x/"><u>2024 Approved Exploring The Power of Intova X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-picture-in-picture-in-browsing-with-edge/"><u>2024 Approved Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-inner-comedy-with-gif-mastery/"><u>2024 Approved Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-methods-for-performing-speedy-lan-assessments-on-windows-macos-and-linux-machines/"><u>Efficient Methods for Performing Speedy LAN Assessments on Windows, macOS, and Linux Machines</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-youtube-performance-consistency-in-cc-usage/"><u>Elevating YouTube Performance Consistency in CC Usage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-mindfulness-melodies-for-2024/"><u>Free Mindfulness Melodies for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-installing-the-latest-epson-xp-430-drivers-for-windows-a-step-by-step-guide/"><u>Getting Started: Installing the Latest Epson XP-430 Drivers for Windows - A Step by Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guidelines-for-selecting-an-engaging-movie-trailer-song-for-2024/"><u>Guidelines for Selecting an Engaging Movie Trailer Song for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-build-a-showstopper-iphone-photomosaic-with-ease-and-fun-for-2024/"><u>How to Build a Showstopper iPhone Photomosaic with Ease and Fun for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-migliori-metodi-per-modificare-una-foto-tutorial-approfondito-con-picverse/"><u>I Migliori Metodi per Modificare Una Foto: Tutorial Approfondito Con Picverse</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-frequency-capture-digital-sound-files/"><u>In 2024, Frequency Capture Digital Sound Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stories-in-simplicity/"><u>In 2024, Stories in Simplicity</u></a></li>
 </ul></div>
 

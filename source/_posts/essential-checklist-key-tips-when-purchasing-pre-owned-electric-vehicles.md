@@ -1,7 +1,7 @@
 ---
 title: "Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles"
-date: 2024-11-01T17:49:43.504Z
-updated: 2024-11-04T05:11:12.415Z
+date: 2024-11-06T10:35:58.714Z
+updated: 2024-11-12T20:40:55.405Z
 tags:
   - cutting-edge
 categories:
@@ -21,15 +21,28 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  While most of the same used car buying principles still apply, like looking over the body, checking for imperfections, and asking [questions about maintenance](https://screen-recording.techidaily.com/in-2024-budget-desktop-encoder-hacks-and-tips/), you'll need to adjust your mindset and consider several other factors. Pre-owned EVs are expensive, and here are a few things to know and do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check the Vehicle's Accident History
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -59,10 +72,10 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
@@ -72,13 +85,6 @@ Tyler Hayes / Review Geek
  Do you have enough charging stations around you to drive the vehicle daily? If it's a Tesla, is the free Supercharging transferable? Is your home capable of getting a [level 2 charger](https://visual-screen-recording.techidaily.com/unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc-for-2024/) installed? Even if it is, you may want an installation quote from a certified technician to know what to expect. Almost every EV in the U.S. can plug into a standard home wall plug, but it'll charge slowly, and if you commute more than a few miles per day, you'll eventually need to hit a charging station.
 
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Buy Used EVs From a Dealer or Tesla
 
@@ -90,16 +96,16 @@ Hannah Stryker / How-To Geek
 
  More importantly, buying a vehicle from a manufacturer like Tesla, Chevy, or Rivian will ensure the best experience, extended warranty options, and any issues fixed by a certified mechanic before being sold. Considering how advanced EVs are, you don't want to take any chances.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Take it For a Test Drive
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -130,15 +136,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/anonymous-live-on-instagram-the-sneaky-techniques-for-2024/"><u>Anonymous Live on Instagram The Sneaky Techniques for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ddpai-mini3-dashcam-a-surprisingly-entertaining-journey-on-the-roads/"><u>DDPai Mini3 Dashcam - A Surprisingly Entertaining Journey on the Roads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giving-life-a-curtain-call-blackout-in-pro-for-2024/"><u>Giving Life a Curtain Call Blackout in Pro for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-14-pro-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 14 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-boundaries-of-visual-creativity-using-windows-11-tools/"><u>In 2024, Exploring the Boundaries of Visual Creativity Using Windows 11 Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fusionphotosync-designers-slide-show-tool/"><u>In 2024, FusionPhotosync Designers' Slide Show Tool</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-in-the-virtual-realm-how-to-create-your-own-hilarious-memes/"><u>In 2024, Giggle in the Virtual Realm How to Create Your Own Hilarious Memes</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-note-visibility-in-win-11/"><u>Maximizing Note Visibility in Win 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-storage-effortless-steps-to-clear-out-unneeded-email-on-iphoneipad/"><u>Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-twitch-connectivity-problems-service-interruption-vs-personal-access-issues/"><u>Understanding Twitch Connectivity Problems: Service Interruption vs Personal Access Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-approaches-for-recording-and-sharing-sporting-games-for-2024/"><u>[New] Cutting-Edge Approaches for Recording & Sharing Sporting Games for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-immersive-virtue-verse-selection-for-ar-vr-worlds/"><u>[New] Immersive Virtue Verse Selection for AR-VR Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-time-lapse-crafting-seamless-moment-transitions/"><u>[Updated] GoPro Time-Lapse Crafting Seamless Moment Transitions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flipping-photo-lightness-for-an-alternate-look/"><u>2024 Approved Flipping Photo Lightness for an Alternate Look</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>2024 Approved From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-review-of-lg-bp350-from-screen-brightness-to-audio-output/"><u>2024 Approved Full Review of LG BP350 - From Screen Brightness to Audio Output</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/avoiding-lost-sequences-with-obs-fixes/"><u>Avoiding Lost Sequences with OBS Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-iphone-efficiency-using-secret-siri-shortcuts-insider-tips-from-zdnet/"><u>Boost Your iPhone Efficiency Using Secret Siri Shortcuts - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-driver-setup-fast-efficient-downloads-tailored-for-windows-users/"><u>Logitech Driver Setup: Fast, Efficient Downloads Tailored for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-mov-direttamente-in-formato-m4a-su-moveave-senza-costi-opzione-gratuita-online/"><u>Trasforma I Tuoi File MOV Direttamente in Formato M4A Su Moveave Senza Costi: Opzione Gratuita Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-monetization-does-youtube-pay-monthly-in-2024/"><u>YouTube Monetization Does YouTube Pay Monthly, In 2024</u></a></li>
 </ul></div>
 

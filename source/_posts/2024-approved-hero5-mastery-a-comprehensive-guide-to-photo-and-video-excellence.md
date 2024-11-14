@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hero5 Mastery  A Comprehensive Guide to Photo and Video Excellence\""
-date: 2024-07-26T16:32:20.022Z
-updated: 2024-07-27T16:32:20.022Z
+date: 2024-11-12T04:50:36.707Z
+updated: 2024-11-13T09:54:34.152Z
 tags: 
   - screen-recording
   - ai video
@@ -20,292 +20,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 # How to Use GoPro Hero5 Black: Tips for Shooting Great Photos and Videos
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Finally, you have bought your GoPro Hero5 Black action camera! Now you are ready to capture YouTube ready scenes with impressive video quality. But probably you will find some difficulties in its usage because of its rich functionality and numerous features. Don't worry! Here are few [tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) about how to make most out of your GoPro Hero5 Black.
-
----
-
-#### Best Video Editing Software for GoPro Hero5 - Wondershare Filmora
-
-We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as one of the best video editing application for GoPro users. It possesses ability to correct lens distortions according to the type of your action camera, and works for advanced video stabilization with audio de-noising and speed control. Filmora also assists in color correction which applies film-looking effects for your video. Brand new Instant Cutter feature for easy trim or merge of video files with no quality loss.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to use GoPro Hero5 Black
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
-### Explore the Appearance
-
-#### 1.Replace lens Protector
-
-The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
-
-#### 2.Lock the Touch Screen
-
-It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
-
-#### 3.Side Charging Door
-
-A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
-
-### Have Fun with the New Features
-
-#### 1.Voice Command
-
-In order to turn this feature on, you simply need to swipe down on main screen of your Hero5 Black device and then go to voice command icon. Whenever your camera is powered On then you can control various functions by just speaking few dedicated commands to your camera. These commands start with GoPro as like:
-
-* GoPro, Start recording
-* GoPro, Shoot Burst
-* GoPro, Start time lapse
-* GoPro, HiLight
-* GoPro, Photo mode
-* GoPro, Turn Off
-* GoPro. Video mode
-* GoPro, take a photo
-* GoPro, stop recording
-* GoPro, Time lapse mode
-* GoPro, turn Off
-
-The HiLight voice command in this series will simply mark your video right at that moment and then Quick editing app will use the portion exactly before your command to create final video. In case if you forget any of these commands then they can be easily found under preferences list of your GoPro device. It is also possible to use any preferred language setting for voice commands out of 10 suported languages.
-
-#### 2.Timelapse Mode
-
-Your GoPro device can assist you with Time Lapse mode to create special slow motion footage. This mode is specially utilized to shoot city streets as well as for sports activities.
-
-In order to make settings for this mode:
-
-* Simply tap on the screen and then go to shooting mode icon from left button available on screen.
-* Tap on the time lapse icon that is available on top right portion of screen and then choose time lapse video.
-* Click on Res, FOV and interval to make your desired settings.
-* When you want to hide the settings then just tap on screen.
-
-You can easily record Full HD, 2.7K and 4K resolutions but audio cannot be recorded. The frame rate can be varied from 60 fps to 0.5 fps with simple settings. Here the shorter intervals are preferred for shooting action or sports but longer intervals can be used to record lengthy duration activities. For capturing beautiful scenes of sun rise or sun set it is good to switch to mid range fps values.
-
-#### 3.Field of View
-
-The super wide angle type lenses of your GoPro device will assist you in capturing unique scenes. The linear FIV option is recently added to action camera model and it assist users to take a closer look over scene while developing a smooth footage. It is possible to make customized settings for FOV as per your shoot requirements.
-
-#### 4.Capture App
-
-Hero5 Black allows users to connect their device to phone via wireless network. Simple switch your device Wi-Fi on and then establish an active connection with your smart phone application. The GoPro Capture App assists users in easier settings with fine shooting options from remote location.
-
-#### 5.Quick App
-
-If you want to edit your footage with a bunch advanced tools then it is good to use Quick app that offers wide variety of transitions along with impressive effects. With Quick app, it becomes much easier to pick any theme and then edit videos to create impressive results.
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Finally, you have bought your GoPro Hero5 Black action camera! Now you are ready to capture YouTube ready scenes with impressive video quality. But probably you will find some difficulties in its usage because of its rich functionality and numerous features. Don't worry! Here are few [tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) about how to make most out of your GoPro Hero5 Black.
-
----
-
-#### Best Video Editing Software for GoPro Hero5 - Wondershare Filmora
-
-We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as one of the best video editing application for GoPro users. It possesses ability to correct lens distortions according to the type of your action camera, and works for advanced video stabilization with audio de-noising and speed control. Filmora also assists in color correction which applies film-looking effects for your video. Brand new Instant Cutter feature for easy trim or merge of video files with no quality loss.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-## How to use GoPro Hero5 Black
-
-### Explore the Appearance
-
-#### 1.Replace lens Protector
-
-The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
-
-#### 2.Lock the Touch Screen
-
-It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
-
-#### 3.Side Charging Door
-
-A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
-
-### Have Fun with the New Features
-
-#### 1.Voice Command
-
-In order to turn this feature on, you simply need to swipe down on main screen of your Hero5 Black device and then go to voice command icon. Whenever your camera is powered On then you can control various functions by just speaking few dedicated commands to your camera. These commands start with GoPro as like:
-
-* GoPro, Start recording
-* GoPro, Shoot Burst
-* GoPro, Start time lapse
-* GoPro, HiLight
-* GoPro, Photo mode
-* GoPro, Turn Off
-* GoPro. Video mode
-* GoPro, take a photo
-* GoPro, stop recording
-* GoPro, Time lapse mode
-* GoPro, turn Off
-
-The HiLight voice command in this series will simply mark your video right at that moment and then Quick editing app will use the portion exactly before your command to create final video. In case if you forget any of these commands then they can be easily found under preferences list of your GoPro device. It is also possible to use any preferred language setting for voice commands out of 10 suported languages.
-
-#### 2.Timelapse Mode
-
-Your GoPro device can assist you with Time Lapse mode to create special slow motion footage. This mode is specially utilized to shoot city streets as well as for sports activities.
-
-In order to make settings for this mode:
-
-* Simply tap on the screen and then go to shooting mode icon from left button available on screen.
-* Tap on the time lapse icon that is available on top right portion of screen and then choose time lapse video.
-* Click on Res, FOV and interval to make your desired settings.
-* When you want to hide the settings then just tap on screen.
-
-You can easily record Full HD, 2.7K and 4K resolutions but audio cannot be recorded. The frame rate can be varied from 60 fps to 0.5 fps with simple settings. Here the shorter intervals are preferred for shooting action or sports but longer intervals can be used to record lengthy duration activities. For capturing beautiful scenes of sun rise or sun set it is good to switch to mid range fps values.
-
-#### 3.Field of View
-
-The super wide angle type lenses of your GoPro device will assist you in capturing unique scenes. The linear FIV option is recently added to action camera model and it assist users to take a closer look over scene while developing a smooth footage. It is possible to make customized settings for FOV as per your shoot requirements.
-
-#### 4.Capture App
-
-Hero5 Black allows users to connect their device to phone via wireless network. Simple switch your device Wi-Fi on and then establish an active connection with your smart phone application. The GoPro Capture App assists users in easier settings with fine shooting options from remote location.
-
-#### 5.Quick App
-
-If you want to edit your footage with a bunch advanced tools then it is good to use Quick app that offers wide variety of transitions along with impressive effects. With Quick app, it becomes much easier to pick any theme and then edit videos to create impressive results.
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Finally, you have bought your GoPro Hero5 Black action camera! Now you are ready to capture YouTube ready scenes with impressive video quality. But probably you will find some difficulties in its usage because of its rich functionality and numerous features. Don't worry! Here are few [tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) about how to make most out of your GoPro Hero5 Black.
-
----
-
-#### Best Video Editing Software for GoPro Hero5 - Wondershare Filmora
-
-We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as one of the best video editing application for GoPro users. It possesses ability to correct lens distortions according to the type of your action camera, and works for advanced video stabilization with audio de-noising and speed control. Filmora also assists in color correction which applies film-looking effects for your video. Brand new Instant Cutter feature for easy trim or merge of video files with no quality loss.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to use GoPro Hero5 Black
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
-### Explore the Appearance
-
-#### 1.Replace lens Protector
-
-The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
-
-#### 2.Lock the Touch Screen
-
-It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
-
-#### 3.Side Charging Door
-
-A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
-### Have Fun with the New Features
-
-#### 1.Voice Command
-
-In order to turn this feature on, you simply need to swipe down on main screen of your Hero5 Black device and then go to voice command icon. Whenever your camera is powered On then you can control various functions by just speaking few dedicated commands to your camera. These commands start with GoPro as like:
-
-* GoPro, Start recording
-* GoPro, Shoot Burst
-* GoPro, Start time lapse
-* GoPro, HiLight
-* GoPro, Photo mode
-* GoPro, Turn Off
-* GoPro. Video mode
-* GoPro, take a photo
-* GoPro, stop recording
-* GoPro, Time lapse mode
-* GoPro, turn Off
-
-The HiLight voice command in this series will simply mark your video right at that moment and then Quick editing app will use the portion exactly before your command to create final video. In case if you forget any of these commands then they can be easily found under preferences list of your GoPro device. It is also possible to use any preferred language setting for voice commands out of 10 suported languages.
-
-#### 2.Timelapse Mode
-
-Your GoPro device can assist you with Time Lapse mode to create special slow motion footage. This mode is specially utilized to shoot city streets as well as for sports activities.
-
-In order to make settings for this mode:
-
-* Simply tap on the screen and then go to shooting mode icon from left button available on screen.
-* Tap on the time lapse icon that is available on top right portion of screen and then choose time lapse video.
-* Click on Res, FOV and interval to make your desired settings.
-* When you want to hide the settings then just tap on screen.
-
-You can easily record Full HD, 2.7K and 4K resolutions but audio cannot be recorded. The frame rate can be varied from 60 fps to 0.5 fps with simple settings. Here the shorter intervals are preferred for shooting action or sports but longer intervals can be used to record lengthy duration activities. For capturing beautiful scenes of sun rise or sun set it is good to switch to mid range fps values.
-
-#### 3.Field of View
-
-The super wide angle type lenses of your GoPro device will assist you in capturing unique scenes. The linear FIV option is recently added to action camera model and it assist users to take a closer look over scene while developing a smooth footage. It is possible to make customized settings for FOV as per your shoot requirements.
-
-#### 4.Capture App
-
-Hero5 Black allows users to connect their device to phone via wireless network. Simple switch your device Wi-Fi on and then establish an active connection with your smart phone application. The GoPro Capture App assists users in easier settings with fine shooting options from remote location.
-
-#### 5.Quick App
-
-If you want to edit your footage with a bunch advanced tools then it is good to use Quick app that offers wide variety of transitions along with impressive effects. With Quick app, it becomes much easier to pick any theme and then edit videos to create impressive results.
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
 
 ##### Max Wales
 
@@ -326,39 +41,328 @@ We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 ## How to use GoPro Hero5 Black
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-### Explore the Appearance
-
-#### 1.Replace lens Protector
-
-The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
-
-#### 2.Lock the Touch Screen
-
-It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
-
-#### 3.Side Charging Door
-
-A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### Explore the Appearance
+
+#### 1.Replace lens Protector
+
+The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
+
+#### 2.Lock the Touch Screen
+
+It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
+
+#### 3.Side Charging Door
+
+A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Have Fun with the New Features
+
+#### 1.Voice Command
+
+In order to turn this feature on, you simply need to swipe down on main screen of your Hero5 Black device and then go to voice command icon. Whenever your camera is powered On then you can control various functions by just speaking few dedicated commands to your camera. These commands start with GoPro as like:
+
+* GoPro, Start recording
+* GoPro, Shoot Burst
+* GoPro, Start time lapse
+* GoPro, HiLight
+* GoPro, Photo mode
+* GoPro, Turn Off
+* GoPro. Video mode
+* GoPro, take a photo
+* GoPro, stop recording
+* GoPro, Time lapse mode
+* GoPro, turn Off
+
+The HiLight voice command in this series will simply mark your video right at that moment and then Quick editing app will use the portion exactly before your command to create final video. In case if you forget any of these commands then they can be easily found under preferences list of your GoPro device. It is also possible to use any preferred language setting for voice commands out of 10 suported languages.
+
+#### 2.Timelapse Mode
+
+Your GoPro device can assist you with Time Lapse mode to create special slow motion footage. This mode is specially utilized to shoot city streets as well as for sports activities.
+
+In order to make settings for this mode:
+
+* Simply tap on the screen and then go to shooting mode icon from left button available on screen.
+* Tap on the time lapse icon that is available on top right portion of screen and then choose time lapse video.
+* Click on Res, FOV and interval to make your desired settings.
+* When you want to hide the settings then just tap on screen.
+
+You can easily record Full HD, 2.7K and 4K resolutions but audio cannot be recorded. The frame rate can be varied from 60 fps to 0.5 fps with simple settings. Here the shorter intervals are preferred for shooting action or sports but longer intervals can be used to record lengthy duration activities. For capturing beautiful scenes of sun rise or sun set it is good to switch to mid range fps values.
+
+#### 3.Field of View
+
+The super wide angle type lenses of your GoPro device will assist you in capturing unique scenes. The linear FIV option is recently added to action camera model and it assist users to take a closer look over scene while developing a smooth footage. It is possible to make customized settings for FOV as per your shoot requirements.
+
+#### 4.Capture App
+
+Hero5 Black allows users to connect their device to phone via wireless network. Simple switch your device Wi-Fi on and then establish an active connection with your smart phone application. The GoPro Capture App assists users in easier settings with fine shooting options from remote location.
+
+#### 5.Quick App
+
+If you want to edit your footage with a bunch advanced tools then it is good to use Quick app that offers wide variety of transitions along with impressive effects. With Quick app, it becomes much easier to pick any theme and then edit videos to create impressive results.
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Finally, you have bought your GoPro Hero5 Black action camera! Now you are ready to capture YouTube ready scenes with impressive video quality. But probably you will find some difficulties in its usage because of its rich functionality and numerous features. Don't worry! Here are few [tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) about how to make most out of your GoPro Hero5 Black.
+
+---
+
+#### Best Video Editing Software for GoPro Hero5 - Wondershare Filmora
+
+We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as one of the best video editing application for GoPro users. It possesses ability to correct lens distortions according to the type of your action camera, and works for advanced video stabilization with audio de-noising and speed control. Filmora also assists in color correction which applies film-looking effects for your video. Brand new Instant Cutter feature for easy trim or merge of video files with no quality loss.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## How to use GoPro Hero5 Black
+
+### Explore the Appearance
+
+#### 1.Replace lens Protector
+
+The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
+
+#### 2.Lock the Touch Screen
+
+It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
+
+#### 3.Side Charging Door
+
+A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
+
+### Have Fun with the New Features
+
+#### 1.Voice Command
+
+In order to turn this feature on, you simply need to swipe down on main screen of your Hero5 Black device and then go to voice command icon. Whenever your camera is powered On then you can control various functions by just speaking few dedicated commands to your camera. These commands start with GoPro as like:
+
+* GoPro, Start recording
+* GoPro, Shoot Burst
+* GoPro, Start time lapse
+* GoPro, HiLight
+* GoPro, Photo mode
+* GoPro, Turn Off
+* GoPro. Video mode
+* GoPro, take a photo
+* GoPro, stop recording
+* GoPro, Time lapse mode
+* GoPro, turn Off
+
+The HiLight voice command in this series will simply mark your video right at that moment and then Quick editing app will use the portion exactly before your command to create final video. In case if you forget any of these commands then they can be easily found under preferences list of your GoPro device. It is also possible to use any preferred language setting for voice commands out of 10 suported languages.
+
+#### 2.Timelapse Mode
+
+Your GoPro device can assist you with Time Lapse mode to create special slow motion footage. This mode is specially utilized to shoot city streets as well as for sports activities.
+
+In order to make settings for this mode:
+
+* Simply tap on the screen and then go to shooting mode icon from left button available on screen.
+* Tap on the time lapse icon that is available on top right portion of screen and then choose time lapse video.
+* Click on Res, FOV and interval to make your desired settings.
+* When you want to hide the settings then just tap on screen.
+
+You can easily record Full HD, 2.7K and 4K resolutions but audio cannot be recorded. The frame rate can be varied from 60 fps to 0.5 fps with simple settings. Here the shorter intervals are preferred for shooting action or sports but longer intervals can be used to record lengthy duration activities. For capturing beautiful scenes of sun rise or sun set it is good to switch to mid range fps values.
+
+#### 3.Field of View
+
+The super wide angle type lenses of your GoPro device will assist you in capturing unique scenes. The linear FIV option is recently added to action camera model and it assist users to take a closer look over scene while developing a smooth footage. It is possible to make customized settings for FOV as per your shoot requirements.
+
+#### 4.Capture App
+
+Hero5 Black allows users to connect their device to phone via wireless network. Simple switch your device Wi-Fi on and then establish an active connection with your smart phone application. The GoPro Capture App assists users in easier settings with fine shooting options from remote location.
+
+#### 5.Quick App
+
+If you want to edit your footage with a bunch advanced tools then it is good to use Quick app that offers wide variety of transitions along with impressive effects. With Quick app, it becomes much easier to pick any theme and then edit videos to create impressive results.
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Finally, you have bought your GoPro Hero5 Black action camera! Now you are ready to capture YouTube ready scenes with impressive video quality. But probably you will find some difficulties in its usage because of its rich functionality and numerous features. Don't worry! Here are few [tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) about how to make most out of your GoPro Hero5 Black.
+
+---
+
+#### Best Video Editing Software for GoPro Hero5 - Wondershare Filmora
+
+We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as one of the best video editing application for GoPro users. It possesses ability to correct lens distortions according to the type of your action camera, and works for advanced video stabilization with audio de-noising and speed control. Filmora also assists in color correction which applies film-looking effects for your video. Brand new Instant Cutter feature for easy trim or merge of video files with no quality loss.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to use GoPro Hero5 Black
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Explore the Appearance
+
+#### 1.Replace lens Protector
+
+The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
+
+#### 2.Lock the Touch Screen
+
+It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
+
+#### 3.Side Charging Door
+
+A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
+
+### Have Fun with the New Features
+
+#### 1.Voice Command
+
+In order to turn this feature on, you simply need to swipe down on main screen of your Hero5 Black device and then go to voice command icon. Whenever your camera is powered On then you can control various functions by just speaking few dedicated commands to your camera. These commands start with GoPro as like:
+
+* GoPro, Start recording
+* GoPro, Shoot Burst
+* GoPro, Start time lapse
+* GoPro, HiLight
+* GoPro, Photo mode
+* GoPro, Turn Off
+* GoPro. Video mode
+* GoPro, take a photo
+* GoPro, stop recording
+* GoPro, Time lapse mode
+* GoPro, turn Off
+
+The HiLight voice command in this series will simply mark your video right at that moment and then Quick editing app will use the portion exactly before your command to create final video. In case if you forget any of these commands then they can be easily found under preferences list of your GoPro device. It is also possible to use any preferred language setting for voice commands out of 10 suported languages.
+
+#### 2.Timelapse Mode
+
+Your GoPro device can assist you with Time Lapse mode to create special slow motion footage. This mode is specially utilized to shoot city streets as well as for sports activities.
+
+In order to make settings for this mode:
+
+* Simply tap on the screen and then go to shooting mode icon from left button available on screen.
+* Tap on the time lapse icon that is available on top right portion of screen and then choose time lapse video.
+* Click on Res, FOV and interval to make your desired settings.
+* When you want to hide the settings then just tap on screen.
+
+You can easily record Full HD, 2.7K and 4K resolutions but audio cannot be recorded. The frame rate can be varied from 60 fps to 0.5 fps with simple settings. Here the shorter intervals are preferred for shooting action or sports but longer intervals can be used to record lengthy duration activities. For capturing beautiful scenes of sun rise or sun set it is good to switch to mid range fps values.
+
+#### 3.Field of View
+
+The super wide angle type lenses of your GoPro device will assist you in capturing unique scenes. The linear FIV option is recently added to action camera model and it assist users to take a closer look over scene while developing a smooth footage. It is possible to make customized settings for FOV as per your shoot requirements.
+
+#### 4.Capture App
+
+Hero5 Black allows users to connect their device to phone via wireless network. Simple switch your device Wi-Fi on and then establish an active connection with your smart phone application. The GoPro Capture App assists users in easier settings with fine shooting options from remote location.
+
+#### 5.Quick App
+
+If you want to edit your footage with a bunch advanced tools then it is good to use Quick app that offers wide variety of transitions along with impressive effects. With Quick app, it becomes much easier to pick any theme and then edit videos to create impressive results.
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Finally, you have bought your GoPro Hero5 Black action camera! Now you are ready to capture YouTube ready scenes with impressive video quality. But probably you will find some difficulties in its usage because of its rich functionality and numerous features. Don't worry! Here are few [tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) about how to make most out of your GoPro Hero5 Black.
+
+---
+
+#### Best Video Editing Software for GoPro Hero5 - Wondershare Filmora
+
+We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as one of the best video editing application for GoPro users. It possesses ability to correct lens distortions according to the type of your action camera, and works for advanced video stabilization with audio de-noising and speed control. Filmora also assists in color correction which applies film-looking effects for your video. Brand new Instant Cutter feature for easy trim or merge of video files with no quality loss.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## How to use GoPro Hero5 Black
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Explore the Appearance
+
+#### 1.Replace lens Protector
+
+The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
+
+#### 2.Lock the Touch Screen
+
+It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
+
+#### 3.Side Charging Door
+
+A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
+
 ### Have Fun with the New Features
 
 #### 1.Voice Command
@@ -436,7 +440,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-top-ringtones-for-pixel-devices/"><u>[New] Explore Top Ringtones for Pixel Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>[New] In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor/"><u>[New] Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>[Updated] 2024 Approved Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-picks-17-top-software-for-cleaning-up-images-for-2024/"><u>Best Picks 17 Top Software for Cleaning Up Images for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evening-stories-visualized-evaluations-for-2024/"><u>Evening Stories Visualized Evaluations for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-google-chrome-wont-launch/"><u>Fixing the Issue: Why Google Chrome Won't Launch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grasping-fcp-obtain-it-at-no-cost-for-2024/"><u>Grasping FCP Obtain It at No Cost for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-v2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic V2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-reno-9a-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo Reno 9A Phones? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-effortless-creative-ending-videos-at-zero-price/"><u>In 2024, Effortless Creative Ending Videos at Zero Price</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-fixed-frame-to-fluid-motion-live-photo-transformation/"><u>In 2024, From Fixed Frame to Fluid Motion Live Photo Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-definition-to-high-dynamic-range-mastery/"><u>In 2024, From Standard Definition to High Dynamic Range Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-depth-perception-iphone-xs-advantage/"><u>In 2024, Harnessing the Power of Depth Perception IPhone X's Advantage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-the-art-of-photo-editing-workflow/"><u>In 2024, In-Depth The Art of Photo Editing Workflow</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-kostenloos-konvertierung-von-mp4-in-wav-mit-movavi-fietsen-sie-zwischen-formaten-frei-herum/"><u>Online Kostenloos Konvertierung Von MP4 in WAV Mit Movavi - Fietsen Sie Zwischen Formaten Frei Herum!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reimagining-a-masterpiece-an-in-depth-look-at-demons-souls-and-its-visual-upgrades/"><u>Reimagining a Masterpiece: An In-Depth Look at Demon’s Souls and Its Visual Upgrades</u></a></li>
+</ul></div>
 

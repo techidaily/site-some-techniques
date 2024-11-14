@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology"
-date: 2024-10-30T19:42:30.193Z
-updated: 2024-11-04T08:51:26.891Z
+date: 2024-11-06T05:11:41.337Z
+updated: 2024-11-12T23:06:42.656Z
 tags:
   - cutting-edge
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
@@ -43,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
@@ -57,28 +50,21 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
 
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -95,11 +81,25 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Meta’s AI Labeling Is Not Foolproof
 
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
 
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
 
@@ -130,22 +130,17 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-easy-steps-to-decode-your-facebook-data/"><u>[New] Easy Steps to Decode Your Facebook Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-examining-key-features-in-vr-headsets/"><u>[New] Examining Key Features in VR Headsets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exclusive-guide-top-5-streamlined-recording-software/"><u>[Updated] In 2024, Exclusive Guide Top 5 Streamlined Recording Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-best-gopro-cases-rated-1-10/"><u>2024 Approved Explore Best GoPro Cases Rated #1-10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-creating-unique-tiktok-cover-art/"><u>2024 Approved Guide to Creating Unique TikTok Cover Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-breakdown-the-true-price-of-a-podcast-for-2024/"><u>Expert Breakdown The True Price of a Podcast for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-best-face-pixeling-tools-for-privacy-for-2024/"><u>Exploring the Best Face-Pixeling Tools for Privacy for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities-for-2024/"><u>Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007338922-fixing-pc-issues-stop-red-dead-online-from-crashing/"><u>Fixing PC Issues: Stop Red Dead Online From Crashing!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-improve-video-quality-in-zoom-meetings-for-2024/"><u>How to Improve Video Quality in Zoom Meetings for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-13t-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi 13T</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-unlock-mac-with-apple-watch-sierra/"><u>In 2024, How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-mastering-the-art-of-thumbnail-design-tips-and-pitfalls/"><u>In 2024, Mastering the Art of Thumbnail Design Tips and Pitfalls</u></a></li>
-<li><a href="https://extra-information.techidaily.com/osblend-the-vmix-alternative/"><u>OSBlend The VMix Alternative</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/tracing-dutch-linguistics-origin-and-evolution/"><u>Tracing Dutch Linguistics: Origin and Evolution</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/tune-up-your-whatsapp-status-snapshot-for-2024/"><u>Tune Up Your WhatsApp Status Snapshot for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-14-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 14 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-android-a-deep-dive-into-kinemaster-features/"><u>[New] Game On Android A Deep Dive Into KineMaster Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-haste-assessment-of-windows-documents/"><u>[Updated] Haste Assessment of Windows Documents</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-essential-checklist-for-selecting-the-best-hdr-cameras/"><u>[Updated] The Essential Checklist for Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-improve-real-time-periscope-performance/"><u>2024 Approved Improve Real-Time Periscope Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-investigation-vll-on-app-standards/"><u>2024 Approved Innovative Investigation VLL on App Standards</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-micro-photography-key-tips-for-filmmakers-for-2024/"><u>Elevate Your Micro Photography Key Tips for Filmmakers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ice-and-elegance-the-2022-winter-olympics-in-china/"><u>Ice & Elegance The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experience-realities-unveiled-vr-tour-essentials/"><u>In 2024, Experience Realities Unveiled VR Tour Essentials</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-discovery-the-key-to-effective-video-titling/"><u>In 2024, Streamlining Discovery The Key to Effective Video Titling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-guide-using-old-school-film-tricks-today/"><u>In 2024, Ultimate Guide Using Old-School Film Tricks Today</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-vn-video-editor-pro-vs-the-competition-how-does-it-stack-up/"><u>New 2024 Approved VN Video Editor Pro Vs. The Competition How Does It Stack Up?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
 </ul></div>
 

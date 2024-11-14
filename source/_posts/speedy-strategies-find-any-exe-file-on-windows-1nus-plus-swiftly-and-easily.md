@@ -1,7 +1,7 @@
 ---
 title: "Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily"
-date: 2024-11-01T21:20:21.111Z
-updated: 2024-11-04T08:54:55.107Z
+date: 2024-11-12T02:21:43.083Z
+updated: 2024-11-13T05:20:47.577Z
 tags:
   - desktop
 categories:
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
 
 ![Finding an application's shortcut location using the Start Menu in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_locate_shortcut_startmenu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will open a File Explorer window that points to the actual application shortcut file. Right click on that shortcut, and select "Properties."
@@ -59,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll be taken directly to the EXE's location in File Explorer.
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
 
@@ -80,20 +73,27 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
  Apps you install from the Microsoft Store, and their executables, are stored in "C:\\Program Files\\WindowsApps."
 
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
 
@@ -112,18 +112,15 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-broadcast-power-play-which-livestream-tool-should-you-use/"><u>[New] 2024 Approved Broadcast Power Play Which Livestream Tool Should You Use?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-stealthy-search-strategies-for-elusive-youtube-videos/"><u>[New] 2024 Approved Stealthy Search Strategies for Elusive YouTube Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[New] 2024 Approved The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-giggle-genesis-app/"><u>[New] Giggle Genesis App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-flawlessly-post-srt-files-in-multiple-social-environments/"><u>[New] How to Flawlessly Post SRT Files in Multiple Social Environments</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-leverage-igs-busiest-hours-for-your-content/"><u>[New] How to Leverage IG's Busiest Hours for Your Content</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-estimating-filming-expenses-for-a-song-video-production/"><u>2024 Approved Estimating Filming Expenses for a Song Video Production</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/heartfelt-goodbyes-free-or-subscribed-video-endings-for-2024/"><u>Heartfelt Goodbyes Free or Subscribed Video Endings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/improve-zoo-call-quality-banish-background-noise-for-2024/"><u>Improve Zoo Call Quality Banish Background Noise for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-in-vlogging-gear-and-software-guide/"><u>In 2024, Getting Started in Vlogging Gear and Software Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>In 2024, Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mini-laptops-and-gimbals-for-mobile-videos/"><u>Mini Laptops & Gimbals for Mobile Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/real-time-fbx-filming-tips/"><u>Real-Time FBX Filming Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-opening-srt-on-computers/"><u>[New] Expert Techniques for Opening SRT on Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-places-to-step-into-new-realities/"><u>[New] Ideal Places to Step Into New Realities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unraveling-the-secret-of-seamless-subtitle-crafting-for-facebook-videos/"><u>[New] In 2024, Unraveling the Secret of Seamless Subtitle Crafting for Facebook Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-av1-compression-a-beginners-overview-for-2024/"><u>[Updated] AV1 Compression A Beginner's Overview for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-explore-the-best-kept-facebook-meme-secrets-for-2024/"><u>[Updated] Explore The Best-Kept Facebook Meme Secrets for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-view/"><u>14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 View</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-stepwise-approach-to-successfully-posting-srt-files-in-new-media-for-2024/"><u>A Stepwise Approach to Successfully Posting SRT Files in New Media for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-top-economical-iosandroid-live-streaming-tools-for-2024/"><u>Identifying Top Economical iOS/Android Live Streaming Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-the-best-is-picku-leading-photo-enhancement-for-android-users/"><u>In 2024, Examining the Best Is PickU Leading Photo Enhancement for Android Users?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/precision-capturing-with-apowersofts-latest-screenshot-tool/"><u>Precision Capturing with Apowersoft's Latest Screenshot Tool</u></a></li>
 </ul></div>
 

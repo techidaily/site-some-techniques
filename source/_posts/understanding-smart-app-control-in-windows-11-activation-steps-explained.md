@@ -1,7 +1,7 @@
 ---
 title: "Understanding Smart App Control in Windows 11: Activation Steps Explained"
-date: 2024-10-31T06:15:29.702Z
-updated: 2024-11-03T18:31:50.116Z
+date: 2024-11-10T01:24:21.770Z
+updated: 2024-11-12T19:03:15.112Z
 tags:
   - deals
 categories:
@@ -42,19 +42,20 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 ![Smart App Control Evaluation mode selected in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-screen-windows-security-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the evaluation is complete, if Windows thinks SAC can work without too many interruptions on your system, it's automatically turned on. If not, it's disabled.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn On Smart App Control
 
@@ -73,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 ![App and Browser Control tab selected in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-security-app-browser-control-tab-selected-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select "On" to enable Smart App Control on your Windows device. Once enabled, SAC starts monitoring and blocks any suspicious app execution on your computer.
@@ -84,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 ![Smart App Control turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-turned-on-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Force Enable Smart App Control Using the Registry Editor
@@ -109,10 +110,10 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 ![Windows 11 Registry Editor showing the 'VerifiedAndReputablePolicyState' value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-registry-editor-showing-smart-app-control-policy.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the "Value Data" field, type 1 to enable Smart App Control and click "OK" to save the changes. Alternatively, type 2 to put SAC in Evaluation mode, or 0 to turn it off. You need to relaunch the Windows Security app to apply the changes.
@@ -120,16 +121,10 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 ![Changing VerifiedAndReputablePolicyState value in Registry Editor to 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/changing-verifiedandreputablepolicystate-value-in-registry-editor-to-1-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Turn Off Smart App Control
@@ -147,13 +142,6 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
  Read the confirmation prompt, then click "Yes, I'm Sure" to disable Smart App Control.
 
 ![Smart App Control confirmation screen when turning off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-off-confirmation-screen.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -174,20 +162,21 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>[New] Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gadget-games-galore-quickest-quality-flash-titles/"><u>[New] Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortlessly-link-zoom-events-across-ios-android-and-desktops/"><u>2024 Approved Effortlessly Link Zoom Events Across iOS, Android, and Desktops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-stop-motion-animations-15-best-ever/"><u>2024 Approved Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expanding-digital-presence-stream-to-youtube-plus-additional-platforms-for-2024/"><u>Expanding Digital Presence Stream to YouTube + Additional Platforms for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-and-enjoy-virtual-reality-cinema-on-your-ipad/"><u>In 2024, Explore and Enjoy Virtual Reality Cinema on Your iPad</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-to-enhanced-gopro-experience/"><u>In 2024, First Steps to Enhanced GoPro Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-s24-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy S24 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-understanding-the-google-podcast-app/"><u>In 2024, In Depth Analysis Understanding the Google Podcast App</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-f5-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco F5 Pro 5G Location | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-headsets-unveiled-top-8-for-virtual-quests-for-2024/"><u>Innovative Headsets Unveiled Top 8 for Virtual Quests for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728466719436-outlook/"><u>Outlookにとって信頼性の高いバックアップソフトウェアですべてのデータを安全に守る方法</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210711658-9781435141377-the-ghost-hunters-strangest-cases/"><u>The Ghost Hunter's Strangest Cases | Free Book</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-resolving-no-audio-in-obs/"><u>Troubleshooting Resolving No Audio in OBS</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-lava-yuva-3-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-every-interaction-count-how-to-add-and-share-gifs-on-snapchat/"><u>[New] 2024 Approved Make Every Interaction Count How to Add and Share GIFs on Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-continuous-display-recorder/"><u>[New] Continuous Display Recorder</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-creative-reactors-the-10-premier-video-responses-for-2024/"><u>[Updated] Creative Reactors The 10 Premier Video Responses for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cutting-edge-techniques-top-lenses-for-youtube-stars-for-2024/"><u>[Updated] Cutting-Edge Techniques Top Lenses for YouTube Stars for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-rating-does-aurora-deliver-quality/"><u>[Updated] HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-guide-to-jaunt-vr-immersion/"><u>[Updated] In 2024, The Ultimate Guide to Jaunt VR Immersion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-ultimate-storage-choices/"><u>[Updated] In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-byte-to-gb-a-days-long-film-storage-needs/"><u>2024 Approved Byte-to-GB A Day's Long Film Storage Needs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-techniques-for-photo-based-tileworks/"><u>2024 Approved Exploring Techniques for Photo-Based Tileworks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-express-gratitude-free-endings-and-premium-exclusives/"><u>2024 Approved Express Gratitude Free Endings & Premium Exclusives</u></a></li>
+<li><a href="https://win11.techidaily.com/atlasos-reboot-transform-your-old-game-machine/"><u>AtlasOS Reboot: Transform Your Old Game Machine</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-techniques-for-capturing-and-recording-streamed-content-for-2024/"><u>Expert Techniques for Capturing & Recording Streamed Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-vector-graphics-top-10-sources-for-2024/"><u>High-Quality Vector Graphics Top 10 Sources for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-row-leisure-10-alternatives-to-sports/"><u>In 2024, First Row Leisure 10 Alternatives to Sports</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel P40+ Bootloader Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-import-melodies-into-premiere-pro-projects/"><u>In 2024, Import Melodies Into Premiere Pro Projects</u></a></li>
 </ul></div>
 

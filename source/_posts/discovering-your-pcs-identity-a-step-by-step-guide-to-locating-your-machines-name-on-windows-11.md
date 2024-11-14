@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your PC's Identity: A Step-by-Step Guide to Locating Your Machine's Name on Windows 11"
-date: 2024-10-27T18:53:43.498Z
-updated: 2024-11-04T01:09:50.683Z
+date: 2024-11-06T07:03:05.905Z
+updated: 2024-11-12T16:59:29.896Z
 tags:
   - deals
 categories:
@@ -20,25 +20,11 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 * [Using the Settings App](https://extra-guidance.techidaily.com/new-leveraging-patient-stories-a-guide-to-powerful-videography/)
 * [Using Command Prompt](https://extra-skills.techidaily.com/updated-scout-out-best-spots-for-vr-experiences/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  You can find your Windows 10 PC name by right-clicking the Start menu, choosing "System," and checking the value next to "Device Name." You can also bring it up with the Windows+Pause keyboard shortcut, the search box, File Explore, and Command Prompt.
 
  Do you want to find your computer on a network where there are several machines? One way to do that is to find your PC's name and then match the name on the network. Here's how to view your computer's name using graphical and command-line methods in Windows 10.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Find Your Computer Name with the Power User Menu
 
@@ -54,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Using a Keyboard Shortcut
 
  To reveal your machine's name [using a keyboard shortcut](https://technical-tips.techidaily.com/unfolding-details-on-the-next-gen-foldable-iphone-pricing-predictions-availability-date-and-feature-overview/), press Windows+Pause.
@@ -72,13 +51,6 @@ Hannah Stryker / How-To Geek
  On the "About" page, next to "Device Name," your PC name is listed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using the Search Box
 
@@ -92,22 +64,22 @@ PC name
 
 ![Select "View Your PC Name" from the search results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/view-your-pc-name.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next to "Device Name," your computer name is listed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using File Explorer
@@ -119,15 +91,28 @@ PC name
 ![Right-click "This PC" and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/6-this-pc-properties.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll open an "About" page. Here, next to "Device Name," your PC name is displayed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using the Settings App
 
@@ -141,9 +126,23 @@ PC name
 
 ![Select "About" at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/8-about-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the "About" page, next to "Device Name," you have your PC's name printed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using Command Prompt
 
@@ -154,10 +153,10 @@ PC name
 ![Search for "Command Prompt," then click the first result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/open-control-panel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Command Prompt, type the `hostname` command and press Enter:
@@ -171,6 +170,13 @@ hostname
  Another command you can use to view your computer's name along with [your network adapter details](https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/) is `ipconfig /all` . Type this command in Command Prompt and hit Enter, and you'll see your machine name next to "Host Name."
 
 ![The result of the "ipconfig /all" command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/11-ipconfig-all-command-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And those are the ways to know what [name your PC goes by](https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-8-sim-lock-by-drfone-ios/) on your network. Very useful!
 
@@ -189,19 +195,18 @@ hostname
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-10-budget-friendly-passport-photographers-online/"><u>[New] Exclusive List 10 Budget-Friendly Passport Photographers Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-fantasy-to-feasibility-vrs-milestones/"><u>[New] From Fantasy to Feasibility VR's Milestones</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-put-a-halt-on-surprise-youtube-videos/"><u>[New] Put a Halt on Surprise YouTube Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>[New] The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-horizon-the-rise-of-virtual-reality/"><u>[Updated] Immersive Horizon The Rise of Virtual Reality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-peak-performance-sd-card-for-sony-a7s-series/"><u>[Updated] Peak Performance SD Card for Sony A7S Series</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-times-guide-to-essential-gopro-extras/"><u>2024 Approved First Time's Guide to Essential GoPro Extras</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-gaming-sound-quality-by-updating-corsair-headset-drivers-in-microsoft-windows/"><u>Boost Gaming Sound Quality by Updating Corsair Headset Drivers in Microsoft Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-gopro-editor-software-for-smartphone-users-for-2024/"><u>Expert GoPro Editor Software for Smartphone Users for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-spots-for-youtube-video-promotion/"><u>In 2024, Foremost Spots for YouTube Video Promotion</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-redmi-12-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi Redmi 12 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-creative-with-gopro-easy-and-free-video-editing-solutions/"><u>New 2024 Approved Get Creative with GoPro Easy and Free Video Editing Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-adding-social-media-magic-snapchat-to-your-mac/"><u>[Updated] In 2024, Adding Social Media Magic Snapchat to Your Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>[Updated] In 2024, Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-exceptional-counsel-premium-ringtone-developers/"><u>2024 Approved Exceptional Counsel Premium Ringtone Developers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gpu-excellence-in-4k-gameplay-experience/"><u>2024 Approved GPU Excellence in 4K Gameplay Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-in-live-broadcast-with-periscope/"><u>2024 Approved Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highest-quality-live-tv-and-community-broadcasting-guide-2esecurity-for-2024/"><u>Highest-Quality Live TV & Community Broadcasting Guide, 2Esecurity for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y200e-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y200e 5G Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-msvcr100dll-not-found-or-missing-errors/"><u>How to Fix Msvcr100.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-get-high-end-editing-power-for-free-for-2024/"><u>How to Get High-End Editing Power for Free for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>In 2024, Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focus-freshness-the-ultimate-clear-image-software-guide/"><u>In 2024, Focus Freshness The Ultimate Clear Image Software Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unlocking-the-art-of-alluring-youtube-live-image-creation/"><u>In 2024, Unlocking the Art of Alluring YouTube Live Image Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eling-revenue-how-much-do-creators-make-on-youtube-adverts/"><u>Unraveling Revenue How Much Do Creators Make on Youtube Adverts?</u></a></li>
 </ul></div>
 

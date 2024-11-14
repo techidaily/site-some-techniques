@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-10-27T23:45:27.914Z
-updated: 2024-11-03T22:41:27.726Z
+date: 2024-11-07T02:51:11.435Z
+updated: 2024-11-13T09:53:25.243Z
 tags:
   - deals
 categories:
@@ -35,28 +35,15 @@ Benj Edwards / How-To Geek
 
  The rest of the process was a lot easier once I got access to the BIOS, but even then, it took me a few tries to find the exact setting on my BIOS screen (since it was different from other walkthrough screens). After about an hour of fiddling, I finally got it sorted out.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Start Menu and Taskbar Layout Are Too Limited
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
@@ -67,16 +54,22 @@ Benj Edwards / How-To Geek
 
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Truncated Context Menus Hurt Usability
 
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
 
@@ -88,11 +81,25 @@ Benj Edwards / How-To Geek
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a power user, I like sorting my stuff in a particular way. Sometimes, I like seeing thumbnails (if it's images), sometimes I like seeing details if I want to determine which file is the largest and needs to be deleted. Back in Windows 10, it was such an easy thing to arrange your icons by date, or size. Now, Windows 11 has made it more unintuitive for users to sort their files.
 
  The biggest issue I have is the number of grouping options. Why are there so many? Windows 10 made it relatively easy to arrange things in an intuitive way. If you wanted additional sorting options, you just needed to hit the "More" button under Sort By. Windows 11 makes this much messier—the More button at the top of File Explorer does something different from the More button in the right-click context menu, and you can't add or remove sorting options for files or groups independently of one another. If you want to group your files one way, then sort those groups according to a separate criteria, you can't do it without adding the option to both the Sort By and Group menu. Sometimes, [Windows 11 just refuses to sort things](https://learn.microsoft.com/en-us/answers/questions/1117096/windows-11-file-explorer-has-wrong-sorting-order?orderBy=Helpful) the way you want them, defeating the entire purpose of a sort button.
 
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The "Action Center" Is No More
 
@@ -101,13 +108,6 @@ Benj Edwards / How-To Geek
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  It's Not A Bad Operating System But...
 
@@ -134,24 +134,24 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-make-awesome-youtube-channel-art-ultimate-guide/"><u>[New] 2024 Approved How to Make Awesome YouTube Channel Art [Ultimate Guide]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-analysis-and-how-to-the-ultimate-picsart-experience/"><u>[New] Full Analysis and How-To The Ultimate PicsArt Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-garageband-guide-gently-dissolve-decibels/"><u>[New] Garageband Guide Gently Dissolve Decibels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonize-life-with-these-essential-music-video-apps/"><u>[New] Harmonize Life with These Essential Music Video Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-the-immersive-world-tips-for-recording-vr-games/"><u>[New] In 2024, Capturing the Immersive World Tips for Recording VR Games</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-originality-how-to-uncover-roots-of-instagram-visuals/"><u>[New] In 2024, Exploring Originality How to Uncover Roots of Instagram Visuals</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-5-safe-platforms-for-remote-work-in-startups/"><u>[Updated] 2024 Approved Ideal 5 Safe Platforms for Remote Work in Startups</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-create-with-colors-youtube-banner-creation-guide-for-2024/"><u>[Updated] Create with Colors YouTube Banner Creation Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[Updated] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highlighting-key-developments-in-windows-movie-maker-releases/"><u>[Updated] Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-rewind-a-twitch-live-stream/"><u>[Updated] How to Rewind A Twitch Live Stream</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach-for-2024/"><u>[Updated] Master Image Editing with These Top 8 Tablets Beyond Filmora's Reach for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-introduction-to-interactive-graphic-design/"><u>2024 Approved Introduction to Interactive Graphic Design</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reel-of-excellence-ice-artistry-in-22-summary/"><u>2024 Approved Reel of Excellence - Ice Artistry in '22 Summary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-on-choosing-top-9-webcam-enhancement-tools-for-2024/"><u>Expert Tips on Choosing Top 9 Webcam Enhancement Tools for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/gutmann-wipe-method-safe-and-secure-disk-erasure-techniques/"><u>Gutmann Wipe Method: Safe and Secure Disk Erasure Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-blur-a-picture-on-iphone-4-ways-for-2024/"><u>How to Blur a Picture on iPhone [4 Ways] for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hunt-down-the-best-free-vfx-platforms-for-your-editing-needs-for-2024/"><u>Hunt Down the Best Free VFX Platforms for Your Editing Needs for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-epson-scanner-functionality-in-windows-11/"><u>Restoring Epson Scanner Functionality in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-boost-for-editors-leveraging-story-remix-within-windows-photos/"><u>[New] Expertise Boost for Editors Leveraging Story Remix Within Windows Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-film-cameras-buyers-guide-for-all-skills-for-2024/"><u>[New] The Ultimate Film Cameras Buyers Guide for All Skills for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>[Updated] Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-does-pewdiepie-make-yearly-financial-report/"><u>[Updated] How Much Does PewDiePie Make - Yearly Financial Report</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-termination-immersive-reality/"><u>[Updated] Ideal Termination Immersive Reality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-enhancing-viewability-creating-custom-youtube-thumbnails/"><u>[Updated] In 2024, Enhancing Viewability Creating Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-still-to-story-the-art-of-adding-text-to-photos-os-style/"><u>2024 Approved From Still to Story The Art of Adding Text to Photos, OS Style</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/facebook-launching-your-first-phenomenal-giving-post-for-2024/"><u>Facebook Launching Your First Phenomenal Giving Post for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap-for-2024/"><u>Fiscal Football Footage How To Capture and Edit for Dirt-Cheap for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-note-30-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Note 30? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-new-horizons-mobile-videography-beyond-periscope/"><u>In 2024, Explore New Horizons Mobile Videography Beyond Periscope</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-photo-management-on-iphone-size-adjustment-basics/"><u>In 2024, Flawless Photo Management on iPhone Size Adjustment Basics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-silence-to-symphony-how-to-set-up-unique-ringtones-and-sounds-for-android/"><u>In 2024, From Silence to Symphony How to Set Up Unique Ringtones & Sounds for Android</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-millions-watch-but-how-much-do-they-earn/"><u>In 2024, Millions Watch, But How Much Do They Earn?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tomtom-bandit-action-camera-review-2023/"><u>TomTom Bandit Action Camera Review 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-tickles-for-young-game-fans-in-2024/"><u>Top Tickles for Young Game Fans, In 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-fixes-for-overcoming-your-pcs-app-compatibility-snags/"><u>Ultimate Fixes for Overcoming Your PC's App Compatibility Snags</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/vibrance-alignment-system/"><u>Vibrance Alignment System</u></a></li>
 </ul></div>
 

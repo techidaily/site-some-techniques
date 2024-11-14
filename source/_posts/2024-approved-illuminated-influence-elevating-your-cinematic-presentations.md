@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Illuminated Influence  Elevating Your Cinematic Presentations\""
-date: 2024-07-26T16:34:20.003Z
-updated: 2024-07-27T16:34:20.003Z
+date: 2024-11-10T08:59:32.365Z
+updated: 2024-11-13T03:02:39.739Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -74,25 +70,16 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -103,14 +90,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -143,6 +131,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-free-range-creativity-with-premium-ae-samples/"><u>[New] Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gb-required-for-one-full-movie-hour-by-hour/"><u>[New] GB Required for One Full Movie, Hour by Hour</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-your-youtube-video-presentation/"><u>[New] Optimizing Your YouTube Video Presentation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ultimate-budget-breakdown-how-much-does-it-cost-to-start-a-podcast/"><u>[New] Ultimate Budget Breakdown How Much Does It Cost To Start a Podcast?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-effortless-techniques-crafting-youtube-shorts-images-on-the-fly-for-2024/"><u>[Updated] Effortless Techniques Crafting YouTube Shorts Images on the Fly for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>[Updated] From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-transform-your-youtube-videos-into-webm-easily-for-2024/"><u>[Updated] Transform Your YouTube Videos Into WebM Easily for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-best-5-book-promo-videos-for-authors/"><u>2024 Approved Exploring the Best 5 Book Promo Videos for Authors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exquisite-note-taking-experience-on-mematic/"><u>2024 Approved Exquisite Note-Taking Experience on Mematic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-playful-pedal-powered-pastimes/"><u>2024 Approved Playful Pedal-Powered Pastimes</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/complete-uninstallation-of-apowerrec-and-virtual-sound-card-on-your-mac-expert-tips-and-tricks/"><u>Complete Uninstallation of ApowerREC and Virtual Sound Card on Your Mac: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-visibility-a-cursor-guide-for-win10-and-11/"><u>Enhancing Visibility: A Cursor Guide for Win10 & 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-samsung-galaxy-s8s-4k-superiority-for-2024/"><u>Exploring Samsung Galaxy S8's 4K Superiority for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-screen-capture-solutions-top-5-recommendations-for-windows-for-2024/"><u>Free Screen Capture Solutions – Top 5 Recommendations for Windows for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-weaving-the-art-of-photomontages/"><u>In 2024, Image Weaving The Art of Photomontages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-to-reactivate-your-windows-1110-spatial-audio-experience/"><u>Step-by-Step Fixes to Reactivate Your Windows 11/10 Spatial Audio Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/z2-the-best-pc-upgrade-get-your-intel-z270-gaming-pro-carbon-motherboard-now/"><u>Z2 The Best PC Upgrade: Get Your Intel Z270 Gaming Pro Carbon Motherboard Now!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-11-03T06:07:49.695Z
-updated: 2024-11-04T00:24:47.662Z
+date: 2024-11-12T10:12:42.107Z
+updated: 2024-11-12T21:46:18.672Z
 tags:
   - desktop
 categories:
@@ -31,13 +31,6 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Set a System Password 
 
  In a similar vein, you should also always set a system password, which you enter to unlock the laptop on startup or when unlocking the screen—which we talk about in our next entry. This is a good idea on any device, as it prevents anybody from accessing your data. It’s particularly vital for any portable device as it can prevent unauthorized access should it get lost or stolen.
@@ -48,19 +41,6 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  With the system password set up, you should also make sure screen lock activates after a period of inactivity, and also commit the manual screen lock command (Ctrl+Alt+L) to memory. We can’t stress enough how important it is to do this if you’re in a shared space; not locking your screen opens you up to all kinds of mischief.
@@ -68,16 +48,16 @@ Jerome Thomas / How-To Geek
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
+<span id="1977032">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  Install a VPN 
@@ -102,9 +82,23 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6  Disable Root Login Over SSH 
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -113,10 +107,10 @@ Hannah Stryker / How-To Geek
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
@@ -146,14 +140,21 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-light-in-iphone-hdr-photography/"><u>[Updated] Harnessing the Power of Light in iPhone HDR Photography</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-review-what-you-need-to-know-about-the-truecaller-phone-application/"><u>Expert Review: What You Need to Know About the Truecaller Phone Application</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-immediately-force-quit-stalled-window-software-a-step-by-step-walkthrough/"><u>How To Immediately Force Quit Stalled Window Software – A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-nvidia-display-drivers-on-windows-10-7-and-8-computers/"><u>How to Install NVIDIA Display Drivers on Windows 10, 7 & 8 Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-overcome-sony-a6400-video-viewing-failure-for-2024/"><u>How to Overcome Sony A6400 Video Viewing Failure for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracking-music-in-spotify-efficiency-and-security-in-harmony/"><u>In 2024, Fast-Tracking Music in Spotify Efficiency & Security in Harmony</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-ai-pixel-perfect-editor-for-2024/"><u>Innovative AI Pixel Perfect Editor for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-interactions-proper-use-of-twitchs-bans-and-u-bans/"><u>Streamline Interactions: Proper Use of Twitch's Bans and U-Bans</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-hardware-trustworthy-insights-by-tom/"><u>Unveiling the Latest in Hardware - Trustworthy Insights by Tom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-paced-artistry-expert-valorant-thumbnails-in-a-blink/"><u>[New] 2024 Approved Fast-Paced Artistry Expert Valorant Thumbnails in a Blink</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flash-frame-filmmaking-script/"><u>[New] Flash Frame Filmmaking Script</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-light-to-shadow-premiere-pro-transitions/"><u>[New] From Light to Shadow Premiere Pro Transitions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-craft-and-modify-iphone-motion-videos-reducing-pace-effectively/"><u>[New] How to Craft & Modify iPhone Motion Videos Reducing Pace Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reveal-the-true-colors-top-10-apps-that-cleanse-blurry-shots/"><u>[New] Reveal the True Colors Top 10 Apps that Cleanse Blurry Shots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions/"><u>[Updated] In 2024, Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-ultimate-a-list-viewing-channel-guide-for-films/"><u>[Updated] Ultimate A-List Viewing Channel Guide for Films</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-free-luts-roundup-download-links-galore/"><u>2024 Approved 10 Best Free LUTs Roundup - Download Links Galore</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>2024 Approved From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>2024 Approved Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-mfc-7360n-printer-driver-setup-and-enhancements-on-windows-11-8-and-7-quick-tips/"><u>Brother MFC-7360N Printer Driver Setup and Enhancements on Windows 11, 8, and 7 – Quick Tips!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-your-pc-from-windows-7-to-windows-11/"><u>Elevate Your PC: From Windows 7 to Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exquisite-drone-fleet-the-pinnacle-of-visual-artistry-for-2024/"><u>Exquisite Drone Fleet The Pinnacle of Visual Artistry for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experience-next-gen-notetaking-with-mematic/"><u>In 2024, Experience Next-Gen Notetaking with Mematic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-s25-tease-release-forecasts-estimated-costs-and-potential-features-leaked-so-far/"><u>Samsung Galaxy S25 Tease: Release Forecasts, Estimated Costs, and Potential Features Leaked So Far</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleashing-creativity-with-sound-the-impact-of-an-on-the-fly-djs-arsenal-a-personal-tale/"><u>Unleashing Creativity with Sound: The Impact of an On-the-Fly DJ's Arsenal - A Personal Tale</u></a></li>
 </ul></div>
 

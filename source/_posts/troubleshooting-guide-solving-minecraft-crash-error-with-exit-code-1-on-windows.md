@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows"
-date: 2024-11-03T04:00:22.877Z
-updated: 2024-11-04T09:55:43.896Z
+date: 2024-11-06T08:22:08.541Z
+updated: 2024-11-12T22:19:15.963Z
 tags:
   - deals
 categories:
@@ -21,10 +21,10 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 * [Reinstall Minecraft](https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,40 +47,26 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
  In the Roaming folder that opens up, navigate to .Minecraft > Mods.
 
 ![Mods folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mods-folder-in-the-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the mods folder, go through the names of all the mods and check the version number. If you find a mod with a different version number than the _Minecraft_ version installed on your computer, it's probably the culprit behind the error.
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll need to replace that mod with its latest version to fix the problem. For this, take note of the name of that mod, and then visit the [CurseForge website](https://www.curseforge.com/minecraft). Type the name of that mod and hit the search icon.
 
 ![Search icon on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/search-icon-the-curseforge-website.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose the relevant mod from the result that appears. Switch to the "Files" tab. You'll see different versions of that mod. You need to click on that version which corresponds with the version of _Minecraft_ you're using.
 
@@ -90,21 +76,7 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Detect and Delete the Problematic Mod
 
@@ -113,13 +85,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  To find the culprit mod, go to the _Minecraft_ mods folder and move all of your mods to a different location. Then, start moving each mod back to the mods folder one at a time and launch the game after adding each mod. You'll need to do this to identify which mod causes the Exit Code 1 error after adding it back to the folder.
 
  Once you've identified the mod that causes the error, you can delete it from your computer. And if you want, you can also report the issue with that mod on its dedicated page on the CurseForge website.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Update Your Graphics Driver
 
@@ -145,6 +110,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  Once you've updated the graphics driver on your computer, restart it and launch _Minecraft_ to check for the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Edit the _Minecraft_ Launcher Path
 
  The Exit Code 1 error can also occur due to your Windows username if it contains any special characters. These special characters can sometimes prevent the Minecraft launcher from finding the game directory, which ultimately results in the error.
@@ -169,20 +141,27 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Installations tab in the Minecraft Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installations-tab-in-the-minecraft-launcher.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the three dots next to the "Latest release" entry and choose "Edit."
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "More Options." Then, click the "Browse" option.
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
@@ -190,11 +169,25 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
     
 ![Open option in the Open File window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-option-in-the-open-file-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "Save" button.
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
 
  Now, restart the game and check for the issue again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Reinstall _Minecraft_ 
 
@@ -203,6 +196,19 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  Copy the "Save" folder and paste it somewhere safe on your computer.
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
@@ -237,21 +243,17 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-video-tools-working-across-systems-seamlessly/"><u>[New] Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-the-art-of-movie-making-xp-edition/"><u>[New] Initiate the Art of Movie Making Xp Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-fabulous-photo-collage-artistry/"><u>[New] Techniques for Fabulous Photo Collage Artistry</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-tunefab-screen-recorder-review/"><u>[New] Tunefab Screen Recorder Review</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlink-from-youtube-shorts-follow-this-plan/"><u>[New] Unlink From YouTube Shorts - Follow This Plan</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-beyond-viral-tactics-uncovering-the-facts-about-reels-on-instagram/"><u>[Updated] Beyond Viral Tactics Uncovering the Facts About Reels on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fluxvideoart-compile-and-display-on-macos-sierra/"><u>[Updated] FluxVideoArt Compile & Display on macOS Sierra</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-implementation-crafting-a-powerful-documntary-narrative/"><u>[Updated] From Idea to Implementation Crafting a Powerful Documntary Narrative</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-for-eliminating-youtube-video-skip-teasers/"><u>2024 Approved Expert Advice for Eliminating YouTube Video Skip Teasers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-time-stamping-your-photos/"><u>2024 Approved The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-players-in-immersive-vision-sets/"><u>2024 Approved Top Players in Immersive Vision Sets</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/enhanced-personalization-with-our-cookiebot-enabled-solutions/"><u>Enhanced Personalization with Our Cookiebot-Enabled Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-14-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi 14 Pro Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-incrementally-lower-decibels-in-logic-pro/"><u>In 2024, How to Incrementally Lower Decibels in Logic Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-color-correction-with-canons-paired-luts/"><u>In 2024, Immediate Color Correction with Canon's Paired LUTs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-blh41n-rtf-a-detailed-review-of-the-120-size-blade-rc-helicopter-for-outdoor-enjoyment/"><u>Unveiling the Potential of BLH41n RTF: A Detailed Review of the 120 Size Blade RC Helicopter for Outdoor Enjoyment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/avigating-the-world-of-sound-effects-in-youtube-videos/"><u>[New] Navigating the World of Sound Effects in YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-essential-steps-for-transitioning-videos-from-youtube-to-dailymotion/"><u>[New] The Essential Steps for Transitioning Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-implementing-exact-timestamp-features-for-youtube/"><u>[Updated] Implementing Exact Timestamp Features for YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-access-to-best-ae-templates-for-2024/"><u>Exclusive Access to Best AE Templates for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero5-black-mastery-techniques-to-take-photos-and-videos-from-great-for-2024/"><u>Hero5 Black Mastery Techniques to Take Photos & Videos From Great for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-design-a-post-that-sparks-wide-scale-interest-in-fb-giving-for-2024/"><u>How to Design a Post That Sparks Wide-Scale Interest in FB Giving for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-top-20-open-source-pubg-slideshows/"><u>In 2024, Exclusive List Top 20 Open-Source PUBG Slideshows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-c12-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia C12 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimal-chatgpt-experience-comparing-web-browser-support-with-add-on-extensions/"><u>Optimal ChatGPT Experience: Comparing Web Browser Support with Add-On Extensions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-why-wont-my-pc-exit-windows-10-properly/"><u>Solution Guide: Why Won't My PC Exit Windows 10 Properly?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/symphony-in-softness-playback-reduction-guide/"><u>Symphony in Softness Playback Reduction Guide</u></a></li>
 </ul></div>
 

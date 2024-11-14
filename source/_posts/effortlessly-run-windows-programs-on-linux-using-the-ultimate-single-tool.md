@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Run Windows Programs on Linux Using the Ultimate Single Tool
-date: 2024-11-02T04:06:07.682Z
-updated: 2024-11-04T08:21:37.567Z
+date: 2024-11-07T09:56:07.540Z
+updated: 2024-11-13T08:12:06.857Z
 tags:
   - desktop
 categories:
@@ -45,6 +45,13 @@ flatpak install flathub com.usebottles.bottles
 
 ![The Bottles flatpak installation requesting confirmation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type “Y” and hit “Enter.”
 
  The installation takes a little while. When it is completed, you can launch Bottles with this command.
@@ -54,39 +61,19 @@ flatpak run com.usebottles.bottles
 ![Launching the Bottles flatpak](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll see some output as Bottles configures itself.
 
 ![The output from Bottles the first time it is launched](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-5.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Soon, Bottles launches, displaying the Welcome to Bottles introduction screens.
 
 ![The Bottles welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the arrow button to move through the screens. On the Almost Done page, click the blue "Continue" button.
 
@@ -100,6 +87,13 @@ flatpak run com.usebottles.bottles
 
 ![The Bottles application straight after installation, with no bottles created](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With no Bottles created, the Library view is empty.
 
  You can also launch Bottles by finding it in your application view. On GNOME, press the "Super" key and start to type "Bottles."
@@ -107,6 +101,13 @@ flatpak run com.usebottles.bottles
 ![The Bottles icon in the GNOME application search results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/24.png) 
 
  When you see the Bottles icon, click it to launch the application.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Don't Forget to Adjust Bottles Preferences
 
@@ -126,25 +127,18 @@ flatpak run com.usebottles.bottles
 
 ![The "Bottles Directory" option in the General tab of the Prefrences dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The bottom option on the “General” tab is “Bottles Directory.” Click the button at the end of that line to open a file browser dialog.
 
 ![The file dialog that allows you to browse to a location and set it as the location for the bottles you create](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Browse to the location you wish to use, then click the orange “Select” button.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Different Types of Bottle
 
@@ -154,18 +148,18 @@ flatpak run com.usebottles.bottles
 
  We’re going to use the template for applications.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Creating Your First Bottle
 
  To create your bottle, select “Bottles” from the toolbar, then click on the blue “Create New Bottle” button.
 
 ![The empty Bottles page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We’re going to [install Notepad++](https://instagram-video-files.techidaily.com/updated-2024-approved-top-10-best-apps-for-editing-igtv-vertical-videos/), a Windows-only editor. We named our bottle “Notepad++”, and selected the “Application” radio button.
 
@@ -179,22 +173,15 @@ flatpak run com.usebottles.bottles
 
 ![The confirmation when a bottle has been created](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/16-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the blue “Close” button to close the dialog. You can see the details of your new bottle.
 
 ![The details of the new bottle, and the options that can be used to fine tune and use it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/17.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running Our Windows Application
@@ -222,6 +209,13 @@ flatpak run com.usebottles.bottles
  Leave the tick in the “Run Notepad++ v8.6.2” checkbox and click the “Finish” button. Notepad++ launches on your desktop.
 
 ![The Windows application, Notepad++ running on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/22.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Back in Bottles, you’ll see Notepad++ is listed as an installed program.
 
@@ -252,17 +246,18 @@ flatpak run com.usebottles.bottles
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-video-presence-mastery-of-channel-art-and-banner-sizes/"><u>[New] Elevate Your Video Presence Mastery of Channel Art and Banner Sizes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-glow-enhanced-video-a-right-move-for-hdr-crafting/"><u>[New] Glow-Enhanced Video A Right Move for HDR Crafting?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-examination-of-googles-ar-sticker-technology-and-alternatives/"><u>[New] In-Depth Examination of Google's AR Sticker Technology & Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grasping-virtual-realitys-revolutionary-gear/"><u>[Updated] Grasping Virtual Reality's Revolutionary Gear</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-seamlessly-blend-apple-music-and-videos/"><u>2024 Approved Seamlessly Blend Apple Music & Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expediting-windows-ram-cache-deletion-process/"><u>Expediting Windows RAM Cache Deletion Process</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/identifying-ideal-release-moments-for-podcasts-for-2024/"><u>Identifying Ideal Release Moments for Podcasts for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-directory-of-tones-for-your-snapchat-account/"><u>In 2024, Exclusive Directory of Tones for Your SnapChat Account</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-ai-powered-search-engines-and-utilities-to-transform-your-online-research/"><u>Leading AI Powered Search Engines and Utilities to Transform Your Online Research</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-agni-2-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Agni 2 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extracting-images-from-videos-in-windows-11-photos/"><u>[New] Extracting Images From Videos in Windows 11 Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flicker-studio-the-complete-lightroom-alternatives-guide/"><u>[New] Flicker Studio The Complete Lightroom Alternatives Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-for-beginners-best-film-and-point-shoot-cameras-reviewed/"><u>[New] For Beginners Best Film and Point-Shoot Cameras Reviewed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso/"><u>[New] Meme Mastery Money-Making The Financial Figures of a Video Virtuoso</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-numerical-leaderboard-spotlight-eighth-in-photo-blender-for-2024/"><u>[New] Numerical Leaderboard Spotlight Eighth in Photo Blender for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>[Updated] In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-capture-video-and-sound-seamlessly-utilize-winxvideo-ais-advanced-recording-features/"><u>1. Capture Video & Sound Seamlessly: Utilize WinxVideo AI's Advanced Recording Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-10-volume-surge-controllers-for-windowsmacos/"><u>2024 Approved Top 10 Volume Surge Controllers for Windows/MacOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-itel-p40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel P40 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-latest-in-video-compression-technology-with-these-46-new-tools-for-2024/"><u>Explore the Latest in Video Compression Technology with These 46 New Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-scripting-ae-plug-ins/"><u>In 2024, Expert Guide to Scripting AE Plug-Ins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-communication-on-quora-how-poe-tools-open-doors-to-llms-and-advanced-chatbots/"><u>Mastering AI Communication on Quora – How Poe Tools Open Doors to LLMs & Advanced Chatbots</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bokeh-magic-top-rated-apps-for-ios-and-android-phones/"><u>New Bokeh Magic Top-Rated Apps for iOS and Android Phones</u></a></li>
 </ul></div>
 

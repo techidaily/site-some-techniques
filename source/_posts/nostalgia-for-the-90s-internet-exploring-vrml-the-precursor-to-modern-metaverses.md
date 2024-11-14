@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses"
-date: 2024-11-03T01:53:31.717Z
-updated: 2024-11-04T05:54:25.953Z
+date: 2024-11-06T23:43:16.048Z
+updated: 2024-11-13T04:48:11.892Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  In the early 1990s, futurists and corporations combined forces to create [VRML](https://en.wikipedia.org/wiki/VRML), a Virtual Reality Modeling Language that promised to bring 3D graphics and virtual worlds to the web, heralding the dawn of [the metaverse](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/). Here's what it was---and why it didn't work out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  When 3D Was the Future
 
  At a time when real-time 3D computer graphics were out of reach for the average person, [3D interfaces](https://en.wikipedia.org/wiki/Fsn%5F%28file%5Fmanager%29) seemed like the next step forward in the evolution of computers---and maybe [even humanity itself](http://hyperreal.org/~mpesce/interview.html). The primary driver of the 3D buzz at the time was [virtual reality](https://en.wikipedia.org/wiki/Virtual%5Freality) (VR), which promised bodily immersion into simulated 3D worlds.
@@ -28,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![People demonstrating VPL virtual reality in the late 1980s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nasa_vr.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _NASA_
@@ -41,13 +48,6 @@ _NASA_
 Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) 
 
  In 1992, Neil Stephenson [coined the term "metaverse"](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) in his sci-fi novel Snow Crash. It crystallized ideas about the alternate realities in worldwide computer networks that originated from various sources, including William Gibson's [Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465/?tag=htg-v2-1o0vieq-20&ascsubtag=UUhtgUeUpU207342&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778554%2Fremembering-vrml-the-metaverse-of-1995%2F&asc%5Fcampaign=Short-Term) (1984), another influential cyberpunk novel. Without much delay or hesitation, computer engineers who read these books [set out](http://hyperreal.org/~mpesce/interview.html) to turn these dystopian cyberpunk visions into reality.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Enter VRML
 
@@ -65,6 +65,13 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
  VRML files (which usually use the .WRL file extension), store three-dimensional geometric shapes using a text-based language that describes the geometrical properties of the objects. Much like a [2D vector graphics file](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g22-drfone-by-drfone-virtual-android/) that contains instructions on how to draw an image, VRML files include instructions needed to render a 3D scene, which makes the format relatively compact, data-wise.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Applications of VRML
 
  So the question remains: Did VRML ever see widespread use? Not really, but relative to the size of the internet at the time, VRML's reach was wider than you might expect. Several [university departments](http://www.hitl.washington.edu/vrml/), especially those that studied new media, experimented with VRML and posted their creations online. 3D hardware vendor [Silicon Graphics](https://en.wikipedia.org/wiki/Silicon%5FGraphics) embraced VRML and released [3D animations](https://web.archive.org/web/19971014080758/http://vrml.sgi.com/floops/) featuring a character named "[Floops](https://sgeo.github.io/floopsArchive/floops/archive.html)." Wired Magazine initially [hosted the VRML Architecture Group](https://web.archive.org/web/19961222202151/http://vrml.wired.com/) and the [VRML mailing list](http://1997.webhistory.org/www.lists/www-vrml.1994/index.html).
@@ -81,6 +88,13 @@ Sony
 
  Sony also ran a popular VRML-powered world in Japan called [SAPARi](https://web.archive.org/web/20021213091644/http://vrml.sony.co.jp/sapari/index.htm), which ran through a client [distributed on its VAIO computers](https://en.wikipedia.org/wiki/SAPARi) between 1997 and 2001\. The story doesn't end there, but VRML's fragmented past is currently scattered between the couch cushions of the internet, waiting for someone to pick up the pieces and reassemble the entire puzzle of this lost chapter of online history.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Happened to VRML?
 
  Spoiler alert: VRML didn't take off like its creators hoped. While VRML 2.0 [became an international standard](https://www.web3d.org/standards) with the ISO in 1996, the final version of VRML, known as "[VRML97](https://tecfa.unige.ch/guides/vrml/vrml97/spec/)," was standardized in 1997\. Around that time, interest in VRML began to wane as it became evident that 3D online worlds weren't as practical or useful as futurists had promised.
@@ -88,13 +102,6 @@ Sony
  In 1996, [CNET wrote](https://www.cnet.com/tech/services-and-software/vrml-not-quite-ready-for-real-world/) about VRML's failure to meet expectations, saying, "Bandwidth constraints, hardware limitations, and, worst of all, lack of compelling applications may make the 3D technology more virtual than real for the time being."
 
 ![A woman using a Virtuality headset in the 1990s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/virtuality_1990s.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Virtuality_
 
@@ -115,13 +122,6 @@ Related: [There Is No Metaverse (Yet)](https://extra-guidance.techidaily.com/new
  Even though VRML has long since become obsolete, you can still get a taste of the future of web-based 3D, 1990s-style. Like a 3D archeologist, you can use a free program called [view3Dscene](https://castle-engine.io/view3dscene.php) on Windows and Linux to view many vintage VRML files using a modern PC. From our experimentation, the program doesn't support all elements of the VRML standard, but you can load simple 3D models and view them, and even walk around in them at times.
 
 ![Viewing a VRML file using view3dscene in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_modern_windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Also, the [X\_ITE X3D Browser's website](https://create3000.github.io/x%5Fite/), which uses a JavaScript library for rendering Web3D and VRML has a gallery of VRML and similar X3D content examples that you can view in any modern web browser, no plugins required.
 
@@ -146,24 +146,19 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extended-review-uncomplicated-hdr-approach/"><u>[New] Extended Review Uncomplicated HDR Approach</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-five-best-free-fb-video-downloader-hacks/"><u>[New] Five Best Free FB Video Downloader Hacks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-sketches-to-high-end-graphics-best-software-reviewed/"><u>[New] From Sketches to High-End Graphics Best Software Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopros-hero5-up-against-yis-high-res-adventures/"><u>[New] GoPro's Hero5 Up Against Yi's High-Res Adventures</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-the-secrets-of-integrating-online-videos-in-slides-for-2024/"><u>[New] Unlocking the Secrets of Integrating Online Videos in Slides for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-heartfelt-cheers-access-to-free-and-paid-otu-ideas/"><u>[Updated] Heartfelt Cheers Access to Free & Paid OTU Ideas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-entryways-for-panzoid-life/"><u>[Updated] Innovative Entryways for Panzoid Life</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtube-success-mastering-the-art-of-shorts-thumbnails/"><u>[Updated] Unlocking YouTube Success Mastering the Art of Shorts Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>2024 Approved Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-future-cinema-the-vr-impact/"><u>2024 Approved Future Cinema The VR Impact</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gamer-gold-grindings-pewdiepies-profit-profile/"><u>2024 Approved Gamer Gold Grindings PewDiePie's Profit Profile</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>2024 Approved Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-bootstrap-form-building-guide-with-creative-tims-expert-tips/"><u>Advanced Bootstrap Form Building Guide with Creative Tim's Expert Tips</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-mp280-driver-downloads-compatible-with-windows-11-8-and-windows-7-systems/"><u>Canon MP280 Driver Downloads: Compatible with Windows 11, 8 and Windows 7 Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-secure-your-editor-endorsed-elegoo-neptune-amo-now-at-an-amazing-75-off-deal/"><u>Don't Miss Out: Secure Your Editor-Endorsed Elegoo Neptune Amo, Now at an Amazing $75 Off Deal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world-for-2024/"><u>Get Laughter in Minutes Install and Revel in iFunny's Meme World for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-11-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme 11 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-woes-be-gone-a-comprehensive-reset-guide-for-immediate-relief/"><u>Keyboard Woes Be Gone! A Comprehensive Reset Guide for Immediate Relief</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterful-strategies-overcoming-writing-controller-challenges-on-xbox-platforms-a-detailed-walkthrough/"><u>Masterful Strategies: Overcoming Writing Controller Challenges on Xbox Platforms - A Detailed Walkthrough</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-and-easy-the-best-websites-for-jpg-to-gif-transformation/"><u>[New] Free & Easy The Best Websites for JPG to GIF Transformation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>[Updated] Download and Relive A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>[Updated] Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-travel/"><u>[Updated] How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-and-easy-comedy-unraveling-ifunnys-meme-magic/"><u>[Updated] Quick & Easy Comedy Unraveling iFunny's Meme Magic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-non-udemy-online-learning-platforms-for-self-improvement/"><u>[Updated] Top Non-Udemy Online Learning Platforms for Self-Improvement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-gains-graphed-income-insights-on-finn/"><u>2024 Approved Gaming Gains Graphed Income Insights on Finn</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-audio-with-visuals-adding-melodies-to-powerpoint/"><u>2024 Approved Harmonizing Audio with Visuals Adding Melodies to PowerPoint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choreographing-content-and-music-in-powerpoint/"><u>In 2024, Choreographing Content and Music in PowerPoint</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-clearing-youtubes-stored-videos/"><u>In 2024, Mastering the Art of Clearing YouTube's Stored Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-acpi-controller-update-corrects-battery-drivers-for-optimal-performance/"><u>Microsoft ACPI Controller Update Corrects Battery Drivers for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-safe-listing-of-your-emails/"><u>Step-by-Step Guide: Mastering Safe Listing of Your Emails</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

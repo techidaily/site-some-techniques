@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2024-10-28T16:53:28.179Z
-updated: 2024-11-04T00:13:44.599Z
+date: 2024-11-07T23:08:59.975Z
+updated: 2024-11-12T21:55:20.105Z
 tags:
   - deals
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -30,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -54,14 +54,14 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -74,23 +74,23 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -132,16 +132,18 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-deluxe.techidaily.com/clonezilla-windows-118-7/"><u>「利用 Clonezilla 在 Windows 11、8 或 7 系统下进行高效的磁碟拷贝功能」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>2024 Approved Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>2024 Approved Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/an-overview-of-gpt-plugins-and-uses/"><u>An Overview of GPT Plugins & Uses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/green-thumbs-up-the-best-farming-titles-for-group-playtime/"><u>Green Thumbs Up The Best Farming Titles for Group Playtime</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-engage-listeners-through-instagram-and-podcasts-for-2024/"><u>How To Engage Listeners Through Instagram & Podcasts for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-achieve-professional-quality-on-yt-with-simple-blurring/"><u>In 2024, Achieve Professional Quality on YT with Simple Blurring</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-youtube-to-high-quality-mpegs-the-essential-guide/"><u>In 2024, From YouTube to High-Quality MPEGs The Essential Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-effect-to-photos-in-photoshop/"><u>In 2024, How to Add Motion Blur Effect to Photos in Photoshop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-multi-environment-broadcasting-mastery-of-color-key-techniques/"><u>In 2024, Seamless Multi-Environment Broadcasting Mastery of Color Key Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-steams-inaccessible-game-servers/"><u>Resolving Steam's Inaccessible Game Servers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xquisite-film-series-selection-youtube-edition/"><u>[New] Exquisite Film Series Selection - YouTube Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-cutting-edge-creatives-on-your-feed/"><u>[Updated] 2024 Approved The Cutting-Edge Creatives on Your Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-magic-top-5-effect-tools/"><u>[Updated] Free Video Magic Top 5 Effect Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>2024 Approved Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-hue-harmonizer-tool/"><u>2024 Approved Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 12 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-visual-narratives-with-the-leading-frames/"><u>In 2024, Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-hidden-depths-of-canvas-photo-editor/"><u>In 2024, Explore the Hidden Depths of Canva's Photo Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-meme-makers-the-ultimate-resource-guide/"><u>In 2024, Free Meme Makers – The Ultimate Resource Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-spark-go-2023-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Spark Go (2023) Phone Now with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996361045-troubleshooting-tips-for-launch-problems-in-overwatch-conquering-the-ominous-black-screen/"><u>Troubleshooting Tips for Launch Problems in Overwatch - Conquering the Ominous Black Screen!</u></a></li>
 </ul></div>
 

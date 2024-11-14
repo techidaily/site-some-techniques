@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows"
-date: 2024-10-27T16:17:58.533Z
-updated: 2024-11-04T01:42:07.692Z
+date: 2024-11-11T17:00:21.434Z
+updated: 2024-11-12T22:09:26.491Z
 tags:
   - deals
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * [The Most Common Reason Your Disk Is Missing](https://fox-links.techidaily.com/new-2024-approved-essential-steps-to-prep-your-oculus-rift-zone/)
 * [How to Bring Your Missing Drive Online](https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Hard drives you purchase aren't usually preformatted, so Windows waits for you to decide what to do with the drive.
@@ -23,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * After you initialize the drive, you must format it before you can store anything on it. Use NTFS if the drive will only be used in a Windows PC.
 
  You installed a new hard drive in your computer and, to your dismay, it's nowhere to be found. Don't panic, you just need to give Windows a little nudge to bring it online.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Most Common Reason Your Disk Is Missing
 
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
  As such, when you put the drive in your system, Windows simply waits for you to decide what to do with the drive instead of automatically formatting and adding it to the drive list. If you've never added a hard drive to your computer before, however, it can be pretty disconcerting when it appears like the drive is missing (or, worse, dead). Have no fear, though! It's easy to bring your hard drive out of hiding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Bring Your Missing Drive Online
 
  Assuming that the hard drive is installed properly, and is not, (by some horrible dumb luck) defective out of the gate, bringing it online is a very simple process. To do so, you first need to pull up the Windows Disk Management tool.
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 ![img_57c452aa264cd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c452aa264cd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Before we proceed, we want to appropriately warn you: Do not play around in Disk Management. Although the task we're about to perform is very straightforward and simple to do, if you muck around with this tool you will have a very bad time. Double check every step. Make sure you're selecting the correct disk, or you can lose lots of data.
@@ -66,29 +73,22 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
  Right click on the name portion of the disk entry, where it says "Disk \[#\]", and select "Initialize Disk" from the right-click context menu.
 
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "OK" and you'll be returned to the main Disk Management window. There you'll find that your disk is now labeled "Basic" and "Online" on the left, but the contents are still "unallocated". Right click on the striped box presenting the unallocated drive space. Select "New Simple Volume".
 
@@ -98,16 +98,16 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45c8fc3c3e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c8fc3c3e.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the second step, assign a drive letter. The default is probably fine.
 
 ![img_57c45d02176de](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d02176de.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, format the volume. If you're using the volume for routine computing tasks (storing photos, video games, etc.) there's no real need to deviate from the default NTFS file system and settings. Curious about the differences between file systems and why you might use the different options? We've [got you covered](https://extra-approaches.techidaily.com/seamless-multi-screen-browsing-in-chrome-using-pip-for-2024/). Give your volume a name, click "Next", and wait for the format process to finish.
 
@@ -134,22 +134,24 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>[New] Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-def-camera-the-top-audio-mics-guide/"><u>[New] High-Def Camera The Top Audio Mics Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-portfolio-exceptional-webcam-supports/"><u>[New] Prime Portfolio Exceptional Webcam Supports</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-breakthrough-tactics-for-capturing-virtual-conferences/"><u>[Updated] In 2024, Breakthrough Tactics for Capturing Virtual Conferences</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-recruiting-revolutionaries-10-most-motivational-episodes/"><u>[Updated] Recruiting Revolutionaries - 10 Most Motivational Episodes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-power-of-vivacut/"><u>[Updated] Unveiling the Power of VivaCut</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-futures-the-essence-of-vr-ar-and-mr/"><u>2024 Approved Immersive Futures The Essence of VR, AR, & MR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorinastrating-supplementary-imagery-in-projects/"><u>2024 Approved Incorinastrating Supplementary Imagery in Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciding-between-new-macbook-models-m3-or-m2-processor-a-comprehvew-for-smart-shoppers-cnet/"><u>Deciding Between New MacBook Models: M3 or M2 Processor – A Comprehvew for Smart Shoppers | CNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-xiaomi-redmi-k70-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Xiaomi Redmi K70</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pc-components-at-toms-gadget-hub/"><u>Expert Analysis on PC Components at Tom's Gadget Hub</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-roundup-of-best-game-casting-apps-for-2024/"><u>Expert Roundup of Best Game Casting Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-remote-desktop-capabilities-within-zoom-on-win11-for-2024/"><u>Exploring Remote Desktop Capabilities Within Zoom on Win11 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacited-mobile-devices-vr-conversion-path-for-2024/"><u>From Standard to Spectacited Mobile Device's VR Conversion Path for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-your-ipad-to-communicate-with-its-connected-printer-successfully/"><u>How To Get Your iPad to Communicate With Its Connected Printer Successfully</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-vr-movie-might-change-the-world-for-2024/"><u>How VR Movie Might Change the World for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ranking-the-top-value-video-resources-online/"><u>In 2024, Ranking the Top Value Video Resources Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-optimizing-vlc-for-maximum-efficiency-on-mac/"><u>[New] Expert Advice Optimizing VLC for Maximum Efficiency on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>[New] Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flip-page-film-narrative-guide/"><u>[New] Flip Page Film Narrative Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hear-the-difference-change-your-playstation-sound/"><u>[New] Hear the Difference Change Your PlayStation Sound</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-seamless-transition-from-photography-to-video-with-pixiz/"><u>[Updated] 2024 Approved Seamless Transition From Photography to Video with Pixiz</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unleash-the-potential-of-videos-with-these-top-10-ios-apps/"><u>[Updated] Unleash the Potential of Videos with These Top 10 iOS Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-cutting-edge-tech-in-daily-life/"><u>2024 Approved Cutting-Edge Tech in Daily Life</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fresh-conversation-starters-keeping-listeners-hooked/"><u>2024 Approved Fresh Conversation Starters Keeping Listeners Hooked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-galore-top-10-virtual-reality-for-phones/"><u>2024 Approved Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-podcast-release-schedules/"><u>2024 Approved Mastering Podcast Release Schedules</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-thumbnail-size-for-click-through-rates/"><u>2024 Approved Perfect Thumbnail Size for Click-Through Rates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-victory-over-call-of-duty-error-6328-in-warzone-ultimate-fix-guide-for-gamers/"><u>Achieving Victory over Call of Duty Error 6328 in Warzone - Ultimate Fix Guide for Gamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/augmenting-your-stardew-experience-with-seven-top-mods-for-2024/"><u>Augmenting Your Stardew Experience with Seven Top Mods for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-errors-in-understanding-how-to-earn-from-big-data-a-deep-dive-nextgen-business-trends/"><u>Debunking Common Errors in Understanding How to Earn From Big Data: A Deep Dive | NextGen Business Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-overcoming-steam-server-disconnection/"><u>Guide to Overcoming Steam Server Disconnection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-pinnacle-of-photography-frames/"><u>In 2024, Explore the Pinnacle of Photography Frames</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracking-fb-content-efficiency-strategies-explored/"><u>In 2024, Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flip-clips-android-reversal-technique/"><u>In 2024, Flip Clips Android Reversal Technique</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-potential-with-ankers-superspeed-usb-hub-in-depth-analysis-and-review/"><u>Unlocking Potential with Anker's SuperSpeed USB Hub - In-Depth Analysis & Review</u></a></li>
 </ul></div>
 

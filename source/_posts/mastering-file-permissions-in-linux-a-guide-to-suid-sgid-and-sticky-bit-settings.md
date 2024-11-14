@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings"
-date: 2024-11-01T09:10:25.435Z
-updated: 2024-11-04T00:35:08.380Z
+date: 2024-11-08T04:21:42.161Z
+updated: 2024-11-13T00:45:10.647Z
 tags:
   - desktop
 categories:
@@ -25,16 +25,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  SUID, SGID, and Sticky Bits are powerful special permissions you can set for executables and directories on Linux. We'll share the benefits—and potential pitfalls—of using them.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  They're Already in Use
@@ -43,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  On Linux, stored passwords are protected in two ways: they're encrypted, and only someone with `root` privileges can access the file that contains the passwords. That might sound fine, but it presents a quandary: If only people with `root` privileges can access stored passwords, how do those who don't have that access change their passwords?
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Elevating Your Status
 
  Usually, Linux commands and programs run with the same set of permissions as the person who launches the program. When `root` runs the passwd command [to change a password](http://man7.org/linux/man-pages/man1/passwd.1.html), it runs with `root`’s permissions. That means the passwd command can freely access the stored passwords in the /etc/shadow file.
@@ -50,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  What would be ideal is a scheme in which anyone on the system could launch the passwd program, but have the passwd program retain `root`’s elevated privileges. This would empower anyone to change her own password.
 
  The above scenario is precisely what the Set User ID bit (`SUID`) does. It runs programs and commands with the permissions of the file owner, rather than the permissions of the person who launches the program.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You're Elevating the Program's Status
 
@@ -72,22 +66,16 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The following is an example in which that's taken into account. Because `root` can change any password, the program doesn't have to bother with the checks it usually performs to see which passwords the person has permission change. So, for `root`, it [skips those checks and exits the checking function](https://github.com/shadow-maint/shadow/blob/master/src/passwd.c#L0397).
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0b.png) 
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the core Linux commands and utilities, you can be confident they've got security baked into them and that the code has been reviewed many times. Of course, there's always the threat of as-yet-unknown exploits. However, patches or updates are quick to appear to counter any newly identified vulnerabilities.
 
@@ -123,19 +111,6 @@ passwd
 
 ![passwd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-4.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The `passwd` command prompts `dave` for his new password. We can use the `ps` command [to see the details of running processes](http://man7.org/linux/man-pages/man1/ps.1.html).
 
  We'll use `ps` with `grep` [in a different terminal window](http://man7.org/linux/man-pages/man1/grep.1.html) and look for the `passwd` process. We'll also use the -e (every process) and -f (full-format) options with `ps`.
@@ -146,16 +121,22 @@ ps -e -f | grep passwd
 
 ![ps -e -f | grep passwd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-7.png) 
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Two lines are reported, the second of which is the `grep` process looking for commands with the string "passwd" in them. It's the first line that interests us, though, because that's the one for the `passwd` process `dave` launched.
 
  We can see the `passwd` process runs the same as it would if `root` had launched it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Setting the SUID Bit
 
@@ -193,6 +174,13 @@ htg
 
 ![The htg program running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Even though `dave` launched the program, the effective ID is set to the `root` user. So, if `mary` launches the program, the same thing happens, as shown below:
 
 htg
@@ -200,6 +188,13 @@ htg
 ![htg launched by user mary in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-2.png) 
 
  The real ID is `mary`, and the effective ID is `root`. The program runs with the permissions of the root user.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The SGID Bit
 
@@ -231,13 +226,6 @@ htg
 
 ![id -G dave in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The ID of the default group for `mary` is 1001, and the effective group of the `htg` program is 1001\. So, although it was launched by `dave`, it's running with the permissions of the members in the `mary` group. It's the same as if `dave` had joined the `mary` group.
 
  Let's apply the `SGID` bit to a directory. First, we'll create a directory called "work," and then change its group to "geek." We'll then set the `SGID` bit on the directory.
@@ -255,6 +243,13 @@ sudo chmod g+s work
 ls -lh -d work
 
 ![sudo mkdir work in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The `SGID` bit and "geek" group are set. These will affect any items created within the `work` directory.
 
@@ -279,20 +274,13 @@ ls -lh useful.sh
 ![touch useful.sh in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The group of the new file is automatically set to "geek."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Sticky Bit
 
@@ -350,19 +338,16 @@ ls -lh -d /var/tmp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tips-for-creating-stunning-slow-motion-content-on-instagram/"><u>[New] 2024 Approved Tips for Creating Stunning Slow Motion Content on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fire-up-your-dreams-with-these-10-movie-gems/"><u>[New] Fire Up Your Dreams with These 10 Movie Gems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-complete-guide-to-iphone-speech-recordings/"><u>[Updated] 2024 Approved The Complete Guide to iPhone Speech Recordings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-macos-2023-update-from-youtube-to-high-quality-mp3s/"><u>[Updated] MacOS 2023 Update From YouTube to High-Quality MP3s</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-reference-to-gesture-and-movement-capture-for-2024/"><u>[Updated] The Ultimate Reference to Gesture and Movement Capture for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-peals-of-laughter-fun-tones-websites-unveiled/"><u>2024 Approved Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-pro-features-of-dji-phantom-3-technology-for-2024/"><u>Exploring the Pro Features of DJI Phantom 3 Technology for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-newbie-to-pro-comprehensive-periscope-tutorial-for-2024/"><u>From Newbie to Pro Comprehensive Periscope Tutorial for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-oddworld-soulstorm-pc-game-launch-issues-complete-guide/"><u>How To Fix Oddworld Soulstorm PC Game Launch Issues - Complete Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-a18-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo A18 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-do-we-experience-realities-in-a-virtual-sense/"><u>In 2024, How Do We Experience Realities in a Virtual Sense?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-best-no-fee-livestream-options-on-all-devices-for-2024/"><u>In-Depth Analysis of Best No-Fee LiveStream Options on All Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highest-quality-radio-dramatic-works/"><u>[New] Highest Quality Radio Dramatic Works</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-endorsed-techniques-for-iphone-audio-retrieval/"><u>2024 Approved Expert-Endorsed Techniques for iPhone Audio Retrieval</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-protection-the-ultimate-review-of-the-procase-macbook-pro-13-case/"><u>Affordable Protection: The Ultimate Review of the ProCase MacBook Pro 13 Case</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-zenwifi-ax6600-mesh-network-router-comprehensive-review/"><u>ASUS ZenWifi AX6600 Mesh Network Router Comprehensive Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/demystifying-error-x97-on-epson-printers/"><u>Demystifying Error X97 on Epson Printers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-quantum-hdr-for-beginners/"><u>Demystifying Quantum HDR for Beginners</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971216279-download-the-latest-amd-radeon-rx-5700-xt-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest AMD Radeon RX 5700 XT Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming-for-2024/"><u>Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-chronicles-virtual-realitys-history/"><u>In 2024, Immersive Chronicles Virtual Reality's History</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-mss32dll-essential-steps-to-restore-functionality/"><u>Overcoming 'Missing MSS32.DLL' - Essential Steps to Restore Functionality</u></a></li>
 </ul></div>
 

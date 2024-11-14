@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2024-10-28T02:45:39.308Z
-updated: 2024-11-03T16:43:05.584Z
+date: 2024-11-09T00:58:53.562Z
+updated: 2024-11-12T20:55:36.351Z
 tags:
   - desktop
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 * [How to Find All Your Photos Manually](https://facebook-videos.techidaily.com/from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/)
 * [A Better Way: Let Windows Search Find All Your Photos](https://article-helps.techidaily.com/2024-approved-windowsmacos-execute-and-enjoy-srt-files/)
 * [Use a Third-Party App](https://screen-capture.techidaily.com/updated-in-2024-obs-alternatives-reviewed-by-experienced-broadcinas/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Better Way: Let Windows Search Find All Your Photos
@@ -55,23 +48,9 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
@@ -89,22 +68,36 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've located the picture(s) you were looking for, you can right-click it, then select "Open File Location" to open the folder where it's contained.
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
@@ -115,6 +108,13 @@ kind:=picture
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
 
@@ -144,22 +144,24 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-audio-visual-synergy-iphones-role-in-modern-music-videos/"><u>[New] 2024 Approved Audio-Visual Synergy IPhone's Role in Modern Music Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-static-to-dynamic-hyperlapse-video-techniques/"><u>[New] From Static to Dynamic Hyperlapse Video Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-inverting-media-flow-apple-device-technique/"><u>[New] Inverting Media Flow Apple Device Technique</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expand-your-online-realm-harnessing-youtube-insights-powerfully/"><u>[Updated] Expand Your Online Realm Harnessing YouTube Insights Powerfully</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-framefusion-matrix-the-ultimate-montage-craft/"><u>[Updated] FrameFusion Matrix The Ultimate Montage Craft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-ground-to-sky-discovering-mavic-pro-wonders/"><u>[Updated] From Ground to Sky - Discovering Mavic Pro Wonders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ice-acceleration-showdown-at-the-olympics-2022/"><u>[Updated] Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-for-transforming-youtube-videos-into-animated-gifs-for-2024/"><u>[Updated] The Ultimate Guide for Transforming YouTube Videos Into Animated GIFs for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-comparing-the-best-in-class-with-apowersoft/"><u>2024 Approved Comparing the Best in Class with Apowersoft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography-for-2024/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-leading-websites-for-buying-enigma-boxes/"><u>In 2024, Explore the Leading Websites for Buying Enigma Boxes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-on-google-podcast-upload/"><u>In 2024, Guide on Google Podcast Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-through-virtual-experiences/"><u>In 2024, Innovating Through Virtual Experiences</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/vobavimovavi/"><u>VOB/AVIファイルを免費でオンライン変換：Movaviの使い方</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-elite-5-youtube-channel-power-players/"><u>[New] 2024 Approved The Elite 5 YouTube Channel Power Players</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[New] Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-online-and-offline-freebies-in-text-animation/"><u>[New] Online & Offline Freebies in Text Animation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-methods-for-recording-youtube-live-streaming/"><u>2024 Approved Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-assessment-of-slomo-application-trends/"><u>2024 Approved Full Assessment of SloMo Application - Trends</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-a-funny-meme/"><u>2024 Approved How To Create A Funny Meme</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-driven-site-optimization-enhancing-user-experience/"><u>Cookiebot-Driven Site Optimization: Enhancing User Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fresh-take-on-the-enhanced-sony-s6500-media-device-for-2024/"><u>Fresh Take on the Enhanced Sony S6500 Media Device for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-import-photos-and-videos-in-windows-11-deepest-secret-for-2024/"><u>How to Import Photos and Videos in Windows 11 (Deepest Secret) for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-on-top-hdr-cameras/"><u>In 2024, Expert Insights on Top HDR Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>In 2024, Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y100-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-android-collage-creators-a-top-picks-journey/"><u>In 2024, Iconic Android Collage Creators A Top Picks Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improving-hues-a-beginners-approach-to-ps-grading/"><u>In 2024, Improving Hues A Beginner's Approach to PS Grading</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-capture-your-best-self-10-top-rated-webcam-software-for-windows-10-for-2024/"><u>Updated Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlimited-fake-faces-top-free-online-generators-reviewed/"><u>Updated In 2024, Unlimited Fake Faces Top Free Online Generators Reviewed</u></a></li>
 </ul></div>
 

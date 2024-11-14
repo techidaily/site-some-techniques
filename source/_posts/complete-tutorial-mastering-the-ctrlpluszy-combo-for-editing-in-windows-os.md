@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS"
-date: 2024-11-07T01:24:28.910Z
-updated: 2024-11-13T05:01:01.286Z
+date: 2024-11-12T00:21:18.236Z
+updated: 2024-11-14T05:36:18.734Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
 
  Also, in many applications—such as Microsoft Office apps—you can press Ctrl+Y or F4 on your keyboard to Redo the action you just undid. Another combination that is frequently redo is Ctrl+Alt+Z. 
@@ -46,26 +53,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
 
@@ -80,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
@@ -107,19 +107,24 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unlock-your-fcp-potential-with-these-10-plugs/"><u>[Updated] In 2024, Unlock Your FCP Potential with These 10 Plugs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-action-quick-tips-for-online-photo-trimming/"><u>2024 Approved Expertise in Action Quick Tips for Online Photo Trimming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gliding-giants-olympic-skate-tales/"><u>2024 Approved Gliding Giants Olympic Skate Tales</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-lore-of-video-production-expert-insights/"><u>2024 Approved Luminous Lore of Video Production Expert Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/flac-vs-alac-understanding-audio-file-formats-expert-comparison-by-movavi/"><u>FLAC vs ALAC: Understanding Audio File Formats - Expert Comparison by Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-integration-blocked-for-win10-device/"><u>Graphics Integration Blocked for Win10 Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-directx-drawing-challenges-step-by-step-solutions/"><u>How to Overcome DirectX Drawing Challenges: Step-by-Step Solutions</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>In 2024, 4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-pova-6-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Pova 6 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hybridmix-pro-for-dual-os/"><u>In 2024, HybridMix Pro for Dual OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>In 2024, In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/privacy-purposed-selecting-best-insta-watchers/"><u>Privacy-Purposed Selecting Best Insta Watchers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zen-5-cpus-enter-the-market-with-unchanged-fl1-packaging-signaling-retention-of-rtx-40-gpus-in-latest-laptop-models/"><u>Zen 5 CPUs Enter the Market with Unchanged FL1 Packaging, Signaling Retention of RTX 40 GPUs in Latest Laptop Models</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-bedtime-tales-in-motion-reviews-of-storytelling-videos/"><u>[New] Bedtime Tales in Motion Reviews of Storytelling Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>[New] From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>[New] Frugal Flight Assemblies Budget-Friendly Drones Ranking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-3d-font-archives-online/"><u>[New] Premier 3D Font Archives Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-budget-conscious-broadcayers-guide-to-cheap-mics/"><u>[Updated] Budget-Conscious Broadcayer's Guide to Cheap Mics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-separation-to-symbiosis-logic-pro-x-audio-blending/"><u>[Updated] From Separation To Symbiosis Logic Pro X Audio Blending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-front-runners-graphic-cards-for-4k-games/"><u>[Updated] Front-Runners Graphic Cards for 4K Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-activate-auto-hdr-setting-in-windows-11/"><u>[Updated] How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-function-keys-actions-on-windows-1011/"><u>Adjusting Function Keys' Actions on Windows 10/11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bust-the-glitch-correcting-gray-zone-warfare-game-crashes-in-windows/"><u>Bust the Glitch: Correcting Gray Zone Warfare Game Crashes in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-correcting-and-confirming-your-age-information-on-tiktok-for-2024/"><u>Guide to Correcting & Confirming Your Age Information on TikTok for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humorhub-generate-awesome-memes/"><u>In 2024, HumorHub Generate Awesome Memes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-dialogues-the-key-to-listener-retention/"><u>In 2024, Innovative Dialogues The Key to Listener Retention</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-x6-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco X6 Phone Now with These Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-samsung-bd-j5900-overhaul-whats-new/"><u>In 2024, Samsung BD-J5900 Overhaul What's New ?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023-for-2024/"><u>In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively/"><u>Mastering iPhone Saving & Utilizing GIFs Effectively</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-a-step-by-step-sony-camcorder-video-editing-guide/"><u>Unleash Your Creativity A Step-by-Step Sony Camcorder Video Editing Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722886159377-upcoming-macos-15-sequoia-unveiling-the-launch-date-and-exciting-new-updates/"><u>Upcoming MacOS 15 Sequoia: Unveiling the Launch Date & Exciting New Updates</u></a></li>
 </ul></div>
 

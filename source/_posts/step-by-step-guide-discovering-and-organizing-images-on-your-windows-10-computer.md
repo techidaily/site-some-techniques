@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2024-11-09T00:58:53.562Z
-updated: 2024-11-12T20:55:36.351Z
+date: 2024-11-06T19:55:07.606Z
+updated: 2024-11-14T01:32:05.665Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Better Way: Let Windows Search Find All Your Photos
@@ -56,11 +56,31 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png) 
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That inserts the following operator into the search box. If you prefer, you can also type it there yourself to get the same results.
 
 kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see, the results return everything from pictures used by the system to personal pictures contained within the folder and all its subfolders. The search includes images saved in JPG, PNG, GIF, and BMP formats, which are the most common formats used. If you've got pictures stored in another format, like RAW, you'll have to find them another way.
 
@@ -69,10 +89,10 @@ kind:=picture
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've located the picture(s) you were looking for, you can right-click it, then select "Open File Location" to open the folder where it's contained.
@@ -80,17 +100,10 @@ kind:=picture
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use a Third-Party App
@@ -108,13 +121,6 @@ kind:=picture
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
 
@@ -144,24 +150,20 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-elite-5-youtube-channel-power-players/"><u>[New] 2024 Approved The Elite 5 YouTube Channel Power Players</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[New] Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-online-and-offline-freebies-in-text-animation/"><u>[New] Online & Offline Freebies in Text Animation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-methods-for-recording-youtube-live-streaming/"><u>2024 Approved Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-assessment-of-slomo-application-trends/"><u>2024 Approved Full Assessment of SloMo Application - Trends</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-a-funny-meme/"><u>2024 Approved How To Create A Funny Meme</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-driven-site-optimization-enhancing-user-experience/"><u>Cookiebot-Driven Site Optimization: Enhancing User Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fresh-take-on-the-enhanced-sony-s6500-media-device-for-2024/"><u>Fresh Take on the Enhanced Sony S6500 Media Device for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-import-photos-and-videos-in-windows-11-deepest-secret-for-2024/"><u>How to Import Photos and Videos in Windows 11 (Deepest Secret) for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-on-top-hdr-cameras/"><u>In 2024, Expert Insights on Top HDR Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>In 2024, Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y100-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-android-collage-creators-a-top-picks-journey/"><u>In 2024, Iconic Android Collage Creators A Top Picks Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-improving-hues-a-beginners-approach-to-ps-grading/"><u>In 2024, Improving Hues A Beginner's Approach to PS Grading</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-capture-your-best-self-10-top-rated-webcam-software-for-windows-10-for-2024/"><u>Updated Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10 for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlimited-fake-faces-top-free-online-generators-reviewed/"><u>Updated In 2024, Unlimited Fake Faces Top Free Online Generators Reviewed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-7-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 7 Plus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-photos-using-photoshops-radial-toolkit/"><u>Elevating Your Photos Using Photoshop's Radial Toolkit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-user-engagement-with-advanced-cookiebot-solutions/"><u>Enhancing User Engagement with Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-abbyys-diverse-talent-pool-discovering-more-than-just-roles-and-responsibilities/"><u>Exploring ABBYY's Diverse Talent Pool: Discovering More than Just Roles and Responsibilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/head-of-innovation-patrick-jeans-dual-role-in-tech-strategy-at-abbyy-cpo-and-cto/"><u>Head of Innovation - Patrick Jean's Dual Role in Tech Strategy at ABBYY (CPO & CTO)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-efficient-use-of-slug-lines-in-content-writing/"><u>In 2024, The Efficient Use of Slug Lines in Content Writing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-cookiebot-technology-for-superior-online-engagement/"><u>Leveraging Cookiebot Technology for Superior Online Engagement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeos-end-screens-for-creative-directives/"><u>Mastering Vimeo's End Screens for Creative Directives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-electronic-invoicing-expert-tips-for-the-accounts-payable-department-with-abbyy/"><u>Navigating Electronic Invoicing: Expert Tips for the Accounts Payable Department with ABBYY</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-the-terms-and-conditions-of-abbyys-cloud-offerings-protecting-user-consent-and-compliance/"><u>Navigating the Terms and Conditions of ABBYY's Cloud Offerings: Protecting User Consent and Compliance</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-optimization-how-we-overcame-slow-motion-gameplay-woes/"><u>Outriders Optimization - How We Overcame Slow Motion Gameplay Woes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/personalize-your-site-effortlessly-with-advanced-cookiebot-features-for-seo-success/"><u>Personalize Your Site Effortlessly with Advanced Cookiebot Features for SEO Success</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-impact-of-itunes-backup-and-restore-on-iphones-strongbox-encryption-answered/"><u>The Impact of iTunes Backup and Restore on iPhone's StrongBox Encryption: Answered</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-11-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 11 Pro Max Making It Possible</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-installing-updated-creative-audigy-card-drivers-in-windows-ebox/"><u>Ultimate Guide: Installing Updated Creative Audigy Card Drivers in Windows Ebox</u></a></li>
 </ul></div>
 

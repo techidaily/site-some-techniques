@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
-date: 2024-11-10T00:49:40.474Z
-updated: 2024-11-12T22:59:07.612Z
+date: 2024-11-10T17:54:36.136Z
+updated: 2024-11-13T18:39:43.164Z
 tags:
   - mobile
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,13 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Use caution when creating an FTP server, due to FTP being old and insecure. Only use FTP on private networks, and be vigilant about turning off the server when done.
 
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is FTP?
 
@@ -55,10 +48,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -86,15 +79,28 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
@@ -119,24 +125,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-expert-mp3-creation-guide-top-video-to-audio-devices/"><u>[New] 2024 Approved Expert MP3 Creation Guide Top Video-to-Audio Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonious-hues-the-top-10-sites-to-download-styleful-wallpapers/"><u>[New] Harmonious Hues The Top 10 Sites to Download Styleful Wallpapers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-smartphones-for-excellent-video-recording/"><u>[New] Ideal Smartphones for Excellent Video Recording</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-leading-e-learning-titling-toolkit/"><u>[New] Leading E-Learning Titling Toolkit</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>[New] Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-value-in-cheap-gopro-sales-online/"><u>[Updated] Finding Value in Cheap GoPro Sales Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[Updated] From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-free-vfx-resources-online/"><u>2024 Approved Explore the Best FREE VFX Resources Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ffpm-demystified-your-guide-to-multi-tasking/"><u>2024 Approved FFPM Demystified Your Guide to Multi-Tasking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frolicsome-user-enrollment-process/"><u>2024 Approved Frolicsome User Enrollment Process</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems/"><u>2024 Approved From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-selecting-the-leading-5-virtual-title-experts/"><u>2024 Approved In-Depth Analysis Selecting the Leading 5 Virtual Title Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-f34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy F34 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comparative-review-of-ring-and-nest-smart-doorbells/"><u>Comparative Review of Ring and Nest Smart Doorbells</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-blaze-2-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Blaze 2 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210094270-9780593232026-karma/"><u>Karma | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-non-startup-for-urban-planner-pro-2-expert-tips-and-tricks/"><u>Solving Non-Startup for Urban Planner Pro 2: Expert Tips and Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-your-iphones-full-potential-by-resolving-location-not-available-problems/"><u>Unlocking Your iPhone's Full Potential by Resolving 'Location Not Available' Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-is-vidma-the-ultimate-screen-recording-tool/"><u>[New] 2024 Approved Is Vidma the Ultimate Screen Recording Tool?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-revolutionizing-video-content-analyzing-tiktok-and-snapchats-innovation/"><u>[New] Revolutionizing Video Content Analyzing TikTok and Snapchat’s Innovation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-dynamic-images-in-ios/"><u>[Updated] Harnessing the Power of Dynamic Images in iOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-olyx-zones-the-creme-de-la-snowspeedcross/"><u>2024 Approved OlyX-Zones The Crème De La Snowspeedcross</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-selected-top-ergonomic-keyboards-for-optimal-comfort/"><u>Expertly Selected Top Ergonomic Keyboards for Optimal Comfort</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimbal-insights-7-best-in-market-for-2024/"><u>Gimbal Insights 7 Best in Market for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-fantastic-the-top-10-lut-sources/"><u>In 2024, Free & Fantastic The Top 10 LUT Sources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarious-hits-for-iphones/"><u>In 2024, Hilarious Hits for iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-content-strategies-brands-and-youtube-alliance/"><u>In 2024, Innovating Content Strategies Brands & YouTube Alliance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pros-guide-to-capturing-every-angle/"><u>Pro's Guide to Capturing Every Angle</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-s24plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy S24+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-repairing-damaged-device-drivers-instantly/"><u>Quick Solutions: Repairing Damaged Device Drivers Instantly</u></a></li>
+<li><a href="https://games-able.techidaily.com/reboot-your-ps5-games-with-fresh-installations/"><u>Reboot Your PS5 Games with Fresh Installations</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/recuperando-archivos-de-excel-perdidos-o-borrados-tacticas-y-soluciones/"><u>Recuperando Archivos De Excel Perdidos O Borrados: Tácticas Y Soluciones</u></a></li>
 </ul></div>
 

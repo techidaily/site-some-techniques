@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2024-11-09T02:20:43.711Z
-updated: 2024-11-12T16:32:40.398Z
+date: 2024-11-07T17:54:52.741Z
+updated: 2024-11-13T23:57:48.994Z
 tags:
   - desktop
 categories:
@@ -35,15 +35,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For this experiment, I'll be using [Linux Mint](https://smart-video-creator.techidaily.com/updated-in-2024-cutting-edge-video-editing-top-3-4k8k-software-solutions/), one of the most GUI-friendly Linux distros. It's also considered a [great distro for beginners](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/), as most distros geared towards newcomers have great GUI experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Installing New Software
 
 ![The homepage of the Software Manager on Linux Mint displaying different kinds of software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/software-manager-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Dealing with software is likely the biggest use of the command line. By issuing simple commands, you can install, update, and delete any software from your system. But it's not the only way to deal with software. Popular Linux distros like Ubuntu, Linux Mint, Fedora, and Pop!\_OS come with a dedicated software center (similar to the [Microsoft Store](https://on-screen-recording.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps/)). On Linux Mint, it's known as Software Manager.
@@ -52,16 +59,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of Installing VLC on Linux Mint using Software Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installing-vlc-on-linux-mint-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But what if you need to update some software? There's an update manager too. You can open it from time to time and see what packages have updates available. Then you can press the "Install Updates" button to update selected software or all of them.
 
 ![An example of the Update Manager user interface on Linux Mint for updating installed software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/update-manager-linux-mint.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Managing old and new software on Linux is pretty simple thanks to existing software centers. But even if you can't find one preinstalled on your Linux distro, you can easily install software using [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) or [AppImages](https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/). So then, why do people use the terminal? That's because it gives you a better experience in certain situations.
 
@@ -71,22 +78,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Changing System Settings
 
 ![The System settings in Linux Mint displaying different types of options and settings you can change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/system-settings-in-linux-mint-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Getting deep into the heart of Linux and playing with the settings is something pro-Linux users prefer the command line for. But it's amazing how much you can do with a GUI settings menu on Linux nowadays. Linux Mint has a comprehensive settings menu containing most of the things you'll ever need. You can tweak network settings, display options, hardware, firewall, and even other administration settings.
 
@@ -110,16 +111,16 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  You can use commands such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/), [sed](https://visual-screen-recording.techidaily.com/new-in-2024-forward-thinking-ios-for-ps2-emulation/), and [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to search for specific text patterns within files and make changes based on the search results. If you want to go further, you can use regular expressions for more powerful filtering. Wildcards enable you to perform mass operations on multiple files across multiple directories.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Text Editing
 
 ![An instance of a configuration file opened in the nano text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/nano-text-editor-on-linux-mint.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Have you ever heard a joke about [exiting from Vim](https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/) on Linux? Vim is a popular terminal-based text editor that comes preinstalled on all Linux distros. It's notoriously known for its steep learning curve. Now, the idea of learning "how to use a text editor" may sound surprising to you. But once you learn it, you can save dozens of hours thanks to its useful shortcuts and powerful capabilities.
 
@@ -128,13 +129,6 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  If you're looking for an [alternative to Microsoft Word](https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/), then LibreOffice Writer comes pre-installed with most Linux distros. For more basic text editing, other graphical tools are available. On Linux Mint, you have the xed text editor. On Ubuntu, you have [gedit](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-drfone-by-drfone-ios/).
 
 ![An instance of a text document opened in the xed text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xed-text-editor-on-linux-mint.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Programming and Development
 
@@ -151,22 +145,15 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  Another noteworthy part of a programmer's work is the version control system. While there are [GUI clients for tools like Git](https://desktop-recording.techidaily.com/new-2024-approved-vrecorder-how-to-download-and-install/), learning basic Git commands can come in handy in a professional scenario. Using Git from the command line also makes your development process smoother because you don't need to go back and forth between multiple tools.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Customizing Your Linux Desktop
 
 ![An instance of the Qt5 customizer tool opened in Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-mint-customization.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Linux is known for its customization abilities. You can find a good number of both GUI tools and command line tools for customizing Linux to your heart's content.
 
@@ -179,6 +166,13 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  When it comes to advanced tasks, the command line mostly reigns supreme. Some of these include system administration, network configuration, system monitoring, troubleshooting, disk management and partitioning, user and group management, and system security maintenance, among other things.
 
  You may find a few GUI tools, either built-in or from third parties. However, most of these activities require basic to intermediate knowledge of the Linux system, commands, and Bash scripting. So if you're planning to use Linux for any of these works, the terminal would be your daily companion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  No Command Line, No Problem!
 
@@ -201,18 +195,20 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-composing-engaging-podcast-thumbnails/"><u>[New] Composing Engaging Podcast Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guidelines-for-reducing-shake-in-mobile-videos/"><u>[New] Guidelines for Reducing Shake in Mobile Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fading-frequencies-the-gentle-way-with-garageband/"><u>[Updated] Fading Frequencies The Gentle Way with Garageband</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-recording-to-releasing-editing-in-garageband/"><u>[Updated] From Recording to Releasing Editing in GarageBand</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-2023-update/"><u>[Updated] GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better? -2023 Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>2024 Approved Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-newly-launched-stylish-acer-chromebook-r11/"><u>Expert Analysis of the Newly Launched Stylish Acer Chromebook R11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-play-7t-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Play 7T</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-effortless-method-to-record-your-skype-sessions-on-pcmac/"><u>In 2024, Effortless Method to Record Your Skype Sessions on PC/Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-sources-of-high-quality-insta-soundtracks-and-crafting-noteworthy-chimes/"><u>In 2024, Exploring Sources of High-Quality Insta Soundtracks and Crafting Noteworthy Chimes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-complete-manual-for-background-banishment-in-figma/"><u>In 2024, The Complete Manual for Background Banishment in Figma</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A58 4G FRP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-job-quest-6-chatgpt-techniques-unveiled/"><u>Maximizing Job Quest: 6 ChatGPT Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fast-track-to-facebooks-latest-viewing-history-2e23-for-2024/"><u>[New] Fast Track to Facebook’s Latest Viewing History (2E23) for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-your-portal-to-successful-online-marketing-our-showcase-of-over-50-free-banners-awaits-you/"><u>2024 Approved Your Portal to Successful Online Marketing - Our Showcase of Over 50 Free Banners Awaits You</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automated-lead-generation-with-cookiebot-enhance-your-digital-marketing/"><u>Automated Lead Generation with Cookiebot: Enhance Your Digital Marketing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-sites-performance-discover-the-benefits-of-cookiebot-integration/"><u>Boost Your Site's Performance: Discover the Benefits of Cookiebot Integration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-and-save-the-essentials-of-pc-display-recordings-for-2024/"><u>Capture & Save The Essentials of PC Display Recordings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-personalization-enhancing-your-websites-visitor-engagement/"><u>Cookiebot-Driven Personalization: Enhancing Your Website's Visitor Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabled-user-experience-optimization/"><u>Cookiebot-Enabled User Experience Optimization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabled-enhance-your-website-traffic-with-our-advanced-analytics-tools/"><u>Cookiebot-Enabled: Enhance Your Website Traffic with Our Advanced Analytics Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabled-enhancing-your-websites-performance-and-personalization/"><u>Cookiebot-Enabled: Enhancing Your Website's Performance & Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-boost-your-websites-user-experience/"><u>Cookiebot-Enhanced: Boost Your Website's User Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-5-fastest-indie-film-tips-for-at-home-creators/"><u>In 2024, 5 Fastest Indie Film Tips for At-Home Creators</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-c67-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme C67 5G?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pesticide-action-network-north-america-nd-glyphosate-facts-sheet-retrieved-from-httpswwwpannaorgresearchglyphosate-factsheet/"><u>Pesticide Action Network North America (N.d.). Glyphosate Facts Sheet. Retrieved From https://www.panna.org/research/glyphosate-factsheet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-downloading-and-installation-of-dell-wd1g-device-drivers-expert-advice/"><u>Seamless Downloading & Installation of Dell WD1g Device Drivers: Expert Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration"
-date: 2024-11-07T17:43:10.419Z
-updated: 2024-11-12T19:23:42.426Z
+date: 2024-11-12T23:46:47.232Z
+updated: 2024-11-14T01:04:35.787Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 1: Sign in to Your Microsoft Account
 
  Microsoft uses its cloud storage to hold your data during the transfer process, so you need to sign in to your Microsoft account (or [sign up for one](http://account.microsoft.com/account) if you haven't already).
@@ -35,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, click "Accounts" and follow the on-screen instructions to sign in.
@@ -52,17 +53,10 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -79,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Use Windows Backup
 
  So, we recommend you use Windows Backup to make the transfer, as this lets you copy more things—from your folders (the same ones that OneDrive would have backed up) to your personal settings and preferences—to your new computer.
@@ -94,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
@@ -117,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
  Now that you've told Windows what you want to mirror on your new PC, you're ready to perform the backup. To do this, click "Back Up."
 
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
@@ -149,20 +143,18 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonious-photographic-overlays-guide/"><u>[New] Harmonious Photographic Overlays Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-converting-youtube-audio-securely-master-3-proven-techniques/"><u>[New] In 2024, Converting YouTube Audio Securely Master 3 Proven Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-round-up-premium-vr-tools/"><u>2024 Approved Exclusive Round-Up Premium VR Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beats-and-boundaries-breaking-barriers-in-music-videos/"><u>Beats & Boundaries Breaking Barriers in Music Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-choice-best-vr-handh-written-by-assistant-for-2024/"><u>Expert's Choice Best VR Handh Written by Assistant for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flight-cam-combat-dji-spark-vs-gopro-fury-for-2024/"><u>Flight Cam Combat DJI Spark VS GoPro Fury for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-mpow-bluetooth-drivers-for-win10-win8-and-win7-free-downloads-available/"><u>Get the Newest MPOW Bluetooth Drivers for Win10, Win8 & Win7 - Free Downloads Available</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-video-capture-top-5-slow-motion-cams/"><u>In 2024, Exemplary Video Capture Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-the-best-approaches-to-live-cricket-broadcasting/"><u>In 2024, Expert Insights The Best Approaches to Live Cricket Broadcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-gratitude-paidfree-creative-templates/"><u>In 2024, Heartfelt Gratitude Paid/Free Creative Templates</u></a></li>
-<li><a href="https://article-posts.techidaily.com/kinemaster-unveiled-the-best-game-on-your-android-device/"><u>KineMaster Unveiled The Best Game on Your Android Device</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios-for-2024/"><u>Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-for-unending-anthem-startup-no-more-loading-frustration/"><u>Solution for Unending Anthem Startup: No More Loading Frustration</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-quintessential-fb-video-list-for-you/"><u>The Quintessential FB Video List for You</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unison-choirs-the-duet-experience-on-tiktok/"><u>Unison Choirs The Duet Experience on TikTok</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-checklist-for-professional-youtube-clips-for-2024/"><u>[New] The Ultimate Checklist for Professional YouTube Clips for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-perfecting-the-art-of-silence-increase-in-audacity/"><u>[Updated] In 2024, Perfecting the Art of Silence Increase in Audacity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-box-it-up-the-top-10-online-houses-for-customized-gift-boxes/"><u>2024 Approved Box It Up! The Top 10 Online Houses for Customized Gift Boxes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-advanced-tracking-technology/"><u>Enhanced User Experience with Advanced Tracking Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-web-analytics-with-the-help-of-cookiebot-technology/"><u>Enhanced Web Analytics with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-presence-with-advanced-cookiebot-technology/"><u>Enhancing Online Presence with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-visibility-through-strategic-webpage-content-mastery/"><u>Enhancing Online Visibility Through Strategic Webpage Content Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explorez-clairement-tous-les-bienfaits-de-lutilisation-dabbyy-recognition-server-avec-rewalk/"><u>Explorez Clairement Tous Les Bienfaits De L'utilisation D’ABBYY Recognition Server Avec Rewalk</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aural-artistry-the-magic-of-sound-fading/"><u>In 2024, Aural Artistry The Magic of Sound Fading</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y28-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y28 5G Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/integration-of-abbyy-flexicapture-with-paperstream-nx-manager-maximizing-efficiency-for-pfu-applications/"><u>Integration of ABBYY FlexiCapture with PaperStream NX Manager: Maximizing Efficiency for PFU Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-dialogues-full-potential-three-methods-of-chatgpt-wolfram-plugin-use/"><u>Unleashing Dialogue's Full Potential: Three Methods of ChatGPT-Wolfram Plugin Use</u></a></li>
 </ul></div>
 

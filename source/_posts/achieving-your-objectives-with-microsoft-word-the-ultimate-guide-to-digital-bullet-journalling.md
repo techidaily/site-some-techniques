@@ -1,7 +1,7 @@
 ---
 title: "Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling"
-date: 2024-11-11T11:21:53.302Z
-updated: 2024-11-12T19:40:15.319Z
+date: 2024-11-10T03:44:59.726Z
+updated: 2024-11-14T04:26:23.245Z
 tags:
   - deals
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
 ![A typical physical bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/back_to_the_basics_1600x.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bulletjournal.com
 
  Most people use a physical notebook and pen to keep their bullet journal. It’s not your only option though. You can also create and keep a digital bullet journal in Microsoft Word. There are two reasons why Word works as a bullet journal:
@@ -44,16 +37,10 @@ Bulletjournal.com
 2. Secondly, a physical bullet journal will eventually run out of space. You can technically keep the Word bullet journal forever.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Bullet Journal in Microsoft Word
@@ -88,17 +75,38 @@ Close
 
  If the pattern doesn’t look right. Try changing its size using the drop-down menu or unchecking the “Washout” button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Create the Index
 
  We’re ready to create our first bullet journal page. Click “Blank Page” on the “Insert” tab. The “Index” page is your directory to find everything in the bullet journal. That’s why we numbered the pages. You can always use the very next page on your journal for anything you want, and later, locate its page or page range in the index.
 
 ![Creating the index page in a bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-202543.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Create the Future Log
 
  The future log is where you make long-term plans. Tasks, events, or notes that’ll be relevant in the next six months show up here. The future log doesn’t have to start from January. It should start from your current month. [Create a table](https://fox-http.techidaily.com/in-2024-unlocking-your-iphones-audio-library-with-top-podcast-strategies/) for the future log using the "Table" button in the "Insert" tab.
 
 Close 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Create the Monthly Log
 
@@ -107,17 +115,10 @@ Close
 ![ksnip_20240801-203144](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203144.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Create the Daily Log
@@ -127,20 +128,19 @@ Close
 ![ksnip_20240801-203451](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203451.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use the Bullet Journal
 
@@ -192,18 +192,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/chieving-a-million-on-the-map-a-strategic-view-to-sub-guide/"><u>[New] Achieving a Million on the Map A Strategic View-to-Sub Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-reality-top-7-gadgets-for-metaverse-success/"><u>[New] From Concept to Reality Top 7 Gadgets for Metaverse Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed-for-2024/"><u>[Updated] Capturing More with Less - LG's 360 Camera Redefined & Reviewed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-our-1-10-list-of-camera-lenses-for-the-best-shots/"><u>[Updated] Expert Picks Our #1-10 List of Camera Lenses for the Best Shots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>[Updated] Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-the-prime-10-websites-for-photo-acquisition-without-expense/"><u>2024 Approved Guide to the Prime 10 Websites for Photo Acquisition Without Expense</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-setup-17-tools-for-swift-image-enhancement-and-cleaning/"><u>2024 Approved Ideal Setup 17 Tools for Swift Image Enhancement and Cleaning</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bottom-up-language-learning-hangul-and-the-secrets-of-squid-game/"><u>Bottom-Up Language Learning: Hangul & the Secrets of Squid Game</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhance-your-connectivity-with-the-slim-and-efficient-orlink-u631-wi-fi-stick-for-usb-ports/"><u>Enhance Your Connectivity with the Slim and Efficient ORLINK U631 Wi-Fi Stick for USB Ports</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-official-method-to-unlock-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Max Official Method to Unlock Your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-raw-footage-to-stunning-visuals-using-luts-in-obs-studio/"><u>In 2024, From Raw Footage to Stunning Visuals Using LUTs in OBS Studio</u></a></li>
-<li><a href="https://network-issues.techidaily.com/luminous-landscapes-for-your-lenovo-display/"><u>Luminous Landscapes for Your Lenovo Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-perfect-balance-mastering-iphone-photo-blurring/"><u>[New] Finding the Perfect Balance Mastering iPhone Photo Blurring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flipping-video-content-easily-in-android-applications/"><u>[Updated] Flipping Video Content Easily in Android Applications</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-tickletunes-recommendations-best-online-funnier-downloads/"><u>[Updated] In 2024, TickleTunes Recommendations Best Online Funnier Downloads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectaculum-of-sight-top-picks-for-professional-8k/"><u>[Updated] Spectaculum of Sight Top Picks for Professional 8K</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>2024 Approved How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/from-idea-to-live-stream-a-comprehensive-guide-for-instagram-and-obs-users-for-2024/"><u>From Idea to Live Stream A Comprehensive Guide for Instagram & OBS Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigglegif-builder-for-2024/"><u>GiggleGif Builder for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-pathways-through-mixed-realitys-domain/"><u>In 2024, Illuminating Pathways Through Mixed Reality's Domain</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-search-of-perfection-the-top-10-live-streamers-for-2024/"><u>In Search of Perfection The Top 10 Live Streamers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/myx-fitness-takes-the-lead-over-peloton-with-higher-weight-capacity-a-closer-look-at-size-limitations-zdnet/"><u>Myx Fitness Takes the Lead Over Peloton with Higher Weight Capacity - A Closer Look at Size Limitations | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revving-up-your-mobile-experience-top-3-anticipated-iphone-16-innovations-revealed-by-zdnet/"><u>Revving Up Your Mobile Experience: Top 3 Anticipated iPhone 16 Innovations Revealed by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-restore-pen-and-touch-interaction-on-your-screen/"><u>Troubleshooting: How to Restore Pen & Touch Interaction on Your Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-secrets-of-advanced-hardware-with-toms-gear-guides/"><u>Unlocking the Secrets of Advanced Hardware with Tom's Gear Guides</u></a></li>
+<li><a href="https://win-bits.techidaily.com/bystryj-i-prostoj-metod-klonirovaniya-zhestkogo-diska-na-ssd-s-pomoshyu-usb-poshagovoe-rukovodstvo/"><u>Быстрый И Простой Метод Клонирования Жесткого Диска На SSD С Помощью USB: Пошаговое Руководство</u></a></li>
 </ul></div>
 

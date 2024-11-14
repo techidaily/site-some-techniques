@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-11-10T02:15:27.443Z
-updated: 2024-11-12T21:13:54.883Z
+date: 2024-11-12T22:33:14.987Z
+updated: 2024-11-14T07:16:30.458Z
 tags:
   - web
 categories:
@@ -38,21 +38,35 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-horned-gods-hearing-essential-websites-for-got-sound-files/"><u>[Updated] Horned God's Hearing Essential Websites for GoT Sound Files</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-diy-techniques-transforming-smartphones-into-webcams/"><u>[Updated] In 2024, DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unraveling-periscopes-mystique-is-it-free-and-how-to-signup/"><u>[Updated] In 2024, Unraveling Periscope's Mystique Is It Free and How to Signup?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-strategies-for-effective-whiteboard-interaction-during-online-engagement-across-multiple-systems-for-2024/"><u>[Updated] Strategies for Effective Whiteboard Interaction During Online Engagement Across Multiple Systems for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-for-beginners-the-top-8-versatile-cameras-under-400/"><u>2024 Approved For Beginners The Top 8 Versatile Cameras Under $400</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-flat-to-fierce-transformative-color-workflows/"><u>2024 Approved From Flat to Fierce Transformative Color Workflows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-final-cut-pro-for-free/"><u>In 2024, How to Get Final Cut Pro for Free</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/fic-profits-from-youtube-universal-strategies-unveiled-for-2024/"><u>Prolific Profits From YouTube Universal Strategies Unveiled for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-choose-lucyd-lyte-discovering-the-surprising-relationship-of-smart-glasses-with-chatgpts-constraints/"><u>Why Choose Lucyd Lyte? Discovering the Surprising Relationship of Smart Glasses with ChatGPT's Constraints</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-the-power-of-supplemental-film-footage/"><u>[New] 2024 Approved Harnessing the Power of Supplemental Film Footage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-avoiding-misdated-memories-with-exact-times/"><u>[New] Avoiding Misdated Memories with Exact Times</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-clear-your-twitter-timeline-fast-topunfollowtools-revealed/"><u>[New] In 2024, Clear Your Twitter Timeline Fast #TopUnfollowTools Revealed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-complete-guide-to-crafting-luts-in-3d/"><u>[New] In 2024, The Complete Guide to Crafting LUTs in 3D</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-freefire-gameplay-essential-youtube-tips-for-2024/"><u>[New] Mastering FreeFire Gameplay Essential YouTube Tips for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-brand-storytelling-through-the-eyes-of-customer-voices/"><u>[Updated] 2024 Approved Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-performers-webcasts/"><u>2024 Approved Exclusive Performers' Webcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>2024 Approved Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-appraisal-hero4-black-performance/"><u>2024 Approved Extended Appraisal Hero4 Black Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guidelines-for-effective-video-integration-in-teaching/"><u>2024 Approved Guidelines for Effective Video Integration in Teaching</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighting-heroics-at-the-x-olympics-2022/"><u>2024 Approved Highlighting Heroics at the X-Olympics 2022</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-zoom-in-and-zoom-out-video-on-iphone-easily/"><u>2024 Approved How to Zoom in and Zoom Out Video on iPhone Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-top-10-final-cut-pro-plug-ins/"><u>2024 Approved Top 10 Final Cut Pro Plug-Ins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-reveals-new-approach-for-asia-pacific-region-at-2019-ai-hong-kong-conference/"><u>ABBYY Reveals New Approach for Asia-Pacific Region at 2019 AI Hong Kong Conference</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expressive-element-enhancers-for-2024/"><u>Expressive Element Enhancers for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/targus-displaylink-driver-updates-a-step-by-step-guide-for-windows-users/"><u>Targus DisplayLink Driver Updates: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-30-unbeatable-amazon-prime-day-offers-score-discounts-on-fire-tv-devices-from-roku-to-lg-dont-miss-out/"><u>Top 30 Unbeatable Amazon Prime Day Offers: Score Discounts on Fire TV Devices From Roku to LG – Don't Miss Out!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

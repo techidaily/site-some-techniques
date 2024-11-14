@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-11-05T23:10:40.432Z
-updated: 2024-11-12T21:29:32.515Z
+date: 2024-11-06T17:28:09.214Z
+updated: 2024-11-14T03:00:17.071Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The domain name resolving service is enabled by default in Ubuntu. That’s fine, it performs a useful service. But it’s worth periodically flushing its buffers, especially if you get flaky connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is DNS Caching?
@@ -57,10 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Over time, your DNS cache will be populated by new entries, some of which are likely to be updated versions of older, stale cache entries. It’s an easy and safe operation. If you ever experience networking or internet flakiness, flushing your DNS cache is a good first step in troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Flushing the DNS Cache on Ubuntu
@@ -73,13 +73,6 @@ systemctl is-active systemd-resolved
 
 ![Checking whether the resolved daemon is running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The response will either be “active” or “inactive.”
 
  To verify that flushing the buffers actually does something, we can take a peek at the number of entries in the cache. We’ll check again, once we’ve flushed the buffers. This time, we’re using the resolvectl command to manipulate systemd-resolved directly.
@@ -88,18 +81,18 @@ resolvectl statistics
 
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
 
 resolvectl flush-caches
 
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
 
@@ -108,6 +101,13 @@ resolvectl statistics
 ![Verifying the DNS cache is empty on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png) 
 
  Our cache size is zero, just as we predicted.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Don’t Forget Your Browser's Cache
 
@@ -121,13 +121,6 @@ about:networking
 
 ![Selecting the DNS option in the Firefox sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "DNS" entry in the sidebar.
 
 ![The Clear DNS Cache button on Firefox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-10.png) 
@@ -137,10 +130,10 @@ about:networking
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Google Chrome
@@ -152,6 +145,13 @@ chrome://net-internals/#dns
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
 
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remember to Flush Your DNS Cache
 
@@ -174,17 +174,19 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>[New] 2024 Approved An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-the-ultimate-dji-phantom-4-experience/"><u>[New] Full Breakdown The Ultimate DJI Phantom 4 Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-create-a-funny-meme/"><u>[New] How To Create A Funny Meme</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-magnification-methods-for-ios-devices/"><u>[New] Ideal Magnification Methods for iOS Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-industry-leaders-top-notch-free-presentation-resources/"><u>[New] Industry Leaders Top-Notch, Free Presentation Resources</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-mac-screen-recorder-alternatives-to-bandicam/"><u>[Updated] Essential Mac Screen Recorder Alternatives to Bandicam</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-experts-choice-optimal-vehicle-monitoring-tech/"><u>[Updated] Expert's Choice Optimal Vehicle Monitoring Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-pro-to-max-the-evolutionary-journey-in-apples-m-chips/"><u>[Updated] From Pro to Max The Evolutionary Journey in Apple's M Chips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-uniting-slack-and-filmora-for-ultimate-collaborative-gatherings/"><u>[Updated] In 2024, Uniting Slack and Filmora for Ultimate Collaborative Gatherings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/die-besten-5-kostenlosen-vob-konvertierprogramme-im-jahr-2023-optimieren-sie-ihre-videoqualitat/"><u>Die Besten 5 Kostenlosen VOB-Konvertierprogramme Im Jahr 2023: Optimieren Sie Ihre Videoqualität!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disable-windows-defender-on-windows-11-3-ways/"><u>Disable Windows Defender on Windows 11 - 3 Ways</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-angular-video-transitions-on-android-devices/"><u>In 2024, Navigate Angular Video Transitions on Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-lightning-labs-loading-slides-in-ppt/"><u>[New] 2024 Approved Lightning Labs Loading Slides in PPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>[New] Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[New] Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-luts-to-spark-ar-and-download-free-lut/"><u>[New] How to Use LUTs to Spark AR & Download Free LUT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-faults-recovering-login-credentials-quickly/"><u>[New] In 2024, Facebook Faults? Recovering Login Credentials Quickly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-principles-of-momentum-reversal-in-filming/"><u>[Updated] 2024 Approved Principles of Momentum Reversal in Filming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flicker-studio-the-complete-lightroom-alternatives-guide/"><u>[Updated] Flicker Studio The Complete Lightroom Alternatives Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-black-screen-of-death-in-resident-evil-village-a-comprehensive-guide/"><u>Fixing the 'Black Screen of Death' In Resident Evil Village: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>In 2024, Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implement-shutter-speed-blurring-in-psx/"><u>In 2024, Implement Shutter Speed Blurring in PSX</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-metaverse-masterpieces-transforming-images-into-memetic-hits/"><u>In 2024, Metaverse Masterpieces Transforming Images Into Memetic Hits</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s23plus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S23+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rebuildvidhelper-free-tool-for-vids-in-need/"><u>RebuildVidHelper: Free Tool for Vids in Need</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-ace-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus Ace 2 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

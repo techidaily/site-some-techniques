@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer"
-date: 2024-11-06T00:05:43.057Z
-updated: 2024-11-12T23:58:59.991Z
+date: 2024-11-10T21:05:14.012Z
+updated: 2024-11-14T05:33:30.310Z
 tags:
   - desktop
 categories:
@@ -27,24 +27,38 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
  You can save web apps in other browsers, too. In Chrome, tap the three-dot menu button, go to More Tools > Create Shortcut, check "Open as Window", and click "Create". In Edge, click the three-dot menu button and go to Apps > Install This Site as an App.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Run the Copilot iPad App on Your Mac
 
@@ -56,23 +70,9 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
 
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -106,18 +106,21 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-5-headsets-a-youtube-gamers-guide/"><u>[New] 2024 Approved Best 5 Headsets A YouTube Gamer's Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ise-to-editing-greatness-with-our-top-10-youtube-tips-for-2024/"><u>[New] Rise to Editing Greatness with Our Top 10 YouTube Tips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-banking-securing-premium-stock-graphics/"><u>[Updated] Image Banking Securing Premium Stock Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-features-of-the-latest-win11-release/"><u>[Updated] Innovative Features of the Latest Win11 Release</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>2024 Approved Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-hero-profit-on-reddit-with-no-experience-top-13/"><u>2024 Approved From Zero to Hero Profit on Reddit with No Experience (Top 13)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/achieve-xbox-broadcast-excellence-on-facebook/"><u>Achieve Xbox Broadcast Excellence on Facebook</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95865818-9781623172299-consciousness-dialogues/"><u>Consciousness Dialogues | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highlights-from-chinas-winter-olympiad-2022-for-2024/"><u>Highlights From China's Winter Olympiad 2022 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/improving-visual-storytelling-with-secondary-shoots-for-2024/"><u>Improving Visual Storytelling with Secondary Shoots for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-x5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco X5 Phone Now with These Tips</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/progettare-una-tua-own-branded-bootable-usb-di-windows-11-guida-facile-e-gratuita/"><u>Progettare Una Tua Own-Branded Bootable USB Di Windows 11: Guida Facile E Gratuita</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/schritt-fur-schritt-anleitung-zur-reinigung-ihrer-seagate-externen-festplatte-unter-windows-11-8-oder-7/"><u>Schritt-Für-Schritt Anleitung Zur Reinigung Ihrer Seagate Externen Festplatte Unter Windows 11, 8 Oder 7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[Updated] 2024 Approved Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>[Updated] Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-10-most-powerful-drawing-tools-on-chrome-os/"><u>[Updated] Explore the 10 Most Powerful Drawing Tools on Chrome OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-herocam-pro-mastering-advanced-features/"><u>[Updated] HeroCam Pro Mastering Advanced Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-detaille-comment-transformer-un-fichier-mov-en-mp4-a-laide-de-convertisseur-video-moovavi/"><u>Guide Détaillé : Comment Transformer Un Fichier MOV en MP4 À L'aide De Convertisseur Vidéo Moovavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlight-prime-iphone-gif-apps-to-try-for-2024/"><u>Highlight Prime iPhone GIF Apps to Try for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-create-time-travel-teleportation-effects-in-2024/"><u>How to Create Time Travel Teleportation Effects, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-viewing-ranked-10-best-mac-compatible-screens-for-2024/"><u>Immersive Viewing Ranked #10, Best Mac-Compatible Screens for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>In 2024, From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speedy-shot-mastery-discovering-the-best-5-hacks-for-filming/"><u>In 2024, Speedy Shot Mastery Discovering the Best 5 Hacks for Filming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-switch-onoff-youtubes-pip-mode-on-your-iphone/"><u>In 2024, Switch On/Off YouTube's PIP Mode on Your iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/max-360-or-hero-11-a-comparative-look-at-gopro-cameras-footage-for-2024/"><u>Max 360 or Hero 11? A Comparative Look at GoPro Cameras' Footage for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-copilot-microsofts-ai-code-companion/"><u>Unveiling Copilot: Microsoft's AI Code Companion</u></a></li>
 </ul></div>
 

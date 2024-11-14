@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-11-12T00:04:26.850Z
-updated: 2024-11-12T18:48:07.087Z
+date: 2024-11-11T21:13:25.309Z
+updated: 2024-11-14T05:42:21.866Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 * Use commands like dir /s, ping -t, cmatrix, genact, and hollywood to simulate the hacker aesthetics.
 
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
 
@@ -53,10 +60,16 @@ color
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
@@ -87,10 +100,10 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -110,10 +123,10 @@ Your browser does not support the video tag.
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
@@ -160,13 +173,6 @@ genact -m cryptomining
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
  For our final command, let’s pull out all the stops and go full overboard with “hollywood”. This is another Linux command that creates a split-screen terminal that looks like something straight out of a Hollywood movie—the stereotypical mainstream hacker visuals.
@@ -204,15 +210,18 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-hds-radiance-reviewed-does-it-merit-the-hdr-label/"><u>[Updated] HD's Radiance Reviewed Does It Merit the HDR Label?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>2024 Approved In-Depth Look UltraEdit Pro for Video Cutting 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-adsense-income-strategy-calculating-per-thousand-viewers/"><u>2024 Approved Youtube's AdSense Income Strategy Calculating Per Thousand Viewers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tial-guides-to-the-top-10-student-focused-history-vlogs/"><u>Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/iconic-story-arcs-in-cinemas-pantheon-for-2024/"><u>Iconic Story Arcs in Cinema’s Pantheon for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>In 2024, Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximize-your-wallet-with-top-notch-apple-deals-on-prime-day/"><u>Maximize Your Wallet with Top-Notch Apple Deals on Prime Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-releases-innovative-surface-pro-10-and-laptop-amo-explore-the-latest-ai-upgrades/"><u>Microsoft Releases Innovative Surface Pro 10 & Laptop Amo: Explore the Latest AI Upgrades!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-best-gopro-accessories-for-beginners/"><u>The Best GoPro Accessories for Beginners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/topo-5-estrategias-mais-atuais-para-transferir-filmes-do-dvd-em-2023-windows-e-mac/"><u>Topo 5 Estratégias Mais Atuais Para Transferir Filmes Do DVD Em 2023: Windows E Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bridging-images-and-words-step-by-step-text-integration-guide/"><u>[Updated] Bridging Images & Words Step-by-Step Text Integration Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-website-insights-using-cookiebot-driven-tracking-solutions/"><u>Enhance Website Insights Using Cookiebot-Driven Tracking Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-smart-automation-how-abbyy-and-blue-prism-revolutionize-digital-labor/"><u>Enhancing Smart Automation: How ABBYY & Blue Prism Revolutionize Digital Labor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-subcontracting-options-for-enhancing-abpp-solutions/"><u>Expert Subcontracting Options for Enhancing ABPP Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-different-techniques-in-process-mining-insights-from-abbyys-new-study/"><u>Exploring Different Techniques in Process Mining: Insights From ABBYY's New Study</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-regulatory-standards-and-client-satisfaction-in-the-finance-sector/"><u>Harmonizing Regulatory Standards and Client Satisfaction in the Finance Sector</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-apple-addressed-the-top-challenge-of-fixing-electronics-yourself/"><u>How Apple Addressed the Top Challenge of Fixing Electronics Yourself</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-live-sound-input-for-obs-on-windows-11/"><u>How to Enable Live Sound Input for OBS on Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>In 2024, Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
+<li><a href="https://win-info.techidaily.com/introducing-emeditor-professional-v13-beta-6-enhanced-text-editing-experience/"><u>Introducing EmEditor Professional v13 Beta 6 - Enhanced Text Editing Experience.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kann-ich-mit-der-xbox-one-dvds-anschauen-oder-wie-lose-ich-wiedergabefehler-auf-meiner-konsole/"><u>Kann Ich Mit Der Xbox One DVDs Anschauen, Oder Wie Löse Ich Wiedergabefehler Auf Meiner Konsole?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-samsung-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Samsung</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-resetting-your-iphone-from-scratch-windowsmac-methodology/"><u>The Ultimate Guide to Resetting Your iPhone From Scratch: Windows/Mac Methodology</u></a></li>
 </ul></div>
 

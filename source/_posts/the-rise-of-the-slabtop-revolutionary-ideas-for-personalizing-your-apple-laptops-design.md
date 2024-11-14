@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-11-12T04:18:54.366Z
-updated: 2024-11-12T22:11:22.489Z
+date: 2024-11-07T20:10:39.908Z
+updated: 2024-11-14T04:51:27.819Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is a Slabtop?
 
  A slabtop is a headless laptop, with MacBooks being popular choices for this type of conversion. A headless computer generally refers to a computer that has been designed for use without a monitor. Normally, this involves remote access software or a text-based interface like SSH. Servers are commonly designed to be headless, but headless machines can depend on a monitor from time to time, such as when troubleshooting.
@@ -33,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  In the context of a slabtop, headless simply means that the built-in monitor (and the lid that houses the monitor) has been removed. This results in a slab computer that houses all the components in the base. This isn't a million miles away from the home computers of the 80s (like the Commodore 64) where the keyboard _was_ the computer.
 
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
 
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  CalDigit USB-C Gen2 Dock
@@ -70,10 +64,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Your Own Display
@@ -90,6 +84,13 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Make Your Own Slabtop
 
  Before you grab your pliers, it's important to understand that there is a process involved here. You must disconnect (or remove) the battery from your slabtop before you get too involved in the decapitation process. This is especially important on Apple's 'opening the lid turns it on' M1 or later machines.
@@ -99,13 +100,6 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  On a MacBook, this can mean disconnecting essential components like the Wi-Fi antennas. Since every laptop is different, it's impossible to provide precise instructions for every model. Thankfully, there's a good chance you can find instructions online somewhere indicating how to replace the display on your laptop.
 
 [iFixit](https://www.ifixit.com) is a great resource for this. This resource has screen replacement guides (like [this one for a 2021 MacBook Pro 16-inch](https://www.ifixit.com/Guide/MacBook+Pro+16-Inch+2021+Screen+Replacement/150595)) that you can follow, plus there are video repair guides on the internet for all kinds of laptops. Your ultimate goal should be a clean headless laptop, free of unsightly ribbon cables.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Things to Consider Before Going Headless
 
@@ -136,24 +130,17 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-building-authority-in-education-10-tips-for-youtube-channel-creation-for-2024/"><u>[New] Building Authority in Education 10 Tips for YouTube Channel Creation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-top-10-websites-for-no-fee-images/"><u>[New] Explore the Top 10 Websites for No-Fee Images</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-leading-action-cameras-front-faced-views-available/"><u>[New] Leading Action Cameras Front-Faced Views Available</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-itunes-podcasts-on-ios-devices/"><u>[Updated] Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminating-iphone-luminary-strategies/"><u>[Updated] Illuminating iPhone Luminary Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>[Updated] In 2024, Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-integrate-spotify-and-youtube-top-5-playlist-to-channel-converters-available/"><u>[Updated] Integrate Spotify and YouTube Top 5 Playlist-to-Channel Converters Available</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-srt-enhanced-mp4-files/"><u>2024 Approved Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-resolve-fb-live-failure-video-not-posting/"><u>2024 Approved Resolve FB Live Failure Video Not Posting</u></a></li>
-<li><a href="https://win-webster.techidaily.com/windows-1011zip/"><u>無料ツールでWindows 10/11に削除されたZIPファイルを回復する</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-methods-for-extracting-water-from-the-speaker-units-of-your-iphone/"><u>Effective Methods for Extracting Water From the Speaker Units of Your iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finest-free-and-paid-windows-drawing-software-ranked-for-2024/"><u>Finest Free & Paid Windows Drawing Software Ranked for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-coloredge-4k-capabilities-with-eizo/"><u>In 2024, Exploring the ColorEdge 4K Capabilities with EIZO</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-face-motion-blur-magic-a-step-by-step-picsart-approach/"><u>In 2024, Face Motion Blur Magic A Step-by-Step Picsart Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-fires-audio-transformation-tricks/"><u>In 2024, Free Fire's Audio Transformation Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-budget-friendly-4k-cameras/"><u>In 2024, Ultimate Guide to Budget-Friendly 4K Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-study-of-the-dji-inspire-1-drone-for-2024/"><u>In-Depth Study of the DJI Inspire 1 Drone for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-tagging-elevate-your-youtube-content/"><u>Mastering Tagging Elevate Your YouTube Content</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-the-tri-band-wireless-network-the-asus-ax6600-mesh-wifi-system-detailed-review/"><u>Mastering the Tri-Band Wireless Network: The ASUS AX6600 Mesh WiFi System Detailed Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-res-videos-2024s-finest-camcorders-ranked/"><u>[New] High-Res Videos 2024'S Finest Camcorders Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>[New] Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-grab-king-macos-recorder-free/"><u>[New] Screen Grab King MacOS Recorder, Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-and-engage-ifunny-meme-downloads/"><u>[Updated] Explore & Engage IFunny Meme Downloads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-platform-pick-go-live-with-obs-or-twitch-studio/"><u>[Updated] Platform Pick Go Live with OBS or Twitch Studio</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c67-4g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C67 4G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-magic-5-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor Magic 5 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x8b-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X8b</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>In 2024, GoPro Vs. YI Updated Battle for Ultimate Action Recording</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-the-tracks-like-a-pro-the-best-hacks-for-mastery-in-subway-surfers/"><u>Navigate the Tracks Like a Pro: The Best Hacks for Mastery in Subway Surfers</u></a></li>
 </ul></div>
 

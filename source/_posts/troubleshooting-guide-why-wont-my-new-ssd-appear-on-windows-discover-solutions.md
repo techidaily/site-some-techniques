@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions"
-date: 2024-11-12T06:21:10.746Z
-updated: 2024-11-13T12:53:38.155Z
+date: 2024-11-09T16:06:30.697Z
+updated: 2024-11-14T03:35:30.591Z
 tags:
   - desktop
 categories:
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 * [The Most Common Reason Your Disk Is Missing](https://fox-links.techidaily.com/new-2024-approved-essential-steps-to-prep-your-oculus-rift-zone/)
 * [How to Bring Your Missing Drive Online](https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-by-drfone-ios/)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  As such, when you put the drive in your system, Windows simply waits for you to decide what to do with the drive instead of automatically formatting and adding it to the drive list. If you've never added a hard drive to your computer before, however, it can be pretty disconcerting when it appears like the drive is missing (or, worse, dead). Have no fear, though! It's easy to bring your hard drive out of hiding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Bring Your Missing Drive Online
 
  Assuming that the hard drive is installed properly, and is not, (by some horrible dumb luck) defective out of the gate, bringing it online is a very simple process. To do so, you first need to pull up the Windows Disk Management tool.
@@ -55,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![Select 'GPT (GUID Partition Table),' then click 'OK.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-hdd-auto-detected.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it doesn't show up, you just need to initialize it manually. In Disk Management, scroll down through the list of disks in the bottom pane. These disks will be labeled "Disk 1" through however many disks you have. Windows assigns a number to all hard disks, solid state disks, USB drives, and card readers, so don't be surprised if you have to scroll down a bit—in our case the new drive was "Disk 10" as seen below.
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
@@ -76,20 +76,27 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "OK" and you'll be returned to the main Disk Management window. There you'll find that your disk is now labeled "Basic" and "Online" on the left, but the contents are still "unallocated". Right click on the striped box presenting the unallocated drive space. Select "New Simple Volume".
 
 ![img_57c45c0ad925a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c0ad925a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will launch the New Simple Volume Wizard to guide you through the process of setting up the disk. In the first step, select how much space you want to include in the volume. By default the number is the full amount of available disk space--unless you're planning on reserving space for additional partitions, there's no reason to change this. Click "Next".
 
 ![img_57c45c8fc3c3e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c8fc3c3e.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the second step, assign a drive letter. The default is probably fine.
 
@@ -99,22 +106,15 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![img_57c45d3ae14d7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d3ae14d7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the process is complete, you'll see your new drive--allocated, formatted, and ready for action--in the Disk Management disk list.
 
 ![img_57c45e2278bff](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45e2278bff.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now use the disk like any other on your system for media storage, games, and other purposes.
@@ -134,18 +134,20 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-lgs-new-tech-horizon-in-bp550/"><u>[New] Exploring LG's New Tech Horizon in BP550</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-reactivate-video-playback-in-sony-a6400/"><u>[New] How to Reactivate Video Playback in Sony A6400</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/o-budget-no-problem-heres-your-list-of-free-intra-experts/"><u>[New] No Budget? No Problem! Here's Your List of Free Intra Experts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-your-igtv-presence-with-new-covers-for-2024/"><u>[New] Transforming Your IGTV Presence with New Covers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-mindset-audio-selection/"><u>[Updated] Free Mindset Audio Selection</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-future-is-here-high-resolution-video-on-nikon-j5/"><u>[Updated] The Future Is Here High-Resolution Video on Nikon J5</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-n30-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord N30 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-unleashed-cutting-edge-ar-games/"><u>In 2024, Innovation Unleashed Cutting-Edge AR Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-phantom-replay-masterclass/"><u>In 2024, Phantom Replay Masterclass</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initiating-immediate-creation-of-captivating-facebook-panoramas-for-2024/"><u>Initiating Immediate Creation of Captivating Facebook Panoramas for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138585305-9781475940237-the-acts-of-creation/"><u>The Acts of Creation | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-s23-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy S23 Screen | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-13t-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi 13T Pro on Mac?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-easytime-timer-services/"><u>[New] Excellent EasyTime Timer Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focused-frames-eliminating-jitterbugs/"><u>[New] Focused Frames Eliminating Jitterbugs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premium-online-audio-solutions-guide-for-2024/"><u>[New] Premium Online Audio Solutions Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-channel-dynamo-craft-your-content-empire/"><u>[Updated] 2024 Approved Channel Dynamo Craft Your Content Empire</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-conquer-chronological-chaos-snapchats-video-inversion/"><u>[Updated] 2024 Approved Conquer Chronological Chaos Snapchat's Video Inversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expressive-faces-with-motion-blur-in-picsart/"><u>[Updated] Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-realme-note-50-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Realme Note 50.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-s23-fe-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy S23 FE Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humorous-craftsmanship-access-without-expense-for-2024/"><u>Humorous Craftsmanship Access Without Expense for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>In 2024, Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>In 2024, Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-modifying-ios-tones-for-max-impact/"><u>In 2024, In-Depth Modifying iOS Tones for Max Impact</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-narzo-n55-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Narzo N55 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-upgrading-your-steelseries-arcteus-5-audio-experience-via-driver-download/"><u>Step-by-Step Guide to Upgrading Your SteelSeries Arcteus 5 Audio Experience via Driver Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-solutions-to-youtube-buffer-in-chrome-and-safari/"><u>Swift Solutions to YouTube Buffer in Chrome and Safari</u></a></li>
 </ul></div>
 

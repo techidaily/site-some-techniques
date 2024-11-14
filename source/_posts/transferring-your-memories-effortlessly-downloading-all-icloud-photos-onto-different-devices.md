@@ -1,7 +1,7 @@
 ---
 title: "Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices"
-date: 2024-11-07T09:03:23.693Z
-updated: 2024-11-13T12:17:28.640Z
+date: 2024-11-11T23:38:18.396Z
+updated: 2024-11-14T02:48:08.646Z
 tags:
   - deals
 categories:
@@ -34,24 +34,18 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Available storage on a 128GB iPhone 13 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-50-30.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Downloading media locally to your iPhone won't remove data from iCloud. Media will be kept locally on your device storage, accessible via the Photos app, and in the cloud. The fact that images are "stuck" in the Photos app does somewhat limit the usefulness of downloading everything, but at least you won’t need to rely on an internet connection to see your photos and videos.
 
  To do this, head to Settings > Photos and make sure that “Download and Keep Originals” is selected (not “Optimize iPhone Storage”). Now it’s time to wait, as iCloud downloads all original media to your device. If you run out of space, you’ll get a notification.
 
 ![Enable original photo storage on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_2489.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can reverse this selection if you decide you’d rather let your devices manage free space and store everything in iCloud again.
 
@@ -63,20 +57,33 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Checking remaining storage on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-52-45.png) 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To download your images from iCloud, open the Photos app and click on Photos > Settings at the top of the screen. Beneath the “iCloud Photos” checkbox select the “Download Originals to this Mac” radio button. Now wait as Photos downloads everything locally.
 
 ![Enabling original media downloads in macOS Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-54-20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Switching back to “Optimize Mac Storage” will reverse the decision, removing local media files while keeping them safe in the cloud.
 
  You can also use some of the methods listed below for Windows, Linux, a command line tool, and by requesting data from Apple directly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Download iCloud Photos on Windows
 
@@ -88,26 +95,26 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Enabling iCloud Photos in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also turn on Shared folders and tweak a few other settings while you’re here. Be patient while things download. To reverse your decision, and delete everything locally but keep your media safe in the cloud, simply disable the “iCloud Photos” checkbox again.
 
  You’ll see a warning notifying you that local media will be removed.
 
 ![Disabling iCloud Photos warning in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-18.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are other options for Windows users including using the iCloud website, a command line tool, and requesting data from Apple as noted below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download iCloud Photos Using iCloud.com (Works for Linux)
@@ -123,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![iCloud Photos downloading in a ZIP archive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-12.png) 
 
  Linux users can also use the command line utility and request data from Apple as detailed below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Download iCloud Photos With a Command Line Utility
 
@@ -153,13 +153,20 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Downloading iCloud Photos using a mobile browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/icloud-photos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hit the ellipsis “…” icon in the bottom-right corner of the screen and choose “Download” or “More Download Options” to download the photos to your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download iCloud Photos from Apple Directly
@@ -167,13 +174,6 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
  There’s one more option that should work for all platforms, and that’s to download a copy of your data from Apple directly. To do this, log in to [privacy.apple.com](http://privacy.apple.com) with your Apple ID email address and password and then choose “Request a copy of your data” at the top of the page.
 
 ![Apple's Privacy website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-56-06.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the next screen, check “iCloud Photos” and anything else you’d like a copy of, then hit the blue “Continue” button at the bottom of the page. Your request will be processed by Apple and you’ll eventually receive an invitation to download your data.
 
@@ -202,20 +202,17 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-harnessing-the-power-of-zooms-video-features-on-youtube-platform/"><u>[New] In 2024, Harnessing the Power of Zoom's Video Features on YouTube Platform</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ransform-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders-for-2024/"><u>[New] Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-striking-channel-imagery-best-practices-for-success/"><u>[Updated] 2024 Approved Creating Striking Channel Imagery Best Practices for Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incorporating-seconds-and-minutes-on-youtube-clips/"><u>[Updated] Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrate-like-a-pro-selecting-superior-vector-image-creators/"><u>2024 Approved Illustrate Like a Pro Selecting Superior Vector Image Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reimagining-vrs-uncharted-territories/"><u>2024 Approved Reimagining VR's Uncharted Territories</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-the-pc-crashing-problem-while-playing-psychonauts-2-tips-and-tricks/"><u>Eliminate the PC Crashing Problem While Playing Psychonauts 2: Tips & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-benq-sw320-the-4k-visionary-for-2024/"><u>Examining BenQ SW320 The 4K Visionary for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-quality-radio-dramatic-works-for-2024/"><u>Highest Quality Radio Dramatic Works for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-magic-6-lite-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Magic 6 Lite to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-by-drfone-ios/"><u>How to Unlock Apple iPhone XS?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-free-online-music-beat-detection-tools/"><u>In 2024, Explore Free Online Music Beat Detection Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-mastery-a-critical-review-of-kinemaster-for-android-gamers-2023/"><u>In 2024, Game On Mastery A Critical Review of KineMaster for Android Gamers 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-steer-clear-of-virtual-sickness/"><u>In 2024, How to Steer Clear of Virtual Sickness</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/win10-gaming-sessions-best-recording-approaches-for-2024/"><u>Win10 Gaming Sessions Best Recording Approaches for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-action-cams-the-beginners-primer/"><u>[New] Getting Started with Action Cams - The Beginner's Primer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-visual-quality-crusade-is-av1-ahead-in-video-coding/"><u>[New] Visual Quality Crusade Is AV1 Ahead in Video Coding?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-impact-best-9-video-thumbnail-makers-reviewed-for-2024/"><u>[Updated] Crafting Impact Best 9 Video Thumbnail Makers Reviewed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-circle-camera-unboxing-and-tests/"><u>[Updated] Full Circle Camera Unboxing & Tests</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-vscos-camera-app/"><u>[Updated] Full Guide to VSCO's Camera App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-hacks-a-compendium-of-top-meme-makers/"><u>[Updated] Humor Hacks A Compendium of Top Meme Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-path-from-hobbyist-to-profitable-video-blogger/"><u>[Updated] The Path From Hobbyist to Profitable Video Blogger</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-pfr-rate-for-easy-going-footage/"><u>2024 Approved Premium PFR Rate for Easy-Going Footage</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-12-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 12 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-stream-netflix-on-the-nintendo-switch-console/"><u>Is It Possible To Stream Netflix On The Nintendo Switch Console?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-red-dead-redemption-2-bugs-pro-tips-to-avoid-performance-hiccups/"><u>Overcoming Red Dead Redemption 2 Bugs: Pro Tips to Avoid Performance Hiccups</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/story-3-the-confident-agriculturist-answer-d/"><u>Story 3: The Confident Agriculturist (Answer D)</u></a></li>
 </ul></div>
 

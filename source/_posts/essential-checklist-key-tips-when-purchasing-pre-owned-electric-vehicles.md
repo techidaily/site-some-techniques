@@ -1,7 +1,7 @@
 ---
 title: "Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles"
-date: 2024-11-06T10:35:58.714Z
-updated: 2024-11-12T20:40:55.405Z
+date: 2024-11-09T17:51:34.109Z
+updated: 2024-11-13T17:09:33.802Z
 tags:
   - cutting-edge
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
  While most of the same used car buying principles still apply, like looking over the body, checking for imperfections, and asking [questions about maintenance](https://screen-recording.techidaily.com/in-2024-budget-desktop-encoder-hacks-and-tips/), you'll need to adjust your mindset and consider several other factors. Pre-owned EVs are expensive, and here are a few things to know and do.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check the Vehicle's Accident History
@@ -33,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -72,10 +66,10 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
@@ -100,13 +94,6 @@ Hannah Stryker / How-To Geek
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  This should go without saying, but if you don't have to, never buy a used vehicle on looks alone. You'll want to physically inspect the car body, frame, interior, and charging port, to name a few. Ensure everything looks in good shape, well maintained, and fully operational. After that visual inspection, go on a thorough test drive.
@@ -114,6 +101,13 @@ Justin Duino / How-To Geek
  Taking a used vehicle for a test drive isn't just about getting a feel for the car, punching the pedal, or feeling the get-up-and-go. You're listening for funny noises, ensuring everything feels tight, and testing that the brakes, alignment, suspension, and software like autopilot or lane-assist all work as expected.
 
  Run the heater and air conditioning, maybe go somewhere and try charging it for a few minutes, test all the windows, etc. Again, do your due diligence and check anything and everything that's important or could go wrong. Then, you can bring anything up with the seller, use it as a bargaining chip for a lower price, or pass on the vehicle and find something better.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Consider Getting a Used Electric Car
 
@@ -136,18 +130,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-approaches-for-recording-and-sharing-sporting-games-for-2024/"><u>[New] Cutting-Edge Approaches for Recording & Sharing Sporting Games for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-immersive-virtue-verse-selection-for-ar-vr-worlds/"><u>[New] Immersive Virtue Verse Selection for AR-VR Worlds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-time-lapse-crafting-seamless-moment-transitions/"><u>[Updated] GoPro Time-Lapse Crafting Seamless Moment Transitions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flipping-photo-lightness-for-an-alternate-look/"><u>2024 Approved Flipping Photo Lightness for an Alternate Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>2024 Approved From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-review-of-lg-bp350-from-screen-brightness-to-audio-output/"><u>2024 Approved Full Review of LG BP350 - From Screen Brightness to Audio Output</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/avoiding-lost-sequences-with-obs-fixes/"><u>Avoiding Lost Sequences with OBS Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-iphone-efficiency-using-secret-siri-shortcuts-insider-tips-from-zdnet/"><u>Boost Your iPhone Efficiency Using Secret Siri Shortcuts - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-driver-setup-fast-efficient-downloads-tailored-for-windows-users/"><u>Logitech Driver Setup: Fast, Efficient Downloads Tailored for Windows Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-mov-direttamente-in-formato-m4a-su-moveave-senza-costi-opzione-gratuita-online/"><u>Trasforma I Tuoi File MOV Direttamente in Formato M4A Su Moveave Senza Costi: Opzione Gratuita Online</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-monetization-does-youtube-pay-monthly-in-2024/"><u>YouTube Monetization Does YouTube Pay Monthly, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-audio-first-video-second-comparing-podcast-vs-youtube/"><u>[New] 2024 Approved Audio First, Video Second? Comparing Podcast vs YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-capture-and-keep-best-five-extensions-for-fb-videos/"><u>[New] Capture and Keep Best Five Extensions for Fb Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-go-beyond-basics-with-these-advanced-whatsapp-features/"><u>[New] Go Beyond Basics with These Advanced WhatsApp Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-onscreen-power-expert-tips-on-cropping-images/"><u>[Updated] Harnessing Onscreen Power Expert Tips on Cropping Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>[Updated] How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enabling-virtualization-features-how-to-install-hyper-v-on-windows-11/"><u>Enabling Virtualization Features: How to Install Hyper-V on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fostering-originality-keeping-ai-out-of-homework/"><u>Fostering Originality: Keeping AI Out of Homework</u></a></li>
+<li><a href="https://win-best.techidaily.com/guia-paso-a-paso-para-transferir-datos-de-un-disco-duro-a-un-ssd-mas-pequeno-en-sistemas-operativos-windows/"><u>Guía Paso a Paso Para Transferir Datos De Un Disco Duro a Un SSD Más Pequeño en Sistemas Operativos Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-opinion-on-slomo-recording-softwares-latest-version/"><u>In 2024, Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-the-art-of-recording-in-audacity/"><u>In 2024, Fine-Tuning the Art of Recording in Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hasty-and-hassle-free-images-on-windows-11/"><u>In 2024, Hasty & Hassle-Free Images on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-log-every-victory-on-samsungs-mobile-arena/"><u>In 2024, Log Every Victory on Samsung's Mobile Arena</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-tools-in-live-encoding-technology-for-2024/"><u>Innovative Tools in Live Encoding Technology for 2024</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-magic-6-lite-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Magic 6 Lite</u></a></li>
 </ul></div>
 

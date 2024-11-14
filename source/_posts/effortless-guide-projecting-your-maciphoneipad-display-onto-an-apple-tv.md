@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Projecting Your Mac/iPhone/iPad Display Onto an Apple TV"
-date: 2024-11-06T18:36:38.477Z
-updated: 2024-11-12T20:56:26.378Z
+date: 2024-11-12T05:57:04.717Z
+updated: 2024-11-13T19:24:06.020Z
 tags:
   - mobile
 categories:
@@ -19,16 +19,10 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
  You can beam all kinds of music and video to your TV with an Apple TV streaming box, but did you know you can also mirror the screen of your iPhone, iPad, or Mac on the big screen? Here's how.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make Sure AirPlay Is Enabled on Your Apple TV
@@ -40,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 Close 
 
  With that out of the way, you're ready to mirror your other device's screens to Apple TV.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Mirror an iPhone or iPadScreen to an Apple TV
 
@@ -65,10 +52,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Mirror a Mac Screen to an Apple TV
@@ -83,6 +70,13 @@ Close
 
 ![1497544344-picsay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/1497544344-picsay.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Apple TV is just showing a blank wallpaper, it's acting as a second display instead of mirroring the screen. To fix this, click the Screen Mirroring icon in the menu bar and open the dropdown menu next to your Apple TV, then select the "Mirror Display" option.
 
 Close 
@@ -94,10 +88,10 @@ Close
 ![Screen Mirroring Control Center option on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-mirroring-control-center-option-on-mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever you want to do this again in the future, you won't have to enter in the four-digit code every time—only when you first set it up on your Mac and Apple TV.
@@ -121,20 +115,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-ace-your-youtube-live-with-these-7-powerful-live-streaming-apps-iosandroid-os/"><u>[New] 2024 Approved Ace Your YouTube LIVE with These 7 Powerful Live Streaming Apps (iOS/Android OS)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-monetization-tracker-tool-for-online-videos/"><u>[New] 2024 Approved Monetization Tracker Tool for Online Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-youtubes-richest-content-creator-ever/"><u>[New] 2024 Approved YouTube's Richest Content Creator Ever</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-green-backdrops-available-at-zero-cost/"><u>[New] Green Backdrops Available at Zero Cost</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-basic-to-breakthrough-elevating-your-zoom-livestream-game/"><u>[Updated] From Basic to Breakthrough Elevating Your Zoom Livestream Game</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-individuality-at-your-fingertips-setting-your-own-tones-for-android-devices/"><u>[Updated] Individuality at Your Fingertips Setting Your Own Tones for Android Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-elite-5-digital-title-specialists/"><u>2024 Approved Exploring the Elite 5 Digital Title Specialists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-initiating-immediate-creation-of-captivating-facebook-panoramas/"><u>2024 Approved Initiating Immediate Creation of Captivating Facebook Panoramas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-picks-top-mac-editors-for-cinema-professionals-for-2024/"><u>Expert Picks Top Mac Editors For Cinema Professionals for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a54-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A54 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-13-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 13 Pro Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-digital-imagery-with-musical-twist/"><u>In 2024, Digital Imagery with Musical Twist</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-distort-text-in-photographyvideo/"><u>In 2024, How to Distort Text in Photography/Video</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/tips-for-optimizing-facebooks-auto-play-videos/"><u>Tips for Optimizing Facebook's Auto-Play Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-builds-a-deep-dive-by-toms-hardware/"><u>Unveiling the Latest in PC Builds: A Deep Dive by Tom's Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlined-steps-for-saving-webcam-dialogues/"><u>[New] 2024 Approved Streamlined Steps for Saving Webcam Dialogues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-huntings-top-5-high-quality-video-recorders/"><u>[New] Hunting's Top 5 High-Quality Video Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-no-cost-premiere-pro-resource-pack/"><u>[Updated] Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-gameplay-roblox-closer-scan-guide/"><u>[Updated] Fine-Tuning Gameplay Roblox Closer Scan Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comprehensible-guide-to-documenting-live-sports-events/"><u>[Updated] In 2024, Comprehensible Guide to Documenting Live Sports Events</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-discovering-and-developing-your-personalized-mukbang-style/"><u>[Updated] In 2024, Discovering and Developing Your Personalized Mukbang Style</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-single-frame-solution-separate-and-save-pics-from-video-in-windows-photos-for-2024/"><u>[Updated] Single-Frame Solution Separate and Save Pics From Video in Windows Photos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-features-of-internet-information-services-iis-properties-window/"><u>Exploring the Features of Internet Information Services (IIS) Properties Window</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-started-with-seamless-sound-transitions-for-2024/"><u>Getting Started with Seamless Sound Transitions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-iphones-hdr-features-for-professional-photography/"><u>In 2024, Exploring iPhone's HDR Features for Professional Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarity-in-harmony-great-ringtone-websites/"><u>In 2024, Hilarity in Harmony Great Ringtone Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-much-video-can-64gb128gb-hold/"><u>In 2024, How Much Video Can 64GB/128GB Hold?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-pace-perfectly-on-iphone-capturing-and-editing-slowed-down-videos/"><u>In 2024, How to Pace Perfectly on iPhone Capturing & Editing Slowed Down Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a38-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo A38 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-the-dji-phantom-3-experience/"><u>In 2024, In-Depth Examination The DJI Phantom 3 Experience</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-the-art-of-measuring-gpu-thermal-output-in-computers/"><u>Master the Art of Measuring GPU Thermal Output in Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-new-odyssey-ark-the-ultimate-bargain-on-a-4k-gaming-display-for-enthusiasts/"><u>Samsung's New Odyssey Ark - The Ultimate Bargain on a 4K Gaming Display for Enthusiasts.</u></a></li>
 </ul></div>
 

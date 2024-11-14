@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Tips: Concealing Taskbar & Launcher - A Comprehensive Guide"
-date: 2024-11-07T16:43:33.330Z
-updated: 2024-11-13T03:25:55.385Z
+date: 2024-11-12T17:03:51.940Z
+updated: 2024-11-14T01:26:54.515Z
 tags:
   - desktop
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
  Ultimately, the decision to hide the top bar and dock in Ubuntu is a matter of your personal preference and specific needs. You have the option to either hide them permanently or set them to auto-hide, depending on what you like.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Hide the Top Bar in Ubuntu
 
  To hide the top bar in Ubuntu, all you have to do is install the "Hide Top Bar" extension. By default, Ubuntu has no settings to hide the top bar. After installing this extension, you have the choice to either hide the top bar permanently or set it to auto-hide when any open window touches it.
@@ -66,13 +59,6 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![Search option displaying the Hide Top Bar extension and install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you do not see the "Hide Top Bar" extension, change the search filter from "Popularity" to "Recent."
 
  After installing the extension, you can easily hide the top bar by dragging any window towards it.
@@ -80,10 +66,10 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 ![The top bar is hidden after dragging a window near it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The top bar also disappears when you maximize an application window. To bring it back, simply minimize the window that touches it.
@@ -92,16 +78,16 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![All installed extension displayed with the settings icon of the Hide Top Bar extension is highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here you will get different settings related to the top bar, such as sensitivity, animation, and others. You can even assign a keyboard shortcut to hide the top bar. Take a look at the given settings and tweak them as required.
 
 ![The Hide Top Bar extension settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With default settings, this extension tucks away the top bar when you drag a window near it. However, you can also permanently hide the top bar with a simple tweak in the settings. To do this, simply navigate to the "Intellihide" tab and disable the first option.
 
@@ -112,6 +98,20 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
  When you enable the Hide Top Bar extension, a portion of the Ubuntu dock or side panel gets tucked under the Activities overview. Although this may not be a serious issue, you can work around it by adjusting the dock position or turning off "Panel Mode" in appearance settings.
 
 ![Dock overlapping the Top bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Permanently Hide the Dock in Ubuntu
 
@@ -126,10 +126,10 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 ![The dock or side panel is hidden after dragging an application window towards it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Auto-Hide the Top Bar and Dock in Ubuntu
@@ -138,16 +138,16 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![Intellihide settings menu with the first option enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To auto-hide the dock, right-click on the desktop and select "Display Settings."
 
 ![Ubuntu Desktop context menu with display settings option highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/12-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Inside the "Display" settings, navigate to "Appearance" and enable the "Auto-hide the Dock" option.
 
@@ -174,14 +174,20 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-future-proof-videography-leading-cameras-of-2024/"><u>[Updated] Future-Proof Videography Leading Cameras of 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-dramatization-structure/"><u>2024 Approved Flash Dramatization Structure</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-management-navigating-through-network-tools-on-window/"><u>Effortless Management: Navigating Through Network Tools on Window</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fastest-iphoneandroid-apps-for-enhanced-music-for-2024/"><u>Fastest iPhone/Android Apps for Enhanced Music for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/free-online-file-converter-w64-by-movavi-easy-and-fast/"><u>Free Online File Converter W64 by Movavi - Easy and Fast</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-best-wireless-magnetic-phone-charger-for-iphones-at-an-unbeatable-price-of-35-endorsed-by-zdnet/"><u>Get Your Hands on the Best Wireless Magnetic Phone Charger for iPhones at an Unbeatable Price of $35 - Endorsed by ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-power-of-luts-for-advanced-obs-studio-output-for-2024/"><u>Harnessing Power of LUTs for Advanced OBS Studio Output for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pythons-key-to-effective-gpt-3-utilization/"><u>Python's Key to Effective GPT-3 Utilization</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722991384504-starcraft-2-pc-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Starcraft 2 PC Stability Issues Resolved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-premier-5-online-communities-ascending-beyond-twitter/"><u>[New] 2024 Approved Premier 5 Online Communities Ascending Beyond Twitter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-digital-artisans-exclusive-summit-for-2024/"><u>[New] Digital Artisans' Exclusive Summit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hundred-hundreders-yt-success-story/"><u>[New] In 2024, From Zero to Hundred Hundreders YT Success Story</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boost-engagement-with-quick-unique-coverage-options-on-shorts/"><u>[Updated] Boost Engagement with Quick, Unique Coverage Options on Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-virtual-frontier-googles-cardboard-meets-samsung-gear/"><u>[Updated] Exploring the Virtual Frontier Google's Cardboard Meets Samsung Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-choose-the-best-android-and-ios-timers-for-your-dream-wedding/"><u>[Updated] How to Choose the Best Android & iOS Timers for Your Dream Wedding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-what-are-the-best-sites-to-download-google-pixel-ringtones/"><u>[Updated] What Are the Best Sites to Download Google Pixel Ringtones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unraveling-youtubes-viewer-metrics-a-deeper-look/"><u>2024 Approved Unraveling YouTube's Viewer Metrics A Deeper Look</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-compelling-arguments-why-professionals-should-embrace-chatgpt/"><u>6 Compelling Arguments: Why Professionals Should Embrace ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-sounds-seamless-transitions-in-ableton-live-for-2024/"><u>Harmonizing Sounds Seamless Transitions in Ableton Live for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-secure-a-library-of-premium-free-graphic-designs-for-2024/"><u>How to Secure a Library of Premium, Free Graphic Designs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-chromebook-zoom-techniques-unveiled/"><u>In 2024, Expert Chromebook Zoom Techniques Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freeing-up-your-screen-time-which-video-player-prevails-vlc-or-mpc/"><u>In 2024, Freeing Up Your Screen Time Which Video Player Prevails, VLC or MPC?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-lava-agni-2-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Lava Agni 2 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus Phone Now with These Tips</u></a></li>
 </ul></div>
 

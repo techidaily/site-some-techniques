@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-11-11T09:47:00.734Z
-updated: 2024-11-12T21:42:58.916Z
+date: 2024-11-07T00:46:02.833Z
+updated: 2024-11-13T16:23:18.994Z
 tags:
   - deals
 categories:
@@ -20,16 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -62,13 +56,6 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -78,10 +65,10 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -89,6 +76,13 @@ Intel
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -101,10 +95,10 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -138,20 +132,17 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-engaging-narration-for-your-video-projects/"><u>[New] Crafting Engaging Narration for Your Video Projects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-apps-to-record-on-iphone/"><u>[New] Exclusive Apps to Record on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-windows-10-preparing-your-pc-for-the-upgrade/"><u>[New] From Windows 10 Preparing Your PC for the Upgrade</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/armonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>[New] Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-key-to-quick-and-effective-small-image-generation/"><u>[New] The Key to Quick and Effective Small Image Generation</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-charting-a-course-through-youtubes-maker-domain/"><u>[Updated] Charting a Course Through YouTube's Maker Domain</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-feel-motivated-10-epic-movies-with-deep-impact/"><u>[Updated] Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-best-hdr-cameras/"><u>[Updated] Navigating the Best HDR Cameras</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030454879-youtube/"><u>「無料でYouTube音楽コンテンツをダウンロードする専門プラン」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-shopping-guide-to-the-best-websites-for-box-enigmas/"><u>2024 Approved Exclusive Shopping Guide to the Best Websites for Box Enigmas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-5-apps-combining-photography-and-soundscape/"><u>2024 Approved Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/globalscreen-top-ranked-local-and-live-tv-streams-for-2024/"><u>GlobalScreen Top-Ranked Local & Live TV Streams for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spotify-how-to-halt-default-podcast-additions/"><u>Spotify How to Halt Default Podcast Additions</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-steam-file-disconnect-issue-in-windows-settings/"><u>Tackling Steam File Disconnect Issue in Windows Settings</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive-with-the-command-center/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive with the Command Center</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>[New] Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-meme-noob-to-pro-mastering-the-9gag-craft/"><u>[New] In 2024, From Meme Noob to Pro Mastering the 9GAG Craft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-m1s-potential-in-streamlining-editing-tasks/"><u>[Updated] Exploring M1’s Potential in Streamlining Editing Tasks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-newest-optimized-realtek-chipset-drivers-available-free-for-your-pc-running-on-windows-10/"><u>Access Newest, Optimized Realtek Chipset Drivers - Available Free for Your PC Running on Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722731632222-discover-why-gamers-love-the-xbox-one-elite-series-2-an-ultimate-gamepad-assessment/"><u>Discover Why Gamers Love the Xbox One Elite Series 2: An Ultimate Gamepad Assessment.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-laptop-cooling-gadget-every-hardcore-tech-enthusiast-must-have-tips-and-reviews-zdnet/"><u>Essential Laptop Cooling Gadget Every Hardcore Tech Enthusiast Must Have: Tips & Reviews - ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/handbrake-and-nvenc-compatibility-enabling-your-gpu-encoder-with-ease/"><u>HandBrake and NVENC Compatibility - Enabling Your GPU Encoder with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hacky-podcast-transmission-tactic/"><u>In 2024, Hacky Podcast Transmission Tactic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-picture-in-picture-in-browsing-with-edge/"><u>In 2024, Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-through-bendy-brilliance-and-shortcomings-an-in-depth-look-at-the-lenovo-thinkpad-x1-fold/"><u>Navigating Through Bendy Brilliance and Shortcomings: An In-Depth Look at the Lenovo ThinkPad X1 Fold</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-free-avi-merger-tools-combine-avi-videos-with-ease/"><u>New In 2024, Best Free AVI Merger Tools Combine AVI Videos with Ease</u></a></li>
 </ul></div>
 

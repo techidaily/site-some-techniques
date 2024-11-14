@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2024-11-07T08:42:56.151Z
-updated: 2024-11-12T19:19:42.568Z
+date: 2024-11-09T23:56:21.022Z
+updated: 2024-11-14T00:45:31.893Z
 tags:
   - desktop
 categories:
@@ -76,13 +76,26 @@ ls -l report.pdf
 ![A terminal window showing file listing output on Debian.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What to do? Well, you _could_ just take an early lunch break. However, let's instead employ ACLs!
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Checking for ACL Support on Your System
 
@@ -95,13 +108,6 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 ![A terminal window showing output of tune2fs command, and acl default mount option circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1.png) 
 
  For reference, here's a [list of different file system support for ACLs, grouped by platform, written by IBM](https://www.ibm.com/docs/en/storage-protect/8.1.21?topic=linux-file-system-acl-support).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The getfacl Command
 
@@ -120,10 +126,16 @@ getfacl report.pdf
 ![A terminal window showing getfacl command and its output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In addition to the minimum ACLs, we now have an extended ACL entry for user michael (read+write permissions). If you list the file again with extended ACLs, you'll notice a plus (+) sign to the right of the "other users" permissions, indicating that extended ACL entries exist:
@@ -131,13 +143,6 @@ getfacl report.pdf
 ls -l report.pdf
 
 ![A terminal window showing ls command output with ACL entry flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The setfacl Command
 
@@ -147,14 +152,14 @@ ls -l report.pdf
 
 sudo setfacl -m u:lumberg:r report.pdf
 
-## ![A terminal window showing the setfacl command modifying a file's ACL entry.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## ![A terminal window showing the setfacl command modifying a file's ACL entry.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png) 
 
 * **\-m** means we're modifying an ACL entry for the file
 * **u:** means it's a user we're adding, followed by a colon (:) separator (a **g:** adds a group and **o:** adds all other users' permissions)
@@ -168,14 +173,14 @@ getfacl report.pdf
 
 ![A terminal window showing output of getfacl command on our sample file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do you spot our new entry?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Default ACLs
 
@@ -186,6 +191,19 @@ getfacl report.pdf
 sudo setfacl -d -m u:lumberg:rX Accounting
 
 ![A terminal window showing setfacl command to set permissions, then getfacl to show them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  An upper-case **X** applies the execute permission only against new subdirectories; not files.
 
@@ -206,21 +224,19 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-online-presence-secrets-of-youtube-live-with-wirecast/"><u>[New] Elevate Your Online Presence Secrets of Youtube Live with WireCast</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-review-of-the-leading-no-cost-cam-software-options/"><u>[Updated] 2024 Approved Expert Review of the Leading No-Cost Cam Software Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-fiscal-outline-getting-your-podcast-off-the-ground/"><u>[Updated] Full Fiscal Outline Getting Your Podcast Off the Ground</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ghostly-replay-techniques-for-editors/"><u>[Updated] Ghostly Replay Techniques for Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-titles-to-lengthen-viewing-times-within-limit/"><u>[Updated] Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-securing-perfect-images-on-pc-check-out-these-top-5-tools/"><u>[Updated] Securing Perfect Images on PC? Check Out These Top 5 Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>[Updated] Vector Image Basics Unveiled Categories, Types & Tools Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-to-successful-vlogging-essentials/"><u>2024 Approved First Steps to Successful Vlogging Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-funny-carousel-image-builder/"><u>2024 Approved Funny Carousel Image Builder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/groundhopping-goals-watch-record-and-cut-games-without-spending-for-2024/"><u>Groundhopping Goals Watch, Record & Cut Games Without Spending for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y36i-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y36i to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-image-haven-best-10-sites-reviewed/"><u>In 2024, Free Image Haven Best 10 Sites Reviewed</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g-5g-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G 5G (2023) to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-diving-into-drones-syma-x5c-review-beginners-dream-uav-for-2024/"><u>[New] Diving Into Drones? Syma X5C Review Beginner's Dream UAV for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools/"><u>[Updated] 2024 Approved Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ideal-6-networks-for-thriving-business-ventures/"><u>[Updated] Ideal 6 Networks for Thriving Business Ventures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-detailed-review-of-camstudio-screencapture/"><u>[Updated] In 2024, A Detailed Review of CamStudio ScreenCapture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-personalization-for-optimized-user-experience/"><u>Cookiebot-Enhanced Personalization for Optimized User Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-fueled-success-boost-your-websites-traffic-with-proven-automation-tools/"><u>Cookiebot-Fueled Success: Boost Your Website's Traffic with Proven Automation Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-the-cutting-edge-solution-for-seamless-marketing-automation-and-analytics/"><u>Cookiebot: The Cutting-Edge Solution for Seamless Marketing Automation and Analytics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/customized-marketing-automation-with-leading-ai-technology/"><u>Customized Marketing Automation with Leading AI Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effortless-conversion-of-pdfs-and-images-to-searchable-files-using-docscan-x-top-tier-mobile-ocr-technology/"><u>Effortless Conversion of PDFs & Images to Searchable Files Using DocScan X: Top-Tier Mobile OCR Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211676541-razer-keyboard-not-glowing-common-issues-and-fixes-discovered/"><u>Razer Keyboard Not Glowing: Common Issues and Fixes Discovered</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
 </ul></div>
 

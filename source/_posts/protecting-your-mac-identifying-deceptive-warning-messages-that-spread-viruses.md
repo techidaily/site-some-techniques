@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-11-09T07:21:46.801Z
-updated: 2024-11-13T02:55:44.844Z
+date: 2024-11-07T17:31:20.074Z
+updated: 2024-11-14T01:20:30.157Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Going On?
@@ -39,19 +39,20 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
 
@@ -64,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Avoid This Happening Again
@@ -75,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’ve turned the notifications feature off in your browser, you won’t see this problem again. Otherwise, make sure you are careful when allowing a website to send you notifications.
 
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
 
@@ -104,20 +98,24 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>[New] 2024 Approved Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-10-prime-online-stores-for-curious-gift-boxes/"><u>[New] Explore 10 Prime Online Stores for Curious Gift Boxes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass-for-2024/"><u>[New] How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-behind-the-scenes-what-does-an-unlisted-video-mean-for-2024/"><u>[Updated] Behind the Scenes What Does an 'Unlisted' Video Mean for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-lineup-all-angle-recorders/"><u>[Updated] Exclusive Lineup All-Angle Recorders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-on-your-phone-unzipping-the-apk-guide/"><u>[Updated] Funimate on Your Phone Unzipping the APK Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-tackling-video-upload-snags-your-pathway-to-success-on-fb-for-2024/"><u>[Updated] Tackling Video Upload Snags Your Pathway to Success on Fb for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>2024 Approved In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ultimate-guide-how-to-download-podcasts-on-iphone/"><u>2024 Approved Ultimate Guide How to Download Podcasts on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-windows-photos-and-story-remix-for-editing-for-2024/"><u>Harness the Power of Windows Photos & Story Remix for Editing for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/immerse-in-conflict-11-best-ww2-commanders-cuts/"><u>Immerse in Conflict: 11 Best WW2 Commanders' Cuts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-inventory-visualization/"><u>In 2024, Immersive Inventory Visualization</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-online-havens-for-sponsorship-initiatives-on-youtube/"><u>In 2024, Online Havens for Sponsorship Initiatives on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-windows-11-audio-record-process/"><u>In 2024, The Complete Windows 11 Audio Record Process</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-title-and-description-tweaks-for-maximum-engagement-on-igtv/"><u>In 2024, Title and Description Tweaks for Maximum Engagement on IGTV</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filming-your-journey-essentials-checklist/"><u>[New] Filming Your Journey – Essentials Checklist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaiety-media-download-review/"><u>[New] Gaiety Media Download Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-verifying-realness-in-instagrams-visual-identity-expressions-for-2024/"><u>[New] Verifying Realness in Instagram's Visual Identity Expressions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-easy-to-follow-guide-to-time-lapse-phenomena-with-gopro/"><u>[Updated] 2024 Approved Easy-to-Follow Guide to Time-Lapse Phenomena with GoPro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716068980898-updated-2024-approved-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english/"><u>[Updated] 2024 Approved Navigating Through Top PS2 Games on Android Devices - A Compre Written in English.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-glacial-glory-celebrating-olympic-champions-and-their-epic-slopesideshow-22/"><u>[Updated] Glacial Glory Celebrating Olympic Champions & Their Epic Slopesideshow '22</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-real-time-broadcast-frameworks/"><u>[Updated] High-Quality Real-Time Broadcast Frameworks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-photopeas-background-erase-technique-for-2024/"><u>[Updated] Mastering Photopea's Background Erase Technique for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>2024 Approved Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-the-past-mastering-file-history-navigation/"><u>Command the Past: Mastering File History Navigation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-device-compatibility-problems-with-rainbow-six-extraction-launcher/"><u>Fixing Device Compatibility Problems with Rainbow Six Extraction Launcher</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hook-creating-headline-helper-for-2024/"><u>Hook-Creating Headline Helper for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-ingenuity-optimal-apps-and-platforms-for-frames-to-photos-for-2024/"><u>Image Ingenuity Optimal Apps and Platforms for Frames to Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-audiences-integrating-sound-effectively-in-canva-films-for-2024/"><u>Immerse Audiences Integrating Sound Effectively in Canva Films for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-home-cinema-top-10-blu-ray-choices/"><u>In 2024, Immersive Home Cinema Top 10 Blu-Ray Choices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-a60-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel A60 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y27-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y27 4G Location | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analyzing-lgs-4k-wuhd-hdr-performance-for-2024/"><u>In Depth Analyzing LG's 4K WUHD HDR Performance for 2024</u></a></li>
 </ul></div>
 

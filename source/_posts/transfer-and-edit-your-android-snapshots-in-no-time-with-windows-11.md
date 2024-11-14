@@ -1,7 +1,7 @@
 ---
 title: Transfer & Edit Your Android Snapshots in No Time with Windows 11
-date: 2024-11-05T21:35:44.366Z
-updated: 2024-11-12T19:31:58.959Z
+date: 2024-11-08T22:43:30.068Z
+updated: 2024-11-13T23:24:27.863Z
 tags:
   - deals
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Instant Photos at Your Fingertips](https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y78-5g-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,23 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Link to Windows app is being downloaded from Google Play Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now on your Windows device, open Settings. Go to "Bluetooth & Devices." Then go to "Mobile Devices."
 
 ![An example of the Bluetooth device settings being displayed on a Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-2-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Turn on the "Allow this PC to access your mobile devices" option. Then, on the right of "Mobile Devices," go to "Manage Devices."
 
@@ -66,19 +52,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An example of a prompt on Windows asking you to choose a Microsoft account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, you should see a new window when you press the "Manage Devices" button again. This time, you need to add a device. For that, press the "Add Device" button.
 
 ![The option to add a mobile device to your Windows PC is being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll be provided with a QR code. [Scan the QR code](https://desktop-recording.techidaily.com/updated-2024-approved-deciphering-the-benefits-in-depth-look-at-bandicams-capabilities/) using the Android phone that you want to connect to the PC.
 
 ![You are given a QR code for connecting your mobile device to your Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After scanning the QR code, you'll see a new window revealing a secret code.
 
@@ -88,9 +88,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A prompt on the Link to Windows app on your phone to type in the verification code from your Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-verification-code-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now return to your PC. Go to Settings > Bluetooth & Devices > Mobile Devices. Open the "Manage Devices" settings again. You should see your Android device model there. Toggle the button on the right of your device name to enable it if it's not already enabled. You should also see a new setting called "Get New Photo Notifications." Toggle that button to turn it on.
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You're mostly done. To confirm the connection has been established between your phone and PC, go to the Settings menu on the Link to Windows app on your phone. There you should see the name of your Windows desktop. If it's connected, then you should see the text "Connected." Otherwise, you'll see the text "Disconnected" written there. You'll also see the Link to Windows app logo in your notification panel with a connected status.
 
@@ -104,23 +118,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An example of an Android photo opened in the Snipping Tool on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-opened-in-the-snipping-tool.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you accidentally miss the notification, you can still find it in the notification center. You can tap the date and time on the menu bar or press Windows+N to open the notification center.
 
 ![The Windows notification center displaying the Android photo notification](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-in-the-notification-panel-on-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another cool thing I found about this feature is that if you're on mobile data and not connected to the Wi-Fi on your phone, you can still use this feature. To do so, open the Link to Windows app. Go to Settings. Toggle the "Sync Over Mobile Data" button.
 
@@ -160,22 +160,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-roadmap-for-seamless-screen-recording-using-adobe-captivity/"><u>[New] 2024 Approved The Roadmap for Seamless Screen Recording Using Adobe Captivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-timecode-manipulation-in-macos-srt-files/"><u>[New] Expert Insights Into Timecode Manipulation in macOS SRT Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-final-list-top-blu-ray-players-for-pcmacos-enthusiasts/"><u>[New] Final List Top Blu-Ray Players for PC/macOS Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-listen-to-podcasts-on-your-iphone/"><u>[Updated] How to Listen to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-masterpieces-in-premiere-pro-templates-2023/"><u>2024 Approved Free Masterpieces in Premiere Pro Templates, 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gentle-audio-dimming-methods-in-os-xwindows/"><u>2024 Approved Gentle Audio Dimming Methods in OS X/Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>2024 Approved Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-innovative-325-uncarrier-on-suitcase-by-t-mobile-featured-on-zdnet/"><u>Discover the Innovative $325 UnCarrier On Suitcase by T-Mobile, Featured on ZDNet!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-photo-redundancy-in-your-apple-devices-by-merging-like-images-effortlessly/"><u>Eliminate Photo Redundancy in Your Apple Devices by Merging Like Images Effortlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-start-to-finish-the-complete-telegram-web-journey-for-2024/"><u>From Start to Finish The Complete Telegram Web Journey for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-uot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .uot file</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-g2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo G2 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-apps-and-sites-for-photo-frames/"><u>In 2024, Expert-Recommended Apps & Sites for Photo Frames</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-optimal-facebook-video-downloader-top-5-revealed/"><u>In 2024, Optimal Facebook Video Downloader Top 5 Revealed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/strategies-for-itunes-podcast-enrollment-success-for-2024/"><u>Strategies for iTunes Podcast Enrollment Success for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-blueprint-for-influential-video-arrangements-for-2024/"><u>The Blueprint for Influential Video Arrangements for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-craftsmanship-in-marvellous-marvel-creation/"><u>[New] In 2024, Craftsmanship in Marvellous Marvel Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>[New] In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ingenious-intellectual-engagement-best-general-knowledge-channels/"><u>[New] Ingenious Intellectual Engagement Best General Knowledge Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-aspect-ratio-rules-for-twitter-content-for-2024/"><u>[New] Mastering Aspect Ratio Rules for Twitter Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos/"><u>[New] Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-converting-moments-into-memorable-gifs/"><u>[Updated] 2024 Approved Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-civi-3-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi Civi 3 Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gta-5-stability-tips-fixing-sudden-game-interruptions-and-crashes/"><u>GTA 5 Stability Tips: Fixing Sudden Game Interruptions and Crashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-greatest-vr-handhelds-listed/"><u>In 2024, Explore Greatest VR Handhelds Listed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fire-up-your-dreams-with-these-10-movie-gems/"><u>In 2024, Fire Up Your Dreams with These 10 Movie Gems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-unleashed-leading-professionals-360cameras/"><u>In 2024, Innovation Unleashed Leading Professionals’ 360°Cameras</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210255179-9780998136486-the-greater-and-lesser-keys-of-solomon-the-king/"><u>The Greater and Lesser Keys of Solomon the King | Free Book</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-rated-multimedia-players-for-immersive-360-videos-on-any-device-windows-mac-mobile/"><u>Top Rated Multimedia Players for Immersive 360 Videos on Any Device (Windows, Mac, Mobile)</u></a></li>
 </ul></div>
 

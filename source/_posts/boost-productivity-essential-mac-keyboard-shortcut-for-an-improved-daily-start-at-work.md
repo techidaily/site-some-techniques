@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-11-07T17:01:46.261Z
-updated: 2024-11-12T16:49:01.536Z
+date: 2024-11-08T18:29:07.335Z
+updated: 2024-11-13T19:43:24.845Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,16 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,10 +47,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -64,10 +70,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -95,21 +101,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-digital-presence-mastering-the-art-of-video-reacts/"><u>[New] Elevate Your Digital Presence Mastering the Art of Video Reacts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fast-forwarding-in-netflix-playback-speed-tweaks/"><u>[New] Fast-Forwarding in Netflix - Playback Speed Tweaks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ice-warriors-top-performances-at-2022-olympics/"><u>[New] Ice Warriors Top Performances at 2022 Olympics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-premium-picks-top-macpc-bd-players-and-codecs/"><u>[Updated] 2024 Approved Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-chucklechamber-a-universe-of-comedy-creation-online-for-2024/"><u>[Updated] ChuckleChamber A Universe of Comedy Creation Online for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-static-to-dynamic-hyperlapse-video-techniques/"><u>[Updated] From Static to Dynamic Hyperlapse Video Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-list-of-best-most-affordable-recorders-for-2024/"><u>[Updated] The Ultimate List of Best, Most Affordable Recorders for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722875803460-best-sites-to-watch-your-favourite-music-videos-online-ranked/"><u>Best Sites to Watch Your Favourite Music Videos Online - Ranked!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques-for-2024/"><u>Harness the Potential of OBS Studio by Mastering LUT Application Techniques for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-ensure-the-best-live-experience-with-top-networks-for-2024/"><u>How to Ensure the Best Live Experience with Top Networks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-your-computers-speakers-after-windows-7-update/"><u>How to Reactivate Your Computer's Speakers After Windows 7 Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-disarray-to-artwork-your-collage-journey/"><u>In 2024, From Disarray to Artwork Your Collage Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-use-luts-in-adobe-after-effect/"><u>In 2024, How to Use LUTs in Adobe After Effect</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-to-acquire-and-implement-microsoft-stores-application-bundles/"><u>Simple Steps to Acquire & Implement Microsoft Store's Application Bundles</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-2-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze 2 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-taping-permissibility-concerns/"><u>YouTube Taping Permissibility Concerns</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[New] 2024 Approved Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-roundup-top-tier-no-cost-luts-available/"><u>[New] Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-vector-graphics-using-the-best-software/"><u>[New] Innovative Approaches to Vector Graphics Using the Best Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-a-beginners-roadmap-for-mobile-screening-on-snapchat-for-2024/"><u>[Updated] A Beginner’s Roadmap for Mobile Screening on Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-the-future-with-these-top-iphone-vr-titles/"><u>[Updated] Experience the Future with These Top iPhone VR Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinite-jest-10-ultimate-meme-layouts/"><u>[Updated] Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-vidstreamer-for-social-platforms/"><u>2024 Approved VIDStreamer for Social Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-aspect-ratio-on-slant-view-laptop/"><u>Fixed Aspect Ratio on Slant-View Laptop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211445470-9798330222865-god-speaks/"><u>GOD SPEAKS | Free Book</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y78-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
 

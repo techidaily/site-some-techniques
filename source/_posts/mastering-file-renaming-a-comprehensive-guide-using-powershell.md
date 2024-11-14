@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-11-11T10:16:05.937Z
-updated: 2024-11-13T02:06:36.862Z
+date: 2024-11-10T17:57:59.465Z
+updated: 2024-11-13T16:37:10.924Z
 tags:
   - deals
 categories:
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
 ##  How to Rename a Specific File
@@ -47,13 +60,26 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -67,23 +93,16 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -103,13 +122,6 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -132,15 +144,20 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-wirecast-and-facebook-creating-high-quality-live-streams/"><u>[New] In 2024, Wirecast and Facebook Creating High-Quality Live Streams</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-premier-streamers-ultimate-concert-selection-for-2024/"><u>[New] Premier Streamers Ultimate Concert Selection for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exhaustive-overview-insights-into-googles-podcast-application/"><u>[Updated] Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-no-cost-premiere-pro-resource-pack/"><u>2024 Approved Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-get-a-handful-of-personalized-endings-at-zip/"><u>2024 Approved Get a Handful of Personalized Endings, at Zip</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhance-your-sites-personalization-and-analytics/"><u>Cookiebot-Enabled: Enhance Your Site's Personalization and Analytics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-navigating-around-key-blunders-with-chatgpt-prompts/"><u>Essential Dos and Don'ts: Navigating Around Key Blunders with ChatGPT Prompts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-frameworks-for-every-movie-epilogue-you-dream/"><u>In 2024, Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-4-methods-for-watching-movies-on-your-ipad-using-and-not-using-itunes/"><u>Top 4 Methods for Watching Movies on Your iPad: Using and Not Using iTunes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>[New] 2024 Approved A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advice-on-reversing-non-functional-obs-fullscreen/"><u>[New] Advice on Reversing Non-Functional OBS Fullscreen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-in-detail-a-curated-list-of-8k-cameras/"><u>[New] Excellence in Detail A Curated List of 8K Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experiences-with-the-syma-x8c-drone/"><u>[New] Experiences with the Syma X8C Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[New] HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pixelgrabber-evaluation-with-vendors-offerings/"><u>[New] In 2024, PixelGrabber Evaluation with Vendors' Offerings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>2024 Approved Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-plot-crafting-platform-for-2024/"><u>Ideal Plot Crafting Platform for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-slides-with-audio-harmony-for-2024/"><u>Immerse Slides with Audio Harmony for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-cutting-edge-free-livestream-platforms-and-programs-reviewed-here/"><u>In 2024, Cutting-Edge Free Livestream Platforms and Programs Reviewed Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-cheapest-deals-on-top-tier-gopros/"><u>In 2024, Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaviopusflac/"><u>Movaviで簡単フリーOPUSからFLACへの変換 - 無料!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-xiaomi-mix-fold-3-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Xiaomi Mix Fold 3.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-techniques-for-defective-primary-audio-connector-a-comprehensive-guide/"><u>Repair Techniques for Defective Primary Audio Connector: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Reasons Behind Apple Not Upgrading Previous Models with 'Apple Intelligence'
-date: 2024-11-11T11:06:20.176Z
-updated: 2024-11-12T23:19:00.484Z
+date: 2024-11-09T01:36:04.228Z
+updated: 2024-11-13T21:08:20.554Z
 tags:
   - mobile
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Changes I Want to See in Apple Intelligence in the Future](https://some-guidance.techidaily.com/streamlined-guide-to-ingesting-ipodcast-content-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -63,15 +63,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
 
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
 
@@ -84,10 +91,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
@@ -95,13 +102,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
 
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
@@ -130,18 +130,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-stream-wars-fb-live-youtube-live-and-twitters-periscope-face-off/"><u>[New] The Stream Wars FB Live, YouTube Live, and Twitter's Periscope Face-Off</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-leading-platforms-offering-premium-vectr-art-resources/"><u>2024 Approved Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>2024 Approved How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exceptional-upgrades-for-gopro-captures-for-2024/"><u>Exceptional Upgrades for GoPro Captures for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-free-screen-capture-tools/"><u>Exploring Free Screen Capture Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/holistic-motion-comprehensiveness-review-for-2024/"><u>Holistic Motion Comprehensiveness Review for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-asus-rog-phone-8-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Asus ROG Phone 8 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ice-games-2022-top-moments-revealed-for-2024/"><u>Ice Games 2022 Top Moments Revealed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focus-frameworks-key-tools-to-brighten-videos/"><u>In 2024, Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g13withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G13with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-gionee-f3-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Gionee F3 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-power-the-ultimate-guide-to-windows-performance/"><u>Unleash Power: The Ultimate Guide to Windows Performance</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-waht-is-ai-pixel-art-generator-for-2024/"><u>Updated Waht Is AI Pixel Art Generator for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-html5-video-tools-you-must-check/"><u>[New] Excellent HTML5 Video Tools You Must Check</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-handhinas-and-lenses-for-journey-shots/"><u>[New] Handhinas and Lenses for Journey Shots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-navigating-zoom-for-webinars-and-livestreams/"><u>[New] In-Depth Analysis Navigating Zoom for Webinars and Livestreams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-the-ultimate-websites-delivering-artful-text-styling/"><u>[Updated] Discover the Ultimate Websites Delivering Artful Text Styling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommended-steadicams-for-professional-dslr-work/"><u>[Updated] Expert-Recommended Steadicams for Professional DSLR Work</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-steps-in-lunapic-your-photography-toolkit/"><u>[Updated] First Steps in LunaPic Your Photography Toolkit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-free-picture-frame-videos/"><u>[Updated] How to Download Free Picture Frame Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideas-aplenty-crafting-inspirational-photographic-mosaics/"><u>[Updated] Ideas Aplenty Crafting Inspirational Photographic Mosaics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-techniques-for-finding-original-images-in-instagram-posts/"><u>[Updated] In 2024, Techniques for Finding Original Images in Instagram Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>[Updated] Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>2024 Approved Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-through-grids-in-google-meet-webinar/"><u>2024 Approved Navigating Through Grids in Google Meet Webinar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-reliable-techniques-to-restore-functionality-of-an-unresponsive-iphones-home-button/"><u>5 Reliable Techniques to Restore Functionality of an Unresponsive iPhone's Home Button</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-experiences-the-metaverse-explored-through-6-models-for-2024/"><u>Immersive Experiences The Metaverse Explored Through 6 Models for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-purpose-in-film-our-selection-of-top-motivational-titles/"><u>In 2024, Finding Purpose in Film Our Selection of Top Motivational Titles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s To Phone | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-voice-assignment-verification/"><u>In 2024, Voice Assignment Verification</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-7-sonic-alterations-mastering-the-art-of-digital-audio-transformation-for-2024/"><u>New Top 7 Sonic Alterations Mastering the Art of Digital Audio Transformation for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectacular-8k-cameras-top-picks-for-quality-for-2024/"><u>Spectacular 8K Cameras Top Picks for Quality for 2024</u></a></li>
 </ul></div>
 

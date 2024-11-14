@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Look at Engaging with YouTube Comment Threads\""
-date: 2024-07-26T16:24:27.705Z
-updated: 2024-07-27T16:24:27.705Z
+date: 2024-11-13T01:27:14.203Z
+updated: 2024-11-13T23:46:42.122Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
@@ -39,9 +36,6 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -49,6 +43,13 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments can help you gauge customer sentiment: How do your viewers respond to your content? Positively? Negatively? Not at all? Monitoring your comments can help you understand how viewers feel about your brand.
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
 
@@ -61,6 +62,13 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -84,6 +92,13 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
@@ -94,9 +109,6 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -105,9 +117,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -124,18 +133,15 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -170,7 +176,21 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-focus-closeups-on-teams/"><u>[New] Fine-Tuning Focus Closeups on Teams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-vcs-vision-recorder-check-detailed-scrutiny/"><u>[New] VCS Vision Recorder Check Detailed Scrutiny</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-chill-out-guide-selecting-inviting-winter-backgrounds-for-2024/"><u>[Updated] A Chill-Out Guide Selecting Inviting Winter Backgrounds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highpoint-design-suite-examination/"><u>[Updated] Highpoint Design Suite Examination</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-exploration-of-morphvox-modification-methods/"><u>[Updated] In-Depth Exploration of MorphVOX Modification Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-no-more-ghosting-bring-back-your-invisible-videos-with-these-12-hacks-facebook/"><u>[Updated] No More Ghosting Bring Back Your Invisible Videos with These 12 Hacks, Facebook</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-accessing-your-google-drive-documents-anytime-a-guide-to-setting-up-offline-capabilities/"><u>1. Accessing Your Google Drive Documents Anytime: A Guide to Setting Up Offline Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-spotlight-the-25-influencers-redefining-engagement/"><u>2024 Approved Spotlight The 25 Influencers Redefining Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-2-written-by-jake-simonson-date-march-14-2023-for-2024/"><u>Iconic 2 Written By Jake Simonson | Date March 14, 2023 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-hdr-an-advanced-guide-to-ps/"><u>In 2024, Harnessing the Power of HDR An Advanced Guide to PS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-pursuit-of-professional-clarity-unveiling-benqs-bl2711u-screen-tech/"><u>In 2024, In Pursuit of Professional Clarity Unveiling BenQ's BL2711U Screen Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-space-with-a-budget-friendly-animated-3d-printer-inspired-wireless-charger-by-bambu-labs/"><u>Transform Your Space with a Budget-Friendly Animated, 3D Printer-Inspired Wireless Charger by Bambu Labs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-minecraft-crash-issues-a-step-by-step-guide/"><u>Troubleshooting Common Minecraft Crash Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-movie-creation-a-beginners-guide-to-making-movies-for-2024/"><u>Updated Mac Movie Creation A Beginners Guide to Making Movies for 2024</u></a></li>
+</ul></div>
 

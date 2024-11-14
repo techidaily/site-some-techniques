@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2024-11-08T01:53:05.365Z
-updated: 2024-11-13T02:53:51.751Z
+date: 2024-11-11T02:52:53.364Z
+updated: 2024-11-13T23:31:45.088Z
 tags:
   - mobile
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google and Android Are Not One and the Same
 
  Google is Android's primary developer, but the operating system is open source. Countless other companies are invested in the platform.
@@ -33,19 +40,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
  There are big-name smartphone makers like Samsung, Motorola, and OnePlus. Tablets and eReaders from Amazon and [BOOX](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/). Niche products that you may not realize run Android, like [the minimalist Light Phone](https://video-capture.techidaily.com/new-2024-approved-advanced-techniques-capturing-teams-screen-content/) and the Rabbit R1\. There are self-checkout machines in big box stores that are merely Android tablets anchored in place. You may sign in at your dentist's office with an Android device without being aware of it. They're everywhere.
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  After Android Became Popular, Google Wanted More Control
 
@@ -66,10 +60,10 @@ Justin Duino / How-To Geek
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I Don't Want to Give All of My Data to Google
@@ -81,13 +75,6 @@ Justin Duino / How-To Geek
  It's not that I don't use any Google apps. I find Google Maps useful, especially due to how much information it provides about local businesses. I watch YouTube, since it is the primary way major and independent publishers alike distribute video. But these apps don't provide essential phone functionality in the way that a gallery app and a local video player do. They're the kind of programs many people would immediately seek out on their own in the Play Store. Still, they're preinstalled to drive more people toward Google services and provide the company with more marketable data.
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
 
@@ -104,10 +91,10 @@ Close
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google Apps Make Android Phones All Feel the Same
@@ -119,6 +106,13 @@ Close
  Phones aren't the only devices that suffer from this. Consider the [XREAL Beam Pro](https://us.shop.xreal.com/products/xreal-beam-pro), an Android-based (and far more affordable) alternative to Apple's Vision Pro. It's a tempting addition to [the AR glasses I replaced my computer monitor with](https://youtube-docs.techidaily.com/approved-expert-insights-where-to-invest-in-youtube-creator-revenue/). When you launch the device for the first time, you're presented with a large array of Google apps that you probably didn't buy AR glasses to use. They continue to clutter up the launcher unless you dive into settings and disable them.
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
@@ -143,18 +137,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-12-premium-cameras-for-professional-vloggers/"><u>[New] 2024 Approved Exploring 12 Premium Cameras for Professional Vloggers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-virtual-reality-biking-must-haves/"><u>[New] Top 10 Virtual Reality Biking Must-Haves</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-expertise-3d-lut-creation/"><u>[Updated] From Basics to Expertise 3D LUT Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-googles-portal-for-efficient-podcast-submission/"><u>[Updated] Google's Portal for Efficient Podcast Submission</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hdr-review-luminances-creation-capability/"><u>[Updated] HDR Review Luminance's Creation Capability</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-photo-deformation-software/"><u>2024 Approved Exploring Photo Deformation Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-of-updated-videoshow-app-for-24-users/"><u>2024 Approved In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-licensed-soundtracks-for-gamers-a-complete-list-for-2024/"><u>Free, Licensed Soundtracks for Gamers - A Complete List for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-officejet-pro-gro-8610-driver-upgrades-for-windows-11-8-7-xp-and-vista-systems/"><u>Get the Newest HP Officejet Pro Gro 8610 Driver Upgrades for Windows 11, 8, 7, XP & Vista Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-does-facebook-determine-whitelisted-media/"><u>How Does Facebook Determine Whitelisted Media?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-se-2022-official-method-to-unlock-your-iphone-se-2022-by-drfone-ios/"><u>How To Unlock iPhone SE (2022) Official Method to Unlock Your iPhone SE (2022)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/key-features-of-mozillas-innovative-popup-window/"><u>Key Features of Mozilla's Innovative Popup Window</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-transforming-shaky-videos-into-cinematic-masterpieces-with-fcpx-for-2024/"><u>Updated Transforming Shaky Videos Into Cinematic Masterpieces with FCPX for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebooks-premier-evolution-the-five-must-know-features/"><u>[New] 2024 Approved Facebook's Premier Evolution The Five Must-Know Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-human-capital-layouts-that-leverage-team-synergy/"><u>[New] Harnessing Human Capital Layouts That Leverage Team Synergy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-knowledge-zooming-into-clustered-rooms/"><u>[Updated] 2024 Approved Essential Knowledge Zooming Into Clustered Rooms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-intova-edge-x-action-camera-review/"><u>[Updated] 2024 Approved Intova Edge X Action Camera Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-content-creation-in-todays-revenue-landscape-for-2024/"><u>[Updated] Content Creation in Today’s Revenue Landscape for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-boredom-to-chuckles-generating-funny-memes/"><u>[Updated] From Boredom to Chuckles Generating Funny Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-intuitive-methods-to-log-your-google-voice-conversations/"><u>[Updated] Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4/"><u>In 2024, FPV Fantasy A Closer Look at the Hubsan H501X4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-fusion-unlocking-mac-with-smartwatches/"><u>In 2024, Future Fusion Unlocking Mac With Smartwatches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-glide-3-duel-illusionist-4-emerges/"><u>In 2024, Glide 3 Duel Illusionist 4 Emerges</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-mastery-techniques-to-take-photos-and-videos-from-great/"><u>In 2024, Hero5 Black Mastery Techniques to Take Photos & Videos From Great</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V30 Phone that is Locked?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-metaverse-engagement-examples/"><u>In 2024, In-Depth Metaverse Engagement Examples</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leverage-these-10-devices-for-crystal-clear-zooms-for-2024/"><u>Leverage These 10 Devices for Crystal Clear Zooms for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/steam-deck-and-rogue-adventures-a-ten-month-journey-through-review-and-reflection/"><u>Steam Deck & Rogue Adventures: A Ten-Month Journey Through Review and Reflection</u></a></li>
 </ul></div>
 

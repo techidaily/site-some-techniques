@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-11-09T13:07:05.696Z
-updated: 2024-11-12T23:45:53.656Z
+date: 2024-11-12T02:41:01.307Z
+updated: 2024-11-14T00:26:57.982Z
 tags:
   - desktop
 categories:
@@ -31,24 +31,18 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
@@ -65,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
@@ -76,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
@@ -88,14 +82,14 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
-## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
@@ -120,22 +114,20 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-expert-strategies-for-decoding-instagram-metrics-and-trends/"><u>[New] 2024 Approved Expert Strategies for Decoding Instagram Metrics and Trends</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-embed-youtube-in-your-gslides-presentation/"><u>[New] 2024 Approved How to Embed YouTube in Your GSlides Presentation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-join-jargon-free-youtube-chats/"><u>[New] 2024 Approved Join Jargon-Free YouTube Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-advanced-the-hand-trackers-playbook/"><u>[New] From Basics to Advanced The Hand Tracker's Playbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-forge-memes-that-captivate-audiences/"><u>[New] How to Forge Memes that Captivate Audiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-practices-for-enhancing-vhs-photos-via-pcs/"><u>[New] Innovative Practices for Enhancing VHS Photos via PCs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-range-locomotion-appraisal/"><u>[Updated] Full Range Locomotion Appraisal</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-efficiently-producing-quality-videos-on-the-latest-windows-os/"><u>[Updated] In 2024, Efficiently Producing Quality Videos on the Latest Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-visual-storytelling-through-photo-mosaics/"><u>[Updated] Innovating Visual Storytelling Through Photo Mosaics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos/"><u>[Updated] Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/abbyy-unterstutzt-die-mobile-rechnungspostenfunktion-von-sberbank-einfaches-bezahlen-in-der-handynahe/"><u>ABBYY Unterstützt Die Mobile Rechnungspostenfunktion Von Sberbank - Einfaches Bezahlen in Der Handynähe</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-utilizing-funimate-downloader-for-2024/"><u>Expert Tips for Utilizing Funimate Downloader for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-forward-altering-instagram-stories-tempo-for-2024/"><u>Fast-Forward Altering Instagram Stories' Tempo for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foremost-6-networks-fostering-profitable-partnerships-for-2024/"><u>Foremost 6 Networks Fostering Profitable Partnerships for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-hot-40i-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Hot 40i to Another | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-apowersoft-and-beyond-a-critical-look-at-recording-software/"><u>In 2024, Apowersoft and Beyond A Critical Look at Recording Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-breathtaking-4k-videos-you-wont-want-to-miss/"><u>New In 2024, Breathtaking 4K Videos You Wont Want to Miss</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-easy-pathway-to-fish-chatter-alteration-within-win-environment-for-2024/"><u>[New] Easy Pathway to Fish Chatter Alteration Within Win Environment for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-music-posting-with-legal-standards/"><u>[New] Harmonizing Music Posting with Legal Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance/"><u>[New] Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-branding-success-on-fb-through-immersive-cover-videos/"><u>[Updated] Branding Success on FB Through Immersive Cover Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-echoes-in-motion-mac-for-sound-artists-for-2024/"><u>[Updated] Echoes in Motion Mac for Sound Artists for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/"><u>[Updated] Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-best-free-cloud-based-video-editing-tools/"><u>2024 Approved The Best Free, Cloud-Based Video Editing Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-ape-wavs-online-for-free-with-movavis-easy-tool/"><u>Convert Your APE WAVs Online for Free with Movavi's Easy Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/early-access-alert-activate-metas-public-test-feed-now-exclusive-guide/"><u>Early Access Alert: Activate Meta's Public Test Feed Now - Exclusive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highly-ranked-drone-selections-for-gopro-videos-and-shoots-for-2024/"><u>Highly Ranked Drone Selections for GoPro Videos & Shoots for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-music-in-premiere-pro-in-2024/"><u>How To Add Music In Premiere Pro, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improving-box-pull-back-pleasure/"><u>In 2024, Improving Box Pull-Back Pleasure</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-asus-rog-phone-8-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Asus ROG Phone 8 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-viewership-growth-on-twitch-top-4-strategies/"><u>Unlocking Viewership Growth on Twitch Top 4 Strategies</u></a></li>
 </ul></div>
 

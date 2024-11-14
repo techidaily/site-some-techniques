@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-11-07T23:19:54.597Z
-updated: 2024-11-13T11:12:45.803Z
+date: 2024-11-10T02:20:23.528Z
+updated: 2024-11-13T17:39:36.576Z
 tags:
   - desktop
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * The biggest downside of Auto SR is that it's only available on CoPilot+ PCs, since it needs an NPU to work.
 
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
 
@@ -49,29 +56,22 @@ Microsoft/Gearbox
 
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft/Gearbox
 
  You'll notice fewer details found on complex textures in the second screenshot. Just look at those vines hanging from the building in the distance. See how they lack some detail on the Auro SR screenshot compared to the native image.
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
@@ -85,6 +85,13 @@ Microsoft/Gearbox
 
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It Just Works (In Supported Games)
 
  One of the best things about Auto SR is that it just works. After you enable the option in Windows settings, Auto SR automatically turns on in supported games, in full-screen and windowed borderless modes, and then seamlessly turns off and switches your native resolution back once you exit the game. On the other hand, driver-based upscalers require a manual set-up process for each game, on top of not looking as good as Auto SR.
@@ -94,13 +101,6 @@ Microsoft/Gearbox
  From what I can tell, Microsoft plans to make most DX11 and DX12 games Auto SR-compatible. On the other hand, DX9 and older games and those that use Vulkan and OpenGL graphics runtimes are not and won’t be compatible with Auto SR.
 
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
 
@@ -127,17 +127,20 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-instagram-leadership-for-2024/"><u>[New] Step-by-Step Guide to Instagram Leadership for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-sing-your-own-song-with-an-iphone-ringtone/"><u>[Updated] How to Sing Your Own Song with an iPhone Ringtone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y17s-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-reality-selecting-top-3d-animators-software/"><u>2024 Approved From Concept to Reality Selecting Top 3D Animators' Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-asmr-can-boost-your-health-and-happiness/"><u>2024 Approved How ASMR Can Boost Your Health & Happiness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-user-manual-navigating-through-different-ipados-releases/"><u>Complete User Manual: Navigating Through Different iPadOS Releases</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719153298705-essential-silicon-insights-lost-but-now-found-top-4-discoveries/"><u>Essential Silicon Insights, Lost But Now Found - Top 4 Discoveries!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-picture-in-picture-features-on-sierras-operating-systems-for-2024/"><u>Exploring Picture in Picture Features on Sierra's Operating Systems for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-x50iplus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor X50i+ without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-tutorial-on-converting-your-2018-world-cup-footage-to-optimal-mp4-playback-quality/"><u>The Ultimate Tutorial on Converting Your 2018 World Cup Footage to Optimal MP4 Playback Quality</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/thermopro-tp67-examination-low-price-comes-with-high-unreliability-risks/"><u>ThermoPro TP67 Examination: Low Price Comes with High Unreliability Risks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-nokia-g22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Nokia G22 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rame-it-right-essential-composition-rules-for-youtube-filmmaking-for-2024/"><u>[New] Frame It Right Essential Composition Rules for YouTube Filmmaking for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-glide-3-duel-illusionist-4-emerges/"><u>[New] Glide 3 Duel Illusionist 4 Emerges</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-silver-meets-sjcam-sj7/"><u>[New] GoPro Hero5 Silver Meets SJCAM SJ7</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discovering-easy-music-arrangement-in-magix-maker-for-2024/"><u>[Updated] Discovering Easy Music Arrangement in Magix Maker for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>[Updated] Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-insight-into-morphvox-for-professional-sound-alteration/"><u>[Updated] Expert's Insight Into MorphVOX for Professional Sound Alteration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fixing-muted-audio-and-video-transmission-errors-on-fb-messengers-mobile-app-for-2024/"><u>Fixing Muted Audio & Video Transmission Errors on FB Messengers Mobile App for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-android-photoshoppers-for-2024/"><u>High-Quality Android Photoshoppers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foundational-methods-to-improve-color-balance/"><u>In 2024, Foundational Methods to Improve Color Balance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovation-unleashed-new-samsung-ubd-k8500-review-for-2024/"><u>Innovation Unleashed - New Samsung UBD-K8500 Review for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/is-investing-in-a-samsung-4k-curved-tv-worth-it-a-comprehensive-guide-to-advantages-and-disadvantages/"><u>Is Investing in a Samsung 4K Curved TV Worth It? A Comprehensive Guide to Advantages and Disadvantages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-3-libradores-de-dvd-sin-costo-para-windows-11-convertir-archivos-dvd-directamente-a-mp4-avi-o-wmv-en-2020/"><u>Top 3 Libradores De DVD Sin Costo Para Windows 11: Convertir Archivos DVD Directamente a MP4, AVI O WMV en 2020</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-mobile-vpns-of-2024-expert-evaluations-and-ratings-pcmag/"><u>Ultimate Guide to the Finest Mobile VPNs of 2024 - Expert Evaluations & Ratings | PCMag</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-deluxe-ultra-fast-and-versatile-for-burning-protected-dvds-on-windows-11/"><u>WinX DVD Ripper Deluxe – Ultra Fast & Versatile for Burning Protected DVDs on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-11-08T04:34:28.854Z
-updated: 2024-11-12T20:26:10.996Z
+date: 2024-11-13T00:41:34.890Z
+updated: 2024-11-14T03:11:32.960Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Getting ready to watch a video or listen to your favorite song, only to discover that your headphones aren't working, can be quite frustrating. Various factors can contribute to this problem on Windows 11, such as a different audio output device set as default, an app taking exclusive control of your headphones, outdated drivers, and more. Thankfully, it's usually straightforward to fix your headphones not working on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Perform Some Preliminary Checks
 
  First, perform some basic checks, as they may quickly resolve the issue. To begin, confirm that your headphones are firmly inserted into the headphone jack and double-check that you haven't mistakenly plugged them into a microphone jack. Also, clean the audio jack, and try unplugging and replugging your headphones (plus, if possible, try another port).
@@ -45,6 +52,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Check for Hardware Issues
 
  If the volume isn't muted, ensure your headphones aren't faulty. To check that, simply unplug your headphones from your device and plug them into another computer or your smartphone. If your headphones also don't work on other devices, they're probably faulty. So, either have them inspected by a technician or replace them.
@@ -52,10 +66,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  However, if your headphones work fine elsewhere, the issue is device-specific. So, keep applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Rule Out Bluetooth Interference (for Bluetooth Headphones)
@@ -67,10 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Additionally, [troubleshoot Bluetooth issues on Windows](https://desktop-recording.techidaily.com/2024-approved-top-5-best-ps3-emulator-for-pc/) to rule out the problem being your Bluetooth connection as a whole, rather than your headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Check for App-Specific Issues
@@ -87,16 +107,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
 
@@ -105,13 +125,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To disable both, open Sound settings (as detailed above), head to the "Playback" tab, right-click on your headphones, and select "Properties."
 
 ![Opening properties of a headphone on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-opening-properties-of-a-headphone-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, go to the "Advanced" tab and uncheck the boxes beside "Allow applications to take exclusive control of this device" and "Enable Audio Enhancements." Finally, click "OK."
 
@@ -128,17 +141,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9\. Update Your Audio Drivers
@@ -170,17 +182,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-expertise-in-iphone-the-ultimate-hdr-photo-journey/"><u>[Updated] Expertise in iPhone The Ultimate HDR Photo Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>[Updated] Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-leveraging-obs-streaming-capabilities-on-facebook-platform/"><u>[Updated] In 2024, Leveraging OBS Streaming Capabilities on Facebook Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-high-definition-with-dell-p2715q-reviewed/"><u>2024 Approved Exploring High-Definition with Dell P2715Q Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>2024 Approved From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bose-qc35-ii-showcase-audiophiles-silence-seeker/"><u>Bose QC35 II Showcase: Audiophile's Silence Seeker</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-d-link-powerline-2e-series-review-quick-setup-and-fast-data-transferring-explained/"><u>Comprehensive D-Link Powerline 2E Series Review: Quick Setup and Fast Data Transferring Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>In 2024, Canvas Mastery Streamlining Edges and Enhancing Visuals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humorous-hits-lifetime-access-to-memes/"><u>In 2024, Humorous Hits Lifetime Access to Memes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/periscope-techniques-for-effective-livestreams/"><u>Periscope Techniques for Effective Livestreams</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-foremost-techniques-for-transforming-seminars-into-videos/"><u>The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-top-5-hits-where-to-get-royalty-evading-laugh-tracks-online-for-2024/"><u>The Top 5 Hits Where to Get Royalty-Evading Laugh Tracks Online for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-review-for-gopro-hero4-sliver/"><u>[New] Full Review for GoPro Hero4 Sliver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-to-elevate-your-gopro-work/"><u>[New] Innovative Techniques to Elevate Your GoPro Work</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extended-physical-action-survey/"><u>[Updated] Extended Physical Action Survey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-potential-of-quantum-hdr-imaging/"><u>[Updated] Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-photos-canons-cost-effective-color-tools/"><u>2024 Approved Transform Your Photos Canon's Cost-Effective Color Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-and-premium-video-combiner-tools-for-windows-10-a-complete-guide/"><u>Best Free & Premium Video Combiner Tools for Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-eos-d530-freshly-updated-camera-drivers-and-download-links/"><u>Canon EOS D530 - Freshly Updated Camera Drivers & Download Links</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciphring-virtuality-metaverse-and-multiverse-distinction/"><u>Deciphring Virtuality Metaverse & Multiverse Distinction</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-win-error-messages-your-step-by-step-solution/"><u>Decoding Win Error Messages - Your Step-by-Step Solution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dvd-rompc/"><u>DVD-ROMのコピープロテクトを解除し、PCへ移動するスッキリとした手順</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-hero-profit-on-reddit-with-no-experience-top-13/"><u>In 2024, From Zero to Hero Profit on Reddit with No Experience (Top 13)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-fix-for-immersive-experiences/"><u>In 2024, Ideal Fix for Immersive Experiences</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-elite-access-to-gpt-justifiable/"><u>Is Elite Access to GPT Justifiable?</u></a></li>
 </ul></div>
 

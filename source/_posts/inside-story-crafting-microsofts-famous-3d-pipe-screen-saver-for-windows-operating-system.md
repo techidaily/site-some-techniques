@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-11-12T07:07:04.465Z
-updated: 2024-11-13T04:17:27.584Z
+date: 2024-11-08T03:47:02.415Z
+updated: 2024-11-13T21:57:47.169Z
 tags:
   - deals
 categories:
@@ -40,25 +40,26 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges/"><u>[New] 2024 Approved Discover the Visionaries Behind Video Content Six Intriguing YouTube Categorization Challenges</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exposing-concealed-viewers-feedback-on-videos/"><u>[Updated] Exposing Concealed Viewers' Feedback on Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-flicker-fun-prime-speedy-software-for-systems/"><u>[Updated] Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-monochrome-to-multicolor-grading-journey/"><u>[Updated] From Monochrome to Multicolor Grading Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminate-photos-10-premium-luts-revealed/"><u>[Updated] Illuminate Photos 10 Premium LUTs Revealed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-clarity-crusade-enhancing-video-in-zoom-meetings/"><u>2024 Approved Clarity Crusade Enhancing Video in Zoom Meetings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/getting-ahead-with-snapchats-latest-features-for-2024/"><u>Getting Ahead with Snapchat's Latest Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hideous-heroes-black-vs-gleaming-guardians-silver/"><u>In 2024, Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-guide-to-youtube-stardom-6-effortless-steps-for-exposure/"><u>In 2024, Your Guide to YouTube Stardom 6 Effortless Steps for Exposure</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-portability-the-creme-de-la-creme-nintendo-switch-docks/"><u>Mastering Portability: The Crème De La Créme Nintendo Switch Docks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-slippery-slope-of-simulated-support-instagram-style/"><u>The Slippery Slope of Simulated Support, Instagram Style</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transcending-chatgpts-processing-limits/"><u>Transcending ChatGPT's Processing Limits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computers-and-peripherals-with-toms-analysis/"><u>Unveiling the Latest in Computers & Peripherals with Tom's Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[New] From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-adding-timers-utilizing-obs-for-countdown-features/"><u>[Updated] 2024 Approved Adding Timers Utilizing OBS for Countdown Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expanding-creative-horizons-with-custom-fonts-in-after-effects/"><u>[Updated] Expanding Creative Horizons with Custom Fonts in After Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-turning-zip-into-professional-quality-srt-files/"><u>[Updated] Fast Track Turning ZIP Into Professional-Quality Srt Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[Updated] Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ai-photo-masterclass/"><u>[Updated] Ingenious AI Photo Masterclass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-selection-budget-friendly-4k-cameras-(1k-for-2024/"><u>[Updated] Ultimate Selection Budget-Friendly 4K Cameras <$1K for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-dissecting-high-quality-visuals-with-benqs-27-inch-ultra-hd-display/"><u>2024 Approved Dissecting High-Quality Visuals with BenQ's 27 Inch Ultra HD Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-personalization-boost-your-websites-engagement/"><u>Cookiebot-Enhanced Personalization: Boost Your Website's Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-enable-or-disable-pip-in-youtube-for-mobile-phones/"><u>How to Enable or Disable PIP in YouTube for Mobile Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-acquiring-the-best-unboxing-tunes-and-melodies/"><u>In 2024, Expertise Acquiring the Best Unboxing Tunes and Melodies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screen-commanders-clash-for-2024/"><u>Screen Commanders Clash for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-spark-go-2023-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Spark Go (2023) for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transforma-tu-ssd-en-un-almacenamiento-de-windows-10-sin-necesidad-de-reinstalacion-2-formas-sencillas/"><u>Transforma Tu SSD en Un Almacenamiento De Windows 10 Sin Necesidad De Reinstalación: 2 Formas Sencillas</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

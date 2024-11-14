@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2024-11-07T07:25:06.743Z
-updated: 2024-11-13T06:31:09.726Z
+date: 2024-11-11T19:30:56.705Z
+updated: 2024-11-14T01:15:01.285Z
 tags:
   - deals
 categories:
@@ -24,19 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
 Hannah Stryker / How-To Geek  
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  To copy a file or folder's path, open File Explorer, find the file or folder, right-click it, and select "Copy as Path."
 * To copy the path using a keyboard shortcut, select the file or folder in File Explorer and press Ctrl+Shift+C.
@@ -52,6 +39,13 @@ Hannah Stryker / How-To Geek
 
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
  Windows has copied the full absolute path to your selected item(s).
@@ -66,22 +60,15 @@ Hannah Stryker / How-To Geek
 
 ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek  
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  From a File Explorer Toolbar Option
@@ -94,13 +81,20 @@ Hannah Stryker / How-To Geek
 
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that’s it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Copy the Path of an App
@@ -120,10 +114,10 @@ Hannah Stryker / How-To Geek
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
@@ -153,20 +147,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-your-windows-photos-how-to-incorporate-audio-visual-features/"><u>[New] Harmonizing Your Windows Photos How to Incorporate Audio-Visual Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-monochrome-to-vibrancy-top-11-video-coloring-strategies/"><u>[Updated] From Monochrome to Vibrancy Top 11 Video Coloring Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-income-distribution-among-successful-podcasters/"><u>[Updated] Income Distribution Among Successful Podcasters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>2024 Approved Go Pro Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-risk-free-youtube-video-mp4-downloading/"><u>2024 Approved Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/groundbreaking-films-in-the-vr-world-for-2024/"><u>Groundbreaking Films in the VR World for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-in-a-box-iphone-fun/"><u>In 2024, Giggles in a Box (iPhone Fun)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-ink-best-captioning-apps-for-photo-enthusiasts-iosandroid/"><u>In 2024, Image Ink Best Captioning Apps for Photo Enthusiasts (iOS/Android)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-90-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor 90 Pro FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-m14-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy M14 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-sessions-with-acers-powerful-and-compact-predator-helios-neo-14-laptop/"><u>Revolutionize Your Gaming Sessions with Acer's Powerful & Compact Predator Helios Neo 14 Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-uninstalled-sound-hardware-errors-in-windows-11/"><u>Step-by-Step Guide: Correcting Uninstalled Sound Hardware Errors in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essentials-of-ai-transfer-learning-and-its-functionality-explained/"><u>The Essentials of AI Transfer Learning and Its Functionality Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freelance-warriors-guide-complimentary-psd-treasures/"><u>[New] Freelance Warriors Guide Complimentary PSD Treasures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-zero-to-hero-how-to-generate-fb-trends-for-2024/"><u>[New] From Zero to Hero How to Generate Fb Trends for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gross-income-estimates-for-youtube-star-pewdopeep/"><u>[New] Gross Income Estimates for YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-non-twitter-video-tweeting-hacks-for-the-modern-user/"><u>[New] In 2024, Non-Twitter Video Tweeting Hacks for the Modern User</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-data-deluge-infographics-on-youtubes-intriguing-insights/"><u>[Updated] 2024 Approved Data Deluge Infographics on YouTube's Intriguing Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[Updated] Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-dialogue-architect-forum/"><u>[Updated] Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom/"><u>[Updated] Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-maximizing-your-idevices-screen-record-functionality/"><u>[Updated] Maximizing Your iDevice's Screen Record Functionality</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-8-youtube-marketing-apps-and-solutions/"><u>Best 8 YouTube Marketing Apps & Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-from-static-snapshots-to-moving-visuals/"><u>In 2024, Evolving From Static Snapshots to Moving Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-haptic-feedback-and-vr-for-medicine/"><u>In 2024, Haptic Feedback and VR for Medicine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>In 2024, Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-movies-to-still-moments-with-windows-10-photo-viewer/"><u>In 2024, Transforming Movies to Still Moments with Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-video-game-stutter-essential-2024-guidance-for-pc-users/"><u>Solving Your Video Game Stutter: Essential 2024 Guidance for PC Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-disney-disc-extraction-the-best-dvd-ripper-tools-online/"><u>Speedy Disney Disc Extraction: The Best DVD Ripper Tools Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-white-error-screen-in-windows-11/"><u>Troubleshooting Persistent White Error Screen in Windows 11</u></a></li>
 </ul></div>
 

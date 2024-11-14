@@ -1,7 +1,7 @@
 ---
 title: Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-date: 2024-11-06T22:47:01.231Z
-updated: 2024-11-13T03:07:11.959Z
+date: 2024-11-07T07:16:55.395Z
+updated: 2024-11-14T02:24:14.439Z
 tags:
   - desktop
 categories:
@@ -27,19 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Samsung Neo QLED 8K TV at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53452202263_a60ecb519a_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  Smart appliances like smart TVs often have an operating system derived from Linux, but there's a good chance there's some form of Linux in appliances like smart fridges or internet-connected microwaves. Since the Linux kernel is free and open-source, there's plenty of incentive to simply adapt it to run on appliances that need this level of software to do their jobs, instead of writing software from scratch. There's even a chance that your Wi-Fi router could be running Linux. Even your [coffee maker at work](https://www.reddit.com/r/LinuxActionShow/comments/594b7m/the%5Fnew%5Fcoffee%5Fmachine%5Fat%5Fmy%5Fworkplace%5Fruns%5Flinux/) could be running Linux.
@@ -52,13 +39,6 @@ _ORNL_
 
  The 500 most powerful computers in the world [all run Linux](http://www.stackscale.com/blog/most-powerful-supercomputers-linux/)[.](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/) So if you have millions on the line, running mission-critical work on the most expensive computers known to man, Linux seems to be the way to go. Of course, these mega computers don't run the same Linux distros our beloved Linux readership love to argue about in the comments. One of the main reasons Linux dominates the high-performance computing world is that it's completely open and customizable. Computer scientists and engineers can trim absolutely all the fat from the operating system, and modify it to get the absolute most our of the hardware and electrical power they have.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3  Your Car's Infotainment Unit 
 
 ![Waze running on a car infotainment screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/909ecb91.jpg) 
@@ -66,6 +46,13 @@ _ORNL_
 _[Waze](https://www.waze.com/press)_
 
  Most modern cars come with slick infotainment systems from the factory these days, and there's a good chance that behind the pretty icons and colors there beats the digital heart of the Linux kernel. I actually realized this recently when I was thinking about updating my KIA's system, and ran across a fix for bricked infotainment systems where you just plug a USB keyboard into your car, and spam Linux keyboard shortcuts to escape the boot loop.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Smartphones 
 
@@ -75,41 +62,48 @@ Lucas Gouveia / How-To Geek | Best Buy
 
  This is technically cheating a little but, but most smartphones in the world run Android, and Android is based on Linux. However, it's heavily modified and doesn't contain the same set of libraries as standard Linux distros meant for desktop use. However, there _are_ [proper Linux smartphones](https://driver-install.techidaily.com/startech-windows-drives-mended-across-xp-to-11/) such as the [Librem 5](https://puri.sm/products/librem-5/), which runs [PureOS](https://pureos.net/), a distro of Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Medical Devices 
 
 ![A scientist in a lab looks through a microscope.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/scientist-lap-looking-in-microscope.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical-research-scientists-looking-samples-under-691545829)_
 
  Medical devices such as MRI machines or the machines that monitor vital signs more often than not run Linux. There are many reasons why Linux is a popular choice for embedded software in medical devices, but patient data security, real-time OS (RTOS) capabilities, flexibility, and reliability are at the top of the list. The next time you need to get a scan, or if you're ever operated on by a surgical robot, chances are both of those devices are running some flavor of Linux.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  IoT Gadgets 
 
 ![iot devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/05/241daf9c.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shutterstock/Panchenko Vladimir
 
  The [Internet of Things](https://extra-skills.techidaily.com/in-2024-optimizing-display-youtubes-zoom-mastery/) is the description we've given to a loose collection of devices that mainly talk to each other over networks. So this could be anything from your IP security cameras, to your thermostat, to remote solar-powered weather sensors. A good portion of these devices run Linux, rather than proprietary firmware. When you access your IP cameras, for example, you're essentially logging into a Linux server running on your local network.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  Emulator Handhelds 
@@ -135,20 +129,15 @@ Anbernic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-multiple-clips-an-android-tutorial/"><u>[New] Harmonizing Multiple Clips An Android Tutorial</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-10-best-webcam-recorders-windows-11/"><u>[Updated] 10 Best Webcam Recorders Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmoras-peers-the-best-slide-show-template-collections/"><u>[Updated] Filmora's Peers The Best Slide Show Template Collections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-suggestions-superior-mobile-melody-designers/"><u>[Updated] Ideal Suggestions Superior Mobile Melody Designers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminating-pathways-through-mixed-realitys-domain/"><u>[Updated] Illuminating Pathways Through Mixed Reality's Domain</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-dissecting-video-trimming-in-imovie-app/"><u>[Updated] In 2024, Dissecting Video Trimming in iMovie App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-hats-review-best-action-cameras-on-two-wheels/"><u>2024 Approved Exclusive Hats Review Best Action Cameras on Two Wheels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-use-supplemental-video-sequences-effectively/"><u>2024 Approved How to Use Supplemental Video Sequences Effectively</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138590134-9781449718084-be-awake-and-prepared/"><u>Be Awake and Prepared | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138623711-9781250204233-beyond-the-known-realization/"><u>Beyond the Known: Realization | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-problems-in-microsoft-edge/"><u>Diagnosing and Repairing Problems in Microsoft Edge</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722889513377-essential-tech-devices-for-avid-readers-discover-laptops-and-phones/"><u>Essential Tech Devices for Avid Readers: Discover Laptops and Phones!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-photo-deformation-software-for-2024/"><u>Exploring Photo Deformation Software for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mark-your-calendars-the-exact-date-for-samsung-unveils-galaxy-s2/"><u>Mark Your Calendars! The Exact Date for Samsung Unveils Galaxy S2</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revenue-revolution-unlocking-online-income-through-youtube-monetization-for-2024/"><u>Revenue Revolution Unlocking Online Income Through YouTube Monetization for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>[New] Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[New] Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pioneering-cinematic-experiences-with-vr-tech/"><u>[Updated] 2024 Approved Pioneering Cinematic Experiences with VR Tech</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-youtubes-strategy-for-video-short-promotion/"><u>Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-11-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 11 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-aspects-of-inexpensive-asmr-microphones/"><u>In 2024, Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formula-field-report-game-reviews/"><u>In 2024, FORMULA FIELD REPORT Game Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-implementing-new-features-in-powerpoint-presentations/"><u>The Ultimate Guide to Implementing New Features in PowerPoint Presentations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tips-for-keeping-your-iphones-memories-in-order-and-backed-up-on-icloud/"><u>Top Tips for Keeping Your iPhone's Memories in Order and Backed Up on iCloud</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-notification-issues-with-7-proven-tips/"><u>Troubleshoot iPhone Notification Issues with 7 Proven Tips</u></a></li>
 </ul></div>
 

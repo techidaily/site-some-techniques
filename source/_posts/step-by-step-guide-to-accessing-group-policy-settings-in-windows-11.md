@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Accessing Group Policy Settings in Windows 11
-date: 2024-11-08T12:30:15.235Z
-updated: 2024-11-12T18:33:22.912Z
+date: 2024-11-11T23:34:43.728Z
+updated: 2024-11-14T06:56:20.295Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Launch the Group Policy Editor from Settings](https://extra-hints.techidaily.com/in-2024-the-ultimate-guide-to-the-best-video-speed-controller-extensions/)
 * [Open the Group Policy Editor from Control Panel](https://win-blog.techidaily.com/paladins-stability-enhancement-how-to-prevent-app-crashes/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Group Policy Editor is a utility that allows you to configure Group Policy settings for Windows PC or a group of PCs, restricting or allowing features as necessary.
@@ -34,18 +41,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Windows 10 Local Group Policy Editor Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows_10_group_policy_editor.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Group Policy Editor is a Microsoft Management Console app with the filename gpedit.msc, and it's usually located in the "C:\\Windows\\System32" folder.
 
  It's important to note that Group Policy Editor is _not_ available in Windows 10 or Windows 11 Home. It only ships with Windows 10 or Windows 11 Pro or Enterprise editions. If you're not sure [which edition of Windows you have](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/), it's easy to find out. Open Settings, navigate to System > About, and you'll see it listed under Edition.
 
  There are several ways to open Group Policy Editor in Windows 10 and Windows 11, so we'll cover a handful of major ways to do it below. Each one will get you to the same place, so pick whichever suits you best.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from the Start Menu
 
@@ -68,17 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enter gpedit into Command Promp, then press Enter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Launch the Group Policy Editor from Settings
@@ -88,10 +94,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enter group policy into the search bar on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/from-the-settings-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from Control Panel
@@ -101,16 +107,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![In Control Panel, search for group policy then click 'Edit Group Policy.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gpedit-from-control-panel.png) 
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Use great care while [changing the Group Policy](https://youtube-clips.techidaily.com/2024-approved-building-a-custom-link-for-youtubes-auto-subscribe/) on your machine. Good luck!
@@ -130,22 +130,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-recommendations-audio-customization-pros/"><u>[New] Foremost Recommendations Audio Customization Pros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hold-your-audiences-gaze-essential-6-video-formats/"><u>[New] Hold Your Audience's Gaze Essential 6 Video Formats</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels-for-2024/"><u>[New] Step-by-Step Guide to Slow Mo Techniques on Instagram Reels for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-discover-the-a-list-of-excellent-ios-video-apps/"><u>[Updated] Discover the A-List of Excellent iOS Video Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>[Updated] Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analyzing-lgs-4k-wuhd-hdr-performance/"><u>[Updated] In Depth Analyzing LG's 4K WUHD HDR Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads/"><u>2024 Approved From Airwaves to iPhone Essential Knowledge on Podcast Downloads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-to-brilliant-a-complete-hdr-portrait-guide/"><u>2024 Approved From Basic to Brilliant A Complete HDR Portrait Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ranking-the-best-free-passport-picture-services-worldwide/"><u>2024 Approved Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reducing-loudness-gradually-techniques-for-logic-pro-users/"><u>2024 Approved Reducing Loudness Gradually Techniques for Logic Pro Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero-session-vs-cube-a-face-off-in-video-editors-for-2024/"><u>Hero Session Vs. Cube A Face-Off in Video Editors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-listen-to-podcasts-on-your-iphone-for-2024/"><u>How to Listen to Podcasts on Your iPhone for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g14-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G14 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-fx-apps-the-ultimate-list-for-ios-and-android/"><u>New In 2024, Free Video FX Apps The Ultimate List for iOS and Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-best-touchscreen-laptops-on-the-market-in-depth-analysis-from-zdnets-pro-reviewers/"><u>Ultimate Guide to the Best Touchscreen Laptops on the Market - In-Depth Analysis From ZDNet's Pro Reviewers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-choice-the-very-best-8-cameras-for-streamers/"><u>[New] Expert Choice The Very Best 8 Cameras For Streamers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/et-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios-for-2024/"><u>[New] Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-highway-tailored-joke-routes-for-each-occasion/"><u>[New] Humor Highway Tailored Joke Routes for Each Occasion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-a-revenue-driven-approach-to-youtube-content-creation/"><u>[New] In 2024, Crafting a Revenue-Driven Approach to YouTube Content Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cognitive-clash-ultimate-gk-video-quizzes/"><u>[Updated] Cognitive Clash - Ultimate GK Video Quizzes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k/"><u>[Updated] From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-youtube-video-formats-a-comprehensive-guide/"><u>[Updated] Optimal YouTube Video Formats A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-correcting-silent-output-issues-on-your-windows-7-system/"><u>Comprehensive Guide: Correcting Silent Output Issues on Your Windows 7 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-breathtaking-gameplay-fluidity-in-skyrim-special-editions-latest-fps-refresh/"><u>Experience Breathtaking Gameplay Fluidity in Skyrim Special Edition's Latest FPS Refresh</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-unmatched-gaming-at-a-bargain-with-the-ibuypower-custom-pc-comprehensive-analysis/"><u>Experience Unmatched Gaming at a Bargain with the Ibuypower Custom PC - Comprehensive Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts-for-2024/"><u>Hustle Smart, Listen Hard Top Tasks for Podcast Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-sites-to-discover-3d-golden-tinted-typography-for-2024/"><u>Ideal Sites to Discover 3D Golden Tinted Typography for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-huawei-p10s-network-performance-and-coverage/"><u>In 2024, Exploring Huawei P10's Network Performance & Coverage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-10-the-best-subtitles-tools/"><u>In 2024, Free Online 10 The Best Subtitles Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-high-quality-the-best-srt-translation-tools-ranked/"><u>In 2024, Free, High-Quality The Best SRT Translation Tools Ranked</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-x5-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco X5 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-evolutionary-step-forward-for-microsofts-tablet-laptop-hybrid-a-comprehensive-review-of-the-surface-pro-grope-7/"><u>The Evolutionary Step Forward for Microsoft's Tablet-Laptop Hybrid - A Comprehensive Review of the Surface Pro Grope 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-centric-viewing-twitters-top-content-for-2024/"><u>Tweet-Centric Viewing Twitter’s Top Content for 2024</u></a></li>
 </ul></div>
 

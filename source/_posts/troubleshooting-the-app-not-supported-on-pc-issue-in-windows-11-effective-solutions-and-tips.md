@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-11-10T21:44:25.930Z
-updated: 2024-11-13T09:14:27.817Z
+date: 2024-11-12T18:01:38.065Z
+updated: 2024-11-13T22:41:48.642Z
 tags:
   - desktop
 categories:
@@ -27,18 +27,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Startup Apps' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-startup-apps-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the right pane, review each app. If you find an unwanted app on the list, prevent it from running automatically on your PC’s boot by right-clicking it and choosing "Disable."
 
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Open the App as an Admin
 
@@ -49,13 +49,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use App Compatibility Troubleshooter
 
@@ -66,10 +73,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
@@ -83,13 +90,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To activate that mode, launch Settings using Windows+i. In the left sidebar, select "System." On the right pane, choose "For Developers."
 
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-for-developers-windows-11-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Activate the "Developer Mode" option, then choose "Yes" in the prompt.
 
@@ -107,22 +107,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the open prompt, select "Uninstall" to delete the app.
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
 
@@ -151,22 +145,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-script-to-screen-effective-editing-on-windows-10-for-filmmakers/"><u>[New] From Script to Screen Effective Editing on Windows 10 for Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-design-and-deploy-bespoke-ringtone-options-for-whatsapp-users/"><u>[New] How to Design & Deploy Bespoke Ringtone Options for WhatsApp Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-tools-for-image-deformation/"><u>[New] Innovative Tools for Image Deformation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-expert-video-grabbing-extras-fb-and-firefox-edition/"><u>[Updated] 2024 Approved Expert Video Grabbing Extras FB & Firefox Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-eliminate-hurdle-video-playback-issue-in-chrome-for-2024/"><u>[Updated] Eliminate Hurdle Video Playback Issue in Chrome for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-range-humor-development-unleash-your-wit/"><u>2024 Approved Free-Range Humor Development Unleash Your Wit</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/anthem-launch-glitch-discover-how-to-overcome-perpetual-loading-issues/"><u>Anthem Launch Glitch? Discover How to Overcome Perpetual Loading Issues!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-a18-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from A18</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/capture-cumulative-chronicles-for-2024/"><u>Capture Cumulative Chronicles for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029226360-dvdand/"><u>DVDディスクから高品質ビデオ&画像を簡単に取り出せる方法</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grasping-the-basics-of-av1-compression-for-2024/"><u>Grasping the Basics of AV1 Compression for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-to-mix-unveiling-two-dji-devices-with-20-luts-complimentary/"><u>In 2024, Free to Mix - Unveiling Two DJI Devices with 20 LUTS Complimentary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-harvesters-making-memes-without-a-price-tag/"><u>In 2024, Humor Harvesters Making Memes Without a Price Tag</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-simple-high-dynamic-range/"><u>In 2024, In-Depth Guide to Simple High Dynamic Range</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quick-fix-hotkey-tricks-for-effective-program-management/"><u>The Quick Fix: Hotkey Tricks for Effective Program Management</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-audio-trimming-tools-compatible-with-all-devices-windows-mac-ios-and-android/"><u>Top 10 Audio Trimming Tools Compatible with All Devices: Windows, Mac, iOS & Android</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>Updated 2024 Approved Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>2024 Approved Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-complete-breakdown-of-googles-podcast-system/"><u>A Complete Breakdown of Google's Podcast System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-solutions-for-when-your-epic-games-launcher-keeps-failing-to-open/"><u>Efficient Solutions for When Your Epic Games Launcher Keeps Failing to Open</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-dynamic-content-personalization-via-cookiebot/"><u>Enhanced User Experience with Dynamic Content Personalization via Cookiebot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-with-advanced-cookie-tracking-technology/"><u>Enhanced with Advanced Cookie Tracking Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-with-cookiebot-technology/"><u>Enhanced with Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-artificial-intelligence-the-synergy-of-abbyy-and-uipath-in-advancing-automation/"><u>Enhancing Artificial Intelligence: The Synergy of ABBYY and UiPath in Advancing Automation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210966120-9781088228036-la-reencarnacion-de-una-reina/"><u>La Reencarnación de una Reina | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-visual-appeal-for-social-media-growth/"><u>Leveraging Visual Appeal for Social Media Growth</u></a></li>
+<li><a href="https://blog-min.techidaily.com/navigate-your-digital-files-with-ease-discover-12-quick-tips-to-launch-file-explorer-on-windows-11/"><u>Navigate Your Digital Files with Ease: Discover 12 Quick Tips to Launch File Explorer on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-motorola-edgeplus-2023-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Motorola Edge+ (2023)</u></a></li>
 </ul></div>
 

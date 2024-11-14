@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!
-date: 2024-11-06T19:25:45.129Z
-updated: 2024-11-13T07:00:24.952Z
+date: 2024-11-08T18:14:36.462Z
+updated: 2024-11-14T02:53:18.236Z
 tags:
   - deals
 categories:
@@ -43,13 +43,6 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 [$499.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price and Availability** 
 
@@ -115,6 +108,13 @@ Expand
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  For a gaming laptop, the LOQ 15IAX9I has surprisingly conservative looks. Outside of some dramatic angles on the rear edges of the unit, it could easily pass for your average business laptop.
@@ -125,16 +125,22 @@ Jerome Thomas / How-To Geek
 
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
 
 ![The ports on the rear of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-back-of-the-lenovo-loq-15iax9i_53589810480_o.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -150,18 +156,18 @@ Jerome Thomas / How-To Geek
 
 ![Overhead view of the keyboard area of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/top-view-of-the-keyboard-on-the-lenovo-loq-15iax9i_53589683999_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  For gaming purposes, particularly with the use of the classic W, A, S, and D keys for movement, I found the keyboard only OK. It was a little sluggish. It's definitely not a deal-breaker when gaming, but you likely won't be setting any eSports records with the key response times. The touchpad is relatively small and not as smooth as on some other laptops, but it's still perfectly usable and supports touch gestures.
 
  The power button turns on or puts the laptop to sleep, but it also has an LED ring to indicate operating mode. Blue is a low-performance quiet mode, red is performance mode, white is a balance between the two, and purple is for a custom mode should you want to set your own parameters. Naturally, the Red performance mode uses the most power, has the most fan noise, and drains the battery the fastest, so it's best to leave the laptop plugged in when using this more game-centric setting.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sights and Sounds: Optimized for Gaming** 
 
@@ -184,10 +190,10 @@ Jerome Thomas / How-To Geek
 ![Angled view of the opened and powered on Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-powered-on-2_53589684004_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -207,10 +213,10 @@ Jerome Thomas / How-To Geek
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
@@ -244,24 +250,17 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-brand-your-channel-innovative-banner-templates-for-gamers/"><u>[New] Brand Your Channel Innovative Banner Templates for Gamers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-free-easy-hd-download-of-fb-media-library/"><u>[Updated] 2024 Approved Free, Easy HD Download of FB Media Library</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>[Updated] Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extended-review-for-uncomplicated-hdr-techniques/"><u>[Updated] Extended Review for Uncomplicated HDR Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-film-editing-expertise-exchange/"><u>[Updated] Film Editing Expertise Exchange</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonious-photographic-overlays-guide/"><u>[Updated] Harmonious Photographic Overlays Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-little-gamers-treasure-trove-of-joy/"><u>[Updated] In 2024, Little Gamers' Treasure Trove of Joy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>[Updated] The Complete SDR to HDR Upgrade Blueprint</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-inshot-is-it-truly-top-notch/"><u>2024 Approved Evaluating InShot Is It Truly Top-Notch?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-selection-ideal-sierra-dvd-creators/"><u>2024 Approved Expert’s Selection Ideal Sierra DVD Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-your-site-with-advanced-analytics-through-cookiebot-integration/"><u>Empower Your Site with Advanced Analytics Through Cookiebot Integration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tutorial-for-effective-telegram-usage-for-2024/"><u>Expert Tutorial for Effective Telegram Usage for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-spectrum-projectors-and-televisions-in-a-4k-world-for-2024/"><u>Exploring the Spectrum Projectors & Televisions in a 4K World for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-wf-2750-ready-free-printer-drivers-available/"><u>Get Your Epson WF-2750 Ready - FREE Printer Drivers Available!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ghostly-pause-recorder-tutorial-for-2024/"><u>Ghostly Pause Recorder Tutorial for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-f34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy F34 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-15-must-see-investment-channels-online/"><u>In 2024, 15 Must-See Investment Channels Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-non-responsive-brightness-buttons-in-windows-10/"><u>Ultimate Fixes for Non-Responsive Brightness Buttons in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-best-selections-for-youtube-ringtone-downloads/"><u>[New] Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone/"><u>[New] How to Transfer Photos and Videos From Android Phone to an iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flight-pattern-perfection-dissecting-bebops-parrot-expedition/"><u>[Updated] Flight Pattern Perfection Dissecting Bebop's Parrot Expedition</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-high-pixeled-console-image/"><u>Demystifying the High-Pixeled Console Image</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-performance-problems-solved-smooth-play-now/"><u>Halo Infinite Performance Problems Solved - Smooth Play Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-top-5-subaquatic-filter-choices/"><u>In 2024, GoPro's Top 5 Subaquatic Filter Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>In 2024, How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/journey-to-cohesion-expert-tips-for-using-inshots-transition-tools/"><u>Journey to Cohesion Expert Tips for Using Inshot's Transition Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-unfreezing-your-stuck-iphone-seamlessly/"><u>Ultimate Guide: Unfreezing Your Stuck iPhone Seamlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-learning-sound-snatchers-for-2024/"><u>Ultimate Learning Sound Snatchers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-identity-mastery-crafting-business-symbols-with-tailored-templates/"><u>Visual Identity Mastery Crafting Business Symbols with Tailored Templates</u></a></li>
 </ul></div>
 

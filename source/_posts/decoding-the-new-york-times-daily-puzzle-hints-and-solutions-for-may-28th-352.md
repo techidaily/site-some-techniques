@@ -1,7 +1,7 @@
 ---
 title: Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
-date: 2024-11-07T00:42:29.846Z
-updated: 2024-11-13T00:37:55.146Z
+date: 2024-11-08T21:15:59.539Z
+updated: 2024-11-13T20:04:45.332Z
 tags:
   - web
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -33,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -52,6 +45,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![May 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Amenable.
@@ -59,23 +59,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Spelling Bee Ranks.
 * **Purple:** Adjectives for a Candle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![May 28th Connections words sorted into four groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections-filled.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Amenable (Yellow):** 
 
@@ -93,6 +79,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Lit, Scented, Waxy, Wicked
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 28th was tougher than yesterday's game and harder than average. 
@@ -106,6 +105,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With only 8 words left, something odd struck me about evil, live, veil, and vile: they all have the same letters. There was just no way that was a coincidence, so I threw them together in a group. Green was "Anagrams."
 
  That left amazing, beginning, genius, and sound. Try as I might, I couldn't see the connection. It turns out that Blue was "Spelling Bee Ranks." That will be a tough one for anyone that has never participated in a spelling bee. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -135,21 +141,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-funimate-video-mastery-a-comprehensible-guide/"><u>[New] 2024 Approved Funimate Video Mastery A Comprehensible Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-amateurs-to-aviators-9-top-rated-drone-editors-reviewed/"><u>[New] From Amateurs to Aviators 9 Top-Rated Drone Editors Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-row-fun-without-football-baseball-or-basketball/"><u>[Updated] First Row Fun Without Football, Baseball, or Basketball</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-analysis-of-samsungs-2023-photo-enhancement-suite/"><u>2024 Approved Expert Analysis of Samsung’s 2023 Photo Enhancement Suite</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-voice-text-to-speech/"><u>2024 Approved What Is AI Voice Text to Speech?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/apples-new-m4-silicon-chip-launch-details-and-specifications/"><u>Apple's New M4 Silicon Chip - Launch Details & Specifications</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-amp-up-your-audiovideo-quality-with-these-10-android-players/"><u>In 2024, Amp Up Your Audio/Video Quality with These 10 Android Players</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-on-efficiently-locating-luminous-pexels/"><u>In 2024, Expert Advice on Efficiently Locating Luminous Pexels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-harness-googles-potential-for-your-podcasts/"><u>In 2024, How to Harness Google’s Potential for Your Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-shoot-hdr-photos-with-iphone/"><u>In 2024, How to Shoot HDR Photos with iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-zooming-up-with-fb-live-transforms-broadcasts/"><u>In 2024, How Zooming Up with FB Live Transforms Broadcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastery-over-disabling-personalized-podcast-suggestions-on-spotify-for-2024/"><u>Mastery over Disabling Personalized Podcast Suggestions on Spotify for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/navigating-discords-video-chat-features-on-gadgets-for-2024/"><u>Navigating Discord's Video Chat Features on Gadgets for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-magic-vs-2-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor Magic Vs 2 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-streaming-zoom-sessions-on-any-smart-tv/"><u>Step-by-Step Tutorial: Streaming Zoom Sessions on Any Smart TV</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-vs-dailymention-identifying-key-variations-for-2024/"><u>YouTube Vs. DailyMention Identifying Key Variations for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[New] 2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-whatsapp-with-ease-advanced-functions-revealed/"><u>[New] Navigating WhatsApp with Ease Advanced Functions Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-client-reviews-the-heart-of-modern-marketing-strategies/"><u>[Updated] Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pro-selections-best-notebook-models-for-editing-professionals/"><u>[Updated] In 2024, Pro Selections Best Notebook Models for Editing Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-financials-of-youtube-marketing/"><u>2024 Approved Exploring the Financials of YouTube Marketing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-frequency-facilitator-for-voices/"><u>2024 Approved Flawless Frequency Facilitator for Voices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-airplay-to-download-effortless-apods-access/"><u>2024 Approved From AirPlay to Download Effortless APods Access</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-older-os-to-windows-11-the-evolution-process/"><u>2024 Approved From Older OS to Windows 11 The Evolution Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gps-companions-top-10-drones-that-stay-close/"><u>2024 Approved GPS Companions Top 10 Drones That Stay Close</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-uploading-videos-into-youtube-lists/"><u>2024 Approved Guide to Uploading Videos Into YouTube Lists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-modifying-ios-tones-for-max-impact/"><u>2024 Approved In-Depth Modifying iOS Tones for Max Impact</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crypto-clout-how-much-does-the-youtube-gamer-make/"><u>Crypto Clout How Much Does the YouTube Gamer Make?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-earnings-a-step-by-step-approach-for-mobile-youtubers-for-2024/"><u>Enabling Earnings A Step-by-Step Approach for Mobile YouTubers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/framed-facets-guide-to-the-best-apps-and-websites-for-image-framing-for-2024/"><u>Framed Facets Guide to the Best Apps and Websites for Image Framing for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-make-picture-in-picture-videos-on-mac-os-sierra/"><u>How to Make Picture in Picture Videos on Mac OS Sierra</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-k70-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi K70 Pro FRP</u></a></li>
 </ul></div>
 

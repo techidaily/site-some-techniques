@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments"
-date: 2024-11-09T07:09:12.101Z
-updated: 2024-11-12T22:35:07.317Z
+date: 2024-11-09T16:38:08.234Z
+updated: 2024-11-14T00:27:15.966Z
 tags:
   - cutting-edge
 categories:
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![A screenshot of the response including Sun sign and moon sign explanations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225219_chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is a detailed birth chart! However, it doesn't take AI to do a birth chart, just an extensive database. A real test would be to prompt the GPT to apply this chart to a specific scenario.
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
  Overall, I thought this AI was knowledgeable about astrology and good fun for someone with a casual interest. A serious student of astrology probably doesn't need this AI, and may find minor inaccuracies, like with any AI. However, it was fun and interesting for this skeptic to get a little extra insight.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Rizz GPT
 
  My kids have been telling me to write about the Rizz GPT for a while. They keep saying, "It's hilarious!" I'd ask for an example, but they'd inevitably just tell me, "It boosts your Rizz!" In hindsight, I think they thought it was hilarious because they'd seen examples of its use on TikTok and YouTube. Now I know why the videos are funny, because anyone actually using anything out of this AI in real life would, indeed, be hilarious.
@@ -83,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  The one quality answer I got out of this AI was with this prompt. It gave an excellent definition of this Gen Z slang in layperson terms.
 
 "Rizz" is a slang term that refers to someone's charisma or ability to attract and charm others, especially in a romantic context. It's short for "charisma," and is often used to describe someone with a smooth, confident, and engaging personality. If someone is said to have "rizz," it means they can easily flirt or make connections with people through their charm and wit."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Prompt: Give 5 Good Pickup Lines for a 73-Year-Old to Use at the Nursing Home
 
@@ -106,13 +92,26 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![Screenshot of GPTs response to the prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225152_chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Despite this red flag, I pressed on. I described my work, hobbies, kids, and preferences, and asked it to write me a dating profile. The resulting response was poorly written, formulaic, cheesy, and exactly what one would expect from the author of those pickup lines. It later occurred to me that using that profile as an obvious joke on a dating site might actually generate interest. I didn't test it out, but it made me wonder if I was taking the AI too seriously. Is this AI supposed to be a caricature of Gen Z? Perhaps I'm too old to get the joke. However, not meeting the basic standards of AI we've come to expect from GPTs means the joke is poorly executed, in my opinion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Deep Game
 
@@ -129,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Without missing a beat, Deep Game continued the story, "The sun blazes high in the sky, its relentless heat beating down on the small, desolate island. Palm trees sway gently in the breeze, their fronds rustling softly. The sand beneath your feet is hot, almost unbearable. You've managed to set up a small camp using the few supplies you had, but with no rain in days, your collected water is dangerously low."
 
 ![Screenshot of prompt and the first part of the GPT response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225031_chatgpt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The writing is verbose and the story lines are archaic. However, that's typical of AI writing, in my experience. This AI is as good as ChatGPT gets. Of the three GPTs I tried, this is the only one I can see myself using again. I'm thoroughly a non-fiction writer. However, if I did start writing fiction and inevitably got stuck, I think I could enter the plot I had so far to see what it suggested. It could be fun to do with kids. It might also be useful for fantasy tabletop role-playing games like _Dungeons & Dragons_, because the user can direct the story while Deep Game paints the scenes both with words and art. For those with [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) accounts, it can generate an image of the scene just described. Just use the command "/visualize".
 
@@ -151,24 +157,18 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flawless-flow-essential-macos-big-sur-video-editing-tools/"><u>[New] Flawless Flow Essential MacOS Big Sur Video Editing Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-getting-more-from-instagram-videos-and-photos-for-2024/"><u>[New] Getting More From Instagram Videos & Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fading-fast-with-premiere-pro/"><u>[Updated] Fading Fast with Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-details-dji-inspire-2-explained/"><u>[Updated] From Basics to Details DJI Inspire 2 Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-timing-aids-the-best-clock-apps-for-your-big-day/"><u>[Updated] Ideal Timing Aids The Best Clock Apps For Your Big Day</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/sential-youtube-groups-navigating-stocks-for-2024/"><u>20 Essential YouTube Groups Navigating Stocks for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-fisheye-lens-in-360-imagery/"><u>2024 Approved The Art of Fisheye Lens in 360 Imagery</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-incorrectly-entered-text-when-typing-errors-arise/"><u>Fixing Incorrectly Entered Text When Typing Errors Arise</u></a></li>
-<li><a href="https://win-blog.techidaily.com/freezing-no-more-effective-solutions-for-a-smooth-overwatch-playthrough/"><u>Freezing No More: Effective Solutions for a Smooth Overwatch Playthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012113855-hyper-scape-stability-issues-resolved-how-to-stop-pc-game-crashes/"><u>Hyper Scape Stability Issues Resolved – How To Stop PC Game Crashes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/iconic-screenplays-a-cinematic-legacy-for-2024/"><u>Iconic Screenplays A Cinematic Legacy for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ignite-fitness-goals-with-the-ultimate-music-mix-for-2024/"><u>Ignite Fitness Goals with the Ultimate Music Mix for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films/"><u>In 2024, High-Quality Methodology Stitching GoPro Sequences in Virtual Reality Films</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-introduction/"><u>In 2024, Incremental Introduction</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-in-podcasting-generating-custom-rss-files/"><u>In 2024, Innovations in Podcasting Generating Custom RSS Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximize-your-footage-pro-level-tips-for-gopro-studio-users/"><u>Maximize Your Footage Pro-Level Tips for GoPro Studio Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/prime-choices-cheap-pc-capture-software-listed-for-2024/"><u>Prime Choices Cheap PC Capture Software Listed for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-pixels-selecting-cameras-for-quality-slow-videos/"><u>Prime Pixels Selecting Cameras for Quality Slow Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-crafting-dynamic-canon-time-lapses-for-2024/"><u>The Ultimate Guide to Crafting Dynamic Canon Time-Lapses for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-direct-streamline-the-most-efficient-flv-to-youtube-tools-ranked-for-2024/"><u>[New] Direct Streamline The Most Efficient Flv-to-YouTube Tools Ranked for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-best-cameras-to-amplify-your-yt-presence/"><u>[New] In 2024, Best Cameras to Amplify Your YT Presence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-rise-of-new-titans-against-vlc/"><u>[New] The Rise of New Titans Against VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-designs-in-syma-x8c/"><u>[Updated] Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-obs-and-streamlabs-mac-integration/"><u>[Updated] Mastering OBS & Streamlabs Mac Integration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-k11-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo K11 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hollywood-hacks-a-filmmakers-guide-to-cinematic-excellence-for-2024/"><u>Hollywood Hacks A Filmmaker’s Guide to Cinematic Excellence for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-black-friday-savings-alert-snag-the-powerhouse-laptop-lenovo-thinkpad-x1-extreme-gen-4-at-an-unbelievable-price-slash/"><u>Huge Black Friday Savings Alert: Snag the Powerhouse Laptop, Lenovo ThinkPad X1 Extreme Gen 4 at an Unbelievable Price Slash</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-skies-in-4k-with-mi-drone/"><u>In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>In 2024, From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>In 2024, Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-for-cleaning-out-nonessential-software-on-your-windows-10-system-techradar/"><u>Step-by-Step Tutorial for Cleaning Out Nonessential Software on Your Windows 10 System | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Issues for Essential Security Patch Installation
-date: 2024-11-11T17:50:58.932Z
-updated: 2024-11-13T12:47:46.290Z
+date: 2024-11-11T20:54:19.940Z
+updated: 2024-11-14T02:14:19.454Z
 tags:
   - deals
 categories:
@@ -19,10 +19,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you’ve encountered a “Your device is missing important security and quality fixes” error on your Windows 10 computer's Windows Update screen (like I did), worry not, as you can use Windows Update Assistant to fix your problem. There are other ways to resolve this issue, and we’ll show you how to apply them.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  1\. Use Windows Update Assistant
@@ -59,29 +65,9 @@ C:\Windows\SoftwareDistribution\
 
 !['Delete' highlighted in the right-click menu for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-windows-update-cache.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure to [empty your Recycle Bin](https://youtube-webster.techidaily.com/n-2024-effortless-guide-to-designing-youtube-follow-links/) after deleting the above files. Then, return to the "Services" window, right-click "Windows Update", and select "Start".
 
  To now update your PC, head into Settings > Update & Security > Windows Update and find and install the available updates.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Use the Windows Update Troubleshooter
 
@@ -91,14 +77,14 @@ C:\Windows\SoftwareDistribution\
 
 !['Run the Troubleshooter' highlighted for the 'Windows Update' troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-launch-windows-update-troubleshooter.jpg) 
 
- Wait for the tool to detect and resolve your update problems. This can take anywhere from a few seconds to a few minutes, then restart your PC.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Wait for the tool to detect and resolve your update problems. This can take anywhere from a few seconds to a few minutes, then restart your PC.
 
 ##  4\. Fix Windows’ Corrupted System Files
 
@@ -108,6 +94,13 @@ C:\Windows\SoftwareDistribution\
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "User Account Control" prompt, choose "Yes".
 
  On the Command Prompt window, type the following command and press Enter. This will download the files needed to fix your corrupted files.
@@ -115,6 +108,13 @@ C:\Windows\SoftwareDistribution\
 DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![The DISM command on a Command Prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-run-dism-command-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next up, run the following command to begin finding and fixing your system’s damaged files:
 
@@ -141,17 +141,16 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-creating-seamless-ps4-streams-using-obs-studio-tools/"><u>[New] Creating Seamless PS4 Streams Using OBS Studio Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-ways-to-watch-facebook-live-on-tv/"><u>[New] Ways To Watch Facebook Live On TV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-dominate-the-battlefield-learn-vocal-modification-for-free-fire-characters/"><u>[Updated] How to Dominate the Battlefield Learn Vocal Modification for Free Fire Characters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>2024 Approved FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-range-virtual-sphere-review-for-2024/"><u>Full Range Virtual Sphere Review for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c110-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C110 Phones with/without a PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-a15-4g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy A15 4G to Another | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-crafting-from-script-to-screen/"><u>In 2024, Film Crafting From Script to Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-different-footage-sources-on-ios-device/"><u>In 2024, Harmonizing Different Footage Sources on iOS Device</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-imovies-acoustic-arena-insider-tips-to-achieve-flawless-audio-mixes/"><u>New 2024 Approved IMovies Acoustic Arena Insider Tips to Achieve Flawless Audio Mixes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tablet-vs-e-reader-comparison-ipad-against-kindle-and-nook-devices/"><u>Tablet Vs. E-Reader Comparison: IPad Against Kindle and Nook Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording-for-2024/"><u>The Artisan's Handbook Perfecting Your Windows PC in Live TV Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-devices-for-frame-by-frame-filmmaking/"><u>[New] Excellent Devices for Frame-by-Frame Filmmaking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-enhance-your-vlc-playback-in-macos/"><u>[New] Expert Tips to Enhance Your VLC Playback in macOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-guide-to-leveraging-youtube-video-endings/"><u>[Updated] 2024 Approved The Ultimate Guide to Leveraging YouTube Video Endings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expected-daily-video-consumption-gb-calculation/"><u>[Updated] Expected Daily Video Consumption GB Calculation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-timestamping-techniques-unveiled/"><u>[Updated] Image Timestamping Techniques Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-revisiting-streamers-for-enhanced-experience-for-2024/"><u>[Updated] Revisiting Streamers for Enhanced Experience for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-artisans-handbook-to-photomontage-creation-for-2024/"><u>[Updated] The Artisan's Handbook to PhotoMontage Creation for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-8-backdrops-a-guide-to-personalize-macbook/"><u>Essential 8 Backdrops A Guide to Personalize MacBook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimbal-mastery-7-drone-pros-recommended-for-2024/"><u>Gimbal Mastery 7 Drone Pros Recommended for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-secure-re-entry-resuming-fb-usage-post-hack/"><u>In 2024, Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nubia-red-magic-9-proplus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nubia Red Magic 9 Pro+ Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

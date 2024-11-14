@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Glow Innovations  Outshining Videos Through Design\""
-date: 2024-07-26T16:26:31.879Z
-updated: 2024-07-27T16:26:31.879Z
+date: 2024-11-06T20:32:58.105Z
+updated: 2024-11-14T01:05:07.944Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -61,9 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -72,9 +66,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -83,25 +74,16 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -109,6 +91,13 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,7 +131,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ffortless-subscriber-acquisition-for-enhanced-viewership/"><u>[New] Effortless Subscriber Acquisition for Enhanced Viewership</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-the-value-of-sns-hdr-in-a-crowded-market/"><u>[New] Evaluating the Value of SNS HDR in a Crowded Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-choice-7-premium-videos-on-mac/"><u>[New] Excellent Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exposing-the-pinnacle-5-digital-title-artists/"><u>[New] Exposing the Pinnacle 5 Digital Title Artists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-shades-insights-from-the-best-11-color-guides/"><u>[Updated] Exploring Shades Insights From the Best 11 Color Guides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-airwaves-to-your-iphone-mastery-of-podcast-downloads/"><u>[Updated] From Airwaves to Your iPhone Mastery of Podcast Downloads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-filmcraft-studio-top-alternatives-for-lightroom-users/"><u>[Updated] In 2024, FilmCraft Studio Top Alternatives for Lightroom Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-high-fps-impacts-slow-motion-movie-quality/"><u>[Updated] In 2024, How High FPS Impacts Slow Motion Movie Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-pursuit-of-dreamscapes-vr-travel-unleashed/"><u>[Updated] In Pursuit of Dreamscapes VR Travel Unleashed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-focus-through-the-use-of-leading-lines-in-iphone-photography/"><u>2024 Approved Illuminate Focus Through the Use of Leading Lines in iPhone Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/catch-em-all-in-no-time-learn-to-play-pokemon-go-now/"><u>Catch 'Em All in No Time - Learn to Play Pokemon Go Now!</u></a></li>
+<li><a href="https://win-top.techidaily.com/effective-strategies-for-creating-winning-email-marketing-sequences-using-massmail/"><u>Effective Strategies for Creating Winning Email Marketing Sequences Using MassMail</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-itel-a60-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Itel A60</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-note-30-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Note 30</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-spark-20-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Spark 20 Pro to Another | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Compatibility with Windows 11: A Guide to Running Linux Applications"
-date: 2024-11-12T07:22:20.340Z
-updated: 2024-11-13T01:24:29.423Z
+date: 2024-11-06T22:19:55.120Z
+updated: 2024-11-13T19:32:47.934Z
 tags:
   - desktop
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Requirements Before You Begin
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
@@ -72,19 +65,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -93,18 +73,24 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -117,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
@@ -128,10 +114,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 cd /mnt/c
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
@@ -147,6 +139,13 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -176,6 +175,13 @@ nohup program_name & disown
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Troubleshooting Common Setup Issues
 
  WSL usually installs without a hitch on Windows 11\. However, if you're having issues, there is a quick and easy fix. First, open up PowerShell in Windows 11\. Once it is open, use the update command for WSL. Updating WSL will install various patches and fixes that are sure to alleviate the issues you're experiencing.
@@ -203,18 +209,21 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-grateful-choices-comprehensive-otu-guide/"><u>[New] Grateful Choices Comprehensive OTU Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-lens-leaders-battle-sj6-clashes-with-xiaomis-four-k-kickstarter-for-2024/"><u>[New] Lens Leaders Battle SJ6 Clashes with Xiaomi’s Four-K Kickstarter for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-playlist-creation-on-youtube-easily/"><u>[New] Navigating Playlist Creation on YouTube Easily</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[New] Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>[Updated] Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-asmrs-influence-on-your-life/"><u>[Updated] In 2024, Navigating ASMR’s Influence on Your Life</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-insights-into-attaining-stock-artwork-for-2024/"><u>Expert Insights Into Attaining Stock Artwork for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-decision-laser-focused-or-sturdy-levers/"><u>Gamers' Decision: Laser-Focused or Sturdy Levers?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-face-hiding-masterclass-tools-and-techniques-reviewed/"><u>In 2024, Face Hiding Masterclass Tools and Techniques Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-top-8-accessories-for-vr-games/"><u>In 2024, Innovative Top 8 Accessories for VR Games</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-c12-plus-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia C12 Plus to Gmail | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformez-votre-fichier-mov-en-aiff-gratuitement-via-linterface-web-de-moveave/"><u>Transformez Votre Fichier MOV en AIFF Gratuitement via L'interface Web De Moveave.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capture-and-share-the-world-in-high-definition-with-mi-11s-screenshot-capabilities/"><u>[New] In 2024, Capture and Share the World in High Definition with Mi 11'S Screenshot Capabilities</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-videography-101-editing-essentials-taught/"><u>[New] In 2024, YouTube Videography 101 Editing Essentials Taught</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extraordinary-top-ranked-vr-game-perks/"><u>[Updated] Extraordinary Top-Ranked VR Game Perks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-definition-spectacle-top-ten-4ks/"><u>[Updated] High Definition Spectacle – Top Ten 4Ks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dive-into-reading-without-spending-the-top-17-destinations-for-free-online-books-download/"><u>Dive Into Reading Without Spending: The Top 17 Destinations for Free Online Books Download</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-access-chatgpt-within-your-ubuntu-terminal-using-shell-tools/"><u>How to Access ChatGPT Within Your Ubuntu Terminal Using Shell Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>In 2024, Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-films-finest-high-definition-4k-screens-for-editors/"><u>In 2024, Film's Finest High Definition 4K Screens for Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-horizon-unveiled-an-elite-list-of-online-sky-sites/"><u>In 2024, HDR Horizon Unveiled An Elite List of Online Sky Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highpoint-artist-suite-evaluation/"><u>In 2024, Highpoint Artist Suite Evaluation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-find-n3-flips-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find N3 Flips Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/influencing-cultures-through-memetic-expression-for-2024/"><u>Influencing Cultures Through Memetic Expression for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-k70-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi K70 Pro Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-non-functional-mic-on-steelseries-arctis-5-headset/"><u>Troubleshooting and Solutions for Non-Functional Mic on SteelSeries Arctis 5 Headset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-dealing-with-x3daudiodll-missing-mismatch/"><u>Troubleshooting Techniques for Dealing With 'x3daudio.dll' Missing Mismatch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/what-to-expect-when-boosting-performance/"><u>What to Expect When Boosting Performance</u></a></li>
 </ul></div>
 

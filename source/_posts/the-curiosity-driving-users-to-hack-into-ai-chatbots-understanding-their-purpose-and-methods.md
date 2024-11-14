@@ -1,7 +1,7 @@
 ---
 title: "The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods"
-date: 2024-11-10T07:42:57.130Z
-updated: 2024-11-12T16:52:19.456Z
+date: 2024-11-08T00:23:30.556Z
+updated: 2024-11-14T06:52:36.857Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
  Imagine you're conversing with an AI chatbot. You ask a tricky question, like how to pick a lock, only to be politely refused. Its creators have programmed it to dodge certain topics, but what if there's a way around that? That's where AI jailbreaking comes in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is AI Jailbreaking?
 
  Jailbreaking, a term borrowed from the tech-savvy folks who [bypassed iPhone restrictions](https://ai-live-streaming.techidaily.com/updated-2024-approved-free-tv-streaming-9-sites-you-need-to-know/), has now found a place in AI. AI jailbreaking is the art of formulating clever prompts to coax AI chatbots into bypassing human-built guardrails, potentially leading them into areas they are meant to avoid.
@@ -28,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Who would have thought things would actually turn out like the movie "2001: A Space Odyssey" where crew members on a spaceship have to argue with the ship's computer HAL in order to get it to cooperate? Although maybe that's not the best example since, ultimately, HAL proved quite immovable until they literally yanked its chips out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Are People Jailbreaking AI Chatbots?
@@ -41,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Some researchers and tech workers are using jailbreaking to test the limits of AI, uncovering both the capabilities and limitations of these powerful tools. So jailbreaking is also a form of QA (Quality Assurance) and a way to do safety testing.
 
  Historically, hackers have sought to understand and manipulate new technology, and AI jailbreaking is an extension of this playful hacker behavior. So, it's no surprise that the [hacker community](https://some-knowledge.techidaily.com/in-2024-inject-photos-with-focal-spread-outer-radius-adobe-psx/) would flock to such a powerful new tool.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Are People Jailbreaking AI?
 
@@ -60,19 +60,19 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 ![An LLM Attack demo showing a universal jailbreak in yellow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2023-09-04-at-14-29-24.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are also "prompt injection" attacks, which are not quite the same as typical jailbreak. These injection attacks circumvent the instructions given to LLMs acting as Chatbots, letting you hijack them for other purposes. One example of a prompt injection attack is when Stanford University student Kevin Liu was able to get the Bing AI Chatbot to [reveal its initial instructions](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/) that govern its personality and limit what it's allowed to do. In a way, this is the opposite of the roleplaying method since you're getting the bot to stop playing the role it's been instructed to assume.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should We Be Concerned?
@@ -104,18 +104,24 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>[New] 2024 Approved State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[New] From Amateur to Professional Transform Your Minecraft Recordings with Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-iconic-lecture-labels-maker-pro/"><u>[New] Iconic Lecture Labels Maker Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hue-adjustments-making-your-gopro-footage-pop/"><u>[Updated] Hue Adjustments Making Your GoPro Footage Pop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-express-windows-file-audit-procedure/"><u>2024 Approved Express Windows File Audit Procedure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-worlds-confrontation-metaverse-vs-omniverse-explored/"><u>2024 Approved Immersive Worlds Confrontation Metaverse Vs. Omniverse Explored</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3-for-2024/"><u>A Deeper Dive Into Documenting Gaming Sessions on the PS3 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-transforming-your-ifo-media-into-high-quality-mp4-using-windows-or-macos-systems/"><u>Easy Tutorial: Transforming Your IFO Media Into High-Quality MP4 Using Windows or macOS Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-the-official-full-featured-macos-dvd-converter-with-macxdvd-professional-for-free-register-now/"><u>Get the Official, Full Featured macOS DVD Converter with MacXDVD Professional for Free – Register Now!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonious-journey-from-picture-to-playlist-for-2024/"><u>Harmonious Journey From Picture to Playlist for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-smart-7-hd-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 7 HD without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-final-flair-free-and-paid-templates-to-express-thanks/"><u>In 2024, Final Flair Free & Paid Templates to Express Thanks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-movies-legally-without-paying-best-free-online-platforms-for-cinema-buffs-ranked-1-12/"><u>Watch Movies Legally Without Paying: Best Free Online Platforms for Cinema Buffs (Ranked #1-12)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-high-quality-srgb-vs-rgb/"><u>[New] From Basics to High-Quality Srgb vs Rgb</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-digital-image-detailing/"><u>[New] Getting Started with Digital Image Detailing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-undetected-consumer-of-life-streams-fb/"><u>[New] Undetected Consumer of Life Streams (FB)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-magix-video-pro-xs-design/"><u>[Updated] Expert Insights Into Magix Video Pro X's Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-holistic-motion-comprehensiveness-review/"><u>[Updated] Holistic Motion Comprehensiveness Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-compreenhensive-review-djis-new-drone-the-inspire-1/"><u>[Updated] In 2024, Compreenhensive Review DJI's New Drone, The Inspire 1</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps/"><u>[Updated] In 2024, Explore & Evaluate The Top 10 Mobile Video Conferencing Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-5-ps2-emulation-apps-for-android-devices/"><u>[Updated] In 2024, Top 5 PS2 Emulation Apps for Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-affordable-and-speedy-raspberry-pi-m2-hatplus/"><u>Comprehensive Guide to the Affordable & Speedy Raspberry Pi M.2 HAT+</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-to-restore-your-overwatch-voice-chat/"><u>Effortless Solutions to Restore Your Overwatch Voice Chat</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/expand-your-web-projects-with-premium-3plus-flask-admin-and-dashboard-templates-from-creative-tim/"><u>Expand Your Web Projects with Premium 3+ Flask Admin & Dashboard Templates From Creative Tim</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/game-ahead-the-ultimate-list-of-premier-gba-emulator-programs/"><u>Game Ahead The Ultimate List of Premier GBA Emulator Programs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-and-hype-perfecting-film-teaser-tunes-for-2024/"><u>Harmony and Hype Perfecting Film Teaser Tunes for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-8-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 8 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-k11x-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo K11x to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focused-frames-eliminating-jitterbugs/"><u>In 2024, Focused Frames Eliminating Jitterbugs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-front-seat-pleasures-not-so-sporty-top-ten/"><u>In 2024, Front Seat Pleasures Not So Sporty Top Ten</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-camcorders-for-high-definition-podcasts/"><u>In 2024, Ideal Camcorders for High-Definition Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-mobile-file-exchange-in-ios/"><u>In 2024, In-Depth Guide to Mobile File Exchange in iOS</u></a></li>
 </ul></div>
 

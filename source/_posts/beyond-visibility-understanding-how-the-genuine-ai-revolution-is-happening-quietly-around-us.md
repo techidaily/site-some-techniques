@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-11-07T07:52:35.536Z
-updated: 2024-11-13T11:43:23.552Z
+date: 2024-11-09T21:59:04.843Z
+updated: 2024-11-13T22:50:49.421Z
 tags:
   - mobile
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -56,10 +56,10 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -87,18 +87,22 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-list-of-free-user-friendly-editing-apps/"><u>[New] 2024 Approved The Ultimate List of Free, User-Friendly Editing Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exceptional-phones-topping-list-for-high-definition-video/"><u>[New] Exceptional Phones Topping List for High Definition Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-synopsis-gopro-slr4-sliver-camera-review/"><u>[New] In-Depth Synopsis GoPro SLR4 Sliver Camera Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-five-fantastic-iphones-for-podcast-fans/"><u>[Updated] Five Fantastic iPhones for Podcast Fans</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-mastering-av1-coders/"><u>2024 Approved First Steps in Mastering AV1 Coders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-joyful-account-access-instructions/"><u>2024 Approved Joyful Account Access Instructions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>2024 Approved Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/borderlands-3-stuck-easy-fixes-to-revive-your-epic-gaming-experience/"><u>Borderlands 3 Stuck? Easy Fixes to Revive Your Epic Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-guide-for-effective-text-overlays-on-images-for-2024/"><u>Expertise Guide for Effective Text Overlays on Images for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-fakes-exposed-what-to-avoid/"><u>GPT Fakes Exposed: What to Avoid</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-x-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone X</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-value-in-cheap-gopro-sales-online/"><u>In 2024, Finding Value in Cheap GoPro Sales Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fading-flourishes-invisible-audio-adjustments-in-garageband/"><u>[New] Fading Flourishes Invisible Audio Adjustments in Garageband</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-font-fusion-merging-style-and-content-in-after-effects/"><u>[New] Font Fusion Merging Style & Content in After Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-prepared-for-macos-11-big-sur-upgrade/"><u>[New] Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>[New] Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-streamline-your-video-search-on-facebook-tips-and-tricks/"><u>[New] Streamline Your Video Search on Facebook (Tips & Tricks)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>[Updated] Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-formulating-flashy-podcast-moments/"><u>[Updated] Formulating Flashy Podcast Moments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-10-virtual-photo-backdrop-modifiers/"><u>[Updated] Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>[Updated] In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diskpart-un-paso-a-paso-para-deshacerte-de-las-particiones-de-su-computadora-metodos-y-consejos-completos/"><u>Diskpart: Un Paso a Paso Para Deshacerte De Las Particiones De Su Computadora - Métodos Y Consejos Completos</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-store-top-10-crucial-apps/"><u>Essential Windows Store: Top 10 Crucial Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-cluttered-canvases-to-crystal-clear-captures-using-photopea/"><u>In 2024, From Cluttered Canvases to Crystal Clear Captures Using Photopea</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-navigating-tiktok-profile-updates-with-linktree-integration/"><u>In 2024, Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-enhancing-view-in-roblox-worlds/"><u>In 2024, Step-By-Step Enhancing View in Roblox Worlds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-14-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 14</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed-for-2024/"><u>Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Computer Components: A Buyer’s Guide for Optimal Stable Diffusion Performance"
-date: 2024-11-09T17:31:43.168Z
-updated: 2024-11-12T21:51:25.159Z
+date: 2024-11-07T04:07:43.731Z
+updated: 2024-11-13T19:54:23.086Z
 tags:
   - cutting-edge
 categories:
@@ -18,18 +18,18 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 * [How Much Video Memory (GPU Memory) Do You Need?](https://www.howtogeek.com/853529/hardware-for-stable-diffusion/#how-much-video-memory-gpu-memory-do-you-need)
 * [Should You Use an Optimized Fork of Stable Diffusion?](https://smart-video-editing.techidaily.com/sam-altman-steps-down-as-openais-ceo-implications-for-the-future-of-chatgpt/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  You'll need a PC with a modern AMD or Intel processor, 16 gigabytes of RAM, an NVIDIA RTX GPU with 8 gigabytes of memory, and a minimum of 10 gigabytes of free storage space available. A GPU with more memory will be able to generate larger images without requiring upscaling.
 
  Stable Diffusion is a popular AI-powered image generator that you can run on your own PC. But what are the minimum specs to run Stable Diffusion, and what components matter the most?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What PC Hardware Does Stable Diffusion Require?
 
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 Related: [How to Run Stable Diffusion on Your PC to Generate AI Images](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Kind of Graphics Card (GPU) Do You Need to Run Stable Diffusion?
@@ -69,13 +69,6 @@ Related: [How to Check What Graphics Card (GPU) Is in Your PC](https://snapchat-
 
  Try to buy the newest GPU you can. Any of the 20, 30, or 40-series GPUs with 8 gigabytes of memory from NVIDIA will work, but older GPUs --- even with the same amount of [video RAM (VRAM)](https://extra-support.techidaily.com/new-premium-selection-of-apple-and-android-camera-slow-motion-apps/) \--- will take longer to produce the same size image. If you're building or upgrading a PC specifically with Stable Diffusion in mind, avoid the older RTX 20-series GPUs unless you find a fantastic deal on one, since they're significantly slower.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How Much Video Memory (GPU Memory) Do You Need?
 
  The larger you make your images, the more VRAM Stable Diffusion will use. The **minimum** amount of VRAM you should consider is 8 gigabytes.
@@ -85,6 +78,13 @@ Related: [How to Check What Graphics Card (GPU) Is in Your PC](https://snapchat-
  The [RTX 3060](https://www.amazon.com/s?k=RTX+3060&tag=htg-v2-45q98ad-20&ascsubtag=UUhtgUeUpU203353&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F853529%2Fhardware-for-stable-diffusion%2F&asc%5Fcampaign=Short-Term) is a potential option at a fairly low price point. The RTX 3060 is slower than the [3060 Ti](https://www.amazon.com/s?k=3060+Ti&tag=htg-v2-45q98ad-20&ascsubtag=UUhtgUeUpU203353&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F853529%2Fhardware-for-stable-diffusion%2F&asc%5Fcampaign=Short-Term), however, the RTX 3060 has 12 gigs of VRAM, whereas the 3080 Ti only has 8 gigs. The extra VRAM will really shine in Stable Diffusion, but that comes at the expense of speed and gaming performance.
 
 ![51ClY8eDcpL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51cly8edcpl-_sl500_-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  MSI Gaming GeForce RTX 3060
 
@@ -99,10 +99,10 @@ Related: [Does GPU Memory Matter? How Much VRAM Do You Need?](https://fox-hovers
  Of course, there are all sorts of optimized [forks](https://on-screen-recording.techidaily.com/updated-ultimate-windows-10-camera-software-review-top-10/) that allow you to get away with much less VRAM at the expense of speed, but if you want to be sure it'll work, stick with RTX NVIDIA cards that have at least 8 gigabytes of memory.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Use an Optimized Fork of Stable Diffusion?
@@ -138,22 +138,18 @@ Related: [How to Write an Awesome Stable Diffusion Prompt](https://screen-mirror
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[New] 2024 Approved How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-building-a-solid-foundation-for-great-interviews/"><u>[New] Building A Solid Foundation For Great Interviews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exciting-journeys-in-samsungs-virtual-reality-games/"><u>[New] Exciting Journeys in Samsung's Virtual Reality Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>[New] From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>[New] How to Polish Your TikTok Edits Advanced Strategies for Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-pursuit-of-dreamscapes-vr-travel-unleashed/"><u>[New] In Pursuit of Dreamscapes VR Travel Unleashed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-standard-to-stunning-applying-filters-in-zoom-step-by-step/"><u>[Updated] From Standard to Stunning Applying Filters in Zoom Step-by-Step</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-amateurs-to-experts-kinemasters-step-guide/"><u>2024 Approved From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-improving-sound-speeds-a-guide-for-safe-spotify-use/"><u>2024 Approved Improving Sound Speeds A Guide for Safe Spotify Use</u></a></li>
-<li><a href="https://fox-links.techidaily.com/boosting-visuals-with-photoshops-motion-blur-effect-tutorial/"><u>Boosting Visuals with Photoshop's Motion Blur Effect Tutorial</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/disabling-youtubes-quick-video-peek-feature/"><u>Disabling YouTube's Quick Video Peek Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-tips-for-captivating-portrait-masterpieces/"><u>In 2024, HDR Tips for Captivating Portrait Masterpieces</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-game-freezing-glitches-expert-advice-on-rectifying-ring-of-elysium-crash-errors/"><u>Overcome Game Freezing Glitches: Expert Advice on Rectifying Ring of Elysium Crash Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-poco-m6-pro-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/rhythms-companion-finding-premium-club-vids-for-2024/"><u>Rhythm's Companion Finding Premium Club Vids for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-notch-services-for-converting-video-subtitles-into-multiple-languages/"><u>Top-Notch Services for Converting Video Subtitles Into Multiple Languages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-creative-expression-master-device-based-filters-and-effects-for-2024/"><u>Unlock Creative Expression Master Device-Based Filters and Effects for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-a-successful-live-stream/"><u>[New] How to Create A Successful Live Stream</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimizing-remote-team-meetings-with-skype-screen-sharing/"><u>[New] In 2024, Optimizing Remote Team Meetings with Skype Screen Sharing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-tactics-for-cutting-edge-macro-video-creation/"><u>[New] Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unveiling-windows-media-seamless-cd-extraction/"><u>[New] Unveiling Windows Media Seamless CD Extraction</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-zoom-transformation-best-techniques-for-screen-recording-for-2024/"><u>[New] Zoom Transformation Best Techniques for Screen Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-hues-from-textbooks-to-canvas/"><u>[Updated] Exploring Hues From Textbooks to Canvas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-vivacut-the-full-2024-video-editing-review/"><u>[Updated] Exploring VivaCut The Full 2024 Video Editing Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-content-game-strategic-use-of-igtv-hashtags-for-2024/"><u>Elevating Your Content Game Strategic Use of IGTV Hashtags for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-endurance-lenovos-thinkpad-t14s-with-remarkable-29-hour-battery-life/"><u>Experience Unmatched Endurance: Lenovo's ThinkPad T14s with Remarkable 29-Hour Battery Life</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g14-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G14</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/pinpointing-the-perfect-stream-tagline-for-you-on-tiktok-for-2024/"><u>Pinpointing the Perfect Stream Tagline for You on TikTok for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
 

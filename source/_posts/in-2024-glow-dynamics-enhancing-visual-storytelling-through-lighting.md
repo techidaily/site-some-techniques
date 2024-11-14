@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Glow Dynamics  Enhancing Visual Storytelling Through Lighting\""
-date: 2024-07-26T16:23:27.003Z
-updated: 2024-07-27T16:23:27.003Z
+date: 2024-11-09T03:18:48.322Z
+updated: 2024-11-14T00:35:09.647Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -49,29 +46,18 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -98,9 +84,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -110,17 +93,12 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -153,7 +131,19 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-professional-mobile-photography-strategies/"><u>[New] 2024 Approved Professional Mobile Photography Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopros-best-underwater-enhancement-filters/"><u>[New] GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incor-writes-photo-kinetic-vibrance/"><u>[New] Incor Writes Photo Kinetic Vibrance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-laptop-techniques-for-instantaneous-video-communication-through-whatsapp-web/"><u>[New] Laptop Techniques for Instantaneous Video Communication Through WhatsApp Web</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beginner-friendly-guide-to-iphone-screen-recordings/"><u>[Updated] Beginner-Friendly Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices/"><u>[Updated] Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-avoid-and-reverse-strikes-on-your-youtube-account/"><u>[Updated] How to Avoid and Reverse Strikes on Your YouTube Account</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-clear-vision-through-stillness-control/"><u>2024 Approved Clear Vision Through Stillness Control</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-health-management-with-chatgpt-discover-these-9-game-changing-approaches/"><u>Elevate Health Management with ChatGPT: Discover These 9 Game-Changing Approaches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-basics-to-brilliance-implementing-chatgpt-across-all-aspects-of-life/"><u>From Basics to Brilliance: Implementing ChatGPT Across All Aspects of Life</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-slow-motion-pro-tips-for-gopro-hero-10-users-for-2024/"><u>Harnessing the Power of Slow Motion Pro Tips for GoPro Hero 10 Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>In 2024, From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
+</ul></div>
 

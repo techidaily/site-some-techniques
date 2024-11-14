@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-11-07T06:15:23.583Z
-updated: 2024-11-13T07:39:37.660Z
+date: 2024-11-08T20:40:39.208Z
+updated: 2024-11-13T23:09:45.283Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,10 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -65,10 +65,10 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -88,16 +88,10 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -121,10 +115,10 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -154,22 +148,14 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fast-flicker-fun-prime-speedy-software-for-systems/"><u>[New] Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-excellent-video-production-experts/"><u>[New] Identifying Excellent Video Production Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-imagepurityplus-professional-photo-editing-suite/"><u>[New] ImagePurityPlus Professional Photo Editing Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incorporating-secondary-footage-a-filmmakers-guide/"><u>[New] Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-inside-the-latest-youtube-income-regulations/"><u>[New] Inside the Latest YouTube Income Regulations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-4k-perfection-selecting-youtubes-best-video-tools/"><u>[Updated] 4K Perfection Selecting YouTube's Best Video Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>[Updated] FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-services-uniting-your-musical-lists/"><u>[Updated] Harmonizing Services Uniting Your Musical Lists</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-more-than-just-likes-decoding-the-secrets-to-youtube-views/"><u>[Updated] In 2024, More than Just Likes Decoding the Secrets to YouTube Views</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-iphone-training-from-high-speed-videos-to-sluggish-movements/"><u>2024 Approved In-Depth iPhone Training From High Speed Videos to Sluggish Movements</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-itel-s23-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Itel S23.</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/breaking-free-from-fb-shadowban-top-10-strategies-for-2024/"><u>Breaking Free From FB Shadowban Top 10 Strategies for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-hassles-resolving-issues-with-my-ipad-and-printer-pairing/"><u>Connecting Hassles: Resolving Issues with My iPad and Printer Pairing</u></a></li>
-<li><a href="https://fox-within.techidaily.com/esegui-il-ripristino-di-windows-10-in-4-metodi-semplici-e-efficaci-con-una-chiave-flash-usb/"><u>Esegui Il Ripristino Di Windows 10 in 4 Metodi Semplici E Efficaci Con Una Chiave Flash USB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/express-gratitude-free-endings-and-premium-exclusives-for-2024/"><u>Express Gratitude Free Endings & Premium Exclusives for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-7-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 7 in Lost Mode</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements/"><u>[New] Elevate Farming Fun with These Top 7 Stardew Valley Enhancements</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pixelpilot-w11-lightweight-screenshot-and-recording-app-for-2024/"><u>[New] PixelPilot W11 Lightweight Screenshot & Recording App for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-monetization-showdown-dailymotion-vs-youtubes-financial-gains/"><u>2024 Approved Video Monetization Showdown Dailymotion vs Youtube's Financial Gains</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-innovates-with-advanced-techniques-for-document-categorization/"><u>ABBYY Innovates with Advanced Techniques for Document Categorization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-umfrage-zeigt-erfolgreiche-anwendung-automatisierender-technologien-in-94-deutscher-unternehmen/"><u>ABBYY Umfrage Zeigt: Erfolgreiche Anwendung Automatisierender Technologien in 94% Deutscher Unternehmen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/accelerate-payments-at-metro-ag-firms-with-wholesale-clients-up-to-90-faster/"><u>Accelerate Payments at Metro AG Firms with Wholesale Clients - Up to 90% Faster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/advancing-your-website-with-powerful-cookiebot-tools/"><u>Advancing Your Website with Powerful Cookiebot Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-overcome-chromes-video-troubles-in-seconds/"><u>In 2024, Overcome Chrome's Video Troubles in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 15 Pro Max</u></a></li>
 </ul></div>
 

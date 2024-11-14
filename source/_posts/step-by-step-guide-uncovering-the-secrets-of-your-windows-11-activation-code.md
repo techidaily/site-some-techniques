@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Uncovering the Secrets of Your Windows 11 Activation Code"
-date: 2024-11-08T19:22:08.944Z
-updated: 2024-11-13T07:51:35.061Z
+date: 2024-11-11T16:28:17.735Z
+updated: 2024-11-14T04:31:29.336Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 * [Find an OEM Product Key With Command Prompt](https://facebook-videos.techidaily.com/2024-approved-beam-your-best-achieving-hd-quality-with-fb-live/)
 * [Show a Retail Product Key Using ShowKeyPlus](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To find your Windows 11 OEM product key, open Command Prompt or PowerShell as administrator, then enter: **wmic path softwarelicensingservice get OA3xOriginalProductKey**
@@ -33,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  Windows 11 uses a product key to ensure your OS is genuine—in other words, not pirated. You can find the product key in use on your PC, which is particularly useful if you bought Windows yourself and need to reinstall it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is a Windows Product Key?
@@ -65,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![Command prompt displaying key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Right_Size_Console-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Show a Retail Product Key Using ShowKeyPlus
 
  If you purchased and installed Windows yourself, [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv) is a good way to find your product key. ShowKeyPlus is a free application available on the Microsoft Store.
@@ -80,24 +66,38 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![In start menu, type "Microsoft Store", then click open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-09_12h19_00.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the Microsoft Store is open, go to the top of the page and enter **ShowKeyPlus** into the search bar, and hit enter.
 
 !["ShowKeyPlus" in a red box in the search bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/IntoMicrosoft-store.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the ShowKeyPlus app page, click "Install." Once it is done installing, the "Install" button will change into an "Open" button. Click "Open."
 
 ![Click install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Points_To_Install.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ShowKeyPlus displays the currently installed key and the OEM key.
 
 ![ShowKeyPlus Image1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ShowKeyPlus-Image1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're using an OEM copy of Windows 11, both the green and blue boxes display your product key. If you installed a version of Windows 11 you purchased yourself, the green box is the key currently in use.
 
@@ -120,20 +120,24 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>[New] 2024 Approved Unveiling Prime HDR Cameras A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-designs-in-syma-x8c/"><u>[New] Innovative Designs in Syma X8C</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optibackup-insider-opinions/"><u>[Updated] 2024 Approved OptiBackup Insider Opinions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-5-steps-to-transform-your-photos-hues-right-away-for-2024/"><u>[Updated] 5 Steps to Transform Your Photo's Hues Right Away for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-a-closer-look-at-google-meet-participants/"><u>[Updated] Expert Tips for a Closer Look at Google Meet Participants</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fabricate-personalized-viral-memes/"><u>[Updated] Fabricate Personalized Viral Memes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ensuring-privacy-when-documenting-whatsapp-voice-calls/"><u>[Updated] In 2024, Ensuring Privacy When Documenting WhatsApp Voice Calls</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-easel-alterations-color-command/"><u>2024 Approved Expertise in Easel Alterations - Color Command</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-to-dominate-kinemaster-and-identify-top-online-video-services/"><u>In 2024, Expert Tips to Dominate KineMaster & Identify Top Online Video Services</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-storyboard-to-screenplay-filmmaking-essentials/"><u>In 2024, From Storyboard to Screenplay Filmmaking Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-filmmaking-mastering-imovie-audio/"><u>In 2024, Harmonious Filmmaking Mastering iMovie Audio</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-infinix-note-30-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Infinix Note 30 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-up-the-status-quo-unique-naming-tips-for-filmmakers/"><u>Shaking Up the Status Quo Unique Naming Tips for Filmmakers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-made-easy-start-genshin-impact-without-a-hitch/"><u>Troubleshooting Made Easy: Start Genshin Impact Without a Hitch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-behind-facebooks-newly-named-metas-ai-endeavors/"><u>Unveiling the Secrets Behind Facebook's Newly Named Meta's AI Endeavors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pages-to-production-creating-a-movie-blueprint/"><u>[New] From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-stories-unseen-aspects-revealed-for-2024/"><u>[New] Instagram Stories Unseen Aspects Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[Updated] From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-windows-tunes-hub/"><u>[Updated] Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-collage-concepts-lighting-up-your-life/"><u>[Updated] Innovative Collage Concepts Lighting Up Your Life</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mysteries-of-firefoxs-pip-mode/"><u>[Updated] Unveiling the Mysteries of Firefox’s PIP Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-virtual-reality-terms-you-should-know/"><u>[Updated] Virtual Reality Terms You Should Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-masterful-strategies-for-saving-lol-rounds/"><u>2024 Approved Masterful Strategies for Saving LOL Rounds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-14-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 14 Pro Max iCloud Activation Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/exclusive-tools-to-elevate-your-horizontal-and-vertical-igtv-posts/"><u>Exclusive Tools to Elevate Your Horizontal and Vertical IGTV Posts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heaviest-heroes-in-the-air-drone-power-list-for-2024/"><u>Heaviest Heroes in the Air Drone Power List for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-to-epic-iphones-best-landscape-tricks/"><u>In 2024, From Ordinary to Epic IPhone's Best Landscape Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-maximizing-apple-podcast-listing-chances/"><u>In 2024, Guide Maximizing Apple Podcast Listing Chances</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-cutzone-pro-review-unveiled/"><u>In 2024, In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initial-steps-to-master-the-art-of-pixel-mapping/"><u>In 2024, Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-the-art-of-self-talk-in-online-videos-for-2024/"><u>Mastering the Art of Self-Talk in Online Videos for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/power-and-portability-combined-in-depth-look-at-the-hp-zbook-firefly-15-g8-review/"><u>Power & Portability Combined: In-Depth Look at the HP ZBook Firefly 15 G8 Review</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamless-steps-for-cloning-a-dynamic-disk-under-windows-7/"><u>Seamless Steps for Cloning a Dynamic Disk Under Windows 7</u></a></li>
 </ul></div>
 

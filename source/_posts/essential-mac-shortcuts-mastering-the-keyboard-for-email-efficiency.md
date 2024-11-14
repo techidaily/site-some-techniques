@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-11-10T00:29:51.858Z
-updated: 2024-11-12T19:45:02.388Z
+date: 2024-11-10T19:05:35.380Z
+updated: 2024-11-13T18:56:18.547Z
 tags:
   - desktop
 categories:
@@ -20,16 +20,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
@@ -39,10 +33,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
@@ -50,10 +44,16 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  Mark as Read/Unread (Command+Shift+U) 
@@ -61,10 +61,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
@@ -102,17 +102,16 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-21-edition-synopsis-unraveling-the-future-of-online-betting-with-vegas-pro/"><u>[New] '21 Edition Synopsis – Unraveling the Future of Online Betting with Vegas Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>[New] Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-multiplatform-iptv-encoding/"><u>[New] Multiplatform IPTV Encoding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-hdr-tvs-does-aurora-hit-the-mark/"><u>[Updated] Evaluating HDR TVs Does Aurora Hit the Mark?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-essential-checklist-for-syncing-obs-and-zoom/"><u>[Updated] The Essential Checklist for Syncing OBS & Zoom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-music-migration-from-one-service-to-another-for-2024/"><u>Harmonizing Music Migration From One Service to Another for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-add-motion-blur-to-face-with-picsart-for-2024/"><u>How to Add Motion Blur to Face with Picsart for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Phone that is Locked?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>In 2024, Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Passcode without Computer?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-blue-screen-of-death-caused-by-faulty-usb-drivers-in-windows-10/"><u>Step-by-Step Guide: Fixing the Blue Screen of Death Caused by Faulty USB Drivers in Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-easy-microsoft-driver-setup-and-updates-on-windows-versions-11-8-and-7/"><u>Step-by-Step Tutorial for Easy Microsoft Driver Setup and Updates on Windows Versions: 11, 8 & 7</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-inside-track-on-calculating-your-youtube-impact-and-income/"><u>[New] In 2024, Inside Track on Calculating Your YouTube Impact and Income</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ppt-presentations-merging-audio-and-imagery-fluently-for-2024/"><u>[New] PPT Presentations Merging Audio & Imagery Fluently for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x9a-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X9a</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automated-with-cookiebot-the-secret-behind-our-dynamic-website/"><u>Automated with Cookiebot: The Secret Behind Our Dynamic Website!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-website-traffic-with-lead-generation-introducing-cookiebot-powered-solutions/"><u>Boost Your Website Traffic with Lead Generation: Introducing Cookiebot-Powered Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comment-nickel-utilise-abbyy-pour-stimuler-sa-developpement-au-marche-francais/"><u>Comment Nickel Utilise ABBYY Pour Stimuler Sa Développement Au Marché Français</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-site-optimization-enhance-your-websites-traffic-and-conversions/"><u>Cookiebot-Driven Site Optimization: Enhance Your Website's Traffic and Conversions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-photoshoots-select-your-ideal-background-viewer/"><u>Elevate Photoshoots Select Your Ideal Background Viewer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On OnePlus 12R without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-purchasing-early-access-games-isnt-a-guarantee-of-quality-gaming-experience/"><u>Why Purchasing Early Access Games Isn't a Guarantee of Quality Gaming Experience</u></a></li>
 </ul></div>
 

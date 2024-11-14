@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2024-11-07T23:08:59.975Z
-updated: 2024-11-12T21:55:20.105Z
+date: 2024-11-07T05:02:55.516Z
+updated: 2024-11-13T16:29:22.046Z
 tags:
   - deals
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -37,6 +30,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -57,10 +57,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -74,23 +74,10 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -110,6 +97,13 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -132,18 +126,15 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xquisite-film-series-selection-youtube-edition/"><u>[New] Exquisite Film Series Selection - YouTube Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-cutting-edge-creatives-on-your-feed/"><u>[Updated] 2024 Approved The Cutting-Edge Creatives on Your Feed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-video-magic-top-5-effect-tools/"><u>[Updated] Free Video Magic Top 5 Effect Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>2024 Approved Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-hue-harmonizer-tool/"><u>2024 Approved Ultimate Hue Harmonizer Tool</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 12 to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-visual-narratives-with-the-leading-frames/"><u>In 2024, Crafting Visual Narratives with the Leading Frames</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-hidden-depths-of-canvas-photo-editor/"><u>In 2024, Explore the Hidden Depths of Canva's Photo Editor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-meme-makers-the-ultimate-resource-guide/"><u>In 2024, Free Meme Makers – The Ultimate Resource Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-spark-go-2023-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Spark Go (2023) Phone Now with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996361045-troubleshooting-tips-for-launch-problems-in-overwatch-conquering-the-ominous-black-screen/"><u>Troubleshooting Tips for Launch Problems in Overwatch - Conquering the Ominous Black Screen!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-5-underwater-gopro-accessories-for-2024/"><u>[New] Top 5 Underwater Gopro Accessories for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-the-prime-10-websites-for-photo-acquisition-without-expense/"><u>[Updated] Guide to the Prime 10 Websites for Photo Acquisition Without Expense</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-acquiring-and-refreshing-driver-software-for-epson-et-3760-with-windows-os/"><u>Comprehensive Guide: Acquiring and Refreshing Driver Software for Epson ET-3760 with Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-media-magic-an-in-depth-analysis-of-magix-vpx-for-2024/"><u>Exploring Media Magic An In-Depth Analysis of Magix VPX for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-oceans-anew-top-camcorders-for-divers-and-snorkelers/"><u>In 2024, Explore Oceans Anew - Top Camcorders for Divers & Snorkelers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-image-perfection-at-your-fingertips/"><u>In 2024, Free Online Image Perfection at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-timeless-tales-in-tone-on-tone-to-dynamic-digital-narratives/"><u>In 2024, From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selective-sharpening-tips-for-modern-image-editors/"><u>In 2024, Selective Sharpening Tips for Modern Image Editors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-japanese-top-online-and-cost-free-learning-tools/"><u>Mastering Japanese: Top Online & Cost-Free Learning Tools</u></a></li>
 </ul></div>
 

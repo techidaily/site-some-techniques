@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-11-10T19:16:54.718Z
-updated: 2024-11-13T13:06:05.100Z
+date: 2024-11-08T18:09:12.758Z
+updated: 2024-11-13T22:36:13.400Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on an Intel Mac with a T2 Security Chip](https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-messages/)
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The SMC manages hardware functions like power, charging, and fans even when the Mac is off.
@@ -25,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * Apple Silicon Macs don't have a separate SMC; rebooting is equivalent to an SMC reset.
 
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is an SMC, and What Does It Do?
 
@@ -37,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Apple Silicon Mac
@@ -56,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
@@ -67,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  On Intel MacBooks with the T2 chip, which means most models from 2018 or later, Apple recommends an extra step before resetting the SMC. Shut down your Mac and press and hold the power button for 10 seconds. Wait a few extra seconds and then turn your Mac back on to see if the problem has been fixed.
 
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -92,13 +93,6 @@ Hannah Stryker / How-To Geek
  On older Intel MacBooks from earlier than 2018, you reset the SMC by using a different combination of key presses. Start by shutting down the Mac.
 
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -132,24 +126,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-improving-frame-rate-in-warped-web-videos/"><u>[New] Improving Frame Rate in Warped Web Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fostering-flourishing-visuals-with-after-effects-fonts/"><u>[Updated] Fostering Flourishing Visuals with After Effects Fonts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-safely-access-publicly-recorded-c-span-content/"><u>[Updated] How to Safely Access Publicly Recorded C-Span Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-inventory-visualization/"><u>[Updated] Immersive Inventory Visualization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-meme-template-toolkit/"><u>[Updated] The Essential Meme Template Toolkit</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-digital-destinations-for-text-overlays-for-2024/"><u>[Updated] Ultimate Digital Destinations for Text Overlays for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-decoding-battery-selection-elevate-your-drones-flight/"><u>2024 Approved Decoding Battery Selection Elevate Your Drone's Flight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-testimonials-for-genuine-brand-connection/"><u>2024 Approved Harnessing Testimonials for Genuine Brand Connection</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>2024 Approved Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
-<li><a href="https://games-able.techidaily.com/compile-of-engaging-games-for-universal-player-partnerships/"><u>Compile of Engaging Games for Universal Player Partnerships</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-chromes-full-screen-multitasking-capabilities-for-2024/"><u>Explore Chrome's Full-Screen Multitasking Capabilities for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/fortify-your-digital-footprint-on-facebook-fb-with-these-7-measures/"><u>Fortify Your Digital Footprint on Facebook (FB) with These 7 Measures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-darkroom-to-digital-mastering-modern-grading-techniques-for-2024/"><u>From Darkroom to Digital Mastering Modern Grading Techniques for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-the-finest-fee-free-streamers-and-tools/"><u>In 2024, Expert Recommendations The Finest, Fee-Free Streamers and Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-framing-speed-the-hyperlapse-video-methods/"><u>In 2024, Framing Speed The Hyperlapse Video Methods</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-computer-security-securing-your-pc-in-five-ways-on-windows/"><u>Mastering Computer Security: Securing Your PC in Five Ways on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tuneful-transmissions-integrating-audio-with-statuses/"><u>Tuneful Transmissions Integrating Audio with Statuses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-gamers-should-prioritize-dxvk-in-their-win-based-setup/"><u>Why Gamers Should Prioritize DXVK in Their Win-Based Setup?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-the-process-of-writing-youtube-video-content/"><u>[New] 2024 Approved Demystifying the Process of Writing YouTube Video Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-world-through-ultra-hd-with-leading-mirrorless-cams/"><u>[New] Explore the World Through Ultra-HD with Leading Mirrorless Cams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-prices-on-vr-headsets-from-china/"><u>[New] Finding the Best Prices on VR Headsets From China</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-time-travel-teleportation-effects/"><u>[New] How to Create Time Travel Teleportation Effects?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006462885-solved-obs-crashing-on-windows-1110-2024/"><u>[SOLVED] OBS Crashing on Windows 11/10 - 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-5-tools-for-capturing-facebook-live-videos/"><u>[Updated] 2024 Approved Top 5 Tools for Capturing Facebook Live Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-five-ideas-of-winter-youtube-background-to-warm-up-your-videos/"><u>[Updated] Five Ideas of Winter YouTube Background to Warm Up Your Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-step-forward-leveraging-live-talks-in-the-instagram-world/"><u>[Updated] In 2024, Step Forward Leveraging Live Talks in the Instagram World</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-comprehensive-guide-to-effective-screen-recording/"><u>[Updated] In 2024, The Comprehensive Guide to Effective Screen Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-proven-methods-for-captivating-title-creation-for-2024/"><u>[Updated] Proven Methods for Captivating Title Creation for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-unable-to-open-due-to-unverified-developer-on-your-macbook/"><u>Fixing 'Unable to Open Due to Unverified Developer' On Your MacBook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-viewing-at-home-with-eizos-4k-display-for-2024/"><u>High-Fidelity Viewing at Home with EIZO's 4K Display for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-agni-2-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Agni 2 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-free-passport-picture-creation-services-online/"><u>In 2024, Explore the Best Free Passport Picture Creation Services Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-best-online-subtitle-converters-for-no-cost/"><u>In 2024, Find the Best Online Subtitle Converters for No Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flick-retrospective-the-goofy-movie-edition-revisited/"><u>In 2024, Flick Retrospective The 'Goofy Movie' Edition Revisited</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highest-rated-20-public-domain-pubg-combos/"><u>In 2024, Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-virtual-screenscapes-for-streamers/"><u>In 2024, Ideal Virtual Screenscapes for Streamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-steal-on-prime-day-with-blinks-affordable-video-doorbell-for-30-a-must-have-upgrade-for-any-smart-household/"><u>Score a Steal on Prime Day with Blink's Affordable Video Doorbell for $30 – A Must-Have Upgrade for Any Smart Household!</u></a></li>
 </ul></div>
 

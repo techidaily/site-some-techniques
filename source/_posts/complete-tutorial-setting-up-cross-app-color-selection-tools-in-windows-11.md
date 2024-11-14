@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11"
-date: 2024-11-07T06:48:49.760Z
-updated: 2024-11-13T04:23:41.774Z
+date: 2024-11-11T00:19:39.244Z
+updated: 2024-11-13T17:13:09.676Z
 tags:
   - deals
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
  Need to figure out a color quickly? Using [Microsoft's free PowerToys utility for Windows 10](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/), you can instantly bring up a color picker with a keyboard shortcut and use your mouse cursor to identify any color on screen in hex, RGB, or HSL format. Here's how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Install PowerToys and Enable Color Picker
 
  To use Microsoft's handy system-wide color picker, you'll need to [download PowerToys](https://github.com/microsoft/PowerToys/releases/) from Microsoft's website first. You'll find the latest release listed toward the top of the download page linked above. Download an EXE file such as "PowerToysSetup-0.78-x64.exe" (The name will vary based on the latest release.) and run it.
@@ -34,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
 
 ![Ensure the PowerToys color picker is enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/power-toy-color-picker.png) 
@@ -41,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
  By default, you'll use Windows+Shift+C to activate the color picker. You can change this keyboard shortcut to your preferred one from this screen, if you like.
 
  Next, close PowerToys and get ready to grab some colors. The PowerToys Settings app does not need to be running for Color Picker to work.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Activate Color Picker With a Keyboard Shortcut
 
@@ -59,16 +66,16 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, you can adjust the color value you just selected within Color Picker by clicking the center of the large color bar near the top of the window.
 
@@ -78,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![The Color Picker color adjustment window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_adjust_window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you're done, click "OK," and then the color will be added to your saved color palette, which is the vertical column of boxes along the left side of the window. If you need to remove a color from the palette on the side of the window, right-click the color square and select "Remove."
 
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
@@ -119,24 +119,22 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-snapsnatcher-live-stream-repository/"><u>[New] 2024 Approved SnapSnatcher - Live Stream Repository</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-freezing-fun-at-the-beijing-olympics-2022/"><u>[New] Freezing Fun at the Beijing Olympics 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-shoot-a-green-screen-video-must-know-tips-and-tricks/"><u>[New] How to Shoot a Green Screen Video [Must Know Tips & Tricks]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-text-treatments-elevating-ae-titles/"><u>[New] Innovative Text Treatments Elevating AE Titles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-steps-for-recording-on-facebook-live-for-2024/"><u>[Updated] Essential Steps for Recording on Facebook Live for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-editing-battle-is-hero-series-better-than-the-cube/"><u>[Updated] Face-Editing Battle Is Hero Series Better Than The Cube?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frame-rate-conversion-20mb-video-specs/"><u>[Updated] Frame Rate Conversion 20MB Video Specs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-key-aspects-of-creating-animated-visual-narratives/"><u>[Updated] In 2024, Key Aspects of Creating Animated Visual Narratives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shine-bright-easy-brightening-for-iphones-visual-content/"><u>[Updated] Shine Bright Easy Brightening for iPhone's Visual Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-concentration-in-photos-with-insta-zoom-tricks/"><u>2024 Approved Crafting Concentration in Photos with Insta Zoom Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-field-gear-vs-lgcam-comparison-for-2024/"><u>Exploring the Field Gear vs LGCam Comparison for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-counter-strike-2-microphone-troubleshooting-guide/"><u>Fixing the Issue: Counter-Strike 2 Microphone Troubleshooting Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-auditory-theatre-writing/"><u>In 2024, Excellence in Auditory Theatre Writing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-filmora-fusion-a-comprehensible-comparative-guide/"><u>In 2024, Filmora Fusion A Comprehensible Comparative Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-performance-drones-sold-here/"><u>In 2024, High-Performance Drones Sold Here</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/personalized-car-insurance-rates-based-on-telematics-a-closer-look/"><u>Personalized Car Insurance Rates Based on Telematics: A Closer Look</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-k70-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi K70 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/switching-up-my-audio-game-how-i-traded-in-my-premium-soundbar-for-a-jbl-a-pleasant-surprise-zdnet/"><u>Switching Up My Audio Game: How I Traded In My Premium Soundbar for a JBL - A Pleasant Surprise! | ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-strategies-for-higher-youtube-shorts-revenue-for-2024/"><u>[New] Expert Strategies for Higher YouTube Shorts Revenue for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>[New] Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes/"><u>[New] Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giggle-generation-top-ten-templates-for-viral-effect/"><u>[New] Giggle Generation Top Ten Templates for Viral Effect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>[New] Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-haven-the-ultimate-list-of-event-specific-jokes/"><u>[New] Humor Haven The Ultimate List of Event-Specific Jokes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-enhancing-communication-snap-camera-in-microsoft-teams/"><u>[New] In 2024, Enhancing Communication Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-honing-the-craft-of-question-design-in-interviews/"><u>[Updated] Honing the Craft of Question Design in Interviews</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-depth-guide-to-mobilepcmac-movie-capture-for-2024/"><u>[Updated] In-Depth Guide to Mobile/PC/Mac Movie Capture for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-zoom-presentations-with-stunning-visuals/"><u>[Updated] Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/funniest-punchlines-reddit-vs-twitter-memes/"><u>Funniest Punchlines Reddit Vs. Twitter Memes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209660969-9781547575596-il-tredicesimo-compleanno-di-megan/"><u>Il Tredicesimo Compleanno Di Megan | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-cheers-access-to-free-and-paid-otu-ideas/"><u>In 2024, Heartfelt Cheers Access to Free & Paid OTU Ideas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-embellish-videos-with-melodies-on-iphone-three-free-ways/"><u>In 2024, How to Embellish Videos with Melodies on iPhone – Three Free Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g73-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G73 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/scholarly-streams-10-best-ed-tutorials-yt/"><u>Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
 </ul></div>
 

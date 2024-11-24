@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-11-12T18:01:38.065Z
-updated: 2024-11-13T22:41:48.642Z
+date: 2024-11-18T23:06:35.808Z
+updated: 2024-11-24T02:15:53.956Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you’ve encountered a “This app can't run on your PC” error, the app you’re trying to launch is likely incompatible with your system. There are other reasons this issue occurs, and we’ll show you various ways to fix it on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Review Your Startup App List
 
  If the error occurs at your PC’s startup without you manually launching any app, [review your startup app list](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/) and ensure no unwanted apps are there. A startup app might be launching when your PC boots, causing the problem.
@@ -33,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open the App as an Admin
 
  If the app lacks certain rights, that may be why it displays the above error. In this case, launch the app as an administrator to fix the problem.
@@ -49,20 +46,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use App Compatibility Troubleshooter
 
@@ -73,15 +60,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Activate Developer Mode
 
@@ -90,6 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To activate that mode, launch Settings using Windows+i. In the left sidebar, select "System." On the right pane, choose "For Developers."
 
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-for-developers-windows-11-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Activate the "Developer Mode" option, then choose "Yes" in the prompt.
 
@@ -107,16 +99,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the open prompt, select "Uninstall" to delete the app.
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
 
@@ -145,17 +134,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>2024 Approved Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-complete-breakdown-of-googles-podcast-system/"><u>A Complete Breakdown of Google's Podcast System</u></a></li>
-<li><a href="https://win-blog.techidaily.com/efficient-solutions-for-when-your-epic-games-launcher-keeps-failing-to-open/"><u>Efficient Solutions for When Your Epic Games Launcher Keeps Failing to Open</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-dynamic-content-personalization-via-cookiebot/"><u>Enhanced User Experience with Dynamic Content Personalization via Cookiebot</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-with-advanced-cookie-tracking-technology/"><u>Enhanced with Advanced Cookie Tracking Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-with-cookiebot-technology/"><u>Enhanced with Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-artificial-intelligence-the-synergy-of-abbyy-and-uipath-in-advancing-automation/"><u>Enhancing Artificial Intelligence: The Synergy of ABBYY and UiPath in Advancing Automation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210966120-9781088228036-la-reencarnacion-de-una-reina/"><u>La Reencarnación de una Reina | Free Book</u></a></li>
-<li><a href="https://facebook.techidaily.com/leveraging-visual-appeal-for-social-media-growth/"><u>Leveraging Visual Appeal for Social Media Growth</u></a></li>
-<li><a href="https://blog-min.techidaily.com/navigate-your-digital-files-with-ease-discover-12-quick-tips-to-launch-file-explorer-on-windows-11/"><u>Navigate Your Digital Files with Ease: Discover 12 Quick Tips to Launch File Explorer on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-motorola-edgeplus-2023-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-essential-tips-for-navigating-zoom-meetings-on-win10/"><u>[New] 2024 Approved Essential Tips for Navigating Zoom Meetings on WIN10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-8-premium-websites-for-free-3d-text-psd-files/"><u>[New] Explore the 8 Premium Websites for FREE 3D Text PSD Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-physical-action-review/"><u>[New] Full Spectrum Physical Action Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-carryminati-unmasked-the-monetary-milestones-for-2024/"><u>[Updated] CarryMinati Unmasked The Monetary Milestones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-progressive-volume-reduction-with-logic-pro/"><u>[Updated] Expert Guide to Progressive Volume Reduction with Logic Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>[Updated] Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-15-color-grading-look-ups-for-camcorder/"><u>[Updated] Masterclass 15 Color Grading Look-Ups for Camcorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-base-to-pro-level-gopro-hero5-black-vs-hero4-silver-showdown/"><u>2024 Approved From Base to Pro-Level GoPro Hero5 Black vs Hero4 Silver Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-selection-of-cost-effective-4k-projection-screens/"><u>2024 Approved Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fascinating-film-categories-to-lure-viewers/"><u>In 2024, Fascinating Film Categories to Lure Viewers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ideal-choices-the-very-best-6-video-grabber-tools/"><u>In 2024, Ideal Choices The Very Best 6 Video Grabber Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-tools-in-live-encoding-technology/"><u>In 2024, Innovative Tools in Live Encoding Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-essential-voice-transformers-for-vtuber-success/"><u>In 2024, Top Picks Essential Voice Transformers for VTuber Success</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209542449-9781783253241-intention/"><u>Intention | Free Book</u></a></li>
+<li><a href="https://win-news.techidaily.com/revive-your-windows-computer-a-comprehensive-guide-to-restoring-past-settings/"><u>Revive Your Windows Computer: A Comprehensive Guide to Restoring Past Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-free-streaming-sites-for-movie-enthusiasts/"><u>Top 12 Free Streaming Sites for Movie Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-get-the-chatgpt-ios-application-running-smoothly/"><u>Troubleshooting Guide: How to Get the ChatGPT iOS Application Running Smoothly</u></a></li>
 </ul></div>
 

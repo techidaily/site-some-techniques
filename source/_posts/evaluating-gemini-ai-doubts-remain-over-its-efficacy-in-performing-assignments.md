@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments"
-date: 2024-10-22T16:35:16.531Z
-updated: 2024-10-29T17:02:52.725Z
+date: 2024-11-17T20:41:46.102Z
+updated: 2024-11-23T23:05:12.254Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ---
 
 ## Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
  Google is now trying to push generative AI as a more complete virtual assistant, capable of completing some tasks with minimal or no human intervention. Google Assistant, Siri, and other earlier virtual assistants could handle some basic tasks, like finding a nearby restaurant and starting navigation directions. Google wants to push that even further with its Gemini AI technology, taking over tasks that would normally require human overview and logic processing.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  When Summaries Go Wrong
@@ -41,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ![Conversation with Gemini summarizing 3 different bids for home repair.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-05-14-2024-135913.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Google
@@ -58,16 +56,7 @@ Google
  There have been other attempts at using generative AI to accomplish real-life tasks. OpenTable was one of the first plugins for ChatGPT, potentially allowing you to book dinner reservations through the AI chatbot. You can find [a few reports](https://www.reddit.com/r/ChatGPT/comments/14rn74v/opentable%5Fplugin%5Fproblem/) of that not working, though it’s unclear if the AI or the underlying API integrations are to blame.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don’t Trust It
@@ -91,24 +80,20 @@ Google
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/horeographing-newscast-endings/"><u>[New] Choreographing Newscast Endings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-optimal-facebook-video-downloader-top-5-revealed/"><u>[New] Optimal Facebook Video Downloader Top 5 Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flight-path-perfection-essential-insights-for-drone-racers-and-top-5-models/"><u>[Updated] Flight Path Perfection Essential Insights for Drone Racers & Top 5 Models</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-amateurs-to-experts-kinemasters-step-guide/"><u>[Updated] From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-perfecting-your-igtv-thumbnail-imagery/"><u>[Updated] In 2024, Perfecting Your IGTV Thumbnail Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>2024 Approved Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fotor-pro-advanced-workflow/"><u>2024 Approved Fotor Pro Advanced Workflow</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-does-apples-m1-compare-to-traditional-editing-workstations/"><u>2024 Approved How Does Apple’s M1 Compare to Traditional Editing Workstations?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>2024 Approved Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
-<li><a href="https://article-helps.techidaily.com/entry-level-lenses-reviewed-the-newcomers-choice-2024/"><u>Entry-Level Lenses Reviewed The Newcomer's Choice 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-transforming-videos-using-vida-for-2024/"><u>From Novice to Pro Transforming Videos Using Vida for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers-for-2024/"><u>Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hilarity-unleashed-a-close-look-at-the-goofy-movie-on-vhs/"><u>In 2024, 'Hilarity Unleashed' - A Close Look at The Goofy Movie on VHS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-youtube-harmonies-within-video-sequences/"><u>In 2024, Incorporating YouTube Harmonies Within Video Sequences</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quitting-linkedin-how-to-close-your-account-properly/"><u>Quitting LinkedIn How To Close Your Account Properly</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques-for-2024/"><u>The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-initiate-the-art-of-movie-making-xp-edition/"><u>[New] 2024 Approved Initiate the Art of Movie Making Xp Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ultimate-toolkit-capture-windows-11-displays/"><u>[Updated] 2024 Approved Ultimate Toolkit Capture Windows 11 Displays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-to-screen-zooming-on-microsoft-teams/"><u>2024 Approved Expert Guide to Screen Zooming on Microsoft Teams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>2024 Approved File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>2024 Approved From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-ink-best-captioning-apps-for-photo-enthusiasts-iosandroid/"><u>2024 Approved Image Ink Best Captioning Apps for Photo Enthusiasts (iOS/Android)</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cinque-strategie-per-risolvere-il-dilemma-del-backup-delliphone-infinito/"><u>Cinque Strategie per Risolvere Il Dilemma Del Backup Dell'iPhone Infinito</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-smart-router-buying-choices/"><u>Comprehensive Guide to Smart Router Buying Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-top-stabilized-cameras-for-iphone-android-and-professional-use-for-2024/"><u>Expert's Top Stabilized Cameras for iPhone, Android & Professional Use for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g34-5g-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G34 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-razr-40-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Razr 40 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-def-streaming-cameras-for-social-media-giants/"><u>In 2024, High-Def Streaming Cameras for Social Media Giants</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-honor-90-gt-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Honor 90 GT</u></a></li>
+<li><a href="https://fox-access.techidaily.com/srt-deep-dive-core-principles-and-details-for-2024/"><u>SRT Deep Dive Core Principles and Details for 2024</u></a></li>
 </ul></div>
 

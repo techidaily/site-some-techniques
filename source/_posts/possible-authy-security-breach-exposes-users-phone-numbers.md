@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2024-11-11T22:05:30.927Z
-updated: 2024-11-13T16:13:34.537Z
+date: 2024-11-20T19:28:33.147Z
+updated: 2024-11-24T01:37:48.327Z
 tags:
   - web
 categories:
@@ -38,29 +38,23 @@ Authy is one of the best authentication services out there, as well as one of th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-insight-into-budget-friendly-design-portals/"><u>2024 Approved Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-choice-top-10-video-subtitles-editors-online/"><u>2024 Approved Expert Choice Top 10 Video Subtitles Editors Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fighting-vibration-in-iphone-videos-a-threefold-approach/"><u>2024 Approved Fighting Vibration in iPhone Videos A Threefold Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-exploration-of-theta-s-capabilities/"><u>2024 Approved In-Depth Exploration of Theta S Capabilities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 6 Plus | Stellar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cleaning-hacks-for-the-perfectly-pristine-mechanical-keyboard-experience/"><u>Cleaning Hacks for the Perfectly Pristine Mechanical Keyboard Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-plan-against-windows-update-setback-code-0x800f080a/"><u>Combat Plan Against Windows Update Setback: Code 0X800f080a</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-methods-to-overcome-the-0-stalled-windows-updates/"><u>Effortless Methods to Overcome the 0% Stalled Windows Updates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-hub-free-images-galore-across-the-web-for-2024/"><u>Exclusive Hub Free Images Galore Across the Web for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-roundup-10-essential-cost-free-iphone-selfie-editors-for-2024/"><u>Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-audio-smoothness-for-2024/"><u>Expert Strategies for Audio Smoothness for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-forwarding-fundamentals-a-novices-guide-to-snapchat-for-2024/"><u>Fast Forwarding Fundamentals A Novice's Guide to Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>In 2024, Beam Your Content Upward Perfecting YouTube SEO Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-videos-making-a-statement-on-instagram/"><u>In 2024, YouTube Videos Making a Statement on Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/lava-yuva-2-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/transfert-transparent-du-vieux-serveur-vers-un-nouvel-appareil-guide-completement-revise/"><u>Transfert Transparent Du Vieux Serveur Vers Un Nouvel Appareil - Guide Complètement Révisé</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transforme-seus-arquivos-png-em-jpeg-gratuitamente-online-usando-o-poderoso-conversor-do-movavi/"><u>Transforme Seus Arquivos PNG Em JPEG Gratuitamente Online Usando O Poderoso Conversor Do Movavi!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[New] 2024 Approved From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tune-video-playback-pace-in-instagram-stories/"><u>[New] Fine-Tune Video Playback Pace in Instagram Stories</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-tiktok-self-cloning-a-beginners-roadmap/"><u>[New] In 2024, Mastering TikTok Self-Cloning A Beginner's Roadmap</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[Updated] Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-peak-online-cam-dance-battles/"><u>[Updated] In 2024, Peak Online Cam Dance Battles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-mobile-filmmaking-leading-phones-with-image-stability/"><u>2024 Approved Flawless Mobile Filmmaking Leading Phones with Image Stability</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-download-csr-bluetooth-driver-software-now-online/"><u>Easy-to-Download CSR Bluetooth Driver Software Now Online!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-webm-video-editing-software-top-10-picks/"><u>In 2024, Free WebM Video Editing Software Top 10 Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-leader-mastering-social-media-marketing-smm-in-10-steps/"><u>In 2024, From Novice to Leader Mastering Social Media Marketing (SMM) in 10 Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heard-words-spoken-ideas-no-price/"><u>In 2024, Heard Words, Spoken Ideas – No Price</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamlining-content-tweeting-videos-on-snapchat/"><u>Streamlining Content Tweeting Videos on Snapchat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-audio-glitches-in-re8/"><u>Troubleshooting Common Audio Glitches in RE8</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-11-07T00:46:02.833Z
-updated: 2024-11-13T16:23:18.994Z
+date: 2024-11-22T21:33:57.902Z
+updated: 2024-11-23T20:34:44.876Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,10 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -35,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The result is that even the most powerful APUs out there, such as the Z1 Extreme found in the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), have a sizably lower memory bandwidth compared to modern discrete GPUs, even the bottom-of-the-barrel models such as the AMD Radeon RX 6400\. As an example, the maximum memory bandwidth of the ROG Ally is 51.20GB/s, while the RX 6400 has a maximum bandwidth of 128.0GB/s.
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _AMD_
 
@@ -64,13 +69,6 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
@@ -78,10 +76,7 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -95,10 +90,7 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -132,17 +124,22 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>[New] Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-meme-noob-to-pro-mastering-the-9gag-craft/"><u>[New] In 2024, From Meme Noob to Pro Mastering the 9GAG Craft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-m1s-potential-in-streamlining-editing-tasks/"><u>[Updated] Exploring M1’s Potential in Streamlining Editing Tasks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/access-newest-optimized-realtek-chipset-drivers-available-free-for-your-pc-running-on-windows-10/"><u>Access Newest, Optimized Realtek Chipset Drivers - Available Free for Your PC Running on Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722731632222-discover-why-gamers-love-the-xbox-one-elite-series-2-an-ultimate-gamepad-assessment/"><u>Discover Why Gamers Love the Xbox One Elite Series 2: An Ultimate Gamepad Assessment.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-laptop-cooling-gadget-every-hardcore-tech-enthusiast-must-have-tips-and-reviews-zdnet/"><u>Essential Laptop Cooling Gadget Every Hardcore Tech Enthusiast Must Have: Tips & Reviews - ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/handbrake-and-nvenc-compatibility-enabling-your-gpu-encoder-with-ease/"><u>HandBrake and NVENC Compatibility - Enabling Your GPU Encoder with Ease</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hacky-podcast-transmission-tactic/"><u>In 2024, Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-picture-in-picture-in-browsing-with-edge/"><u>In 2024, Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-through-bendy-brilliance-and-shortcomings-an-in-depth-look-at-the-lenovo-thinkpad-x1-fold/"><u>Navigating Through Bendy Brilliance and Shortcomings: An In-Depth Look at the Lenovo ThinkPad X1 Fold</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-free-avi-merger-tools-combine-avi-videos-with-ease/"><u>New In 2024, Best Free AVI Merger Tools Combine AVI Videos with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-how-to-create-meme-with-kinemaster/"><u>[New] How to Create Meme with KineMaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-imagemagick-studio-walkthrough/"><u>[New] ImageMagick Studio Walkthrough</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo-for-2024/"><u>[New] The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giggle-grove-memetic-magic-for-all-ages/"><u>[Updated] Giggle Grove Memetic Magic for All Ages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovating-visual-stories-mastering-photo-distortions-in-ps/"><u>[Updated] Innovating Visual Stories Mastering Photo Distortions in PS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-image-transformation-hacks/"><u>[Updated] Innovative Image Transformation Hacks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/11-proven-steps-to-amplify-your-fb-video-campaigns/"><u>11 Proven Steps to Amplify Your FB Video Campaigns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-and-easy-10-high-resolution-passport-portraits-for-desktopweb-use/"><u>2024 Approved Fast & Easy 10 High-Resolution Passport Portraits for Desktop/Web Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tune-focus-effective-minecraft-zooming-strategies/"><u>2024 Approved Fine-Tune Focus Effective Minecraft Zooming Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-evaluation-is-aurora-a-game-changer/"><u>2024 Approved HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-interactive-communication-enhancing-your-youtube-presence/"><u>2024 Approved Interactive Communication Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts/"><u>2024 Approved Unlock Your Tech Potential Mastering Mac's Screen Capturing with Just Shortcuts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos-for-2024/"><u>Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-make-every-call-a-chuckle-a-list-of-10-voice-alteration-tricks/"><u>How to Make Every Call a Chuckle A List of 10 Voice Alteration Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-master-the-art-of-virtual-reality-from-videography-to-youtube-upload/"><u>In 2024, Master the Art of Virtual Reality From Videography to YouTube Upload</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-multi-app-playlists-synchronization-secrets/"><u>In 2024, Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo V29? | Dr.fone</u></a></li>
 </ul></div>
 

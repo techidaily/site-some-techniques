@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2024-11-12T22:33:14.987Z
-updated: 2024-11-14T07:16:30.458Z
+date: 2024-11-18T00:54:16.676Z
+updated: 2024-11-23T20:41:14.941Z
 tags:
   - web
 categories:
@@ -38,35 +38,26 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-the-power-of-supplemental-film-footage/"><u>[New] 2024 Approved Harnessing the Power of Supplemental Film Footage</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-avoiding-misdated-memories-with-exact-times/"><u>[New] Avoiding Misdated Memories with Exact Times</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-clear-your-twitter-timeline-fast-topunfollowtools-revealed/"><u>[New] In 2024, Clear Your Twitter Timeline Fast #TopUnfollowTools Revealed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-complete-guide-to-crafting-luts-in-3d/"><u>[New] In 2024, The Complete Guide to Crafting LUTs in 3D</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astering-freefire-gameplay-essential-youtube-tips-for-2024/"><u>[New] Mastering FreeFire Gameplay Essential YouTube Tips for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-brand-storytelling-through-the-eyes-of-customer-voices/"><u>[Updated] 2024 Approved Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-performers-webcasts/"><u>2024 Approved Exclusive Performers' Webcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>2024 Approved Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-appraisal-hero4-black-performance/"><u>2024 Approved Extended Appraisal Hero4 Black Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guidelines-for-effective-video-integration-in-teaching/"><u>2024 Approved Guidelines for Effective Video Integration in Teaching</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighting-heroics-at-the-x-olympics-2022/"><u>2024 Approved Highlighting Heroics at the X-Olympics 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-zoom-in-and-zoom-out-video-on-iphone-easily/"><u>2024 Approved How to Zoom in and Zoom Out Video on iPhone Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-top-10-final-cut-pro-plug-ins/"><u>2024 Approved Top 10 Final Cut Pro Plug-Ins</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/abbyy-reveals-new-approach-for-asia-pacific-region-at-2019-ai-hong-kong-conference/"><u>ABBYY Reveals New Approach for Asia-Pacific Region at 2019 AI Hong Kong Conference</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expressive-element-enhancers-for-2024/"><u>Expressive Element Enhancers for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/targus-displaylink-driver-updates-a-step-by-step-guide-for-windows-users/"><u>Targus DisplayLink Driver Updates: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-30-unbeatable-amazon-prime-day-offers-score-discounts-on-fire-tv-devices-from-roku-to-lg-dont-miss-out/"><u>Top 30 Unbeatable Amazon Prime Day Offers: Score Discounts on Fire TV Devices From Roku to LG – Don't Miss Out!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-conquering-video-design-challenges-with-filmora-tips/"><u>[New] Conquering Video Design Challenges with Filmora Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-breakthrough-elevating-your-zoom-livestream-game/"><u>[New] From Basic to Breakthrough Elevating Your Zoom Livestream Game</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-psd-overhaul-techniques/"><u>[Updated] Expert PSD Overhaul Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-unrestricted-pubg-visual-sequences/"><u>2024 Approved Excellent Unrestricted PUBG Visual Sequences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focal-flares-amplifying-your-footage-visually/"><u>2024 Approved Focal Flares Amplifying Your Footage Visually</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-review-of-the-latest-powerdirector-app-24/"><u>2024 Approved Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-android-applications-the-ultimate-list-of-top-5-plant-identification-tools/"><u>Best Android Applications: The Ultimate List of Top 5 Plant Identification Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experimente-a-excelencia-gratuita-do-movavi-adquira-agora-e-desfrute-dos-melhores-precos-de-venda/"><u>Experimente a Excelência Gratuita Do Movavi - Adquira Agora E Desfrute Dos Melhores Preços De Venda!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a78-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A78 Safely | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-bring-your-ideas-to-life-in-win-movie-maker/"><u>In 2024, How to Bring Your Ideas to Life in Win Movie Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-swiftly-find-and-access-lost-reddit-discussions/"><u>In 2024, How to Swiftly Find and Access Lost Reddit Discussions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-images-finding-the-perfect-screen-moments/"><u>In 2024, Ideal Images Finding the Perfect Screen Moments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intellects-edge-beyond-alan-turings-legacy/"><u>Intellect's Edge: Beyond Alan Turing's Legacy</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728501755629-iphoneandroid/"><u>IPhone/Android上捕获并导出微信聊天历史记录的技巧</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-limitations-content-creation-beyond-bot-capabilities/"><u>The Limitations: Content Creation Beyond Bot Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-2024s-premier-tablets-comprehensive-testing-by-tech-experts-zdnet/"><u>Ultimate Guide to 2024'S Premier Tablets: Comprehensive Testing by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/zero-cost-youtube-meetings-easy-to-host/"><u>Zero Cost Youtube Meetings Easy to Host</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

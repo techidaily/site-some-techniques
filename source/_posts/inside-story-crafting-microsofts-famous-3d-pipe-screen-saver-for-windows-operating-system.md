@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-11-08T03:47:02.415Z
-updated: 2024-11-13T21:57:47.169Z
+date: 2024-11-20T18:38:19.024Z
+updated: 2024-11-23T17:28:37.296Z
 tags:
   - deals
 categories:
@@ -40,26 +40,28 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[New] From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-adding-timers-utilizing-obs-for-countdown-features/"><u>[Updated] 2024 Approved Adding Timers Utilizing OBS for Countdown Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expanding-creative-horizons-with-custom-fonts-in-after-effects/"><u>[Updated] Expanding Creative Horizons with Custom Fonts in After Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-track-turning-zip-into-professional-quality-srt-files/"><u>[Updated] Fast Track Turning ZIP Into Professional-Quality Srt Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[Updated] Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ai-photo-masterclass/"><u>[Updated] Ingenious AI Photo Masterclass</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ultimate-selection-budget-friendly-4k-cameras-(1k-for-2024/"><u>[Updated] Ultimate Selection Budget-Friendly 4K Cameras <$1K for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-dissecting-high-quality-visuals-with-benqs-27-inch-ultra-hd-display/"><u>2024 Approved Dissecting High-Quality Visuals with BenQ's 27 Inch Ultra HD Display</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-personalization-boost-your-websites-engagement/"><u>Cookiebot-Enhanced Personalization: Boost Your Website's Engagement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-enable-or-disable-pip-in-youtube-for-mobile-phones/"><u>How to Enable or Disable PIP in YouTube for Mobile Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-acquiring-the-best-unboxing-tunes-and-melodies/"><u>In 2024, Expertise Acquiring the Best Unboxing Tunes and Melodies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screen-commanders-clash-for-2024/"><u>Screen Commanders Clash for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-spark-go-2023-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Spark Go (2023) for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/transforma-tu-ssd-en-un-almacenamiento-de-windows-10-sin-necesidad-de-reinstalacion-2-formas-sencillas/"><u>Transforma Tu SSD en Un Almacenamiento De Windows 10 Sin Necesidad De Reinstalación: 2 Formas Sencillas</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-budget-friendly-webinar-strategies-for-youtube/"><u>[New] 2024 Approved Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-choice-top-10-video-subtitles-editors-online/"><u>[New] Expert Choice Top 10 Video Subtitles Editors Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-facebooks-most-engaging-vids/"><u>[New] In 2024, The Ultimate Guide to Facebook’s Most Engaging Vids</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-art-of-cozy-cinematography-top-5-winter-scenes/"><u>[Updated] 2024 Approved The Art of Cozy Cinematography Top 5 Winter Scenes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-digital-power-for-maximum-outreach/"><u>[Updated] Harnessing Digital Power for Maximum Outreach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-enhance-visual-quality-with-lut-filters-in-obs/"><u>[Updated] How to Enhance Visual Quality with LUT Filters in OBS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-solution-for-twitter-videos-not-playing-in-chrome/"><u>2024 Approved Solution for Twitter Videos Not Playing in Chrome</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-how-to-install-and-enjoy-hd-anime-with-the-9anime-kodi-extension-for-free/"><u>Easy Guide: How to Install and Enjoy HD Anime with the 9Anime Kodi Extension for FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-virtual-worlds-androidios-vr-titles-for-2024/"><u>Explore Virtual Worlds Android/iOS VR Titles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-expert-9gag-meme-crafting-basics/"><u>In 2024, From Novice to Expert 9GAG Meme Crafting Basics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-to-outstanding-photos-ios-and-androids-leading-sticker-adders/"><u>In 2024, From Ordinary to Outstanding Photos IOS & Android's Leading Sticker Adders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-14-examples-of-animate-texts/"><u>In 2024, Iconic 14 Examples of Animate Texts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-setup-17-tools-for-swift-image-enhancement-and-cleaning/"><u>In 2024, Ideal Setup 17 Tools for Swift Image Enhancement and Cleaning</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-horizon-the-rise-of-virtual-reality/"><u>In 2024, Immersive Horizon The Rise of Virtual Reality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g23-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G23 Phone Hassle-Free</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/incorporating-apple-music-in-visual-content/"><u>Incorporating Apple Music in Visual Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/lead-the-likes-the-best-social-app-list-on-androidiphone/"><u>Lead the Likes The Best Social App List on Android/iPhone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

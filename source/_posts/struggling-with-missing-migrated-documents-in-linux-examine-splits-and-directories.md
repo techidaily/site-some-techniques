@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-11-08T18:52:29.347Z
-updated: 2024-11-13T18:39:25.392Z
+date: 2024-11-19T02:59:04.219Z
+updated: 2024-11-23T21:14:02.693Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,10 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How This Particular Problem Foxes People
@@ -53,10 +54,7 @@ ls ~/Downloads/src
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
@@ -64,6 +62,10 @@ ls ~/Downloads/src
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
 
@@ -75,13 +77,6 @@ ls ~/Documents/backup/
     
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The original and target directories are both empty. Where did the file go?
 
  Bash tries to find a directory called backpu, but can't find one. It concludes you want to rename your moved file to backpu. You’ll find a file called backpu one directory level higher than your target directory.
@@ -89,13 +84,6 @@ ls ~/Documents/backup/
 ls -l ~/Documents
 
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
 
@@ -116,6 +104,10 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
  This is a better outcome for failures. You’re alerted to the error, and the original file remains touched.
 
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It’s Not Exactly Slash’s Fault
 
@@ -138,19 +130,20 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ranking-8-effective-online-marketing-solutions/"><u>[New] 2024 Approved Ranking 8 Effective Online Marketing Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-hdr-shifts-the-paradigm-of-video-quality-standards/"><u>[New] How HDR Shifts the Paradigm of Video Quality Standards</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-iphone-macro-tactics-for-professional-results/"><u>[New] Innovative iPhone Macro Tactics for Professional Results</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-find-your-perfect-match-the-top-10-online-converters-list/"><u>[Updated] Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>[Updated] How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/15-best-action-cameras-from-beginners-to-pros/"><u>15 Best Action Cameras - From Beginners to Pros</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-screen-capture-best-mac-apps-reviewed-and-rated-for-2024/"><u>Essential Screen Capture Best Mac Apps Reviewed & Rated for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/handling-exceptions-fixing-memory-could-not-be-written-error-due-to-improper-references/"><u>Handling Exceptions: Fixing 'Memory Could Not Be Written' Error Due to Improper References</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-cluttered-to-clear-a-canva-guide-for-borders-removal/"><u>In 2024, From Cluttered to Clear A Canva Guide for Borders Removal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>In 2024, Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-your-way-through-buying-a-dash-cam-consider-these-9-key-points-first/"><u>Navigating Your Way Through Buying a Dash Cam? Consider These 9 Key Points First</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-issue-of-sudden-car-audio-failure/"><u>Solving the Issue of Sudden Car Audio Failure</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/tailoring-your-streamlabs-obs-experience/"><u>Tailoring Your Streamlabs OBS Experience</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-slideshow-mastery-a-step-by-step-guide-to-using-final-cut-pro/"><u>Updated In 2024, Slideshow Mastery A Step-by-Step Guide to Using Final Cut Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-demystified-a-comprehensive-look/"><u>[New] GoPro Karma Demystified A Comprehensive Look</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-honored-proposals-leading-ringtone-creators-iphone/"><u>[New] Honored Proposals Leading Ringtone Creators iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglegallery-craft-and-share-your-own-funny-faces/"><u>[Updated] GiggleGallery Craft and Share Your Own Funny Faces</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premier-selection-of-windows-11s-high-quality-capture-software/"><u>[Updated] In 2024, Premier Selection of Windows 11'S High-Quality Capture Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-android-for-ultimate-3d-playback/"><u>[Updated] Innovative Android for Ultimate 3D Playback</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-churn-out-custom-internet-echo-jokes/"><u>2024 Approved Churn Out Custom Internet Echo Jokes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-infinite-artistic-possibilities-with-top-10-apps-for-2024/"><u>Explore Infinite Artistic Possibilities with Top 10 Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hitting-a-pixel-snag-a6400s-video-problems-for-2024/"><u>Hitting a Pixel Snag A6400's Video Problems for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12r-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12R Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-sighted-the-foremost-cameras-excellence/"><u>In 2024, Future Sighted The Foremost Cameras Excellence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/integrating-pinterest-tabs-into-your-facebook-page-a-comprehensive-guide/"><u>Integrating Pinterest Tabs Into Your Facebook Page: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nokia-c300-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nokia C300 Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-with-gpt-5-when-can-we-expect-to-see-it-launch/"><u>The Future of AI with GPT-5: When Can We Expect to See It Launch?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-iphones-hidden-potential-how-to-utilize-the-in-built-timer-for-stunning-photography/"><u>Unlock Your iPhone's Hidden Potential: How to Utilize the In-Built Timer for Stunning Photography</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-imovie-replacements-you-need-to-know-about/"><u>Updated The Best Free iMovie Replacements You Need to Know About</u></a></li>
 </ul></div>
 

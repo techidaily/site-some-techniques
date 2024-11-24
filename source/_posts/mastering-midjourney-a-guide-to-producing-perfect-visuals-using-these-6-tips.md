@@ -1,7 +1,7 @@
 ---
 title: "Mastering MidJourney: A Guide to Producing Perfect Visuals Using These 6 Tips"
-date: 2024-10-28T16:12:50.462Z
-updated: 2024-10-29T16:11:23.532Z
+date: 2024-11-21T22:47:38.221Z
+updated: 2024-11-23T17:41:08.128Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  The latest version of MidJourney is pretty great at understanding what you want and giving it to you, but if the AI is being a little stubborn, there are a few ways you can increase the chances of getting exactly what you wanted from the imagination of the machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Iterate Your Prompts
@@ -36,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  With each iteration, as you think of more elements to add, you'll get a feel for when you're putting too much in, or when a single element in the prompt is causing chaos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Be Specific About Composition
 
  MidJourney V6 represent a major leap when it comes to prompt adherence—how well it sticks to the instructions in the prompt. In the past, you'd get a variety of compositions, and then choose which you liked, but now you can take much more control if you take the time to describe what the image layout should be.
@@ -50,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  For example: "A man and a woman are smiling at each other in side-profile. The man is on the left, wearing a red shirt. The woman is on the right wearing a purple knitted dress. In the background is a garden with purple plants"
 
 ![An example of MidJourney sticking correctly to a prompt with a man and woman smiling at each other in a garden.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-26-at-23-21-12.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see MidJourney pretty much nailed it with all four images generated from the prompt.
 
@@ -59,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  I've written about some of my [favorite Midjourney style modifiers](https://extra-lessons.techidaily.com/in-2024-compact-movie-story-proposal/) before, but these are just examples to get you thinking about style. It's definitely worth doing some research on the various art styles, or to find out what the art style is called for your favorite pieces. It's quite often the missing ingredient in a prompt that makes all the difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Negative Prompts
 
  A standard prompt tells Midjourney what you want in the image, but it doesn't stop it from adding more elements. Generally, this is a good thing, since many varied elements are associated with the terms in your prompt. However, you can use a negative prompt to tell the AI what not to put in the image.
@@ -66,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  In Midjourney simply use "--no" followed by the elements to exclude. For example, here I have used the prompt: "cars of different colors --no red cars."
 
 ![An AI-generated image of toy cars in various colors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/gendowasright_cars_of_different_colors_-no_red_cars_276a78ef-2403-4e5f-8bf8-010517eecf19_1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek/Midjourney
 
@@ -84,24 +75,25 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
  It's as simple as asking ChatGPT for a prompt based on your needs, but I've created a short guide to help you [combine ChatGPT and Midjourney](https://facebook-video-footage.techidaily.com/updated-in-2024-downloader-essentials-the-best-tools-for-offline-viewing/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use "Vary Region" and Other Advanced Tools
 
  Midjourney offers a cornucopia of post-generation tweaking tools, and if you're not using them you're doing yourself a major disservice. You can see them all as these buttons below your image in the Discord interface.
 
 ![A Midjourney image in Discord with the modification buttons visible beneath it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-27-at-09-53-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sydney Louw Butler/How-To Geek/Midjourney
 
  This is what they look like in the Alpha web interface that's only open to users with more than 1000 images under the belt as of this writing.
 
 ![The advanced tweaking buttons in Midjourney's web alpha interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-27-at-09-57-44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek/Midjourney
 
@@ -130,22 +122,16 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[New] Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[New] How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-microphones-tailored-to-channel-genres/"><u>[New] In 2024, Essential Microphones Tailored to Channel Genres</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-windows-10-top-new-apps-and-games-for-your-pc/"><u>[Updated] 2024 Approved Windows 10 Top New Apps & Games for Your PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-cluttered-to-clear-a-canva-guide-for-borders-removal/"><u>[Updated] From Cluttered to Clear A Canva Guide for Borders Removal</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-tips-on-filming-with-drone/"><u>[Updated] In 2024, Tips on Filming with Drone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-lighten-your-sentence-with-satire-ranking-funniest-facebook-detentions-for-2024/"><u>[Updated] Lighten Your Sentence with Satire Ranking Funniest Facebook Detentions for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-action-vision-top-7-4k-camera-selections/"><u>2024 Approved Ultimate Action Vision Top 7 4K Camera Selections</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/boosting-remote-work-engagement-with-4-tactics/"><u>Boosting Remote Work Engagement with 4 Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exceptional-appraisal-and-other-choices-for-2024/"><u>Exceptional Appraisal & Other Choices for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-cybersecurity-risks-deciphering-new-twitter-schemes-the-arrival-of-metas-verified-feature-and-demystifying-chatgpt/"><u>Exploring Cybersecurity Risks : Deciphering New Twitter Schemes, The Arrival of Meta’s Verified Feature, and Demystifying ChatGPT-</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-crumpled-to-curated-your-step-by-step-process-of-transforming-faded-print-photographs-into-digital-originals-for-2024/"><u>From Crumpled to Curated Your Step-by-Step Process of Transforming Faded Print Photographs Into Digital Originals for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-stunning-photos-on-iphones/"><u>In 2024, Expert Tips for Stunning Photos on iPhones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-skyboxes-to-studio-walls-top-9-drone-software-showdowns/"><u>In 2024, From Skyboxes to Studio Walls Top 9 Drone Software Showdowns</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-enable-and-use-windows-11s-auto-hdr-functionality/"><u>In 2024, How to Enable and Use Windows 11'S Auto HDR Functionality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-windows-10-photo-display-for-2024/"><u>Prime Windows 10 Photo Display for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-powerdirector-competitors-best-android-and-ios-video-editors-for-2024/"><u>Updated PowerDirector Competitors Best Android and iOS Video Editors for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-in-depth-examination-the-dji-phantom-3-experience/"><u>[New] 2024 Approved In-Depth Examination The DJI Phantom 3 Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-deciphering-youtubes-cc-policy-for-video-makers-for-2024/"><u>[New] Deciphering YouTube's CC Policy for Video Makers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecoding-monetization-how-much-creators-earn-per-ad-on-youtube/"><u>[New] Decoding Monetization How Much Creators Earn Per Ad on YouTube?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-pitfall-of-superficial-engagement-on-insta/"><u>[Updated] In 2024, The Pitfall of Superficial Engagement on Insta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-right-balance-essential-points-for-lens-shopping/"><u>2024 Approved Finding the Right Balance Essential Points for Lens Shopping</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-change-wav-files-to-aac-format-with-movavi/"><u>Free Online Conversion: Change WAV Files to AAC Format with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-roundup-30-leading-free-vectr-and-illustration-sites-online/"><u>In 2024, Exclusive Roundup 30 Leading Free Vectr and Illustration Sites Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-in-hd-crafting-melodic-instagram-videos/"><u>In 2024, Harmony in HD Crafting Melodic Instagram Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hear-the-vibe-no-cost-online-tempo-trackers/"><u>In 2024, Hear the Vibe – No Cost Online Tempo Trackers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-file-renaming-a-step-by-step-guide-using-powershell/"><u>Mastering File Renaming: A Step-by-Step Guide Using PowerShell</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
 </ul></div>
 

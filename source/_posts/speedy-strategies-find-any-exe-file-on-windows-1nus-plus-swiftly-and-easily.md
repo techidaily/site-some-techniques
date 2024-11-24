@@ -1,7 +1,7 @@
 ---
 title: "Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily"
-date: 2024-11-13T00:04:28.041Z
-updated: 2024-11-13T22:02:42.670Z
+date: 2024-11-17T22:42:22.404Z
+updated: 2024-11-24T01:08:51.411Z
 tags:
   - desktop
 categories:
@@ -11,18 +11,15 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ## Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Find an EXE from a Shortcut](https://fox-direct.techidaily.com/extensive-circular-camera-assessment-for-2024/)
 * [If You Can't Find a Shortcut to Use](https://techno-recovery.techidaily.com/troubleshooting-the-d3d9dll-file-not-found-problem/)
 * [Where are EXEs for Apps From the Microsoft Store Located?](https://hardware-help.techidaily.com/effortless-installation-of-new-acer-audio-drivers-step-by-step-tips/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,27 +35,17 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
 
 ![Finding an application's shortcut location using the Start Menu in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_locate_shortcut_startmenu.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will open a File Explorer window that points to the actual application shortcut file. Right click on that shortcut, and select "Properties."
 
@@ -80,13 +67,14 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
@@ -94,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
  Apps you install from the Microsoft Store, and their executables, are stored in "C:\\Program Files\\WindowsApps."
 
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
 
@@ -112,22 +104,15 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-add-text-to-youtube-video/"><u>[New] 2024 Approved How to Add Text to YouTube Video</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-gathered-group-glances/"><u>[Updated] Gathered Group Glances</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-chronicles-exploring-infinite-worlds-through-film/"><u>2024 Approved Metaverse Chronicles Exploring Infinite Worlds Through Film</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/50-der-deutschen-bevolkerung-bevorzugen-es-unbeliebte-arbeiten-an-roboter-zu-delegieren/"><u>50% Der Deutschen Bevölkerung Bevorzugen Es, Unbeliebte Arbeiten an Roboter Zu Delegieren</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-and-amedia-unite-to-develop-innovative-ocr-reader-app-tailored-for-vision-challenged-users/"><u>ABBYY and Amedia Unite to Develop Innovative OCR Reader App Tailored for Vision-Challenged Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-online-platform-use-policy-binding-legal-framework-with-integrated-gdpr-provisions-for-user-privacy-and-data-security/"><u>ABBYY Online Platform Use Policy - Binding Legal Framework with Integrated GDPR Provisions for User Privacy and Data Security</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/adapting-perspectives-in-tech-the-role-of-ai-according-to-abbyy-experts/"><u>Adapting Perspectives in Tech: The Role of AI According to ABBYY Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/butagaz-partners-with-abbyy-digital-intelligence-for-seamless-energy-provider-transitions/"><u>Butagaz Partners with ABBYY Digital Intelligence for Seamless Energy Provider Transitions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-digital-revolution-guide-essential-steps-for-the-insurance-industry-with-abbyy/"><u>Comprehensive Digital Revolution Guide: Essential Steps for the Insurance Industry with ABBYY</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-marketing-enhance-your-visitor-tracking/"><u>Cookiebot-Driven Marketing: Enhance Your Visitor Tracking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-delivering-tailored-content-and-analytics-through-advanced-tracking-technologies/"><u>Cookiebot: Delivering Tailored Content and Analytics Through Advanced Tracking Technologies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Bootloader Easily</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/laptop-gpu-enhancement-techniques/"><u>Laptop GPU Enhancement Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srs-adjustment-guide-boosting-performance-on-both-platforms/"><u>SRS Adjustment Guide Boosting Performance on Both Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-frame-rate-issues-in-resident-evil-village-pc/"><u>Troubleshooting and Fixing Frame Rate Issues in Resident Evil Village (PC)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-xbox-series-s-a-compact-powerhouse-in-gaming-console-reviews/"><u>Unveiling the Xbox Series S: A Compact Powerhouse in Gaming Console Reviews</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-sora-by-openai-everything-you-need-to-know-for-2024/"><u>Updated What Is Sora by OpenAI Everything You Need To Know for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>[New] Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-peeling-back-the-layers-of-magix-image-suite-for-2024/"><u>[New] Peeling Back the Layers of MAGIX Image Suite for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-backgrounds-a-filmmakers-guide/"><u>[Updated] Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-audio-fix-strategies-quickly-for-2024/"><u>[Updated] OBS Audio Fix Strategies Quickly for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-file-flow-fixtures-easy-moves-for-your-machine/"><u>2024 Approved File Flow Fixtures Easy Moves for Your Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-combining-zoom-with-facebook-live-features-for-2024/"><u>Harness the Power of Combining Zoom with Facebook Live Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-escapes-how-to-choose-between-rift-vive-ps-vr-in-2024/"><u>Immersive Escapes How to Choose Between Rift, Vive, PS VR, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mars-unveiled-discover-nasas-audio-insights-into-the-red-planets-swirling-sand-phenomena/"><u>Mars Unveiled: Discover NASA's Audio Insights Into the Red Planet's Swirling Sand Phenomena</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-transferring-your-messages-from-icloud-to-iphonepc/"><u>Step-by-Step Guide: Transferring Your Messages From iCloud to iPhone/PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-motivations-driving-businesses-to-prohibit-the-use-of-chatgpt/"><u>Top 5 Motivations Driving Businesses to Prohibit the Use of ChatGPT</u></a></li>
 </ul></div>
 

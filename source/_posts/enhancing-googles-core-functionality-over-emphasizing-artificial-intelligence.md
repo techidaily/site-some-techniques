@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2024-11-07T06:36:58.858Z
-updated: 2024-11-13T18:40:48.515Z
+date: 2024-11-20T16:14:13.426Z
+updated: 2024-11-23T16:32:04.049Z
 tags:
   - mobile
 categories:
@@ -11,18 +11,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Google Goes All In on Generative AI](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-10c-drfone-by-drfone-virtual-android/)
 * [Google Is Still Seeing What Sticks](https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/)
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,10 +27,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Justin Duino / How-To Geek  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Google introduced new AI features but focused more on hype than substance and practicality.
@@ -53,10 +47,7 @@ Google
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Goes All In on Generative AI
@@ -65,9 +56,17 @@ Google
 
 ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  But this is just the beginning of Google’s AI ambitions. At Tuesday's event, the company announced Gemini as the replacement for Google Assistant, making it the default assistant on Android phones. This move aligns with [Apple's decision to enhance Siri with OpenAI's ChatGPT](https://mondly-stories.techidaily.com/initiate-your-french-phonetic-journey-today/). Gemini offers a more conversational and intelligent assistant capable of being interrupted without losing focus. The newly introduced [Gemini Live feature](https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/) enables real-time interactions with the AI, positioning Google to compete with [OpenAI's Advanced Voice Mode](https://instagram-videos.techidaily.com/new-the-hidden-powerhouses-in-your-instagram-toolkit/). Gemini will also eventually interpret phone screen content using an upcoming overlay feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Is Still Seeing What Sticks
 
@@ -88,19 +87,6 @@ Google
  You can see the good intentions behind both the new Pixel Screenshots and Call Notes features. The former uses AI to process screenshots to help you easily find them later using text prompts, and the latter provides you with an AI-generated summary of a phone call’s most pertinent topics and information. However, the potential privacy implications of their use gives me pause.
 
 ![Made by Google sign at Google I/O](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52887793038_f152af5f6d_o.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -127,24 +113,16 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-audacity-tricks-for-premium-audio/"><u>[New] Expert Audacity Tricks for Premium Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-implementing-soft-decline-in-logic-pro-audio/"><u>[New] Implementing Soft Decline in Logic Pro Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-impress-with-your-visuals-mastering-podcast-identity/"><u>[New] Impress with Your Visuals Mastering Podcast Identity</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10-for-2024/"><u>[New] Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10) for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-graphic-portrayal-of-future-social-momentum/"><u>[Updated] 2024 Approved Graphic Portrayal of Future Social Momentum</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>[Updated] Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expand-your-visual-palette-in-after-effects/"><u>[Updated] Expand Your Visual Palette in After Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-premium-cameras-a-2024-guide/"><u>[Updated] Exploring Premium Cameras A 2024 Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-end-vector-sites-ranked-1-to-10/"><u>[Updated] High-End Vector Sites Ranked 1 to 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-master-free-online-and-offline-text-animations/"><u>[Updated] How to Master Free Online & Offline Text Animations</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-remove-youtube-videos-for-2024/"><u>[Updated] How to Remove YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improving-professional-collaboration-with-strategic-office-planning/"><u>[Updated] Improving Professional Collaboration with Strategic Office Planning</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-and-easy-steps-to-add-the-bitchute-channel-extension-to-your-kodi-media-player/"><u>Free & Easy Steps to Add the BitChute Channel Extension to Your Kodi Media Player</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/important-points-to-contemplate-when-selecting-a-dash-camera/"><u>Important Points to Contemplate When Selecting a Dash Camera</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-product-placement/"><u>The Art of Product Placement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-showdown-of-top-extended-reality-xr-headsets-why-vision-pro-stands-out-in-my-expert-comparison-zdnet-analysts-perspective/"><u>The Ultimate Showdown of Top Extended Reality (XR) Headsets: Why Vision Pro Stands Out in My Expert Comparison | ZDNET Analyst's Perspective</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-satirize-a-guide-to-parody-production/"><u>[New] 2024 Approved How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-beginners-handbook-to-vimeo-footage-capture/"><u>[New] Beginner's Handbook to Vimeo Footage Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>[New] Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-4k-monitors-1-10-rankings/"><u>[New] Finding the Best 4K Monitors #1-10 Rankings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-tweeting-short-videos-to-interactive-shareable-customized-gifs-for-2024/"><u>[New] From Tweeting Short Videos to Interactive, Shareable Customized GIFS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-cinematic-introductions/"><u>2024 Approved Exclusive Cinematic Introductions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721404930285-ai-hub-unveils-tailored-gpt-marketplace-your-guide/"><u>AI Hub Unveils Tailored GPT Marketplace – Your Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-asmrists-praised-by-insomniacs/"><u>In 2024, Expert ASMRists Praised by Insomniacs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>In 2024, Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
+<li><a href="https://extra-information.techidaily.com/novice-path-to-prosperity-making-money-on-periscope/"><u>Novice Path to Prosperity Making Money on Periscope</u></a></li>
 </ul></div>
 

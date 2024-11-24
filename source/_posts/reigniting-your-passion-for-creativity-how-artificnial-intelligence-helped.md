@@ -1,7 +1,7 @@
 ---
 title: "Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped"
-date: 2024-10-25T17:30:02.872Z
-updated: 2024-10-29T17:29:10.146Z
+date: 2024-11-20T18:05:17.420Z
+updated: 2024-11-23T23:44:14.641Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
  Many fear that AI might stifle human creativity. However, my personal journey with creative hobbies and AI tools tells a different story. Let me share my story of using generative AI tools and how it helped me reconnect with my creative side.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Always Fancied Myself a Creative
@@ -43,16 +40,7 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ![A person typing on a laptop, surrounded by creative writing materials.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-a-person-typing-on-a-laptop-surrounded-by-creative-writing-materials.png) 
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -60,10 +48,7 @@ Dibakar Ghosh / How-To Geek | Midjourney
  But here’s the twist—words were never my biggest passion. I always felt a stronger affinity towards music and art. So why didn’t I prioritize those over writing? Simple answer: I couldn’t!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Creative Hobbies Have a Barrier To Entry
@@ -78,19 +63,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![person creating digital art on a drawing tablet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-person-creating-digital-art-on-a-drawing-tablet.png) 
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Music production was even more expensive. While you might want to start with just one instrument—remember, juvenile me wanted to create epic symphonies with quartets sprinkled with piano jingles, solo guitar sections, and all that jazz.
@@ -98,19 +70,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Doing that by learning an instrument didn’t seem practical. So, my eyes were set on a [digital audio workstation (DAW)](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/)—which, again, was very expensive and very complicated.
 
 ![a digital audio workstation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-a-digital-audio-workstation.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -144,6 +103,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  I could finally give my creative desires an easy outlet that didn’t hamper my normal routine—or demand significant financial or temporal investment. Each day, after work, I’d sit with these tools, spin up some ideas, hit generate, and share them with family and friends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Now I Want to Learn
 
  On the surface level, it seems like generative AI is all about you coming up with ideas and the AI creating them. This is true, but only if you desire surface-level results!
@@ -155,6 +118,10 @@ a cat in space.
  I can prompt that into Midjourney, and this is what I’d end up with:
 
 ![A cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-a-cat-in-space.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -173,6 +140,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![a cartoon cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/12-a-cartoon-cat-in-space.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Unfortunately, it’s still not what I have in mind—and this is the essential issue with generative AI: AI can help you visualize an idea but not materialize a visualization.
@@ -188,13 +159,6 @@ Your browser does not support the video tag.
  This brings us back to square one. To accurately express the songs in my head, I need to know how to play an instrument. To accurately materialize the scenery in my mind, I need to know how to draw them myself.
 
  Even if I use AI for polish, I need to know the basics and technicalities of music production or digital art if I truly want to express my creativity. As such, I’m ready to buy my first musical instrument.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  I'm Planning To Buy a Keyboard
 
@@ -229,16 +193,20 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-get-sweating-to-top-exercromise-anthems-and-rhythms/"><u>[New] Get Sweating to Top Exercromise Anthems and Rhythms</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-charting-the-course-of-creative-conquests-self-vs-competitors-on-youtube/"><u>[New] In 2024, Charting the Course of Creative Conquests Self Vs. Competitors on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-insights-crafting-videos-via-google-trends/"><u>[Updated] Unlocking Insights Crafting Videos via Google Trends</u></a></li>
-<li><a href="https://games-able.techidaily.com/competitive-gpus-against-the-rtx-4060-ti/"><u>Competitive GPUs Against the RTX 4060 Ti</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-visibility-comprehensive-guide-to-video-marketing-titles/"><u>Elevate Visibility Comprehensive Guide to Video Marketing Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flawless-picture-preservation-gratis-space-plus-charged-cloud-sanctuaries-await-for-2024/"><u>Flawless Picture Preservation Gratis Space + Charged Cloud Sanctuaries Await for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-narratives-in-virtual-cinema-landscapes/"><u>In 2024, Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-psd-shadow-play/"><u>In 2024, Expert PSD Shadow Play</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-mix-fold-3-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Mix Fold 3 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illustration-revolution-adding-depth-to-text-with-3d/"><u>In 2024, Illustration Revolution Adding Depth to Text with 3D</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mobile-video-editing-made-easy-powerdirector-alternatives-you-need-to-know/"><u>Mobile Video Editing Made Easy PowerDirector Alternatives You Need to Know</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-heritage-on-display-post-copyright-masterpieces/"><u>[New] Heritage on Display Post-Copyright Masterpieces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-free-youtube-channel-art-templates-find-them-here/"><u>[Updated] Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglemaker-step-by-step-to-fun-videos/"><u>[Updated] GiggleMaker Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-correcting-and-confirming-your-age-information-on-tiktok/"><u>[Updated] Guide to Correcting & Confirming Your Age Information on TikTok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-keeping-the-flow-alive-2023-guide-to-live-video-repairs-on-fb-for-2024/"><u>[Updated] Keeping the Flow Alive 2023 Guide to Live Video Repairs on FB for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-10-faceshifting-mobile-apps-for-iphonesandroid/"><u>Elite 10 Faceshifting Mobile Apps for iPhones/Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-recommendations-on-asmr-and-restful-nights-for-2024/"><u>Expert Recommendations on ASMR & Restful Nights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-pixels-to-spirit-nurturing-memories-through-live-photo-to-video-conversion-for-2024/"><u>From Pixels to Spirit Nurturing Memories Through Live Photo to Video Conversion for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-liberate-your-ebooks-unlocking-drm-from-various-formats/"><u>How to Liberate Your Ebooks - Unlocking DRM From Various Formats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-12-proplus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme 12 Pro+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-change-song-speed-on-spotify/"><u>In 2024, Innovative Approaches to Change Song Speed on Spotify</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigate-to-success-the-insiders-guide-to-adding-times/"><u>In 2024, Navigate to Success The Insider's Guide to Adding Times</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-12-techniques-for-storing-web-based-songs-for-2024/"><u>In-Depth Look at 12 Techniques for Storing Web-Based Songs for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/simplify-your-upgrade-safely-installing-windows-11-2022-update/"><u>Simplify Your Upgrade: Safely Installing Windows 11 2022 Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
 

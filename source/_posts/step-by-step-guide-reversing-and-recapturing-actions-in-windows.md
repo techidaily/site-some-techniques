@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reversing and Recapturing Actions in Windows"
-date: 2024-11-11T17:44:11.495Z
-updated: 2024-11-13T20:33:56.820Z
+date: 2024-11-17T17:57:51.673Z
+updated: 2024-11-23T16:32:27.864Z
 tags:
   - deals
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ## Step-by-Step Guide: Reversing and Recapturing Actions in Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Undo and (Sometimes) Redo Using Your Keyboard](https://www.howtogeek.com/766591/how-to-undo-and-redo-on-a-windows-pc/#how-to-undo-and-sometimes-redo-using-your-keyboard)
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
  If you've made a mistake on your Windows 10 or Windows 11 PC and would like to go back a step, it's easy to use the built-in "Undo" command. Similarly, you can sometimes also perform a "Redo" action to restore what you just undid. Here's how to perform both actions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Undo and (Sometimes) Redo Using Your Keyboard
 
  Almost every Windows app supports at least a simple, one-step Undo. To undo an action you just performed in Windows, press Ctrl+Z on your keyboard.
@@ -39,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
 
  Also, in many applications—such as Microsoft Office apps—you can press Ctrl+Y or F4 on your keyboard to Redo the action you just undid. Another combination that is frequently redo is Ctrl+Alt+Z. 
@@ -53,13 +47,14 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
 
@@ -73,16 +68,13 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
 
 ![The "Redo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_redo_button.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Other apps with different toolbar interfaces will likely have different designs for their undo or redo buttons. In general, look for a curved arrow pointing to the left for "Undo." You can also try right-clicking in a text entry area and looking for an "Undo" option. Or, when all else fails, try pressing Ctrl+Z on your keyboard.
 
@@ -101,21 +93,24 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-multiformat-manual-effortless-conversion-of-srt-files/"><u>[New] Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-these-15-must-watch-tiktok-food-videos-are-too-good-to-miss/"><u>[New] These 15 Must-Watch TikTok Food Videos Are Too Good to Miss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-head-to-head-evaluating-google-cardboard-and-samsungs-vr-world/"><u>[Updated] Head-to-Head Evaluating Google Cardboard and Samsung’s VR World</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ingenious-name-makers-elevate-your-channels/"><u>[Updated] Ingenious Name Makers Elevate Your Channels</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-mastering-gopro-livestreams-connecting-to-facebook-and-periscope-for-2024/"><u>[Updated] Mastering Gopro Livestreams Connecting to Facebook & Periscope for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-live-stream-capture-tv-show-recording-techniques-for-2024/"><u>[Updated] Mastering Live Stream Capture TV Show Recording Techniques for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/bereitstellen-sie-kostenlosen-online-umwandlungstechniken-fur-bmp-in-jpeg-method-of-extensions-mef-durch-movavi/"><u>Bereitstellen Sie Kostenlosen Online-Umwandlungstechniken Für BMP in JPEG, Method of Extensions (MEF) Durch Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/google-ar-stickers-unveiled-overview-and-options-for-2024/"><u>Google AR Stickers Unveiled Overview & Options for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/greatest-copyright-free-pubg-image-anthology-for-2024/"><u>Greatest Copyright-Free PUBG Image Anthology for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-pratique-pour-reparer-un-dysfonctionnement-de-lecture-des-dvd-solutions-rapides-and-facilement-accessibles/"><u>Guide Pratique Pour Réparer Un Dysfonctionnement De Lecture Des DVD : Solutions Rapides & Facilement Accessibles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/humorous-file-downloader-examination-for-2024/"><u>Humorous File Downloader Examination for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-inspection-gopro-silver-hero4-detailed-review/"><u>In 2024, Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-have-a-products-sponsorship-in-youtube/"><u>In 2024, How to Have a Products Sponsorship in Youtube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-effective-look-up-table-lut-applications-in-adobe-photoshop-cc/"><u>In 2024, Innovative Techniques for Effective Look-Up Table (LUT) Applications in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-image-enhancement-tips/"><u>In 2024, Instagram Image Enhancement Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-your-potential-with-top-notch-fps-counters-for-windows-11-gamers/"><u>Unleashing Your Potential with Top-Notch FPS Counters for Windows 11 Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-manipulating-colors-in-video-edits/"><u>[New] Expertly Manipulating Colors in Video Edits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-fixed-how-do-i-convert-zip-file-into-srt-file/"><u>[New] In 2024, [Fixed!] How Do I Convert Zip File Into Srt File?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-your-iphones-selfie-quality-the-10-best-free-apps/"><u>[New] Innovate Your iPhone's Selfie Quality The 10 Best Free Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-flight-fun-best-easy-to-use-drones/"><u>[Updated] First Flight Fun Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-static-shots-to-time-lapse-video-tapestry/"><u>[Updated] From Static Shots to Time-Lapse Video Tapestry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>[Updated] GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[Updated] In 2024, The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-supercharge-your-storage-speeds-the-lightning-fast-fix-to-boost-your-languishing-usb-flash-drive-efficiency/"><u>1. Supercharge Your Storage Speeds: The Lightning-Fast Fix to Boost Your Languishing USB Flash Drive Efficiency</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-impact-setting-techniques-for-live-media/"><u>2024 Approved High-Impact Setting Techniques for Live Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-performance-tools-youtube-meets-twitter/"><u>2024 Approved High-Performance Tools YouTube Meets Twitter</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-rendre-un-ssd-bootable-apres-clonage-dans-windows-11-10-ou-8/"><u>Comment Rendre Un SSD Bootable Après Clonage Dans Windows 11, 10 Ou 8 ?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discover-the-richest-content-for-maximum-ig-revenue/"><u>In 2024, Discover the Richest Content for Maximum IG Revenue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-holy-hymns-for-mobile-phones/"><u>In 2024, Exploring Holy Hymns for Mobile Phones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-extracting-stills-for-windows-11-video-projects/"><u>In 2024, Extracting Stills for Windows 11 Video Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>In 2024, From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>In 2024, Pathway to YouTube Partnerships Simplifying the Process for Small Creators</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-magic-6-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-lenovo-legion-slim-5-with-nvidia-rtx-4060-now-at-a-record-low-849/"><u>Unbeatable Deal: Lenovo Legion Slim 5 with NVIDIA RTX 4060 Now at a Record Low $849</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/tiff/"><u>オンライン無料プログラミング言語ファイルTiffへの変換 - モバヴィソフトウェア</u></a></li>
 </ul></div>
 

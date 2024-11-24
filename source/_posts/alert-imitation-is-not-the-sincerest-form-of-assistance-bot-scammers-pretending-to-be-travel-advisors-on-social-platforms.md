@@ -1,7 +1,7 @@
 ---
 title: "Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms"
-date: 2024-11-11T06:48:04.809Z
-updated: 2024-11-13T16:54:01.033Z
+date: 2024-11-17T19:15:04.438Z
+updated: 2024-11-23T21:03:04.804Z
 tags:
   - web
 categories:
@@ -26,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Spot a Phony Representative
@@ -44,41 +41,36 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
 
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
 
 ![Fake representative account page using a poorly cropped photo of a NBC news anchor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-07.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
 
 ![Fake representative account page showing "Joined August 2024."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -100,16 +92,21 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-laugh-loom-imgur-memomaker/"><u>[New] Laugh Loom Imgur MemoMaker</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-precision-in-photos-iphone-apps-for-accurate-cropping/"><u>[Updated] Precision in Photos IPhone Apps for Accurate Cropping</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-collection-top-webcam-grips-and-mounts/"><u>2024 Approved Excellent Collection Top Webcam Grips & Mounts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-your-fly-top-tips-for-choosing-drone-propellers/"><u>2024 Approved Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-slow-motion-pro-tips-for-gopro-hero-10-users/"><u>2024 Approved Harnessing the Power of Slow Motion Pro Tips for GoPro Hero 10 Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-headset-havens-weighing-google-cardboard-against-samsung-gear/"><u>2024 Approved Headset Havens Weighing Google Cardboard Against Samsung Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fabricate-viral-gifs-via-giphy-portal-for-2024/"><u>Fabricate Viral Gifs via Giphy Portal for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-c67-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme C67 4G Phone?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-60x-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme Narzo 60x 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-digital-crimes-4-ai-driven-suspenseful-mysteries/"><u>Unraveling Digital Crimes: 4 AI-Driven Suspenseful Mysteries</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/video-capture-perfection-achieving-silence-success-for-2024/"><u>Video Capture Perfection Achieving Silence Success for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-overcoming-virtual-reality-nausea/"><u>[New] 2024 Approved Overcoming Virtual Reality Nausea</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unbound-zen-audio-releases/"><u>[New] 2024 Approved Unbound Zen Audio Releases</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-galaxy-s8-unpacked-a-4k-revolution/"><u>[New] Galaxy S8 Unpacked A 4K Revolution</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-data-collection-and-analysis/"><u>[Updated] 2024 Approved Data Collection and Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedite-your-file-format-journey-from-srt-to-txt/"><u>[Updated] Expedite Your File Format Journey From SRT to TXT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-edition-excellence-tutorial-insights/"><u>[Updated] Image Edition Excellence Tutorial Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word/"><u>[Updated] Improve Office Productivity with Speech to Text Conversion in Microsoft Word</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-switch-between-normal-and-picture-in-picture-views-in-youtube/"><u>2024 Approved How to Switch Between Normal and Picture In Picture Views in Youtube</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-13-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-photo-editing-on-windows-and-macos-a-step-by-step-guide/"><u>Easy Photo Editing on Windows & macOS - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpts-capabilities-for-tough-workplace-tasks/"><u>Harnessing ChatGPT's Capabilities for Tough Workplace Tasks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-hearables-leading-podcasters-on-googloud-for-2024/"><u>High-Quality Hearables Leading Podcasters on GooGloud for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-avi-viewer-mobile-and-desktop-edition/"><u>In 2024, Ideal AVI Viewer Mobile & Desktop Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-role-and-significance-of-windows-bt-folders/"><u>The Role and Significance of Windows ~BT Folders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-social-lift-transform-from-zero-to-millionth-follower-in-months/"><u>The Social Lift Transform From Zero to Millionth Follower in Months</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-safe-methods-for-directly-downloading-youtubes-audios-as-mp3-for-2024/"><u>Three Safe Methods for Directly Downloading YouTube's Audios as MP3 for 2024</u></a></li>
 </ul></div>
 

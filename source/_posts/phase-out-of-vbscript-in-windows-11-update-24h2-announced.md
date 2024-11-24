@@ -1,7 +1,7 @@
 ---
 title: Phase-Out of VBScript in Windows 11 Update 24H2 Announced
-date: 2024-11-08T22:56:54.560Z
-updated: 2024-11-14T00:43:26.377Z
+date: 2024-11-17T17:03:39.125Z
+updated: 2024-11-23T19:54:37.069Z
 tags:
   - desktop
 categories:
@@ -40,35 +40,24 @@ Visual Basic Scripting Edition, or VBScript, has been a scripting language and a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-best-wearable-camera-innovations/"><u>[New] Best Wearable Camera Innovations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-capitalization-clues-starting-your-podcast-path/"><u>[New] Comprehensive Capitalization Clues Starting Your Podcast Path</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/onquer-youtube-with-creator-studio-a-comprehensive-guide-for-2024/"><u>[New] Conquer YouTube with Creator Studio A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-new-frontiers-with-vr-game-engines/"><u>[New] Exploring New Frontiers with VR Game Engines</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonize-with-inshots-music-load-functionality/"><u>[New] Harmonize with InShot's Music Load Functionality</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-image-techniques-for-engaging-views/"><u>[New] YouTube Image Techniques for Engaging Views</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-iconic-locales-for-stream-video-quality/"><u>[Updated] Iconic Locales for Stream Video Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-lut-creation/"><u>[Updated] Innovative Approaches to LUT Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-tutorial-for-recording-your-fb-chat-history/"><u>2024 Approved The Ultimate Tutorial for Recording Your FB Chat History</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722870140428-advrcntr2dll-missing-on-your-computer-fixes-for-neros-critical-component-issue/"><u>Advrcntr2.dll Missing on Your Computer? Fixes for Nero's Critical Component Issue!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-66-tweeters-in-tourism-unbeatable-offers-and-expert-recommendations-online/"><u>Discover the Premier 66 Tweeters in Tourism: Unbeatable Offers and Expert Recommendations Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gaming-at-its-peak-platform-9-insights-for-2024/"><u>Gaming at Its Peak Platform #9 Insights for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>In 2024, From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-featured-sierra-drives-files-and-more/"><u>In 2024, Full-Featured Sierra Drives, Files, and More</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-wirecast-for-high-quality-youtube-broadcasts/"><u>In 2024, Navigating WireCast for High-Quality YouTube Broadcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-comparison-can-inshot-outshine-competitors-for-2024/"><u>In-Depth Comparison Can InShot Outshine Competitors for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/speed-up-your-downloads-effortlessly-turn-torrents-into-high-quality-mp4-videos/"><u>Speed Up Your Downloads! Effortlessly Turn Torrents Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-apex-broadcast-tools-and-platforms/"><u>[New] Apex Broadcast Tools & Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-remedies-for-lack-of-display-in-youtube-screens/"><u>[New] In 2024, Remedies for Lack of Display in YouTube Screens</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discover-budget-friendly-superior-asmr-mics/"><u>[Updated] Discover Budget-Friendly, Superior ASMR Mics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-on-your-desk-a-windows-guide-to-color-mastery/"><u>[Updated] HDR on Your Desk A Windows Guide to Color Mastery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715860385357-updated-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[Updated] Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-virtual-environments-providers/"><u>2024 Approved Foremost Virtual Environments Providers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>2024 Approved How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incredible-inexpensive-stopwatch-solutions/"><u>2024 Approved Incredible Inexpensive Stopwatch Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/dm/"><u>様々なデバイスからツイッターの個人的DM動画を保存する完全解析</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixing-inertia-and-jello-distortions-in-uav-clips-for-2024/"><u>Fixing Inertia and Jello Distortions in UAV Clips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-course-on-morphvox-converting-your-voice-professionally-for-2024/"><u>Full Course on MorphVOX Converting Your Voice Professionally for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-moto-g13-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Moto G13 Without PUK Codes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideas-aplenty-crafting-inspirational-photographic-mosaics/"><u>In 2024, Ideas Aplenty Crafting Inspirational Photographic Mosaics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-gionee-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Gionee IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-11-08T18:54:33.326Z
-updated: 2024-11-14T01:29:11.870Z
+date: 2024-11-18T01:25:29.887Z
+updated: 2024-11-23T20:43:25.688Z
 tags:
   - desktop
 categories:
@@ -15,11 +15,19 @@ Chances are that part of the reason you broke away from Microsoft and switched t
 
  If you’re still looking to make the jump, check out our selection of the [best Linux laptops](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Encrypt Your Hard Drive 
 
  One of the most important steps you can take to secure your Linux laptop is also one of the easiest, namely to encrypt your hard drive. With most distros, while setting up your OS you will be prompted to encrypt your hard drive and set a password.
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/penguins.jpg)](https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/) Related 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### [How to Install Linux](https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
@@ -32,10 +40,7 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Set a System Password 
@@ -47,13 +52,6 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 ## 3  Set Up Screen Lock 
 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -78,10 +76,7 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Set Up a Firewall 
@@ -101,10 +96,7 @@ Hannah Stryker / How-To Geek
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
@@ -134,19 +126,20 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-roundup-of-best-game-casting-apps/"><u>[New] Expert Roundup of Best Game Casting Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infinite-jest-10-ultimate-meme-layouts/"><u>[New] Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-experience-ultimate-quality-leading-4k-converters/"><u>[Updated] 2024 Approved Experience Ultimate Quality Leading 4K Converters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>[Updated] Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-gopro-max-and-hero-11-pursuit-of-perfect-footage/"><u>[Updated] Examining GoPro Max & Hero 11 Pursuit of Perfect Footage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[Updated] In 2024, Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-unveil-full-length-videos-in-yt/"><u>2024 Approved How to Unveil Full-Length Videos in YT</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-seamlessly-add-and-edit-audio-to-canvas-clips-for-2024/"><u>How to Seamlessly Add and Edit Audio to Canvas Clips for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-12-pro-how-to-unlock-a-disabled-iphone-12-pro-by-drfone-ios/"><u>In 2024, Disabled iPhone 12 Pro How to Unlock a Disabled iPhone 12 Pro?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-easy-the-best-websites-for-jpg-to-gif-transformation/"><u>In 2024, Free & Easy The Best Websites for JPG to GIF Transformation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-res-360-views-gear-vs-lgcam-showdown/"><u>In 2024, High-Res 360 Views Gear vs LGCam Showdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/swift-installation-of-hp-speaker-drivers-free-version-available/"><u>Swift Installation of HP Speaker Drivers - FREE Version Available</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-guide-5-free-techniques-to-shrink-your-mkv-videos-down-to-size/"><u>Ultimate Guide: 5 FREE Techniques to Shrink Your MKV Videos Down to Size</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-handsome-horizons-premium-pc-backgrounds-online/"><u>[New] Handsome Horizons Premium PC Backgrounds Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-envisioned-worlds-await-equip-yourself-with-these-7-devices/"><u>[New] In 2024, Envisioned Worlds Await Equip Yourself with These 7 Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-starting-an-engaging-instagram-live-session/"><u>[New] Starting an Engaging Instagram Live Session</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streaming-software-showdown-the-ultimate-guide-to-obs-vs-shadowplay/"><u>[New] Streaming Software Showdown The Ultimate Guide to OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-webm-viewers-the-ultimate-comparison-of-options/"><u>[Updated] Free WebM Viewers The Ultimate Comparison of Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-slide-show-apps-from-iphone-6-to-xs-max/"><u>[Updated] Ideal Slide Show Apps From iPhone 6 to XS Max</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-enlightening-your-youtube-footage-with-proper-lighting/"><u>2024 Approved Enlightening Your YouTube Footage with Proper Lighting</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/baixe-e-converta-filmes-em-mp4-de-graca-no-online-com-o-opus-e-ferramentas-da-movavi/"><u>Baixe E Converta Filmes Em MP4 De Graça No Online Com O Opus E Ferramentas Da Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-irobots-latest-innovation-the-self-maintaining-roomba-keeps-its-own-mop-spotless-for-effortless-cleaning-solutions/"><u>Discover How iRobot's Latest Innovation, The Self-Maintaining Roomba, Keeps Its Own Mop Spotless for Effortless Cleaning Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-your-perfect-match-the-top-10-online-converters-list-for-2024/"><u>Find Your Perfect Match The Top 10 Online Converters List for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-efficient-webp-jpeg-conversion-for-2024/"><u>Guide to Efficient WebP JPEG Conversion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-get-still-on-the-move-gopro-stability-tips-for-2024/"><u>How to Get Still on the Move GoPro Stability Tips for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cultivating-a-distinctive-presence-in-the-marketplace/"><u>In 2024, Cultivating a Distinctive Presence in the Marketplace</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster-for-2024/"><u>In-Depth Dive Perfecting the Art of Green Screen with Kinemaster for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-version-175-released-how-to-update-your-iphone-now-with-new-improvements/"><u>IOS Version 17.5 Released – How to Update Your iPhone Now with New Improvements</u></a></li>
 </ul></div>
 

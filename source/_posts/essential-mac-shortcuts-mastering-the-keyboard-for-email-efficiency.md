@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-11-10T19:05:35.380Z
-updated: 2024-11-13T18:56:18.547Z
+date: 2024-11-17T22:29:12.786Z
+updated: 2024-11-24T01:02:25.439Z
 tags:
   - desktop
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
 
 Once you integrate shortcuts into your workflow, you'll wonder how you ever worked without them. Apple's native Mail app has a host of custom commands that make quickly navigating your email simple. Not only do these shortcuts work in the Mac Mail app, they also work on iPads with [connected keyboards](https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/) and when using iCloud Mail through a browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Attach Files (Command+Shift+A) 
 
  To attach a file quickly and easily when composing an email, press Command+Shift+A. This will open up File Explorer and allow you to select and attach the file you're looking for.
@@ -20,10 +24,11 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
@@ -33,10 +38,7 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
@@ -44,28 +46,12 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
 
@@ -102,16 +88,24 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-inside-track-on-calculating-your-youtube-impact-and-income/"><u>[New] In 2024, Inside Track on Calculating Your YouTube Impact and Income</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ppt-presentations-merging-audio-and-imagery-fluently-for-2024/"><u>[New] PPT Presentations Merging Audio & Imagery Fluently for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x9a-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X9a</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/automated-with-cookiebot-the-secret-behind-our-dynamic-website/"><u>Automated with Cookiebot: The Secret Behind Our Dynamic Website!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-your-website-traffic-with-lead-generation-introducing-cookiebot-powered-solutions/"><u>Boost Your Website Traffic with Lead Generation: Introducing Cookiebot-Powered Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comment-nickel-utilise-abbyy-pour-stimuler-sa-developpement-au-marche-francais/"><u>Comment Nickel Utilise ABBYY Pour Stimuler Sa Développement Au Marché Français</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-site-optimization-enhance-your-websites-traffic-and-conversions/"><u>Cookiebot-Driven Site Optimization: Enhance Your Website's Traffic and Conversions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-photoshoots-select-your-ideal-background-viewer/"><u>Elevate Photoshoots Select Your Ideal Background Viewer</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On OnePlus 12R without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/why-purchasing-early-access-games-isnt-a-guarantee-of-quality-gaming-experience/"><u>Why Purchasing Early Access Games Isn't a Guarantee of Quality Gaming Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clipcutting-masterwin8/"><u>[New] ClipCutting MasterWin8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-satisfactory-to-superior-your-tech-upgrade-playbook/"><u>[New] From Satisfactory to Superior Your Tech Upgrade Playbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-groundbreaking-gear-for-next-level-virtual-reality/"><u>[New] Groundbreaking Gear for Next-Level Virtual Reality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[New] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-use-movie-maker-on-windows-11/"><u>[New] In 2024, How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-iphones-macro-photography-secrets-revealed/"><u>[Updated] Expertise in iPhone's Macro Photography Secrets Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-worlds-with-samsung-gear-vr-games/"><u>[Updated] Exploring Virtual Worlds with Samsung Gear VR Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>[Updated] From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-engaging-with-youtube-comment-threads/"><u>[Updated] In-Depth Look at Engaging with YouTube Comment Threads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oven-ways-to-increase-youtube-views/"><u>12 Proven Ways to Increase YouTube Views</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-pova-5-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Pova 5 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-pros-and-cons-of-buying-digital-games/"><u>9 Pros (and Cons) of Buying Digital Games</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/customized-user-experience-with-cookiebot-technology/"><u>Customized User Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/t-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-text-to-stunning-three-dimensional-designs-photo/"><u>In 2024, From Ordinary Text to Stunning Three-Dimensional Designs PHOTO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-max-vs-hero-11-a-video-quality-showdown/"><u>In 2024, GoPro Max vs Hero 11 A Video Quality Showdown</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-11-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme 11 5G Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-chatgpt-could-be-your-go-to-resource-for-health-tips/"><u>Why ChatGPT Could Be Your Go-To Resource for Health Tips?</u></a></li>
 </ul></div>
 

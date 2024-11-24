@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your PC's Identity: A Step-by-Step Guide to Locating Your Machine's Name on Windows 11"
-date: 2024-11-08T00:33:46.891Z
-updated: 2024-11-13T19:31:16.728Z
+date: 2024-11-19T02:20:28.410Z
+updated: 2024-11-24T02:29:38.069Z
 tags:
   - deals
 categories:
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
  Do you want to find your computer on a network where there are several machines? One way to do that is to find your PC's name and then match the name on the network. Here's how to view your computer's name using graphical and command-line methods in Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find Your Computer Name with the Power User Menu
@@ -39,32 +36,20 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
 ![Right-click the "Start" menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/1-windows-start-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Power User menu that opens, select "System."
 
 ![Press Windows+X, then select "System."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/system.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the "About" screen that opens, next to "Device Name," you'll see your computer name.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a Keyboard Shortcut
@@ -73,24 +58,15 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
 ![Press Windows+Pause.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/windows-pause-break.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  On the "About" page, next to "Device Name," your PC name is listed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using the Search Box
 
@@ -100,22 +76,12 @@ PC name
 
 ![The search bar near the Start Menu button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/search-bar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the search results, select "View Your PC Name."
 
 ![Select "View Your PC Name" from the search results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/view-your-pc-name.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next to "Device Name," your computer name is listed.
@@ -123,10 +89,7 @@ PC name
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using File Explorer
@@ -142,10 +105,7 @@ PC name
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using the Settings App
@@ -155,6 +115,10 @@ PC name
  To use this method, [open the Settings app](https://facebook-video-footage.techidaily.com/updated-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/) by pressing Windows+i. In Settings, select "System."
 
 ![Choose "System" in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/7-system-settings-windows.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the left sidebar, at the bottom, click "About."
 
@@ -201,18 +165,22 @@ hostname
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-experience-the-future-with-these-top-iphone-vr-titles/"><u>[New] Experience the Future with These Top iPhone VR Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gamer-gold-grindings-pewdiepies-profit-profile/"><u>[New] Gamer Gold Grindings PewDiePie's Profit Profile</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hunters-choice-top-5-ultimate-shot-recording-gear/"><u>[New] Hunters' Choice Top 5 Ultimate Shot-Recording Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-speech-finesse-in-online-combat/"><u>[Updated] Free Speech Finesse in Online Combat</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-live-chat-apps-to-try-with-shopify/"><u>Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensuring-seamless-gameplay-in-cities-skylines-2-a-guide-to-prevent-pc-issues-and-crashes/"><u>Ensuring Seamless Gameplay in Cities: Skylines 2 - A Guide to Prevent PC Issues and Crashes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-sony-xperia-1-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Sony Xperia 1 V?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/htc-vive-headset-review/"><u>HTC Vive Headset Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-eye-of-excellence-a-comprehensive-list-of-8k-cameras/"><u>In 2024, Eye of Excellence A Comprehensive List of 8K Cameras</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a38-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A38 FRP Locks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-and-exploration-adobe-storage-vs-competitors-options/"><u>In 2024, In-Depth Analysis & Exploration Adobe Storage Vs. Competitors' Options</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-best-mac-methods-for-recording-roblox-games-for-2024/"><u>Unveiling Best Mac Methods for Recording Roblox Games for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-bedtime-fables-parenting-perspectives-on-childrens-stories/"><u>Video Bedtime Fables Parenting Perspectives on Children's Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-yuneec-typhoon-h-expert-drone-review/"><u>[New] Exploring the Yuneec Typhoon H Expert Drone Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-spoken-words-to-written-text-ppt-innovation-guide/"><u>[New] From Spoken Words to Written Text PPT Innovation Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-do-a-poll-on-instagram-stories-the-only-guide-you-need-to-read-for-2024/"><u>[New] How to Do a Poll on Instagram Stories The Only Guide You Need to Read for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[New] In 2024, Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-and-simple-18-vlogging-projects/"><u>[New] Innovative & Simple 18 Vlogging Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-versatile-laptop-software-to-watch-dvds/"><u>[Updated] Free, Versatile Laptop Software to Watch DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-music-making-magic-selecting-background-beats-for-vids/"><u>[Updated] Music Making Magic Selecting Background Beats for Vids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essentials-of-adding-emojis-to-youtube-discussions/"><u>[Updated] The Essentials of Adding Emojis to Youtube Discussions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/warning-missing-amd-drivers-in-windows-environment/"><u>[WARNING] Missing AMD Drivers in Windows Environment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-videos-with-apple-harmonies/"><u>2024 Approved Infusing Videos with Apple Harmonies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-steps-in-simplified-nft-designing-guide-for-2024/"><u>First Steps in Simplified NFT Designing Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/following-scrutiny-unorthodox-ideas-for-2024/"><u>Following Scrutiny Unorthodox Ideas for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y78plus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y78+ to iPod | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-realms-history-of-vr/"><u>In 2024, Innovating Realms History of VR</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-new-worlds-top-10-steam-deck-games-to-play/"><u>Navigating New Worlds: Top 10 Steam Deck Games to Play</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-amazing-sites-offering-complimentary-early-childhood-learning-activities/"><u>Top 9 Amazing Sites Offering Complimentary Early Childhood Learning Activities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Starting Google Chrome From Terminal on Windows 11
-date: 2024-11-12T02:51:58.012Z
-updated: 2024-11-14T04:41:32.273Z
+date: 2024-11-19T23:53:13.690Z
+updated: 2024-11-24T00:13:17.565Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Easy Instructions for Starting Google Chrome From Terminal on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Launching the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/0.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Command Prompt, run the following command:
 
         `start chrome`
@@ -42,38 +50,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Search "Run" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-run.png) 
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here, type **Chrome** and then select the "OK" button.
 
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The web browser will now open.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
 
@@ -85,14 +66,11 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
- You'll now be running Chrome as an administrator.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll now be running Chrome as an administrator.
 
 ##  Open Chrome in Incognito Mode
 
@@ -102,19 +80,24 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Start Google Chrome with the /incognito flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-opening-chrome-in-incognito-mode.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do this from the Run program, enter this command instead:
 
 `chrome /incognito` 
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Chrome will now open in incognito mode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
@@ -141,13 +124,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or, to open the site in incognito mode, use:
 
 `chrome /incognito www.howtogeek.com` 
@@ -171,24 +147,18 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-android-screen-recording-tutorial-essentials-for-2024/"><u>[New] Android Screen Recording Tutorial Essentials for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-finest-iosdesktop-video-to-file-converters/"><u>[New] Explore the Finest iOS/Desktop Video to File Converters</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ransformative-tutorials-into-thriving-treasuries-for-2024/"><u>[New] Transformative Tutorials Into Thriving Treasuries for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-9-key-platforms-for-high-quality-livestreaming/"><u>[Updated] 9 Key Platforms for High-Quality Livestreaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-analysis-of-powerdirector-2024-full-review-and-tutorial/"><u>[Updated] Expert Analysis of PowerDirector 2024 - Full Review & Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-sound-freedom-with-pazera-tools-an-up-to-date-review/"><u>[Updated] Explore Sound Freedom with Pazera Tools - An Up-to-Date Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-fluidity-techniques-implementing-motion-blur-effects/"><u>[Updated] Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-family-bonding-through-film-the-ultimate-classics-list/"><u>[Updated] Family Bonding Through Film The Ultimate Classics List</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/graphic-animation-basic-knowledge-and-practices-for-2024/"><u>Graphic Animation Basic Knowledge & Practices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-expand-your-youtube-video-footprint-for-2024/"><u>How to Expand Your YouTube Video Footprint for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia Phone Forgot Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/implementing-gradual-audio-diminishment-in-lumafusion-for-2024/"><u>Implementing Gradual Audio Diminishment in Lumafusion for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-battlefield-geniuses-discovering-the-quintessential-7-total-war-experiences/"><u>In 2024, Battlefield Geniuses Discovering the Quintessential 7 Total War Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-luts-refine-image-details-and-contrast-in-photos/"><u>In 2024, How LUTs Refine Image Details and Contrast in Photos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-invitation-essentials-top-apps-for-ios-and-android-users/"><u>New 2024 Approved Video Invitation Essentials Top Apps for iOS and Android Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ricarica-avi-a-formato-wmv-online-gratuitamente-con-convertitore-movie-movavi/"><u>Ricarica AVI a Formato WMV Online Gratuitamente Con Convertitore Movie - Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>[New] Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-breathtaking-review-and-different-directions/"><u>[New] In 2024, Breathtaking Review & Different Directions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ake-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>[New] Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-instruction-manual-for-wm6/"><u>[Updated] Perfect Instruction Manual for WM6</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-technological-testing-vlles-app-analysis/"><u>[Updated] Technological Testing VLLE's App Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-your-journey-with-hdr-in-ps/"><u>2024 Approved From Novice to Pro Your Journey with HDR in PS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capture-brilliance-in-canon-photos-with-free-and-premium-luts-for-2024/"><u>Capture Brilliance in Canon Photos with Free and Premium LUTs for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nubia-z50-ultra-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nubia Z50 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-motorola-moto-g-stylus-5g-2023-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Motorola Moto G Stylus 5G (2023) Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grab-tailor-made-cost-free-outro-videos/"><u>In 2024, Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-review-samsungs-immersive-360-degree-camera-for-2024/"><u>In-Depth Review Samsung's Immersive 360-Degree Camera for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Updated Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/webmmp4/"><u>WebMとMP4の違い：品質・サイズ・互換性を深く解析！</u></a></li>
 </ul></div>
 

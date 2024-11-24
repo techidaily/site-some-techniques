@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-11-08T21:48:01.297Z
-updated: 2024-11-14T03:23:50.328Z
+date: 2024-11-20T22:03:12.324Z
+updated: 2024-11-23T19:20:13.133Z
 tags:
   - deals
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -35,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
@@ -52,22 +53,12 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -89,9 +80,17 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -103,16 +102,13 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
 
@@ -127,20 +123,6 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -197,20 +179,21 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>[New] Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-creative-zooming-into-video-filters-step-by-step/"><u>[New] From Basic to Creative Zooming Into Video Filters Step-by-Step</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-five-superior-timelapse-filmmakers/"><u>[New] In 2024, Five Superior Timelapse Filmmakers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-leverage-the-power-of-visual-storytelling-with-your-own-facebook-slideshows/"><u>[New] In 2024, Leverage the Power of Visual Storytelling with Your Own Facebook Slideshows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-niche-to-notorious-the-journey-of-crafting-memetic-content-gifs/"><u>[Updated] From Niche to Notorious The Journey of Crafting Memetic Content (GIFs)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-front-row-diversions-beyond-sports-galore/"><u>[Updated] Front Row Diversions Beyond Sports Galore</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hacky-podcast-transmission-tactic/"><u>[Updated] Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>[Updated] In 2024, Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-top-30-original-pfp-suggestions-for-tiktok-success/"><u>2024 Approved Top 30 Original PFP Suggestions for TikTok Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-connection-tips-hooking-up-your-firestick-device-to-any-modern-projector-model/"><u>Easy Connection Tips: Hooking up Your Firestick Device to Any Modern Projector Model</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/iconic-imagery-transforming-audio-into-visual-podcast-identity-for-2024/"><u>Iconic Imagery Transforming Audio Into Visual Podcast Identity for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-hosts-elevating-youtube-video-audiences-for-2024/"><u>Ideal Hosts Elevating YouTube Video Audiences for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-personalized-ais-new-capabilities-in-custom-gpt-model-creation-by-chatgpt-enhancement/"><u>Innovating Personalized AIs: New Capabilities in Custom GPT Model Creation by ChatGPT Enhancement</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/jpeg-jpg/"><u>JPEG 파일을 무료 JPG 변환: 오피스 친화적인 방법</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-performance-issues-eliminate-half-life-alyxs-hiccups-for-smoother-gameplay/"><u>Overcoming Performance Issues: Eliminate Half-Life Alyx's Hiccups for Smoother Gameplay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-messages-whatsapps-audio-update/"><u>[New] Harmonizing Messages WhatsApp's Audio Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-sifting-through-cloud-costs-for-maximum-savings/"><u>[New] Sifting Through Cloud Costs for Maximum Savings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-interface-intensity/"><u>[Updated] Innovative Interface Intensity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-infinite-artistic-possibilities-with-top-10-apps/"><u>2024 Approved Explore Infinite Artistic Possibilities with Top 10 Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-tools-to-advanced-systems-prepping-for-transformation/"><u>2024 Approved From Basic Tools to Advanced Systems Prepping for Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-video-studio-analysis-comprehensive-xreview-guide/"><u>2024 Approved In-Depth Video Studio Analysis Comprehensive XReview Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-issues-with-unresponsive-headset-microphones-and-effective-remedies/"><u>Diagnosing Issues with Unresponsive Headset Microphones and Effective Remedies</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-x5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco X5 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-camon-30-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Camon 30 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-vibe-todays-hot-ten-music-clips-for-2024/"><u>Facebook’s Vibe Today’s Hot Ten Music Clips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-rate-soundbites-googles-best-talk-series-for-2024/"><u>First-Rate Soundbites Google's Best Talk Series for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gradual-diminishment-of-sound-tips-from-logic-pro-experts-for-2024/"><u>Gradual Diminishment of Sound Tips From Logic Pro Experts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-the-green-boot-failure-screen-in-windows-10-and-11/"><u>How to Correct the Green Boot Failure Screen in Windows 10 & 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Without a Passcode</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-high-definition-audio-drivers-update-in-windows-7/"><u>NVIDIA High Definition Audio Drivers Update in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-best-and-most-reliable-free-hd-movie-downloads/"><u>Ultimate Guide: Best & Most Reliable Free HD Movie Downloads</u></a></li>
 </ul></div>
 

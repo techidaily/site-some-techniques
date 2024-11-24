@@ -1,7 +1,7 @@
 ---
 title: Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
-date: 2024-11-13T06:08:52.198Z
-updated: 2024-11-13T16:53:39.232Z
+date: 2024-11-18T18:07:07.565Z
+updated: 2024-11-23T16:38:12.106Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is FTP?
 
  FTP stands for "File Transfer Protocol." Developer Abhay Bhushan created the protocol way back in 1971\. He was inducted into the Internet Hall of Fame in 2023.
@@ -40,10 +37,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Download an Alternative File Manager
@@ -68,6 +62,10 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -79,10 +77,7 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
@@ -90,10 +85,7 @@ Close
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
@@ -119,21 +111,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humor-synthesizer-zombified-appliances/"><u>[New] Humor Synthesizer Zombified Appliances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-selection-7-best-mac-video-apps/"><u>[New] Ideal Selection 7 Best Mac Video Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adrevenue-on-youtube-unpacked-average-income-from-1000-viewers-engagement/"><u>[New] In 2024, AdRevenue on YouTube Unpacked Average Income From 1,000 Viewers' Engagement</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-from-amateurs-to-experts-kinemasters-step-guide/"><u>[Updated] 2024 Approved From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>[Updated] From Raw to Stunning The Role of LUTs in Premiere Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hit-the-mark-video-that-skyrockets-in-popularity/"><u>[Updated] Hit the Mark Video that Skyrockets in Popularity</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-novice-to-viral-video-top-30-anime-inspiration-ideas/"><u>[Updated] In 2024, From Novice to Viral Video Top 30 Anime Inspiration Ideas</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-smart-solutions-for-gathering-visual-assets/"><u>[Updated] Smart Solutions for Gathering Visual Assets</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-google-pixel-8-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Google Pixel 8 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-f23-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo F23 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-high-precision-with-hp-envy-27-monitor/"><u>Exploring High Precision with HP Envy 27 Monitor</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-14-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 14 Pro Max Data Completely | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-samsungs-digital-photography-enhancements/"><u>In 2024, Examining Samsung's Digital Photography Enhancements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hand-tracking-explained-types-and-applications/"><u>In 2024, Hand Tracking Explained Types and Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-drone-flight-q500-typhoon-review/"><u>In 2024, Innovative Drone Flight - Q500 Typhoon Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-non-google-ar-visual-interactions/"><u>[New] Exploring Non-Google Ar Visual Interactions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-the-use-of-m1-max-clip/"><u>[New] Mastering the Use of M1 Max Clip</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-easy-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>[Updated] Easy Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-top-10-4k-mirrorless-camera-lists/"><u>[Updated] Explore the Best Top 10 4K Mirrorless Camera Lists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-professional-gimbals-and-tripods-for-youtube-starters-for-2024/"><u>[Updated] Professional Gimbals & Tripods for YouTube Starters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funnyframeforge-picfunnyfactory/"><u>2024 Approved FunnyFrameForge PicFunnyFactory</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-camera-mastery-essential-buying-tips/"><u>2024 Approved HDR Camera Mastery Essential Buying Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-in-pixels-kapwings-meme-crafting-app/"><u>2024 Approved Humor in Pixels Kapwing’s Meme Crafting App</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-and-customizing-proxies-in-windows-11/"><u>Enabling and Customizing Proxies in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funny-faces-and-posts-your-adobe-way-for-2024/"><u>Funny Faces and Posts Your Adobe Way for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-dimming-sound-effects-in-logic-pro-a-step-by-step-guide/"><u>In 2024, Dimming Sound Effects in Logic Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-combine-zoom-and-google-mail/"><u>In 2024, Harnessing the Power Combine Zoom & Google Mail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-animated-graphics/"><u>In 2024, Harnessing the Power of Animated Graphics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-v30-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme V30 Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-protection-unit-an-insightful-review-on-apcs-be600m1-with-battery-backup-and-built-in-usb-charger-functionality/"><u>The Ultimate Protection Unit: An Insightful Review on APC's BE600M1 with Battery Backup and Built-In USB Charger Functionality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-7-free-pc-screen-capture-programs/"><u>Top 7 Free PC Screen Capture Programs</u></a></li>
 </ul></div>
 

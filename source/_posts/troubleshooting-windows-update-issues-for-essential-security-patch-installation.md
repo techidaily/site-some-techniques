@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Issues for Essential Security Patch Installation
-date: 2024-11-11T20:54:19.940Z
-updated: 2024-11-14T02:14:19.454Z
+date: 2024-11-22T02:38:22.518Z
+updated: 2024-11-23T18:19:53.670Z
 tags:
   - deals
 categories:
@@ -11,25 +11,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Troubleshooting Windows Update Issues for Essential Security Patch Installation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To fix your update issue, download and run the Windows Update Assistant, install the available updates, and reboot your PC.
 * Other methods to resolve the problem include deleting your Windows Update cache, using Windows Update troubleshooter, and repairing Windows' corrupted system files.
 
  If you’ve encountered a “Your device is missing important security and quality fixes” error on your Windows 10 computer's Windows Update screen (like I did), worry not, as you can use Windows Update Assistant to fix your problem. There are other ways to resolve this issue, and we’ll show you how to apply them.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  1\. Use Windows Update Assistant
 
@@ -39,9 +30,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Update Now' highlighted on the Windows Update Assistant site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-download-windows-update-assistant.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the downloaded tool file, install the updates displayed in the tool, and [restart your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/).
 
  In the future, you can update your system from Settings > Update & Security > Windows Update as usual without encountering the above error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Clear Your Windows Update Cache
 
@@ -78,10 +77,7 @@ C:\Windows\SoftwareDistribution\
 !['Run the Troubleshooter' highlighted for the 'Windows Update' troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-launch-windows-update-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the tool to detect and resolve your update problems. This can take anywhere from a few seconds to a few minutes, then restart your PC.
@@ -94,13 +90,6 @@ C:\Windows\SoftwareDistribution\
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "User Account Control" prompt, choose "Yes".
 
  On the Command Prompt window, type the following command and press Enter. This will download the files needed to fix your corrupted files.
@@ -110,10 +99,7 @@ DISM.exe /Online /Cleanup-image /Restorehealth
 ![The DISM command on a Command Prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-run-dism-command-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next up, run the following command to begin finding and fixing your system’s damaged files:
@@ -141,16 +127,19 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-devices-for-frame-by-frame-filmmaking/"><u>[New] Excellent Devices for Frame-by-Frame Filmmaking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-enhance-your-vlc-playback-in-macos/"><u>[New] Expert Tips to Enhance Your VLC Playback in macOS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-guide-to-leveraging-youtube-video-endings/"><u>[Updated] 2024 Approved The Ultimate Guide to Leveraging YouTube Video Endings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expected-daily-video-consumption-gb-calculation/"><u>[Updated] Expected Daily Video Consumption GB Calculation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-timestamping-techniques-unveiled/"><u>[Updated] Image Timestamping Techniques Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revisiting-streamers-for-enhanced-experience-for-2024/"><u>[Updated] Revisiting Streamers for Enhanced Experience for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-artisans-handbook-to-photomontage-creation-for-2024/"><u>[Updated] The Artisan's Handbook to PhotoMontage Creation for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-8-backdrops-a-guide-to-personalize-macbook/"><u>Essential 8 Backdrops A Guide to Personalize MacBook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gimbal-mastery-7-drone-pros-recommended-for-2024/"><u>Gimbal Mastery 7 Drone Pros Recommended for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-secure-re-entry-resuming-fb-usage-post-hack/"><u>In 2024, Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nubia-red-magic-9-proplus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nubia Red Magic 9 Pro+ Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximize-youtube-income-insights-and-techniques/"><u>[New] 2024 Approved Maximize Youtube Income Insights and Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pinnacle-of-picture-perfection-top-10-screens/"><u>[New] Pinnacle of Picture Perfection Top 10 Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-creative-boundaries-with-high-quality-affects-plug-ins/"><u>[Updated] Explore Creative Boundaries with High-Quality Affects Plug-Ins</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-shop-for-the-cheapest-cloud-storage-step-by-step/"><u>[Updated] How to Shop for the Cheapest Cloud Storage, Step by Step</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-seamless-audio-switch-from-srt-to-xmlssa-guide/"><u>[Updated] In 2024, Seamless Audio Switch From SRT to XML/SSA Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-vs-dailymention-spotlighting-key-aspects/"><u>[Updated] YouTube Vs. DailyMention Spotlighting Key Aspects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>2024 Approved Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-google-pixel-fold-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Google Pixel Fold</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-express-creativity-for-free-your-meme-toolbox-awaits/"><u>In 2024, Express Creativity for Free – Your Meme Toolbox Awaits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hairstyles-for-visual-gurus/"><u>In 2024, Hairstyles for Visual Gurus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-to-m4v-file-transformation-cost-free-and-web-based-with-movavi/"><u>MP4 to M4V File Transformation - Cost-Free & Web-Based with Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-art-of-storytelling-video-editing-tips-to-bring-your-home-movies-to-life/"><u>New The Art of Storytelling Video Editing Tips to Bring Your Home Movies to Life</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multilingual Typing: Adjusting Keyboards on Windows 11 Systems"
-date: 2024-11-11T23:57:38.213Z
-updated: 2024-11-14T02:49:09.311Z
+date: 2024-11-21T16:10:49.658Z
+updated: 2024-11-23T22:58:26.293Z
 tags:
   - deals
 categories:
@@ -18,10 +18,7 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 * [How to Remove a Keyboard Language or Layout](https://extra-support.techidaily.com/professional-radial-effects-step-by-step-guide-for-photoshop-experts-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
 ![Time & language option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/time-language-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "Add a Language" button.
 
 ![Add a language option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/add-a-language-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Choose the language you want to install and then click the "Next" button.
 
@@ -53,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  Click "Install" to begin the installation process.
 
 ![Install option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/install-option.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once your language is installed, you'll see it listed under the Languages section. You can then click the language icon on the taskbar and choose the language you want to use.
 
@@ -77,29 +75,19 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
 ![Language options in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/language-options.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "Add a Keyboard" button next to Installed keyboards.
 
 ![Add a keyboard option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/add-a-keyboard-option.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose the layout of your choice to install it. You can [use the on-screen keyboard](https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-your-desktop-screen-on-windows-for-free-3-methods/) to see how the selected layout will work on your computer.
 
 ![Onscreen keyboard on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/onscreen-keyboard.jpg) 
 
  Once you've finalized a layout, you can remove the other keyboard layouts for your language.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Remove a Keyboard Language or Layout
 
@@ -109,22 +97,12 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
 ![Remove option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/remove-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A prompt will appear asking you to confirm whether you want to remove the selected language. Click "Yes" to confirm.
 
 ![Yes option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/yes-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all! The selected language is now removed from your computer.
@@ -136,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  Under the Keyboards section, click the three dots next to the layout you want to remove and choose "Remove" from the menu that crops up.
 
 ![Remove button in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/remove-button.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to delete multiple keyboard layouts, just repeat the above process for each layout you wish to remove.
 
@@ -158,20 +140,21 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hidden-treasures-the-undisclosed-window-11-tricks-youve-overlooked/"><u>[New] Hidden Treasures The Undisclosed WINDOW 11 Tricks You've Overlooked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>[New] In 2024, Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-hacks-create-memes-free-and-easy/"><u>[Updated] Humor Hacks Create Memes Free and Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-cloud-storage-solutions-for-your-android-device-2024-guide/"><u>[Updated] Ideal Cloud Storage Solutions for Your Android Device - 2024 Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/accidentally-downgraded-to-home-ed-restore-your-windows-pro-features-with-this-quick-fix-tech-tips-for-professionals/"><u>Accidentally Downgraded to Home Ed: Restore Your Windows Pro Features with This Quick Fix | Tech Tips for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gif-to-sticker-guide-mastering-conversion-on-discord-whatsapp-telegram-for-2024/"><u>GIF to Sticker Guide Mastering Conversion on Discord, WhatsApp, Telegram for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-beginners-guide-to-profitable-animated-advertising-in-facebook/"><u>In 2024, A Beginner's Guide to Profitable Animated Advertising in Facebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-the-best-prices-on-vr-headsets-from-china/"><u>In 2024, Finding the Best Prices on VR Headsets From China</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-word-writers-potential-voice-driven-document-creation/"><u>In 2024, Harnessing Word’ Writers' Potential Voice-Driven Document Creation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-switching-between-safe-mode-and-picture-in-picture-on-iosmacos/"><u>In 2024, Switching Between Safe Mode & Picture In Picture on iOS/MacOS</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-13t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for 13T Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-ultraportable-laptop-ideal-for-remote-professionals-a-review/"><u>Top-Performing Ultraportable Laptop Ideal for Remote Professionals - A Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformez-gratuitement-un-fichier-mxf-en-format-avi-avec-movavi-online-guide-simple-et-efficace/"><u>Transformez Gratuitement Un Fichier MXF en Format AVI Avec Movavi Online - Guide Simple Et Efficace</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-to-address-assassins-creed-valhalla-pc-game-freezes-and-crashes/"><u>Troubleshooting Guide to Address Assassin's Creed Valhalla PC Game Freezes and Crashes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-constructing-compelling-trailer-crafts/"><u>[New] Constructing Compelling Trailer Crafts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal/"><u>[New] From Basic to Expert Mastering the Art of Adobe PS Background Removal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pre-windows-era-to-modern-windows-11-today/"><u>[New] From Pre-Windows Era To Modern Windows 11 Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-time-markers-for-youtube-videos-expert-tips-desktopmobile/"><u>[New] In 2024, Time Markers for YouTube Videos Expert Tips (Desktop/Mobile)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-harnessing-hues-iphone-low-light-mastery/"><u>[Updated] 2024 Approved Harnessing Hues IPhone Low-Light Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-feed-breakthroughs-seeing-your-videos-for-2024/"><u>[Updated] Facebook Feed Breakthroughs Seeing Your Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-high-quality-photos-from-androids/"><u>[Updated] Harnessing High-Quality Photos From Androids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-transforming-mundane-interviews-into-memorable-experienrances/"><u>[Updated] In 2024, Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-photography-gurus-guide-to-date-stamping/"><u>[Updated] The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unilateral-earbud-error-how-to-rectify/"><u>2024 Approved Unilateral Earbud Error How to Rectify</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-top-affordable-video-editors-of-2023-today-for-2024/"><u>Discover Top Affordable Video Editors of 2023 Today for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-strategies-for-streaming-c-span-videos-online-for-2024/"><u>Gratis Strategies for Streaming C-Span Videos Online for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-6-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateurs-to-experts-kinemasters-step-guide/"><u>In 2024, From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>In 2024, In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-review-is-inshot-the-editors-choice-in-2024/"><u>In-Depth Review Is InShot The Editor's Choice, In 2024</u></a></li>
 </ul></div>
 

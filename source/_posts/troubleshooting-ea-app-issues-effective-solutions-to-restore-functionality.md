@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting EA App Issues: Effective Solutions to Restore Functionality"
-date: 2024-11-12T07:18:44.570Z
-updated: 2024-11-14T00:01:51.253Z
+date: 2024-11-18T18:42:30.369Z
+updated: 2024-11-23T19:51:09.419Z
 tags:
   - desktop
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 * [Do a Fresh Install of the EA App](https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-narzo-60-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/)
 * [If All Else Fails, Contact EA Support](https://some-approaches.techidaily.com/top-8-cam-filters-for-optimal-online-performance-for-2024/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Try launching the EA App directly from the installation directory as admin, or running in compatibility mode for Windows 7
@@ -35,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 * Other things to try include clearing the app cache, checking that your antivirus hasn't quarantined important files, making sure mods aren't to blame, or completely reinstalling the app if issues persist.
 
  The EA App is required if you want to play any Electronic Arts games, but the program occasionally refuses to launch altogether which prevents you from playing at all. Here are some fixes you can try to get the EA App working again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Run the EA App From the Installation Directory as Admin
 
@@ -52,15 +38,16 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![A screenshot showing how to run the EADesktop exe file as an administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-02_19h37_58.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is the only solution that worked for me, as the launcher keeps giving me a "Windows cannot find" error. If this didn't work for you, try launching it in compatibility mode for Windows 7 by right-clicking EADesktop.exe then selecting Properties > Compatibility > Run this program in compatibility mode for > Windows 7.
 
  While you're here, you can also enable "Run this program as an administrator" to make sure it always runs with [administrative privileges](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/). Hit "Apply" then "OK" to try running the app again. If this fix works for you, you can create a desktop shortcut by right-clicking EADesktop.exe and using the "Create Shortcut" option You'll probably get a prompt to place the shortcut on your desktop, but if you don't, you can move it manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enable Unicode UTF-8 Language Support
 
@@ -78,24 +65,25 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
 ![Deleting the EADesktop and Electronic Arts cache folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_10h05_38.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Make Sure Your Antivirus Isn’t Blocking the EA App
 
  Windows Defender is a great tool that protects our systems, but it occasionally raises false alarms and deletes benign files. We have a guide on how to [disable Real-Time Protection](https://desktop-recording.techidaily.com/new-record-gameplay-in-samsung-galaxy-phones-for-2024/) in Windows Defender, but in this case, we need to restore a file that may have already been quarantined.
 
  Open Start and use the search bar to look up "Windows Security." Click on "Virus & Threat Protection" and open "Protection History." Browse through the list of removed files. If you come across anything related to the EA App or Electronic Arts, select it and click "Restore." If you have a third-party antivirus, check its quarantined files to make sure none of them are related to Electronic Arts or the EA App. If they are, restore them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Delete "GAME\_DATA\_DIR"
 
  If you used the [Frosty Mod Manager](https://frostymodmanager.com/) to install mods for Frostbite games, this fix could work for you. Open Start and use the search bar to type "environment variables." Open "Edit the system environment variables" and click on "Environment variables..." Find the GAME\_DATA\_DIR variable and click "Delete" to remove it. Hit "OK," reboot your system, and try to launch the EA App again.
 
 ![Showing how to delete GAME_DATA_DIR variable in system variables.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/variables.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Do a Fresh Install of the EA App
 
@@ -106,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![Uninstalling the EA App manually in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/zbusntankl.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If All Else Fails, Contact EA Support
@@ -135,17 +120,22 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word/"><u>[New] Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-ideas-for-eye-catching-podcast-artwork/"><u>[New] Innovative Ideas for Eye-Catching Podcast Artwork</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-changing-user-numbers-on-tiktok/"><u>[Updated] Expert Guide to Changing User Numbers on TikTok</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens/"><u>[Updated] In 2024, Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1-mastering-kindle-fire-a-simple-guide-to-access-and-enjoy-your-google-books/"><u>1. Mastering Kindle Fire: A Simple Guide to Access and Enjoy Your Google Books</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensible-windows-screentime-intermission/"><u>A Comprehensible Window's Screentime Intermission</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-review-for-bublcam-360-camera/"><u>Full Review for Bublcam 360 Camera</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-phone-without-password-by-drfone-android/"><u>How To Unlock Itel P55T Phone Without Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-external-light-for-cozy-interior-spaces/"><u>In 2024, Harnessing External Light for Cozy Interior Spaces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hurdle-free-humor-your-guide-to-the-ifunny-app-world/"><u>In 2024, Hurdle-Free Humor Your Guide to the iFunny App World</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-your-online-presence-using-manycams-live-broadcasting-tools-and-fake-camera-features/"><u>Transform Your Online Presence Using ManyCam's Live Broadcasting Tools and Fake Camera Features</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/vsr-video-vaulter-reviews-comprehensive-guide/"><u>VSR Video Vaulter Reviews Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-mock-musicals-that-bring-smiles-for-2024/"><u>[New] 10 Mock Musicals That Bring Smiles for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-edge-techniques-elevating-your-youtube-edits-using-imovie-for-2024/"><u>[New] Cutting-Edge Techniques Elevating Your YouTube Edits Using iMovie for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>[New] Expertly Elevating Images Premier Frame Apps in 2E '24</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-picks-the-ultimate-selection-of-4k-monitors-for-macos/"><u>[New] In 2024, Top Picks The Ultimate Selection of 4K Monitors for MacOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-actionable-tips-on-how-to-post-on-reddit-step-by-step-guide/"><u>[Updated] Actionable Tips On How to Post on Reddit - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-digital-download-king-comprerante-video-acquisition-guide/"><u>[Updated] Digital Download King Comprerante Video Acquisition Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-blueprint-for-capturing-your-ps4-adventures-for-2024/"><u>[Updated] The Complete Blueprint for Capturing Your PS4 Adventures for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-samsungs-ue590-4k-gamer-monitor/"><u>2024 Approved Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-telegram-marketing-an-initiation-handbook/"><u>2024 Approved First Steps in Telegram Marketing An Initiation Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>2024 Approved Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imageintensifyx7-transform-scenes-with-simplicity/"><u>2024 Approved ImageIntensifyX7 Transform Scenes with Simplicity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-latest-quietly-impactful-ai-innovation-what-you-need-to-know-from-wwdc-techinsights/"><u>Apple's Latest Quietly Impactful AI Innovation: What You Need to Know From WWDC | TechInsights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-content-creation-with-these-8-essential-ai-tools/"><u>Boost Your Content Creation with These 8 Essential AI Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-compatibility-hp-officejet-pro-8610-driver-download-and-updates-for-all-windows-users/"><u>Ensure Compatibility: HP Officejet Pro 8610 Driver Download & Updates for All Windows Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-pick-a-vr-gear-is-mobile-mobility-more-attractive-than-cable-connections-for-2024/"><u>How to Pick a VR Gear Is Mobile Mobility More Attractive Than Cable Connections for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide-for-2024/"><u>How To Use The Background Eraser Tool In Photoshop Detailed Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-ae-text-styles-for-impact-for-2024/"><u>Innovative AE Text Styles for Impact for 2024</u></a></li>
 </ul></div>
 

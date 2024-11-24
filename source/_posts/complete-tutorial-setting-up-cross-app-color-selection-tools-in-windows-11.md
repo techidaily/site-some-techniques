@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11"
-date: 2024-11-11T00:19:39.244Z
-updated: 2024-11-13T17:13:09.676Z
+date: 2024-11-21T16:09:23.696Z
+updated: 2024-11-23T18:46:06.463Z
 tags:
   - deals
 categories:
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
  Need to figure out a color quickly? Using [Microsoft's free PowerToys utility for Windows 10](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/), you can instantly bring up a color picker with a keyboard shortcut and use your mouse cursor to identify any color on screen in hex, RGB, or HSL format. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Install PowerToys and Enable Color Picker
@@ -42,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
@@ -62,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
@@ -70,16 +68,13 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, you can adjust the color value you just selected within Color Picker by clicking the center of the large color bar near the top of the window.
 
 ![In Color Picker, click the color bar to adjust the color values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/click_color_bar.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After clicking the color bar, you'll see another screen with sliders that allow you to adjust the color with your mouse or by entering values with your keyboard.
 
@@ -92,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
@@ -119,22 +111,16 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expert-strategies-for-higher-youtube-shorts-revenue-for-2024/"><u>[New] Expert Strategies for Higher YouTube Shorts Revenue for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>[New] Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes/"><u>[New] Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-giggle-generation-top-ten-templates-for-viral-effect/"><u>[New] Giggle Generation Top Ten Templates for Viral Effect</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>[New] Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-humor-haven-the-ultimate-list-of-event-specific-jokes/"><u>[New] Humor Haven The Ultimate List of Event-Specific Jokes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-enhancing-communication-snap-camera-in-microsoft-teams/"><u>[New] In 2024, Enhancing Communication Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-honing-the-craft-of-question-design-in-interviews/"><u>[Updated] Honing the Craft of Question Design in Interviews</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-depth-guide-to-mobilepcmac-movie-capture-for-2024/"><u>[Updated] In-Depth Guide to Mobile/PC/Mac Movie Capture for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-zoom-presentations-with-stunning-visuals/"><u>[Updated] Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/funniest-punchlines-reddit-vs-twitter-memes/"><u>Funniest Punchlines Reddit Vs. Twitter Memes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209660969-9781547575596-il-tredicesimo-compleanno-di-megan/"><u>Il Tredicesimo Compleanno Di Megan | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-cheers-access-to-free-and-paid-otu-ideas/"><u>In 2024, Heartfelt Cheers Access to Free & Paid OTU Ideas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-embellish-videos-with-melodies-on-iphone-three-free-ways/"><u>In 2024, How to Embellish Videos with Melodies on iPhone – Three Free Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g73-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G73 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/scholarly-streams-10-best-ed-tutorials-yt/"><u>Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>[New] 2024 Approved Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-practices-for-advanced-ae-plug-ins/"><u>[New] Best Practices for Advanced AE Plug-Ins</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-extracting-srt-from-a-zip-archive/"><u>[New] Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-public-domain-art-what-is-it-and-website-recommendations/"><u>[Updated] Exploring Public Domain Art What Is It and Website Recommendations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-end-drones-expert-buyers-choices-top-5/"><u>[Updated] High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-horizons-in-the-virtual-realm-your-meme-making-map/"><u>[Updated] Humorous Horizons in the Virtual Realm - Your Meme-Making Map</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-elite-5-drones-perfect-choices-for-experts/"><u>[Updated] In 2024, Elite 5 Drones Perfect Choices for Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-choreographing-a-dynamic-trailer-sequence/"><u>In 2024, Choreographing a Dynamic Trailer Sequence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-mastery-top-15-dynamic-color-look-up-table-reviews/"><u>In 2024, GoPro Mastery Top 15 Dynamic Color Look-Up Table Reviews</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-future-of-gaming-unveiled-philips-newest-49-inch-oled-curved-masterpiece-for-enthusiasts/"><u>The Future of Gaming Unveiled: Philips’ Newest 49-Inch OLED Curved Masterpiece for Enthusiasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-evaluating-magix-samplitudes-market-position-against-other-audio-editing-suites/"><u>Updated Evaluating MAGIX Samplitudes Market Position Against Other Audio Editing Suites</u></a></li>
 </ul></div>
 

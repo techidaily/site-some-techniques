@@ -1,7 +1,7 @@
 ---
 title: "May 21St New York Times Brain Teaser Explained: Hints and Answers for #345"
-date: 2024-11-12T06:22:41.629Z
-updated: 2024-11-13T18:09:07.074Z
+date: 2024-11-17T16:04:41.007Z
+updated: 2024-11-23T17:00:39.236Z
 tags:
   - web
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -45,15 +38,16 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Purple:** A social media company and a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Are Today's Connections Groups?
 
 ![May 21st's words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
 
@@ -63,15 +57,16 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Purple:** \_\_\_Book (That's Not a Book)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![May 21st Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Smidgen (Yellow):** 
 
@@ -89,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Face, Mac, Match, Pocket
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 21st was pretty straightforward. 
@@ -100,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  The next group I spotted was Purple. Purple often hinges on missing or added words, so I started blindly attaching words to them to see if anything jumped out. Face immediately made me think Facebook, which seemed like a strong lead. Book also fits with Mac, Match, and Pocket. The group name was "\_\_\_\_book(That's Not a Book)." 
 
  That left buy, deal, steal, and value in the Green group, which was "Bargain." 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -136,22 +128,20 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-5-essential-steps-to-create-viral-titles-online/"><u>[Updated] 5 Essential Steps to Create Viral Titles Online</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-sculpted-smiles-and-eyes-introducing-facial-movement-with-motion-blur-in-picsart/"><u>[Updated] In 2024, Sculpted Smiles and Eyes Introducing Facial Movement with Motion Blur in Picsart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/code-224003-cleared-videos-playable-now/"><u>Code 224003 Cleared, Videos Playable Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide-for-2024/"><u>From Script to Screen Mastery Through Vida’ Writers Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts-for-2024/"><u>From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-breakdown-the-ultimate-dji-phantom-4-experience-for-2024/"><u>Full Breakdown The Ultimate DJI Phantom 4 Experience for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fundamentals-of-crafting-engaging-stories-for-2024/"><u>Fundamentals of Crafting Engaging Stories for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fundamentals-of-managing-volume-increase-in-projects-for-2024/"><u>Fundamentals of Managing Volume Increase in Projects for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fusing-youtube-beats-into-film-scenes-for-2024/"><u>Fusing YouTube Beats Into Film Scenes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-enhancing-screens-top-5-for-ps5-and-xbox-gamers-for-2024/"><u>Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-5-ways-to-fix-obs-black-screen-game-capture/"><u>In 2024, 5 Ways to Fix OBS Black Screen Game Capture</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>In 2024, Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-edge-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Edge 40 FRP Bypass</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-test-of-the-radpower-radcity-5plus-balancing-might-and-mass/"><u>In-Depth Test of the RadPower RadCity 5+: Balancing Might and Mass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-future-security-insights-for-digital-landscapes/"><u>Top 7 Future Security Insights for Digital Landscapes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tracing-the-paths-of-instagram-unfollows/"><u>[New] 2024 Approved Tracing the Paths of Instagram Unfollows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-music-tools-for-pcs/"><u>[New] Exclusive Music Tools for PCs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-imagesplitter-pro/"><u>[New] In 2024, ImageSplitter Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-mount-tech-for-smooth-sensor-motion/"><u>[New] Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-efficiently-attaching-subtitles-to-mp4s/"><u>[Updated] Expert Insights Efficiently Attaching Subtitles to MP4s</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher-for-2024/"><u>[Updated] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-free-cam-software-roundup-innovation-at-your-fingertips/"><u>[Updated] In 2024, Free Cam Software Roundup Innovation at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-7-platforms-for-transforming-art-into-nfts/"><u>2024 Approved Explore the Best 7 Platforms for Transforming Art Into NFTs</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-v27e-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo V27e? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-clean-up-your-figma-compositions-effectively-for-2024/"><u>How To Clean Up Your Figma Compositions Effectively for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>In 2024, Crafting Real World Stories An Insight Into Documentary Screenplay Writing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-the-fundamentals-of-animated-communication/"><u>In 2024, Grasping the Fundamentals of Animated Communication</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-on-the-reliable-fujitsu-scansnap-ix1600-for-office-paperwork-handling/"><u>In-Depth Review on the Reliable Fujitsu ScanSnap iX1600 for Office Paperwork Handling</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/superior-systems-enhancing-vocab-learning/"><u>Superior Systems Enhancing Vocab Learning</u></a></li>
 </ul></div>
 

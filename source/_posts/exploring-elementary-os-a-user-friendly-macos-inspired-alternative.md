@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2024-11-12T00:06:16.483Z
-updated: 2024-11-14T02:50:20.065Z
+date: 2024-11-21T16:48:25.594Z
+updated: 2024-11-23T20:40:57.757Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is elementary OS?
@@ -34,7 +31,15 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Installing elementary OS Is as Easy as It Gets
 
@@ -46,27 +51,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The boot and install options in an elementary OS live boot menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_04_58.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Settling in Is Elementary
 
@@ -74,18 +59,15 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
  By default, the AppStore is limited to elementary's curated apps. If that's not enough for you, and you need third-party software like Steam and LibreOffice, you'll need to enable [Flathub support](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) first. The reason for this extra step is that all that extra software hasn't been checked by the elementary team to integrate fully with the desktop and abide by its privacy and security guidelines. That said, I didn't personally experience any issues with the software I installed that way.
 
  Generally, the experience was far cleaner and more cohesive than most Linux desktops I've used. Navigating the desktop in general was a pleasant experience, without the endless subpages of settings and extravegent context menus some distros come with. I didn't experience unexplained freezes or mysterious blank screens on wake. I was able to connect a second monitor generally hassle-free, which isn't always the case for Linux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tinkerers Need Not Apply
 
@@ -94,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -116,20 +102,20 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-moons-magic-dos-and-donts-of-immersive-night-photography/"><u>[New] In 2024, Moon's Magic Do's & Don'ts of Immersive Night Photography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-superior-tools-for-capturing-moments-with-harmony/"><u>[New] In 2024, Superior Tools for Capturing Moments with Harmony</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-digital-strategies-with-the-power-of-cookiebot-technology/"><u>Enhancing Digital Strategies with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-website-engagement-with-powerful-cookiebot-technology/"><u>Enhancing Website Engagement with Powerful Cookiebot Technology</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/exploring-ar-stickers-a-look-at-googles-offering-for-2024/"><u>Exploring AR Stickers A Look at Google's Offering for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fortschritt-und-innovation-in-der-zukunft-von-handelskredit-herausforderungen-and-strategien/"><u>Fortschritt Und Innovation in Der Zukunft Von Handelskredit - Herausforderungen & Strategien</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-cookiebot-for-streamlined-advertising-campaigns/"><u>Harnessing the Power of Cookiebot for Streamlined Advertising Campaigns</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/how-to-seamlessly-transform-mp4-files-into-wmv-format-for-zero-cost-using-online-tools/"><u>How To Seamlessly Transform MP4 Files Into WMV Format For Zero Cost Using Online Tools.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor 100 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-automatisierung-von-dokumentenverarbeitung-in-berlins-stadtreinigungseinrichtungen/"><u>Innovative Automatisierung Von Dokumentenverarbeitung in Berlin's Stadtreinigungseinrichtungen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leveraging-ai-abbyys-educational-presentation-at-the-2018-aiim-convention/"><u>Leveraging AI: ABBYY's Educational Presentation at the 2018 AIIM Convention</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leveraging-cookiebot-technology-for-tailored-content-delivery/"><u>Leveraging Cookiebot Technology for Tailored Content Delivery</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/solution-implemented-for-windows-restoration-partition-drive-connection-with-intel-optane-technology/"><u>Solution Implemented for Windows Restoration Partition Drive Connection with Intel® Optane™ Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-f4v-video-format-into-mp4/"><u>Step-by-Step Guide: Transforming F4V Video Format Into MP4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-to-revive-a-frozen-desktop-notebook-or-tablet/"><u>Step-by-Step Tips to Revive a Frozen Desktop, Notebook, or Tablet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-list-of-ad-free-android-capturing-apps/"><u>[New] 2024 Approved Ultimate List of Ad-Free Android Capturing Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-iphone-macro-magic-capturing-the-fine-details/"><u>[New] In 2024, IPhone Macro Magic Capturing the Fine Details</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy/"><u>[New] In 2024, The Essentials of Setting Up & Assessing FB Instream Ad Efficacy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x/"><u>[Updated] 2024 Approved Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ghostly-glimpses-innovation-highlights/"><u>2024 Approved Ghostly Glimpses Innovation Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-shorten-and-resize-video-on-iphone/"><u>2024 Approved How to Shorten and Resize Video on iPhone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/chuckles-chronicles-current-hot-trends-in-comedy/"><u>Chuckles Chronicles Current Hot Trends in Comedy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evening-epics-a-look-at-video-driven-bedtime-fables-for-2024/"><u>Evening Epics A Look at Video-Driven Bedtime Fables for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-corsair-icue-malfunctions-on-new-generation-windows-platforms/"><u>How to Overcome Corsair iCUE Malfunctions on New Generation Windows Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-periscope-cost-benefits-and-signup-guide-for-2024/"><u>How to Use Periscope Cost, Benefits & Signup Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-moments-that-foster-interest-in-audios/"><u>In 2024, First Moments that Foster Interest in Audios</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone SE (2022)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-devices-of-now/"><u>In 2024, Immersive Devices of Now</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/proven-strategies-and-essential-tools-for-boosting-your-b2b-marketing-with-massmail/"><u>Proven Strategies and Essential Tools for Boosting Your B2B Marketing with MassMail</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-14-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 14 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
 

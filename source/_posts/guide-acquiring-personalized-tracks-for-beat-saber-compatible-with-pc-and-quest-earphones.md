@@ -1,7 +1,7 @@
 ---
 title: "Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones"
-date: 2024-10-23T16:00:53.945Z
-updated: 2024-10-29T17:22:47.368Z
+date: 2024-11-22T18:36:57.207Z
+updated: 2024-11-24T00:39:07.628Z
 tags:
   - cutting-edge
 categories:
@@ -36,16 +36,7 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ![Download Beat Saber APK](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/download-beat-saber-apk.jpeg) 
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
@@ -60,25 +51,11 @@ Nalin Rawat / How-To Geek
 
 ![Download BMBF from Sidequest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/download-bmbf-from-sidequest.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nalin Rawat / How-To Geek
 
  Once downloaded on your headset, go to App Library > Search Apps > Switch All to Unknown Sources > BMBF.
 
 ![BMBF For Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/bmbf-for-quest-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
 
@@ -87,10 +64,7 @@ Nalin Rawat / How-To Geek
 ![Do not press Restore when modding Beat Saber](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/do-not-press-restore-when-modding-beat-saber.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
@@ -107,6 +81,10 @@ Nalin Rawat / How-To Geek
 
 ![Beat Saber Custom Songs Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/beat-saber-custom-songs.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nalin rawat / How-To Geek
 
  We highly recommend using the in-built BMBF Browser to install additional mods. Many popular custom maps use mods like Chroma, Map Extensions, and Noodle Extensions. Once downloaded, click on Sync to Beat Saber to install these mods.
@@ -115,20 +93,21 @@ Nalin rawat / How-To Geek
 
  Adding custom songs for Beat Saber on PC is significantly easier when compared to a Quest headset. Adding songs manually is as simple as downloading a song from a website and placing it in the right folder. However, you can also use a third-party software called BSManager to download custom songs, mods, and even downgrade Beat Saber to an older version.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  How to Manually Add Songs to Beat Saber on PC
 
  Users can download custom songs from websites like [BeatSaver](https://beatsaver.com/)or [BeastSaber](https://bsaber.com/). Download the zip file for the custom song you want to add to Beat Saber. Extract the ZIP file into a folder and rename it with the song's title. Open the Beat Saber folder on your PC and go to Beat Saber\_Data > CustomLevels. Move the custom song folder to CustomLevels. You can now access custom songs under Solo > Custom Songs. This method can also work on the latest version of the app. You won't have to downgrade Beat Saber to an older version to run custom songs.
 
 ![Beat Saber Custom Songs File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/beat-saber-custom-level-location.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nalin Rawat / How-To Geek 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Use BSManager to Add Songs for Beat Saber on PC
 
@@ -157,21 +136,20 @@ Nalin Rawat / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[New] 2024 Approved From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>[New] Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-screens-making-a-music-video-on-iphone/"><u>[New] Harmonizing Screens Making a Music Video on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-zoom-in-google-meet/"><u>[New] How to Zoom In Google Meet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-artisan-editor-refining-video-transitions-with-inshot/"><u>[New] In 2024, The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android/"><u>[New] The Ultimate Selection of No-Cost Image Transformers for iOS and Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-androids-leading-music-video-watching-tools/"><u>[Updated] Explore Android's Leading Music Video Watching Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-futures-the-essence-of-vr-ar-and-mr/"><u>[Updated] Immersive Futures The Essence of VR, AR, & MR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-pursuit-of-quality-a-deep-dive-into-sonys-x1000v/"><u>[Updated] In Pursuit of Quality A Deep Dive Into Sony's X1000V</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-tv-essentials-step-by-step-upload-guide-for-2024/"><u>[Updated] Instagram TV Essentials Step-by-Step Upload Guide for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-flash-vids-unpacked-whats-inside/"><u>2024 Approved Flash Vids Unpacked What's Inside?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-magic-6-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor Magic 6 Pro?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-start-a-private-live-stream-on-youtube/"><u>How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y27 5G Phone Without Password?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-visual-messages-to-verbal-understanding-find-the-best-21-tools/"><u>In 2024, From Visual Messages to Verbal Understanding Find the Best 21 Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-growth-hacking-tactics-boosting-youtube-view-count-dramatically/"><u>[New] Growth Hacking Tactics Boosting YouTube View Count Dramatically</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-step-by-step-guide-to-crafting-striking-youtube-thumbnails-mac-edition/"><u>[New] In 2024, Step by Step Guide to Crafting Striking YouTube Thumbnails - Mac Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-blueprint-for-iphone-podcast-downloads/"><u>[New] The Complete Blueprint for iPhone Podcast Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-list-of-websites-for-text-styling-tools/"><u>[Updated] Expert List of Websites for Text Styling Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-intros-for-professionals-and-amateurs/"><u>[Updated] Free Video Intros for Professionals & Amateurs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-end-video-resizer-unparalleled-definition/"><u>[Updated] High-End Video Resizer Unparalleled Definition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>2024 Approved Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-steps-to-faster-film-playback-in-snapchat-for-2024/"><u>First Steps to Faster Film Playback in Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey-for-2024/"><u>From Standard Pixels to Dynamic Range Extremes A Transformation Journey for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/google-pixel-4a-5g-comprehensive-assessment-of-a-budget-friendly-android-marvel/"><u>Google Pixel 4a 5G - Comprehensive Assessment of a Budget-Friendly Android Marvel</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-youtubes-frame-advantage-five-free-tools/"><u>In 2024, Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-infinix-smart-8-hd-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Infinix Smart 8 HD Is Unlocked</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecret-to-understanding-your-youtube-fans/"><u>The Secret to Understanding Your YouTube Fans</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turning-off-the-latest-iphones-tips-for-iphone-15-pro-and-pro-max-owners/"><u>Turning Off the Latest iPhones: Tips for iPhone 15 Pro & Pro Max Owners</u></a></li>
 </ul></div>
 

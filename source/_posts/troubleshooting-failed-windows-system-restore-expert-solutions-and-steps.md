@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Failed Windows System Restore: Expert Solutions and Steps"
-date: 2024-11-11T17:10:44.918Z
-updated: 2024-11-13T21:45:01.127Z
+date: 2024-11-19T19:16:55.491Z
+updated: 2024-11-24T01:34:22.488Z
 tags:
   - deals
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  If Windows has started misbehaving, perhaps after installing a new app or driver, using System Restore can resolve the issue. However, it can be frustrating when you fire up System Restore, only for it to keep getting stuck or not work. We're going to show you how to fix that problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  1\. Use System Restore From Command Prompt
 
  If [using System Restore from the System Properties window](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/) is giving you difficulties, try using Command Prompt instead. Doing this will restore your computer to the most recent System Restore point.
@@ -44,13 +37,6 @@ rstrui.exe
 
  This command opens the System Restore window, allowing you to attempt the process again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Use System Restore From Advanced Options
 
  You can also try using System Restore from Advanced Options, which is in Windows Recovery Environment (Windows RE). This is a good alternative if something during the Windows startup process is causing System Restore to not work properly (or if you can't log in at all).
@@ -59,9 +45,17 @@ rstrui.exe
 
 ![Restarting a Windows 11 PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/restarting-windows-11-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When your computer boots up, it will be in Windows RE. Now, select "Troubleshoot."
 
 ![The 'Troubleshoot' option in Windows Recovery Enviroment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/troubleshoot-option-winrc-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Troubleshoot menu, click "Advanced Options."
 
@@ -71,27 +65,17 @@ rstrui.exe
 
 ![The 'System Recovery' option in Windows Recovery Enviroment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/system-restore-advanced-options-winrc-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will bring the System Restore window, allowing you to select a restore point to revert your computer's state.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Use System Restore in Safe Mode
 
  Safe Mode is a diagnostic mode that loads Windows with a limited set of apps, files, and drivers. This will let you know if any of those things are causing System Restore to malfunction.
 
  There are several ways to enter [Windows 11's Safe Mode](https://buynow-marvelous.techidaily.com/unveiling-the-strong-battery-feature-in-moto-g-power-a-tech-review-insight/) and [Windows 10's Safe Mode](https://screen-recording.techidaily.com/updated-leveraging-obs-establishing-an-efficient-countdown-clock/). Once you do, use System Restore as you normally would and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Disable Your Antivirus
 
@@ -115,27 +99,21 @@ rstrui.exe
 
 ![Opening Task Manager from System Configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-taskbar-system-configuration.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Task Manager, check the "Status" column of each startup app. If it says "Enabled," select the app and then click "Disable" in the top menu. Do this until you have disabled each startup app.
 
 ![Disabling a startup app in Task Manager on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/disabling-startup-app-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Back in System Configuration, click "Apply" to save the changes. Then, click "OK" to close the window.
 
  Now, restart your computer. When it boots back up, try restoring your system again and see if it works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Run the CHKDSK Command
 
@@ -148,6 +126,10 @@ chkdsk
  The CHKDSK utility will begin checking your drive for errors and fix any that it finds.
 
 ![CHKDSK running in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/chkdsk-runnning-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Run an SFC or DISM Scan
 
@@ -162,6 +144,10 @@ chkdsk
  If you suspect malware is behind the corruption of your system restore point, [run a quick system scan](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/) to check for it. We also recommend doing a full system scan once a week to remove deeper infections that regular scans can miss.
 
  You can't recover a corrupted System Restore point. So, if you have other restore points, use one of those instead. Afterward, delete the corrupted restore point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Reinstall Windows on Your Computer
 
@@ -188,19 +174,15 @@ chkdsk
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-search-people-on-facebook-quickly-2-ways-included/"><u>[New] 2024 Approved How to Search People on Facebook Quickly (2 Ways Included)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models-for-2024/"><u>[New] Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-staking-haven-evalutations/"><u>[New] HIGH-STAKING HAVEN EVALUTATIONS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopros-top-tier-face-off-hero5-b-and-sessions/"><u>[Updated] GoPro's Top Tier Face-Off Hero5 B & Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hdr-tech-showdown-sns-vs-alternatives/"><u>[Updated] HDR Tech Showdown SNS vs Alternatives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-pcb-creation-cytrons-uno-rp2040-board-evaluated-for-savvy-electronics-enthusiasts/"><u>Affordable PCB Creation: Cytron's Uno RP2040 Board Evaluated for Savvy Electronics Enthusiasts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-battery-powered-google-nest-doorbell-review/"><u>Comprehensive Battery-Powered Google Nest Doorbell Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conquering-compatibility-fixes-for-hp-1020-driver/"><u>Conquering Compatibility: Fixes for HP 1020 Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-hobbyist-to-pro-the-audacity-journey-for-2024/"><u>From Hobbyist to Pro The Audacity Journey for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frame-finesse-selecting-superior-video-cams-for-slow-motion/"><u>In 2024, Frame Finesse Selecting Superior Video Cams for Slow Motion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-3d-text-psd-goldmine-top-selections/"><u>In 2024, Free 3D Text PSD Goldmine - Top Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-action-captured-by-the-ion-pro-3-camera/"><u>In 2024, High-Quality Action Captured by the ION Pro 3 Camera</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/prime-6-mobile-movie-collections-for-2024/"><u>Prime 6 Mobile Movie Collections for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tech-driven-patient-recovery-paths/"><u>Tech-Driven Patient Recovery Paths</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-netizen-networks-examining-your-and-competing-channels/"><u>[New] 2024 Approved Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>[New] From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-comic-10-must-have-strategies-for-making-gifs/"><u>[New] From Concept to Comic 10 Must-Have Strategies for Making GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>[New] Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-prolong-your-snapstreak-legacy-with-ease/"><u>[New] Prolong Your Snapstreak Legacy with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-switch-between-normal-and-picture-in-picture-views-in-youtube-for-2024/"><u>How to Switch Between Normal and Picture In Picture Views in Youtube for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-gionee-f3-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Gionee F3 Pro Through Google Earth?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/privacy-preservation-in-videos-techniques-to-hide-data-for-2024/"><u>Privacy Preservation in Videos Techniques to Hide Data for 2024</u></a></li>
 </ul></div>
 

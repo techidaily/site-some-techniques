@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-11-10T17:57:59.465Z
-updated: 2024-11-13T16:37:10.924Z
+date: 2024-11-18T17:33:06.935Z
+updated: 2024-11-23T22:28:33.506Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ---
 
 ## Mastering File Renaming: A Comprehensive Guide Using PowerShell
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,16 +34,7 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
@@ -60,27 +55,7 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -93,16 +68,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -115,6 +81,10 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -122,6 +92,10 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -144,20 +118,16 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>[New] 2024 Approved A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-advice-on-reversing-non-functional-obs-fullscreen/"><u>[New] Advice on Reversing Non-Functional OBS Fullscreen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-detail-a-curated-list-of-8k-cameras/"><u>[New] Excellence in Detail A Curated List of 8K Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experiences-with-the-syma-x8c-drone/"><u>[New] Experiences with the Syma X8C Drone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[New] HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pixelgrabber-evaluation-with-vendors-offerings/"><u>[New] In 2024, PixelGrabber Evaluation with Vendors' Offerings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>2024 Approved Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-plot-crafting-platform-for-2024/"><u>Ideal Plot Crafting Platform for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immerse-slides-with-audio-harmony-for-2024/"><u>Immerse Slides with Audio Harmony for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-cutting-edge-free-livestream-platforms-and-programs-reviewed-here/"><u>In 2024, Cutting-Edge Free Livestream Platforms and Programs Reviewed Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-cheapest-deals-on-top-tier-gopros/"><u>In 2024, Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaviopusflac/"><u>Movaviで簡単フリーOPUSからFLACへの変換 - 無料!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-xiaomi-mix-fold-3-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Xiaomi Mix Fold 3.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/repair-techniques-for-defective-primary-audio-connector-a-comprehensive-guide/"><u>Repair Techniques for Defective Primary Audio Connector: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-instagram-edge-strategic-use-of-descriptive-texts-in-videos/"><u>[New] 2024 Approved The Instagram Edge Strategic Use of Descriptive Texts in Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pixelperfect-screen-capture-software/"><u>[New] PixelPerfect Screen Capture Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basic-to-exceptional-gopro-filming-techniques/"><u>[Updated] From Basic to Exceptional Gopro Filming Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pixel-paradise-100plus-game-havens-explored/"><u>[Updated] Pixel Paradise 100+ Game Havens Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revitalizing-urban-areas-with-environmental-vision-and-purpose/"><u>[Updated] Revitalizing Urban Areas with Environmental Vision and Purpose</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-hacks-for-improved-tiktok-visuals/"><u>2024 Approved Expert Hacks for Improved TikTok Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>2024 Approved High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-firefox-video-capture-packages/"><u>2024 Approved Top 10 Firefox Video Capture Packages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grassroot-game-gear-free-film-tips-for-fans-for-2024/"><u>Grassroot Game Gear - Free Film Tips for Fans for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdr-brilliance-justified-choice-or-overkill-in-2024/"><u>HDR Brilliance Justified Choice or Overkill, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-microsoft-azure-transcription-capabilities/"><u>In 2024, Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
 </ul></div>
 

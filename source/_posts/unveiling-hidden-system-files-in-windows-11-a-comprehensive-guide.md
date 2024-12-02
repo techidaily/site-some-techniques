@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2024-11-21T16:45:24.190Z
-updated: 2024-11-24T00:19:44.691Z
+date: 2024-11-29T03:02:23.896Z
+updated: 2024-12-02T07:02:30.436Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ## Unveiling Hidden System Files in Windows 11: A Comprehensive Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 * [How to Show Hidden Files on Windows 11 the Easy Way](https://some-tips.techidaily.com/new-unleash-your-contents-potential-for-1m-views-on-youtube/)
 * [Show Hidden Files on Windows 11 Using Options](https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-lava-blaze-2-5g-phone-network-ready-by-drfone-android/)
 * [How to Show Protected Operating System Files in Windows 11](https://screen-recording.techidaily.com/updated-cost-effective-pc-video-archive-tools/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![On Windows 11, click the File Explorer icon in the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_file_explorer_taskbar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have File Explorer open, you can proceed with the next step.
 
 ##  How to Show Hidden Files on Windows 11 the Easy Way
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Show Hidden Files on Windows 11 Using Options
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  When File Explorer opens, click the ellipses (three dots) button in the toolbar near the top of the window. In the menu that appears, select "Options."
 
 ![Click the three-dot menu icon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-the-three-dot-menu-icon-then-click-options.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the "Folder Options" window that opens, click the "View" tab. In the "Advanced Settings" list, locate the "Hidden Files and Folders" option. Using the radio buttons, select "Show hidden files, folders, and drives." Then click "OK" or "Apply" at the bottom of the window.
 
@@ -72,10 +68,14 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Show Protected Operating System Files in Windows 11
 
@@ -112,19 +112,18 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-innovative-strategies-for-engaging-your-audience-with-puzzles-on-instagram/"><u>[New] In 2024, Innovative Strategies for Engaging Your Audience with Puzzles on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-video-player-for-high-quality-avi-on-devices/"><u>[Updated] Exclusive Video Player for High-Quality AVI on Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>[Updated] Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-formulating-fascinating-film-excerpts/"><u>[Updated] Formulating Fascinating Film Excerpts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-harmonious-hush-for-restfulness-top-asmr-picks/"><u>[Updated] In 2024, Harmonious Hush for Restfulness Top ASMR Picks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-smooth-strategies-for-uncluttered-google-meet-sessions/"><u>[Updated] In 2024, Smooth Strategies for Uncluttered Google Meet Sessions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-handheld-camera-gear-with-smooth-motion/"><u>[Updated] Optimal Handheld Camera Gear with Smooth Motion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-selections-top-10-sports-streaming-apps-soccer-focus/"><u>2024 Approved Innovative Selections Top 10 Sports Streaming Apps, Soccer Focus</u></a></li>
-<li><a href="https://facebook.techidaily.com/disabling-general-member-notifications-fb/"><u>Disabling General Member Notifications: FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gigglegif-genius/"><u>In 2024, GiggleGif Genius</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-new-m3-macbook-pro-detailed-coverage-of-launch-date-cost-estimates-tech-specs-and-more-exclusive-content/"><u>Inside the New M3 MacBook Pro: Detailed Coverage of Launch Date, Cost Estimates, Tech Specs, and More Exclusive Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/live-recording-simplified-logitech-webcam-setup-steps/"><u>Live Recording Simplified Logitech Webcam Setup Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/revisiting-perception-why-consoles-arent-outdone/"><u>Revisiting Perception: Why Consoles Aren't Outdone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/by-step-guide-to-iconic-youtube-beginnings-method-a-and-b/"><u>Step-by-Step Guide to Iconic YouTube Beginnings Method A & B</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fasttrackpodcastlive-your-straightforward-guide-to-livestreaming-success/"><u>[New] FastTrackPodcastLive Your Straightforward Guide to Livestreaming Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>[New] Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vrecorder-integration-from-download-to-deployment-for-2024/"><u>[New] VRecorder Integration From Download to Deployment for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-futuristic-feature-unveiling-mac-via-applewatch/"><u>[Updated] Futuristic Feature Unveiling Mac via AppleWatch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-transforming-ideas-into-engaging-youtube-video-plans-for-2024/"><u>[Updated] Transforming Ideas Into Engaging YouTube Video Plans for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209865237-9780997560855-foundations-of-near-death-research/"><u>Foundations of Near-Death Research | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cut-to-clip-chaos-achieving-smoothness-with-inshot-for-2024/"><u>From Cut-to-Clip Chaos Achieving Smoothness with Inshot for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-karma-demystified-a-comprehensive-look/"><u>In 2024, GoPro Karma Demystified A Comprehensive Look</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improve-teleconference-experience-fixing-zoom-sound/"><u>In 2024, Improve Teleconference Experience Fixing Zoom Sound</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-psn-profile-on-the-go/"><u>Ultimate Guide: Setting Up Your PSN Profile on the Go</u></a></li>
 </ul></div>
 

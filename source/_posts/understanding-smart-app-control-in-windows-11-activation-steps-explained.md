@@ -1,7 +1,7 @@
 ---
 title: "Understanding Smart App Control in Windows 11: Activation Steps Explained"
-date: 2024-11-16T18:37:27.102Z
-updated: 2024-11-23T23:14:52.472Z
+date: 2024-11-24T18:27:01.722Z
+updated: 2024-12-02T00:21:55.115Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ## Understanding Smart App Control in Windows 11: Activation Steps Explained
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Smart App Control and How Does It Work?](https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y02t-drfone-by-drfone-virtual-android/)
@@ -18,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 * [How to Turn Off Smart App Control](https://tech-revival.techidaily.com/enterprise-focused-insights-on-gpt-systems/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  Apps from known publishers or with valid signatures will run as expected. If not, the program is blocked. There’s no manual override option, nor can you add an app to an exemption list.
 
 !['Smart App Control has blocked this app' notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-app-blocking-notification.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft intends that SAC is only useable on a clean Windows installation. By doing so, Windows can ensure that all the apps installed on your computer are vetted by SAC, thus ensuring the devices' safety. If you received SAC as a part of a Windows 11 update, you'll need to [perform a factory reset](https://facebook-video-footage.techidaily.com/new-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels-for-2024/) or [clean install Windows 11](https://instagram-video-files.techidaily.com/new-2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/) before you can use it (unless you perform a registry tweak, explained below).
 
@@ -67,12 +67,16 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ![App and Browser Control tab selected in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-security-app-browser-control-tab-selected-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "On" to enable Smart App Control on your Windows device. Once enabled, SAC starts monitoring and blocks any suspicious app execution on your computer.
 
 ![Smart App Control turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-turned-on-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Force Enable Smart App Control Using the Registry Editor
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ![Inputting regedit within Run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/win-plus-i-shortcut-to-open-run-box.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Registry Editor, navigate to the following location:
 
 Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Policy
@@ -97,16 +97,12 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 ![Windows 11 Registry Editor showing the 'VerifiedAndReputablePolicyState' value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-registry-editor-showing-smart-app-control-policy.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the "Value Data" field, type 1 to enable Smart App Control and click "OK" to save the changes. Alternatively, type 2 to put SAC in Evaluation mode, or 0 to turn it off. You need to relaunch the Windows Security app to apply the changes.
 
 ![Changing VerifiedAndReputablePolicyState value in Registry Editor to 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/changing-verifiedandreputablepolicystate-value-in-registry-editor-to-1-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Turn Off Smart App Control
@@ -124,6 +120,10 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
  Read the confirmation prompt, then click "Yes, I'm Sure" to disable Smart App Control.
 
 ![Smart App Control confirmation screen when turning off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-off-confirmation-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -144,21 +144,24 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-a-beginners-blueprint-setting-up-on-youtube/"><u>[New] 2024 Approved A Beginner's Blueprint Setting Up on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-evaluating-rapid-subscriptions-impact-on-video-engagement/"><u>[New] 2024 Approved Evaluating Rapid Subscription's Impact on Video Engagement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-gpodc-must-haves/"><u>[New] Exclusive GPodC Must-Haves</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions/"><u>[New] From Low to High A Beginner's Guide to Video Frame Rates & Resolutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-zooms-potential-with-key-conversion-techniques/"><u>[New] Harnessing Zoom's Potential with Key Conversion Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-blend-beats-and-bullets-in-microsofts-presentation-tool/"><u>[New] How to Blend Beats and Bullets in Microsoft's Presentation Tool</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-the-potential-of-your-ppt-with-professional-recording-for-2024/"><u>[New] Unlocking the Potential of Your PPT with Professional Recording for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-shops-for-unique-crafted-gift-enclosures/"><u>2024 Approved Ideal Shops for Unique, Crafted Gift Enclosures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporate-soundscape-into-visual-discussions/"><u>2024 Approved Incorporate Soundscape Into Visual Discussions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>2024 Approved Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/best-resources-to-explore-for-personalized-text-enhancements-online-for-2024/"><u>Best Resources to Explore for Personalized Text Enhancements Online for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversao-de-videos-de-mov-em-gifs-livres-e-direto-no-movavi/"><u>Conversão De Vídeos De MOV Em GIFs Livres E Direto No Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-resolution-passport-portraits-download-for-free-and-print-your-document-for-2024/"><u>High-Resolution Passport Portraits - Download for FREE & Print Your Document for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 7</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78t-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78t Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-take-on-magix-video-pro-x/"><u>[New] Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-latest-windows-10-gaming-and-application-hits/"><u>[New] Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>[New] High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-evolved-look-of-sony-bdp-s6700/"><u>[New] The Evolved Look of Sony BDP-S6700</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-creating-metaverse-laughter/"><u>[Updated] From Novice to Pro Creating Metaverse Laughter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-thrifty-choices-for-virtual-reality-heads/"><u>[Updated] In 2024, Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-best-5-gopro-filters-for-underwater-video-shooting/"><u>2024 Approved Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fcp-no-cost-access-a-guide/"><u>2024 Approved FCP No-Cost Access A Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-pot-review-a-deep-dive/"><u>2024 Approved GAMER'S POT REVIEW A Deep Dive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-visuals-enhancing-pictures-with-words-for-2024/"><u>Expertise in Visuals Enhancing Pictures with Words for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-make-a-nintendo-network-id-on-your-nintendo-3ds/"><u>How to Make a Nintendo Network ID on Your Nintendo 3DS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6? Complete Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-spectaculuxe-video-enhancer-22-upgrade-guide/"><u>In 2024, From Standard to Spectaculuxe Video Enhancer 2.2 Upgrade Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-overcoming-windows-11-photo-app-anomalies-with-ease/"><u>In 2024, Overcoming Windows 11 Photo App Anomalies with Ease</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-made-easy-with-manycam-professional-virtual-camera-and-screen-capture-solutions/"><u>Live Streaming Made Easy with ManyCam: Professional Virtual Camera and Screen Capture Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-troubleshooting-steps-for-persistent-skype-connection-issues/"><u>Top 10 Troubleshooting Steps for Persistent Skype Connection Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-for-professional-gopro-cinematography-for-2024/"><u>Ultimate Tutorial for Professional GoPro Cinematography for 2024</u></a></li>
 </ul></div>
 

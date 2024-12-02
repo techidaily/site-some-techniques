@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-11-18T02:37:20.944Z
-updated: 2024-11-23T23:53:30.519Z
+date: 2024-11-28T00:38:36.769Z
+updated: 2024-12-02T05:13:08.019Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Solving the Issue of Non-Functional Headphones in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Run the Audio Troubleshooter](https://vp-tips.techidaily.com/updated-first-flight-fun-best-easy-to-use-drones-for-2024/)
 * [Update Your Audio Drivers](https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Ensure your headphone's volume is not muted. If the speaker icon in your system tray has a cross next to it, click it, then click the icon beside the volume slider to unmute.
@@ -35,19 +35,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Getting ready to watch a video or listen to your favorite song, only to discover that your headphones aren't working, can be quite frustrating. Various factors can contribute to this problem on Windows 11, such as a different audio output device set as default, an app taking exclusive control of your headphones, outdated drivers, and more. Thankfully, it's usually straightforward to fix your headphones not working on Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Perform Some Preliminary Checks
 
  First, perform some basic checks, as they may quickly resolve the issue. To begin, confirm that your headphones are firmly inserted into the headphone jack and double-check that you haven't mistakenly plugged them into a microphone jack. Also, clean the audio jack, and try unplugging and replugging your headphones (plus, if possible, try another port).
 
  Then, disconnect all other peripherals attached to your device, mainly audio output devices. If the issue persists after performing these basic checks, apply the remaining fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Unmute Your Headphones
 
@@ -78,7 +70,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Set Your Headphones as the Default Output Device
@@ -89,16 +81,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
@@ -108,6 +100,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To disable both, open Sound settings (as detailed above), head to the "Playback" tab, right-click on your headphones, and select "Properties."
 
 ![Opening properties of a headphone on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-opening-properties-of-a-headphone-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, go to the "Advanced" tab and uncheck the boxes beside "Allow applications to take exclusive control of this device" and "Enable Audio Enhancements." Finally, click "OK."
 
@@ -123,6 +119,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Update Your Audio Drivers
 
  Outdated audio drivers can also cause difficulties with audio input and output devices. To rule out this possibility, [install the latest drivers](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/). Visit the manufacturer's website of your headphones or device and download the latest audio and Bluetooth drivers available. If the drivers are in an executable file format, simply run the files to install them.
@@ -132,7 +132,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Updating the sound driver in Windows Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-updating-the-sound-driver-in-windows-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Browse my computer for drivers," locate the downloaded files, and follow the on-screen instructions. Repeat these steps to update Bluetooth drivers.
@@ -156,22 +156,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-walkthrough-of-instagram-story-screening/"><u>[Updated] Step-by-Step Walkthrough of Instagram Story Screening</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>2024 Approved From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-ar-stickers-usage-and-options-beyond/"><u>2024 Approved Google's AR Stickers Usage & Options Beyond</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-building-massive-memes/"><u>2024 Approved Guide to Building Massive Memes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-image-transformation-hacks/"><u>2024 Approved Innovative Image Transformation Hacks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-compelling-podcast-teasers-for-2024/"><u>Crafting Compelling Podcast Teasers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-digital-history-effective-techniques-for-searching-archives-using-the-wayback-machine/"><u>Discover Digital History: Effective Techniques for Searching Archives Using the Wayback Machine</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/films-finest-closure-kits-grab-em-without-cost-for-2024/"><u>Film's Finest Closure Kits – Grab 'Em Without Cost for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719149095879-guarding-your-digital-identity-no-random-connections-please/"><u>Guarding Your Digital Identity: No Random Connections, Please!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-numbers-earnings-in-podcasting/"><u>In 2024, Behind the Numbers Earnings in Podcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-the-cost-of-producing-a-music-video/"><u>In 2024, Evaluating the Cost of Producing a Music Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>In 2024, Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-captivating-ae-titles/"><u>In 2024, Innovative Techniques for Captivating AE Titles</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-direct-messaging-services-exclusively/"><u>Navigating Direct Messaging Services Exclusively</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-v-purse-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor V Purse</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-business-success-with-claude-the-smart-ai-choice/"><u>Unlocking Business Success with Claude: The Smart AI Choice</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>[New] Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[New] In 2024, Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-balancing-exposures-for-perfect-pictures/"><u>[New] Innovations in Balancing Exposures for Perfect Pictures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examination-the-top-tier-ar-parrot-drone-20/"><u>[Updated] Examination The Top-Tier AR Parrot Drone 2.0</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-luts-showcase-10-standouts-with-direct-downloads/"><u>[Updated] Free LUTs Showcase 10 Standouts with Direct Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-memes-with-virality-factor/"><u>[Updated] Infusing Memes with Virality Factor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-prime-livestream-sites/"><u>2024 Approved Exclusive Guide to Prime Livestream Sites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-skyrocketing-numbers-a-guide-to-youtube-viewership-increase/"><u>2024 Approved Skyrocketing Numbers A Guide to YouTube Viewership Increase</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>2024 Approved Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-game-over-5-immediate-fixes-for-world-of-warships-pc-performance-and-stability/"><u>Beat the Game Over: 5 Immediate Fixes for World of Warships PC Performance & Stability</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-can-i-successfully-redownload-and-update-my-windows-pcs-graphics-card-drivers-insights-from-yl-computing/"><u>How Can I Successfully Redownload and Update My Windows PC's Graphics Card Drivers – Insights From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-the-missing-mingwm10dll-file-issue/"><u>How to Correctly Address the Missing Mingwm10.dll File Issue</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/i-numero-italiani-in-forma-di-saghe-1-1000/"><u>I Numero Italiani in Forma Di Saghe (1-1000)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-visual-communication-through-motion/"><u>In 2024, Fundamentals of Visual Communication Through Motion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tools-and-techniques-for-adding-frames-to-images-online/"><u>In 2024, Top Tools & Techniques for Adding Frames to Images Online</u></a></li>
 </ul></div>
 

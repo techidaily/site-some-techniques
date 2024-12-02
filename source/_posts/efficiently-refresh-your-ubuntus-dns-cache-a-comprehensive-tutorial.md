@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-11-22T23:35:59.125Z
-updated: 2024-11-23T19:16:43.914Z
+date: 2024-11-29T00:56:52.344Z
+updated: 2024-12-02T04:25:13.048Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Flushing the DNS Cache on Ubuntu](https://vimeo-videos.techidaily.com/updated-in-2024-the-complete-guide-to-earnings-via-vimeo-ads/)
 * [Don’t Forget Your Browser's Cache](https://youtube-tips.techidaily.com/ed-2024-approved-brightening-up-your-youtube-pixels/)
 * [Remember to Flush Your DNS Cache](https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,15 +43,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Ubuntu adds its own cache to the mix. By default, the [systemd](https://facebook-clips.techidaily.com/2024-approved-restore-order-fixing-compromised-fb-profile/)\-resolved service is enabled. This caches DNS requests and responses. If a single cache entry (or the whole cache for that matter) becomes corrupted, you can experience connectivity issues with remote servers, web resources, and local devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Does Flushing the DNS Cache Do?
 
  Flushing the DNS cache tells your computer to forget all the stored name and IP address pairs it has collected. That means any connection request that requires resolving from a name to an IP address requires your computer to query an outside source such as your local router or an external DNS service. The response will be cached.
 
  Over time, your DNS cache will be populated by new entries, some of which are likely to be updated versions of older, stale cache entries. It’s an easy and safe operation. If you ever experience networking or internet flakiness, flushing your DNS cache is a good first step in troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Flushing the DNS Cache on Ubuntu
 
@@ -66,6 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 systemctl is-active systemd-resolved
 
 ![Checking whether the resolved daemon is running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-14.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The response will either be “active” or “inactive.”
 
@@ -82,7 +82,7 @@ resolvectl flush-caches
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
@@ -92,6 +92,10 @@ resolvectl statistics
 ![Verifying the DNS cache is empty on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png) 
 
  Our cache size is zero, just as we predicted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don’t Forget Your Browser's Cache
 
@@ -105,20 +109,20 @@ about:networking
 
 ![Selecting the DNS option in the Firefox sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-10.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "DNS" entry in the sidebar.
 
 ![The Clear DNS Cache button on Firefox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Firefox shows you the most recent entries added to the DNS cache. To clear the cache, click the “Clear DNS Cache” button. I had to refresh the page to see the change, but the cache was definitely purged.
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Google Chrome
@@ -128,10 +132,6 @@ about:networking
 chrome://net-internals/#dns
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
 
@@ -156,20 +156,21 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-funimate-masterclass-quick-video-access/"><u>[New] Funimate Masterclass Quick Video Access</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-are-earnings-linked-to-assessing-merchandise/"><u>2024 Approved Are Earnings Linked to Assessing Merchandise?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-sound-overlap-exploring-crossfade/"><u>2024 Approved Flawless Sound Overlap Exploring Crossfade</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-headset-manufacturers-for-virtual-worlds/"><u>2024 Approved Innovative Headset Manufacturers for Virtual Worlds</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/uefi-windows-server-2ebf3d648-7c25-49e0-9bde-9a0bfeccda96/"><u>高效修复 UEFI引导 Windows Server 2Ebf3d648-7c25-49e0-9bde-9a0bfeccda96 :专家提供顶级方法!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/digital-renaissance-a-curated-list-of-top-nft-generating-platforms-for-2024/"><u>Digital Renaissance A Curated List of Top NFT-Generating Platforms for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/easy-tutorial-for-retrieving-accidentally-erased-folders-on-onedrive/"><u>Easy Tutorial for Retrieving Accidentally Erased Folders on OneDrive</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-3-streaming-services-for-switch-gaming/"><u>Essential 3 Streaming Services for Switch Gaming</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-performance-boosting-amd-radeon-drivers-tailored-for-windows-amber-os-version-7/"><u>Get the Latest Performance-Boosting AMD Radeon Drivers Tailored for Windows Amber OS Version 7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hurry-up-crafting-a-simple-google-photo-mosaic-for-2024/"><u>Hurry Up! Crafting a Simple Google Photo Mosaic for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gimbal-guide-for-enhanced-aerial-video-quality/"><u>In 2024, Gimbal Guide for Enhanced Aerial Video Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-gopro-for-captivating-time-lapse-videos/"><u>In 2024, Harness the Power of GoPro for Captivating Time-Lapse Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-enhance-your-photos-with-titled-content-win-11/"><u>In 2024, How to Enhance Your Photos with Titled Content (Win 11)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msis-response-to-z790-heatsink-failures-initiating-unit-replacements-for-affected-customers/"><u>MSI's Response to Z790 Heatsink Failures: Initiating Unit Replacements for Affected Customers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-resources-for-farsi-movie-subtitles-download-and-steps-to-integrate-them-into-videos/"><u>Top Resources for Farsi Movie Subtitles Download & Steps to Integrate Them Into Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-transform-your-videos-expert-choices-for-thumbnails/"><u>[New] 2024 Approved Transform Your Videos Expert Choices for Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>[New] Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-end-humor-scripts/"><u>[New] High-End Humor Scripts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor/"><u>[Updated] Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>2024 Approved FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-highest-rated-virtual-reality-games-for-2024/"><u>Explore the Highest-Rated Virtual Reality Games for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-selection-of-high-caliber-free-luts/"><u>In 2024, Exclusive Selection of High-Caliber Free LUTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-where-to-download-high-quality-background-music/"><u>In 2024, Expert Advice Where to Download High-Quality Background Music</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-pova-5-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Pova 5 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-from-sierra-to-legacy-os-el-capitan/"><u>In 2024, Transitioning From Sierra To Legacy OS - El Capitan</u></a></li>
+<li><a href="https://fox-info.techidaily.com/logo-design-101-tips-to-make-your-podcast-stand-out/"><u>Logo Design 101 Tips to Make Your Podcast Stand Out</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-nubia-red-magic-9-proplus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 9 Pro+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-installing-aoc-monitor-drivers-on-windows-versions-11108/"><u>Step-by-Step Guide to Downloading and Installing AOC Monitor Drivers on Windows (Versions 11/10/8)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-entertaining-web-based-adventures-for-children/"><u>Top 7 Entertaining Web-Based Adventures for Children</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/troubleshooting-addressing-the-issue-of-unavailable-disks-for-backup-storage-solutions/"><u>Troubleshooting: Addressing the Issue of Unavailable Disks for Backup Storage Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-todays-insights-new-york-times-puzzle-405-solutions-and-analysis/"><u>Unlocking Today's Insights: New York Times Puzzle #405 - Solutions & Analysis</u></a></li>
 </ul></div>
 

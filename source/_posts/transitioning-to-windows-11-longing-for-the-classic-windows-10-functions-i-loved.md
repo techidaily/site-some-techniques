@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-11-19T16:25:12.209Z
-updated: 2024-11-24T00:53:37.479Z
+date: 2024-11-30T07:28:22.926Z
+updated: 2024-12-01T16:42:40.367Z
 tags:
   - deals
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 I switched to Windows 11 recently, and it has been an interesting experience. Besides from the [wildly-unpopular Recall update](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/), there are a few things already in the operating system that have made me unhappy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Upgrading to Windows 11 Was Painless
 
 ![Laptop with some windows 11 screens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/laptop-with-some-windows-11-screens.jpg) 
@@ -23,9 +27,17 @@ Lucas Gouveia / How-To Geek
 
  I will say that the upgrade was completely painless. It was quite different from my previous installation scenarios, although I figure if I ever had to reinstall the operating system, the from-scratch installation is probably more complicated than the upgrade. After about twenty minutes of downloading and updating files, the machine rebooted, and I was immediately into Windows 11\. And that's where things started to go downhill.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Enabling TPM 2.0
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -48,16 +60,12 @@ Benj Edwards / How-To Geek
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Truncated Context Menus Hurt Usability
 
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
 
@@ -69,23 +77,19 @@ Benj Edwards / How-To Geek
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As a power user, I like sorting my stuff in a particular way. Sometimes, I like seeing thumbnails (if it's images), sometimes I like seeing details if I want to determine which file is the largest and needs to be deleted. Back in Windows 10, it was such an easy thing to arrange your icons by date, or size. Now, Windows 11 has made it more unintuitive for users to sort their files.
 
  The biggest issue I have is the number of grouping options. Why are there so many? Windows 10 made it relatively easy to arrange things in an intuitive way. If you wanted additional sorting options, you just needed to hit the "More" button under Sort By. Windows 11 makes this much messier—the More button at the top of File Explorer does something different from the More button in the right-click context menu, and you can't add or remove sorting options for files or groups independently of one another. If you want to group your files one way, then sort those groups according to a separate criteria, you can't do it without adding the option to both the Sort By and Group menu. Sometimes, [Windows 11 just refuses to sort things](https://learn.microsoft.com/en-us/answers/questions/1117096/windows-11-file-explorer-has-wrong-sorting-order?orderBy=Helpful) the way you want them, defeating the entire purpose of a sort button.
 
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The "Action Center" Is No More
 
 ![No Action Center (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/no-action-center-light.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
@@ -94,10 +98,6 @@ Benj Edwards / How-To Geek
 ##  It's Not A Bad Operating System But...
 
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lucas Gouveia / Hannah Stryker / How-To Geek
 
@@ -120,22 +120,22 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>[New] 2024 Approved Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools/"><u>[New] Exploring the Best of Android Does PickUp Lead Photo Editing Tools?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-a-collage-on-iphone/"><u>[New] How to Make a Collage on iPhone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-the-art-of-green-screen-filming-for-2024/"><u>[New] Mastering the Art of Green Screen Filming for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-varieties-in-gesture-tech/"><u>[Updated] Exploring Varieties in Gesture Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-copycat-to-originalist-crafting-funny-relatable-memes/"><u>[Updated] From Copycat to Originalist Crafting Funny, Relatable Memes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-5-remote-viewing-recorders/"><u>[Updated] In 2024, Ultimate 5 Remote Viewing Recorders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-strategies-for-srt-creation-and-enhancement/"><u>[Updated] Innovative Strategies for SRT Creation and Enhancement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-facial-artistry-on-the-go-iphone-and-android-apps-review/"><u>2024 Approved Facial Artistry on the Go IPhone & Android Apps Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmony-and-law-instagrams-music-codex/"><u>2024 Approved Harmony & Law Instagram's Music Codex</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/alternatives-to-idm-for-youtube-content-extraction-a-comprehensive-guide-on-video-downloading-techniques-and-tools/"><u>Alternatives to IDM for YouTube Content Extraction - A Comprehensive Guide on Video Downloading Techniques and Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-idevices-keyboard-back-to-work-six-crucial-solutions-for-iphone-and-ipad-users/"><u>Getting Your iDevice's Keyboard Back to Work: Six Crucial Solutions for iPhone and iPad Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-highlights-how-to-add-soundtracks-to-powerpoint-for-2024/"><u>Harmonizing Highlights How to Add Soundtracks to PowerPoint for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-pro-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 Pro to iPad? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-navigating-social-platforms-adopting-a-winning-strategy-on-tiktok/"><u>In 2024, Navigating Social Platforms Adopting a Winning Strategy on TikTok</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-htc-u23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to HTC U23 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>In 2024, YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-clipmaster-software/"><u>[New] 2024 Approved ClipMaster Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>[New] 2024 Approved Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-rookie-to-veteran-10-must-have-cinema-cameras/"><u>[New] From Rookie to Veteran 10 Must-Have Cinema Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video/"><u>[New] Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-masterclass-creating-captivating-splitscreen-content-for-2024/"><u>[New] YouTube Masterclass Creating Captivating Splitscreen Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-choices-17-best-tools-for-background-blanks/"><u>[Updated] Expert Choices 17 Best Tools for Background Blanks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>2024 Approved How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-amd-rx-ve-been-informed-of-any-recent-driver-updates-or-patches-for-the-amd-radeon-rx-6800-xt-on-windows-platforms/"><u>Download Updated AMD RX Ve Been Informed of Any Recent Driver Updates or Patches for the AMD Radeon RX 6800 XT on Windows Platforms?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers-for-2024/"><u>Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-best-free-ai-options-that-challenge-openais-sora-today/"><u>Explore the Best FREE AI Options That Challenge OpenAI's Sora Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro-for-2024/"><u>From Novice to Professional A Comprehensive Guide to Mastering Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigglegraph-make-amusing-graphics-swiftly-for-2024/"><u>GiggleGraph Make Amusing Graphics Swiftly for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-and-replace-outdated-windows-drivers/"><u>How to Find and Replace Outdated Windows Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-unknown-usb-device-port-reset-failed-error-in-windows-11/"><u>How to Fix the Unknown USB Device, Port Reset Failed Error in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-5-engaging-book-promo-videos/"><u>In 2024, Exploring 5 Engaging Book Promo Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-slow-motion-to-fast-forward-adjusting-videos-on-insta/"><u>In 2024, From Slow Motion to Fast Forward – Adjusting Videos on Insta</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-6s-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 6s? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-11-20T22:03:12.324Z
-updated: 2024-11-23T19:20:13.133Z
+date: 2024-11-28T05:26:04.272Z
+updated: 2024-12-01T20:26:24.528Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ---
 
 ## Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Inside the "Windows Features" window, scroll down and locate "Windows Subsystem for Linux." After finding it, click on the empty box next to it to activate this feature. Select "OK" after making your selection.
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
@@ -78,10 +74,14 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 cd /mnt/c
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Update your Ubuntu WSL app
 
  It is good practice to update your Ubuntu WSL app from time to time, otherwise programs will stop working. Here's how to do it on Windows 11.
@@ -123,6 +119,10 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -179,21 +179,20 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-messages-whatsapps-audio-update/"><u>[New] Harmonizing Messages WhatsApp's Audio Update</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-sifting-through-cloud-costs-for-maximum-savings/"><u>[New] Sifting Through Cloud Costs for Maximum Savings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-interface-intensity/"><u>[Updated] Innovative Interface Intensity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-infinite-artistic-possibilities-with-top-10-apps/"><u>2024 Approved Explore Infinite Artistic Possibilities with Top 10 Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-tools-to-advanced-systems-prepping-for-transformation/"><u>2024 Approved From Basic Tools to Advanced Systems Prepping for Transformation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-video-studio-analysis-comprehensive-xreview-guide/"><u>2024 Approved In-Depth Video Studio Analysis Comprehensive XReview Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-issues-with-unresponsive-headset-microphones-and-effective-remedies/"><u>Diagnosing Issues with Unresponsive Headset Microphones and Effective Remedies</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-poco-x5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco X5 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-camon-30-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Camon 30 Pro 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebooks-vibe-todays-hot-ten-music-clips-for-2024/"><u>Facebook’s Vibe Today’s Hot Ten Music Clips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-rate-soundbites-googles-best-talk-series-for-2024/"><u>First-Rate Soundbites Google's Best Talk Series for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gradual-diminishment-of-sound-tips-from-logic-pro-experts-for-2024/"><u>Gradual Diminishment of Sound Tips From Logic Pro Experts for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-green-boot-failure-screen-in-windows-10-and-11/"><u>How to Correct the Green Boot Failure Screen in Windows 10 & 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Without a Passcode</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-high-definition-audio-drivers-update-in-windows-7/"><u>NVIDIA High Definition Audio Drivers Update in Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-best-and-most-reliable-free-hd-movie-downloads/"><u>Ultimate Guide: Best & Most Reliable Free HD Movie Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-times-guide-to-essential-gopro-extras/"><u>[New] First Time's Guide to Essential GoPro Extras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-sharing-videos-the-ultimate-youtube-photo-poster/"><u>[Updated] Expert Tips for Sharing Videos The Ultimate YouTube Photo Poster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flashing-lights-of-olympic-speed/"><u>[Updated] Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-a-faster-live-streaming-on-periscope/"><u>[Updated] How to Get a Faster Live Streaming on Periscope</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-easy-ways-to-block-port-tcp-445-in-windows-11-10-and-older-versions/"><u>1. Easy Ways to Block Port TCP 445 in Windows 11, 10, and Older Versions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-game-themes-and-melodies-10-best-websites/"><u>2024 Approved Free Game Themes & Melodies – 10 Best Websites</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-google-pixel-watch-analysis-a-non-apple-alternative-in-android-wearables/"><u>Comprehensive Google Pixel Watch Analysis: A Non-Apple Alternative in Android Wearables</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flexible-cam-mount-revolutionary-positioning-control/"><u>In 2024, Flexible Cam Mount Revolutionary Positioning Control</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-maximize-your-cricket-viewing-with-premium-livestreams/"><u>In 2024, How to Maximize Your Cricket Viewing with Premium Livestreams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-roxwell-content-easy-methods-for-securely-acquiring-music-videos/"><u>Mastering Roxwell Content: Easy Methods for Securely Acquiring Music Videos!</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-pop-ups-from-invalid-adobe-app/"><u>Preventing Pop-Ups From Invalid Adobe App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472059323-why-cant-you-send-presents-with-your-iphone-or-ipad-here-are-5-reasons/"><u>Why Can't You Send Presents with Your iPhone or iPad? Here Are 5 Reasons.</u></a></li>
 </ul></div>
 

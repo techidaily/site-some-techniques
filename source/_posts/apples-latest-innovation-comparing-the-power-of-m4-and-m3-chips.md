@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2024-11-19T02:37:22.147Z
-updated: 2024-11-24T01:30:38.191Z
+date: 2024-11-28T17:17:11.685Z
+updated: 2024-12-02T06:02:46.340Z
 tags:
   - desktop
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 * [M4 on MacBooks? It Might Happen Soon](https://games-able.techidaily.com/compact-your-collection-smart-iso-size-cutting-via-chdman-method/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Introducing Apple M4 Silicon
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  On the surface, the M4 is the fourth iteration of Apple's M-branded system-on-a-chip (SoC) that houses a nine or 10-core CPU, a 10-core GPU, and a 16-core Neural Engine. Currently, it is only available in two configurations (where one variant has more processing cores than the other) [on the 2024 iPad Pro](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/). However, Apple could soon add more variants to the M4 lineup.
 
 ![Apple's M4 Silicon mascot on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-chip-announced-with-2024-ipad-pro.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -59,7 +63,7 @@ Apple
 ![Apple M4 Silicon's representative image highlighting the number of performance and efficiency cores.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-s-m4-chip-gets-more-efficiency-cores.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -86,10 +90,6 @@ Apple
 
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  However, a report by [Tom's Hardware](https://tools.techidaily.com)highlights how the M3 and M4 Silicon are rated using different computing standards. While Apple rated the M3 using FP16 (half-precision floating-point), the M4 is rated with INT8 (Integer 8-bit). Equalizing both chips' to INT8 precision, the publication concludes that the Neural Engine on the M4 is about 5% more powerful than the M3 (in terms of TOPS).
@@ -115,7 +115,7 @@ Apple
 ![Apple's M3 Max MacBook Pro in Space Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/apple-m3-max-macbook-pro.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -143,19 +143,20 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-roguelikes-traditional-tactics-vs-modern-mechanics/"><u>[New] 2024 Approved Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-webcam-video-production-record-edit-and-export-guide/"><u>[New] 2024 Approved Webcam Video Production Record, Edit & Export Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-eyesharp-record-chromeos-native-cam-for-2024/"><u>[New] EyeSharp Record ChromeOS Native Cam for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-voice-recognition-for-dynamic-decks/"><u>[New] Harnessing Voice Recognition for Dynamic Decks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ghost-3-clash-ghost-4-rising/"><u>[New] In 2024, Ghost 3 Clash Ghost 4 Rising</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-your-potential-best-video-editing-hacks/"><u>[New] Unlock Your Potential Best Video Editing Hacks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-prime-ringtone-retailers-for-game-of-thrones-fans/"><u>[Updated] 2024 Approved Prime Ringtone Retailers for Game of Thrones Fans</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[Updated] Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-roundup-best-hdmi-21-tvs-compared-directly/"><u>2024 Approved Exclusive Roundup Best HDMI 2.1 TVs Compared Directly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-choosing-effective-podcast-names-plus-inspirations/"><u>2024 Approved Expert Strategies for Choosing Effective Podcast Names, Plus Inspirations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-greatness-photos-on-a-stretch/"><u>2024 Approved From Ground to Greatness Photos on a Stretch</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-sprint-secrets-olympic-edition-22/"><u>2024 Approved Sprint Secrets - Olympic Edition '22</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-realme-11-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme 11 5G FRP</u></a></li>
-<li><a href="https://article-posts.techidaily.com/humorous-highlights-create-with-kapwing-meme-maker/"><u>Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-capture-perfection-at-home-these-are-the-best-5-filming-hacks-for-2024/"><u>[New] Capture Perfection at Home These Are the Best 5 Filming Hacks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-inexpensive-mirrorless-and-dslr-options/"><u>[New] Inexpensive Mirrorless & DSLR Options</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unleash-creativity-with-top-10-phone-apps-adding-stickers-to-images-for-2024/"><u>[New] Unleash Creativity with Top 10 Phone Apps Adding Stickers to Images for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>[Updated] Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-industry-leaders-top-10-free-lut-resource-list/"><u>[Updated] Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-top-6-helmet-mounts-to-upgrade-your-adventure-photography/"><u>2024 Approved Exploring The Top 6 Helmet Mounts to Upgrade Your Adventure Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-captured-moment-to-moving-picture/"><u>2024 Approved From Captured Moment to Moving Picture</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nokia-c210-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nokia C210 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-words-to-wax-mastering-voice-note-techniques-for-2024/"><u>From Words to Wax Mastering Voice Note Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-luts-in-photoshop-cc-for-2024/"><u>How to Use LUTs in PhotoShop CC for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2022-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone SE (2022) Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-systems-with-toms-hardware-expertise/"><u>Mastering Computer Systems with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-loss-of-display-on-personal-computers/"><u>Remedying Loss of Display on Personal Computers</u></a></li>
 </ul></div>
 

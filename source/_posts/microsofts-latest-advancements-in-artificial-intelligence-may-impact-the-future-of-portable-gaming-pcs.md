@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-11-22T21:33:57.902Z
-updated: 2024-11-23T20:34:44.876Z
+date: 2024-11-25T07:14:21.665Z
+updated: 2024-12-01T16:31:32.052Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -38,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _AMD_
@@ -76,7 +76,7 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -90,7 +90,7 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -124,22 +124,19 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-how-to-create-meme-with-kinemaster/"><u>[New] How to Create Meme with KineMaster</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-imagemagick-studio-walkthrough/"><u>[New] ImageMagick Studio Walkthrough</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo-for-2024/"><u>[New] The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-giggle-grove-memetic-magic-for-all-ages/"><u>[Updated] Giggle Grove Memetic Magic for All Ages</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-visual-stories-mastering-photo-distortions-in-ps/"><u>[Updated] Innovating Visual Stories Mastering Photo Distortions in PS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-image-transformation-hacks/"><u>[Updated] Innovative Image Transformation Hacks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/11-proven-steps-to-amplify-your-fb-video-campaigns/"><u>11 Proven Steps to Amplify Your FB Video Campaigns</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-and-easy-10-high-resolution-passport-portraits-for-desktopweb-use/"><u>2024 Approved Fast & Easy 10 High-Resolution Passport Portraits for Desktop/Web Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tune-focus-effective-minecraft-zooming-strategies/"><u>2024 Approved Fine-Tune Focus Effective Minecraft Zooming Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-evaluation-is-aurora-a-game-changer/"><u>2024 Approved HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-interactive-communication-enhancing-your-youtube-presence/"><u>2024 Approved Interactive Communication Enhancing Your YouTube Presence</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts/"><u>2024 Approved Unlock Your Tech Potential Mastering Mac's Screen Capturing with Just Shortcuts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos-for-2024/"><u>Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/how-to-make-every-call-a-chuckle-a-list-of-10-voice-alteration-tricks/"><u>How to Make Every Call a Chuckle A List of 10 Voice Alteration Tricks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-master-the-art-of-virtual-reality-from-videography-to-youtube-upload/"><u>In 2024, Master the Art of Virtual Reality From Videography to YouTube Upload</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-multi-app-playlists-synchronization-secrets/"><u>In 2024, Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[New] From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>[Updated] Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-pages-to-acquire-text-styling-assets/"><u>[Updated] Key Pages to Acquire Text Styling Assets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-master-video-cutting-with-vivacut-detailed-review-and-guidebook-24/"><u>[Updated] Master Video Cutting with VivaCut Detailed Review & Guidebook '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fixing-windows-11-photo-app-glitches-quickly/"><u>2024 Approved Fixing Windows 11 Photo App Glitches Quickly</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/5yid5pyf5yyw5lin5yplusv6io944gr44ki44kl44oh44kj44k544kv44kk44oh44o844k444gu5b6p5ywd5oml6acg6kej6kqs/"><u>初期化不可能によるディスクイメージの復元手順解説</u></a></li>
+<li><a href="https://blog-min.techidaily.com/f4v-flv-movavi/"><u>網路直接免費 F4V 到FLV 轉換：Movavi 電影編解碼器</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-impressions-engaging-podcast-intros-for-2024/"><u>First Impressions Engaging Podcast Intros for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hone-your-image-by-removing-surroundings-for-2024/"><u>Hone Your Image by Removing Surroundings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023s-social-media-video-extractor-for-all-platforms/"><u>In 2024, 2023'S Social Media Video Extractor for All Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-xr21-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hub-swapping-your-soundtrack-selection/"><u>In 2024, Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-reno-10-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Reno 10 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-trusted-guide/"><u>Unveiling the Latest Gadgets with Tom - Your Trusted Guide</u></a></li>
 </ul></div>
 

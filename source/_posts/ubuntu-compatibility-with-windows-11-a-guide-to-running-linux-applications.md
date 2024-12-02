@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Compatibility with Windows 11: A Guide to Running Linux Applications"
-date: 2024-11-19T01:35:04.254Z
-updated: 2024-11-24T01:34:45.494Z
+date: 2024-11-26T21:33:57.167Z
+updated: 2024-12-01T23:27:50.926Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ## Ubuntu Compatibility with Windows 11: A Guide to Running Linux Applications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
@@ -23,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  In addition to the WSL2 Kernel EXE package, you'll need to enable the "Virtual Machine Platform" feature in the "Windows Features" area of Windows 11\. WSL runs with the help of virtualization, and this feature is a requirement to get the most out of Ubuntu in Windows 11.
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
 
@@ -80,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -103,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 cd /mnt/c
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
@@ -140,17 +136,21 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, applications can be started from the Windows 11 start menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -179,20 +179,20 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-fledgling-to-front-runner-flourishing-in-follower-count/"><u>[New] From Fledgling to Front-Runner Flourishing in Follower Count</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-zero-to-live-streaming-hero-essential-tips-and-tricks/"><u>[New] From Zero to Live-Streaming Hero Essential Tips and Tricks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-navigate-to-noteworthy-youtube-commentaries/"><u>[New] In 2024, Navigate to Noteworthy YouTube Commentaries</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-industries-with-immersive-virtual-reality/"><u>[New] Innovating Industries with Immersive Virtual Reality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-switch-to-virtual-reality-your-phones-next-step/"><u>2024 Approved Seamless Switch to Virtual Reality Your Phone's Next Step</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-starting-up-in-periscope-tips-to-launch-your-wealth-journey/"><u>2024 Approved Starting Up in Periscope Tips to Launch Your Wealth Journey</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-usb-30-drivers-for-windows-systems/"><u>Download & Install USB 3.0 Drivers for Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-performance-free-nvidia-rtx-2060-super-drivers-tailored-for-windows-11-download/"><u>Enhance Performance: Free NVIDIA RTX 2060 Super Drivers Tailored for Windows 11 Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/eye-candy-roundup-the-best-and-worst-of-8k-tv-tech-for-2024/"><u>Eye Candy Roundup The Best and Worst of 8K TV Tech for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-review-of-the-latest-powerdirector-app-24-for-2024/"><u>Full Review of the Latest PowerDirector App - '24 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-windows-media-player-to-rip-and-burn-cd-for-2024/"><u>How to Use Windows Media Player to Rip and Burn Cd for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illustrator-tips-achieving-natural-motion-blur/"><u>In 2024, Illustrator Tips Achieving Natural Motion Blur</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>In 2024, Masterful Selection 8 Top Free 3D Video Players Windows & Mac</u></a></li>
-<li><a href="https://win-web3.techidaily.com/two-proven-techniques-to-fix-a-broken-vmware-vm/"><u>Two Proven Techniques to Fix a Broken VMware VM</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/ultimate-list-freely-accessible-editing-software-for-2024/"><u>Ultimate List Freely Accessible Editing Software for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unleash-timeliness-iphone-slow-motion-filming/"><u>[New] 2024 Approved Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foremost-sites-for-digital-type-creation/"><u>[New] Foremost Sites for Digital Type Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/everage-creative-studio-for-maximum-youtube-reach-and-engagement-for-2024/"><u>[New] Leverage Creative Studio for Maximum YouTube Reach and Engagement for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iktok-and-youtube-shorts-comparison-for-individual-social-media-users/"><u>[New] TikTok & YouTube Shorts Comparison for Individual Social Media Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-avoid-washout-3-essential-tips-for-iphone-hd-video-enhancement-in-premiere-pro/"><u>[Updated] In 2024, Avoid Washout 3 Essential Tips for iPhone HD Video Enhancement in Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-best-free-subtitle-conversion-services/"><u>2024 Approved Finding the Best Free Subtitle Conversion Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hushes-softening-sounds-with-garageband/"><u>2024 Approved Harmonious Hushes Softening Sounds with Garageband</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/co-chcete-vedet-o-nahravce-obrazkov-s-zvuku-v-windows-10/"><u>Co Chcete Vědět O Nahrávce Obrázkov S Zvuku v Windows 10?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expediting-educational-video-content-for-2024/"><u>Expediting Educational Video Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focusing-the-lens-advanced-cinematic-techniques-for-2024/"><u>Focusing the Lens Advanced Cinematic Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gentle-audio-dimming-methods-in-os-xwindows-for-2024/"><u>Gentle Audio Dimming Methods in OS X/Windows for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-script-to-sound-crafting-captivating-podcast-episodes/"><u>In 2024, From Script to Sound Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-essentials-of-crafting-youtube-videos-from-start-to-finish/"><u>In 2024, The Essentials of Crafting YouTube Videos From Start to Finish</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-with-intova-x-action-tech-for-2024/"><u>Pushing Boundaries with Intova X Action Tech for 2024</u></a></li>
 </ul></div>
 

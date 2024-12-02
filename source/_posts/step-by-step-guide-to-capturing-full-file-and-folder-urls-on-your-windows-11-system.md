@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2024-11-21T19:09:30.606Z
-updated: 2024-11-24T00:45:23.587Z
+date: 2024-11-27T00:12:38.938Z
+updated: 2024-12-01T23:31:41.030Z
 tags:
   - deals
 categories:
@@ -19,14 +19,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
 Hannah Stryker / How-To Geek  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
     
  To copy a file or folder's path, open File Explorer, find the file or folder, right-click it, and select "Copy as Path."
@@ -43,17 +43,9 @@ Hannah Stryker / How-To Geek
 
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
  Windows has copied the full absolute path to your selected item(s).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using a Keyboard Shortcut
 
@@ -66,7 +58,7 @@ Hannah Stryker / How-To Geek
 ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -91,19 +83,27 @@ Hannah Stryker / How-To Geek
 
 ![The 'Target' field highlighted on the 'Properties' window of an app shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-copy-path-app-shortcut-target-field.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the open window, right-click the app again and select "Open File Location."
 
  Your app is now highlighted. Right-click the app and select "Copy as Path."
 
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
@@ -132,22 +132,21 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-handheld-cameras-for-uninterrupted-shots/"><u>[New] Best Handheld Cameras for Uninterrupted Shots</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams/"><u>[New] In 2024, Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-illusions-advanced-techniques-for-image-distortion/"><u>[New] Innovate Illusions Advanced Techniques for Image Distortion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-editing-at-your-fingertips-complete-guide-to-vivacut-24/"><u>[New] Innovative Editing at Your Fingertips Complete Guide to VivaCut '24</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-advanced-techniques-in-post-uploaded-youtube-content-enhancement-for-2024/"><u>[Updated] Advanced Techniques in Post-Uploaded YouTube Content Enhancement for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gaiety-media-download-review/"><u>[Updated] Gaiety Media Download Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-guide-enhancing-youtube-content-with-ios-recording-for-2024/"><u>[Updated] Step-by-Step Guide Enhancing YouTube Content with iOS Recording for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-photo-enhancer-online-and-app-for-mobile-phone/"><u>2024 Approved Free Photo Enhancer Online and App for Mobile Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-insights-the-highest-rated-vr-games-for-2024/"><u>Exclusive Insights The Highest-Rated VR Games for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-analog-to-digital-srt-conversion-into-modern-audio-standards-for-2024/"><u>From Analog to Digital SRT Conversion Into Modern Audio Standards for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-changing-growl-techniques-in-free-fire-for-2024/"><u>Game-Changing Growl Techniques in Free Fire for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-seconds-in-a-20mb-video-file/"><u>In 2024, Evaluating Seconds in a 20Mb Video File</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-14-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi 14 Pro Phone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-bluetooth-addition-to-device-control-panel/"><u>Restoring: Bluetooth Addition to Device Control Panel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/stop-windows-explorer-from-crashing-essential-troubleshooting-tips-you-must-try/"><u>Stop Windows Explorer From Crashing: Essential Troubleshooting Tips You Must Try</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-s24-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy S24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-acoustic-link-for-speakers/"><u>[New] Innovative Acoustic Link for Speakers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capture-and-save-your-next-google-meet-with-iphoneandroid/"><u>[Updated] 2024 Approved Capture & Save Your Next Google Meet with iPhone/Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-high-quality-sound-memos/"><u>[Updated] Expert Tips for High-Quality Sound Memos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-securely-download-youtubes-srt-subtitles/"><u>[Updated] How to Securely Download YouTube's SRT Subtitles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-for-effortless-apple-podcast-acquisition-swift-and-smooth/"><u>[Updated] How-To for Effortless Apple Podcast Acquisition – Swift & Smooth</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-diving-into-instagrams-visual-story-segments/"><u>[Updated] In 2024, Diving Into Instagram's Visual Story Segments</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-rising-above-the-crowd-trending-techniques-for-youtubers/"><u>[Updated] In 2024, Rising Above the Crowd Trending Techniques for YouTubers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-strategic-electrical-power-choices-for-drones-success/"><u>[Updated] In 2024, Strategic Electrical Power Choices for Drones' Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-masterminding-memelore-on-9gag/"><u>2024 Approved Expert Tips for Masterminding Memelore on 9GAG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-syncing-adding-soundtracks-to-inshot-for-2024/"><u>Flawless Syncing Adding Soundtracks to Inshot for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-secure-free-fcp-software/"><u>In 2024, How to Secure Free FCP Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-winning-the-game-of-tv-recording-on-a-budget-pc/"><u>In 2024, Winning the Game of TV Recording on a Budget PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-market-top-performing-external-read-write-devices-of-2024/"><u>Navigating the Market: Top Performing External Read-Write Devices of 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-lenovo-thinkpad-t4n-laptop-drivers-windows-11-8-and-7/"><u>Step-by-Step Guide to Downloading Lenovo ThinkPad T4n Laptop Drivers (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-windows-10-when-your-co-processor-driver-goes-missing-fixed/"><u>Troubleshooting Steps for Windows 10 When Your Co-Processor Driver Goes Missing (Fixed)</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/anayasha-paratacalisa-blmaca-vabhajanalta-aamaha-vakalpaka/"><u>अनायाश प्रात्चाळूस बोल्मीचे विभाजनालेटे? आम्ही वैकल्पिक!</u></a></li>
 </ul></div>
 

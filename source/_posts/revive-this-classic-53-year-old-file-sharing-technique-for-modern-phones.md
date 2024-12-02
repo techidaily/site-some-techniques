@@ -1,7 +1,7 @@
 ---
 title: Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
-date: 2024-11-18T18:07:07.565Z
-updated: 2024-11-23T16:38:12.106Z
+date: 2024-11-30T02:35:04.113Z
+updated: 2024-12-01T21:06:48.653Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Download an Alternative File Manager](https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/)
 * [How to Activate the FTP Server](https://extra-information.techidaily.com/best-buddy-list-in-the-virtual-realm-games/)
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,10 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Download an Alternative File Manager
 
  You likely need to begin by downloading an alternative file manager. The default file managers for Android phones, like Files by Google and Samsung My Files, don't come with FTP support baked in.
@@ -47,6 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Many of the [best alternative file managers for Android](https://extra-lessons.techidaily.com/new-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/) come with FTP support. I like to recommend Material Files, since it's fully free and open source.
 
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
 
@@ -62,10 +66,6 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -77,7 +77,7 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
@@ -85,7 +85,7 @@ Close
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
@@ -111,24 +111,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-non-google-ar-visual-interactions/"><u>[New] Exploring Non-Google Ar Visual Interactions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-mastering-the-use-of-m1-max-clip/"><u>[New] Mastering the Use of M1 Max Clip</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-easy-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>[Updated] Easy Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-top-10-4k-mirrorless-camera-lists/"><u>[Updated] Explore the Best Top 10 4K Mirrorless Camera Lists</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-professional-gimbals-and-tripods-for-youtube-starters-for-2024/"><u>[Updated] Professional Gimbals & Tripods for YouTube Starters for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-funnyframeforge-picfunnyfactory/"><u>2024 Approved FunnyFrameForge PicFunnyFactory</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-camera-mastery-essential-buying-tips/"><u>2024 Approved HDR Camera Mastery Essential Buying Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-in-pixels-kapwings-meme-crafting-app/"><u>2024 Approved Humor in Pixels Kapwing’s Meme Crafting App</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-and-customizing-proxies-in-windows-11/"><u>Enabling and Customizing Proxies in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funny-faces-and-posts-your-adobe-way-for-2024/"><u>Funny Faces and Posts Your Adobe Way for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-dimming-sound-effects-in-logic-pro-a-step-by-step-guide/"><u>In 2024, Dimming Sound Effects in Logic Pro A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-combine-zoom-and-google-mail/"><u>In 2024, Harnessing the Power Combine Zoom & Google Mail</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-animated-graphics/"><u>In 2024, Harnessing the Power of Animated Graphics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-v30-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme V30 Phone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-protection-unit-an-insightful-review-on-apcs-be600m1-with-battery-backup-and-built-in-usb-charger-functionality/"><u>The Ultimate Protection Unit: An Insightful Review on APC's BE600M1 with Battery Backup and Built-In USB Charger Functionality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-7-free-pc-screen-capture-programs/"><u>Top 7 Free PC Screen Capture Programs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-moments-on-facebook-beyond-the-screen/"><u>[New] Capturing Moments on Facebook Beyond the Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pre-windows-10-era-to-windows-11-now/"><u>[Updated] From Pre-Windows 10 Era To Windows 11 Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-performance-graphics-for-uhd-media/"><u>[Updated] Highest Performance Graphics for UHD Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-windows-11s-photo-quality-filter-options-and-music-playlists/"><u>[Updated] Immerse in Windows 11'S Photo Quality Filter Options and Music Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-vob-player-for-pc-and-mac/"><u>2024 Approved Free VOB Player for PC and Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-10-virtual-photo-backdrop-modifiers/"><u>2024 Approved Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/combat-your-intel-processors-instability-get-the-new-patch-from-msi-and-asrock-available-on-asus-rog-motherboards-too/"><u>Combat Your Intel Processor's Instability: Get the New Patch From MSI and ASRock, Available on Asus ROG Motherboards Too!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-non-apple-keyboards-compatible-with-your-mac-expert-picks/"><u>Discover the Top Non-Apple Keyboards Compatible with Your Mac: Expert Picks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/hack-the-art-of-instagram-reels-creation/"><u>Hack the Art of Instagram Reels Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-light-and-motion-for-gopro-time-lapse-magic-for-2024/"><u>Harnessing Light and Motion for GoPro Time-Lapse Magic for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-12-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 12</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminated-imagery-standing-out-in-the-visual-field-for-2024/"><u>Illuminated Imagery Standing Out in the Visual Field for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-driver-installation-complete/"><u>Print Driver Installation Complete</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-game-volume-how-to-get-back-fortnites-forgotten-sounds/"><u>Restore Game Volume: How To Get Back Fortnite's Forgotten Sounds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-14-pro-max-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 14 Pro Max Is Unlocked</u></a></li>
 </ul></div>
 

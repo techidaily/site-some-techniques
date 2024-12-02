@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Professional Hunt: 8 Key Techniques on LinkedIn"
-date: 2024-11-20T02:04:39.735Z
-updated: 2024-11-23T21:20:05.358Z
+date: 2024-12-01T02:24:28.058Z
+updated: 2024-12-01T18:36:01.065Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ---
 
 ## Streamline Your Professional Hunt: 8 Key Techniques on LinkedIn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  LinkedIn is the social media for business, but using it to find a new job can be tricky. Don’t trust the default filters or the LinkedIn algorithm. Instead, you can narrow down your LinkedIn job searches using these tips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Use the Hidden Sort Feature to Sort Jobs by Date 
 
  If you use LinkedIn’s search tool to look for jobs, you’ll notice an odd order to them. Jobs you might want to apply for will be crowded out by sponsored posts and other posts that the algorithm might deem as being more important. This isn’t a good user experience. Most job hunters want to find the newest job ads first.
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
  If you feel the same way, you can alter your search filter to sort the jobs so that the newest job ads appear first. To do this, open the [LinkedIn website](https://www.linkedin.com) and use the search bar to look for your preferred job. Once you’ve made a search, click “All Filters” from the top menu bar.
 
 ![A LinkedIn job search with an arrow pointing at the All filters button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-select-all-filters-button.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  From the pop-up menu, click the “Most recent” radio button underneath the “Sort by” options, then select “Show results” to update your results.
 
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  You can use one or a combination of these to help narrow down your searches. These work across the LinkedIn search tool, so they will help you narrow down job searches, posts, events, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  Set Up Job Alerts for Searches 
 
  Want to keep an eye out for job ads that match your role? You can set up a job alert. LinkedIn will send you notifications on LinkedIn and via email when new jobs appear that match your search criteria.
@@ -72,12 +64,16 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn job search with an arrow pointing at the "Set alert" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-enable-job-alert.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can repeat this for other variations of your job title. Once activated, you can check your list of job searches by clicking the "Jobs" icon at the top. Your list of job searches will appear on the next page, where you can monitor them manually or edit or remove the alerts at a later date.
 
 ![A saved job search on LinkedIn in the Jobs section of the website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-show-saved-job-alerts.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Filter Out Older Job Posts 
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ![An example LinkedIn job search, with arrows pointing at the steps to narrow down a search result using the Date Posted filter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-narrow-job-searches-by-date-added.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Filter by Number of Current Applicants 
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![An example LinkedIn job search, with arrows showing the steps to apply the 'Under 10 Applicants' filter to narrow down the search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-enable-low-applicants-filter.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Search for Specific Businesses 
 
  Is your heart set on a job with a specific company? You can use LinkedIn to only show jobs from that employer.
@@ -108,13 +108,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn job search, showing the steps to filter the search to only show ads from a specific company.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-filter-by-company.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there are any jobs that match that company, they should appear on the left immediately afterward.
 
  Alternatively, you could use the AND search operator in your job search, but it's important to note that this won't guarantee to limit jobs from a single employer. A good example is Microsoft. Searching for IT Engineer AND Microsoft should locate jobs that include both IT Engineer and Microsoft in the ad. However, a job ad might mention Microsoft in the ad itself because job roles like Microsoft 365 Engineer exist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  Set Up Your Profile to Use the Easy Apply Function 
 
@@ -128,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 ![A LinkedIn job search, filtered by Easy Apply ads only, with arrows pointing at the options to filter the results and apply for jobs with the Easy Apply functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-easy-apply-button-example.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8  Search for Hiring Posts 
 
  My last tip isn’t a search tip for using LinkedIn’s job board at all. Instead, I recommend using the search functionality to look out for hiring posts made by employers who might be looking more widely for applicants.
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
  When you’ve made your initial search, click the “Posts” button to narrow it down only to show posts, not jobs.
 
 ![A LinkedIn example search showing various types of search results, with arrows pointing to select the Posts option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-search-and-select-posts.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’s not wise to trust the order of posts here, so bypass the algorithm by clicking the “Sort” button at the top, selecting “Latest”, then choosing “Show Results” to update the list of posts.
 
@@ -167,15 +167,22 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-financial-scale-of-mr-beast/"><u>[New] 2024 Approved The Financial Scale of Mr. Beast</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevate-your-content-writability-with-these-best-fonts-for-2024/"><u>[Updated] Elevate Your Content' Writability with These Best Fonts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freelance-warriors-guide-complimentary-psd-treasures/"><u>[Updated] Freelance Warriors Guide Complimentary PSD Treasures</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagrams-audio-alteration-the-ultimate-guide/"><u>[Updated] In 2024, Instagram's Audio Alteration The Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-red-eye-correction-for-iphone-users-tips-and-tricks/"><u>2024 Approved Free Red-Eye Correction for iPhone Users - Tips and Tricks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-integration-your-youtube-playlist-for-2024/"><u>Audio Integration Your YouTube Playlist for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-peak-performance-best-oculus-rift-players-for-2024/"><u>Exploring Peak Performance Best Oculus Rift Players for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-access-free-gaming-scores-legally-and-easily-for-2024/"><u>How to Access Free Gaming Scores Legally and Easily for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g24-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G24 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/nikon-z7-review-capturing-lifes-moments-with-near-perfect-precision/"><u>Nikon Z7 Review: Capturing Life's Moments with Near-Perfect Precision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>[New] File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-imovie-sound-design-made-simple/"><u>[New] IMovie Sound Design Made Simple</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-audiovisual-creators-top-5-app-picks-of-the-era/"><u>2024 Approved Audiovisual Creators' Top 5 App Picks of the Era</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-image-archiving-integrating-date-markers/"><u>2024 Approved Elevate Your Image Archiving Integrating Date Markers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-unique-audio-selections-for-video-conclusions/"><u>2024 Approved Free, Unique Audio Selections for Video Conclusions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-cloudy-to-crisp-how-to-remove-background-in-picsart/"><u>2024 Approved From Cloudy to Crisp How to Remove Background in Picsart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-do-i-delete-or-close-my-old-linkedin-account-solved/"><u>2024 Approved How Do I Delete Or Close My Old LinkedIn Account (Solved)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-hues-the-ultimate-guide-to-color-enhancement-11-steps/"><u>2024 Approved Ideal Hues The Ultimate Guide to Color Enhancement (11 Steps)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-improve-your-iphone-or-ipad-camera/"><u>How to Improve Your iPhone or iPad Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humor-hierarchy-ranking-10-memes-in-order-of-delight-for-2024/"><u>Humor Hierarchy Ranking #10 Memes in Order of Delight for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-v-purse-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor V Purse to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-cameras-of-the-year-top-10-reviewed/"><u>In 2024, Essential Cameras of the Year - Top 10 Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-feathered-flamenco-flyers/"><u>In 2024, Feathered Flamenco Flyers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini with/without SIM Card</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722953557508-include-stage-directions-that-metaphorically-represent-scientific-processes-eg-characters-absorbing-information-as-silica-gel-absorbs-water/"><u>Include Stage Directions that Metaphorically Represent Scientific Processes (E.g., Characters 'Absorbing' Information as Silica Gel Absorbs Water)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/minute-by-minute-fortnite-tile-methods-for-2024/"><u>Minute-by-Minute Fortnite Tile Methods for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaimcontent-repairing-video-files/"><u>ReclaimContent: Repairing Video Files</u></a></li>
 </ul></div>
 

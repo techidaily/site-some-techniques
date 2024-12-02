@@ -1,7 +1,7 @@
 ---
 title: Reviving Classic File Explorer on Your New Windows 11 System
-date: 2024-11-22T01:40:25.062Z
-updated: 2024-11-24T02:04:58.946Z
+date: 2024-11-30T00:06:27.761Z
+updated: 2024-12-02T00:13:35.749Z
 tags:
   - deals
 categories:
@@ -19,11 +19,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With Windows 11's minimal File Explorer design, Microsoft sacrificed a lot of useful features found in the old Windows 10 ribbon-style File Explorer. There are some ways you can still use that old File Explorer inside Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Access the Old File Explorer from Control Panel
 
  The quickest way to access [Windows 10 File Explorer](https://youtube-web.techidaily.com/ed-2024-approved-streamers-financial-health-check-in-youtubers/) is through the Control Panel. Go to Search and enter **Control Panel**, then go to the top result.
 
 ![Opening Control Panel from Search on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/opening-control-panel-from-search-on-windows-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Press the up arrow button repeatedly. Alternatively, hit Alt+Up Arrow on your keyboard.
 
@@ -33,17 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows 10 File Explorer in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can explore different drives and folders. The Windows 10 File Explorer will remain as long as you continue surfing inside this window. However, once you exit the window and open a new window as you usually do, it will go back to the [Windows 11 File Explorer](https://twitter-videos.techidaily.com/efficiency-in-social-media-sharing-tweets-with-snapchat/).
 
  So, this isn't a permanent solution, nor is it convenient to [open the Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/) whenever you'd like to use the old File Explorer. That's where ExplorerPatcher and StartAllBack, two handy tools, will help you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use ExplorerPatcher to Bring Back Windows 10's File Explorer
 
@@ -57,16 +57,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows 10 Taskbar in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-taskbar-in-windows-11-using-explorerpatcher.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now let's change the File Explorer. To access ExplorerPatcher, go to Search and enter **Properties**, then select the top result.
 
 ![ExplorerPatcher Properties app in the search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/explorerpatcher-properties.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side, go to "File Explorer." From the Control Interface drop-down menu, choose "Windows 10 Ribbon."
@@ -74,7 +70,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Changing to Windows 10 Ribbon using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-explorerpatcher.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open File Explorer, and you'll discover it has the Windows 10 Ribbon instead of the Windows 11 command bar.
@@ -86,7 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An instance of ExplorerPatcher update settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/explorerpatcher-updates.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To uninstall the app, open the app and go to "Settings And Uninstall." Then click "Uninstall ExplorerPatcher."
@@ -96,7 +92,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When you see the uninstalling prompt, press "Yes." If you'd like to learn more about what you can do with ExplorerPatcher, check out [the official wiki](https://github.com/valinet/ExplorerPatcher/wiki/All-features).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using StartAllBack
@@ -106,6 +102,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 [StartAllBack](https://www.startallback.com/) is another tool for customizing various Windows UI elements on Windows 11\. Unlike ExplorerPatcher, it's not open-source and costs $5 to buy a license. However, you can get a limited-time trial to test it out. [Download the app from the official website](http://www.startallback.com/), then run the executable. 
 
 ![Downloading StartAllBack from the official website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/downloading-startallback.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  During installation, you'll be asked to install it for either the current user or all users. You also have the option to turn automatic updates on and off. For this guide, I'll only install it for the current user.
 
@@ -144,19 +144,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>[New] 2024 Approved 8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-video-coders-are-you-team-av1-or-vp9/"><u>[New] Evaluating Video Coders Are You Team Av1 or VP9?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-updated-windows-11-interface/"><u>[New] Exploring the Updated Windows 11 Interface</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-rgb-to-srgb-understanding-color-transition/"><u>[New] From Rgb to Srgb Understanding Color Transition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-guide-to-live-photos-and-full-screen-videos-on-iphones/"><u>[New] In-Depth Guide to Live Photos and Full-Screen Videos on iPhones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aster-the-art-of-youtubing-with-pro-tools-for-2024/"><u>[New] Master the Art of YouTubing with Pro Tools for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-step-by-step-instructions-for-extracting-mp3-from-video/"><u>[Updated] 2024 Approved Step-By-Step Instructions for Extracting MP3 From Video</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-monetization-a-deep-dive/"><u>[Updated] In 2024, YouTube's Monetization A Deep Dive</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-lifesavers-budget-friendly-template-assortment/"><u>2024 Approved AE Lifesavers Budget-Friendly Template Assortment</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-the-critical-windows-c0000022-bug/"><u>Confronting the Critical Windows C0000022 Bug</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/empowering-conversations-how-to-effortlessly-integrate-google-duo-with-gmail/"><u>Empowering Conversations: How to Effortlessly Integrate Google Duo With Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-programming-resources-for-both-pc-and-apple-enthusiasts-spotlighted-experts/"><u>Essential Programming Resources for Both PC and Apple Enthusiasts - Spotlighted Experts!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funny-frameworks-crafting-memes-with-ease-for-2024/"><u>Funny Frameworks Crafting Memes with Ease for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/312506-9781101664124-spirit-woman/"><u>Spirit Woman | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensive-guide-to-free-xbox-screen-recorder-use-for-2024/"><u>[New] Comprehensive Guide to Free Xbox Screen Recorder Use for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guidance-to-fix-iphone-autofocus-problems-immediately/"><u>[New] Guidance to Fix iPhone Autofocus Problems Immediately</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-techniques-to-maximize-windows-11/"><u>[Updated] Exclusive Techniques to Maximize Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-fantasy-to-reality-vrs-path/"><u>[Updated] From Fantasy to Reality VR’s Path</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-standard-to-spectacular-the-journey-with-vce-22/"><u>[Updated] From Standard to Spectacular The Journey with VCE 2.2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-haste-in-video-supercharge-facebook-videos-with-proxies-and-tools/"><u>[Updated] Haste in Video Supercharge Facebook Videos with Proxies and Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>2024 Approved GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-screenplays-in-8-movie-categories/"><u>2024 Approved Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-5-pinterest-video-clips-download-for-no-cost-for-2024/"><u>Best 5 Pinterest Video Clips, Download for No Cost for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/dial-up-the-excitement-engaging-viewers-on-insta/"><u>Dial Up the Excitement Engaging Viewers on Insta</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-picks-the-ultimate-offline-car-game-collection-of-202n4/"><u>Discover Our Picks: The Ultimate Offline Car Game Collection of 202N4!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-automatic-repair-loops-in-windows-11-step-by-step-fixes/"><u>How to Break Free From Automatic Repair Loops in Windows 11 - Step-by-Step Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-simulation-to-reality-jaunt-vrs-journey/"><u>In 2024, From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premier-eco-friendly-camera-systems-for-filmmakers/"><u>In 2024, Premier Eco-Friendly Camera Systems for Filmmakers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pro-gamers-audio-gold-5-essential-sound-devices/"><u>In 2024, Pro Gamers' Audio Gold 5 Essential Sound Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maintenance-and-care/"><u>Maintenance and Care</u></a></li>
+<li><a href="https://win-popular.techidaily.com/master-guide-optimizzazione-e-installazione-di-un-nuovo-ssd-su-alienware-m17-r5/"><u>Master Guide: Optimizzazione E Installazione Di Un Nuovo SSD Su Alienware M17 R5</u></a></li>
 </ul></div>
 

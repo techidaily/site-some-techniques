@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!
-date: 2024-11-22T17:45:06.030Z
-updated: 2024-11-23T17:51:05.456Z
+date: 2024-11-29T01:22:11.039Z
+updated: 2024-12-01T18:28:10.833Z
 tags:
   - deals
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  With a plethora of gaming laptops and handhelds available, it's a great time to be a PC gamer on the go. Generally, the more you spend, the better the gaming performance, but those on a budget also deserve some portable fun. One such option is the [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop, which hopes to attract budget-conscious enthusiasts with its no-nonsense approach. For the most part, Lenovo has done a solid job of paring down the PC gaming experience to the absolute essentials, although not every concession may be worth the savings.
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo LOQ 15IAX9I 
 
@@ -119,16 +123,12 @@ Jerome Thomas / How-To Geek
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
 
 ![The ports on the rear of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-back-of-the-lenovo-loq-15iax9i_53589810480_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -154,6 +154,10 @@ Jerome Thomas / How-To Geek
 
 ![Direct view of the Lenovo LOQ 15IAX9I display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-homescreen-of-the-lenovo-loq-15iax9i-2_53589365651_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The 15.6-inch 1,920 x 1,080 resolution IPS display has good clarity, brightness (350 nits), and color, with only slight dimming when viewed off-angle. The fast 144Hz refresh rate is a nice bonus for smoother gaming. HDR video streaming is supported, but there's no HDR support for anything else.
@@ -166,13 +170,13 @@ Jerome Thomas / How-To Geek
 
  The built-in FHD webcam and microphone both do serviceable jobs in terms of clarity. Windows Hello facial recognition is not supported, and there's no fingerprint reader either, so for login and general security purposes, you're left typing in a PIN code.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Games, Benchmarks, and Overall Performance: Full HD or Bust** 
 
 ![Angled view of the opened and powered on Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-powered-on-2_53589684004_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -190,10 +194,6 @@ Jerome Thomas / How-To Geek
 
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
 
  The [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop is not going to win any awards for its build quality or performance, but considering its sub-$750 retail price, often on sale, it has surprisingly few notable concessions in its overall design. It has a good keyboard, a nice display, and, if you stick to its native HD resolution, enjoyable gaming performance. If you have a limited budget and are looking for a gaming laptop that gets the basics right, it's hard to go wrong with the LOQ 15IAX9I.
@@ -201,7 +201,7 @@ Jerome Thomas / How-To Geek
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Lenovo LOQ 15IAX9I 
@@ -229,20 +229,20 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>[New] Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>[New] Exploring HoloLens by Microsoft A 3D Dream Come True</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flight-cam-combat-dji-spark-vs-gopro-fury/"><u>[New] Flight Cam Combat DJI Spark VS GoPro Fury</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-humor-haven-memes-for-iphones/"><u>[New] Humor Haven Memes for iPhones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-whats-different-about-vegaspro-since-its-launch-in-2024/"><u>[New] What's Different About VegasPro Since Its Launch, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-can-a-128gb-drive-handle-huge-video-files/"><u>[Updated] Can a 128GB Drive Handle Huge Video Files?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-insight-into-vsco-image-editing/"><u>[Updated] Full Insight Into VSCO Image Editing</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-and-paid-iphone-photo-experience-top-app-lineup-for-2024/"><u>Free & Paid iPhone Photo Experience - Top App Lineup for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock HTC Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-with-iphone-for-complete-360-video-capture/"><u>In 2024, Innovating with iPhone for Complete 360 Video Capture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/innovative-solutions-exceeding-standard-fbx-recorders-for-2024/"><u>Innovative Solutions Exceeding Standard FBX Recorders for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovos-u310-update-operations-simplified/"><u>Lenovo's U310: Update Operations Simplified</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/resolving-handbrakes-dvd-scanning-issue-a-comprehensive-guide/"><u>Resolving Handbrake's DVD Scanning Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-of-amazons-new-generation-fire-hd-8-the-best-value-entry-level-tablet-on-todays-market/"><u>Unveiling the Potential of Amazon's New Generation Fire HD #8: The Best Value Entry-Level Tablet on Today's Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-places-for-next-gen-vr-content/"><u>[New] Exclusive Places for Next-Gen VR Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hack-the-airwaves-mastering-a-viral-solo-podcast/"><u>[New] Hack the Airwaves Mastering a Viral Solo Podcast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expanding-creative-horizons-with-ae-fonts/"><u>[Updated] Expanding Creative Horizons with AE Fonts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>[Updated] Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-echo-mapping-digital-audio-preservation/"><u>[Updated] In 2024, Echo Mapping Digital Audio Preservation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-top-10-4k-mirrorless-camera-lists/"><u>2024 Approved Explore the Best Top 10 4K Mirrorless Camera Lists</u></a></li>
+<li><a href="https://windows11.techidaily.com/cease-uncontrolled-system-shutdowns-on-windows-11/"><u>Cease Uncontrolled System Shutdowns on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-pc-errors-with-ease-solving-the-d3dx939dll-file-not-found-issue/"><u>Fix Your PC Errors with Ease: Solving The d3dx9_39.dll File Not Found Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-scanner-issues-permanently/"><u>Fixing Windows Scanner Issues Permanently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gliding-heroes-the-2022-winter-games-for-2024/"><u>Gliding Heroes The 2022 Winter Games for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-9-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 9 Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-glow-dynamics-enhancing-visual-storytelling-through-lighting/"><u>In 2024, Glow Dynamics Enhancing Visual Storytelling Through Lighting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nokia-c32-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nokia C32 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>In 2024, Pro Level Webcams The Ultimate Choice for Your Podcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-video-recording-with-windows-10-expert-tips-for-crystal-clear-results/"><u>Mastering Video Recording with Windows 10: Expert Tips for Crystal Clear Results</u></a></li>
 </ul></div>
 

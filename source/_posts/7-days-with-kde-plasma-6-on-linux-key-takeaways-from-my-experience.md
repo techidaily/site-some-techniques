@@ -1,7 +1,7 @@
 ---
 title: "7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience"
-date: 2024-11-16T19:01:16.650Z
-updated: 2024-11-23T19:05:54.353Z
+date: 2024-11-25T02:35:20.603Z
+updated: 2024-12-02T00:52:39.771Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ---
 
 ## 7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 * [Settings, Lots of Settings](https://on-screen-recording.techidaily.com/updated-professional-techniques-editing-and-saving-movies-in-win-11/)
 * [Stability: Generally Good...](https://facebook-videos.techidaily.com/2024-approved-effortless-extraction-of-facebook-hd-vids/)
 * [Will I Stick With Plasma 6.0?](https://facebook-video-content.techidaily.com/in-2024-exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![The KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -67,15 +75,15 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 desktop with several windows open and a panel thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  By default, Plasma windows have their close, minimize, and maximize icons on the top right, and a small application icon on the top left. Clicking the icon and choosing “More Actions” from the menu gives you access to a further set of options for the window, including keeping this window on top of other windows.
 
 ![The More Actions window menu in KDE Plasma 6.0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -83,15 +91,15 @@ Dave McKay/How-To Geek
 
  You can choose from a selection of off-the-peg themes, [download more themes](https://store.kde.org/browse/), and edit the elements of a theme to fine-tune it to your preferences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Dolphin File Browser
 
  We spend a lot of time in our file browsers, so the easier they are to use the better. The Dolphin browser is an excellent example of what a file browser should be.
 
 ![The KDE Plasma Dolphin file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/8-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -99,15 +107,15 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma Dolphin file browser with split panes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Yes, you can do this in other file browsers, but a small icon labeled "Split" has to be the easiest way to do this. Likewise, the Icons View, Compact View, and Details View icons make these common actions accessible and simple.
 
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -117,17 +125,9 @@ Dave McKay/How-To Geek
 
 ![The drive capacity infomration in the KDE Plasma Dolphin file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/11-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Having a list of mounted drives, each with a visual depiction of used and free space, is such a useful feature it makes you wonder why others don’t adopt this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Default KDE Applications
 
@@ -153,10 +153,6 @@ Dave McKay/How-To Geek
 
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Once installed and launched, LibreOffice looked like any other application in Plasma, with the appropriate window and dialog decorations from the desktop theme.
@@ -176,7 +172,7 @@ Dave McKay/How-To Geek
 ![The KDE Plasma 6.0 Settings application open at the Quick Settings pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -186,6 +182,10 @@ Dave McKay/How-To Geek
  The good news is, that the defaults are fine, certainly until you find your feet and feel the need to change things. Existing users of Plasma who prefer things the way they were, such as a single click opening a directory or actioning a file, can easily set things back to their previous behavior.
 
 ![The KDE Plasma 6.0 System Settings application open on the General Behavior pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/14-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -222,24 +222,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-periscopes-world-free-access-and-user-registration/"><u>[New] Exploring Periscope's World Free Access & User Registration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-grasping-the-basics-of-av1-compression/"><u>[New] Grasping the Basics of AV1 Compression</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-essentials-in-av1-compression/"><u>[Updated] Exploring the Essentials in AV1 Compression</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-plot-crafting-platform/"><u>[Updated] Ideal Plot Crafting Platform</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-pathway-to-online-success-building-a-new-youtube-channel/"><u>[Updated] In 2024, The Pathway to Online Success Building a New YouTube Channel</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-celestial-sphere-prodesks-ultra-hd-integrated-panels/"><u>2024 Approved Celestial Sphere ProDesks Ultra HD Integrated Panels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-recommendations-for-image-watermarking/"><u>2024 Approved Expert's Recommendations for Image Watermarking</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-images-in-your-instagram-profile/"><u>2024 Approved Mastering Images in Your Instagram Profile</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/access-your-favorite-online-videos-for-free-with-this-easy-download-app/"><u>Access Your Favorite Online Videos for Free with This Easy Download App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bid-adieu-to-expensive-eyesight-solutions-discover-how-these-budget-friendly-xr-glasses-outperform-the-pricy-apple-tech-and-save-you-money/"><u>Bid Adieu to Expensive Eyesight Solutions: Discover How These Budget-Friendly XR Glasses Outperform the Pricy Apple Tech and Save You Money!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-power-of-gopro-burst-mode-for-2024/"><u>Exploring the Power of GoPro Burst Mode for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-new-era-personalizing-content-for-your-preferences/"><u>Facebook's New Era: Personalizing Content for Your Preferences</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illustrate-like-a-pro-selecting-superior-vector-image-creators-for-2024/"><u>Illustrate Like a Pro Selecting Superior Vector Image Creators for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-framing-frontiers-cutting-edge-app-innovations-24/"><u>In 2024, Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-from-words-to-memos-iphone-sound-guide/"><u>In 2024, From Words to Memos IPhone Sound Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funniest-faces-learning-kinemaster/"><u>In 2024, Funniest Faces Learning KineMaster</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-12-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 12 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/multilocaudiolink-seamless-sound-alignment-for-multiple-projects-with-premiere-pro-for-2024/"><u>MultilocAudioLink Seamless Sound Alignment for Multiple Projects with Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foundations-of-frame-and-frequency-in-visual-media/"><u>[New] Foundations of Frame and Frequency in Visual Media</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-zoom-integration-with-gmail-messages-for-2024/"><u>[New] Mastering Zoom Integration with Gmail Messages for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-the-dji-spark-compact-drone-mastery-for-photographers-for-2024/"><u>[New] Unveiling the DJI Spark Compact Drone Mastery for Photographers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-the-purpose-behind-facebooks-blue-emoji/"><u>[New] Unveiling the Purpose Behind Facebook's Blue Emoji</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-what-is-virtual-reality-and-how-does-it-work/"><u>[New] What Is Virtual Reality and How Does It Work?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-online-jest-builder/"><u>[Updated] 2024 Approved Online Jest Builder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framing-the-frame-top-camera-techniques-for-visuals/"><u>[Updated] Framing the Frame Top Camera Techniques for Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hues-harmony-crafting-colorful-artistry/"><u>[Updated] Hues Harmony Crafting Colorful Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-cameras-of-2024-the-ultimate-rundown/"><u>[Updated] Innovative Cameras of 2024 The Ultimate Rundown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-and-frame-the-art-of-intimate-movie-filming/"><u>2024 Approved Focus & Frame The Art of Intimate Movie Filming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-proofreading-partner/"><u>ChatGPT: Proofreading Partner?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/effective-tools-for-resuscitating-deleted-storage-areas-on-your-computer/"><u>Effective Tools for Resuscitating Deleted Storage Areas on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-your-windows-10-sound-power-for-2024/"><u>Harness Your Windows 10 Sound Power for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-magix-video-pro-x-journey/"><u>In 2024, From Novice to Pro Magix Video Pro X Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-is-inshot-the-premier-editing-tool-in-2024/"><u>In-Depth Look Is InShot the Premier Editing Tool, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/legends-of-arcade-combat-nintendos-top-ten-on-switch-for-2024/"><u>Legends of Arcade Combat Nintendo's Top Ten on Switch for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/rising-stars-guide-essential-hashtags-to-increase-your-insta-presence/"><u>Rising Stars Guide Essential Hashtags to Increase Your Insta Presence</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/363833-9781440649844-the-essential-nostradamus/"><u>The Essential Nostradamus | Free Book</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-are-ai-tools-wondershare-virbo-glossary/"><u>What Are AI Tools? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

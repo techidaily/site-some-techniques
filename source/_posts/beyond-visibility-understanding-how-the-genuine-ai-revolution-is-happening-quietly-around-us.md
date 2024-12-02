@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-11-21T23:08:25.952Z
-updated: 2024-11-23T19:30:59.362Z
+date: 2024-12-01T06:36:39.442Z
+updated: 2024-12-01T23:37:34.112Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ## Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -54,7 +54,7 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -82,22 +82,15 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-pvr-uno-customizable-media-solution/"><u>[New] 2024 Approved PVR Uno Customizable Media Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harness-lightrooms-power-to-create-dynamic-hdr-photos/"><u>[New] Harness Lightroom's Power to Create Dynamic HDR Photos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-video-enhancement-through-strategic-illumination-methods/"><u>[New] In 2024, YouTube Video Enhancement Through Strategic Illumination Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-immersions-analyzing-google-and-samsung-rvr/"><u>[New] Innovative Immersions Analyzing Google and Samsung RVR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-sky-hd-photography-websites/"><u>[Updated] Explore the Best Sky HD Photography Websites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-streamlining-your-win11-zoom-sessions/"><u>[Updated] From Novice to Pro Streamlining Your Win11 Zoom Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-generate-stellar-podcast-title-ideas/"><u>[Updated] How to Generate Stellar Podcast Title Ideas</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-xstudio-procedures-reviewed-complete-overview/"><u>[Updated] In 2024, XStudio Procedures Reviewed Complete Overview</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-learn-to-edit-videos-professionally-using-inshot/"><u>[Updated] Learn to Edit Videos Professionally Using Inshot</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-video-frame-rates-explained-why-choose-30-or-60/"><u>[Updated] Video Frame Rates Explained Why Choose 30 or 60?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-collection-highest-quality-webcam-supports/"><u>2024 Approved Excellence Collection Highest Quality Webcam Supports</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-to-use-the-top-10-mobile-live-streaming-apps-list/"><u>2024 Approved Free to Use The Top 10 Mobile Live Streaming Apps List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-photography-iphones-leading-object-cutting-tools-revealed/"><u>Advanced Photography IPhone's Leading Object Cutting Tools Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-latest-advancements-in-lgs-all-round-360-camera-for-2024/"><u>Exploring the Latest Advancements in LG's All-Round 360 Camera for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-kisscartoon-downloader-get-your-favorite-anime-episodes-with-ease/"><u>Free KissCartoon Downloader: Get Your Favorite Anime Episodes with Ease</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-reno-8t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Reno 8T Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-8-upgrades-for-webcam-video-quality-for-2024/"><u>Innovative 8 Upgrades for Webcam Video Quality for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-optimizing-performance-best-practices-for-fast-loading-times-for-2024/"><u>[New] Optimizing Performance Best Practices for Fast Loading Times for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade/"><u>[New] Revolutionize Video Files with Instant FB to MP4 & HD Upgrade</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tailored-fit-videos-the-key-to-great-instagram-posts/"><u>[New] Tailored-Fit Videos The Key to Great Instagram Posts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imovie-soundtracks-made-easy-and-effective/"><u>2024 Approved IMovie Soundtracks Made Easy & Effective</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-spectrum-assessment-dji-phantom-4-unveiled-for-2024/"><u>Full Spectrum Assessment DJI Phantom 4 Unveiled for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>In 2024, From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-a-negative-like-image-look/"><u>In 2024, How to Create a Negative-Like Image Look</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/obs-studio7/"><u>OBS Studioにおける録音トラブル解決:7コツ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-quietening-unwelcome-text-interruptions-for-iphone-users/"><u>The Ultimate Guide to Quietening Unwelcome Text Interruptions for iPhone Users</u></a></li>
 </ul></div>
 

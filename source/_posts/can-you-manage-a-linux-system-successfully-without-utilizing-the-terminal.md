@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2024-11-22T16:36:54.008Z
-updated: 2024-11-24T01:29:38.030Z
+date: 2024-11-28T00:36:24.640Z
+updated: 2024-12-01T18:19:42.052Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For this experiment, I'll be using [Linux Mint](https://smart-video-creator.techidaily.com/updated-in-2024-cutting-edge-video-editing-top-3-4k8k-software-solutions/), one of the most GUI-friendly Linux distros. It's also considered a [great distro for beginners](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/), as most distros geared towards newcomers have great GUI experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Installing New Software
@@ -49,12 +49,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of Installing VLC on Linux Mint using Software Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installing-vlc-on-linux-mint-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But what if you need to update some software? There's an update manager too. You can open it from time to time and see what packages have updates available. Then you can press the "Install Updates" button to update selected software or all of them.
 
 ![An example of the Update Manager user interface on Linux Mint for updating installed software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/update-manager-linux-mint.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Managing old and new software on Linux is pretty simple thanks to existing software centers. But even if you can't find one preinstalled on your Linux distro, you can easily install software using [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) or [AppImages](https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/). So then, why do people use the terminal? That's because it gives you a better experience in certain situations.
@@ -65,17 +69,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Changing System Settings
 
 ![The System settings in Linux Mint displaying different types of options and settings you can change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/system-settings-in-linux-mint-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Getting deep into the heart of Linux and playing with the settings is something pro-Linux users prefer the command line for. But it's amazing how much you can do with a GUI settings menu on Linux nowadays. Linux Mint has a comprehensive settings menu containing most of the things you'll ever need. You can tweak network settings, display options, hardware, firewall, and even other administration settings.
 
@@ -84,6 +80,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  Command-line tools like [systemctl](https://win-solutions.techidaily.com/call-of-duty-enthusiasts-rejoice-as-cod-warzone-pacific-crashing-gets-a-permanent-fix/) allow you to manage system services. For advanced network settings, you can use the [ip](https://techtrends.techidaily.com/step-by-step-instructions-on-configuring-any-universal-remote-easily/) and nmcli commands to configure network interfaces, IP addresses, and routing. You can modify system-wide environment variables using the export and env commands. This allows you to have control over system behavior and application settings.
 
  Then again, casual users won't be doing any of these tasks. And power users who do these don't do them every day. So even without the terminal, you can change basic and some intermediate system settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Managing Your Files and Folders
 
@@ -96,7 +96,7 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 ![An example of the context menu opened of a file on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/context-menu-of-a-file-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But then, why would you use the terminal for simple things like copying or deleting files to begin with? As it turns out, you can do more than that using the terminal. Think of batch activities. You can rename multiple files and folders according to certain patterns or criteria. You can also move or copy files based on specific criteria such as file extension, modification date, or size.
@@ -115,6 +115,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An instance of a text document opened in the xed text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xed-text-editor-on-linux-mint.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Programming and Development
 
  Linux makes programming much more fun because it handles some of the tedious setups for you. You open a code editor and start writing code. Hence, many people, including me, [prefer Linux over Windows](https://program-issues.techidaily.com/solved-forza-horizon-4-crash-on-pc/) for programming.
@@ -123,15 +127,15 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An example of compiling a C program using the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/compiling-a-c-program-using-linux-terminal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are many terminal-based development tools such as make, gcc, cmake, and autotools that developers use regularly. Compiling code from various programming languages often relies on tools like gcc and javac. These tools offer better control over the compilation process than a simple Build button on an IDE.
 
  As a developer, you'll have to use many tools that don't have any graphical interface. You'll need to install many dependencies. You may have to [connect to remote servers via SSH](https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/). You'll likely have to automate many repetitive and complex tasks to save time and energy. All of these, if not most, are done using the terminal. For any professional developer, the command line can feel necessary rather than a choice.
 
  Another noteworthy part of a programmer's work is the version control system. While there are [GUI clients for tools like Git](https://desktop-recording.techidaily.com/new-2024-approved-vrecorder-how-to-download-and-install/), learning basic Git commands can come in handy in a professional scenario. Using Git from the command line also makes your development process smoother because you don't need to go back and forth between multiple tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Customizing Your Linux Desktop
 
@@ -142,10 +146,6 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  In fact, GUI tools have some advantages to this. Firstly, they're easily available in the built-in settings menu. Most desktop environments offer built-in settings and tools for changing themes, wallpapers, icons, and desktop layouts. You won't need much technical knowledge. Secondly, you can see each change instantly while you're doing them.
 
  There are a bunch of GUI tools available out there, including GNOME Tweaks, Dconf Editor, and KDE System Settings. You can play between different options to get your preferred look and feel. Sure, the command line unlocks a new world of customization opportunities. But if it's customization work I'm doing, then GUI tools seem to do pretty well considering there's no learning curve.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other Advanced Tasks
 
@@ -174,24 +174,21 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>[New] 2024 Approved Boost Your Buzz Telegram Tactics for Impactful Promotion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-focus-a-compreeher-guide-for-videoleap-users/"><u>[New] Fine-Tuning Focus A Compreeher Guide for Videoleap Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-join-an-existing-zoom-call-effortlessly-android-style/"><u>[New] How to Join an Existing Zoom Call Effortlessly (Android Style)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-insta-editors-playbook-video-cropping-for-maximum-visibility/"><u>[New] In 2024, The Insta Editors' Playbook Video Cropping for Maximum Visibility</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimal-series-premium-webcam-grips/"><u>[New] Optimal Series Premium Webcam Grips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-potential-of-photos-through-radial-distortion-techniques-ps/"><u>[Updated] Explore the Potential of Photos Through Radial Distortion Techniques PS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-def-zoom-manipulator/"><u>[Updated] High-Def Zoom Manipulator</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transformative-audio-techniques-srt-conversion-mastery/"><u>[Updated] In 2024, Transformative Audio Techniques SRT Conversion Mastery</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-youtube-secrets-to-effective-screen-recording/"><u>[Updated] Unlocking YouTube Secrets to Effective Screen Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-choosing-exceptional-videographers/"><u>2024 Approved Expert Advice Choosing Exceptional Videographers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-causes-of-unplayable-video-on-sony-a6400/"><u>2024 Approved Identifying Causes of Unplayable Video on Sony A6400</u></a></li>
-<li><a href="https://win-online.techidaily.com/como-mover-su-sistema-operativo-de-windows-7-8-10-o-11-entre-dos-computadores/"><u>Cómo Mover Su Sistema Operativo De Windows (7, 8, 10 O 11) Entre Dos Computadores</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-digital-pathways-of-the-vatican-how-does-pope-francis-incorporate-email-into-his-correspondence/"><u>Exploring the Digital Pathways of the Vatican: How Does Pope Francis Incorporate Email Into His Correspondence?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gaming-gpu-reviews-2024-most-cost-effective-graphics-cards-ranked-for-optimal-playing-experience/"><u>Gaming GPU Reviews 2024 - Most Cost-Effective Graphics Cards Ranked for Optimal Playing Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hp-envy-27-ultra-hd-usb-c-display-analysis-for-2024/"><u>HP Envy 27 Ultra HD USB-C Display Analysis for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/impact-of-visual-client-reviews-on-business-image-for-2024/"><u>Impact of Visual Client Reviews on Business Image for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-diving-deep-into-lyric-video-designs-powered-by-lyric-video-maker/"><u>In 2024, Diving Deep Into Lyric Video Designs, Powered by Lyric Video Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>In 2024, Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-unfreeze-fortnite-top-troubleshooting-steps/"><u>Ultimate Guide to Unfreeze Fortnite : Top Troubleshooting Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-how-to-write-a-script-for-a-youtube-video/"><u>[New] In 2024, How to Write a Script for a YouTube Video?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-virtual-lands-the-best-10-smartphone-vr-headsets/"><u>[Updated] Explore Virtual Lands The Best 10 Smartphone VR Headsets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonize-music-with-ppt-design/"><u>[Updated] Harmonize Music with PPT Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-adobe-curves-to-shape-your-images/"><u>2024 Approved Harnessing Adobe Curves to Shape Your Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-identifying-the-most-effective-windows-snipping-apps/"><u>2024 Approved Identifying the Most Effective Windows Snipping Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-k70e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi K70E without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-latest-wins-windows-10-enhancements-for-2024/"><u>Exploring Latest Wins Windows 10 Enhancements for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-create-captivating-colleagues-on-instagram-in-minutes-for-2024/"><u>How to Create Captivating Colleagues on Instagram in Minutes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immediate-steps-to-assemble-your-facebook-gallery-for-2024/"><u>Immediate Steps to Assemble Your Facebook Gallery for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gently-lower-sound-amplitude-tutorial/"><u>In 2024, Gently Lower Sound Amplitude Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-securely-accessing-social-memories-fb-status-videos-guide/"><u>In 2024, Securely Accessing Social Memories FB Status Videos Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-patch-released-basic-printer-and-scanner-integration-with-windows-11-os/"><u>New Patch Released: Basic Printer and Scanner Integration with Windows 11 OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cket-your-youtube-speed-render-and-upload-hacks/"><u>Skyrocket Your YouTube Speed - Render and Upload Hacks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211403960-9781958997826-the-disciples-manual/"><u>The Disciples Manual | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh"
-date: 2024-11-22T22:45:51.340Z
-updated: 2024-11-24T02:23:42.510Z
+date: 2024-11-30T20:59:45.276Z
+updated: 2024-12-02T02:14:42.885Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,20 +64,24 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-real-time-trends-for-visionary-video-ideas/"><u>[New] In 2024, Harnessing Real-Time Trends for Visionary Video Ideas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-guide-to-enhanced-video-clarity-on-google-meet/"><u>[Updated] In-Depth Guide to Enhanced Video Clarity on Google Meet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-efficient-funimate-use/"><u>2024 Approved Expert Strategies for Efficient Funimate Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-google-podcast-mastery-from-creation-to-publication/"><u>2024 Approved Google Podcast Mastery From Creation to Publication</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>2024 Approved In-Depth Look LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-pick-skype-recorders-of-the-year/"><u>2024 Approved The Ultimate Pick Skype Recorders of the Year</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails-for-2024/"><u>Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-vids-effortless-mp4-extraction-at-your-fingertips-for-2024/"><u>FB Vids Effortless MP4 Extraction at Your Fingertips for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/flying-tech-at-its-best-minuscule-uavs-ranked/"><u>Flying Tech at Its Best Minuscule UAVs Ranked</u></a></li>
-<li><a href="https://solve-news.techidaily.com/free-online-converter-convert-m1v-files-to-avi-format-using-movavi/"><u>Free Online Converter - Convert M1V Files to AVI Format Using Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-screen-to-editors-desk-top-movie-moments-for-2024/"><u>From Screen to Editor's Desk Top Movie Moments for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-captivating-colleagues-on-instagram-in-minutes/"><u>In 2024, How to Create Captivating Colleagues on Instagram in Minutes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-getting-back-missing-emails-in-gmail/"><u>Step-by-Step Tutorial for Getting Back Missing Emails in Gmail</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-real-deal-on-docoolers-12mp-usb-20-camera-exceptional-performance-or-false-promises/"><u>The Real Deal on Docooler's 12MP USB 2.0 Camera: Exceptional Performance or False Promises?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immerse-audiences-integrating-sound-effectively-in-canva-films/"><u>[New] Immerse Audiences Integrating Sound Effectively in Canva Films</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-turning-horizons-into-heights-uploading-videos-to-igtv/"><u>[New] In 2024, Turning Horizons Into Heights Uploading Videos to IGTV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-creating-engaging-content-through-discord-streams/"><u>[Updated] Creating Engaging Content Through Discord Streams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-inexpensive-vlogging-tools-listed-for-2024/"><u>[Updated] Essential, Inexpensive Vlogging Tools Listed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-for-experts-only-top-5-best-drones-to-buy/"><u>2024 Approved For Experts Only – Top 5 Best Drones to Buy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>2024 Approved Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-comprehensive-guide-to-discord-spoiler-tags/"><u>2024 Approved The Comprehensive Guide to Discord Spoiler Tags</u></a></li>
+<li><a href="https://win-tips.techidaily.com/5aac5l2v6ieq6kgm5zue5ps25lplusu5b6p54sh5lq65bmr5yqp5lil6yyv5yig55qe5yig5y2a5qqu5qgiic0g5a6m5ywo5ywn6lk75pwz56il/"><u>如何自行回收修復無人幫助下錯删的分區檔案 - 完全免費教程</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-value-in-the-marketplace-for-quality-cost-effective-microphones/"><u>Best Value in the Marketplace for Quality, Cost-Effective Microphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdtvs-future-in-focus-new-samsung-ubd-k8500-insights-for-2024/"><u>HDTV's Future in Focus - New Samsung UBD-K8500 Insights for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chromes-full-screen-trick-effortlessly-run-videos-and-apps-side-by-side/"><u>In 2024, Chrome's Full-Screen Trick Effortlessly Run Videos and Apps Side by Side</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-live-feed-frames/"><u>In 2024, Excellent Live Feed Frames</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-top-10-premium-free-iosandroid-live-video-platforms/"><u>In 2024, Explore Top 10 Premium-Free iOS/Android Live Video Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-firefoxs-best-screen-cast-add-ons/"><u>In 2024, Firefox's Best Screen Cast Add-Ons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-in-high-definition-audiovisual-fusion-on-windows-11/"><u>In 2024, Harmony in High Definition Audio/Visual Fusion on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>In 2024, Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-nova-y91-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Huawei Nova Y91 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-frames-per-second-in-slow-motion-vids/"><u>In 2024, Ideal Frames Per Second in Slow Motion Vids</u></a></li>
 </ul></div>
 

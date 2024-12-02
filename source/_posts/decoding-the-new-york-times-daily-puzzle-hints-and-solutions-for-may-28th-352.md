@@ -1,7 +1,7 @@
 ---
 title: Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
-date: 2024-11-16T16:28:56.077Z
-updated: 2024-11-24T00:26:14.648Z
+date: 2024-11-24T21:09:19.971Z
+updated: 2024-12-01T18:56:24.595Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How Do You Guess Connections Groups?](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-razr-40-drfone-by-drfone-virtual/)
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is Connections?
 
@@ -38,10 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![May 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Amenable.
@@ -49,16 +53,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Spelling Bee Ranks.
 * **Purple:** Adjectives for a Candle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![May 28th Connections words sorted into four groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Amenable (Yellow):** 
@@ -78,7 +78,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Lit, Scented, Waxy, Wicked
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -96,7 +96,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left amazing, beginning, genius, and sound. Try as I might, I couldn't see the connection. It turns out that Blue was "Spelling Bee Ranks." That will be a tough one for anyone that has never participated in a spelling bee. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -127,24 +127,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-convert-fb-video-to-downloadable-mp3/"><u>[New] Convert FB Video to Downloadable MP3</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-maximizing-apple-podcast-listing-chances/"><u>[New] Guide Maximizing Apple Podcast Listing Chances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-block-spotifys-predicted-podcast-selections/"><u>[New] How to Block Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-zoom-guidance-for-virtual-team-spaces-in-msteams/"><u>[New] In-Depth Zoom Guidance for Virtual Team Spaces in MSTEAMS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/mart-money-making-on-youtube-shorts-for-2024/"><u>[New] Smart Money-Making on Youtube Shorts for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-accurate-speech-to-text-googles-breakthrough-approach/"><u>[Updated] Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-create-podcast-rss-feeds/"><u>[Updated] How To Create Podcast RSS Feeds</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>2024 Approved Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-phones-apps-for-masterful-gopro-edits/"><u>2024 Approved Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-experience-reality-redefined-with-htc-vive/"><u>2024 Approved Experience Reality Redefined with HTC Vive</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-srt-tools-the-leading-eight-uncovered/"><u>2024 Approved Free SRT Tools The Leading Eight Uncovered</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tless-sound-sourcing-the-top-15-freebie-audiosites/"><u>Effortless Sound Sourcing The Top 15 Freebie Audiosites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flight-expertise-unleashed-an-examination-of-dji-phantom-3-for-2024/"><u>Flight Expertise Unleashed An Examination of DJI Phantom 3 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gagmaster-start-crafting-fun-videos-today-for-2024/"><u>GagMaster Start Crafting Fun Videos Today for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-record-internet-radio-a-simple-guide-for-2024/"><u>How To Record Internet Radio - A Simple Guide for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-hot-30i-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix Hot 30i Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-humor-in-highlights-best-mobile-edits-compared/"><u>In 2024, The Humor in Highlights Best Mobile Edits Compared</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-audio-transformation-complete-morphvox-techniques-for-2024/"><u>Mastering Audio Transformation Complete MorphVOX Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-toms-hardware-experts/"><u>Unlocking Computer Secrets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-photographic-saga-assembler/"><u>[New] Exquisite Photographic Saga Assembler</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-frame-freedom-in-photography/"><u>[New] Fast Frame Freedom in Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-timers-cameras-guide-best-of-24/"><u>[New] First-Timer's Cameras Guide - Best of '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focusing-your-view-a-guide-to-zooming-on-microsoft-teams/"><u>[New] Focusing Your View A Guide to Zooming on Microsoft Teams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gif-wizardry-10-tools-to-ignite-your-creative-spark/"><u>[New] GIF Wizardry 10 Tools to Ignite Your Creative Spark</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rapid-routines-transferring-iphone-content/"><u>[New] Rapid Routines Transferring iPhone Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ideal-youtube-vision-top-video-suggestions-to-energize-your-channel/"><u>[New] The Ideal YouTube Vision Top Video Suggestions to Energize Your Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-new-era-of-authenticity-understanding-the-algorithm-update-for-2024/"><u>[New] The New Era of Authenticity Understanding the Algorithm Update for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-ultimate-virtual-worlds-for-party-gaming-for-2024/"><u>10 Ultimate Virtual Worlds for Party Gaming for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-emotion-to-entertainment-the-artisans-approach-to-making-memes-gifs/"><u>2024 Approved From Emotion to Entertainment The Artisan’s Approach to Making Memes (GIFs)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-electric-vehicles-match-the-endurance-of-conventional-petrol-cars/"><u>Can Electric Vehicles Match the Endurance of Conventional Petrol Cars?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-download-and-alter-sacred-audio-sounds-for-2024/"><u>How to Download and Alter Sacred Audio Sounds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-vector-art-exploring-kinds-applications/"><u>In 2024, First Steps in Vector Art Exploring Kinds, Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-forego-youtube-previews-to-enjoy-live-videos/"><u>In 2024, Forego YouTube Previews to Enjoy Live Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nubia-red-magic-9-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-humorhub-generate-hilarious-jokes-and-gifs-easily/"><u>In 2024, HumorHub Generate Hilarious Jokes and GIFs Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-proven-strategies-for-effective-phone-note-taking/"><u>In 2024, Proven Strategies for Effective Phone Note-Taking</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wdwindows-11and10/"><u>WD軟體儲存解决方案：Windows 11&10专用云盘与数据备份程序 [立即下载]</u></a></li>
 </ul></div>
 

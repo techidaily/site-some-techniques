@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2024-11-20T16:14:13.426Z
-updated: 2024-11-23T16:32:04.049Z
+date: 2024-11-28T22:06:40.816Z
+updated: 2024-12-01T16:15:13.148Z
 tags:
   - mobile
 categories:
@@ -11,24 +11,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Google Goes All In on Generative AI](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-10c-drfone-by-drfone-virtual-android/)
 * [Google Is Still Seeing What Sticks](https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/)
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg)  
 Justin Duino / How-To Geek  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Google introduced new AI features but focused more on hype than substance and practicality.
 * Gemini is Google's new generative model taking over as the default assistant on Android phones.
@@ -40,6 +36,10 @@ Justin Duino / How-To Geek
 
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Google
 
  “It's a complete end-to-end experience that only Google can deliver,” Rick Osterloh, Senior Vice President, Platforms & Devices at Google, told the assembled crowd. “For years, we've been pursuing our vision of a mobile AI assistant that you can work with as you work with a real-life personal assistant, but we've been limited by the bounds of what existing technologies could do.”
@@ -47,7 +47,7 @@ Google
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Goes All In on Generative AI
@@ -57,16 +57,12 @@ Google
 ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
  But this is just the beginning of Google’s AI ambitions. At Tuesday's event, the company announced Gemini as the replacement for Google Assistant, making it the default assistant on Android phones. This move aligns with [Apple's decision to enhance Siri with OpenAI's ChatGPT](https://mondly-stories.techidaily.com/initiate-your-french-phonetic-journey-today/). Gemini offers a more conversational and intelligent assistant capable of being interrupted without losing focus. The newly introduced [Gemini Live feature](https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/) enables real-time interactions with the AI, positioning Google to compete with [OpenAI's Advanced Voice Mode](https://instagram-videos.techidaily.com/new-the-hidden-powerhouses-in-your-instagram-toolkit/). Gemini will also eventually interpret phone screen content using an upcoming overlay feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Google Is Still Seeing What Sticks
 
@@ -92,6 +88,10 @@ Justin Duino / How-To Geek
 
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
 
  You’d think the industry would, given how much of your data it needs in order to operate at the levels it’s been hyped to. From the end user features themselves to the large language models that they’re built atop, today’s AI systems demand massive amounts of data, [often scraped from the public internet](https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/) without authorization, in order to perform their inference operations with a sufficiently high degree of accuracy. But the more data that hyperscalers like Google, Microsoft or AWS collect, the more likely that that data could be accessed by unauthorized users, whether they're Google employees and contractors, third-party hackers, or law enforcement personnel.
@@ -113,16 +113,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-satirize-a-guide-to-parody-production/"><u>[New] 2024 Approved How to Satirize A Guide to Parody Production</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-beginners-handbook-to-vimeo-footage-capture/"><u>[New] Beginner's Handbook to Vimeo Footage Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>[New] Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-4k-monitors-1-10-rankings/"><u>[New] Finding the Best 4K Monitors #1-10 Rankings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-from-tweeting-short-videos-to-interactive-shareable-customized-gifs-for-2024/"><u>[New] From Tweeting Short Videos to Interactive, Shareable Customized GIFS for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-cinematic-introductions/"><u>2024 Approved Exclusive Cinematic Introductions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721404930285-ai-hub-unveils-tailored-gpt-marketplace-your-guide/"><u>AI Hub Unveils Tailored GPT Marketplace – Your Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-asmrists-praised-by-insomniacs/"><u>In 2024, Expert ASMRists Praised by Insomniacs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>In 2024, Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
-<li><a href="https://extra-information.techidaily.com/novice-path-to-prosperity-making-money-on-periscope/"><u>Novice Path to Prosperity Making Money on Periscope</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-luminous-transitions-crafting-dynamic-colors/"><u>[New] 2024 Approved Luminous Transitions Crafting Dynamic Colors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-path-to-polished-photo-borders-in-instagram/"><u>[New] In 2024, The Path to Polished Photo Borders in Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-chapters-the-secrets-to-seamless-inshot-edits/"><u>[Updated] Harmonizing Chapters The Secrets to Seamless Inshot Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expected-daily-video-consumption-gb-calculation/"><u>2024 Approved Expected Daily Video Consumption GB Calculation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-xsplit-vault-expert-gaming-split-analysis/"><u>2024 Approved XSplit Vault Expert Gaming Split Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-insight-into-morphvox-for-professional-sound-alteration-for-2024/"><u>Expert's Insight Into MorphVOX for Professional Sound Alteration for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-offline-audio-to-text-solutions/"><u>In 2024, Expert Offline Audio to Text Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-navigate-virtual-realities-without-nausea/"><u>In 2024, How to Navigate Virtual Realities without Nausea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-audio-diminution-process/"><u>In 2024, Tailoring Audio Diminution Process</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-rx-480-gpu-drivers-free-download-installation-and-update-instructions-for-gamers/"><u>Latest AMD RX 480 GPU Drivers - Free Download, Installation & Update Instructions for Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-change-how-automated-content-creation-could-transform-the-video-game-industry/"><u>Navigating Change: How Automated Content Creation Could Transform the Video Game Industry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamline-your-media-workflow-a-complete-srt-to-other-file-format-handbook-for-2024/"><u>Streamline Your Media Workflow A Complete SRT-to-Other File Format Handbook for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-flip-and-rotate-the-best-free-3gp-video-editors/"><u>Updated In 2024, Flip and Rotate The Best Free 3GP Video Editors</u></a></li>
 </ul></div>
 

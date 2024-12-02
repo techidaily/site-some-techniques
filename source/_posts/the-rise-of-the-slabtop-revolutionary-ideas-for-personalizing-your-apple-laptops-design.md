@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-11-20T19:32:36.884Z
-updated: 2024-11-23T22:28:32.144Z
+date: 2024-11-25T22:48:28.119Z
+updated: 2024-12-01T19:38:56.010Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ## The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is a Slabtop?
 
  A slabtop is a headless laptop, with MacBooks being popular choices for this type of conversion. A headless computer generally refers to a computer that has been designed for use without a monitor. Normally, this involves remote access software or a text-based interface like SSH. Servers are commonly designed to be headless, but headless machines can depend on a monitor from time to time, such as when troubleshooting.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
@@ -57,10 +61,6 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Add Your Own Display
 
  Even if you eventually configure your laptop as a fully headless machine, complete with easy remote access, you will need to plug it into something first. You can use any compatible display over HDMI, DisplayPort, Thunderbolt, or whatever it is you have available to you.
@@ -76,7 +76,7 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Make Your Own Slabtop
@@ -90,7 +90,7 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 [iFixit](https://www.ifixit.com) is a great resource for this. This resource has screen replacement guides (like [this one for a 2021 MacBook Pro 16-inch](https://www.ifixit.com/Guide/MacBook+Pro+16-Inch+2021+Screen+Replacement/150595)) that you can follow, plus there are video repair guides on the internet for all kinds of laptops. Your ultimate goal should be a clean headless laptop, free of unsightly ribbon cables.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Things to Consider Before Going Headless
@@ -122,22 +122,24 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-on-demand-media-podcast-or-youtube/"><u>[New] Evaluating On-Demand Media Podcast or YouTube?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-filming-flexibility-talent-distribution-license/"><u>[New] Filming Flexibility Talent Distribution License</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insight-into-budget-friendly-design-portals/"><u>[Updated] Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-video-maker-login-to-sign-up-guide/"><u>[Updated] Funimate Video Maker Login to Sign up Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-techniques-for-navigating-popular-and-trending-youtube-reactions-for-2024/"><u>Expert Techniques for Navigating Popular and Trending YouTube Reactions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/immediate-solutions-to-your-fortnite-account-access-troubles/"><u>Immediate Solutions to Your Fortnite Account Access Troubles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-darkroom-to-digital-mastering-modern-grading-techniques/"><u>In 2024, From Darkroom to Digital Mastering Modern Grading Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-crafting-engaging-stories/"><u>In 2024, Fundamentals of Crafting Engaging Stories</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-iphone-camera-techniques-for-quality-shots/"><u>In 2024, IPhone Camera Techniques for Quality Shots</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-e-readers-buying-ebooks-through-apples-books-app-on-ios-devices/"><u>Mastering E-Readers: Buying Ebooks Through Apple's Books App on iOS Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016156971-quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-resume-creation-process-using-chatgpts-advanced-ai-capabilities/"><u>Revolutionize Your Resume Creation Process Using ChatGPT's Advanced AI Capabilities</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/tackle-youtube-buffering-with-fb-video-links/"><u>Tackle YouTube Buffering with FB Video Links</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/328768-9780973094930-the-art-of-loving-in-your-green-zone/"><u>The Art of Loving in Your Green Zone | Free Book</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-valentines-day-on-a-personal-level-create-a-customized-video-message/"><u>Updated 2024 Approved Valentines Day on a Personal Level Create a Customized Video Message</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-silence-to-spotlight-the-solo-podcast-artists-journey/"><u>[New] From Silence to Spotlight The Solo Podcast Artist's Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-best-budget-edits-8-no-charge-video-editing-software/"><u>[New] In 2024, Best Budget Edits 8 No-Charge Video Editing Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channel-success-strategy-standard-studio-or-beta-edge-for-2024/"><u>[Updated] Channel Success Strategy Standard Studio or Beta Edge for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-magic-behind-color-grading-with-luts/"><u>[Updated] Exploring the Magic Behind Color Grading with LUTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>[Updated] From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>2024 Approved 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>2024 Approved Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-boredom-to-laughter-your-kinemaster-guide/"><u>2024 Approved From Boredom to Laughter Your KineMaster Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-for-newcomers-on-screen-quality-measures/"><u>2024 Approved Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giroptic-360cam-complete-review/"><u>2024 Approved Giroptic 360Cam Complete Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-guidelines-instagram-and-intellectual-property/"><u>2024 Approved Harmonious Guidelines Instagram & Intellectual Property</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/analyzing-your-youtube-viewer-demographics-a-step-by-step-approach/"><u>Analyzing Your YouTube Viewer Demographics: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x800f081f-on-your-mind-solving-the-dotnet-35-install-problems/"><u>Error Code 0X800F081F on Your Mind? Solving the DotNet 3.5 Install Problems!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-pathway-for-webp-to-jpg-transformation/"><u>In 2024, Expert Pathway for WebP-to-JPG Transformation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-inside-scoop-on-samsung-unpacked-2025-scheduled-events-and-buzz-worthy-product-hints-revealed/"><u>The Inside Scoop on Samsung Unpacked 2025: Scheduled Events & Buzz-Worthy Product Hints Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970226427-the-new-york-convention-is-key-to-enforcing-arbitral-awards-across-national-borders-with-over-160-signatory-countries-agreeing-to-recognize-such-awards/"><u>The New York Convention Is Key to Enforcing Arbitral Awards Across National Borders, with over 160 Signatory Countries Agreeing to Recognize Such Awards.</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-video-from-japanese-to-english-online-for-free/"><u>Translate Video From Japanese to English Online for Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-imessage-communication-top-solutions-for-android-users/"><u>Unlocking iMessage Communication: Top Solutions for Android Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-11-21T23:57:57.633Z
-updated: 2024-11-23T19:15:23.633Z
+date: 2024-11-28T00:50:50.405Z
+updated: 2024-12-02T03:12:56.576Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ## Guide: Implementing Windows 11 on Non-Certified Hardware with Ease
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 * [Registry Hack for Unsupported CPUs and/or Only TPM 1.2](https://mondly-stories.techidaily.com/linguistic-tools-portuguese-shortcuts-in-brazil-and-europe/)
 * [PCs With No TPM at All, No UEFI, or Other Major Problems](https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  To install Windows 11 on an unsupported PC, try making the PC supported by enabling TPM 2.0, Secure Boot, and switching to GPT. If those features cannot be enabled on your PC, you must use a few registry hacks to force Windows 11 to install.
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Upgrade an Unsupported PC?
 
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  Whatever you do, we recommend you [back up your important data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) first. It's always important to have a backup, especially when upgrading to a new operating system — and especially when that new operating system isn't officially supported on your hardware.
 
  In some situations, you can make your PC officially supported with a configuration change or two.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to See Why Your PC Is Unsupported
 
@@ -95,6 +99,10 @@ Benj Edwards / How-To Geek
 
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
 
  If your only problem is that your computer has an unsupported CPU and/or that it only has TPM 1.2 instead of TPM 2.0, this is the easiest problem to get around.
@@ -107,10 +115,6 @@ Benj Edwards / How-To Geek
 
 ![Launch regedit in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/open-regedit.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type the following address into the address bar in the Registry Editor window (or navigate to it in the left pane):
 
 HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
@@ -118,7 +122,7 @@ HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
 ![Enter the address in the Registry Editor's location bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/plug-in-address.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Right-click in the right pane, select New > DWORD (32-bit) Value, and enter the following text as the name:
@@ -131,10 +135,6 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Enter &quot;1&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/set-registry-value.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Want to skip the registry-editing process? Download our [Enable Unsupported Upgrades registry hack](https://driver-error.techidaily.com/device-seeks-additional-resources-for-operation/) to perform the change in just a few clicks.
 
  This downloadable ZIP file contains two [REG files](https://tech-revival.techidaily.com/diagnosing-and-resolving-interface-issues-chatgpts-trouble-with-plugin-connectivity/): One that enables upgrades on unsupported PCs (Enable Unsupported Upgrades.reg) and one that reverts the change (Undo Enable Unsupported Upgrades.reg). Just double-click the "Enable Unsupported Upgrades.reg" file and agree to add the information to your registry. If you want to undo your change, double-click the Undo file.
@@ -143,15 +143,15 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click the REG file and click &quot;Yes&quot; to agree.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/reg-file.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To ensure the change takes effect, reboot your PC before continuing.
 
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
 
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
 
@@ -180,24 +180,18 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-life-in-high-quality-with-xiaomis-mi-11-screens/"><u>[New] 2024 Approved Capturing Life in High Quality with Xiaomi's Mi 11 Screens</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-code-commanders-elite-females-on-yt/"><u>[New] 2024 Approved Code Commanders Elite Females on YT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-freesync-review-the-latest-from-lg-27uhd68-monitor/"><u>[New] FreeSync Review The Latest From LG 27UHD68 Monitor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonic-start-spots-music-gold-for-podcast-kicks/"><u>[New] Harmonic Start Spots Music Gold for Podcast Kicks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-avplayer-xpress-for-mobile-and-desktop-users/"><u>[New] Premium AVPlayer Xpress for Mobile & Desktop Users</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>[Updated] In 2024, A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-quick-and-simple-free-fb-video-to-mp4-hd-conversion-tutorial-online/"><u>[Updated] Quick and Simple Free FB Video to MP4 (HD) Conversion Tutorial Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-drive-with-these-20-high-impact-tunes-for-exercise-enthusiasts/"><u>2024 Approved Ignite Drive with These 20 High-Impact Tunes for Exercise Enthusiasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-strategic-use-of-creative-commons-copyright-law/"><u>2024 Approved Strategic Use of Creative Commons Copyright Law</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6/iPad | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-picks-for-mp4-audio-gear-for-2024/"><u>Expert Picks for MP4 Audio Gear for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-finest-free-luts-of-the-year-for-2024/"><u>Explore the Finest FREE LUTs of the Year for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-upgraded-gopro-sessions/"><u>Exploring the Upgraded GoPro Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/file-logistics-unlocked-five-streamlined-techniques-for-computer-upload-for-2024/"><u>File Logistics Unlocked Five Streamlined Techniques for Computer Upload for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-kinetic-assessment-2023-for-2024/"><u>Full Kinetic Assessment 2023 for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/guide-pour-installer-et-utiliser-lenvironnement-de-recuperation-aomei-backupper-creation-facile/"><u>Guide Pour Installer Et Utiliser L'Environnement De Récupération AOMEI Backupper - Création Facile!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hotspots-for-revolutionary-vr-cinema-for-2024/"><u>Hotspots for Revolutionary VR Cinema for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-obscurity-to-elite-nine-keys-to-dominating-instagram/"><u>In 2024, From Obscurity to Elite Nine Keys to Dominating Instagram</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-document-insights-with-these-veiled-it-can-still-be-identified-through-a-combination-of-clues-within-the-story-such-as-location-details-or-character-49/"><u>Master Document Insights with These Veiled, It Can Still Be Identified Through a Combination of Clues Within the Story (Such as Location Details or Character Actions)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevate-your-gaming-experience-with-smart-use-of-xbox-zoom/"><u>[New] 2024 Approved Elevate Your Gaming Experience with Smart Use of Xbox Zoom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs/"><u>[New] Icebound Battles Spectacular Moments From '22'S Snowboard Cross Faceoffs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-charting-the-course-of-viral-stocks-and-stories/"><u>[Updated] 2024 Approved Charting the Course of Viral Stocks & Stories</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-final-cut-pros-top-effect-enhancers-the-essential-10-for-2024/"><u>[Updated] Final Cut Pro's Top Effect Enhancers The Essential 10 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-av1-starters-guidebook/"><u>2024 Approved Grasping AV1 Starter's Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom/"><u>2024 Approved Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/youtube-endings-that-stand-out-ranked/"><u>Free YouTube Endings That Stand Out - Ranked!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-make-reels-on-instagram/"><u>How to Make Reels on Instagram</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-c51-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco C51 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>In 2024, Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-titling-techniques-to-explore/"><u>In 2024, Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premier-nintendo-switch-brawlers-list-max-156-for-2024/"><u>Premier Nintendo Switch Brawlers List (Max 156) for 2024</u></a></li>
 </ul></div>
 

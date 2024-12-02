@@ -1,7 +1,7 @@
 ---
 title: Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
-date: 2024-11-18T00:10:39.929Z
-updated: 2024-11-23T16:01:25.870Z
+date: 2024-11-25T03:42:05.854Z
+updated: 2024-12-02T04:29:49.928Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,10 +33,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
@@ -52,10 +60,14 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -67,10 +79,6 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add a Prefix or Suffix to a File Name
 
  To add text before your file name (known as a prefix), launch a PowerShell window and enter the following command. Replace **PATH** with your folder's full path, and **PREFIX** with the text you want to append, then press Enter.
@@ -81,10 +89,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -92,10 +96,6 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -118,18 +118,19 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-film-capture-in-your-pocket-top-ois-enabled-devices/"><u>[New] Expert Film Capture in Your Pocket Top OIS-Enabled Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-supplemental-film-footage/"><u>[New] Harnessing the Power of Supplemental Film Footage</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-innovative-use-of-movie-maker-for-digital-storytelling-for-2024/"><u>[New] Innovative Use of Movie Maker for Digital Storytelling for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fable-creators-circle-a-list-eight/"><u>[Updated] Fable Creators Circle - A-List Eight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>[Updated] Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-explained-a-streaming-media-service/"><u>[Updated] In 2024, Vimeo Explained A Streaming Media Service</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snap-better-pics-with-radial-blur-and-shadow-features-in-photoshop/"><u>[Updated] Snap Better Pics with Radial Blur and Shadow Features in Photoshop</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-skyrocket-views-implementing-these-proven-youtube-growth-methods/"><u>2024 Approved Skyrocket Views Implementing These Proven YouTube Growth Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-13-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 13 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-vob-player-for-pc-and-mac/"><u>In 2024, Free VOB Player for PC and Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-front-seat-escapades-beyond-athletic-viewing/"><u>In 2024, Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-s24-ultra-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy S24 Ultra FRP Without Computer</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/masterpieces-reborn-10-premier-tools-to-restore-your-photographs-on-any-device/"><u>Masterpieces Reborn: 10 Premier Tools to Restore Your Photographs on Any Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-craftsmanship-avoiding-common-film-lighting-pitfalls/"><u>[New] Illuminating Craftsmanship Avoiding Common Film-Lighting Pitfalls</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rick-automated-audiences-into-authentic-engagement/"><u>[New] Trick Automated Audiences Into Authentic Engagement</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-exclusion-dilemma-is-someone-hidden-on-snapchat/"><u>[Updated] The Exclusion Dilemma Is Someone Hidden On Snapchat?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-choice-top-5-pro-fish-action-cameras/"><u>[Updated] Ultimate Choice Top 5 Pro-Fish Action Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-of-virtual-reality-speak/"><u>2024 Approved Foundations of Virtual Reality Speak</u></a></li>
+<li><a href="https://video-capture.techidaily.com/diy-wav-file-reduction-a-beginners-guide-to-free-tools/"><u>DIY WAV File Reduction: A Beginner's Guide to Free Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-forecast-shooting-a-music-video-for-2024/"><u>Financial Forecast Shooting a Music Video for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-remove-red-eye-from-photos-on-iphone-free-for-2024/"><u>How to Remove Red Eye From Photos on iPhone [Free] for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-sign-up-to-use-the-ai-powered-bing-search-engine/"><u>How to Sign Up to Use the AI-Powered Bing Search Engine</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-direct-download-of-video-to-mp3-from-vimeo/"><u>In 2024, Direct Download of Video to MP3 From Vimeo</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-6-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 6 iCloud Bypass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-everyday-life-top-10-vr-accessory-guide-for-2024/"><u>Innovating Everyday Life Top 10 VR Accessory Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-gif-mastery-on-your-desktop-for-2024/"><u>Twitter Gif Mastery on Your Desktop for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/vibration-detectives-uncover-beats-online/"><u>Vibration Detectives Uncover Beats Online</u></a></li>
 </ul></div>
 

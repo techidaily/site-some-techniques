@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-11-16T19:48:02.432Z
-updated: 2024-11-23T17:51:08.670Z
+date: 2024-11-27T01:56:30.726Z
+updated: 2024-12-01T19:52:48.408Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,20 +90,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-action-cam-colorization-top-15-luts-to-enhance-cinematography/"><u>[New] Exclusive Action Cam Colorization Top 15 LUTs to Enhance Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-designing-text-in-3d-space-ps/"><u>[New] Expert Tips for Designing Text in 3D Space PS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-drive-growth-with-these-top-10-innovative-igtv-videos/"><u>[New] In 2024, Drive Growth with These Top 10 Innovative IGTV Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-crafting-compelling-freefire-vids-with-strategy-guide-for-2024/"><u>[Updated] Crafting Compelling FreeFire Vids with Strategy Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>[Updated] GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capture-unrooted-android-sounds-4-techniques/"><u>[Updated] In 2024, Capture Unrooted Android Sounds 4 Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-boundaries-of-true-black-on-asuss-professional-screen/"><u>2024 Approved Exploring the Boundaries of True Black on ASUS's Professional Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>2024 Approved Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-new-era-select-addons-and-browser-plugins-to-optimize-video-viewing-in-firefox-for-2024/"><u>Facebook's New Era Select Addons & Browser Plugins to Optimize Video Viewing in Firefox for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display-for-2024/"><u>From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-glow-with-glory-simple-strokes-on-iphone-video-luster/"><u>In 2024, Glow with Glory Simple Strokes on iPhone Video Luster</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-pcmobile-video-filter-techniques/"><u>In 2024, Mastering PC/Mobile Video Filter Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/maximizing-the-impact-of-outdoor-videos-live-streams-via-periscopefacebook-for-2024/"><u>Maximizing the Impact of Outdoor Videos Live Streams via Periscope/Facebook for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/stylish-profiles-easy-downloads-for-2024/"><u>Stylish Profiles, Easy Downloads for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-future-of-data-extraction-insights-from-singhs-world/"><u>The Future of Data Extraction: Insights From Singh's World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-face-unlock-tech-iphone-xs-face-id-versus-samsung/"><u>[Updated] Face Unlock Tech IPhone X's Face ID Versus Samsung'</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leading-edge-social-media-movie-batch/"><u>[Updated] In 2024, Leading Edge Social Media Movie Batch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigabyte-totals-for-extended-video-playback/"><u>2024 Approved Gigabyte Totals for Extended Video Playback</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/avi-to-quicktime-mov-transformation-easy-methods-for-pc-and-web-conversion-techniques/"><u>AVI to QuickTime MOV Transformation – Easy Methods for PC and Web Conversion Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-the-algorithm-behind-youtube-shorts/"><u>Decoding the Algorithm Behind YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-picks-superior-ringtone-developers/"><u>In 2024, Foremost Picks Superior Ringtone Developers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-google-cardboard-versus-samsung-gear-vr-the-showdown/"><u>In 2024, Google Cardboard Versus Samsung Gear VR The Showdown</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/leveraging-cookiebot-technology-for-tailored-web-experiences/"><u>Leveraging Cookiebot Technology for Tailored Web Experiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/steps-to-engage-in-a-virtual-meeting-via-devices-google-for-2024/"><u>Steps to Engage in a Virtual Meeting via Devices (Google) for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-pro-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 Pro 4G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

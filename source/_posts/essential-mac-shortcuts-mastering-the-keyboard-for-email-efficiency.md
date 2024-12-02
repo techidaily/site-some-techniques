@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2024-11-17T22:29:12.786Z
-updated: 2024-11-24T01:02:25.439Z
+date: 2024-11-24T19:39:44.117Z
+updated: 2024-12-02T00:53:34.364Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
 Once you integrate shortcuts into your workflow, you'll wonder how you ever worked without them. Apple's native Mail app has a host of custom commands that make quickly navigating your email simple. Not only do these shortcuts work in the Mac Mail app, they also work on iPads with [connected keyboards](https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/) and when using iCloud Mail through a browser.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Attach Files (Command+Shift+A) 
@@ -24,11 +24,7 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
@@ -38,20 +34,20 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
 
@@ -66,6 +62,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  But, it isn't always necessary. If you want to condense your email window, you can hide this sidebar with a keyboard shortcut. By pressing Control+Command+S, you can hide the sidebar from view, and bring it back again the same way.
 
 ![Apple Mail app with Sidebar, including folders, highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-5-16-59-pm.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -88,24 +88,22 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-clipcutting-masterwin8/"><u>[New] ClipCutting MasterWin8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-satisfactory-to-superior-your-tech-upgrade-playbook/"><u>[New] From Satisfactory to Superior Your Tech Upgrade Playbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-groundbreaking-gear-for-next-level-virtual-reality/"><u>[New] Groundbreaking Gear for Next-Level Virtual Reality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[New] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-use-movie-maker-on-windows-11/"><u>[New] In 2024, How to Use Movie Maker on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-iphones-macro-photography-secrets-revealed/"><u>[Updated] Expertise in iPhone's Macro Photography Secrets Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-worlds-with-samsung-gear-vr-games/"><u>[Updated] Exploring Virtual Worlds with Samsung Gear VR Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>[Updated] From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-engaging-with-youtube-comment-threads/"><u>[Updated] In-Depth Look at Engaging with YouTube Comment Threads</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/oven-ways-to-increase-youtube-views/"><u>12 Proven Ways to Increase YouTube Views</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-pova-5-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Pova 5 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/9-pros-and-cons-of-buying-digital-games/"><u>9 Pros (and Cons) of Buying Digital Games</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/customized-user-experience-with-cookiebot-technology/"><u>Customized User Experience with Cookiebot Technology</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-text-to-stunning-three-dimensional-designs-photo/"><u>In 2024, From Ordinary Text to Stunning Three-Dimensional Designs PHOTO</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-max-vs-hero-11-a-video-quality-showdown/"><u>In 2024, GoPro Max vs Hero 11 A Video Quality Showdown</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-11-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme 11 5G Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-chatgpt-could-be-your-go-to-resource-for-health-tips/"><u>Why ChatGPT Could Be Your Go-To Resource for Health Tips?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-effective-online-image-trimming/"><u>[New] Expert Strategies for Effective Online Image Trimming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-images-uncovered-histories/"><u>[New] Iconic Images Uncovered Histories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-techniques-for-garnering-background-visuals/"><u>[New] Ideal Techniques for Garnering Background Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-photography-with-dynamic-mosaic-creations/"><u>[New] Illuminating Photography with Dynamic Mosaic Creations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-action-into-photos-using-illustrators-features/"><u>[New] Infusing Action Into Photos Using Illustrator's Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>[New] Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhanced-visual-splendor-adding-filters-to-media-pc-and-mobile/"><u>[Updated] Enhanced Visual Splendor Adding Filters to Media (PC & Mobile)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-storage-limits-for-multi-channel-vids-128gb/"><u>[Updated] Evaluating Storage Limits for Multi-Channel Vids, 128GB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-with-windows-10s-newest-apps-and-games/"><u>[Updated] Innovate with Windows 10'S Newest Apps and Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/crafting-tomorrows-teachers-today-through-vr/"><u>Crafting Tomorrow’s Teachers, Today Through VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-ios-camera-enhancing-apps-all-at-no-cost-for-2024/"><u>Explore the Best iOS Camera Enhancing Apps - All at No Cost for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/harmonizing-your-device-importing-to-inshot-app-for-2024/"><u>Harmonizing Your Device Importing to InShot App for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-instagram-slowdowns-top-6-fixes-for-android-and-ios/"><u>How to Resolve Instagram Slowdowns: Top 6 Fixes for Android & iOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-digital-world-with-toms-computer-and-hardware-experts/"><u>Master the Digital World with Tom's Computer & Hardware Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-info-on-short-form-media/"><u>Quick Info on Short Form Media</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-step-by-step-instructions-for-deleting-your-tiktok-profile/"><u>Ultimate Guide: Step-by-Step Instructions for Deleting Your TikTok Profile</u></a></li>
 </ul></div>
 

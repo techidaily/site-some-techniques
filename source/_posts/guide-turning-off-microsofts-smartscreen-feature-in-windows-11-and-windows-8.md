@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-11-18T20:16:58.443Z
-updated: 2024-11-23T18:15:07.217Z
+date: 2024-11-25T00:55:13.092Z
+updated: 2024-12-01T18:27:40.940Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ---
 
 ## Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
@@ -46,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "App and Browser Control" icon in Windows Security to find these settings.
@@ -63,31 +55,39 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
@@ -106,24 +106,22 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-all-in-one-app-analysis-tool-az-screen-capturer/"><u>[New] All-in-One App Analysis Tool AZ Screen Capturer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-films-best-shot-techniques-top-5-essentials/"><u>[New] Film's Best Shot Techniques Top 5 Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-glow-dynamics-enhancing-visual-storytelling-through-lighting/"><u>[New] Glow Dynamics Enhancing Visual Storytelling Through Lighting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-premium-visual-aids-for-business-professionals/"><u>[Updated] FREE Premium Visual Aids for Business Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>[Updated] From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-reclaiming-lost-moments-curing-livestream-pauses-on-facebook/"><u>[Updated] In 2024, Reclaiming Lost Moments Curing Livestream Pauses on Facebook</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-explore-our-1-ranked-facebook-video-downloading-apps-for-ios/"><u>2024 Approved Explore Our #1 Ranked Facebook Video Downloading Apps for iOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-giroptic-360-angle-reviews/"><u>2024 Approved In-Depth Giroptic 360-Angle Reviews</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-radiant-recording-two-simple-steps-for-enhanced-iphone-video-lighting/"><u>2024 Approved Radiant Recording Two Simple Steps for Enhanced iPhone Video Lighting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/drive-participation-with-artisanal-story-inquiries-for-2024/"><u>Drive Participation with Artisanal Story Inquiries for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-refinements-of-sonys-s6500-bdp-model-for-2024/"><u>Exploring the Refinements of Sony's S6500 BDP Model for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-concept-to-reality-the-vr-story-for-2024/"><u>From Concept to Reality The VR Story for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-nokia-c32-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia C32 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-graph-meme-trends-by-occasion-type/"><u>In 2024, Giggle Graph Meme Trends by Occasion Type</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-magic-top-10-frame-enhancement-tools-online/"><u>In 2024, Image Magic Top 10 Frame-Enhancement Tools Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/stadia-by-google-an-in-depth-look-at-its-strengths-and-weaknesses/"><u>Stadia by Google - An In-Depth Look at Its Strengths & Weaknesses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unlock-the-potential-of-your-facebook-lives/"><u>Unlock the Potential of Your Facebook Lives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-apple-event-the-ultimate-resource-for-m3-macbook-pros-release-info-estimated-costs-in-depth-feature-analysis-and-expert-insights/"><u>Upcoming Apple Event! The Ultimate Resource for M3 MacBook Pro's Release Info, Estimated Costs, In-Depth Feature Analysis, and Expert Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xbox-one-users-no-longer-face-issues-with-netflix-all-systems-go/"><u>Xbox One Users No Longer Face Issues with Netflix - All Systems Go</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-empower-your-imagery-free-lut-techniques-for-ar-for-2024/"><u>[New] Empower Your Imagery Free LUT Techniques for AR for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giggle-genesis-app/"><u>[New] Giggle Genesis App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-shorten-and-resize-video-on-iphone/"><u>[New] How to Shorten and Resize Video on iPhone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-viral-video-vigilantes-top-ten-in-a-day-one-hour-at-a-time/"><u>[New] In 2024, Viral Video Vigilantes Top Ten in a Day, One Hour at a Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-excellent-quality-hd-video-preservers/"><u>[Updated] 2024 Approved Excellent Quality HD Video Preservers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-10-drone-set-professional-filming-and-photography/"><u>[Updated] Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-professional-content-creators-guide-studio-vs-beta-platform/"><u>[Updated] Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/abbyy-recognized-as-top-contender-in-the-2024-gartner-magic-quadrant-excellence-in-process-mining-solutions/"><u>ABBYY Recognized as Top Contender in the 2024 Gartner Magic Quadrant - Excellence in Process Mining Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heartfelt-goodbyes-free-or-subscribed-video-endings-for-2024/"><u>Heartfelt Goodbyes Free or Subscribed Video Endings for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-and-fix-2022s-dota-2-vac-error-for-smooth-gameplay/"><u>How to Troubleshoot and Fix 2022'S Dota 2 VAC Error for Smooth Gameplay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-tech-giants-iphone-x-and-samsungs-face-recognition-for-2024/"><u>Identifying Tech Giants IPhone X & Samsung's Face Recognition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improve-zoo-call-quality-banish-background-noise-for-2024/"><u>Improve Zoo Call Quality Banish Background Noise for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-video-clarity-the-first-lessons-on-hd/"><u>In 2024, Grasping Video Clarity The First Lessons on HD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>In 2024, Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-darkness-ultimate-guide-to-resolving-2024s-minecraft-black-screen-glitches/"><u>Overcoming the Darkness: Ultimate Guide to Resolving 2024'S Minecraft Black Screen Glitches</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-connections-avoiding-facebook-hacks/"><u>Securing Connections: Avoiding Facebook Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-pathway-to-proficient-league-of-legends-screen-recordings/"><u>The Pathway to Proficient League of Legends Screen Recordings</u></a></li>
 </ul></div>
 

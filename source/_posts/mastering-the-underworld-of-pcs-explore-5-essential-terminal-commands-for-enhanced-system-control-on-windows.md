@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-11-16T22:28:38.039Z
-updated: 2024-11-23T17:10:32.066Z
+date: 2024-12-01T00:29:33.162Z
+updated: 2024-12-02T02:11:14.537Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ## Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 * Use commands like dir /s, ping -t, cmatrix, genact, and hollywood to simulate the hacker aesthetics.
 
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
 
@@ -61,7 +57,7 @@ color
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
@@ -91,6 +87,10 @@ dir /s | more
 
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the ping-t Command to Ping a Website Continuously
 
  Next up is the ping command with the -t option:
@@ -108,7 +108,7 @@ Your browser does not support the video tag.
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
@@ -124,6 +124,10 @@ cmatrix
 Your browser does not support the video tag. 
 
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
@@ -154,10 +158,6 @@ genact -m _module-name_
 genact -m cryptomining
 
 Your browser does not support the video tag. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
@@ -196,24 +196,22 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[New] Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-20-copy-free-pubg-thumbnail-sequences/"><u>[Updated] Excellent 20 Copy-Free PUBG Thumbnail Sequences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-basics-of-effective-vlogging/"><u>[Updated] Exploring the Basics of Effective Vlogging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-forward-comparing-apple-and-samsungs-face-detection-capabilities/"><u>[Updated] Face Forward Comparing Apple and Samsung's Face-Detection Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-grab-free-and-safe-vlc-with-minimal-risk-for-macos-users/"><u>[Updated] How to Grab Free and Safe VLC with Minimal Risk for macOS Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-step-by-step-pathway-to-messaging-media-download/"><u>2024 Approved A Step-by-Step Pathway to Messaging Media Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excursion-videography-tools-compilation/"><u>2024 Approved Excursion Videography Tools Compilation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fuse-video-narratives-with-acoustic-elements-in-premiere-pro/"><u>2024 Approved Fuse Video Narratives with Acoustic Elements in Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-10-solutions-for-seamless-video-background-swapping/"><u>2024 Approved Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a15-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A15 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-ipad-pro-m4-vs-macbook-air-m3-key-features-and-performance/"><u>Comparing iPad Pro M4 Vs. MacBook Air M3: Key Features and Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-to-correct-ntdlldll-errors-on-windows-7-8-and-10/"><u>Comprehensive Solutions to Correct ntdll.dll Errors on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme Phone without Any Data Loss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-for-every-level-of-filmmaker-our-top-10-camera-picks/"><u>In 2024, For Every Level of Filmmaker, Our Top 10 Camera Picks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/initiate-online-interactions-with-this-guide-to-facebook-registration/"><u>Initiate Online Interactions with This Guide to Facebook Registration</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ning-loop-transferring-youtube-playlists-fast/"><u>Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-4-immediate-chatgpt-integration-tips/"><u>Mastering GPT-4: Immediate ChatGPT Integration Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-mxf-mp3-movavi/"><u>영구 무료 방법: Online MXF 파일을 MP3로 바꾸기 - Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-improved-ram-in-minecraft/"><u>[New] 2024 Approved Cutting-Edge Techniques for Improved Ram in Minecraft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-switching-on-windows-11s-dynamic-hdr-mode/"><u>[New] Guide Switching on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-upgrade-your-mac-with-macos-sierra-simplified/"><u>[New] How to Upgrade Your Mac with macOS Sierra Simplified</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-cut-to-connect-advanced-editing-with-kinemaster/"><u>[Updated] From Cut to Connect Advanced Editing with Kinemaster</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-minimalist-obs-adjustments-for-under-500-pcs-for-2024/"><u>[Updated] Minimalist OBS Adjustments for Under-$500 PCs for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-turning-views-into-cash-secrets-to-successful-facebook-video-money-making-for-2024/"><u>[Updated] Turning Views Into Cash Secrets to Successful Facebook Video Money-Making for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-generators-online/"><u>2024 Approved Giggle Generators Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-htc-vive-the-pinnacle-of-immersive-3d-playing-experiences/"><u>2024 Approved HTC Vive The Pinnacle of Immersive 3D Playing Experiences</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-spark-go-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Spark Go (2023) by Name | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-site-management/"><u>Cookiebot-Enabled Site Management</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grading-inshot-does-it-reign-supreme-in-2024/"><u>Grading InShot Does It Reign Supreme, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/implementing-soft-cessation-of-sounds-using-audacity-procedures-for-2024/"><u>Implementing Soft Cessation of Sounds Using Audacity Procedures for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improving-professional-collaboration-with-strategic-office-planning-for-2024/"><u>Improving Professional Collaboration with Strategic Office Planning for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-zte-blade-a73-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On ZTE Blade A73 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210181505-9781952022067-operacion-terra/"><u>Operación Terra | Free Book</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726030131553-pc/"><u>PCやスマートフォンで撮影した画像・動画サイズを効果的に縮小する技術</u></a></li>
 </ul></div>
 

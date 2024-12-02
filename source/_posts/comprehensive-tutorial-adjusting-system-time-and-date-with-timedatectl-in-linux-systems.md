@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-11-21T02:22:00.663Z
-updated: 2024-11-23T21:03:40.352Z
+date: 2024-11-24T19:16:48.545Z
+updated: 2024-12-02T05:42:16.470Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 ---
 
 ## Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  On systemd-based Linux distributions, we use the `timedatectl` command to see or change those settings and values.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Getting Started With timedatectl
 
  To see the current data and time and other values, use the `timedatectl` command with the status operator.
@@ -76,10 +76,6 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
@@ -87,7 +83,7 @@ timedatectl list-timezones | grep "America/" | less
 ![Filtering out American time zones with grep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/4-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
@@ -95,7 +91,7 @@ timedatectl list-timezones | grep "America/" | less
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting the Time Zone
@@ -114,10 +110,6 @@ timedatectl
 
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Manually Setting the Time and Date
 
  Although manually setting the time and date is possible, usually you won't need to. Using time synchronization and NTP is the preferred way to keep your computer's time and date accurate. If you try to change your computers' date or time you'll probably get an error, telling you that time synchronization is in use.
@@ -125,10 +117,6 @@ timedatectl
 timedatectl set-time 10:30:00
 
 ![You can't set the time if time synchronization is in force](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/7-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Use this command to turn off the time synchronization service:
 
@@ -144,6 +132,10 @@ timedatectl
 
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
 
  If you have internet access, as soon as you restore the time synchronization service the time is retrieved and all of the details are correctly reset.
@@ -153,6 +145,10 @@ sudo systemctl start systemd-timesyncd.service
 timedatectl
 
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  RTC: UTC or LTZ?
 
@@ -169,6 +165,10 @@ timedatectl set-local-rtc 1
 timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I think they've made their feelings clear.
 
@@ -199,24 +199,21 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-an-impactful-online-presence-with-perfect-yt-dimensions/"><u>[New] 2024 Approved Crafting an Impactful Online Presence with Perfect YT Dimensions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unrestricted-gaming-beats-digital-download/"><u>[New] 2024 Approved Unrestricted Gaming Beats Digital Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-lut-integration-in-premiere-projects/"><u>[New] Expert Tips for LUT Integration in Premiere Projects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-3d-to-immersive-understanding-virtual-realitys-evolution/"><u>[Updated] From 3D to Immersive Understanding Virtual Reality's Evolution</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-sfpr-settings-for-deliberate-moments/"><u>[Updated] High-Quality SFPR Settings for Deliberate Moments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-scripts-for-audio-performances/"><u>[Updated] Ideal Scripts for Audio Performances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-video-edits-is-inshot-top-choice/"><u>2024 Approved Exploring Video Edits Is InShot Top Choice?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acers-predator-triton-300-se-evaluation-compact-powerhouse-meets-exceptional-price-performance-ratio/"><u>Acer's Predator Triton 300 SE Evaluation: Compact Powerhouse Meets Exceptional Price-Performance Ratio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k-for-2024/"><u>From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-effortlessly-preserve-linkedin-videos-top-6-tools-here-for-2024/"><u>How to Effortlessly Preserve LinkedIn Videos - Top 6 Tools Here for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-gt-5-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme GT 5 to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-blueprints-for-the-ultimate-home-studio-a-4k-editing-powerhouse/"><u>In 2024, Blueprints for the Ultimate Home Studio A 4K Editing Powerhouse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-virtual-presence-in-ms-teams/"><u>In 2024, Fine-Tuning Virtual Presence in MS Teams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highlighting-progress-in-photo-shooting-algorithms/"><u>In 2024, Highlighting Progress in Photo Shooting Algorithms</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/limited-time-offer-the-alluring-deal-of-the-season-hp-envy-x360-touchscreen-laptop-at-40-off-for-only-499-shop-smart-with-zdnet/"><u>Limited-Time Offer: The Alluring Deal of the Season – HP Envy X360 Touchscreen Laptop at 40% Off for Only $499 | Shop Smart with ZDNET!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-12-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 12 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-transform-your-memories-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>Updated Transform Your Memories Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-editing-mastery-a-dive-into-filmoras-best-practices/"><u>[New] Expertise in Editing Mastery A Dive Into Filmora's Best Practices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-best-tiktok-earning-tools-top-earnings-predictors/"><u>[New] In 2024, Best TikTok Earning Tools Top Earnings Predictors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-ahead-with-these-must-know-pixlr-techniques/"><u>[Updated] Get Ahead with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-guide-to-3d-color-grading-using-ps-luts/"><u>[Updated] In-Depth Guide to 3D Color Grading Using PS Luts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-simplified-methods-for-google-meet-recordings-for-2024/"><u>[Updated] Simplified Methods for Google Meet Recordings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-scraps-to-stunning-a-photomontage-journey/"><u>2024 Approved From Scraps to Stunning A Photomontage Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>2024 Approved How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-usenet-video-player-direct-streaming-access/"><u>2024 Approved Usenet Video Player Direct Streaming Access</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1142781-9780857010056-chen/"><u>Chen | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-rtx-2070-super-drivers-compatible-with-windows-11-and-earlier-versions/"><u>Get the Newest Nvidia RTX 2070 Super Drivers – Compatible with Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gelatogags-humor-graphics-online/"><u>In 2024, GelatoGags Humor Graphics Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse/"><u>In 2024, How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-realme-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Realme 11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-eines-iphone-songs-als-klingelton/"><u>Schritt-Für-Schritt-Anleitung Zum Einrichten Eines iPhone-Songs Als Klingelton</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-smart-8-plus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 8 Plus Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-comprehensive-guide-to-premier-gratis-web-design-suites-on-pc/"><u>Your Comprehensive Guide to Premier Gratis Web Design Suites on PC</u></a></li>
 </ul></div>
 

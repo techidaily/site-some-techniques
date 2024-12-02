@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-11-19T02:59:04.219Z
-updated: 2024-11-23T21:14:02.693Z
+date: 2024-11-27T21:51:01.738Z
+updated: 2024-12-01T23:21:04.286Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,10 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How This Particular Problem Foxes People
 
  Moving a file on the [command line is pretty simple](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/). You specify the file you want to move, and where you want to move it to. But still, it’s easy for a new user to find themselves exasperated and frustrated over mv.
@@ -34,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  They try to move a file into a directory, and it seems to work. They don’t get a confirmation message, but neither do they get an error message. Linux often takes the no news is good news approach. If you don’t get an error message, it must have worked.
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
 
@@ -49,23 +49,19 @@ ls ~/Downloads/src
     
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
 
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
 
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
 
@@ -84,6 +80,10 @@ ls ~/Documents/backup/
 ls -l ~/Documents
 
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
 
@@ -106,7 +106,7 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’s Not Exactly Slash’s Fault
@@ -130,20 +130,22 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-demystified-a-comprehensive-look/"><u>[New] GoPro Karma Demystified A Comprehensive Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-honored-proposals-leading-ringtone-creators-iphone/"><u>[New] Honored Proposals Leading Ringtone Creators iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegallery-craft-and-share-your-own-funny-faces/"><u>[Updated] GiggleGallery Craft and Share Your Own Funny Faces</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premier-selection-of-windows-11s-high-quality-capture-software/"><u>[Updated] In 2024, Premier Selection of Windows 11'S High-Quality Capture Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-android-for-ultimate-3d-playback/"><u>[Updated] Innovative Android for Ultimate 3D Playback</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-churn-out-custom-internet-echo-jokes/"><u>2024 Approved Churn Out Custom Internet Echo Jokes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-infinite-artistic-possibilities-with-top-10-apps-for-2024/"><u>Explore Infinite Artistic Possibilities with Top 10 Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hitting-a-pixel-snag-a6400s-video-problems-for-2024/"><u>Hitting a Pixel Snag A6400's Video Problems for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12r-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12R Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-future-sighted-the-foremost-cameras-excellence/"><u>In 2024, Future Sighted The Foremost Cameras Excellence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/integrating-pinterest-tabs-into-your-facebook-page-a-comprehensive-guide/"><u>Integrating Pinterest Tabs Into Your Facebook Page: A Comprehensive Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nokia-c300-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nokia C300 Phone Hassle-Free</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-with-gpt-5-when-can-we-expect-to-see-it-launch/"><u>The Future of AI with GPT-5: When Can We Expect to See It Launch?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-iphones-hidden-potential-how-to-utilize-the-in-built-timer-for-stunning-photography/"><u>Unlock Your iPhone's Hidden Potential: How to Utilize the In-Built Timer for Stunning Photography</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-imovie-replacements-you-need-to-know-about/"><u>Updated The Best Free iMovie Replacements You Need to Know About</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-the-best-livestreaming-video-tech/"><u>[New] In-Depth Analysis The Best Livestreaming Video Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[Updated] 2024 Approved From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-spotify-advertising-a-playbook-guide/"><u>[Updated] Expertise in Spotify Advertising A Playbook Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamers-guide-to-elite-streaming-platforms/"><u>[Updated] Gamers' Guide to Elite Streaming Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero5-vs-yi-evaluating-cutting-edge-cameras/"><u>[Updated] Hero5 Vs. YI Evaluating Cutting-Edge Cameras</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-expanding-your-fb-video-scope-full-hd/"><u>[Updated] In 2024, Expanding Your Fb Video Scope Full HD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>2024 Approved Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>2024 Approved Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-pro-level-mp3-cutting-discover-the-top-5-online-platforms/"><u>2024 Approved Pro-Level MP3 Cutting Discover the Top 5 Online Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-prime-collage-app-selection-overview/"><u>Android's Prime Collage App Selection Overview</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-appeal-of-the-light-phone-3s-simplicity-and-mechanical-features/"><u>Exploring the Appeal of the Light Phone 3'S Simplicity and Mechanical Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gigglygraphics-mememakers-haven/"><u>In 2024, GigglyGraphics MemeMaker's Haven</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>In 2024, Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-correcting-errored-photo-transfers-from-iphones/"><u>Mastering the Art of Correcting Errored Photo Transfers From iPhones</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/section-4a-advanced-topic-ocular-immunology/"><u>Section 4A: Advanced Topic - Ocular Immunology</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-guide-fixing-non-operational-windows-11-task-scheduler/"><u>Troubleshooting Guide: Fixing Non-Operational Windows 11 Task Scheduler</u></a></li>
 </ul></div>
 

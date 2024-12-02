@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2024-11-19T00:14:48.007Z
-updated: 2024-11-23T18:17:50.130Z
+date: 2024-11-28T20:10:49.579Z
+updated: 2024-12-02T05:30:34.121Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ---
 
 ## Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
  Access Control Lists (ACLs) supplement the [standard file system permissions model on Linux and Unix](https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/). In a nutshell, they allow you to go beyond the "user/group/other" concept to create additional sets of permissions for files and directories. They also do neat things like automatically applying permissions to new files and directories. But first, let's cover some basic Linux file system permissions concepts in which ACLs work alongside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Standard File System Permissions
@@ -49,10 +53,6 @@ ls -l mysupersecretfile.txt
 
 ![A terminal window showing standard file permissions of a sample file on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. \[U\]ser (owner) permissions
 2. \[G\]roup permissions
 3. All \[O\]ther users' permissions
@@ -64,6 +64,10 @@ ls -l mysupersecretfile.txt
  The files and directories that users are allowed to modify depend on a couple of things, including whether the user "owns" it or if they otherwise have the appropriate permissions to via a group membership. Note that the [root user](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) can modify any file on the system, regardless of ownership.
 
  This approach to file system permissions works well for most at-home and standalone setups. Of course, when you're working with systems where multiple users are accessing the same file hierarchy, and you must give certain people access to some areas (and restrict them from others), you'll start to understand the standard "1 owner, 1 group" methodology falls a bit short.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How ACLs Enhance the Standard Permissions Model
 
@@ -83,14 +87,10 @@ ls -l report.pdf
 
 ![A terminal window showing file listing output on Debian.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What to do? Well, you _could_ just take an early lunch break. However, let's instead employ ACLs!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Checking for ACL Support on Your System
@@ -105,6 +105,10 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 
  For reference, here's a [list of different file system support for ACLs, grouped by platform, written by IBM](https://www.ibm.com/docs/en/storage-protect/8.1.21?topic=linux-file-system-acl-support).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The getfacl Command
 
  The getfacl command displays (gets) file access control lists for files and directories. If you run getfacl on our report file from above, you'll see:
@@ -112,10 +116,6 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 getfacl report.pdf
 
 ![A terminal window showing getfacl command and its output on a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Right now the output shows the _minimum ACL_ of the file. The minimum ACL comprises the standard permissions for the owner, owning group and all other users.
 
@@ -139,10 +139,6 @@ ls -l report.pdf
 
 sudo setfacl -m u:lumberg:r report.pdf
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ![A terminal window showing the setfacl command modifying a file's ACL entry.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png) 
 
 * **\-m** means we're modifying an ACL entry for the file
@@ -156,6 +152,10 @@ sudo setfacl -m u:lumberg:r report.pdf
 getfacl report.pdf
 
 ![A terminal window showing output of getfacl command on our sample file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do you spot our new entry?
 
@@ -188,21 +188,17 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-gifs-from-youtube-videos-for-2024/"><u>[New] How to Create GIFs From YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-industry-leaders-top-10-free-lut-resource-list/"><u>[New] Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-gesture-tracking/"><u>[New] Mastering the Art of Gesture Tracking</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-premium-top-ten-nintendo-switch-fighter-games-max-156-for-2024/"><u>[New] Premium Top Ten Nintendo Switch Fighter Games (Max 156) for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-explore-your-virtual-worlds-choosing-between-portable-and-plugged-in-headsets/"><u>[Updated] 2024 Approved Explore Your Virtual Worlds Choosing Between Portable and Plugged-In Headsets</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-audiovisual-excellence-ranking-the-top-5-zoom-transcription-apps/"><u>[Updated] Audiovisual Excellence Ranking the Top 5 Zoom Transcription Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frame-perfect-our-top-10-photo-lenses-list/"><u>[Updated] Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-fresh-face-to-hashtag-hero-unleash-the-secrets-for-swift-social-media-success-on-instagram/"><u>[Updated] In 2024, From Fresh Face to Hashtag Hero Unleash the Secrets for Swift Social Media Success on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-lg-bp350-monitors-unique-features/"><u>2024 Approved Exploring the LG BP350 Monitor's Unique Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-audio-recording-on-windows-10-part-1-for-2024/"><u>Expert Audio Recording on Windows 10, Part 1 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-cost-free-text-animations-onlineoff-for-2024/"><u>Guide to Cost-Free Text Animations (Online/Off) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flip-content-sequence-android-video-workaround/"><u>In 2024, Flip Content Sequence Android Video Workaround</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-accessories-for-optimal-gopro-photography/"><u>In 2024, Ideal Accessories for Optimal GoPro Photography</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-8t-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-fixing-computer-issues-using-chatgpt/"><u>Step-by-Step Guide: Fixing Computer Issues Using ChatGPT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-5-compelling-benefits-of-investing-in-a-laser-engraving-machine/"><u>Top 5 Compelling Benefits of Investing in a Laser Engraving Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-azure-transcript-services/"><u>[New] Harnessing the Power of Azure Transcript Services</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-discover-the-best-online-repositories-for-acquiring-bgm-tracks/"><u>2024 Approved Discover the Best Online Repositories for Acquiring BGM Tracks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-10-websites-for-unlicensed-gaming-tunes/"><u>2024 Approved Explore 10 Websites for Unlicensed Gaming Tunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highlight-the-next-chapter-of-our-podcast-series/"><u>2024 Approved Highlight the Next Chapter of Our Podcast Series</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-multi-lens-modifiers-for-creative-video-effects/"><u>2024 Approved Multi-Lens Modifiers for Creative Video Effects</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enhanced-virtual-collaboration-with-logitechs-ghost-project-innovative-application-of-vintage-photography-principles-for-modern-meetings/"><u>Enhanced Virtual Collaboration with Logitech’s ‘Ghost Project': Innovative Application of Vintage Photography Principles for Modern Meetings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-times-guide-to-essential-gopro-extras-for-2024/"><u>First Time's Guide to Essential GoPro Extras for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-inclusive-dynamic-movement-examination/"><u>In 2024, Inclusive Dynamic Movement Examination</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/lore-legends-top-10-roguelike-experiences/"><u>Lore Legends Top 10 Roguelike Experiences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-video-capture-tools-for-blogging-platforms-for-2024/"><u>Top 10 Video Capture Tools for Blogging Platforms for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-12-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus 12 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212053341-unstuck-with-screen-mirroring-on-windows-10-fix-the-device-connection-issue-here/"><u>Unstuck with Screen Mirroring on Windows 10? Fix the Device Connection Issue Here!</u></a></li>
 </ul></div>
 

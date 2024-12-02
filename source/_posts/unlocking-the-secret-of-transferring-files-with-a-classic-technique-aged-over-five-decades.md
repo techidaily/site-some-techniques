@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
-date: 2024-11-22T18:49:01.483Z
-updated: 2024-11-23T21:08:59.425Z
+date: 2024-11-27T00:35:25.373Z
+updated: 2024-12-02T03:44:30.580Z
 tags:
   - mobile
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is FTP?](https://instagram-clips.techidaily.com/updated-spotting-the-top-10-covert-instagram-story-spectators-for-2024/)
@@ -23,7 +19,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Download an Alternative File Manager
 
  You likely need to begin by downloading an alternative file manager. The default file managers for Android phones, like Files by Google and Samsung My Files, don't come with FTP support baked in.
@@ -49,7 +49,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -66,10 +66,6 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -81,12 +77,16 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
@@ -111,18 +111,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-guide-for-effective-text-overlays-on-images/"><u>[New] Expertise Guide for Effective Text Overlays on Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expertly-crafted-collages-leading-apps-on-android/"><u>[New] Expertly Crafted Collages - Leading Apps on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-extended-exploration-gopro-slr4-silver-edition/"><u>[New] Extended Exploration GoPro SLR4 Silver Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonic-halo-melodies-enriching-chats-on-whatsapp/"><u>[New] Harmonic Halo Melodies Enriching Chats on WhatsApp</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[New] In 2024, Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-learn-to-record-high-quality-audio-with-audacity-mac/"><u>[New] In 2024, Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>[Updated] In 2024, Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphone-camera-settings-simplified/"><u>2024 Approved Expert iPhone Camera Settings Simplified</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effortless-online-conversion-transforming-mkv-files-into-mp4-format/"><u>Effortless Online Conversion: Transforming MKV Files Into MP4 Format</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997738250-football-manager-2019-crashes-heres-how-you-can-solve-the-problem/"><u>Football Manager 2019 Crashes? Here's How You Can Solve the Problem!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-mini-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 mini Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-home-atmosphere-detectors-reviewed/"><u>Leading Home Atmosphere Detectors Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-leading-live-streaming-services-a-detailed-comparison/"><u>[New] In 2024, Leading Live Streaming Services A Detailed Comparison</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-flawless-loops-on-youtube-with-these-tips-for-2024/"><u>[New] Unlock Flawless Loops on YouTube with These Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-hubs-for-high-quality-vr-watching/"><u>[Updated] 2024 Approved Hubs for High-Quality VR Watching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-professioneller-transfer-manager-fur-iphone-und-ipad-macx-mediatrans-einfache-bild-video-and-musikubertragung/"><u>1. Professioneller Transfer-Manager Für iPhone Und iPad: MacX MediaTrans - Einfache Bild-, Video- & Musikübertragung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-choice-top-10-video-subtitles-editors-online-for-2024/"><u>Expert Choice Top 10 Video Subtitles Editors Online for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fresh-filmmakers-footnotes-unveiling-video-quality-terms-for-2024/"><u>Fresh Filmmaker's Footnotes Unveiling Video Quality Terms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-dull-to-dazzling-revitalize-with-these-7-grading-choices-for-2024/"><u>From Dull to Dazzling Revitalize with These 7 Grading Choices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-multiple-clips-an-android-tutorial/"><u>In 2024, Harmonizing Multiple Clips An Android Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-mobile-editing-platforms-for-dji-imagery/"><u>In 2024, Ideal Mobile Editing Platforms for DJi Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-your-android-videos-a-quick-guide/"><u>In 2024, Illuminating Your Android Videos A Quick Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994682716-insurgencys-sandstorm-game-error-solved-no-more-unexpected-shutdowns/"><u>Insurgency's Sandstorm Game Error Solved – No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-video-downloader-pro-free-tool-for-capturing-and-saving-online-videos-on-macos/"><u>Mac Video Downloader Pro - Free Tool for Capturing and Saving Online Videos on macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/masterclass-in-muting-and-dismantling-an-instagram-account-for-2024/"><u>Masterclass in Muting & Dismantling an Instagram Account for 2024</u></a></li>
 </ul></div>
 

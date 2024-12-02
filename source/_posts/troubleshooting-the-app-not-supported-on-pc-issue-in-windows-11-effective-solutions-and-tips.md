@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-11-18T23:06:35.808Z
-updated: 2024-11-24T02:15:53.956Z
+date: 2024-11-30T00:03:36.690Z
+updated: 2024-12-01T23:29:24.166Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * An app may be fundamentally incompatible with Windows 11 or your PC's hardware. In that case, you'll need to find another version of the app, or seek out an alternative that meets your needs.
 
  If you’ve encountered a “This app can't run on your PC” error, the app you’re trying to launch is likely incompatible with your system. There are other reasons this issue occurs, and we’ll show you various ways to fix it on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Review Your Startup App List
 
@@ -46,10 +42,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use App Compatibility Troubleshooter
 
@@ -60,16 +60,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Activate Developer Mode
 
@@ -79,15 +75,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-for-developers-windows-11-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Activate the "Developer Mode" option, then choose "Yes" in the prompt.
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Quit Settings and launch your app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove and Reinstall the App
 
@@ -99,13 +99,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the open prompt, select "Uninstall" to delete the app.
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
 
@@ -134,22 +134,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-essential-tips-for-navigating-zoom-meetings-on-win10/"><u>[New] 2024 Approved Essential Tips for Navigating Zoom Meetings on WIN10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-8-premium-websites-for-free-3d-text-psd-files/"><u>[New] Explore the 8 Premium Websites for FREE 3D Text PSD Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-physical-action-review/"><u>[New] Full Spectrum Physical Action Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-carryminati-unmasked-the-monetary-milestones-for-2024/"><u>[Updated] CarryMinati Unmasked The Monetary Milestones for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-progressive-volume-reduction-with-logic-pro/"><u>[Updated] Expert Guide to Progressive Volume Reduction with Logic Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>[Updated] Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-15-color-grading-look-ups-for-camcorder/"><u>[Updated] Masterclass 15 Color Grading Look-Ups for Camcorder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-base-to-pro-level-gopro-hero5-black-vs-hero4-silver-showdown/"><u>2024 Approved From Base to Pro-Level GoPro Hero5 Black vs Hero4 Silver Showdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-selection-of-cost-effective-4k-projection-screens/"><u>2024 Approved Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fascinating-film-categories-to-lure-viewers/"><u>In 2024, Fascinating Film Categories to Lure Viewers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ideal-choices-the-very-best-6-video-grabber-tools/"><u>In 2024, Ideal Choices The Very Best 6 Video Grabber Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-tools-in-live-encoding-technology/"><u>In 2024, Innovative Tools in Live Encoding Technology</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-essential-voice-transformers-for-vtuber-success/"><u>In 2024, Top Picks Essential Voice Transformers for VTuber Success</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209542449-9781783253241-intention/"><u>Intention | Free Book</u></a></li>
-<li><a href="https://win-news.techidaily.com/revive-your-windows-computer-a-comprehensive-guide-to-restoring-past-settings/"><u>Revive Your Windows Computer: A Comprehensive Guide to Restoring Past Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-12-free-streaming-sites-for-movie-enthusiasts/"><u>Top 12 Free Streaming Sites for Movie Enthusiasts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-get-the-chatgpt-ios-application-running-smoothly/"><u>Troubleshooting Guide: How to Get the ChatGPT iOS Application Running Smoothly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-facetune-2024-a-detailed-app-exploration-and-tips/"><u>[New] Facetune 2024 A Detailed App Exploration and Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-creation-to-apple-your-podcasts-journey/"><u>[New] From Creation to Apple Your Podcast's Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fusiontv-services-international-and-home-viewing-unite/"><u>[New] FusionTV Services International & Home Viewing Unite</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-guide-to-flawless-transition-of-phone-cookies-from-device-to-social-media/"><u>[New] In 2024, Guide to Flawless Transition of Phone' Cookies From Device to Social Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>[Updated] 2024 Approved Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>2024 Approved From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guiding-through-audio-transition-in-ableton-live-for-2024/"><u>Guiding Through Audio Transition in Ableton Live for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-innovation-for-windows-and-mac-photo-to-cartoon-software-for-2024/"><u>Image Innovation for Windows & Mac Photo-to-Cartoon Software for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>In 2024, From Zero to Meme Hero Crafting Engaging GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-itunes-podcasts-on-ios-devices/"><u>In 2024, Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-monster-hunter-world-conquering-extraordinary-beasts/"><u>In-Depth Analysis of 'Monster Hunter: World' - Conquering Extraordinary Beasts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-disk-space-optimization-on-win-1011/"><u>Mastering Disk Space Optimization on Win 10/11</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-tips-how-to-restore-hard-drive-functionality-using-the-chkdsk-tool-on-windows-operating-systems-windows-1011/"><u>Troubleshooting Tips: How to Restore Hard Drive Functionality Using the CHKDSK Tool on Windows Operating Systems (Windows 10/11)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unete-a-la-fiesta-de-las-rebajas-encuentra-los-mejores-precios-con-cupones-de-movavi/"><u>Únete a La Fiesta De Las Rebajas - Encuentra Los Mejores Precios Con Cupones De Movavi</u></a></li>
 </ul></div>
 

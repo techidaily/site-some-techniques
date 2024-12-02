@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secret 53-Year-Old Hack: Transferring Files Seamlessly to Your Mobile Device"
-date: 2024-11-19T20:44:58.072Z
-updated: 2024-11-23T17:37:18.203Z
+date: 2024-11-29T06:42:43.991Z
+updated: 2024-12-02T02:27:51.461Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 
 ## Unlock the Secret 53-Year-Old Hack: Transferring Files Seamlessly to Your Mobile Device
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is FTP?](https://instagram-clips.techidaily.com/updated-spotting-the-top-10-covert-instagram-story-spectators-for-2024/)
@@ -23,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is FTP?
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -70,6 +66,10 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -81,7 +81,7 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
@@ -111,17 +111,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-haptic-feedback-devices-providers/"><u>[New] Foremost Haptic Feedback Devices Providers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exemplary-video-capture-top-5-slow-motion-cams/"><u>[Updated] Exemplary Video Capture Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[Updated] In 2024, Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-zoom-into-action-videoleaps-tips-and-tricks/"><u>[Updated] In 2024, Zoom Into Action Videoleap's Tips and Tricks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-uncover-the-best-android-photo-editor-does-picku-stand-out/"><u>[Updated] Uncover the Best Android Photo Editor – Does PickU Stand Out?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-latest-updates-for-epson-tm-t88v-printer-drivers-on-windows/"><u>Download and Install Latest Updates for EPSON TM-T88V Printer Drivers on Windows</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-xvideos-security-risks-safe-browsing-tips-and-protection-strategies/"><u>Exploring XVideos Security Risks: Safe Browsing Tips & Protection Strategies</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free-for-2024/"><u>How To Convert Video Voice to Text Online for Free for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-90-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 90?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-steer-clear-of-virtual-sickness-for-2024/"><u>How to Steer Clear of Virtual Sickness for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-digital-power-for-maximum-outreach/"><u>In 2024, Harnessing Digital Power for Maximum Outreach</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-longevity-in-the-clouds-top-10-drone-selections/"><u>In 2024, Longevity in the Clouds Top 10 Drone Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giving-life-a-curtain-call-blackout-in-pro/"><u>[New] Giving Life a Curtain Call Blackout in Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>[New] How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-10-best-free-image-overlay-apps-for-android-and-iphone/"><u>[New] In 2024, Top 10 Best Free Image Overlay Apps for Android and iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlock-your-phone-camera-free-and-easy/"><u>[New] In 2024, Unlock Your Phone Camera, Free & Easy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-plain-words-into-3d-marvels-ps-guide/"><u>[New] Transforming Plain Words Into 3D Marvels PS Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-confirming-correct-youtube-ad-revenue-allocation-for-2024/"><u>[Updated] Confirming Correct YouTube Ad Revenue Allocation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-on-iphone-ringtones-and-customization/"><u>[Updated] Expert Advice on iPhone Ringtones & Customization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exposing-effective-promotions/"><u>[Updated] Exposing Effective Promotions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-banner-tactics-dos-and-donts-for-optimal-visibility/"><u>[Updated] In 2024, YouTube Banner Tactics Dos and Don'ts for Optimal Visibility</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030690026-movwindows/"><u>無理やりもうけたMOVファイルをWindowsメディアプレーヤーで見る方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flip-the-script-ios-method-to-reverse-vids-for-2024/"><u>Flip the Script IOS Method to Reverse Vids for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/graphic-wizardry-from-novice-to-industry-success-story-for-2024/"><u>Graphic Wizardry From Novice to Industry Success Story for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-oppo-reno-11-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo Reno 11 5G Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-range-highest-quality-webcam-grips/"><u>In 2024, Excellence Range Highest Quality Webcam Grips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-loneliness-with-the-help-of-chatgpts-support/"><u>Navigating Loneliness with the Help of ChatGPT's Support</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-guide-to-the-best-indoor-hdtv-signal-booster-amped-by-1byone-digital/"><u>Ultimate Guide to the Best Indoor HDTV Signal Booster - Amped by 1byOne Digital!</u></a></li>
 </ul></div>
 

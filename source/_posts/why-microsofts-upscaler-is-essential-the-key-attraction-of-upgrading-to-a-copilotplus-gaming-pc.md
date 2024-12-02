@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-11-19T20:46:56.589Z
-updated: 2024-11-24T00:01:43.082Z
+date: 2024-11-25T21:10:46.989Z
+updated: 2024-12-02T03:46:58.834Z
 tags:
   - desktop
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Auto SR Is Here, and It Looks Promising
 
  Microsoft Auto SR is finally here and, while [the initial demo](https://devblogs.microsoft.com/directx/autosr/) doesn’t include any video of the tech in action, I’ve got to say that Auto SR does look pretty darn solid, while also bringing pretty respectable performance gains.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 ![Two Borderlands 3 screenshots showing a native and an upscaled image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
@@ -56,12 +60,16 @@ Microsoft/Gearbox
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
@@ -76,10 +84,6 @@ Microsoft/Gearbox
 
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  It Just Works (In Supported Games)
 
  One of the best things about Auto SR is that it just works. After you enable the option in Windows settings, Auto SR automatically turns on in supported games, in full-screen and windowed borderless modes, and then seamlessly turns off and switches your native resolution back once you exit the game. On the other hand, driver-based upscalers require a manual set-up process for each game, on top of not looking as good as Auto SR.
@@ -89,10 +93,6 @@ Microsoft/Gearbox
  From what I can tell, Microsoft plans to make most DX11 and DX12 games Auto SR-compatible. On the other hand, DX9 and older games and those that use Vulkan and OpenGL graphics runtimes are not and won’t be compatible with Auto SR.
 
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Auto SR Is Only Available on CoPilot+ PCs
 
@@ -119,21 +119,14 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-internet-locations-for-shining-3d-text-art/"><u>[New] Ideal Internet Locations for Shining 3D Text Art</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-recording-internet-radios-simplified-tips-and-tricks/"><u>[New] Recording Internet Radios Simplified Tips and Tricks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-profit-maximizers-playlist-8-tools-and-products-to-elevate-your-business-game/"><u>[Updated] 2024 Approved Profit Maximizers Playlist 8 Tools & Products to Elevate Your Business Game</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>[Updated] Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders/"><u>[Updated] From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-dynamic-presenters-discourse-analysis-8th-ver/"><u>[Updated] In 2024, Dynamic Presenter's Discourse Analysis 8Th Ver</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chromatic-mastery-bridging-theory-and-art/"><u>2024 Approved Chromatic Mastery Bridging Theory and Art</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-mobvoi-ticwatch-pro-cufflinks-4g-a-standout-selection-in-the-world-of-smart-wearables/"><u>Exploring the Features of Mobvoi TicWatch Pro Cufflinks 4G: A Standout Selection in the World of Smart Wearables</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fish-tastic-top-5-action-cameras-for-catch-for-2024/"><u>Fish-Tastic Top 5 Action Cameras for Catch for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-frustration-to-finishing-how-magix-vpx-saves-time-for-2024/"><u>From Frustration to Finishing How Magix VPX Saves Time for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-pictures-to-prose-photo-text-alteration-techniques/"><u>In 2024, From Pictures to Prose Photo Text Alteration Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-inshot-video-editing-powerhouse/"><u>In 2024, In-Depth Look at InShot Video Editing Powerhouse?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-wirecast-for-facebook-live-broadcasts/"><u>In 2024, Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-rhythm-reduction-techniques-efficiently-extracting-percussion-from-songs-digitally/"><u>In 2024, Rhythm Reduction Techniques Efficiently Extracting Percussion From Songs Digitally</u></a></li>
-<li><a href="https://fox-info.techidaily.com/prime-images-storage-centers-for-2024/"><u>Prime Images Storage Centers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/xbox-one-no-signal-issue-solved-effective-troubleshooting-steps/"><u>Xbox One 'No Signal' Issue Solved: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-top-business-vault/"><u>[New] Exclusive List Top Business Vault</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hdrs-edge-pushing-video-production-to-new-heights/"><u>[New] HDR's Edge Pushing Video Production to New Heights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-shade-modifier-software/"><u>[Updated] Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-11/"><u>2024 Approved How to Add Titles/Text to Video on Microsoft Photos in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-chaos-to-clarity-picshot-transforms-photo-collages/"><u>From Chaos to Clarity - Picshot Transforms Photo Collages</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s23-fe-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S23 FE Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 6s Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/leveraging-edit-tools-for-youtube-videos-post-publishment/"><u>Leveraging Edit Tools for YouTube Videos Post-Publishment</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-g22-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia G22 to iOS not Working Problems | Dr.fone</u></a></li>
 </ul></div>
 

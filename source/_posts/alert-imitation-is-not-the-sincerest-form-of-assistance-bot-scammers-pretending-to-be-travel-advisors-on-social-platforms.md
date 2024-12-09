@@ -1,7 +1,7 @@
 ---
 title: "Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms"
-date: 2024-11-30T02:11:46.335Z
-updated: 2024-12-01T16:28:15.962Z
+date: 2024-12-03T16:00:07.314Z
+updated: 2024-12-09T17:17:20.370Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ---
 
 ## Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Pretend Like This?
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Spot a Phony Representative
@@ -46,16 +42,12 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-17.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Official company accounts on many social media platforms should have some form of verification attached to them (i.e. a yellow/gold checkmark or something similar). If the account responding to your grievance isn’t verified, it’s a bot.
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
 
@@ -65,9 +57,17 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
 
 ![Fake representative account page using a poorly cropped photo of a NBC news anchor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-07.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
 
@@ -92,20 +92,19 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-actionable-tips-on-how-to-post-on-reddit-step-by-step-guide/"><u>[New] Actionable Tips On How to Post on Reddit - Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-diy-ig-videos-tips-and-template-inspirations-for-2024/"><u>[New] DIY IG Videos Tips & Template Inspirations for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mac-techniques-for-instagram-short-form-videos-for-2024/"><u>[New] Mac Techniques for Instagram Short-Form Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improving-the-endurance-of-your-gopro-power-source/"><u>[Updated] Improving the Endurance of Your GoPro Power Source</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-learners-handbook-of-av1-technology-for-2024/"><u>[Updated] The Learner's Handbook of AV1 Technology for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-video-booster-guide-uncovering-the-top-20-tips/"><u>[Updated] The Ultimate Video Booster Guide - Uncovering the Top 20 Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-colors-in-lightroom-with-the-best-luts/"><u>2024 Approved Harnessing Colors in LightRoom with the Best LUTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-start-a-product-review-channel/"><u>2024 Approved How to Start a Product Review Channel</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2022/"><u>錄像片於電腦上永久保存的三大方式：2022年最新技術</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-lenovo-t430-drivers-compatible-with-windows-10-8-and-7-easy-guide/"><u>Download Lenovo T430 Drivers: Compatible with Windows 10, 8 & 7 - Easy Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploiting-slow-motion-magic-in-phantom-for-2024/"><u>Exploiting Slow-Motion Magic in Phantom for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/four-effective-methods-to-save-audioboom-episodes-as-downloads/"><u>Four Effective Methods to Save Audioboom Episodes as Downloads</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/highlighting-the-best-ways-to-convert-youtube-to-mp4/"><u>Highlighting the Best Ways to Convert YouTube to MP4</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-android-viewer-for-high-quality-3d-for-2024/"><u>Immersive Android Viewer for High-Quality 3D for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>In 2024, How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-high-quality-passport-pictures-download-and-print-in-seconds/"><u>[New] Free High-Quality Passport Pictures - Download & Print in Seconds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fundamental-definitions-in-virtual-narrative-art/"><u>[New] Fundamental Definitions in Virtual Narrative Art</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>[New] Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-storage-solutions-ps5s-top-10-external-units/"><u>[New] Storage Solutions PS5's Top 10 External Units</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-10-plugin-upgrades-for-fcp-users/"><u>[Updated] Innovative 10 Plugin Upgrades for FCP Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-of-storage-top-picks-and-prices-in-clouds/"><u>2024 Approved Future of Storage Top Picks and Prices in Clouds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/demystifying-photo-editing-a-snapseed-introduction-for-2024/"><u>Demystifying Photo Editing A Snapseed Introduction for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/imagemagick-studio-walkthrough/"><u>ImageMagick Studio Walkthrough</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone XR?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-7-plus-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 7 Plus Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maintain-a-healthy-eating-schedule-for-pets-with-petsafes-automatic-food-dispenser/"><u>Maintain a Healthy Eating Schedule for Pets with PetSafe's Automatic Food Dispenser</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlining-remote-recordings-a-producers-guide/"><u>Streamlining Remote Recordings A Producer’s Guide</u></a></li>
 </ul></div>
 

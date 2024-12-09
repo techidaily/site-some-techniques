@@ -1,7 +1,7 @@
 ---
 title: "Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-11-30T04:53:17.523Z
-updated: 2024-12-01T22:04:32.825Z
+date: 2024-12-03T17:02:20.006Z
+updated: 2024-12-09T20:37:10.500Z
 tags:
   - deals
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
  If you're doing advanced troubleshooting or configuration of a Windows 10 application and need to locate the program's EXE file in [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/), there's a quick way to do it if you have access to a shortcut. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Find an EXE from a Shortcut
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
@@ -57,15 +57,19 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll be taken directly to the EXE's location in File Explorer.
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If You Can't Find a Shortcut to Use
 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
  Other programs install to locations in your appdata folder. To open your appdata folder, launch File Explorer, then enter **%appdata%** in the address bar. 
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
 
@@ -104,22 +104,24 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-zoom-into-action-capturing-your-desktop-ezvide-style/"><u>[New] 2024 Approved Zoom Into Action Capturing Your Desktop, EZvide Style</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-for-saving-and-archiving-periscope-footage/"><u>[New] Expert Advice for Saving and Archiving Periscope Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fast-track-photo-and-video-editing-via-mobile-luts/"><u>[New] Fast-Track Photo & Video Editing via Mobile LUTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flick-retrospective-the-goofy-movie-edition-revisited/"><u>[New] Flick Retrospective The 'Goofy Movie' Edition Revisited</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-clear-video-soundtracks-free-vs-licensed-software-guide-for-2024/"><u>[Updated] Clear Video Soundtracks Free Vs. Licensed Software Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-if-reviewers-get-payed/"><u>[Updated] Examining if Reviewers Get Payed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-definition-war-av1-vs-vp9-codecs-comparison/"><u>2024 Approved High-Definition War Av1 vs VP9 Codecs Comparison</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustration-elevation-incorporating-text-into-3d-artwork/"><u>2024 Approved Illustration Elevation Incorporating Text Into 3D Artwork</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-itel-a70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Itel A70 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/clearing-up-audio-issues-in-half-volume-facebook-content-for-2024/"><u>Clearing Up Audio Issues in Half-Volume Facebook Content for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-sounds-first-lessons-on-fades-with-audition-for-2024/"><u>Harmonizing Sounds First Lessons on Fades with Audition for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-skip-without-missing-tips-on-bypassing-edgenuity-video-lessons-for-2024/"><u>How to Skip Without Missing Tips on Bypassing Edgenuity Video Lessons for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-x9b-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor X9b to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-examining-youtubes-mobile-app-for-iosandroid-devices/"><u>In 2024, Examining YouTube's Mobile App for iOS/Android Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-overflow-to-order-edited-strategies-for-huge-tiktoks/"><u>In 2024, From Overflow to Order Edited Strategies for Huge TikToks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-poco-x6-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Poco X6 Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-enhancing-your-iphone-typography-with-custom-fonts/"><u>Step-by-Step Instructions: Enhancing Your iPhone Typography with Custom Fonts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-front-runners-in-4k-gaming-graphics/"><u>[New] 2024 Approved Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freememogen-your-guide-to-free-memes/"><u>[New] FreeMemoGen Your Guide to FREE Memes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-innovative-methods-for-preserving-youtube-videos/"><u>[Updated] 2024 Approved Innovative Methods for Preserving YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[Updated] Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exposing-concealed-viewers-feedback-on-videos/"><u>[Updated] Exposing Concealed Viewers' Feedback on Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-flicker-fun-prime-speedy-software-for-systems/"><u>[Updated] Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-monochrome-to-multicolor-grading-journey/"><u>[Updated] From Monochrome to Multicolor Grading Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-the-potential-of-gratuitous-timer-tools/"><u>[Updated] Harness the Potential of Gratuitous Timer Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premier-mac-programming-options-excluding-bandicam/"><u>[Updated] Premier Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-on-the-go-visual-adjustments/"><u>2024 Approved Harness the Power of On-the-Go Visual Adjustments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-gems-premium-mac-speech-to-text-tools/"><u>2024 Approved Hidden Gems Premium Mac Speech-to-Text Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed-for-2024/"><u>A Picture's Worth a Thousand Dollars Online Top Photo Cloud Services Reviewed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-ahead-with-snapchats-latest-features-for-2024/"><u>Getting Ahead with Snapchat's Latest Features for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-process-to-download-and-enhance-your-asus-bluetooth-drivers/"><u>Hassle-Free Process to Download & Enhance Your ASUS Bluetooth Drivers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-huawei-p60-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Huawei P60</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ios-and-desktop-leaders-in-effortless-video-to-file-conversion/"><u>In 2024, IOS and Desktop Leaders in Effortless Video to File Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-gradual-audio-lowering-with-lumafusion-for-2024/"><u>In-Depth Analysis of Gradual Audio Lowering with Lumafusion for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-productivity-perks-and-score-big-savings-exclusive-93-off-flip-out-monitor-offer-for-prime-day-shoppers/"><u>Unlock Productivity Perks & Score Big Savings: Exclusive $93 Off Flip-Out Monitor Offer for Prime Day Shoppers!</u></a></li>
 </ul></div>
 

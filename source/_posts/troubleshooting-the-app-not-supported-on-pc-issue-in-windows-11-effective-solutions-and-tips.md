@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-11-30T00:03:36.690Z
-updated: 2024-12-01T23:29:24.166Z
+date: 2024-12-07T22:11:21.099Z
+updated: 2024-12-09T20:05:25.316Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,7 +35,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open the App as an Admin
 
@@ -41,14 +53,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use App Compatibility Troubleshooter
@@ -59,13 +67,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Activate Developer Mode
 
@@ -80,14 +88,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Quit Settings and launch your app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Remove and Reinstall the App
 
@@ -98,10 +102,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Select the three dots next to the app, and choose "Uninstall."
 
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the open prompt, select "Uninstall" to delete the app.
 
@@ -134,20 +134,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-facetune-2024-a-detailed-app-exploration-and-tips/"><u>[New] Facetune 2024 A Detailed App Exploration and Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-creation-to-apple-your-podcasts-journey/"><u>[New] From Creation to Apple Your Podcast's Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fusiontv-services-international-and-home-viewing-unite/"><u>[New] FusionTV Services International & Home Viewing Unite</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-guide-to-flawless-transition-of-phone-cookies-from-device-to-social-media/"><u>[New] In 2024, Guide to Flawless Transition of Phone' Cookies From Device to Social Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>[Updated] 2024 Approved Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>2024 Approved From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guiding-through-audio-transition-in-ableton-live-for-2024/"><u>Guiding Through Audio Transition in Ableton Live for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/image-innovation-for-windows-and-mac-photo-to-cartoon-software-for-2024/"><u>Image Innovation for Windows & Mac Photo-to-Cartoon Software for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>In 2024, From Zero to Meme Hero Crafting Engaging GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-itunes-podcasts-on-ios-devices/"><u>In 2024, Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-monster-hunter-world-conquering-extraordinary-beasts/"><u>In-Depth Analysis of 'Monster Hunter: World' - Conquering Extraordinary Beasts</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-disk-space-optimization-on-win-1011/"><u>Mastering Disk Space Optimization on Win 10/11</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-tips-how-to-restore-hard-drive-functionality-using-the-chkdsk-tool-on-windows-operating-systems-windows-1011/"><u>Troubleshooting Tips: How to Restore Hard Drive Functionality Using the CHKDSK Tool on Windows Operating Systems (Windows 10/11)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unete-a-la-fiesta-de-las-rebajas-encuentra-los-mejores-precios-con-cupones-de-movavi/"><u>Únete a La Fiesta De Las Rebajas - Encuentra Los Mejores Precios Con Cupones De Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-apex-creators-video-giants-in-the-making/"><u>[New] Apex Creators Video Giants in the Making</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freescape-extraction-revisited-a-look-at-the-latest-update/"><u>[New] Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>[Updated] A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-edits-encapsulating-powerpoint-talks/"><u>[Updated] Efficient Edits Encapsulating PowerPoint Talks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonious-hits-free-download-zones-for-skype-tunes/"><u>[Updated] Harmonious Hits Free Download Zones for Skype Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-21-vegas-pro-insights-an-expert-breakdown/"><u>[Updated] In 2024, '21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-the-narrative-ios-video-playback-upside-down/"><u>2024 Approved Flip the Narrative IOS Video Playback Upside-Down</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>2024 Approved From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoiding-common-driver-incompatibilities-a-guide-to-optimize-your-rainbow-six-extraction-play/"><u>Avoiding Common Driver Incompatibilities: A Guide to Optimize Your Rainbow Six Extraction Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0xc1900208-on-windows-11-updates-heres-how-you-can-fix-it/"><u>Error 0xC1900208 on Windows 11 Updates? Here’s How You Can Fix It</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-moto-g-5g-2023-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Moto G 5G (2023) on Mac?</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-successfully-archive-webex-meetings-using-the-movavi-tool/"><u>How to Successfully Archive Webex Meetings Using the Movavi Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humorous-hits-lifetime-access-to-memes/"><u>In 2024, Humorous Hits Lifetime Access to Memes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-iphones-pano-tech-guide-to-360-degree-content/"><u>In 2024, IPhone's Pano-Tech Guide to 360-Degree Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infinite-storage-pathways-select-services-showcase-for-2024/"><u>Infinite Storage Pathways Select Services Showcase for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad Z13 Gen 2 with AMD - The New Era of Ultraportability Unveiled
-date: 2024-11-30T17:02:09.481Z
-updated: 2024-12-01T19:55:00.035Z
+date: 2024-12-05T22:16:19.379Z
+updated: 2024-12-09T19:15:03.499Z
 tags:
   - deals
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  I received the [Z13 Gen 2 model 21JV000GUS](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2F21jv000gus), which comes with 32GB of RAM, an AMD Ryzen 7 Pro processor, a 2.8K OLED display, and 1TB of storage. You can upgrade (or downgrade) your build according to your preferences. In my time spent with the Z13 Gen 2, I wasn't blown out of the water by its overall performance but instead found it a solid laptop that's a fantastic choice for people who want something extremely light and portable that can still handle a lot of processing-heavy work tasks, plus some enjoyable media consumption and casual gaming. And yeah, you might just want to buy it for the 2.8K OLED screen, which makes streaming feel immersive, despite the small 13-inch screen.
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z13 Gen 2
 
@@ -128,12 +124,16 @@ Expand
 
 [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3DUSr2MBRYBxyPWchRfv0ZO18OUkHwPjSRQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam%23tech_specs) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: A Tiny but Mighty ThinkPad
 
 ![Rear angled view of the open Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/rear-angled-view-of-the-open-lenovo-z13-gen-2-2jpg_53480774019_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -158,17 +158,9 @@ Close
 
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -177,6 +169,10 @@ Sergio Rodriguez / How-To Geek
  The precision touchpad delivered accuracy anytime I used it, whether I was scrolling, clicking, or tapping. Unlike other touchpads, which sometimes miss light taps, the Z13's never failed to recognize a tap.
 
  The touchscreen was also sensitive enough to provide accurate typing and tapping, whether using the touch keyboard or simply hitting the "save" button in my word processor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Display and Graphics: A Bright OLED Beauty
 
@@ -196,6 +192,10 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
@@ -204,19 +204,23 @@ Sergio Rodriguez / How-To Geek
 
  My model came with the AMD Ryzen 7 Pro 7840U processor, which handled many tasks with ease alongside the 32GB of RAM, but I found that the CPU commonly lacked the speeds I was hoping to find. Starting up the Z13 took longer than other similar ThinkPads and several product downloads took longer than I anticipated. This isn't to say the Z13 was slow by any means, but it wasn't as fast as other Lenovos I've worked with that also had 32GB of memory. For instance, the Z13 began to lag in speed when I had about 20 browser tabs open (with one playing a movie on Peacock), as well as a few office programs, the Xbox app, and the Microsoft store. I should note that you can upgrade the Z13's memory to 64GB, which would make the speed faster for multitasking purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Gaming Performance: Only Good for a Small Amount of Casual Gaming
 
  Gaming with the Lenovo ThinkPad Z13 Gen 2 wasn't enjoyable unless I was playing a game with low to medium resource requirements. While playing "Atomic Heart," for example, I had to adjust the graphics settings down to "low" or "medium" to make it playable, and even after doing that, the latency during some of the gameplay made playing it anything but smooth. Other games, such as "Planet of Lana," performed well enough to make any casual gamer happy. But I consistently ran into issues with games such as "The Last Case of Benjamin Fox" or "Bramble: The Mountain King." As expected, the specs couldn't handle "A Plague Tale: Requiem," even when I adjusted the graphics quality way down.
 
  Moderate to heavy gamers might want to look elsewhere, but if you only play an occasional game here and there, the quality should be usable. On a 3DMark "Time Spy" benchmark test, the Z13 failed to pass, earning a grade of 96.9% frame rate stability (just below passing at 97%).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sights and Sounds: Pleasant as Any Premium
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -228,16 +232,16 @@ Close
 
  The dual microphone system captures the human voice well, and it has noise-canceling features that work well to cut out background noise. In a noisy environment, I was still audible to the people on the other end of the call, and the recordings also came through crystal clear. It does cut out noises at higher volumes, which I discovered in singing tests.
 
+### 
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
-### 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -255,10 +259,6 @@ Sergio Rodriguez / How-To Geek
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -291,22 +291,20 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-ideal-backgrounds-for-virtual-presence-for-2024/"><u>[New] Ideal Backgrounds for Virtual Presence for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-ace-your-content-strategies-to-skyrocket-video-popularity/"><u>[New] In 2024, Ace Your Content Strategies to Skyrocket Video Popularity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-influential-vr-development-studios/"><u>[New] Influential VR Development Studios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovation-at-hand-creating-3d-textures-with-photo/"><u>[New] Innovation at Hand Creating 3D Textures with PHOTO</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-drone-fundamentals-an-overview-of-their-workings/"><u>[Updated] Drone Fundamentals An Overview of Their Workings</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-enhancing-vimeo-playback-velocity-guide/"><u>[Updated] Enhancing Vimeo Playback Velocity Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>[Updated] How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ignite-interest-with-your-own-solo-podcast-series/"><u>[Updated] Ignite Interest with Your Own Solo Podcast Series</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-x-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone X iCloud Bypass</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fish-tastic-top-5-action-cameras-for-catch/"><u>In 2024, Fish-Tastic Top 5 Action Cameras for Catch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-breakthrough-elevating-your-zoom-livestream-game/"><u>In 2024, From Basic to Breakthrough Elevating Your Zoom Livestream Game</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-monotonous-to-melodic-mastering-personalization-of-androids-audio-alerts/"><u>In 2024, From Monotonous to Melodic Mastering Personalization of Android's Audio Alerts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-synchronize-your-drone-and-its-gimbal/"><u>In 2024, How to Synchronize Your Drone and Its Gimbal</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-transition-new-driver-for-win11-and-intel-graphic-card/"><u>Smooth Transition: New Driver for Win11 & Intel Graphic Card</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac/"><u>Updated Edit Video Tags with Ease Best MP4 Editors for Windows and Mac</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn’t Available on This Device on Windows 10 [Solved]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-quality-videos-a-guide-to-apple-device-screen-recording/"><u>[New] 2024 Approved Crafting Quality Videos A Guide to Apple Device Screen Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-8-best-screen-capture-tools-for-linux/"><u>[New] 2024 Approved Top 8 Best Screen Capture Tools for Linux</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-infinite-artistic-possibilities-with-top-10-apps/"><u>[New] Explore Infinite Artistic Possibilities with Top 10 Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[New] Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-hue-adjustments-in-photoshop/"><u>[New] Fundamentals of Hue Adjustments in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hassle-free-tiktok-age-checks/"><u>[Updated] Hassle-Free TikTok Age Checks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-core-principles-in-crafting-persuasive-facebook-ads/"><u>[Updated] In 2024, Core Principles in Crafting Persuasive Facebook Ads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhance-your-mobile-experience-with-inshots-music-features/"><u>2024 Approved Enhance Your Mobile Experience with InShot's Music Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-seamless-green-screening-in-kinemaster/"><u>2024 Approved Expert Strategies for Seamless Green Screening in KineMaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmony-in-hd-crafting-melodic-instagram-videos/"><u>2024 Approved Harmony in HD Crafting Melodic Instagram Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beyond-blockbuster-horizons-favorite-films/"><u>Beyond Blockbuster Horizons Favorite Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-frameworks-for-every-movie-epilogue-you-dream/"><u>In 2024, Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-12r-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus 12R Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/recording-review-and-examination/"><u>Recording Review and Examination</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722852475023-step-by-step-viewing-of-taylor-swifts-movie-collection/"><u>Step-by-Step Viewing of Taylor Swift's Movie Collection</u></a></li>
 </ul></div>
 

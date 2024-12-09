@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2024-11-29T03:02:23.896Z
-updated: 2024-12-02T07:02:30.436Z
+date: 2024-12-08T22:06:51.813Z
+updated: 2024-12-09T20:18:43.899Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ---
 
 ## Unveiling Hidden System Files in Windows 11: A Comprehensive Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![On Windows 11, click the File Explorer icon in the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_file_explorer_taskbar.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have File Explorer open, you can proceed with the next step.
@@ -47,10 +43,14 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![show hidden files on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/Screenshot-2022-12-22-at-2.06.44-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Show Hidden Files on Windows 11 Using Options
@@ -68,14 +68,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Show Protected Operating System Files in Windows 11
 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  In the Folder Options window, click the "View" tab, then scroll down in the "Advanced Settings" list and uncheck "Hide protected operating system files (Recommended)."
 
 ![Unhide protected system files on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hide-protected-files.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As soon as you click the check box, a new dialog window will open that warns you about the dangers of revealing protected operating system files.
 
@@ -112,18 +112,24 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fasttrackpodcastlive-your-straightforward-guide-to-livestreaming-success/"><u>[New] FastTrackPodcastLive Your Straightforward Guide to Livestreaming Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>[New] Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-vrecorder-integration-from-download-to-deployment-for-2024/"><u>[New] VRecorder Integration From Download to Deployment for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-futuristic-feature-unveiling-mac-via-applewatch/"><u>[Updated] Futuristic Feature Unveiling Mac via AppleWatch</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-transforming-ideas-into-engaging-youtube-video-plans-for-2024/"><u>[Updated] Transforming Ideas Into Engaging YouTube Video Plans for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209865237-9780997560855-foundations-of-near-death-research/"><u>Foundations of Near-Death Research | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-cut-to-clip-chaos-achieving-smoothness-with-inshot-for-2024/"><u>From Cut-to-Clip Chaos Achieving Smoothness with Inshot for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-karma-demystified-a-comprehensive-look/"><u>In 2024, GoPro Karma Demystified A Comprehensive Look</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-improve-teleconference-experience-fixing-zoom-sound/"><u>In 2024, Improve Teleconference Experience Fixing Zoom Sound</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-psn-profile-on-the-go/"><u>Ultimate Guide: Setting Up Your PSN Profile on the Go</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-every-angle-of-vitas-video-editor-full-review-and-tutorial-2024/"><u>[New] Explore Every Angle of Vita’s Video Editor Full Review & Tutorial, 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-track-uncovering-erased-reddit-conversations/"><u>[New] Fast Track Uncovering Erased Reddit Conversations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-idea-to-action-creating-engaging-gifs/"><u>[New] From Idea to Action Creating Engaging GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-camera-insights-the-best-of-2024-unpacked/"><u>[New] Innovative Camera Insights – The Best of 2024 Unpacked</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-vital-top-6-business-focused-social-networking-places/"><u>[New] Vital Top 6 Business-Focused Social Networking Places</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>[Updated] Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-through-gopros-time-lapse-potential/"><u>[Updated] Navigating Through GoPro's Time-Lapse Potential</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-to-refined-the-essential-guide-to-podcast-editing-with-garageband/"><u>2024 Approved From Raw to Refined The Essential Guide to Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maximize-your-photos-with-samsungs-image-enhancers/"><u>2024 Approved How to Maximize Your Photos with Samsung's Image Enhancers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-tactics-unveiling-7-methods-used-in-romance-fraud-schemes/"><u>AI-Driven Tactics: Unveiling 7 Methods Used in Romance Fraud Schemes</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/aomei-backupper-how-to-use-aomei-backupper-for-hard-drive-staging/"><u>AOMEI Backupper資料夾階段式卷包存程序入門指南 - How to Use AOMEI Backupper for Hard Drive Staging</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/boost-your-internet-coverage-with-the-netgear-ex3700-wi-fi-expander-ac750-user-reviewed/"><u>Boost Your Internet Coverage with the Netgear EX3700 Wi-Fi Expander (AC750) - User Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976511329-download-and-update-free-wi-fi-drivers-compatible-with-windows-7-simple-steps/"><u>Download & Update: Free Wi-Fi Drivers Compatible with Windows 7 - Simple Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-top-6-apps-that-make-storing-linkedin-videos-simple-for-2024/"><u>Expert Tips Top 6 Apps That Make Storing LinkedIn Videos Simple for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-premium-podcasting-top-mic-picks-for-2024/"><u>Guide to Premium Podcasting Top Mic Picks for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-honor-100-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Honor 100</u></a></li>
+<li><a href="https://facebook.techidaily.com/set-up-alternative-light-for-facebook-appearance/"><u>Set Up Alternative Light for Facebook Appearance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-gpu-integration-on-new-win11-laptop/"><u>Successful GPU Integration on New Win11 Laptop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-process-of-batched-tiktok-content-extraction-for-2024/"><u>Unveiling the Process of Batched TikTok Content Extraction for 2024</u></a></li>
 </ul></div>
 

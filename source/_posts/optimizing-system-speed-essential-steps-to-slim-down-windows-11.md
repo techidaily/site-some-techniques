@@ -1,7 +1,7 @@
 ---
 title: "Optimizing System Speed: Essential Steps to Slim Down Windows 11"
-date: 2024-11-25T04:53:08.478Z
-updated: 2024-12-01T16:23:55.629Z
+date: 2024-12-06T19:53:01.940Z
+updated: 2024-12-09T20:42:45.525Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ## 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 * Disable startup apps and optional features to further improve performance by preventing unnecessary background resource usage.
 
  Windows 11 comes with a lot of extra 'stuff' installed that slows it down: instant messaging apps, music and streaming services, software trials, bad games and clunky third-party antivirus, and worst still, it tends to come back when your computer updates. Here's how to clear it all out. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Bloatware Slows Down Your Windows 11 PC
 
@@ -41,22 +37,22 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  However, if you want to check out some of these tools (at your own risk), [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil "https://github.com/ChrisTitusTech/winutil") and [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) both offer the ability to add and remove both pre-installed apps and Windows components, as well as make other Windows 11 tweaks. If you're using these kinds of system tweaking tools, you should [back up your data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) before you make any changes, just in case they break something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Uninstalling BloatWare From the Settings App
 
  The first place you can remove bloatware is from the Windows Settings app. Open the Start menu and search for **Settings** then open the app. From here, click on the Apps menu item in the sidebar, and then select Installed Apps from the menu to the right.
 
 ![debloat1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debloat1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Brad Morton / How-To Geek
 
  Scroll through the list of installed apps and decide whether you wish to keep each one. If you decide an app is "bloat", uninstall it by clicking on the dots to reveal the button to uninstall.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disabling Startup Apps
@@ -82,12 +78,16 @@ Brad Morton / How-To Geek
 
  You can also remove Copilot in Windows (Microsoft's new, intrusive AI companion) and disable the Widgets menu from the task bar inSettings > Personalization > Taskbar. You can also disable content suggestions and other cloud search features in Settings > Privacy & security > Search Permissions to improve search responsiveness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Clearing Out Temporary Files
 
  If you are running low on disk space, you can adjust the settings to automatically remove temporary files. From Settings > System > Storage, you can enable Storage Sense which will automatically clear temporary files as needed, and view Windows' cleanup recommendations for large unused apps or files you could potentially remove. You can also [manually delete your cached/temporary files](https://facebook-videos.techidaily.com/in-2024-the-path-to-success-integrating-past-recordings-in-real-time-on-social-media/) if you want to make sure it has been done recently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About Removing Preinstalled Antivirus Software?
@@ -115,22 +115,22 @@ Brad Morton / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>[New] From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-dive-into-the-intricacies-of-adobe-cloud-for-secure-efficient-data-management/"><u>[New] Full Dive Into the Intricacies of Adobe Cloud for Secure, Efficient Data Management</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-essential-watch-top-8-internet-gems/"><u>[Updated] Essential Watch Top 8 Internet Gems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>[Updated] Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-virtual-conversations-unleashed-with-pc-based-whatsapp-web-chat-for-2024/"><u>[Updated] Virtual Conversations Unleashed with PC-Based WhatsApp Web Chat for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fascinating-film-categories-to-lure-viewers/"><u>2024 Approved Fascinating Film Categories to Lure Viewers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-industry-leaders-list-top-5-unbeatable-motion-recognizers/"><u>2024 Approved Industry Leaders' List Top 5 Unbeatable Motion Recognizers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/complete-mp4-recovery-solution-eradicate-errors-and-rejuvenate-broken-video-clips/"><u>Complete MP4 Recovery Solution: Eradicate Errors & Rejuvenate Broken Video Clips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-srt-tools-the-most-reliable-high-quality-apps-listed-for-2024/"><u>Free SRT Tools The Most Reliable, High-Quality Apps Listed for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-pc-efficiency-handling-unrealcefsubprocess-resource-usage/"><u>Improving PC Efficiency: Handling UnrealCEFSubprocess Resource Usage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-impressive-analysis-and-rival-proposals/"><u>In 2024, Impressive Analysis & Rival Proposals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-m1-chip-unmasked-apples-engineering-feat/"><u>In 2024, M1 Chip Unmasked Apple's Engineering Feat</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skyline-pixel-boost-pro-windowsmac-suite/"><u>In 2024, Skyline Pixel Boost Pro Windows/Mac Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovations-in-hand-tracking-and-gesture-detection-for-2024/"><u>Innovations in Hand Tracking and Gesture Detection for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/lost-your-login-details-heres-how-to-retrieve-saved-passwords-from-your-mac-device/"><u>Lost Your Login Details? Here's How to Retrieve Saved Passwords From Your Mac Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211261018-9781739443078-the-testament/"><u>The Testament | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-concept-of-tagging-a-comprehensive-guide/"><u>Understanding the Concept of Tagging: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>[New] In 2024, Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-influencers-blueprint-five-steps-to-proven-marketing-success/"><u>[New] In 2024, The Influencer's Blueprint Five Steps to Proven Marketing Success</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-start-your-own-discord-channel-a-detailed-walkthrough-for-2024/"><u>[Updated] How to Start Your Own Discord Channel A Detailed Walkthrough for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero-11-and-max-360-comparing-the-bests-in-gopros-world/"><u>2024 Approved Hero 11 and Max 360 Comparing the Bests in GoPro's World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-a-funny-meme/"><u>2024 Approved How To Create A Funny Meme</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-step-by-step-approach-to-masterful-screen-recordings-on-hp-systems/"><u>A Step-by-Step Approach to Masterful Screen Recordings on HP Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210270388-9781538707630-dreamers-dictionary/"><u>Dreamer's Dictionary | Free Book</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ensuring-seamless-integration-how-to-check-hardware-and-windows-system-compatibility-with-expert-advice-by-yl-software/"><u>Ensuring Seamless Integration: How to Check Hardware and Windows System Compatibility with Expert Advice by YL Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-skills-for-capturing-soundless-videography-for-2024/"><u>Essential Skills for Capturing Soundless Videography for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gratis-global-photo-perfection-suite/"><u>Gratis Global Photo Perfection Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-import-photos-and-videos-in-windows-11-deepest-secret-for-2024/"><u>How to Import Photos and Videos in Windows 11 (Deepest Secret) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capture-mastery-top-picks-of-free-pcmac-desktop-recorders/"><u>In 2024, Capture Mastery Top Picks of Free PC/Mac Desktop Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>In 2024, Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-narrative-structure/"><u>In 2024, Fundamental Narrative Structure</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>In 2024, GoPro Vs. Polaroid Cube Choosing Your Editing Companion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improving-hues-a-beginners-approach-to-ps-grading/"><u>In 2024, Improving Hues A Beginner's Approach to PS Grading</u></a></li>
 </ul></div>
 

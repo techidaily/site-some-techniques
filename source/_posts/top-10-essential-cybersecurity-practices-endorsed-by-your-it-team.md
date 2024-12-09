@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-11-29T00:29:39.853Z
-updated: 2024-12-02T01:51:58.990Z
+date: 2024-12-08T22:01:35.333Z
+updated: 2024-12-09T16:21:20.267Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Use Antivirus and Stay Up-To-Date](https://tiktok-clips.techidaily.com/leading-earnings-estimation-tools-for-tiktok-pros-for-2024/)
 * [Learn How to use Windows and Your Other Software And Devices](https://digital-screen-recording.techidaily.com/new-in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/)
 * [Don't Panic!](https://ios-unlock.techidaily.com/resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -55,7 +55,7 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Ignore Windows Security Prompts (UAC)
@@ -63,22 +63,22 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Keep Your Work and Private Life Separate
 
  You don't want your employer to know all the details about your personal life, and your employer doesn't want you to be accidentally leaking company information through your social media profiles. Keep your work and private lives separate by using different email accounts and profiles for each. This helps prevent information from leaking, for example, by making it more difficult for you to accidentally put your dating schedule in the work calendar, or email a sensitive financial report to your yoga class.
 
  The most effective way to do this is to create [separate user accounts](https://remote-screen-capture.techidaily.com/updated-screen-recording-mastery-with-lenovo-gear-for-2024/) on your computer. You can also use [Firefox Containers](https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/) or Safari Profiles, or isolate different activities by using a different browser for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set a Passcode On All Of Your Devices
 
@@ -100,17 +100,21 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Learn How to use Windows and Your Other Software And Devices
 
@@ -121,10 +125,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
 
@@ -147,16 +147,20 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flattening-lines-easy-curve-transformation/"><u>[New] Flattening Lines Easy Curve Transformation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-websites-for-3d-metallic-type-imagery/"><u>[Updated] Excellent Websites for 3D Metallic Type Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>[Updated] Expressive Photography Techniques Applying Motion Blur to Faces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-scrolling-through-youtube-comment-threads/"><u>[Updated] Guide to Scrolling Through YouTube Comment Threads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-vrs-winning-features-and-faults/"><u>[Updated] In-Depth Review VR's Winning Features & Faults</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-simplified-path-to-mastery-in-using-cc-licenses/"><u>[Updated] Simplified Path to Mastery in Using CC Licenses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-ability-to-utilize-latest-insights-what-it-means-for-everyone-involved/"><u>ChatGPT and Its Ability to Utilize Latest Insights: What It Means for Everyone Involved</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-beyond-views-a-triadic-approach-to-analyzing-youtube-income/"><u>In 2024, Beyond Views A Triadic Approach to Analyzing YouTube Income</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-elden-rings-dark-launch-steps-to-a-successful-start/"><u>Resolving Elden Ring's Dark Launch: Steps to a Successful Start</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-beginners-guide-to-the-windows-11-calendar/"><u>The Beginner's Guide to the Windows 11 Calendar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-m2-ssds-comprehensive-testing-and-reviews-by-tech-experts-gizmochampion/"><u>Top-Rated M.2 SSDs - Comprehensive Testing & Reviews by Tech Experts | GizmoChampion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-strategies-for-home-based-podcast-recordings-for-2024/"><u>[New] Expert Strategies for Home-Based Podcast Recordings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grateful-choices-comprehensive-otu-guide/"><u>[New] Grateful Choices Comprehensive OTU Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-affordable-yet-high-quality-cameras-list/"><u>[New] In 2024, Affordable Yet High-Quality Cameras List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-effective-zoom-sharing-for-2024/"><u>[Updated] Expert Strategies for Effective Zoom Sharing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>[Updated] Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-playbook-strategies-for-success/"><u>[Updated] Funimate Playbook Strategies for Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-profit-beginners-guide-on-periscope-earning/"><u>2024 Approved From Zero to Profit Beginner’s Guide on Periscope Earning</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-your-playtime-with-2024s-must-have-console-picks/"><u>Ace Your Playtime with 2024'S Must-Have Console Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-into-attaining-stock-artwork-for-2024/"><u>Expert Insights Into Attaining Stock Artwork for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-15-plus-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 15 Plus</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-face-hiding-masterclass-tools-and-techniques-reviewed/"><u>In 2024, Face Hiding Masterclass Tools and Techniques Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-top-8-accessories-for-vr-games/"><u>In 2024, Innovative Top 8 Accessories for VR Games</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-the-art-of-time-stamp-addition-for-better-viewership/"><u>In 2024, Master the Art of Time Stamp Addition for Better Viewership</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-problems-with-an-unresponsive-msi-dragon-centre/"><u>Resolve Problems with an Unresponsive MSI Dragon Centre</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-gap-in-self-review-systems/"><u>The Gap in Self-Review Systems</u></a></li>
 </ul></div>
 

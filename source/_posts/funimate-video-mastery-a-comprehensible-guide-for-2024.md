@@ -1,7 +1,7 @@
 ---
 title: "\"Funimate Video Mastery  A Comprehensible Guide for 2024\""
-date: 2024-07-26T16:05:18.094Z
-updated: 2024-07-27T16:05:18.094Z
+date: 2024-12-02T18:57:43.656Z
+updated: 2024-12-09T18:48:45.146Z
 tags: 
   - screen-recording
   - ai video
@@ -22,18 +22,6 @@ Funimate is the finest video editing tool for mobile! Join the millions of Funim
 
 You can also get a Funimate Pro download with unique video capabilities like transitions, custom animations, video, and text effects, and filters, you can make fantastic Fan Edits or spice up your freestyle films. From our element library of hundreds of possibilities, add stickers, backdrops, and overlays to your movie to show off your creativity and wow your friends. Funimate is a sophisticated video editor that allows you to create slow-motion films, divide videos, crop videos, add video effects, produce slide presentations, add emojis and clever text titles, as well as add music and custom sound to your videos.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How to Use Funimate Downloader
 
 You may make films, edit them with incredible effects and filters, and then share them with all of your followers. With only a basic smartphone camera, the software can transform regular movies into viral videos in a matter of seconds. To begin using the Funimate program, establish a new account or use one of your existing social accounts, such as Twitter or Facebook. Once your account is complete, you may browse through other users' films, personalize your profile, and, of course, post your own!
@@ -46,10 +34,11 @@ Step 1: Launch Funimate App
 
 To begin with, open the app on your mobile, and from there, select the video you want to download inside the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch funimate apps](https://images.wondershare.com/filmora/article-images/launch-funimate-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Copy the Link
 
@@ -57,11 +46,19 @@ In the next step, simply hold on to the video and copy the link from the Funimat
 
 ![copy link in funimate](https://images.wondershare.com/filmora/article-images/copy-link-in-funimate.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Download the Video
 
 Now to make the grade, simply hit the download button from the website and then save the video to your gadget with simple measures.
 
 ![download video from funimate](https://images.wondershare.com/filmora/article-images/download-video-from-funimate.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. More Info About Funimate Video Downloader
 
@@ -91,9 +88,6 @@ For macOS 10.12 or later
 
 Aside from the video editor, DemoCreator Audio Editor allows you to improve the sound of your video. If there is any noise in the background of your voice-over, you can quickly remove it from the whole clip or a section of the film where you believe the sound is unprofessional. Also, you can add your favorite ones to the Funimate videos in Filmora, simply import the files and add them to the timeline. Within the timeline of this video editor, you can also separate the audio from your video clips and cut or sync it with the video.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import funimate video](https://images.wondershare.com/filmora/article-images/import-funimate-videos.jpg)
 
 **Step 3: Improve Your Audio Quality**
@@ -115,52 +109,8 @@ Finally, after you've completed the Funimate video editing, you may fully use th
 ![save and share funimate video](https://images.wondershare.com/filmora/article-images/save-and-share-funimate-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Conclusion
-
-Nonetheless, the application offers a lot more than that, allowing you to completely customize your accounts. Wondershare Filmora's video editor has a variety of built-in features for use in video productions. You may also utilize the built-in audio editor in this app to transform your draught video sound into a well-rounded video. As a result, we may conclude that this app has a monopoly on all of the features that current software provides in various instruments. This is why we may refer to this app as an all-in-one video editing package.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 2: Remove Any Unnecessary Background Sounds**
-
-Aside from the video editor, DemoCreator Audio Editor allows you to improve the sound of your video. If there is any noise in the background of your voice-over, you can quickly remove it from the whole clip or a section of the film where you believe the sound is unprofessional. Also, you can add your favorite ones to the Funimate videos in Filmora, simply import the files and add them to the timeline. Within the timeline of this video editor, you can also separate the audio from your video clips and cut or sync it with the video.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![import funimate video](https://images.wondershare.com/filmora/article-images/import-funimate-videos.jpg)
-
-**Step 3: Improve Your Audio Quality**
-
-Wondershare DemoCreator Audio Editor can modify volume, create fade-in and fade-out effects, and mute sounds in certain areas of the movie. When you click on the audio portion of the video in Wondershare DemoCreator's timeline, all of the choices are readily available on the right side of the program interface. After you've made any required adjustments to your audio, you can evaluate the audio sound inside the program to ensure it's in sync with your recorded video clip.
-
-![imnprove audio quality](https://images.wondershare.com/filmora/article-images/improve-audio-quality.jpg)
-
-**Step 4: Include Some Effects to Your Funimate Video**
-
-Wondershare DemoCreator was created exclusively for giving your films a professional touch. It features a variety of eye-catching and versatile effects that you can use in your video projects to make them stand out from the crowd. In this part, we've discussed some of the best effects for bringing life to your dull and amateur-level films.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
-![add effects to funimate video](https://images.wondershare.com/filmora/article-images/add-effects-to-funimate-videos.jpg)
-
-**Step 5: Save or Share the Videos**
-
-Finally, after you've completed the Funimate video editing, you may fully use the Filmora editor as above. And, to publish your piece of art directly to YouTube or another well-known site, click the Export option and choose the platform where you want to distribute your video clip. You may even modify the video before sharing it if you like. To refine your recorded video, Filmora enables you to apply Animated Titles, stunning effects, Audio Enhancements, and much more using the Editor.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![save and share funimate video](https://images.wondershare.com/filmora/article-images/save-and-share-funimate-video.jpg)
 
 ## Conclusion
 
@@ -180,9 +130,6 @@ Aside from the video editor, DemoCreator Audio Editor allows you to improve the 
 
 Wondershare DemoCreator Audio Editor can modify volume, create fade-in and fade-out effects, and mute sounds in certain areas of the movie. When you click on the audio portion of the video in Wondershare DemoCreator's timeline, all of the choices are readily available on the right side of the program interface. After you've made any required adjustments to your audio, you can evaluate the audio sound inside the program to ensure it's in sync with your recorded video clip.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![imnprove audio quality](https://images.wondershare.com/filmora/article-images/improve-audio-quality.jpg)
 
 **Step 4: Include Some Effects to Your Funimate Video**
@@ -195,20 +142,12 @@ Wondershare DemoCreator was created exclusively for giving your films a professi
 
 Finally, after you've completed the Funimate video editing, you may fully use the Filmora editor as above. And, to publish your piece of art directly to YouTube or another well-known site, click the Export option and choose the platform where you want to distribute your video clip. You may even modify the video before sharing it if you like. To refine your recorded video, Filmora enables you to apply Animated Titles, stunning effects, Audio Enhancements, and much more using the Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save and share funimate video](https://images.wondershare.com/filmora/article-images/save-and-share-funimate-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Nonetheless, the application offers a lot more than that, allowing you to completely customize your accounts. Wondershare Filmora's video editor has a variety of built-in features for use in video productions. You may also utilize the built-in audio editor in this app to transform your draught video sound into a well-rounded video. As a result, we may conclude that this app has a monopoly on all of the features that current software provides in various instruments. This is why we may refer to this app as an all-in-one video editing package.
@@ -227,9 +166,6 @@ Aside from the video editor, DemoCreator Audio Editor allows you to improve the 
 
 Wondershare DemoCreator Audio Editor can modify volume, create fade-in and fade-out effects, and mute sounds in certain areas of the movie. When you click on the audio portion of the video in Wondershare DemoCreator's timeline, all of the choices are readily available on the right side of the program interface. After you've made any required adjustments to your audio, you can evaluate the audio sound inside the program to ensure it's in sync with your recorded video clip.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![imnprove audio quality](https://images.wondershare.com/filmora/article-images/improve-audio-quality.jpg)
 
 **Step 4: Include Some Effects to Your Funimate Video**
@@ -242,10 +178,55 @@ Wondershare DemoCreator was created exclusively for giving your films a professi
 
 Finally, after you've completed the Funimate video editing, you may fully use the Filmora editor as above. And, to publish your piece of art directly to YouTube or another well-known site, click the Export option and choose the platform where you want to distribute your video clip. You may even modify the video before sharing it if you like. To refine your recorded video, Filmora enables you to apply Animated Titles, stunning effects, Audio Enhancements, and much more using the Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![save and share funimate video](https://images.wondershare.com/filmora/article-images/save-and-share-funimate-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+Nonetheless, the application offers a lot more than that, allowing you to completely customize your accounts. Wondershare Filmora's video editor has a variety of built-in features for use in video productions. You may also utilize the built-in audio editor in this app to transform your draught video sound into a well-rounded video. As a result, we may conclude that this app has a monopoly on all of the features that current software provides in various instruments. This is why we may refer to this app as an all-in-one video editing package.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 2: Remove Any Unnecessary Background Sounds**
+
+Aside from the video editor, DemoCreator Audio Editor allows you to improve the sound of your video. If there is any noise in the background of your voice-over, you can quickly remove it from the whole clip or a section of the film where you believe the sound is unprofessional. Also, you can add your favorite ones to the Funimate videos in Filmora, simply import the files and add them to the timeline. Within the timeline of this video editor, you can also separate the audio from your video clips and cut or sync it with the video.
+
+![import funimate video](https://images.wondershare.com/filmora/article-images/import-funimate-videos.jpg)
+
+**Step 3: Improve Your Audio Quality**
+
+Wondershare DemoCreator Audio Editor can modify volume, create fade-in and fade-out effects, and mute sounds in certain areas of the movie. When you click on the audio portion of the video in Wondershare DemoCreator's timeline, all of the choices are readily available on the right side of the program interface. After you've made any required adjustments to your audio, you can evaluate the audio sound inside the program to ensure it's in sync with your recorded video clip.
+
+![imnprove audio quality](https://images.wondershare.com/filmora/article-images/improve-audio-quality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 4: Include Some Effects to Your Funimate Video**
+
+Wondershare DemoCreator was created exclusively for giving your films a professional touch. It features a variety of eye-catching and versatile effects that you can use in your video projects to make them stand out from the crowd. In this part, we've discussed some of the best effects for bringing life to your dull and amateur-level films.
+
+![add effects to funimate video](https://images.wondershare.com/filmora/article-images/add-effects-to-funimate-videos.jpg)
+
+**Step 5: Save or Share the Videos**
+
+Finally, after you've completed the Funimate video editing, you may fully use the Filmora editor as above. And, to publish your piece of art directly to YouTube or another well-known site, click the Export option and choose the platform where you want to distribute your video clip. You may even modify the video before sharing it if you like. To refine your recorded video, Filmora enables you to apply Animated Titles, stunning effects, Audio Enhancements, and much more using the Editor.
+
+![save and share funimate video](https://images.wondershare.com/filmora/article-images/save-and-share-funimate-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -273,7 +254,19 @@ Nonetheless, the application offers a lot more than that, allowing you to comple
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-echoes-of-now-strategies-for-downloading-current-events/"><u>[New] 2024 Approved Echoes of Now Strategies for Downloading Current Events</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extended-review-uncomplicated-hdr-approach/"><u>[New] Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>[New] How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-the-future-luminances-influence-on-hdr/"><u>[New] Illuminating the Future Luminance’s Influence on HDR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simple-snippets-for-iphone-sound-capture/"><u>[New] In 2024, Simple Snippets for iPhone Sound Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms/"><u>[Updated] In 2024, Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-cinema-the-vr-impact/"><u>2024 Approved Future Cinema The VR Impact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world-for-2024/"><u>Get Laughter in Minutes Install and Revel in iFunny's Meme World for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-m34-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy M34 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/superior-websites-to-ditch-twitter-completely/"><u>Superior Websites to Ditch Twitter Completely</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-easy-methods-for-downloading-videos-from-odyssey/"><u>Top 5 Easy Methods for Downloading Videos From Odyssey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-top-7-premium-dvd-recording-players-for-superior-video-fidelity/"><u>Ultimate Guide: Top 7 Premium DVD Recording Players for Superior Video Fidelity</u></a></li>
+</ul></div>
 

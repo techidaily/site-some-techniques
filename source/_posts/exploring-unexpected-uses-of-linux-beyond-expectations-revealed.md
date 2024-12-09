@@ -1,7 +1,7 @@
 ---
 title: Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-date: 2024-11-30T22:17:02.340Z
-updated: 2024-12-01T22:56:07.939Z
+date: 2024-12-06T16:51:11.530Z
+updated: 2024-12-09T19:38:39.582Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,12 +32,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Samsung Neo QLED 8K TV at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53452202263_a60ecb519a_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
  Smart appliances like smart TVs often have an operating system derived from Linux, but there's a good chance there's some form of Linux in appliances like smart fridges or internet-connected microwaves. Since the Linux kernel is free and open-source, there's plenty of incentive to simply adapt it to run on appliances that need this level of software to do their jobs, instead of writing software from scratch. There's even a chance that your Wi-Fi router could be running Linux. Even your [coffee maker at work](https://www.reddit.com/r/LinuxActionShow/comments/594b7m/the%5Fnew%5Fcoffee%5Fmachine%5Fat%5Fmy%5Fworkplace%5Fruns%5Flinux/) could be running Linux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  Supercomputers 
 
@@ -59,9 +63,17 @@ _[Waze](https://www.waze.com/press)_
 
 ![Front and rear view of some flagship smartphones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/front-and-rear-view-of-some-flagship-smartphones.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lucas Gouveia / How-To Geek | Best Buy
 
  This is technically cheating a little but, but most smartphones in the world run Android, and Android is based on Linux. However, it's heavily modified and doesn't contain the same set of libraries as standard Linux distros meant for desktop use. However, there _are_ [proper Linux smartphones](https://driver-install.techidaily.com/startech-windows-drives-mended-across-xp-to-11/) such as the [Librem 5](https://puri.sm/products/librem-5/), which runs [PureOS](https://pureos.net/), a distro of Linux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Medical Devices 
 
@@ -75,25 +87,13 @@ _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical
 
 ![iot devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/05/241daf9c.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shutterstock/Panchenko Vladimir
 
  The [Internet of Things](https://extra-skills.techidaily.com/in-2024-optimizing-display-youtubes-zoom-mastery/) is the description we've given to a loose collection of devices that mainly talk to each other over networks. So this could be anything from your IP security cameras, to your thermostat, to remote solar-powered weather sensors. A good portion of these devices run Linux, rather than proprietary firmware. When you access your IP cameras, for example, you're essentially logging into a Linux server running on your local network.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7  Emulator Handhelds 
 
 ![Anbernic RG35X H portable handheld retro gaming console.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/anbernic_rg35xx_h.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Anbernic
 
@@ -114,24 +114,24 @@ Anbernic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-changing-photo-colors-with-ease/"><u>[New] 2024 Approved Changing Photo Colors with Ease</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-film-gear-2024s-picks/"><u>[New] Excellence in Film Gear 2024'S Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infallible-steps-to-tiktok-bio-link-integration-without-error/"><u>[New] Infallible Steps to TikTok Bio-Link Integration Without Error</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-idea-incubator-interactive/"><u>[New] Innovative Idea Incubator Interactive</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-ultra-fast-instagram-video-views-for-smartphone-users-for-2024/"><u>[New] Ultra-Fast Instagram Video Views for Smartphone Users for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-your-photo-workflow-in-windows-11/"><u>[Updated] Boost Your Photo Workflow in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-skies-with-top-10-beginner-drones/"><u>[Updated] Exploring the Skies with Top 10 Beginner Drones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-focusflexpro-x7-smart-resizing-superior-quality/"><u>[Updated] FocusFlexPro X7 Smart Resizing, Superior Quality</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-discovering-and-perfecting-your-individual-style/"><u>[Updated] In 2024, Discovering & Perfecting Your Individual Style</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approach-for-rotating-and-interlacing-multiple-videographies-android/"><u>[Updated] Innovative Approach for Rotating & Interlacing Multiple Videographies (Android)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-b-roll-impact-in-your-edits/"><u>[Updated] Maximizing B-Roll Impact in Your Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-stellar-titling/"><u>2024 Approved Expert Techniques for Stellar Titling</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expert-tips-for-efficient-youtube-to-mpeg-transcoding/"><u>2024 Approved Expert Tips for Efficient YouTube-to-MPEG Transcoding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hololens-review-pioneering-virtual-spacecraft-for-2024/"><u>HoloLens Review Pioneering Virtual Spacecraft for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-smart-8-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-easy-guide-to-boost-your-videos-speed-in-snapchat/"><u>In 2024, Easy Guide to Boost Your Videos Speed in Snapchat</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-tasks-during-your-podcast-sessions/"><u>In 2024, Ideal Tasks During Your Podcast Sessions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-review-exploring-hero4-black-functions/"><u>[New] Full Review Exploring Hero4 Black Functions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-stunning-hdr-photography/"><u>[New] Innovative Techniques for Stunning HDR Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-trending-stock-images-and-behind-the-scenes-stories/"><u>[New] Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-budget-friendly-online-face-offs-for-2024/"><u>[New] Ultimate Budget-Friendly Online Face-Offs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>[Updated] 2024 Approved The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capture-all-hulu-streaming-on-different-os-and-devices/"><u>[Updated] In 2024, Capture All Hulu Streaming on Different OS and Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-inshot-against-other-apps/"><u>[Updated] In-Depth Comparison InShot Against Other Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-top-tools-for-dynamic-image-background-alterations-for-2024/"><u>10 Top Tools for Dynamic Image Background Alterations for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-going-back-with-android-video-editing/"><u>2024 Approved Going Back with Android Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guideline-on-budgeting-for-music-video-filming/"><u>2024 Approved Guideline on Budgeting for Music Video Filming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-and-convert-your-videos-faster-discover-how-free-apple-video-converter-now-works-with-ipod-nano/"><u>Download and Convert Your Videos Faster: Discover How Free Apple Video Converter Now Works with iPod Nano!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-14-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 14 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hues-in-harmony-the-process-of-film-coloring-for-2024/"><u>Hues in Harmony The Process of Film Coloring for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x50-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-video-intro-templates-you-need-to-download/"><u>In 2024, Free Video Intro Templates You Need to Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-achieve-lightning-fast-periscope-transmission/"><u>In 2024, How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-episodic-unveiling-schedule/"><u>In 2024, Ideal Episodic Unveiling Schedule</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-tips-for-srt-file-production-mastery/"><u>In 2024, In-Depth Tips for SRT File Production Mastery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-youtubes-monetization-potential/"><u>Unlocking YouTube's Monetization Potential</u></a></li>
 </ul></div>
 

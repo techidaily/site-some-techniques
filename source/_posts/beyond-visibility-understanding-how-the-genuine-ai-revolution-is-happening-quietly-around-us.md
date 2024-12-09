@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-12-01T06:36:39.442Z
-updated: 2024-12-01T23:37:34.112Z
+date: 2024-12-08T22:03:07.406Z
+updated: 2024-12-09T20:54:05.008Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ## Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -54,7 +54,7 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -82,15 +82,22 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-optimizing-performance-best-practices-for-fast-loading-times-for-2024/"><u>[New] Optimizing Performance Best Practices for Fast Loading Times for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade/"><u>[New] Revolutionize Video Files with Instant FB to MP4 & HD Upgrade</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-tailored-fit-videos-the-key-to-great-instagram-posts/"><u>[New] Tailored-Fit Videos The Key to Great Instagram Posts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imovie-soundtracks-made-easy-and-effective/"><u>2024 Approved IMovie Soundtracks Made Easy & Effective</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-spectrum-assessment-dji-phantom-4-unveiled-for-2024/"><u>Full Spectrum Assessment DJI Phantom 4 Unveiled for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>In 2024, From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-a-negative-like-image-look/"><u>In 2024, How to Create a Negative-Like Image Look</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/obs-studio7/"><u>OBS Studioにおける録音トラブル解決:7コツ</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-quietening-unwelcome-text-interruptions-for-iphone-users/"><u>The Ultimate Guide to Quietening Unwelcome Text Interruptions for iPhone Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>[New] How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-evaluating-video-editing-tools-bandicam-vs-camtasia/"><u>[Updated] Evaluating Video Editing Tools Bandicam vs Camtasia</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>[Updated] Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-essential-zoom-techniques-for-iphone-users/"><u>[Updated] Master Essential Zoom Techniques for iPhone Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-visionary-vistas-the-ultimate-list-of-motivating-ig-images-for-2024/"><u>[Updated] Visionary Vistas The Ultimate List of Motivating IG Images for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-custom-box-top-10-online-stores-offering-tailored-packaging/"><u>2024 Approved Find Your Custom Box Top 10 Online Stores Offering Tailored Packaging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-length-video-view-remove-youtube-preview/"><u>2024 Approved Full-Length Video View Remove YouTube Preview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-started-with-windows-10-sound-recording/"><u>2024 Approved Getting Started with Windows 10 Sound Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ace-set-of-rotational-recording-devices-for-2024/"><u>Ace Set of Rotational Recording Devices for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-steps-for-seamless-audio-extraction-from-youtube-videos/"><u>Easy Steps for Seamless Audio Extraction From YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expediting-fb-videos-leading-extensions-and-apps-compilation-for-2024/"><u>Expediting FB Videos Leading Extensions & Apps Compilation for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-palworld-when-it-wont-start-easy-steps-you-can-take-now/"><u>How to Fix Palworld When It Won't Start: Easy Steps You Can Take Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-enhancing-video-controls-and-performance/"><u>In 2024, Expert Guide to Enhancing Video Controls and Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-screen-zooming-on-microsoft-teams/"><u>In 2024, Expert Guide to Screen Zooming on Microsoft Teams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-casting-technology-connect-your-device-to-an-lg-smart-tv/"><u>Mastering Casting Technology: Connect Your Device to an LG Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/permanent-deletion-tips-how-to-erase-your-yahoo-email-address/"><u>Permanent Deletion Tips: How To Erase Your Yahoo Email Address</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-hyper-v-error-code-0x8009030e-on-windows-os/"><u>Resolving Hyper-V Error Code: 0X8009030E on Windows OS</u></a></li>
 </ul></div>
 

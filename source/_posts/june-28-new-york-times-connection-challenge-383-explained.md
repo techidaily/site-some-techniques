@@ -1,7 +1,7 @@
 ---
 title: June 28 - New York Times Connection Challenge #383 Explained
-date: 2024-11-27T18:44:29.016Z
-updated: 2024-12-01T23:23:30.127Z
+date: 2024-12-06T17:50:55.390Z
+updated: 2024-12-09T21:05:00.028Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## June 28 - New York Times Connection Challenge #383 Explained
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -54,12 +54,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** Underwear in the Singular
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![June 28th Connections words sorted into groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-28th-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Types of Bags (Yellow):** 
 
@@ -78,7 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Boxer, Brief, Drawer, Short
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -92,10 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A satchel is a type of bag, so I started with that for my next group. Freedom, latitude, slack, and license make absolutely no sense in the context of "bag," so I just opted to pick every other remaining word instead of puzzling it out. Clutch, messenger, satchel, and tote belonged to the Yellow group, "Types of Bags." 
 
  That left freedom, latitude, license, and slack. The terms seem vaguely related to the ideas of margin for error, or freedom of movement. Green was "Wiggle Room"—close enough. I count that as a win still. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -125,21 +125,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-guidelines-to-frame-your-youtube-creation-flow/"><u>[New] 2024 Approved Guidelines to Frame Your YouTube Creation Flow</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>[New] FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-exploration-of-final-cut-pros-powerful-tools-and-features/"><u>[New] In-Depth Exploration of Final Cut Pro’s Powerful Tools and Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-zoom-makeover-effortless-background-softening/"><u>[Updated] 2024 Approved Zoom Makeover Effortless Background Softening</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-ghostly-witness-to-fb-vignettes-for-2024/"><u>[Updated] Ghostly Witness to Fb Vignettes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-audio-on-your-device-apples-podcast-download-guide/"><u>[Updated] Harnessing the Power of Audio on Your Device Apple's Podcast Download Guide</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1-comment-corriger-la-memoire-affichee-erronee-dun-disque-dur-sous-windows-10/"><u>1. Comment Corriger La Mémoire Affichée Erronée D’un Disque Dur Sous Windows 10 ?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-50-clever-tiktok-gags-for-laughter/"><u>2024 Approved 50 Clever TikTok Gags for Laughter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freshwater-frontiers-prime-camers-for-fishing-enthusiasts/"><u>2024 Approved Freshwater Frontiers Prime Camers for Fishing Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-screen-shots-to-speech-navigating-the-best-37-applications-for-video-to-text-translation/"><u>2024 Approved From Screen Shots to Speech Navigating the Best 37 Applications for Video-to-Text Translation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guidance-best-websites-to-find-google-pixel-ringtones-and-how-to-customize-google-pixel-ringtones/"><u>2024 Approved Guidance Best Websites To Find Google Pixel Ringtones & How To Customize Google Pixel Ringtones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harvesting-stills-from-moving-images-on-windows/"><u>Harvesting Stills From Moving Images on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-insight-downloading-audio-on-apple-gadgets/"><u>In 2024, Expert's Insight Downloading Audio on Apple Gadgets</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-quality-control-best-free-lut-selections-and-links-reviewed/"><u>In 2024, Quality Control Best Free LUT Selections & Links Reviewed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211329089-9780062456250-the-happy-medium/"><u>The Happy Medium | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-find-x6-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo Find X6 Pro Phones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>[New] Quick Step-By-Step Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unleashing-virtual-reality-the-ultimate-iphone-experience/"><u>[New] Unleashing Virtual Reality The Ultimate IPhone Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-iconic-writings-distinguishing-film-types/"><u>[Updated] 2024 Approved Iconic Writings Distinguishing Film Types</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-cheap-vr-headsets-from-china/"><u>[Updated] Cheap VR Headsets From China?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-idea-to-installment-making-custom-instagram-notifications/"><u>2024 Approved From Idea to Installment Making Custom Instagram Notifications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-mastery-guide-adobe-cloud-and-its-rival-services/"><u>2024 Approved Full Mastery Guide Adobe Cloud and Its Rival Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-arena-top-titles-for-each-vr-headset/"><u>2024 Approved Innovation's Arena Top Titles for Each VR Headset</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-guide-to-retrieving-lost-data-from-usb-mass-storage-devices/"><u>Expert Guide to Retrieving Lost Data From USB Mass Storage Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y27-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y27 4G online without jailbreak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-precise-control-with-xbox-zoom/"><u>In 2024, Expert Tips for Precise Control with Xbox Zoom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>In 2024, Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-jaunt-vr-immersion/"><u>The Ultimate Guide to Jaunt VR Immersion</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating an Eye-Catching Windows Desktop: A Guide on Utilizing Rainmeter"
-date: 2024-11-25T18:30:31.644Z
-updated: 2024-12-01T20:57:17.024Z
+date: 2024-12-03T21:44:42.853Z
+updated: 2024-12-09T21:35:34.944Z
 tags:
   - deals
 categories:
@@ -30,7 +30,7 @@ Close
  If this showcase piques your interest, let’s go ahead and give Rainmeter a try on your computer. I’ll walk you through the step-by-step process of setting up a desktop using Rainmeter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Installing Rainmeter
@@ -64,7 +64,7 @@ Close
 ![Context menu for hiding desktop icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-203230.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The only thing left to deal with is the Taskbar. You can set the Taskbar to auto-hide, but it will reappear when you hover the cursor near it. To auto-hide it, right-click on the taskbar and click “Taskbar Settings.” On the Settings page, toggle “Automatically Hide Taskbar in Desktop Mode.”
@@ -76,7 +76,7 @@ Close
 ![Blank desktop with hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-204005.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Base Theme
@@ -91,27 +91,27 @@ Close
 
 ![Learning the Rainmeter interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-215114.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can drag to arrange skins in a layout of your choice. Be sure “Draggable” is checked for the active skin you’re trying to reposition (right-click on the skin to find that menu). Inside Dream replaced my desktop shortcuts with a shortcut bar and added a visualizer, clock, and greeting. The visualizer automatically picks up audio played from any app.
 
  There’s one more thing you need to know about skins: you’re not limited to a single Rainmeter package when building your design. You can actually install multiple themes and load skins from any of the installed packages to mix and match however you like. You can see the four Rainmeter packages that I have installed on my computer, though they're not all active. 
 
 ![Installed skins on Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134717.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I didn't like the visualizer skin in Inside Dream. It looked pretty but didn't have any music controls, s I installed a second package called [RetroColor](https://www.deviantart.com/apexxx-sensei/art/RetrOcOlOr-792148096) and loaded the music skin from it.
 
 ![Loading a music widget skin using Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134400.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The result could look something like this. but feel free to mix and match to create a design that works for you.
 
 ## ![Custom theme in Rainmeter.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-135734.png) How to Customize Your Theme
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The base theme looks good, but it needs some tweaking to actually make it functional. There are two ways to customize a skin. You can either use the INI file, or you can use the GUI settings menu if the Rainmeter package supports it.
 
@@ -154,18 +154,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-finding-the-most-skilled-film-capturers/"><u>[New] 2024 Approved Finding the Most Skilled Film Capturers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-second-count-for-a-20mb-visual-file/"><u>[Updated] Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fading-forward-ingenious-techniques-for-soft-echos-in-audacity/"><u>[Updated] Fading Forward Ingenious Techniques for Soft Echos in Audacity</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-pivoting-to-passive-income-the-youtube-expedition-without-ads/"><u>[Updated] Pivoting to Passive Income The YouTube Expedition Without Ads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-leading-drone-motors-for-superior-stability/"><u>2024 Approved Identifying Leading Drone Motors for Superior Stability</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-completely-erase-drives-partitioning-in-windows/"><u>A Guide to Completely Erase Drive's Partitioning in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-advice-elevating-your-nba-live-viewing-for-2024/"><u>Expert Advice Elevating Your NBA Live Viewing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-in-the-art-of-win10-for-2024/"><u>Expert Strategies in the Art of Win10 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-best-alarm-clock-apps-a-selection-of-our-top-picks/"><u>Exploring the Best Alarm Clock Apps: A Selection of Our Top Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-windows-11-photo-inspector/"><u>In 2024, Prime Windows 11 Photo Inspector</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Oppo Reno 11 Pro 5G Device</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-unveiling-the-top-8-youtube-boosters-for-2024/"><u>The Ultimate Guide Unveiling the Top 8 Youtube Boosters for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-bring-cartoons-to-life-top-10-animation-apps-for-android-and-iphone/"><u>Updated 2024 Approved Bring Cartoons to Life Top 10 Animation Apps for Android and iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-playbook-cutting-edge-methods-for-remarkable-mobizen-recordings/"><u>[New] Ultimate Playbook Cutting-Edge Methods for Remarkable Mobizen Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-magic-top-5-effect-tools/"><u>[Updated] Free Video Magic Top 5 Effect Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-the-power-of-google-meet-with-your-tech/"><u>[Updated] In 2024, Unlocking the Power of Google Meet with Your Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gpu-excellence-in-4k-gameplay-experience/"><u>2024 Approved GPU Excellence in 4K Gameplay Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-in-live-broadcast-with-periscope/"><u>2024 Approved Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-internet-calling-apps/"><u>Discover The Ultimate List of Free Internet Calling Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highest-quality-live-tv-and-community-broadcasting-guide-2esecurity-for-2024/"><u>Highest-Quality Live TV & Community Broadcasting Guide, 2Esecurity for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-install-the-latest-logitech-g402-mouse-software/"><u>How to Get and Install the Latest Logitech G402 Mouse Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-get-high-end-editing-power-for-free-for-2024/"><u>How to Get High-End Editing Power for Free for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>In 2024, Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-hidden-depths-of-canvas-photo-editor/"><u>In 2024, Explore the Hidden Depths of Canva's Photo Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focus-freshness-the-ultimate-clear-image-software-guide/"><u>In 2024, Focus Freshness The Ultimate Clear Image Software Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-meme-makers-the-ultimate-resource-guide/"><u>In 2024, Free Meme Makers – The Ultimate Resource Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-visual-storytelling-instaslides/"><u>In 2024, Visual Storytelling InstaSlides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-epson-wf-3520-functioning-smoothly-with-the-latest-windows-driver-downloads-and-setup-instructions/"><u>Keep Your Epson WF-3520 Functioning Smoothly with the Latest Windows Driver Downloads and Setup Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-note-taking-with-chatgpt-expert-techniques/"><u>Mastering Note-Taking with ChatGPT: Expert Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-intro-maker-for-panzoid-for-2024/"><u>Top 10 Intro Maker for Panzoid for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xfx-error-corrected-system-resumed/"><u>XFX Error Corrected: System Resumed</u></a></li>
 </ul></div>
 

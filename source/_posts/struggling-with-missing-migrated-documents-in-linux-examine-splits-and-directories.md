@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-11-27T21:51:01.738Z
-updated: 2024-12-01T23:21:04.286Z
+date: 2024-12-06T19:10:31.866Z
+updated: 2024-12-09T16:53:51.841Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,10 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Part Slash Plays in the mv Command
 
  Let’s say you’re moving a file to a different directory. You’re going to keep the same filename. In theory, this makes things easy because you don’t need to specify a target filename on the command line. By default, mv uses the original filename.
@@ -49,13 +45,13 @@ ls ~/Downloads/src
     
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
 
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
 
@@ -82,7 +78,7 @@ ls -l ~/Documents
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
@@ -92,6 +88,10 @@ ls ~/Documents/backup
 `
     
 ![Moving and renaming the misspelled file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The confusion and the hunt for the missing, badly-named file could have been avoided by adding a trailing slash to the target directory on the command line. That way, if you make a typo, Bash reports an error.
 
@@ -106,7 +106,7 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’s Not Exactly Slash’s Fault
@@ -130,22 +130,22 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-the-best-livestreaming-video-tech/"><u>[New] In-Depth Analysis The Best Livestreaming Video Tech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[Updated] 2024 Approved From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-spotify-advertising-a-playbook-guide/"><u>[Updated] Expertise in Spotify Advertising A Playbook Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gamers-guide-to-elite-streaming-platforms/"><u>[Updated] Gamers' Guide to Elite Streaming Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero5-vs-yi-evaluating-cutting-edge-cameras/"><u>[Updated] Hero5 Vs. YI Evaluating Cutting-Edge Cameras</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-expanding-your-fb-video-scope-full-hd/"><u>[Updated] In 2024, Expanding Your Fb Video Scope Full HD</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>2024 Approved Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>2024 Approved Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-pro-level-mp3-cutting-discover-the-top-5-online-platforms/"><u>2024 Approved Pro-Level MP3 Cutting Discover the Top 5 Online Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-prime-collage-app-selection-overview/"><u>Android's Prime Collage App Selection Overview</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-appeal-of-the-light-phone-3s-simplicity-and-mechanical-features/"><u>Exploring the Appeal of the Light Phone 3'S Simplicity and Mechanical Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gigglygraphics-mememakers-haven/"><u>In 2024, GigglyGraphics MemeMaker's Haven</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>In 2024, Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-correcting-errored-photo-transfers-from-iphones/"><u>Mastering the Art of Correcting Errored Photo Transfers From iPhones</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/section-4a-advanced-topic-ocular-immunology/"><u>Section 4A: Advanced Topic - Ocular Immunology</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-guide-fixing-non-operational-windows-11-task-scheduler/"><u>Troubleshooting Guide: Fixing Non-Operational Windows 11 Task Scheduler</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-discovering-your-customized-youtube-playlist/"><u>[New] Discovering Your Customized YouTube Playlist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-lgs-new-tech-horizon-in-bp550/"><u>[New] Exploring LG's New Tech Horizon in BP550</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-add-video-filters-in-zoom/"><u>[New] How To Add Video Filters In Zoom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-optimize-playback-settings-in-snapchat-applications/"><u>[New] How To Optimize Playback Settings in Snapchat Applications</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-simplified-path-to-mastery-in-using-cc-licenses/"><u>[New] In 2024, Simplified Path to Mastery in Using CC Licenses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-magical-voice-change-tools-for-efficient-calls/"><u>[Updated] 2024 Approved Magical Voice Change Tools for Efficient Calls</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-curated-webcams-for-ultimate-zoom-video-conferencing/"><u>[Updated] Expertly Curated Webcams for Ultimate Zoom Video Conferencing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-mindset-audio-selection/"><u>[Updated] Free Mindset Audio Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-realism-in-spark-ar-worlds-via-application-of-luts/"><u>2024 Approved Infusing Realism in Spark AR Worlds via Application of LUTs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/honterus-a-man-of-purpose-and-passion/"><u>Honterus: A Man of Purpose and Passion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expand-picture-size-maintain-original-quality/"><u>In 2024, Expand Picture Size - Maintain Original Quality</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-following-paths-those-whove-left-instagram/"><u>In 2024, Following Paths Those Who've Left Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-iphones-nighttime-photo-secrets-revealed/"><u>In 2024, Illuminating iPhones Nighttime Photo Secrets Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-unleashed-cutting-edge-ar-games/"><u>In 2024, Innovation Unleashed Cutting-Edge AR Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/reflection-photography-tips-for-iphone/"><u>Reflection Photography Tips for iPhone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/steps-to-manage-installation-and-removal-of-applications-via-control-panel-a-guide-from-yl-computing/"><u>Steps to Manage Installation and Removal of Applications via Control Panel: A Guide From YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tiny-turbines-car-shindig/"><u>Tiny Turbines' Car Shindig</u></a></li>
 </ul></div>
 

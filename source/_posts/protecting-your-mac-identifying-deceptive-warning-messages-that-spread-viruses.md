@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-11-29T19:54:30.660Z
-updated: 2024-12-01T20:54:58.955Z
+date: 2024-12-03T21:15:58.628Z
+updated: 2024-12-09T17:14:04.294Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ## Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 * Disable notification permissions in browser settings to turn off the feature if you never use it.
 
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What's Going On?
 
@@ -35,14 +39,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Avoid This Happening Again
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
@@ -90,20 +90,22 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-meet-twitters-video-standards-aspect-ratio-matters/"><u>[New] 2024 Approved How to Meet Twitter's Video Standards Aspect Ratio Matters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-path-to-digital-fame-on-youtube-begins-here/"><u>[New] 2024 Approved The Path to Digital Fame on YouTube Begins Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-future-of-storage-cutting-edge-cost-effective-solutions/"><u>[New] Future of Storage Cutting-Edge, Cost-Effective Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-craft-natural-motion-depth-in-ps/"><u>[Updated] 2024 Approved Craft Natural Motion Depth in PS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-10-prime-online-stores-for-curious-gift-boxes/"><u>[Updated] Explore 10 Prime Online Stores for Curious Gift Boxes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flashy-flashes-prime-picks-for-lightning-laptopmobile-games/"><u>2024 Approved Flashy Flashes Prime Picks for Lightning Laptop/Mobile Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-elevate-landscape-imaging-with-your-iphone-device-for-2024/"><u>How to Elevate Landscape Imaging with Your iPhone Device for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-instagrams-unpredictable-video-playback/"><u>In 2024, Exploring Instagram's Unpredictable Video Playback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-turn-off-default-recommended-podcast-listings-in-spotify/"><u>In 2024, How to Turn Off Default Recommended Podcast Listings in Spotify</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-immersive-experiences-in-ar-via-customized-lut-application/"><u>In 2024, Infusing Immersive Experiences in AR via Customized LUT Application</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-xr-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone XR You Should Try Out</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-essential-guide-to-simple-iphone-screen-recording/"><u>In 2024, The Essential Guide to Simple Iphone Screen Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-links-for-your-ai-chat-experiences/"><u>Leveraging Links for Your AI Chat Experiences</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-world-of-mobile-gaming-best-2024-consoles-reviewed/"><u>Navigating the World of Mobile Gaming - Best 2024 Consoles Reviewed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-windows-7-mirror-mismatch/"><u>Rectifying Windows 7 Mirror Mismatch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-ingenious-ways-to-modify-voices-for-free/"><u>[New] Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foremost-recommendations-audio-customization-pros/"><u>[New] Foremost Recommendations Audio Customization Pros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hold-your-audiences-gaze-essential-6-video-formats/"><u>[New] Hold Your Audience's Gaze Essential 6 Video Formats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-tweets-review-the-full-year-in-videos/"><u>[Updated] 2024 Approved Top Tweets Review The Full Year in Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expanding-storytelling-with-alternative-cinematography/"><u>[Updated] Expanding Storytelling with Alternative Cinematography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-build-your-personal-brand-on-youtube-for-2024/"><u>[Updated] How to Build Your Personal Brand on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analyzing-lgs-4k-wuhd-hdr-performance/"><u>[Updated] In Depth Analyzing LG's 4K WUHD HDR Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-effortless-techniques-for-lenovo-capture-tasks/"><u>2024 Approved Effortless Techniques for Lenovo Capture Tasks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads/"><u>2024 Approved From Airwaves to iPhone Essential Knowledge on Podcast Downloads</u></a></li>
+<li><a href="https://network-issues.techidaily.com/freed-upfront-to-vr-headset-settings/"><u>Freed Upfront to VR Headset Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero-session-vs-cube-a-face-off-in-video-editors-for-2024/"><u>Hero Session Vs. Cube A Face-Off in Video Editors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-listen-to-podcasts-on-your-iphone-for-2024/"><u>How to Listen to Podcasts on Your iPhone for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lava-agni-2-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lava Agni 2 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/professional-edge-mastering-bordered-videos-on-insta-for-2024/"><u>Professional Edge Mastering Bordered Videos on Insta for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/simplest-methods-to-restore-deleted-files-on-windows-11-a-step-by-step-guide/"><u>Simplest Methods to Restore Deleted Files on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-picking-the-perfect-motherboard-explore-7-important-details/"><u>The Ultimate Guide to Picking the Perfect Motherboard: Explore 7 Important Details.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-android-collage-apps-creativity-unleashed/"><u>Top 10 Android Collage Apps - Creativity Unleashed</u></a></li>
 </ul></div>
 

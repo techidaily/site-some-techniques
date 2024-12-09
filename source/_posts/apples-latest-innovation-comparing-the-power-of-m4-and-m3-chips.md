@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2024-11-28T17:17:11.685Z
-updated: 2024-12-02T06:02:46.340Z
+date: 2024-12-04T19:13:06.010Z
+updated: 2024-12-09T16:14:02.923Z
 tags:
   - desktop
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 * [M4 on MacBooks? It Might Happen Soon](https://games-able.techidaily.com/compact-your-collection-smart-iso-size-cutting-via-chdman-method/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,19 +32,11 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Introducing Apple M4 Silicon
 
  On the surface, the M4 is the fourth iteration of Apple's M-branded system-on-a-chip (SoC) that houses a nine or 10-core CPU, a 10-core GPU, and a 16-core Neural Engine. Currently, it is only available in two configurations (where one variant has more processing cores than the other) [on the 2024 iPad Pro](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/). However, Apple could soon add more variants to the M4 lineup.
 
 ![Apple's M4 Silicon mascot on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-chip-announced-with-2024-ipad-pro.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Apple
 
@@ -62,21 +54,25 @@ Apple
 
 ![Apple M4 Silicon's representative image highlighting the number of performance and efficiency cores.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-s-m4-chip-gets-more-efficiency-cores.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  In its recent report, [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs) compares the Geekbench 6 scores of the 2024 iPad Pro with the M4 chip (with the 10-core CPU and 16GB of RAM) to the 13-inch MacBook Air with the M3 chip. Unsurprisingly, the iPad Pro scored 3692 points in the single-core test, which is about 21% higher than what M3 managed. Further, the M4 iPad Pro scores 14512 points in the multi-core test, about 20% higher than its predecessor.
 
  Another Geekbench listing (spotted by [MacRumors](https://www.macrumors.com/2024/05/13/m4-chip-9-core-cpu-benchmark-result/)) reveals that the lower-specced M4 (with a nine-core CPU) is about 13% faster than the M3 chip in multi-core tasks. Even though the scores are from different devices, they give us a fair idea of M4's peak performance, which should also reflect in day-to-day usage. Moreover, we're looking at around 13 to 20% improvements, which might not sound incredible on paper but certainly aren't worth overlooking either.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  M4's GPU Gets an Incremental Update
 
  In the official [press release](https://www.apple.com/in/newsroom/2024/05/apple-introduces-m4-chip/), Apple mentions that the M4's 10-core GPU "builds on the next-generation GPU architecture introduced in M3." However, the two GPUs look quite similar on paper. Both the M4 and the M3 feature a 10-core GPU that supports advanced features like mesh shading and [hardware-accelerated ray tracing](https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-premium-androidpc-video-editors/). While these features are new to the iPad, they have been around on M3-powered MacBooks for a while. The new chip also features Dynamic Caching.
 
 ![Representative image of the Apple M4 chip with 10-core GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-gpu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -90,6 +86,10 @@ Apple
 
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  However, a report by [Tom's Hardware](https://tools.techidaily.com)highlights how the M3 and M4 Silicon are rated using different computing standards. While Apple rated the M3 using FP16 (half-precision floating-point), the M4 is rated with INT8 (Integer 8-bit). Equalizing both chips' to INT8 precision, the publication concludes that the Neural Engine on the M4 is about 5% more powerful than the M3 (in terms of TOPS).
@@ -102,6 +102,10 @@ Apple
 
 ![Screenshot of Apple M2 Silicon's features and specifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m2-chip-on-the-new-ipad-air.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  Nonetheless, the M4 iPad Pro has become the longest-lasting iPad in [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs) tests, indicating that the chipset is indeed more efficient.
@@ -113,10 +117,6 @@ Apple
  Then, in mid-2025, Apple could refresh the [13-inch and 15-inch MacBook Air](https://network-issues.techidaily.com/swift-correction-of-diagonal-screen-gaps/) lineup with the M4 chips. Other devices like the iMac, Mac Studio, and Mac Pro will also feature the M4 chip (and its variants) by 2025\. Although Apple hasn't confirmed this, it comes from one of the most reliable industry sources. Hence, you'll see M4-powered MacBooks by the end of this year, which brings us to another very important question: should you wait for the M4 chip or get a suitable model of the M3 MacBook Air?
 
 ![Apple's M3 Max MacBook Pro in Space Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/apple-m3-max-macbook-pro.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Apple
 
@@ -143,20 +143,20 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-capture-perfection-at-home-these-are-the-best-5-filming-hacks-for-2024/"><u>[New] Capture Perfection at Home These Are the Best 5 Filming Hacks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-inexpensive-mirrorless-and-dslr-options/"><u>[New] Inexpensive Mirrorless & DSLR Options</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unleash-creativity-with-top-10-phone-apps-adding-stickers-to-images-for-2024/"><u>[New] Unleash Creativity with Top 10 Phone Apps Adding Stickers to Images for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>[Updated] Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-industry-leaders-top-10-free-lut-resource-list/"><u>[Updated] Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-top-6-helmet-mounts-to-upgrade-your-adventure-photography/"><u>2024 Approved Exploring The Top 6 Helmet Mounts to Upgrade Your Adventure Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-captured-moment-to-moving-picture/"><u>2024 Approved From Captured Moment to Moving Picture</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nokia-c210-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nokia C210 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-words-to-wax-mastering-voice-note-techniques-for-2024/"><u>From Words to Wax Mastering Voice Note Techniques for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-luts-in-photoshop-cc-for-2024/"><u>How to Use LUTs in PhotoShop CC for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2022-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone SE (2022) Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-computer-systems-with-toms-hardware-expertise/"><u>Mastering Computer Systems with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-loss-of-display-on-personal-computers/"><u>Remedying Loss of Display on Personal Computers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-thrilling-twists-and-turns-short-track-22/"><u>[New] 2024 Approved Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-efficient-speech-recognition-in-office-document-editing-ms-word/"><u>[New] Efficient Speech Recognition in Office Document Editing (MS Word)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-photographic-overlays-guide/"><u>[New] Harmonious Photographic Overlays Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-leading-the-pack-10-crucial-apps-for-insta-video-marketers/"><u>[New] Leading the Pack 10 Crucial Apps for Insta Video Marketers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-artisans-approach-to-archiving-facebook-discussions-for-2024/"><u>[New] The Artisan's Approach to Archiving Facebook Discussions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hues-in-action-implementing-color-schemes-properly/"><u>[Updated] Hues in Action Implementing Color Schemes Properly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-round-up-premium-vr-tools/"><u>2024 Approved Exclusive Round-Up Premium VR Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-guide-navigating-the-world-of-final-cut-pro/"><u>2024 Approved Full Guide Navigating the World of Final Cut Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-choice-best-vr-handh-written-by-assistant-for-2024/"><u>Expert's Choice Best VR Handh Written by Assistant for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/free-techniques-for-applying-a-watermark-to-your-videos/"><u>Free Techniques for Applying a Watermark to Your Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-everything-you-need-to-know-about-making-a-photomontage/"><u>In 2024, Everything You Need to Know About Making a PhotoMontage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-gratitude-paidfree-creative-templates/"><u>In 2024, Heartfelt Gratitude Paid/Free Creative Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-live-the-experience-top-4-ways-to-preserve-your-gaming-adventures/"><u>In 2024, Live the Experience Top 4 Ways to Preserve Your Gaming Adventures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/non-google-options-for-augmented-reality-embellishing/"><u>Non-Google Options for Augmented Reality Embellishing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
 </ul></div>
 

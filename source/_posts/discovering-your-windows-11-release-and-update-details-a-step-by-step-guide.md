@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide"
-date: 2024-11-27T23:46:43.063Z
-updated: 2024-12-01T17:27:46.457Z
+date: 2024-12-04T17:10:01.663Z
+updated: 2024-12-09T20:20:38.623Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ## Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Check Windows Version with the Settings App
@@ -45,16 +45,16 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
 * **Edition.** This line tells you which edition of Windows 10 you're using—Home, Professional, Enterprise, or Education. If you're using Home and you'd like to upgrade to Professional, you can [upgrade to the Professional edition from within Windows 10](https://techidaily.com/best-fixes-for-tecno-camon-20-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/). Switching to Windows 10 Enterprise or Education editions will require a complete reinstall and a special key that isn't made available to normal home Windows users.
 * **Version.** The version number gives you the best information on what version of Windows 10 you're running. The number was originally based on the date of the most recent large build release and uses a YYMM format. For example, in the screenshot above, the "1607" version tells us that the version we're running is from the 7th month (July) of 2016\. That's the big [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/) of Windows 10\. The [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/) was released in September of 2017, so it's version 1709\. Newer Windows 10 updates are named based on the which half of the year they come out in. For example, the latest Windows 10 update is 22H2—which tells you that it was released in the second half of 2022\. An update released in May 2024 will be called 24H1, and so on.
 * **OS Build.** This line shows the specific operating system build you're running. It gives you sort of a timeline of minor build releases in between the major version number releases. In the screenshot above, the "14393.693" build was actually the 13th build released after version 1607 shipped in July, 2016\. This information is somewhat less important to most people than the major version numbers, but it can still help you identify exactly what you're running. If you're curious, you can check out the whole [history of versions and builds for Windows 10](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396) on Microsoft's TechNet site.
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -93,16 +93,24 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-world-of-book-trailers-with-top-5-picks/"><u>[New] Exploring the World of Book Trailers with Top 5 Picks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-convenient-tips-for-iphone-screen-recording-setup/"><u>[Updated] In 2024, Convenient Tips for iPhone Screen Recording Setup</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-prime-6-economical-choices-for-ultra-hd-viewing-for-2024/"><u>[Updated] Prime 6 Economical Choices for Ultra HD Viewing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-heavens-a-mobile-panorama-journey/"><u>2024 Approved From Ground to Heavens A Mobile Panorama Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hero-session-x-vs-polaroid-cube-the-ultimate-editing-showdown/"><u>2024 Approved Hero Session X Vs. Polaroid Cube The Ultimate Editing Showdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-how-to-download-and-install-epson-wf-7710-printer-drivers-for-various-windows-versions/"><u>Easy Setup: How to Download and Install Epson WF-7710 Printer Drivers for Various Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-artisan-1430-printer-driver-software-free-download-for-windows-users/"><u>Epson Artisan 1430 Printer Driver Software - Free Download for Windows Users</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-asmr-can-boost-your-health-and-happiness-for-2024/"><u>How ASMR Can Boost Your Health & Happiness for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-be-a-ghost-in-the-social-media-crowd-live-for-2024/"><u>How to Be a Ghost in the Social Media Crowd - Live for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/539090-9780307759313-we-live-too-short-and-die-too-long/"><u>We Live Too Short and Die Too Long | Free Book</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ssdwindows-server-201n/"><u>スピーディな方法で、SSDへのWindows Server 201Nコピー手順</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-in-video-capture-2024s-top-picks/"><u>[New] Excellence in Video Capture 2024'S Top Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>[New] Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-bring-your-ideas-to-life-in-win-movie-maker/"><u>[New] How to Bring Your Ideas to Life in Win Movie Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-easy-free-uncovering-the-best-10-image-converters/"><u>[Updated] Fast, Easy, FREE Uncovering the Best 10 Image Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-effectively-download-huge-quantities-of-tiktok-content/"><u>[Updated] How to Effectively Download Huge Quantities of TikTok Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-resolve-airdrop-hurdles-on-any-apple-device/"><u>[Updated] How to Resolve Airdrop Hurdles on Any Apple Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illustration-revolution-adding-depth-to-text-with-3d/"><u>[Updated] Illustration Revolution Adding Depth to Text with 3D</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-enthusiastic-exchanges-chatting-with-your-subscribers/"><u>[Updated] In 2024, Enthusiastic Exchanges Chatting With Your Subscribers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-6-video-tactics-for-captivating-audiences-for-2024/"><u>[Updated] Top 6 Video Tactics for Captivating Audiences for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-list-of-10-best-zero-cost-srt-conversion-software-for-2024/"><u>[Updated] Ultimate List of 10 Best Zero-Cost Srt Conversion Software for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-exclusive-top-quintessential-4k-hd-gear-list/"><u>2024 Approved Exclusive Top Quintessential 4K HD Gear List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-pc-reset-restore-your-windows-pro-version-with-these-easy-fixes/"><u>Accidental PC Reset? Restore Your Windows Pro Version with These Easy Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-iphones-for-hardcore-mobile-game-playing/"><u>Best iPhones for Hardcore Mobile Game Playing</u></a></li>
+<li><a href="https://win-net.techidaily.com/guia-paso-a-paso-transferir-archivos-de-programas-entre-unidades-de-almacenamiento-en-windows-11/"><u>Guía Paso a Paso: Transferir Archivos De Programas Entre Unidades De Almacenamiento en Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-brilliant-a-complete-hdr-portrait-guide/"><u>In 2024, From Basic to Brilliant A Complete HDR Portrait Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-acquainted-a-quick-guide-to-windows-11-basics/"><u>In 2024, Get Acquainted A Quick Guide to Windows 11 Basics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigate-the-tiktok-twitter-connection-for-2024/"><u>Navigate the TikTok-Twitter Connection for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-erase-the-blue-screen-with-error-740-in-winos/"><u>Quick Guide to Erase the Blue Screen with Error 740 in WINOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
 </ul></div>
 

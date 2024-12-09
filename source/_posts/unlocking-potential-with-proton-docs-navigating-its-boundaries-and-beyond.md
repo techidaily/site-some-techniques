@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond"
-date: 2024-11-30T01:48:42.492Z
-updated: 2024-12-01T20:03:00.280Z
+date: 2024-12-04T20:56:17.104Z
+updated: 2024-12-09T20:43:40.678Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ## Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![The document editor interface in Proton Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072812.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In my experience, generative text features are only useful if what you're writing needs to be predictable in content and sterile in tone. That's a rare need in my workflow and daily life, so I don't feel I'm missing much by using Proton Docs. Those menu options other apps have with the little "stars" icon that, for some reason, signifies generative AI have become an eyesore to me; there's nothing celestial about those tools.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
  Aside from that, I'm generally optimistic about the direction of the Proton suite. For about five years, [Proton's email](https://extra-guidance.techidaily.com/updated-maximizing-impact-with-googles-podcast-platform/) and VPN services have been mainstays for me. In that time I've had to stick to Google Docs when I needed a collaborative, cloud-based word processor. So I'm looking forward to using Proton Docs as an alternative, and without any pop-ups begging me to let a machine write for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Edit Documents With Proton
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![Screenshot of the Proton Drive menu with annotations pointing to the 'New' button and 'New Document' menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072723.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're then in the document edit mode and can start writing. You can also upload documents made in another editor and click "Open in Docs." There's no support for ODT documents yet, but again, there's still more to come with Proton Docs—just hopefully not involving generative AI.
@@ -68,19 +68,17 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hottest-online-hubs-for-metallic-3d-type-graphics/"><u>[New] Hottest Online Hubs for Metallic 3D Type Graphics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-peering-into-mr-beasts-economic-landscape/"><u>[Updated] In 2024, Peering Into Mr. Beast's Economic Landscape</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/canon-vixia-hf-r800-camcorder-review-modest-price-average-video/"><u>Canon VIXIA HF R800 Camcorder Review: Modest Price, Average Video</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-g203-driver-for-windows-71011/"><u>Download Logitech G203 Driver for Windows 7/10/11</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/easy-guide-adding-e-books-from-your-computer-to-your-kindle-device/"><u>Easy Guide: Adding E-Books From Your Computer to Your Kindle Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-face-edits-leading-iphone-and-android-apps-for-2024/"><u>Expert Face Edits Leading iPhone & Android Apps for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-vivo-s17-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo S17 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basics-to-expertise-3d-lut-creation-for-2024/"><u>From Basics to Expertise 3D LUT Creation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-much-money-can-a-podcaster-make-in-2024/"><u>How Much Money Can a Podcaster Make, In 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-to-trusted-sites-for-youtube-tones/"><u>In 2024, Comprehensive Guide to Trusted Sites for Youtube Tones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-sound-extracting-audio-magic-with-pazera/"><u>In 2024, Freedom in Sound Extracting Audio Magic with Pazera</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-future-is-here-free-innovative-fb-story-enhancers/"><u>In 2024, The Future Is Here Free, Innovative FB Story Enhancers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-video-coders-how-does-av1-stack-up-against-hevc-in-shaping-our-digital-tomorrow/"><u>The Battle of Video Coders: How Does AV1 Stack Up Against HEVC in Shaping Our Digital Tomorrow?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-guide-policy-updates-and-tips-for-2024/"><u>YouTube Earnings Guide - Policy Updates & Tips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-nba-live-streams-15-ways-to-watch-the-action/"><u>[New] Free NBA Live Streams 15 Ways to Watch the Action</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gratitude-freepaid-outro-template-selections/"><u>[New] Gratitude Free/Paid Outro Template Selections</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-add-instagram-filter-to-existing-photos-and-videos-in-2024/"><u>[New] How to Add Instagram Filter to Existing Photos and Videos, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-basics-in-the-realm-of-tale-construction-for-2024/"><u>[Updated] Basics in the Realm of Tale Construction for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-low-light-shots-on-iphone/"><u>[Updated] Conquering Low-Light Shots on iPhone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-crafting-excellent-canon-time-lapse-visuals/"><u>[Updated] In 2024, Crafting Excellent Canon Time-Lapse Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-simplified-nft-designing-guide/"><u>2024 Approved First Steps in Simplified NFT Designing Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hacking-the-meme-game-master-kinemaster-skills/"><u>2024 Approved Hacking the Meme Game Master KineMaster Skills</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-epson-wf-2630-driver-for-multiple-windows-versions-7-81-10/"><u>Easy Install: Epson WF 2630 Driver for Multiple Windows Versions (7, 8.1, 10)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extensive-appraisal-a-look-into-bublcam-360-for-2024/"><u>Extensive Appraisal A Look Into Bublcam 360 for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-meizu-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Meizu Phone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-converting-mkv-videos-to-avi-format-and-embedding-subtitles/"><u>Step-by-Step Guide: Converting MKV Videos to AVI Format and Embedding Subtitles</u></a></li>
 </ul></div>
 

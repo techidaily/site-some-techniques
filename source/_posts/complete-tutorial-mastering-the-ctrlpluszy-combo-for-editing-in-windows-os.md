@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS"
-date: 2024-11-25T00:18:32.330Z
-updated: 2024-12-02T01:41:56.126Z
+date: 2024-12-06T20:29:04.805Z
+updated: 2024-12-09T22:05:15.248Z
 tags:
   - deals
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ## Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Undo and (Sometimes) Redo Using Your Keyboard](https://www.howtogeek.com/766591/how-to-undo-and-redo-on-a-windows-pc/#how-to-undo-and-sometimes-redo-using-your-keyboard)
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
  If you've made a mistake on your Windows 10 or Windows 11 PC and would like to go back a step, it's easy to use the built-in "Undo" command. Similarly, you can sometimes also perform a "Redo" action to restore what you just undid. Here's how to perform both actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Undo and (Sometimes) Redo Using Your Keyboard
@@ -36,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
 
  Also, in many applications—such as Microsoft Office apps—you can press Ctrl+Y or F4 on your keyboard to Redo the action you just undid. Another combination that is frequently redo is Ctrl+Alt+Z. 
 
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
 
@@ -64,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
 
 ![The "Redo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_redo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Other apps with different toolbar interfaces will likely have different designs for their undo or redo buttons. In general, look for a curved arrow pointing to the left for "Undo." You can also try right-clicking in a text entry area and looking for an "Undo" option. Or, when all else fails, try pressing Ctrl+Z on your keyboard.
@@ -93,18 +93,24 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>[New] Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-boost-love-odds-expert-tips-for-compelling-tinder-profiles/"><u>2024 Approved Boost Love Odds Expert Tips for Compelling Tinder Profiles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>2024 Approved GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-profits-ensuring-proper-youtube-channel-monetization/"><u>2024 Approved Maximizing Profits Ensuring Proper YouTube Channel Monetization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-picture-the-essence-of-google-podcasts-app-for-2024/"><u>Full Picture The Essence of Google Podcasts App for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-audio-preservation-for-academics-on-apple-systems/"><u>In 2024, Audio Preservation for Academics on Apple Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-navigating-zoom-for-webinars-and-livestreams-for-2024/"><u>In-Depth Analysis Navigating Zoom for Webinars and Livestreams for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/itel-s23plus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel S23+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamline-your-pc-bypassing-quick-fixes-for-windows-cannot-install/"><u>Streamline Your PC: Bypassing Quick Fixes for 'Windows Cannot Install'</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-allure-of-benq-sw320-4k-pro-display/"><u>The Allure of BenQ SW320 4K Pro Display</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-free-and-paid-tools-master-your-google-meet-sessions/"><u>[New] 2024 Approved Free & Paid Tools Master Your Google Meet Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-choice-peak-business-space/"><u>[New] Expert's Choice Peak Business Space</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-best-free-screen-recorder-tool-bandicam-or-camtasia/"><u>[New] In 2024, The Best Free Screen Recorder Tool Bandicam or Camtasia?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cross-platform-content-transfer-youtube-meets-facebook-for-2024/"><u>[Updated] Cross-Platform Content Transfer YouTube Meets Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>[Updated] Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmmakers-choice-converting-avi-files-to-gif-via-filmora-software-windowsmac/"><u>[Updated] Filmmaker's Choice Converting AVI Files to GIF via Filmora Software (Windows/Mac)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-visually-striking-fb-ad-videos/"><u>2024 Approved Crafting Visually Striking FB Ad Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-images-uncovered-histories/"><u>2024 Approved Iconic Images Uncovered Histories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-worlds-best-live-streaming-sites/"><u>2024 Approved In-Depth Look at World's Best Live Streaming Sites</u></a></li>
+<li><a href="https://facebook.techidaily.com/cease-all-mass-notification-on-facebook/"><u>Cease All Mass Notification on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-and-sharing-custom-contact-flyers-in-ios-17-using-namedrop-a-step-by-step-guide/"><u>Crafting and Sharing Custom Contact Flyers in iOS 17 Using NameDrop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-evolved-beauty-of-fractals-north-xl-an-expanded-review-for-gaming-rigs/"><u>Exploring the Evolved Beauty of Fractal's North XL - An Expanded Review for Gaming Rigs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-tweeted-videos-to-downloadable-mp3-files-for-2024/"><u>From Tweeted Videos to Downloadable MP3 Files for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighting-key-developments-in-windows-movie-maker-releases-for-2024/"><u>Highlighting Key Developments in Windows Movie Maker Releases for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-redmi-note-12r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Redmi Note 12R Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-finest-yt-unboxing-sequences/"><u>In 2024, Explore the Finest YT Unboxing Sequences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-film-enhancements-15-best-luts-to-boost-gopro-cinematography/"><u>In 2024, Film Enhancements 15 Best LUTs to Boost GoPro Cinematography</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rotate-your-iphone-videos-for-free-top-5-apps/"><u>New In 2024, Rotate Your iPhone Videos for Free Top 5 Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-itel-p55t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel P55T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

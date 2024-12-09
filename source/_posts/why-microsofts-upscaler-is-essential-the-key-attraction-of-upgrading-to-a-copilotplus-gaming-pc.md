@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-11-25T21:10:46.989Z
-updated: 2024-12-02T03:46:58.834Z
+date: 2024-12-05T18:43:34.427Z
+updated: 2024-12-09T18:57:16.669Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ## Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Auto SR Is Here, and It Looks Promising](https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-y27s-by-fonelab-android-recover-video/)
@@ -19,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Auto SR Is Here, and It Looks Promising
 
  Microsoft Auto SR is finally here and, while [the initial demo](https://devblogs.microsoft.com/directx/autosr/) doesn’t include any video of the tech in action, I’ve got to say that Auto SR does look pretty darn solid, while also bringing pretty respectable performance gains.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 ![Two Borderlands 3 screenshots showing a native and an upscaled image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
@@ -61,16 +61,12 @@ Microsoft/Gearbox
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
@@ -83,6 +79,10 @@ Microsoft/Gearbox
  Also, since Auto SR isn’t baked into games, you can expect lower details of the HUD and other graphics user interface (GUI) elements. With DLSS, FSR, and XeSS, the game is upscaled first, and GUI elements are added later, allowing them to be rendered at native resolution. But Auto SR renders GUI elements at a lower resolution and then upscales them, resulting in worse-looking HUD and other GUI elements—maps, icons, menus, and so on.
 
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It Just Works (In Supported Games)
 
@@ -119,14 +119,24 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-top-business-vault/"><u>[New] Exclusive List Top Business Vault</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdrs-edge-pushing-video-production-to-new-heights/"><u>[New] HDR's Edge Pushing Video Production to New Heights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-shade-modifier-software/"><u>[Updated] Ideal Shade Modifier Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-11/"><u>2024 Approved How to Add Titles/Text to Video on Microsoft Photos in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-chaos-to-clarity-picshot-transforms-photo-collages/"><u>From Chaos to Clarity - Picshot Transforms Photo Collages</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s23-fe-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S23 FE Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 6s Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/leveraging-edit-tools-for-youtube-videos-post-publishment/"><u>Leveraging Edit Tools for YouTube Videos Post-Publishment</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-g22-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia G22 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-cost-free-text-animations-onlineoff/"><u>[New] Guide to Cost-Free Text Animations (Online/Off)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>[New] The Symphony of Silence Starting with a Soft Fade In</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-8-instagram-story-filters/"><u>[Updated] 2024 Approved Top 8 Instagram Story Filters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-tier-video-openings-the-best-16-to-grow-your-audience/"><u>[Updated] 2024 Approved Top-Tier Video Openings The Best 16 to Grow Your Audience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[Updated] From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-unveiling-internet-storys-essence/"><u>[Updated] Fundamentals Unveiling Internet Story's Essence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>[Updated] Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-guide-to-effortless-photo-and-video-file-transfers-in-windows-10/"><u>2024 Approved In-Depth Guide to Effortless Photo & Video File Transfers in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-sns-hdr-pros-value-and-comparisons-for-2024/"><u>Evaluating SNS HDR Pro's Value & Comparisons for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-easily-switch-your-flipbook-design-a-complete-guide-flipbuildercom/"><u>How To Easily Switch Your FlipBook Design: A Complete Guide - FlipBuilder.com</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-ensure-the-best-live-experience-with-top-networks-for-2024/"><u>How to Ensure the Best Live Experience with Top Networks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-home-film-expertise-in-a-flash-top-5-diy-tips-for-speed/"><u>In 2024, Home Film Expertise in a Flash Top 5 DIY Tips for Speed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-switch-on-windows-11s-hdr-functionality/"><u>In 2024, How to Switch On Windows 11'S HDR Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-use-luts-in-adobe-after-effect/"><u>In 2024, How to Use LUTs in Adobe After Effect</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/leading-free-internet-tools-for-turning-videos-into-songs-and-podcasts/"><u>Leading Free Internet Tools for Turning Videos Into Songs and Podcasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-through-your-preferred-youtube-viewing-pace-for-2024/"><u>Navigating Through Your Preferred YouTube Viewing Pace for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nulaxy-km18-bluetooth-unit-assessment-reliable-sound-upgrade-for-your-vehicles-radio-system/"><u>Nulaxy KM18 Bluetooth Unit Assessment: Reliable Sound Upgrade for Your Vehicle's Radio System?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-aftermath-of-the-great-leap-forward-in-modern-china-insights-from-yl-software-experts-yl-computing/"><u>The Aftermath of the Great Leap Forward in Modern China - Insights From YL Software Experts | YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-brightness-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Brightness Issues in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-11-24T19:16:48.545Z
-updated: 2024-12-02T05:42:16.470Z
+date: 2024-12-06T20:43:01.458Z
+updated: 2024-12-09T19:44:46.241Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 ---
 
 ## Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
  The conversion from UTC to local time is done by the application, not the system clock. Or, more accurately, the conversion is performed by the time and date libraries that the application is linked to. That's why it is vital that your computer knows which timezone it is, what UTC time is, how many seconds have passed since the Unix epoch, and whether daylight savings time is in effect.
 
  On systemd-based Linux distributions, we use the `timedatectl` command to see or change those settings and values.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Getting Started With timedatectl
 
@@ -82,16 +82,12 @@ timedatectl list-timezones | grep "America/" | less
 
 ![Filtering out American time zones with grep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/4-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
 
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting the Time Zone
@@ -108,7 +104,15 @@ timedatectl
 
 ![New time zone and time settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Manually Setting the Time and Date
 
@@ -132,10 +136,6 @@ timedatectl
 
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
 
  If you have internet access, as soon as you restore the time synchronization service the time is retrieved and all of the details are correctly reset.
@@ -147,7 +147,11 @@ timedatectl
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  RTC: UTC or LTZ?
@@ -165,10 +169,6 @@ timedatectl set-local-rtc 1
 timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I think they've made their feelings clear.
 
@@ -199,21 +199,24 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-in-editing-mastery-a-dive-into-filmoras-best-practices/"><u>[New] Expertise in Editing Mastery A Dive Into Filmora's Best Practices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-best-tiktok-earning-tools-top-earnings-predictors/"><u>[New] In 2024, Best TikTok Earning Tools Top Earnings Predictors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-get-ahead-with-these-must-know-pixlr-techniques/"><u>[Updated] Get Ahead with These Must-Know Pixlr Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-guide-to-3d-color-grading-using-ps-luts/"><u>[Updated] In-Depth Guide to 3D Color Grading Using PS Luts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-simplified-methods-for-google-meet-recordings-for-2024/"><u>[Updated] Simplified Methods for Google Meet Recordings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-scraps-to-stunning-a-photomontage-journey/"><u>2024 Approved From Scraps to Stunning A Photomontage Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>2024 Approved How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-usenet-video-player-direct-streaming-access/"><u>2024 Approved Usenet Video Player Direct Streaming Access</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1142781-9780857010056-chen/"><u>Chen | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-rtx-2070-super-drivers-compatible-with-windows-11-and-earlier-versions/"><u>Get the Newest Nvidia RTX 2070 Super Drivers – Compatible with Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gelatogags-humor-graphics-online/"><u>In 2024, GelatoGags Humor Graphics Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse/"><u>In 2024, How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-realme-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Realme 11 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-eines-iphone-songs-als-klingelton/"><u>Schritt-Für-Schritt-Anleitung Zum Einrichten Eines iPhone-Songs Als Klingelton</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-smart-8-plus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 8 Plus Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-comprehensive-guide-to-premier-gratis-web-design-suites-on-pc/"><u>Your Comprehensive Guide to Premier Gratis Web Design Suites on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-apeaksoft-scrutiny-mastering-the-art-of-screen-capture-review/"><u>[New] 2024 Approved Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-leading-8-android-calling-apps-more-than-four-people/"><u>[New] 2024 Approved Leading 8 Android Calling Apps More Than Four People</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>[New] Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-design-thinking-for-content-creators-crafting-impactful-facebook-reels/"><u>[New] Design Thinking for Content Creators Crafting Impactful Facebook Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-world-of-kinemaster-and-ranking-10-online-competitors/"><u>[New] Explore the World of KineMaster & Ranking 10 Online Competitors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-speed-window-pictorial-interface/"><u>[New] High-Speed Window Pictorial Interface</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-5-web-video-recorders/"><u>[New] In 2024, Top 5 Web Video Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-for-chronological-disruption-in-acting/"><u>[New] Innovative Methods for Chronological Disruption in Acting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-among-us-keeps-crashing-2024-tips/"><u>[SOLVED] Among Us Keeps Crashing – 2024 Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-advanced-multi-screen-browsing-in-chrome/"><u>[Updated] Explore Advanced Multi-Screen Browsing in Chrome</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-simplicity-to-splendor-a-complete-transformation-guide-from-sdr-to-hdr/"><u>[Updated] From Simplicity to Splendor A Complete Transformation Guide From SDR to HDR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-experiences-the-metaverse-explored-through-6-models/"><u>[Updated] Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hues-and-highlights-editing-techniques-for-impact/"><u>2024 Approved Hues & Highlights Editing Techniques for Impact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratuitous-green-backdrops-available-for-2024/"><u>Gratuitous Green Backdrops Available for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-time-lapse-on-samsung-mobile/"><u>How to Make Time Lapse on Samsung Mobile</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-f25-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-key-conduct-criteria-in-the-youtube-sphere/"><u>In 2024, Key Conduct Criteria in the YouTube Sphere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/increasing-visibility-with-strategic-reddit-posts-for-2024/"><u>Increasing Visibility with Strategic Reddit Posts for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolve-issues-with-your-lenovo-laptops-function-key-f11-and-reduce-downtangle/"><u>Resolve Issues with Your Lenovo Laptop's Function Key (F11) and Reduce Downtangle</u></a></li>
 </ul></div>
 

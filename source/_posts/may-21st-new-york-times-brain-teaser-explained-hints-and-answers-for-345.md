@@ -1,7 +1,7 @@
 ---
 title: "May 21St New York Times Brain Teaser Explained: Hints and Answers for #345"
-date: 2024-11-30T05:50:15.530Z
-updated: 2024-12-02T04:48:27.888Z
+date: 2024-12-07T22:31:10.323Z
+updated: 2024-12-09T20:11:30.321Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 ---
 
 ## May 21St New York Times Brain Teaser Explained: Hints and Answers for #345
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -46,16 +42,12 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Purple:** A social media company and a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Are Today's Connections Groups?
 
 ![May 21st's words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
 
@@ -64,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Blue:** Billiards Equipment
 * **Purple:** \_\_\_Book (That's Not a Book)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![May 21st Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Smidgen (Yellow):** 
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 **\_\_\_ Book (That's Not A Book) (Purple):** 
 
  Face, Mac, Match, Pocket
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
 
@@ -128,24 +128,24 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2023-how-to-share-twitter-videos-on-facebook-in-2024/"><u>[Updated] 2023 | How to Share Twitter Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>[Updated] Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>[Updated] From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-hero-the-metaverse-avatar-blueprint/"><u>[Updated] From Zero to Hero The Metaverse Avatar Blueprint</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-best-websites-to-download-game-of-thrones-ringtones/"><u>2024 Approved Best Websites to Download Game of Thrones Ringtones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-pick-prime-drone-gimbals/"><u>2024 Approved Expert Pick Prime Drone Gimbals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-8-premium-websites-for-3d-text-psdfiles/"><u>2024 Approved Explore 8 Premium Websites for 3D Text PSDFiles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>Capturing Screen Content via Built-In Recorders in the Mate and P Series</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-understanding-how-biometrics-work/"><u>Comprehensive Guide to Understanding How Biometrics Work</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gigglegrid-generate-visual-jokes-in-minutes-for-2024/"><u>GiggleGrid Generate Visual Jokes in Minutes for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-realme-11x-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Realme 11X 5G? </u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>In 2024, Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-applications-to-elevate-your-vtubers-sound-identity/"><u>In 2024, Ideal Applications to Elevate Your Vtuber's Sound Identity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/methods-to-preserve-and-reuse-your-chatgpt-outputs/"><u>Methods to Preserve and Reuse Your ChatGPT Outputs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-6-common-auto-ai-integrations-troubleshooting-guide/"><u>Navigating 6 Common Auto AI Integrations Troubleshooting Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-5-text-to-speech-websites-for-2024/"><u>New Top 5 Text to Speech Websites for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-integrating-portable-software-in-w11plus/"><u>Step-by-Step Guide: Integrating Portable Software in W11+</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-magic-5-lite-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor Magic 5 Lite FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-windows-11-video-editing-showcase/"><u>The Ultimate Windows 11 Video Editing Showcase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-conquering-challenges-advanced-hdr-workflows-in-ps/"><u>[New] Conquering Challenges Advanced HDR Workflows in PS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-scripts-for-audio-performances/"><u>[New] Ideal Scripts for Audio Performances</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-tips-for-capturing-gotomeeting-conversations/"><u>[New] In 2024, Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-sifting-through-the-best-video-hosting-options-with-vimeo-memberships/"><u>[New] Sifting Through the Best Video Hosting Options with Vimeo Memberships</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-discerning-the-ideal-audio-elements-for-movie-previews/"><u>[Updated] Discerning the Ideal Audio Elements for Movie Previews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-find-your-favorite-skype-ringtones-with-these-4-websites/"><u>[Updated] Find Your Favorite Skype Ringtones with These 4 Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-techniques-for-garnering-background-visuals/"><u>[Updated] Ideal Techniques for Garnering Background Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac/"><u>[Updated] Innovate How You Connect with Tech Best Text Interpretation Tools on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-fb-ad-campaigns-boosting-patient-care/"><u>[Updated] Innovative FB Ad Campaigns Boosting Patient Care</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-uav-selection-for-optimal-gopro-footage/"><u>2024 Approved Exceptional UAV Selection for Optimal GoPro Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extensive-appraisal-hero4-black-capabilities/"><u>2024 Approved Extensive Appraisal Hero4 Black Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-chords-to-clicks-mastering-music-on-ig/"><u>2024 Approved From Chords to Clicks Mastering Music on IG</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-amd-radeon-r9-graphics-cards-drivers-on-your-windows-pc/"><u>Download & Install AMD Radeon R9 Graphics Cards Drivers on Your Windows PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-foundations-of-virtual-reality-speak/"><u>In 2024, Foundations of Virtual Reality Speak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateur-to-artist-top-8-beginner-camera-selections/"><u>In 2024, From Amateur to Artist Top 8 Beginner Camera Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-transitions-for-professional-videos/"><u>In 2024, Innovative Transitions for Professional Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/incorporate-your-ca-dmv-id-into-iwalletgoogle-pay-simple-steps-for-iphone-and-android-users/"><u>Incorporate Your CA DMV ID Into iWallet/Google Pay: Simple Steps for iPhone & Android Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-selection-of-superior-hexadrones-for-2024/"><u>Ultimate Selection of Superior HexaDrones for 2024</u></a></li>
 </ul></div>
 

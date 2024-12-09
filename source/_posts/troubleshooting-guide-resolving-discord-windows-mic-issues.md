@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-12-01T04:11:56.736Z
-updated: 2024-12-02T02:51:59.429Z
+date: 2024-12-07T16:23:17.524Z
+updated: 2024-12-09T22:02:49.424Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run Discord as an Admin
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  Select "Yes" in the User Account Control prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
  It’s possible the mic is functioning properly but isn’t being recognized by Discord for some reason. To [test your mic](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), open another mic-utilizing app on your PC and see if the mic works.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  If you're on Windows 11, find and launch "Sound Recorder" from the Start Menu. If you're on Windows 10, find and open "Voice Recorder". Then, click Record (a mic icon) or press Ctrl+R and start speaking into your mic.
 
 !['Record' highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-record-voice-sound-recorder.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the app records your voice, the mic is functional. In this case, use the further fixes below. If the app doesn’t record your voice, the mic might be disabled in Windows Settings. [Enable the mic](https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-best-windows-10-photos-alternatives/) using the following steps.
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
@@ -82,11 +82,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and navigate to the User Settings page (the gear icon in the bottom-left). Select "Voice & Video" in the left sidebar, then scroll down in the right pane and choose "Reset Voice Settings."
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
 
@@ -122,19 +122,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-10-video-subtitling-services-online/"><u>[New] Foremost 10 Video Subtitling Services Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-from-fb-videos-to-mp3-the-easy-transformation-path/"><u>[New] In 2024, From Fb Videos to MP3 - The Easy Transformation Path</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-recording-verbal-notes/"><u>[New] Innovative Approaches to Recording Verbal Notes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-avi-media-reader-mobile-and-desktop/"><u>[Updated] High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
-<li><a href="https://article-tips.techidaily.com/break-down-barriers-with-cost-free-vob-player-for-2024/"><u>Break Down Barriers with Cost-Free VOB Player for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-solution-why-isnt-your-minecraft-game-starting/"><u>Comprehensive Solution: Why Isn't Your Minecraft Game Starting?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-11-pro-max-how-to-unlock-a-disabled-iphone-11-pro-max-by-drfone-ios/"><u>Disabled iPhone 11 Pro Max How to Unlock a Disabled iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-your-content-youtube-shorts-are-shown-again-for-2024/"><u>Enjoy Your Content – YouTube Shorts Are Shown Again for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/for-beginners-top-8-point-and-shoot-and-35mm-cameras-for-2024/"><u>For Beginners Top 8 Point-and-Shoot and 35Mm Cameras for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-optimize-your-content-for-higher-views-and-more-likes-for-2024/"><u>How to Optimize Your Content for Higher Views and More 'Likes' For 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-equipment-list-secure-your-zoom-sessions/"><u>In 2024, Essential Equipment List Secure Your Zoom Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infuse-projects-with-sounds-in-adobe-premiere-pro-for-2024/"><u>Infuse Projects with Sounds in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-chronology-on-camera-best-practices-for-date-insertion/"><u>[New] 2024 Approved Chronology on Camera Best Practices for Date Insertion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-formulating-fascinating-film-moments/"><u>[New] Formulating Fascinating Film Moments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-inspection-gopro-silver-hero4-detailed-review/"><u>[New] Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-review-showdown-max-360-vs-hero-11-edition/"><u>[New] GoPro Review Showdown Max 360 VS Hero 11 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-nba-game-broadcasting/"><u>[Updated] Innovative Approaches to NBA Game Broadcasting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-snap-into-the-loop-mastering-boomerangs-for-max-impact-for-2024/"><u>[Updated] Snap Into the Loop Mastering Boomerangs for Max Impact for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-reels-on-instagram/"><u>2024 Approved How to Make Reels on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-vsco-photo-craftsmanship/"><u>2024 Approved In-Depth Look at VSCO Photo Craftsmanship</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-online-portals-for-text-artistry/"><u>2024 Approved Ultimate Guide to Online Portals for Text Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-techniques-for-photo-based-tileworks-for-2024/"><u>Exploring Techniques for Photo-Based Tileworks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/forge-viral-content-adobe-memes-for-2024/"><u>Forge Viral Content Adobe Memes for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-5-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 5 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-fixes-what-to-do-when-your-game-of-fortnite-wont-load/"><u>Mastering Fixes: What to Do When Your Game of Fortnite Won’t Load</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-down-the-gif-to-emphasize-details-better-to-do-so-read-this-guide-and-learn-to-use-the-best-platforms-for-slow-motion-gifs/"><u>New In 2024, Slow Down the GIF to Emphasize Details Better. To Do so, Read This Guide and Learn to Use the Best Platforms for Slow-Motion GIFs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pacing-and-plot-twists-enhanced-with-gpts-9-tips/"><u>Pacing & Plot Twists Enhanced with GPT's 9 Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-libgdk-win32-20-0dll-errors-on-windows/"><u>Troubleshooting Missing libgdk-win32-2.0-0.dll Errors on Windows</u></a></li>
 </ul></div>
 

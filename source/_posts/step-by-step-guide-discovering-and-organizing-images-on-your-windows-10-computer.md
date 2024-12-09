@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2024-11-24T22:16:11.500Z
-updated: 2024-12-01T21:17:51.824Z
+date: 2024-12-08T18:06:26.732Z
+updated: 2024-12-09T17:22:26.141Z
 tags:
   - desktop
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ## Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Find All Your Photos Manually](https://facebook-videos.techidaily.com/from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/)
 * [A Better Way: Let Windows Search Find All Your Photos](https://article-helps.techidaily.com/2024-approved-windowsmacos-execute-and-enjoy-srt-files/)
 * [Use a Third-Party App](https://screen-capture.techidaily.com/updated-in-2024-obs-alternatives-reviewed-by-experienced-broadcinas/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Better Way: Let Windows Search Find All Your Photos
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
@@ -73,12 +73,16 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h32_05-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've located the picture(s) you were looking for, you can right-click it, then select "Open File Location" to open the folder where it's contained.
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use a Third-Party App
@@ -92,10 +96,6 @@ kind:=picture
  The asterisk (\*) is used as a wildcard character. In our case, it tells WizTree: "Look for a file with _any_ name that ends in a specific file format."
 
 ![Click the filter button, enter an image format, then click "Apply Filter."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-include-filter-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
@@ -129,20 +129,19 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-computerized-creativity-unleashed-steps-to-initiate-a-live-show-on-tiktok-for-2024/"><u>[New] Computerized Creativity Unleashed Steps to Initiate a Live Show on TikTok for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hero5-vs-yi-evaluating-cutting-edge-cameras/"><u>[New] Hero5 Vs. YI Evaluating Cutting-Edge Cameras</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-premier-list-visionary-audiovideo-makers-web/"><u>[New] In 2024, The Premier List Visionary Audio/Video Makers Web</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-systems-turning-images-into-dynamic-videos/"><u>[Updated] Expert Systems Turning Images Into Dynamic Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>[Updated] Ideal Editing Tools Best Phones' Options for GoPro Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-beauty-bard-in-depth-gear-and-tutorial-roundups/"><u>[Updated] The Beauty Bard In-Depth Gear & Tutorial Roundups</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-top-tools-for-dynamic-image-background-alterations/"><u>10 Top Tools for Dynamic Image Background Alterations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-strategies-for-captivating-handc-fb-campaigns/"><u>2024 Approved Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/color-grading-made-simple-photoshop-guide/"><u>Color Grading Made Simple Photoshop Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-smooth-cross-sounding-with-audacity-for-2024/"><u>Expert Tips for Smooth Cross-Sounding with Audacity for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-beyond-youtube-elite-video-sharing-hubs-revealed/"><u>In 2024, Beyond YouTube Elite Video Sharing Hubs Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>In 2024, In Search of Quality Identifying the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-10-solutions-for-seamless-video-background-swapping/"><u>In 2024, Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-skyrocket-with-subscribers-5-proven-methods-for-igtv-success/"><u>In 2024, Skyrocket with Subscribers 5 Proven Methods for IGTV Success</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-solving-beyond-the-bluetooth-microphone-malfunction-issues/"><u>Ultimate Repair Guide: Solving 'Beyond the Bluetooth - Microphone Malfunction' Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hosting-charismatic-chats-keeping-audiences-hooked-live/"><u>[New] Hosting Charismatic Chats Keeping Audiences Hooked Live</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-effectively-move-files-between-two-ios-units/"><u>[New] How to Effectively Move Files Between Two iOS Units</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-watch-record-and-edit-football-matches-for-free/"><u>[New] How to Watch, Record, and Edit Football Matches for Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-husqvarnas-sky-high-adventure-with-h501s-x4-review/"><u>2024 Approved Husqvarna's Sky-High Adventure with H501S X4 Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-comprehensive-guide-to-precision-screen-capture/"><u>2024 Approved The Comprehensive Guide to Precision Screen Capture</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-step-by-step-youtube-editing-walkthrough/"><u>2024 Approved The Ultimate Step-by-Step YouTube Editing Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-find-x6-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Find X6 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y200-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y200 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>In 2024, Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-raw-images-to-stunning-photos-your-guide-to-iphone-photomosaic-creation/"><u>In 2024, From Raw Images to Stunning Photos Your Guide to iPhone Photomosaic Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-invisible-footprints-tech-review/"><u>In 2024, Invisible Footprints Tech Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-dxgierrordevicehung-efficient-solutions-explored/"><u>Quick Fixes for 'DXGI_ERROR_DEVICE_HUNG': Efficient Solutions Explored</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-list-of-trending-instagram-hashtags-for-success/"><u>The Ultimate List of Trending Instagram Hashtags for Success</u></a></li>
 </ul></div>
 

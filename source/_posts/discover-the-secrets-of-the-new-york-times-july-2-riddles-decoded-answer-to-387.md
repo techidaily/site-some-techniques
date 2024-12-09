@@ -1,7 +1,7 @@
 ---
 title: Discover the Secrets of The New York Times' July 2 Riddles - Decoded Answer to #387!
-date: 2024-11-24T17:26:11.391Z
-updated: 2024-12-01T17:54:01.631Z
+date: 2024-12-05T20:41:12.130Z
+updated: 2024-12-09T18:06:52.609Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Discover the Secrets of The New York Times' July 2 Riddles - Decoded Answer to #387!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![July 2 Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-2-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -58,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** \_\_\_\_ Game
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -81,10 +81,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Arcade, Blame, Numbers, Squid
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  July 2nd wasn't too bad, and I certainly struggled less than yesterday. 
@@ -96,6 +92,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Caveat, Ergo, Quid, and Vox don't have much in common other than being Latin terms, so I assumed they belonged to the Purple group. That guess was wrong, but they were in a group—Blue, "Latin Words." 
 
  That left arcade, blame, numbers, and squid. I'm not sure I would have seen the connection earlier, but with only the 4 words alone, I realized they were all types of "games." Purple was properly titled "\_\_\_\_\_ Game." 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -125,22 +125,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-curating-striking-instagram-profile-photos/"><u>[New] Curating Striking Instagram Profile Photos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-scripting-your-storys-visual-heartbeat-at-home/"><u>[New] In 2024, Scripting Your Story's Visual Heartbeat at Home</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experts-pathway-navigating-fullscreen-realms-in-premiere-pro/"><u>[Updated] Expert's Pathway Navigating Fullscreen Realms in Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-best-free-and-paid-videomosaic-apps-for-android-enthusiasts/"><u>[Updated] Exploring the Best Free & Paid Videomosaic Apps for Android Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flipping-photo-lightness-for-an-alternate-look/"><u>[Updated] Flipping Photo Lightness for an Alternate Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero4-black-vs-drift-ghost-s/"><u>[Updated] GoPro Hero4 Black VS Drift Ghost-S</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-best-vr-and-action-cameras-beyond-gopros-realm/"><u>2024 Approved Best VR and Action Cameras Beyond GoPro's Realm</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-memes-with-virality-factor/"><u>2024 Approved Infusing Memes with Virality Factor</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-instagram-live-broadcasting-unseen-and-unknown/"><u>2024 Approved Instagram Live Broadcasting Unseen and Unknown</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluating-minecraft-realms-value-is-investing-in-multiplayer-mmo-beneficial/"><u>Evaluating Minecraft Realm's Value - Is Investing in Multiplayer MMO Beneficial?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ignite-your-screenplay-essential-wins11-apps-and-games-for-2024/"><u>Ignite Your Screenplay Essential Wins11 Apps & Games for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-everything-you-need-to-know-before-upgrading-to-windows-10/"><u>In 2024, Everything You Need To Know Before Upgrading To Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-are-podcasters-paid/"><u>In 2024, How Are Podcasters Paid?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-12-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 12</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-maximize-viewership-with-smart-and-stylish-titles/"><u>In 2024, Maximize Viewership With Smart and Stylish Titles</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-revitalize-your-photos-bringing-back-photo-viewer-in-win-11/"><u>In 2024, Revitalize Your Photos Bringing Back Photo Viewer in Win 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-the-role-youtube-shorts-music-plays/"><u>Learn the Role YouTube Shorts Music Plays</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-vr-gear-top-10-pc-headsets-2023-edition/"><u>[New] 2024 Approved VR Gear Top 10 PC Headsets, 2023 Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ringtone-archive-iphone-2024-edition/"><u>[New] Ringtone Archive IPhone 2024 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flawlessbackgroundfixer-premium-photo-editing-app/"><u>[Updated] FlawlessBackgroundFixer Premium Photo Editing App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ice-capped-inspiration-chinas-sports-spectacle/"><u>2024 Approved Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review-for-2024/"><u>From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ffmpeg-audio-review-can-ffmpeg-extract-audio-in-original-format/"><u>In 2024, FFmpeg Audio Review Can FFmpeg Extract Audio in Original Format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/limpact-de-lia-sur-le-devouement-au-travail-acces-simplifie-aux-donnees-contraires-documents/"><u>L'impact De L'IA Sur Le Dévouement Au Travail | Accès Simplifié Aux Données Contraires Documents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-exe-file-failure-fixing-applications-that-have-crashed/"><u>Resolved: Exe File Failure - Fixing Applications That Have Crashed</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/roblox-error-524-resolved-simple-solutions-for-a-smoother-gaming-experience/"><u>Roblox Error 524 Resolved: Simple Solutions for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-daily-tasks-with-chatgpt-top-9-benefits/"><u>Simplify Daily Tasks with ChatGPT: Top 9 Benefits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-icons-demystified-everything-you-need-to-know-about-their-significance/"><u>Snapchat Icons Demystified: Everything You Need to Know About Their Significance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-10-best-small-personal-gps-trackers-a-detailed-comparative-study-to-help-you-choose-the-right-size-for-safety-and-convenience/"><u>Top 10 Best Small Personal GPS Trackers - A Detailed, Comparative Study to Help You Choose the Right Size for Safety and Convenience</u></a></li>
 </ul></div>
 

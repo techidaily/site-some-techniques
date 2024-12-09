@@ -1,7 +1,7 @@
 ---
 title: Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
-date: 2024-11-30T02:35:04.113Z
-updated: 2024-12-01T21:06:48.653Z
+date: 2024-12-03T19:39:32.395Z
+updated: 2024-12-09T20:20:03.983Z
 tags:
   - desktop
 categories:
@@ -11,20 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is FTP?](https://instagram-clips.techidaily.com/updated-spotting-the-top-10-covert-instagram-story-spectators-for-2024/)
 * [Download an Alternative File Manager](https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/)
 * [How to Activate the FTP Server](https://extra-information.techidaily.com/best-buddy-list-in-the-virtual-realm-games/)
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,11 +26,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is FTP?
 
  FTP stands for "File Transfer Protocol." Developer Abhay Bhushan created the protocol way back in 1971\. He was inducted into the Internet Hall of Fame in 2023.
 
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Download an Alternative File Manager
 
@@ -49,7 +49,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -77,7 +77,7 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
@@ -85,7 +85,7 @@ Close
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
@@ -111,20 +111,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-moments-on-facebook-beyond-the-screen/"><u>[New] Capturing Moments on Facebook Beyond the Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-pre-windows-10-era-to-windows-11-now/"><u>[Updated] From Pre-Windows 10 Era To Windows 11 Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-performance-graphics-for-uhd-media/"><u>[Updated] Highest Performance Graphics for UHD Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-windows-11s-photo-quality-filter-options-and-music-playlists/"><u>[Updated] Immerse in Windows 11'S Photo Quality Filter Options and Music Playlists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-vob-player-for-pc-and-mac/"><u>2024 Approved Free VOB Player for PC and Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-10-virtual-photo-backdrop-modifiers/"><u>2024 Approved Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/combat-your-intel-processors-instability-get-the-new-patch-from-msi-and-asrock-available-on-asus-rog-motherboards-too/"><u>Combat Your Intel Processor's Instability: Get the New Patch From MSI and ASRock, Available on Asus ROG Motherboards Too!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-non-apple-keyboards-compatible-with-your-mac-expert-picks/"><u>Discover the Top Non-Apple Keyboards Compatible with Your Mac: Expert Picks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/hack-the-art-of-instagram-reels-creation/"><u>Hack the Art of Instagram Reels Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-light-and-motion-for-gopro-time-lapse-magic-for-2024/"><u>Harnessing Light and Motion for GoPro Time-Lapse Magic for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-12-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 12</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminated-imagery-standing-out-in-the-visual-field-for-2024/"><u>Illuminated Imagery Standing Out in the Visual Field for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-driver-installation-complete/"><u>Print Driver Installation Complete</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-game-volume-how-to-get-back-fortnites-forgotten-sounds/"><u>Restore Game Volume: How To Get Back Fortnite's Forgotten Sounds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-14-pro-max-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 14 Pro Max Is Unlocked</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uilding-a-powerhouse-business-channel-in-under-5-minutes-for-2024/"><u>[New] Building a Powerhouse Business Channel in Under 5 Minutes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaming-and-video-content-showdown-twitch-and-youtube-compared/"><u>[New] Gaming and Video Content Showdown Twitch & YouTube Compared</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-your-love-for-filmora-editors-best-features/"><u>[Updated] Exploring Your Love for Filmora Editor's Best Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-vob-player-for-pc-and-mac/"><u>[Updated] Free VOB Player for PC and Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-cost-free-text-animations-onlineoff/"><u>[Updated] Guide to Cost-Free Text Animations (Online/Off)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-natural-light-for-iphone-photography/"><u>[Updated] Harness Natural Light for iPhone Photography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-exclusive-list-of-8-best-apps-to-enhance-facebook-likes/"><u>[Updated] In 2024, Exclusive List of 8 Best Apps To Enhance Facebook Likes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-successful-techniques-to-download-videos-from-mailru/"><u>1. Successful Techniques to Download Videos From Mail.ru</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photographic-albums-with-background-music/"><u>2024 Approved Photographic Albums with Background Music</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveil-the-leading-10-hidden-story-viewers/"><u>2024 Approved Unveil the Leading 10 Hidden Story Viewers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-buzz-surrounding-the-next-gen-google-pixel-fold-rumored-costs-launch-windows-and-specs-leak-preview/"><u>Deciphering the Buzz Surrounding the Next-Gen Google Pixel Fold : Rumored Costs, Launch Windows & Specs Leak Preview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero-5-in-action-an-in-depth-analysis-for-2024/"><u>Hero 5 in Action An In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-overcome-the-endless-attempting-data-recovery-hurdle-in-iphones/"><u>How to Overcome the Endless 'Attempting Data Recovery' Hurdle in iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/imagetangle-the-premier-montage-engineer-for-2024/"><u>ImageTangle The Premier Montage Engineer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-humor-in-content-simple-text-meme-creation/"><u>In 2024, Infuse Humor in Content Simple Text Meme Creation</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/premium-infiniti-qx50-image-collection-for-screens-created-with-yl-software/"><u>Premium Infiniti QX50 Image Collection for Screens - Created with YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-correcting-windows-11-login-mishaps/"><u>Preventing & Correcting Windows 11 Login Mishaps</u></a></li>
 </ul></div>
 

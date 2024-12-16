@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx08_run.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07a_uninstall_cowsay.png">
-<meta property="article:published_time" content="2024-12-07T13:37:35.425Z">
-<meta property="article:modified_time" content="2024-12-09T13:38:33.677Z">
+<meta property="article:published_time" content="2024-12-11T16:03:47.600Z">
+<meta property="article:modified_time" content="2024-12-15T08:40:08.910Z">
 <meta property="article:author" content="Frank">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -719,15 +719,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-07 21:37:35</span>
-        <span class="mobile">2024-12-07 21:37:35</span>
+        <span class="desktop">2024-12-12 00:03:47</span>
+        <span class="mobile">2024-12-12 00:03:47</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-09 21:38:33</span>
-            <span class="mobile">2024-12-09 21:38:33</span>
+            <span class="desktop">2024-12-15 16:40:08</span>
+            <span class="mobile">2024-12-15 16:40:08</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -778,7 +778,7 @@
 
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="Master-the-Art-of-Using-Pipx-for-Easy-Python-App-Deployment"><a href="#Master-the-Art-of-Using-Pipx-for-Easy-Python-App-Deployment" class="headerlink" title="Master the Art of Using Pipx for Easy Python App Deployment"></a>Master the Art of Using Pipx for Easy Python App Deployment</h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="Key-Takeaways"><a href="#Key-Takeaways" class="headerlink" title="Key Takeaways"></a>Key Takeaways</h3><ul>
@@ -787,15 +787,15 @@
 <li>With pipx, you can install Python CLI apps, run them just like standard Linux commands, and even uninstall them easily. It’s a convenient tool for managing and expanding your app library.</li>
 </ul>
 <p> There are a ton of useful Python CLI apps out there, but installation isn’t always as easy as it seems. Let’s take a look at how pipx can make it easy to install and manage them.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Why-Python-Apps-Are-Tricky"><a href="#Why-Python-Apps-Are-Tricky" class="headerlink" title="Why Python Apps Are Tricky"></a>Why Python Apps Are Tricky</h2><p> Installing Python apps can get hairy pretty quickly. <a class="link"   target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/024-approved-conveniently-connect-with-others-via-your-playlist/" >Python <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is a versatile language, and often the first people learn. Browsing <a class="link"   target="_blank" rel="noopener" href="https://github.com/" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or <a class="link"   target="_blank" rel="noopener" href="https://pypi.org/" >PyPI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>—the Python Package Index—you can find tons of useful apps alongside programming libraries. Since it’s become so ubiquitous, there are a lot of folks contributing code, along with a mixture of instructions to install them.</p>
 <p> Most installation instructions tell you to install using pip, the package manager for python. Comparable to <a class="link"   target="_blank" rel="noopener" href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/" >apt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and yum for Linux, it uses PyPI as its repository and allows you to install libraries for your code as well as complete applications written in Python. However, installing software via the instance of pip that’s on your system can cause conflicts with the packages already owned and managed by your regular package manager. Most Linux distributions these days utilize and depend on python and associated packages in order to run operating system functions, and other core software often relies on specific versions of certain libraries.</p>
 <p> I strongly discourage installing software at a system level with <strong>sudo pip install</strong> because this can cause conflicts with your system’s package manager and result in broken functionality, or in the worst case situation, a non-booting system. I’m not alone in this, either, as <a class="link"   target="_blank" rel="noopener" href="https://realpython.com/python-virtual-environments-a-primer/#why-do-you-need-virtual-environments" >RealPython <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and the <a class="link"   target="_blank" rel="noopener" href="https://virtualenv.pypa.io/en/latest/" >virtualenv documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> recommend this, and even the <a class="link"   target="_blank" rel="noopener" href="https://docs.python.org/3/tutorial/venv.html" >official Python docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> call out the issue.</p>
 <p> Another option is to install at a user level with <strong>pip install –user</strong>, but not every package works flawlessly that way. Dependencies are still installed system-wide for that user, which can still cause problems as well.</p>
 <p> The Python community recommends using something called a virtual environment—often referred to as venvs—to create isolated folders that include all the required parts of a project to work, but using them when you’re not familiar with the process can be very frustrating, especially if you’re trying to script things. These are just some of the challenges users might face getting Python apps working on their system.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="pipx-to-the-Rescue"><a href="#pipx-to-the-Rescue" class="headerlink" title="pipx to the Rescue"></a>pipx to the Rescue</h2><p> To solve our problems, we can use an application called pipx. This is a user-friendly alternative to pip that’s aimed at end-users instead of programmers. It creates the virtual environments for you, installs the dependencies, and makes the programs available system-wide—all without requiring sudo privileges on your system as well. It also manages your installed python apps for you, making it easy to add, upgrade, or remove them as you see fit.</p>
 <p> Since pipx isn’t intended for programmers, it doesn’t support some of the critical features you’d want while developing, like installing editable packages for testing. This is strictly for users!</p>
 <p> To install pipx, the most straightforward way is to use your system’s package manager. First, let’s make sure the required packages are installed. If you’re on a Debian-based distribution like Ubuntu, you can use apt.</p>
@@ -806,6 +806,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx01_update_install_deps-1.png"
                       alt="installing python3-venv and python3-pip"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> This will install the core packages for virtual environments and the pip package manager. Many Linux distributions will have these preinstalled, but not all. Crucially, versions of Debian and Ubuntu don’t guarantee those packages will be preinstalled, so if you’re on those distros you should run the above commands. If you’re on a different distribution, use your relevant package manager, whether that’s yum, pacman, or even brew.</p>
 <p> Next, we can install the pipx package itself.</p>
 <p><img  
@@ -814,10 +818,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx03_install_pipx.png"
                       alt="terminal window showing &#39;sudo apt install pipx&#39; command"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p>sudo apt install pipx</p>
 <p> Lastly, we want to make sure that pipx is hooked into our path, so that installed apps will launch the same way all others do. We just need to run this pipx command:</p>
 <p>pipx ensurepath</p>
@@ -838,10 +838,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07_cowsay_command.png"
                       alt="terminal window that shows the output of the cowsay command, a cow saying &#39;Welcome to How-To Geek!&#39;"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> You can use the Python app just as if it was a standard Linux command or app we installed. Under the hood, it’s running in its own virtual environment, and any dependencies are separated and kept away from our core operating system.</p>
 <p> If you need to run an app just once, and you don’t want to worry about installing and uninstalling, pipx has a run mode that handles that for you as well.</p>
 <p>pipx run speedtest-cli</p>
@@ -852,7 +848,7 @@
                       alt="terminal output of the speedtest command showing the bandwidth of the internet connection"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> You can also provide arguments for the app, so you can run specific commands. There are some caveats to the formatting, so be sure to check out the <a class="link"   target="_blank" rel="noopener" href="https://pipx.pypa.io/stable/docs/#pipx-run" >official pipx documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -864,6 +860,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png"
                       alt="terminal window with the output of the pipx list command which shows only cowsay is installed"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You can see that <strong>speedtest-cli</strong> is not installed, but <strong>cowsay</strong> is still present on our system.</p>
 <p> You can also uninstall the cowsay app easily.</p>
 <p>pipx uninstall cowsay</p>
@@ -888,23 +888,23 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-screen-zooming-on-microsoft-teams/"><u>[New] Expert Guide to Screen Zooming on Microsoft Teams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[Updated] Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hds-radiance-reviewed-does-it-merit-the-hdr-label/"><u>[Updated] HD's Radiance Reviewed Does It Merit the HDR Label?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/updated-high-resolution-revelations-comparing-ultrawide-and-uhd-4k-screens/"><u>[Updated] High-Resolution Revelations Comparing UltraWide and UHD 4K Screens</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/approved-beware-the-risk-in-fake-followers-on-youtube/"><u>2024 Approved Beware The Risk in Fake Followers on YouTube</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/2024-approved-fully-encompassed-angle-gearing/"><u>2024 Approved Fully Encompassed Angle Gearing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-culmination-in-virtual-ventures/"><u>2024 Approved Ideal Culmination in Virtual Ventures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>2024 Approved In-Depth Look UltraEdit Pro for Video Cutting 2023</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/ing-a-legacy-youtubers-playbook-for-success/"><u>Crafting a Legacy YouTuber’s Playbook for Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extracting-visuals-in-windows-11-photos-for-2024/"><u>Extracting Visuals in Windows 11 Photos for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-6s-how-to-unlock-a-disabled-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 6s How to Unlock a Disabled iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>In 2024, Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/independent-evaluation-the-3dr-solo-experience-for-2024/"><u>Independent Evaluation The '3DR' Solo Experience for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/ating-youtubes-featured-slot-a-detailed-explanimation/"><u>Navigating YouTube's Featured Slot A Detailed Explanimation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-solutions.techidaily.com/overcoming-startup-hurdles-a-solution-to-the-persistent-origin-wont-open-in-modern-windows-os/"><u>Overcoming Startup Hurdles: A Solution to the Persistent 'Origin Won't Open' In Modern Windows OS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/personalize-ai-communication-training-chatgpt-in-your-unique-writing-persona/"><u>Personalize AI Communication: Training ChatGPT in Your Unique Writing Persona</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://driver-error.techidaily.com/swift-correction-of-ndis-anomalies-on-windows/"><u>Swift Correction of NDIS Anomalies on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/usting-the-top-10-vloggers-fears-strategies-for-success-for-2024/"><u>[New] Busting the Top 10 Vloggers' Fears Strategies for Success for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/new-navigating-the-complex-world-of-video-text-implementation-vimeo-for-2024/"><u>[New] Navigating the Complex World of Video Text Implementation (Vimeo) for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/updated-boosting-efficiency-creating-speed-driven-google-collages-for-2024/"><u>[Updated] Boosting Efficiency Creating Speed-Driven Google Collages for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-generation-top-ten-templates-for-viral-effect/"><u>2024 Approved Giggle Generation Top Ten Templates for Viral Effect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>2024 Approved How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-transform-faithful-chants-into-personalized-tones/"><u>2024 Approved How to Transform Faithful Chants Into Personalized Tones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-examination-of-googles-ar-sticker-technology-and-alternatives/"><u>2024 Approved In-Depth Examination of Google's AR Sticker Technology & Alternatives</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/2024-approved-master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content/"><u>2024 Approved Master the Art of Attraction Secrets to Viral TikTok Unboxing Content</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techno-recovery.techidaily.com/essential-errors-to-dodge-when-using-the-apple-vision-pro-protect-your-investment-with-these-crucial-tips/"><u>Essential Errors to Dodge When Using the Apple Vision Pro: Protect Your Investment with These Crucial Tips</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techno-recovery.techidaily.com/evaluating-the-jackery-explorer-2000-pro-a-trade-off-between-ample-power-and-convenient-mobility/"><u>Evaluating the Jackery Explorer 2000 Pro: A Trade-Off Between Ample Power and Convenient Mobility?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-asmrists-praised-by-insomniacs-for-2024/"><u>Expert ASMRists Praised by Insomniacs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/export-troubleshooting-saving-your-premieres-srt-data-for-2024/"><u>Export Troubleshooting Saving Your Premiere's SRT Data for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/five-iphone-podcast-services-to-streaming-for-2024/"><u>Five iPhone Podcast Services to Streaming for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focused-adventure-getting-up-close-in-roblox-landscapes-for-2024/"><u>Focused Adventure Getting Up Close in Roblox Landscapes for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/24-dj-delight-choosing-ultimate-event-videos/"><u>In 2024, DJ Delight Choosing Ultimate Event Videos</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/iphone-7-perfect-methods-for-screen-recording/"><u>IPhone 7 Perfect Methods for Screen Recording</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/unravel-chatgpts-current-operational-status/"><u>Unravel ChatGPT's Current Operational Status</u></a></li>
 </ul></div>
 
 
@@ -917,11 +917,11 @@
         <li><strong>Title:</strong> Master the Art of Using Pipx for Easy Python App Deployment</li>
         <li><strong>Author:</strong> Frank</li>
         <li><strong>Created at
-                :</strong> 2024-12-07 21:37:35</li>
+                :</strong> 2024-12-12 00:03:47</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-09 21:38:33
+                    :</strong> 2024-12-15 16:40:08
             </li>
         
         <li>
@@ -961,13 +961,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/upcoming-iphones-to-support-in-app-payments-via-third-party-applications/"
+                        href="/updated-explore-unlimited-access-to-fcp/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Upcoming iPhones to Support In-App Payments via Third-Party Applications</span>
+                                <span class="post-nav-title-item">[Updated] Explore Unlimited Access to FCP</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -977,10 +977,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/guide-to-disable-recommended-podcast-features-in-spotify-for-2024/"
+                        href="/updated-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Guide to Disable Recommended Podcast Features in Spotify for 2024</span>
+                                <span class="post-nav-title-item">[Updated] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

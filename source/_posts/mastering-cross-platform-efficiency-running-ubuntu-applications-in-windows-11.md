@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-12-07T21:07:27.163Z
-updated: 2024-12-09T16:43:20.732Z
+date: 2024-12-11T19:21:45.459Z
+updated: 2024-12-15T21:16:14.016Z
 tags:
   - deals
 categories:
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -48,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -69,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  After Ubuntu 22.04.3 LTS has finished installing on Windows 11, access the Windows Start Menu, search for "Ubuntu 22.04.3 LTS," and launch it. Upon its first launch, Ubuntu will automatically configure itself and prepare for use.
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
@@ -91,16 +95,12 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
 
@@ -117,11 +117,11 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -179,19 +179,22 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-meme-madness-twitters-funniest-video-threads/"><u>[New] 2024 Approved Meme Madness Twitter's Funniest Video Threads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-capture-your-linkinscape-content-top-6-tools-for-it/"><u>[New] How to Capture Your Linkinscape Content Top 6 Tools for It</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-aesthetic-fusion-studio-ultimate-photo-alchemy/"><u>[Updated] 2024 Approved Aesthetic Fusion Studio Ultimate Photo Alchemy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-breaking-down-barriers-combining-obs-with-zoom/"><u>[Updated] Breaking Down Barriers Combining OBS with Zoom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero-10-secrets-for-perfect-slow-motion-shots/"><u>[Updated] GoPro Hero 10 Secrets for Perfect Slow Motion Shots</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-guide-to-mass-extraction-of-tiktok-content/"><u>[Updated] Guide to Mass Extraction of TikTok Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-seamlessly-add-pictures-to-youtube-videos/"><u>[Updated] How to Seamlessly Add Pictures to YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>2024 Approved Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hidden-insights-for-importer-mastery-on-windows-10-for-2024/"><u>Hidden Insights for Importer Mastery on Windows 10 for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-note-30-vip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Note 30 VIP to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-perfect-skype-tone-from-these-sites/"><u>In 2024, Find the Perfect Skype Tone From These Sites</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-lenovo-ideapad-amoad-100-driver-updates-compatible-with-windows-11-explained/"><u>Latest Lenovo IdeaPad Amoad 100 Driver Updates Compatible with Windows 11 Explained</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-tier-hdr-camera-selection-made-easy-for-2024/"><u>Top-Tier HDR Camera Selection Made Easy for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-premier-fishing-cameras-the-essentials-of-5/"><u>[New] 2024 Approved Premier Fishing Cameras - The Essentials of 5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-new-frontiers-with-vr-game-engines/"><u>[New] Exploring New Frontiers with VR Game Engines</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonize-with-inshots-music-load-functionality/"><u>[New] Harmonize with InShot's Music Load Functionality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms/"><u>[New] In 2024, Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-lut-creation/"><u>[Updated] Innovative Approaches to LUT Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-thumbnails/"><u>2024 Approved The Ultimate Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-soldering-irons-and-workstations-reviewed/"><u>2024'S Most Effective Soldering Irons and Workstations Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gaming-at-its-peak-platform-9-insights-for-2024/"><u>Gaming at Its Peak Platform #9 Insights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds-for-2024/"><u>How to Find Elite Instagram Tones and Craft Unique Alarm Sounds for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-followers-on-xtwitter/"><u>How to Get Followers on X/Twitter</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-apple-iphone-13-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On Apple iPhone 13 - 4 Easy Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-upgraded-gopro-sessions/"><u>In 2024, Exploring the Upgraded GoPro Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-holographic-horizons-reimagined-movies/"><u>In 2024, Holographic Horizons Reimagined Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-a-faster-live-streaming-on-periscope/"><u>In 2024, How to Get a Faster Live Streaming on Periscope</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-blend-sound-and-visuals-editing-tips-for-canva-videos/"><u>In 2024, Seamlessly Blend Sound & Visuals Editing Tips for Canva Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-viewer-discussions-on-youtube-for-2024/"><u>Mastering Viewer Discussions on YouTube for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-vertical-video-editing-on-mobile-devices/"><u>Updated In 2024, The Ultimate Guide to Vertical Video Editing on Mobile Devices</u></a></li>
 </ul></div>
 

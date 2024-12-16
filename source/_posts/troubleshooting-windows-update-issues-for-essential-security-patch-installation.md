@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Issues for Essential Security Patch Installation
-date: 2024-12-04T17:24:44.826Z
-updated: 2024-12-09T19:40:42.411Z
+date: 2024-12-12T01:06:32.548Z
+updated: 2024-12-15T22:12:36.370Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting Windows Update Issues for Essential Security Patch Installation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,7 +27,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Update Now' highlighted on the Windows Update Assistant site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-download-windows-update-assistant.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the downloaded tool file, install the updates displayed in the tool, and [restart your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/).
@@ -52,6 +48,10 @@ services.msc
 
 !['Stop' highlighted for the 'Windows Update' service on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-stop-windows-update-service.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, open the Run dialog box again, enter the following in the field, and press Enter:
 
 C:\Windows\SoftwareDistribution\
@@ -65,7 +65,7 @@ C:\Windows\SoftwareDistribution\
  To now update your PC, head into Settings > Update & Security > Windows Update and find and install the available updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Use the Windows Update Troubleshooter
@@ -78,10 +78,6 @@ C:\Windows\SoftwareDistribution\
 
  Wait for the tool to detect and resolve your update problems. This can take anywhere from a few seconds to a few minutes, then restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Fix Windows’ Corrupted System Files
 
  If Windows’ core files are corrupted, that can cause your various system features to malfunction, including Windows Update. In this case, use your PC’s built-in SFC (System File Checker) tool to [find and repair all the damaged system files on your computer](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/).
@@ -91,7 +87,7 @@ C:\Windows\SoftwareDistribution\
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the "User Account Control" prompt, choose "Yes".
@@ -101,6 +97,10 @@ C:\Windows\SoftwareDistribution\
 DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![The DISM command on a Command Prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-run-dism-command-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next up, run the following command to begin finding and fixing your system’s damaged files:
 
@@ -127,16 +127,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-mozillas-split-screen-technique-in-firefox/"><u>[New] Exploring Mozilla's Split Screen Technique in Firefox</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-handbook-for-vr-travelers/"><u>[Updated] 2024 Approved The Ultimate Handbook for VR Travelers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-downloading-made-simple-discover-the-4-aces-for-2024/"><u>[Updated] Downloading Made Simple Discover the 4 Aces for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-full-potential-of-luts-in-adobe-premiere-pro/"><u>[Updated] Harnessing the Full Potential of LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-track-uncovering-erased-reddit-conversations/"><u>2024 Approved Fast Track Uncovering Erased Reddit Conversations</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-stand-alone-hold-tight-camera-stability-techniques/"><u>2024 Approved Stand Alone, Hold Tight Camera Stability Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/bringing-your-screens-to-life-with-camstudios-latest-tools-for-2024/"><u>Bringing Your Screens to Life with CamStudio's Latest Tools for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-c65-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco C65 Devices | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-high-definition-with-dell-p2715q-reviewed/"><u>In 2024, Exploring High-Definition with Dell P2715Q Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-free-rotate-and-merge-videos-on-android/"><u>In 2024, How to Free Rotate and Merge Videos on Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photo-fables-the-best-ios-and-android-text-apps-for-pictures-for-2024/"><u>Photo Fables The Best iOS & Android Text Apps for Pictures for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-ranking-the-leading-15-affordable-online-image-editors/"><u>[New] 2024 Approved Ultimate Ranking The Leading 15 Affordable Online Image Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos-for-2024/"><u>[Updated] Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-uncover-hidden-facebook-vids-updated-guide-for-2024/"><u>[Updated] How to Uncover Hidden Facebook Vids (Updated Guide) for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-precision-visuals-mastering-close-ups-in-msteams/"><u>[Updated] Precision Visuals Mastering Close-Ups in MSTEAMS</u></a></li>
+<li><a href="https://win11.techidaily.com/blending-worlds-kali-installation-guide-for-windows-users/"><u>Blending Worlds: Kali Installation Guide for Windows Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explorez-clairement-tous-les-bienfaits-de-lutilisation-dabbyy-recognition-server-avec-rewalk/"><u>Explorez Clairement Tous Les Bienfaits De L'utilisation D’ABBYY Recognition Server Avec Rewalk</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-x50iplus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor X50i+ Phone Now with These Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/integration-of-abbyy-flexicapture-with-paperstream-nx-manager-maximizing-efficiency-for-pfu-applications/"><u>Integration of ABBYY FlexiCapture with PaperStream NX Manager: Maximizing Efficiency for PFU Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Analytics and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-advanced-analytics-via-cookiebot-integration/"><u>Leveraging Advanced Analytics via Cookiebot Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/masterclass-by-abbyy-enhancing-user-engagement-through-innovative-onboarding-techniques/"><u>Masterclass by ABBYY: Enhancing User Engagement Through Innovative Onboarding Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-e-invoice-management-in-ap-comprehensive-strategies-using-abbyy-software/"><u>Mastering E-Invoice Management in AP: Comprehensive Strategies Using ABBYY Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-financial-exposure-a-comprehensive-guide-on-reducing-libor-contract-vulnerabilities/"><u>Mastering Financial Exposure: A Comprehensive Guide on Reducing LIBOR Contract Vulnerabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-media-streaming-the-complete-walkthrough-for-installing-kodi-on-xbox-one-updated/"><u>Mastering Media Streaming: The Complete Walkthrough for Installing Kodi on Xbox One (Updated )</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/neueste-entwicklungen-im-handelskredit-bereich-bewaltigen-sie-die-zukunftigen-hindernisse-mit-kreativitat/"><u>Neueste Entwicklungen Im Handelskredit Bereich: Bewältigen Sie Die Zukünftigen Hindernisse Mit Kreativität</u></a></li>
 </ul></div>
 

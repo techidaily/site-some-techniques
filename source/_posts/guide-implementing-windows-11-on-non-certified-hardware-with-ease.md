@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-11-28T00:50:50.405Z
-updated: 2024-12-02T03:12:56.576Z
+date: 2024-12-12T18:01:55.591Z
+updated: 2024-12-15T20:35:19.879Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ## Guide: Implementing Windows 11 on Non-Certified Hardware with Ease
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 * [Registry Hack for Unsupported CPUs and/or Only TPM 1.2](https://mondly-stories.techidaily.com/linguistic-tools-portuguese-shortcuts-in-brazil-and-europe/)
 * [PCs With No TPM at All, No UEFI, or Other Major Problems](https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To install Windows 11 on an unsupported PC, try making the PC supported by enabling TPM 2.0, Secure Boot, and switching to GPT. If those features cannot be enabled on your PC, you must use a few registry hacks to force Windows 11 to install.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Upgrade an Unsupported PC?
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  In some situations, you can make your PC officially supported with a configuration change or two.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to See Why Your PC Is Unsupported
 
  You can [check if Windows 11 supports your PC](https://remote-screen-capture.techidaily.com/2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/) by downloading and running [Microsoft's PC Health Check app](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck).
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  If Windows 11 doesn't officially support your PC, the PC Health Check will say it "doesn't currently meet Windows 11 system requirements" and tell you why. If the tool reports your PC is unsupported, the process you need to follow will depend on the problem it reports. You may just have to change a setting in your PC's [UEFI firmware (the modern replacement for the BIOS)](https://twitter-videos.techidaily.com/updated-expert-tips-for-twitter-video-interactions/) to make your PC supported — or the process may be more involved.
 
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
 
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  After enabling TPM, re-run the PC Health Check tool. You should be able to upgrade normally if that was your only problem.
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -100,7 +108,7 @@ Benj Edwards / How-To Geek
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
@@ -120,10 +128,6 @@ Benj Edwards / How-To Geek
 HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
 
 ![Enter the address in the Registry Editor's location bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/plug-in-address.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Right-click in the right pane, select New > DWORD (32-bit) Value, and enter the following text as the name:
 
@@ -148,10 +152,6 @@ AllowUpgradesWithUnsupportedTPMOrCPU
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
 
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
 
@@ -180,18 +180,16 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevate-your-gaming-experience-with-smart-use-of-xbox-zoom/"><u>[New] 2024 Approved Elevate Your Gaming Experience with Smart Use of Xbox Zoom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs/"><u>[New] Icebound Battles Spectacular Moments From '22'S Snowboard Cross Faceoffs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-charting-the-course-of-viral-stocks-and-stories/"><u>[Updated] 2024 Approved Charting the Course of Viral Stocks & Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-final-cut-pros-top-effect-enhancers-the-essential-10-for-2024/"><u>[Updated] Final Cut Pro's Top Effect Enhancers The Essential 10 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-av1-starters-guidebook/"><u>2024 Approved Grasping AV1 Starter's Guidebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom/"><u>2024 Approved Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/youtube-endings-that-stand-out-ranked/"><u>Free YouTube Endings That Stand Out - Ranked!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/how-to-make-reels-on-instagram/"><u>How to Make Reels on Instagram</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-c51-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco C51 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>In 2024, Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-titling-techniques-to-explore/"><u>In 2024, Innovative Titling Techniques to Explore</u></a></li>
-<li><a href="https://video-capture.techidaily.com/premier-nintendo-switch-brawlers-list-max-156-for-2024/"><u>Premier Nintendo Switch Brawlers List (Max 156) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-slides-to-cinematic-content/"><u>[Updated] Streamline Slides to Cinematic Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>2024 Approved Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-website-engagement-with-powerful-cookiebot-technology/"><u>Enhancing Website Engagement with Powerful Cookiebot Technology</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-the-most-recent-drivers-for-your-brother-laser-printer-model-hl-l2350dw/"><u>Find & Install the Most Recent Drivers for Your Brother Laser Printer Model HL-L2350DW</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fortschritt-und-innovation-in-der-zukunft-von-handelskredit-herausforderungen-and-strategien/"><u>Fortschritt Und Innovation in Der Zukunft Von Handelskredit - Herausforderungen & Strategien</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-cookiebot-for-streamlined-advertising-campaigns/"><u>Harnessing the Power of Cookiebot for Streamlined Advertising Campaigns</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-expertly-curated-green-screen-gear-list/"><u>In 2024, Expertly Curated Green Screen Gear List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-automatisierung-von-dokumentenverarbeitung-in-berlins-stadtreinigungseinrichtungen/"><u>Innovative Automatisierung Von Dokumentenverarbeitung in Berlin's Stadtreinigungseinrichtungen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-ai-abbyys-educational-presentation-at-the-2018-aiim-convention/"><u>Leveraging AI: ABBYY's Educational Presentation at the 2018 AIIM Convention</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mlined-process-adding-youtube-videos-into-slate-decks-for-2024/"><u>Streamlined Process Adding YouTube Videos Into Slate Decks for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformation-facile-et-gratuite-des-fichiers-mod-aux-formats-mov-sur-le-web-guide-videos-convertisseurs/"><u>Transformation Facile Et Gratuite Des Fichiers MOD Aux Formats MOV Sur Le Web - Guide Vidéos Convertisseurs</u></a></li>
 </ul></div>
 

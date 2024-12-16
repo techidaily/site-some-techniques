@@ -1,7 +1,7 @@
 ---
 title: "Connecting Your PS5 DualSense Controller with Windows 10: A Step-by-Step Guide"
-date: 2024-12-05T22:08:56.520Z
-updated: 2024-12-09T18:33:08.132Z
+date: 2024-12-14T22:36:18.985Z
+updated: 2024-12-15T20:19:19.153Z
 tags:
   - deals
 categories:
@@ -40,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
@@ -61,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
@@ -83,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
@@ -108,7 +104,11 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -138,21 +138,19 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-exploring-the-financial-benefits-in-podcasting/"><u>[New] 2024 Approved Exploring the Financial Benefits in Podcasting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>[New] Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies/"><u>[New] Grip It Right Tips for Eliminating Jitter in Action Cam Movies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-light-and-motion-for-gopro-time-lapse-magic/"><u>[Updated] Harnessing Light and Motion for GoPro Time-Lapse Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>2024 Approved Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-unlimited-free-fun-with-top-meme-templates-for-2024/"><u>Explore Unlimited Free Fun with Top Meme Templates for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-free-english-subtitles-from-the-best-4-platforms-and-apply-them-to-your-videos/"><u>Get Free English Subtitles From the Best 4 Platforms & Apply Them to Your Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-platforms-linking-insta-and-tiktok-for-2024/"><u>Harmonizing Platforms Linking Insta & TikTok for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-enjoy-paddington-the-movie-on-any-screen-perfect-hd-conversion-from-2014-dvd-release/"><u>How to Enjoy Paddington the Movie on Any Screen - Perfect HD Conversion From 2014 DVD Release</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c50-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C50 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ignite-your-networking-join-the-1k-club-on-instagram-regularly-for-2024/"><u>Ignite Your Networking Join the 1K Club on Instagram Regularly for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-xs-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone XS Max? How to Fix it?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-approach-to-master-multi-window-video-on-edge/"><u>In 2024, Expert Approach to Master Multi-Window Video on Edge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-image-vision-mastering-hdr-in-photoshop/"><u>In 2024, Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/multiple-pin-dropping-guide-mastering-google-maps-marker-features/"><u>Multiple Pin Dropping Guide: Mastering Google Maps Marker Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>[Updated] Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/"><u>2024 Approved Social Networking 101 Registering with Facebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/apeaksoft-2023-screens-recording-insights/"><u>Apeaksoft 2023 Screens Recording Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apologies-apple-lovers-discover-why-this-logitech-keyboard-is-now-my-preferred-choice-for-mac-systems-insights-from-zdnet/"><u>Apologies, Apple Lovers! Discover Why This Logitech Keyboard Is Now My Preferred Choice for Mac Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/glowing-mastery-step-by-step-to-brighten-android-videos-for-2024/"><u>Glowing Mastery Step-by-Step to Brighten Android Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-much-space-does-a-days-video-take-up-in-2024/"><u>How Much Space Does a Day's Video Take Up, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-places-to-step-into-new-realities-for-2024/"><u>Ideal Places to Step Into New Realities for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-scale-examination-unboxing-the-dji-phantom-4/"><u>In 2024, Full-Scale Examination Unboxing the DJI Phantom 4</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-writers-and-broadcasters-podcast-sharing-explained-for-2024/"><u>Instagram’ Writers & Broadcasters Podcast Sharing Explained for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revamping-audio-quality-overcoming-low-volume-mic-challenges/"><u>Revamping Audio Quality: Overcoming Low-Volume Mic Challenges</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-workflows-integrating-gpt-for-enhanced-output/"><u>Streamline Workflows: Integrating GPT for Enhanced Output</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-resolving-windows-spotlight-malfunctions-effortlessly/"><u>Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g84-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G84 5G Device</u></a></li>
 </ul></div>
 

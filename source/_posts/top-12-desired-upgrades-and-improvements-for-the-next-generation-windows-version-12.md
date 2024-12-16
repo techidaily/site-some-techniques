@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-12-05T18:20:39.458Z
-updated: 2024-12-09T18:03:25.312Z
+date: 2024-12-11T22:16:32.630Z
+updated: 2024-12-15T18:10:00.504Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ---
 
 ## Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,6 +36,14 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Expand Phone Link's Usefulness
 
 [Phone Link](https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/), formerly Your Phone, has steadily improved over the years, but it is still a far cry from the sort of seamless integration Apple users have access to if they combine a Mac and an iPhone.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
  We’re not likely to ever see that ease of use and depth of integration. However, while we’re wishing, we’d like to see all the features Phone Link supports (like screen mirroring) available on all Android devices, not just a select few Samsung phones.
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
@@ -83,10 +83,6 @@ Andrew Heinzman / How-To Geek
  Widgets cannot be pinned to the desktop, where you might be able to get information from them in a glance; you must click the icon on the taskbar. Once you do, only 1/3 of the available space is dedicated to your actual widgets—the rest is a truckload of content that Microsoft thinks you might find interesting. You can _sort of_ curate what is displayed, but it is still incredibly cluttered and visually way too busy.
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
@@ -108,16 +104,12 @@ Andrew Heinzman / How-To Geek
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Better Control Over the Start Menu
@@ -126,6 +118,10 @@ Andrew Heinzman / How-To Geek
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Xbox App Needs a Rework
 
  The Xbox app is notoriously buggy and has been for years. Sometimes it works, sometimes, inexplicably, it doesn’t.
@@ -133,6 +129,10 @@ Andrew Heinzman / How-To Geek
  It also lacks basic functionality that other game distribution platforms support, like the ability to limit your bandwidth within the actual app, among others. You shouldn’t need to fiddle around in the Windows Settings app to achieve something basic like that.
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Better Device Backup Options in Windows Backup
 
@@ -143,6 +143,10 @@ Andrew Heinzman / How-To Geek
 1. It needs to have a local backup option, with support for local “Restore from Backup” functionality. Currently, you're limited by how much OneDrive storage you have.
 2. Users need more control over which files and folders are included in the backup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Improve Windows Start Search
 
  You can press the Windows key and start typing to search your PC (and Bing, if you don't [disable Bing search](https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y200e-5g-phone-password-using-emergency-call-by-drfone-android/)), but it is still slower, clunkier, and less fully-featured than Spotlight Search on Macs.
@@ -152,10 +156,6 @@ Andrew Heinzman / How-To Geek
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Helpful Local AI Tools
 
@@ -182,18 +182,19 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>[New] Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-dos-and-donts-of-youtube-videos-on-twitter-for-2024/"><u>[New] The Dos and Don'ts of YouTube Videos on Twitter for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-freedom-in-memories-your-instagrams-savior/"><u>[Updated] Freedom in Memories Your Instagram's Savior</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improving-box-pull-back-pleasure/"><u>[Updated] Improving Box Pull-Back Pleasure</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations-for-2024/"><u>[Updated] Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-secrets-of-effective-powerpoint-presentation-recordings-for-2024/"><u>[Updated] Secrets of Effective PowerPoint Presentation Recordings for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-12-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme 12 Pro 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-figma-mastery-techniques-to-eliminate-disruptive-backdrops/"><u>In 2024, Figma Mastery Techniques to Eliminate Disruptive Backdrops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focusflexpro-x7-smart-resizing-superior-quality/"><u>In 2024, FocusFlexPro X7 Smart Resizing, Superior Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funny-facades-top-quality-free-meme-files/"><u>In 2024, Funny Facades Top-Quality, FREE Meme Files</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionize-your-views-non-xplit-applications/"><u>Revolutionize Your Views Non-Xplit Applications</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-rode-streamer-x-revealed-can-this-device-transform-your-streaming-experience/"><u>The Rode Streamer X Revealed: Can This Device Transform Your Streaming Experience?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ranking-macs-best-rated-sniping-programs/"><u>[New] In 2024, Ranking Mac's Best-Rated Sniping Programs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-20-most-memorable-anime-series-intros/"><u>[Updated] In 2024, 20 Most Memorable Anime Series Intros</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/como-resolver-el-problema-del-no-encuentro-del-elemento-historial-en-windows-10-actualizado/"><u>Cómo Resolver El Problema Del No Encuentro Del Elemento Historial en Windows 10 Actualizado</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-instructions-to-upgrade-your-surface-dock-driver-today/"><u>Effortless Instructions to Upgrade Your Surface Dock Driver Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-learning-to-utilize-burst-mode-for-high-speed-photography/"><u>In 2024, Learning to Utilize Burst Mode for High-Speed Photography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-11-audio-devices-for-professionals/"><u>Innovative 11 Audio Devices for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/kluft-zwischen-executives-und-managern-bedroht-erfolgreiche-digitale-umstrukturierung-ergebnisse-von-abbey-studien/"><u>Kluft Zwischen Executives Und Managern Bedroht Erfolgreiche Digitale Umstrukturierung: Ergebnisse Von ABBEY-Studien</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/limpact-de-la-technologie-abbyy-sur-la-strategie-de-c-croissance-rapide-de-nickel-en-france/"><u>L'Impact De La Technologie ABBYY Sur La Stratégie De C Croissance Rapide De Nickel en France</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-abbyys-artificial-intelligence-a-comprehensive-tutorial-on-merging-computer-vision-with-llms/"><u>Mastering ABBYY's Artificial Intelligence: A Comprehensive Tutorial on Merging Computer Vision with LLMs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-cloud-defense-strategies-critical-protocols-for-businesses-as-recommended-by-experts-at-abbyy/"><u>Navigating Cloud Defense Strategies: Critical Protocols for Businesses as Recommended by Experts at ABBYY</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-the-web-discovering-your-perfect-page/"><u>Navigating the Web - Discovering Your Perfect Page</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-asus-monitor-drivers-start-here/"><u>Seamless Installation of ASUS Monitor Drivers - Start Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-slack-alerts-directly-on-your-apple-watch-a-step-by-step-guide/"><u>Setting Up Slack Alerts Directly on Your Apple Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-cod-vanguard-error-code-0x00001338-on-windows-detailed-instructions/"><u>Ultimate Fix for CoD Vanguard Error Code 0X00001338 on Windows - Detailed Instructions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration
-date: 2024-10-23T16:35:36.293Z
-updated: 2024-10-29T17:45:15.069Z
+date: 2024-12-14T21:59:27.267Z
+updated: 2024-12-15T20:30:02.350Z
 tags:
   - cutting-edge
 categories:
@@ -42,29 +42,22 @@ The third update for NVIDIA's ChatRTX app has arrived. It adds new image recogni
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-cut-to-perfection-producing-captivating-loop-content-for-instagram/"><u>[New] 2024 Approved Cut to Perfection Producing Captivating Loop Content for Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-transforming-patience-into-speed-with-apps/"><u>[New] 2024 Approved Transforming Patience Into Speed with Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-fade-strategies-for-dynamic-videos/"><u>[New] Expert Fade Strategies for Dynamic Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-facebook-collage-instantly/"><u>[New] How to Make Facebook Collage Instantly</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/our-yearly-list-prime-free-video-editing-software/"><u>[New] Your Yearly List Prime Free Video Editing Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-clearing-up-audio-issues-in-half-volume-facebook-content/"><u>[Updated] In 2024, Clearing Up Audio Issues in Half-Volume Facebook Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-uses-of-b-roll-beyond-traditional-applications/"><u>[Updated] Innovative Uses of B-Roll Beyond Traditional Applications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-the-best-hdr-cameras-simplified/"><u>[Updated] Selecting the Best HDR Cameras Simplified</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmora-tutorial-converting-avi-to-gif-seamlessly/"><u>2024 Approved Filmora Tutorial Converting AVI to GIF Seamlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-ahead-with-top-tier-premiere-pro-samples-free-for-2024/"><u>Get Ahead with Top-Tier Premiere Pro Samples (Free) for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>In 2024, Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-googles-quick-fix-for-photo-collage-enthusiasts/"><u>In 2024, Google's Quick Fix for Photo Collage Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infinite-inspirations-top-places-to-sync-audio-with-beginnings/"><u>In 2024, Infinite Inspirations Top Places to Sync Audio with Beginnings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-time-travel-online-a-comprehensive-how-to-on-leveraging-the-wayback-machine/"><u>Mastering Time Travel Online: A Comprehensive How-To on Leveraging the Wayback Machine</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionize-your-apple-device-use-with-these-barely-noticed-ios-18-updates/"><u>Revolutionize Your Apple Device Use with These Barely-Noticed iOS 18 Updates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-leading-17-lights-and-stands-reviewed-for-2024/"><u>The Leading 17 Lights & Stands Reviewed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-file-sync-solutions-top-ways-to-bring-data-home/"><u>[New] File Sync Solutions Top Ways To Bring Data Home</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-finalized-choices-best-10-video-editing-tools-for-reels/"><u>[New] In 2024, Finalized Choices Best 10 Video Editing Tools for Reels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-icecream-screen-recorder-indepth-review/"><u>[New] In 2024, Icecream Screen Recorder Indepth Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovation-meets-tradition-the-best-frame-makers/"><u>[New] Innovation Meets Tradition The Best Frame Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-mp4-enhancement-the-ultimate-srt-integration/"><u>[Updated] Mastering MP4 Enhancement The Ultimate SRT Integration</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-why-the-microsoft-sculpt-keyboard-is-a-highly-recommended-investment-for-comfort-and-productivity/"><u>Discover Why the Microsoft Sculpt Keyboard Is a Highly Recommended Investment for Comfort and Productivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-the-most-out-of-spotifys-advertising-features-for-2024/"><u>How to Make the Most Out of Spotify's Advertising Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-virtual-reality-systems-for-drones-for-2024/"><u>Ideal Virtual Reality Systems for Drones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-the-leading-15-tripodsmounts-for-gopro/"><u>In 2024, In-Depth Review The Leading 15 Tripods/Mounts for GoPro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-15-pro-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 15 Pro Is Unlocked</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-design-meets-classics-the-new-kindleoasis-readers-testimonials-2019/"><u>Innovative Design Meets Classics: The New #KindleOasis Readers' Testimonials (2019)</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-personalizing-your-xbox-display-settings/"><u>Understanding and Personalizing Your Xbox Display Settings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

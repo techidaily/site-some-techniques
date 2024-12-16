@@ -1,7 +1,7 @@
 ---
 title: What Sets Rabbit R1 Apart From the Rest of Artificial Intelligence Companions?
-date: 2024-10-23T17:33:19.044Z
-updated: 2024-10-29T17:07:30.760Z
+date: 2024-12-09T16:42:34.513Z
+updated: 2024-12-15T20:58:24.234Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## What Sets Rabbit R1 Apart From the Rest of Artificial Intelligence Companions?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,16 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The Rabbit R1 unveiled at CES 2024 seems to have gotten the tech world talking. What exactly is it, and how is it different from other AI products?
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rabbit R1 Hardware Specs
@@ -41,10 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The R1 comes in bright orange and features 2W speaker output, a dual microphone array, an old-school analog scroll wheel, and a SIM card slot (unlocked). Furthermore, it supports a photo resolution of 8MP, 3264x2448, and a video resolution of 24fps, 1080p. It is powered by a 1000mAH rechargeable lithium battery, which you can charge with a USB-C cable. However, no accessories are included with the purchase.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rabbit R1 Uses a Large Action Model (LAM) to Perform Tasks for You
@@ -55,13 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unlike smartphones or computers, the Rabbit R1 doesn't have specific apps installed on it. Instead, it interacts with the web apps and services you authenticate through its web portal called the Rabbit Hole.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Rabbit R1 Can Learn from You
 
  The cool thing about Rabbit R1 is that it's not just an AI assistant that follows commands—the "bunny" can actually learn new things and preferences from you when you trigger its "teach mode." When teach mode is on, Rabbit R1 will record your screen as you show it how to do stuff in web apps and websites.
@@ -69,6 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For example, you could walk Rabbit through ordering a custom pizza on your favorite delivery app. You could show it to do stuff like, "First open the app or website...tap on create a new order...next choose the crust..." You get the idea. Rabbit R1 will observe and memorize your actions, so it can do the same later when you ask for "my special pizza order."
 
  Additionally, you can teach Rabbit R1 any phrase or command using your own voice and language. Maybe you want it to pull up the batting stats of your favorite baseball team when you say, "How's my swing looking?" You can teach it that command, and Rabbit will add it to its repertoire.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Rabbit R1 Won't Replace Your Smartphone
 
@@ -85,10 +74,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Maybe R1 might get sophisticated enough down the road to replace your traditional device. But for now, your iPhone or Android is probably safe.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rabbit R1 Release Date and Price
@@ -125,22 +111,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-a-global-perspective-your-favorite-travel-youtubers/"><u>[New] 2024 Approved A Global Perspective Your Favorite Travel Youtubers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>[New] Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[New] Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-quality-hearables-leading-podcasters-on-googloud/"><u>[New] High-Quality Hearables Leading Podcasters on GooGloud</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-leveraging-youtube-content-for-igtv-prominence/"><u>[Updated] 2024 Approved Leveraging YouTube Content for IGTV Prominence</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-gratitude-gift-selecting-high-quality-otus-freepaid/"><u>[Updated] In 2024, Gratitude Gift Selecting High-Quality OTUs (Free/Paid)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-for-mp4-audio-gear/"><u>2024 Approved Expert Picks for MP4 Audio Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extracting-images-from-videos-in-windows-11-photos/"><u>2024 Approved Extracting Images From Videos in Windows 11 Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>2024 Approved From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/dissecting-viral-trends-for-immersive-fb-ad-content/"><u>Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/golden-screenplay-gems-that-define-genres-for-2024/"><u>Golden Screenplay Gems That Define Genres for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-insight-demystifying-dji-inspire-2/"><u>In 2024, Full Insight Demystifying DJI Inspire 2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonized-high-res-overlays-for-devices/"><u>In 2024, Harmonized High-Res Overlays for Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-exploration-how-to-closely-inspect-roblox-environments/"><u>In 2024, In-Depth Exploration How to Closely Inspect Roblox Environments</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-durecorder-complete-breakdown-for-2024/"><u>Mastering DuRecorder Complete Breakdown for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-driver-update-for-razers-laptop-lineup-blade-17-in-windows-1087/"><u>Step-by-Step Tutorial: Driver Update for Razer's Laptop Lineup (Blade 17) in Windows 10/8/7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-pictorial-archive-networks/"><u>[New] Excellent Pictorial Archive Networks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-present-day-drones-envisioning-their-future-for-2024/"><u>[New] Exploring Present-Day Drones, Envisioning Their Future for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-windows-11-gamers-top-5-techniques-for-perfect-snapshots/"><u>[New] In 2024, Windows 11 Gamers Top 5 Techniques for Perfect Snapshots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-jotunheim-raid-the-war-of-the-worlds/"><u>[New] Jotunheim Raid The War of the Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-peak-performance-best-oculus-rift-players/"><u>[Updated] Exploring Peak Performance Best Oculus Rift Players</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-full-size-photos-to-miniature-expert-thumbnail-crafting-for-2024/"><u>[Updated] From Full-Size Photos to Miniature Expert Thumbnail Crafting for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-time-lapse-video-with-canon-camera/"><u>[Updated] How to Create Time-Lapse Video with Canon Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-prime-lenses-for-professionals-shooting-4k/"><u>[Updated] Innovative Prime Lenses for Professionals Shooting 4K</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-superior-visuals-leading-hdmi-21-monitors-for-ps5-gaming/"><u>2024 Approved Superior Visuals Leading HDMI 2.1 Monitors for PS5 Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/geniusedit-ai-precision-in-photo-mastery-for-2024/"><u>GeniusEdit AI Precision in Photo Mastery for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/go-live-on-youtube-with-minimum-follower-criteria-met-for-2024/"><u>Go Live on Youtube with Minimum Follower Criteria Met for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-13-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 13 Pro Max without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-open-top-7-laptop-dvd-player-software-options/"><u>In 2024, Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-life-into-virtual-scenes-with-spark-ar-and-personalized-lookups-for-2024/"><u>Infusing Life Into Virtual Scenes with Spark AR and Personalized Lookups for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-razr-40-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Razr 40 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-wont-my-mass-effect-legendary-edition-start/"><u>Troubleshooting Guide: Why Won't My Mass Effect Legendary Edition Start?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/troubleshooting-vlc-media-player-dvd-issues-in-windows-10-and-11/"><u>Troubleshooting VLC Media Player DVD Issues in Windows 10 and 11</u></a></li>
 </ul></div>
 

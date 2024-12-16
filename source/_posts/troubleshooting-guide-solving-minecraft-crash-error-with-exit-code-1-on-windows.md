@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows"
-date: 2024-12-04T19:33:12.401Z
-updated: 2024-12-09T17:10:20.838Z
+date: 2024-12-14T00:10:38.998Z
+updated: 2024-12-16T00:46:40.069Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
 ## Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Use the Correct Mod Version](https://extra-skills.techidaily.com/leading-free-camera-apps-for-high-quality-slo-mo-photos-for-2024/)
@@ -19,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 * [Edit the Minecraft Launcher Path](https://win-answers.techidaily.com/quick-guide-to-troubleshoot-and-repair-fortnite-logon-glitches-easily/)
 * [Change the Java Executable File](https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/)
 * [Reinstall Minecraft](https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,11 +38,19 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Exit Code 1 on Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-code-1-on-minecraft.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, if you have _Minecraft_ version 1.20.6 installed on your computer and you have a mod made for version 1.19.4, you might see the error. In this case, you'll need to manually update the outdated mod to its latest version.
 
  To do this, you'll first need to check the _Minecraft_ version installed on your computer. Open _Minecraft_, click the "Installations" tab, and check the "Latest Release" entry to see your _Minecraft_ version.
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
@@ -50,29 +58,37 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Mods folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mods-folder-in-the-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the mods folder, go through the names of all the mods and check the version number. If you find a mod with a different version number than the _Minecraft_ version installed on your computer, it's probably the culprit behind the error.
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll need to replace that mod with its latest version to fix the problem. For this, take note of the name of that mod, and then visit the [CurseForge website](https://www.curseforge.com/minecraft). Type the name of that mod and hit the search icon.
 
 ![Search icon on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/search-icon-the-curseforge-website.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Choose the relevant mod from the result that appears. Switch to the "Files" tab. You'll see different versions of that mod. You need to click on that version which corresponds with the version of _Minecraft_ you're using.
 
 ![Different mod versions on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/different-mod-versions-on-the-curseforge-website.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "Download" button.
 
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
 
@@ -84,10 +100,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  Once you've identified the mod that causes the error, you can delete it from your computer. And if you want, you can also report the issue with that mod on its dedicated page on the CurseForge website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update Your Graphics Driver
 
  Having the latest version of a graphics driver installed on your computer can solve all sorts of problems. If your computer is running an extremely old version of your graphics driver, you could face different graphics-related issues on your computer, including this one.
@@ -95,10 +107,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  You'll have to [update your graphics driver](https://hardware-tips.techidaily.com/navigating-through-circuitry-top-tech-reviews-by-toms-trustworthy-team/) to fix the problem. If your computer features an AMD graphics driver, download and install the [AMD Software Adrenaline Edition](https://www.amd.com/en/products/software/adrenalin.html). After that, click the "Check for Updates" button in the Home tab. The program will check for any available updates for the AMD graphics driver and install it automatically on your computer.
 
 ![Check for Updates option on the AMD Software Adrenaline Edition app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-on-the-amd-software-adrenaline-edition-app.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your computer has an NVIDIA graphics driver, download and install the [GeForce Experience app](https://www.nvidia.com/en-us/geforce/geforce-experience/) or [the newer NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/). Switch to the "Drivers" tab and click the "Check for Update" button. The program will go online to check for [updates to your NVIDIA graphics driver](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/). If it finds any, you will be given the option to download it.
 
@@ -132,10 +140,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Change the Java Executable File
 
  Whenever you install _Minecraft_, it automatically installs the required Java Runtime Executable (JRE) on your computer and uses it to run the game. However, there may be instances where the launcher fails to detect the JRE, or perhaps it's searching in an incorrect location.
@@ -144,6 +148,10 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Installations tab in the Minecraft Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installations-tab-in-the-minecraft-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the three dots next to the "Latest release" entry and choose "Edit."
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
@@ -151,10 +159,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  Click "More Options." Then, click the "Browse" option.
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
@@ -166,11 +170,11 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, restart the game and check for the issue again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Reinstall _Minecraft_ 
 
@@ -179,10 +183,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  Copy the "Save" folder and paste it somewhere safe on your computer.
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
@@ -217,20 +217,20 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-tongue-to-type-tools-a-guide-to-the-best-speech-to-text-software/"><u>[New] Tongue-to-Type Tools A Guide to the Best Speech-to-Text Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-4-secrets-for-adding-online-vids-seamlessly-in-ppt/"><u>[Updated] 2024 Approved 4 Secrets for Adding Online Vids Seamlessly in PPT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-dominate-the-battlefield-learn-vocal-modification-for-free-fire-characters/"><u>[Updated] How to Dominate the Battlefield Learn Vocal Modification for Free Fire Characters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-in-note-taking-with-mematic-platform/"><u>2024 Approved Innovate in Note-Taking with Mematic Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-range-virtual-sphere-review-for-2024/"><u>Full Range Virtual Sphere Review for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/funimate-video-maker-login-to-sign-up-guide/"><u>Funimate Video Maker Login to Sign up Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-13-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 13 Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-crafting-from-script-to-screen/"><u>In 2024, Film Crafting From Script to Screen</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>In 2024, Framed Facets Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-different-footage-sources-on-ios-device/"><u>In 2024, Harmonizing Different Footage Sources on iOS Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hidden-harmonics-discreetly-lowering-garageband-tones/"><u>In 2024, Hidden Harmonics Discreetly Lowering Garageband Tones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-no-more-fixes-for-speaker-issues-with-mozillas-browser/"><u>Silent No More: Fixes for Speaker Issues with Mozilla's Browser</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/swiftly-adapt-video-formats-for-mac-pixels-for-2024/"><u>Swiftly Adapt Video Formats for MAC Pixels for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-downloading-usb-c-hardware-drivers-for-optimal-performance-on-windows-10/"><u>Troubleshooting and Downloading USB-C Hardware Drivers for Optimal Performance on Windows 10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unravel-the-mystery-of-scouring-exceptional-photos-on-pexels-for-2024/"><u>Unravel the Mystery of Scouring Exceptional Photos on Pexels for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-guidelines-for-perfect-nightscape-photography/"><u>[New] Guidelines for Perfect Nightscape Photography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-supercharge-youtube-traffic-with-key-hash-tags-for-2024/"><u>[Updated] Supercharge YouTube Traffic with Key Hash Tags for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdwinmeg/"><u>完全ガイド：DVD作成用WinMEGダウンロード手順と戦略</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-toys-six-key-points-about-snapchats-my-ai/"><u>Beyond Toys: Six Key Points About Snapchat’s My AI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-website-with-smart-traffic-insights-from-cookiebot-technology/"><u>Enhance Your Website with Smart Traffic Insights From Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-functionality-via-advanced-cookiebot-solutions/"><u>Enhanced Functionality via Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-personalization-through-the-latest-innovations-of-cookiebot-platforms/"><u>Enhanced Personalization Through the Latest Innovations of Cookiebot Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-advanced-tracking-technology/"><u>Enhanced User Experience with Advanced Tracking Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-web-analytics-with-the-help-of-cookiebot-technology/"><u>Enhanced Web Analytics with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-presence-with-advanced-cookiebot-technology/"><u>Enhancing Online Presence with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-online-visibility-through-strategic-webpage-content-mastery/"><u>Enhancing Online Visibility Through Strategic Webpage Content Mastery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-explore-the-very-best-in-ios-video-playback-tools/"><u>In 2024, Explore the Very Best in iOS Video Playback Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-video-visibility-on-youtube-through-lighting/"><u>In 2024, Maximizing Video Visibility on YouTube Through Lighting</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-13-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 13 Pro Everything You Need to Know | Dr.fone</u></a></li>
 </ul></div>
 

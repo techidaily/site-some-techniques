@@ -1,7 +1,7 @@
 ---
 title: "Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh"
-date: 2024-12-06T20:38:50.947Z
-updated: 2024-12-09T22:23:35.587Z
+date: 2024-12-13T17:32:14.110Z
+updated: 2024-12-15T22:59:31.814Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,22 +64,22 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleash-creativity-boost-productivity-essential-tasks-for-the-modern-listener/"><u>[New] 2024 Approved Unleash Creativity, Boost Productivity Essential Tasks for the Modern Listener</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-decoding-the-usefulness-what-does-fbs-blue-icon-mean-for-2024/"><u>[New] Decoding the Usefulness What Does FB’s Blue Icon Mean for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-unique-canon-timelapse-vids/"><u>[New] Innovative Techniques for Unique Canon Timelapse Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unwinding-on-your-device-easy-phone-games/"><u>[New] Unwinding on Your Device Easy Phone Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-expertise-3d-lut-creation/"><u>[Updated] From Basics to Expertise 3D LUT Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-googles-portal-for-efficient-podcast-submission/"><u>[Updated] Google's Portal for Efficient Podcast Submission</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hdr-review-luminances-creation-capability/"><u>[Updated] HDR Review Luminance's Creation Capability</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-pros-playbook-elevate-your-tiktok-video-game-for-2024/"><u>[Updated] Pro's Playbook Elevate Your TikTok Video Game for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-of-updated-videoshow-app-for-24-users/"><u>2024 Approved In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-injecting-spark-into-your-unique-podcast-format/"><u>2024 Approved Injecting Spark Into Your Unique Podcast Format</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-restoring-functionality-of-a-malfunctioning-hyperx-cloud-stinger-mic/"><u>Diagnosing and Restoring Functionality of a Malfunctioning HyperX Cloud Stinger Mic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellence-in-ai-based-photo-transformations-for-2024/"><u>Excellence in AI-Based Photo Transformations for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-analysis-t-mobile-revvl-6-pro-unveiled-a-powerhouse-for-just-220-zdnet-insights/"><u>Expert Analysis: T-Mobile REVVL 6 Pro Unveiled - A Powerhouse for Just $220 | ZDNet Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-licensed-soundtracks-for-gamers-a-complete-list-for-2024/"><u>Free, Licensed Soundtracks for Gamers - A Complete List for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A78 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speculations-surrounding-the-new-pixel-fold-2-price-estimates-expected-arrival-date-and-comprehensive-tech-details/"><u>Speculations Surrounding the New Pixel Fold 2: Price Estimates, Expected Arrival Date & Comprehensive Tech Details</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-s23-fe-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy S23 FE Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unhindered-routine-changing-video-direction-with-vlc/"><u>[New] 2024 Approved Unhindered Routine Changing Video Direction with VLC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-artists-roadmap-to-professional-growth-for-2024/"><u>[New] The Artist's Roadmap to Professional Growth for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-tier-pricing-on-cloud-storage-the-least-expensive-finds-2024/"><u>[New] Top-Tier Pricing on Cloud Storage - The Least Expensive Finds, 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-enhancing-conversion-rates-with-twitter-ads/"><u>[Updated] In 2024, Enhancing Conversion Rates with Twitter Ads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-g42-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia G42 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-pathway-navigating-fullscreen-realms-in-premiere-pro/"><u>2024 Approved Expert's Pathway Navigating Fullscreen Realms in Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-periscopes-offerings-no-cost-entry-and-signup-process/"><u>2024 Approved Exploring Periscope's Offerings No Cost Entry & Signup Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extreme-quality-top-5-for-slow-motion-precision/"><u>2024 Approved Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-beginner-to-star-top-25-vlogging-ideas/"><u>2024 Approved From Beginner to Star Top 25 Vlogging Ideas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hourly-video-consumption-total-daily-gb-amount/"><u>2024 Approved Hourly Video Consumption Total Daily GB Amount</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-search-of-excellence-top-10-4k-displays/"><u>2024 Approved In Search of Excellence #Top 10 4K Displays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/6-best-gopro-helmet-mounts-and-how-to-use-them-for-2024/"><u>6 Best GoPro Helmet Mounts and How to Use Them for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-remedies-for-persistent-outriders-game-crashes/"><u>Effortless Remedies for Persistent Outriders Game Crashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-action-mastering-iphone-silhouette-art-for-2024/"><u>Expertise in Action Mastering iPhone Silhouette Art for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-creation-to-public-domain-google-podcast-upload/"><u>From Creation to Public Domain Google Podcast Upload</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y78t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y78t FRP Bypass</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ranch-raiders-best-friendly-farmers-game-roster/"><u>Ranch Raiders Best Friendly Farmer's Game Roster</u></a></li>
 </ul></div>
 

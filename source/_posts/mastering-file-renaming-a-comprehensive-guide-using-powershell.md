@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-12-05T21:16:47.988Z
-updated: 2024-12-09T19:35:47.853Z
+date: 2024-12-11T18:20:28.164Z
+updated: 2024-12-16T01:19:49.909Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ---
 
 ## Mastering File Renaming: A Comprehensive Guide Using PowerShell
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -52,10 +60,14 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -67,14 +79,6 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add a Prefix or Suffix to a File Name
 
  To add text before your file name (known as a prefix), launch a PowerShell window and enter the following command. Replace **PATH** with your folder's full path, and **PREFIX** with the text you want to append, then press Enter.
@@ -84,10 +88,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
  To add text after your file’s name (called a suffix), use the following command, replacing **PATH** with the full path to your folder, and **SUFFIX** with the text to append. Then, press Enter.
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Add Timestamps to All Files in a Folder
 
@@ -118,22 +118,20 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-innovate-thumbnails-discover-these-top-8-free-design-aids/"><u>[New] 2024 Approved Innovate Thumbnails Discover These Top 8 Free Design Aids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-googles-quick-fix-for-photo-collage-enthusiasts/"><u>[New] Google's Quick Fix for Photo Collage Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-sweep-through-your-contacts-with-speed-and-skill/"><u>[New] Sweep Through Your Contacts with Speed and Skill</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-editing-an-instagram-guide/"><u>[Updated] 2024 Approved Mastering the Art of Editing An Instagram Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-blurry-snaps-to-stunning-shots-learn-lunapic-editing/"><u>[Updated] From Blurry Snaps to Stunning Shots Learn LunaPic Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-updated-sony-bdp-s6700-features/"><u>2024 Approved Exploring the Updated Sony BDP-S6700 Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ffmpeg-and-the-art-of-audio-preservation/"><u>2024 Approved FFmpeg and the Art of Audio Preservation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-the-chaos-stable-solutions-to-stop-diablo-immortal-pc-edition-from-crashing/"><u>Conquer the Chaos: Stable Solutions to Stop Diablo Immortal PC Edition From Crashing</u></a></li>
-<li><a href="https://discover-best.techidaily.com/expert-tips-and-tricks-for-windows-dvd-creation-your-comprehensive-handbook/"><u>Expert Tips and Tricks for Windows DVD Creation - Your Comprehensive Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-picks-the-top-5-professional-drone-brands-for-2024/"><u>Expert's Picks The Top 5 Professional Drone Brands for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/harmonic-windows-tunes-hub/"><u>Harmonic Windows Tunes Hub</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209876915-9781913192358-i-am-i-angelic-messages-oracle-book/"><u>I AM I Angelic Messages Oracle Book | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highlight-prime-iphone-gif-apps-to-try/"><u>In 2024, Highlight Prime iPhone GIF Apps to Try</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-every-meme-shine-on-9gag/"><u>In 2024, How to Make Every Meme Shine on 9GAG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-experiences-the-metaverse-explored-through-6-models/"><u>In 2024, Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-file-damage-error-code-0x80070570-in-windows-11/"><u>Remedy for File Damage Error (Code 0X80070570) in Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/xsplit-vs-obs-which-is-better-for-live-streaming-for-2024/"><u>Xsplit VS OBS Which Is Better for Live Streaming for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-lineup-top-10-sources-for-vector-imagery/"><u>[Updated] Exclusive Lineup Top 10 Sources for Vector Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-financial-plan-for-crafting-a-song-to-screen/"><u>[Updated] Financial Plan for Crafting a Song to Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-iconic-locales-for-stream-video-quality/"><u>[Updated] Iconic Locales for Stream Video Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] In 2024, 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[Updated] In 2024, Growth Hacking for YouTube Stars Maximizing Fans</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-the-spotlight-top-viewers-choice-for-2024/"><u>[Updated] In the Spotlight Top Viewers' Choice for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-featured-best-10-music-clips-today/"><u>Facebook Featured Best 10 Music Clips Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-real-time-broadcast-frameworks-for-2024/"><u>High-Quality Real-Time Broadcast Frameworks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>In 2024, From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-featured-sierra-drives-files-and-more/"><u>In 2024, Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-immersive-traits-in-filmoras-editing-software/"><u>In 2024, Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-comparison-can-inshot-outshine-competitors-for-2024/"><u>In-Depth Comparison Can InShot Outshine Competitors for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-filmora-for-free-no-cost-no-virus-no-hassle/"><u>New In 2024, Get Filmora for Free No Cost, No Virus, No Hassle</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-best-hash-tracking-apps-a-comprehensive-review-fbtwitterinsta-for-2024/"><u>The Best Hash Tracking Apps A Comprehensive Review (FB/Twitter/Insta) for 2024</u></a></li>
 </ul></div>
 

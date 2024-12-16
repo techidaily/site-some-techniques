@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-12-03T17:57:43.907Z
-updated: 2024-12-09T21:11:02.212Z
+date: 2024-12-14T00:58:30.407Z
+updated: 2024-12-16T00:10:47.165Z
 tags:
   - desktop
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ## Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Should You Disable SmartScreen?](https://some-approaches.techidaily.com/pleasurable-stream-capture-evaluation-for-2024/)
 * [How to Disable SmartScreen on Windows 10](https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-by-drfone-ios/)
 * [Disable SmartScreen on Windows 8](https://ai-video-tools.techidaily.com/updated-maximize-your-online-presence-10-best-free-video-hosting-sites-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  The [SmartScreen filter built into Windows](https://instagram-video-recordings.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads/) automatically scans applications, files, downloads, and websites, blocking known-dangerous content and warning you before you run unknown applications. You can disable it, if you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Disable SmartScreen? 
@@ -45,17 +45,21 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click on "Reputation-based Protection Settings." 
 
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are four different Windows SmartScreen options, and you can disable them individually. 
 
@@ -72,16 +76,12 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
@@ -106,16 +106,17 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-increase-followers-on-facebook-10-effective-ways/"><u>[New] 2024 Approved How to Increase Followers on Facebook (10 Effective Ways )</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-social-media-presence-h-videos-reimagined-for-igtv-for-2024/"><u>[New] Elevate Your Social Media Presence H-Videos Reimagined for IGTV for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fostering-flourishing-visuals-with-after-effects-fonts/"><u>[Updated] Fostering Flourishing Visuals with After Effects Fonts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-non-xsplit-video-splitters/"><u>[Updated] In 2024, Essential Non-Xsplit Video Splitters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-the-cost-of-producing-a-music-video/"><u>2024 Approved Evaluating the Cost of Producing a Music Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android/"><u>2024 Approved From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-hobbyist-to-pro-the-audacity-journey/"><u>2024 Approved From Hobbyist to Pro The Audacity Journey</u></a></li>
-<li><a href="https://win-bits.techidaily.com/erstellen-von-whatsapp-speicherungen-auf-ihrem-iphone-ohne-icloud-losungen-fur-sie/"><u>Erstellen Von WhatsApp-Speicherungen Auf Ihrem iPhone Ohne iCloud - Lösungen Für Sie</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-famed-stop-motion-movies-15-of-all-time/"><u>In 2024, Famed Stop-Motion Movies #15 of All Time</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210630985-9789948041337-agna-khoatry/"><u>أَجِنَّة خواطري | Free Book</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2023-techniques-sending-tweets-as-videos-to-whatsapp-for-2024/"><u>[New] 2023 Techniques Sending Tweets as Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-quality-faceoff-hero-black-and-keymission-camera/"><u>[New] Film Quality Faceoff HERO Black and Keymission Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>[New] Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-enhancing-lighting-and-shadows-in-obs-video/"><u>[New] In 2024, Enhancing Lighting and Shadows in OBS Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-spiritual-sounds-on-cellphones/"><u>[New] Incorporating Spiritual Sounds on Cellphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-external-to-inshot-your-tunes-transformation-guide/"><u>[Updated] From External to InShot Your Tunes Transformation Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-musics-big-screen-facebooks-top-ten-vids/"><u>2024 Approved Music's Big Screen Facebook's Top Ten Vids</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/green-screen-journey-begins-on-yt-ideas-take-flight/"><u>Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-achieve-premium-picture-standards-without-paying/"><u>In 2024, How to Achieve Premium Picture Standards Without Paying</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mycam-in-action-a-detailed-review-of-its-recording-abilities/"><u>MyCam in Action A Detailed Review of Its Recording Abilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/update-short-twitter-video-coverage/"><u>Update Short Twitter Video Coverage</u></a></li>
 </ul></div>
 

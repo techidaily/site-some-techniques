@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-12-08T21:13:31.480Z
-updated: 2024-12-09T21:08:44.763Z
+date: 2024-12-09T18:51:37.800Z
+updated: 2024-12-15T21:17:36.162Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Solving the Issue of Non-Functional Headphones in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -60,7 +64,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Additionally, [troubleshoot Bluetooth issues on Windows](https://desktop-recording.techidaily.com/2024-approved-top-5-best-ps3-emulator-for-pc/) to rule out the problem being your Bluetooth connection as a whole, rather than your headphones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Check for App-Specific Issues
@@ -68,10 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If your headphones don't work in a particular app, check if they work in other apps installed on your device. If they do, the issue might be specific to that app. So, ensure the volume isn't muted in that app, your headphones are set as default, and go through other settings that could cause the problem.
 
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Set Your Headphones as the Default Output Device
 
@@ -82,7 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
@@ -90,7 +90,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
@@ -101,17 +105,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening properties of a headphone on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-opening-properties-of-a-headphone-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, go to the "Advanced" tab and uncheck the boxes beside "Allow applications to take exclusive control of this device" and "Enable Audio Enhancements." Finally, click "OK."
 
 ![Disabling exclusive mode and audio enhacements in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-exclusive-mode-and-audio-enhacements-in-sound-settings-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  8\. Run the Audio Troubleshooter
 
@@ -123,10 +123,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  9\. Update Your Audio Drivers
 
  Outdated audio drivers can also cause difficulties with audio input and output devices. To rule out this possibility, [install the latest drivers](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/). Visit the manufacturer's website of your headphones or device and download the latest audio and Bluetooth drivers available. If the drivers are in an executable file format, simply run the files to install them.
@@ -134,6 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For drivers requiring manual installation, use Device Manager. Right-click on the Start button and open "Device Manager." In Device Manager, expand the "Sound, video, and game controllers" category, right-click on your audio device, and select "Update driver."
 
 ![Updating the sound driver in Windows Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-updating-the-sound-driver-in-windows-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Browse my computer for drivers," locate the downloaded files, and follow the on-screen instructions. Repeat these steps to update Bluetooth drivers.
 
@@ -156,20 +156,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-video-chatting-tools-for-remote-team-interactions/"><u>[New] 2024 Approved Best Video Chatting Tools for Remote Team Interactions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-remote-desktop-capabilities-within-zoom-on-win11/"><u>[New] Exploring Remote Desktop Capabilities Within Zoom on Win11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hone-your-image-by-removing-surroundings/"><u>[New] Hone Your Image by Removing Surroundings</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unraveling-popularity-myths-the-real-truth-about-instagram-reels/"><u>[New] In 2024, Unraveling Popularity Myths The Real Truth About Instagram Reels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-4k-cameras-and-their-perfect-gimbals/"><u>[Updated] Excellent 4K Cameras & Their Perfect Gimbals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-eye-on-video-the-premier-cameras-excellence/"><u>[Updated] Eye on Video The Premier Cameras Excellence</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-beginner-pro-marketing-playbook-secrets-of-facebook-success/"><u>[Updated] In 2024, The Beginner-Pro Marketing Playbook Secrets of Facebook Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-professional-guide-to-recording-high-quality-audio/"><u>[Updated] Professional Guide to Recording High-Quality Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-5-non-samsung-360-cameras-today/"><u>2024 Approved Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-new-frontiers-in-contactless-interface-designs/"><u>2024 Approved Exploring New Frontiers in Contactless Interface Designs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fighting-vibration-in-iphone-videos-a-threefold-approach/"><u>In 2024, Fighting Vibration in iPhone Videos A Threefold Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-window-transparency-on-windows-11-machines/"><u>Maximizing Window Transparency on Windows 11 Machines</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-11-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 11 Pro Max Suddenly | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-pova-5-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Pova 5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unleash-potential-blend-the-best-of-tiktok-and-instagram-reel-artistry-for-2024/"><u>[New] Unleash Potential Blend the Best of TikTok and Instagram Reel Artistry for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-intensify-your-gaming-view-on-roblox-platforms/"><u>[Updated] 2024 Approved How to Intensify Your Gaming View on Roblox Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-simplified-processes-generating-your-podcasts-rss-feed/"><u>[Updated] 2024 Approved Simplified Processes Generating Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-multi-stream-video-in-edge/"><u>[Updated] Navigating Multi-Stream Video in Edge</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unlocking-tiktoks-1-gamer-list-for-2024/"><u>[Updated] Unlocking TikTok's #1 Gamer List for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-an-nft-easily-an-ultimate-guide-for-beginners/"><u>2024 Approved How to Create an NFT Easily An Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tune-focus-effective-minecraft-zooming-strategies-for-2024/"><u>Fine-Tune Focus Effective Minecraft Zooming Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flip-the-script-design-your-own-video-finale-for-free-for-2024/"><u>Flip the Script Design Your Own Video Finale for Free for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-analog-to-digital-safeguarding-older-photographic-memories-for-2024/"><u>From Analog to Digital Safeguarding Older Photographic Memories for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-digital-to-physical-crafting-flawless-dvds-on-a-mac-for-2024/"><u>From Digital to Physical Crafting Flawless DVDs on a Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-ground-to-heavens-a-mobile-panorama-journey-for-2024/"><u>From Ground to Heavens A Mobile Panorama Journey for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-importing-and-exporting-videos-in-adobe-premiere-pro/"><u>In 2024, The Ultimate Guide to Importing and Exporting Videos in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ranking-win11s-best-no-cost-screen-recording-software/"><u>Ranking Win11's Best No-Cost Screen Recording Software</u></a></li>
 </ul></div>
 

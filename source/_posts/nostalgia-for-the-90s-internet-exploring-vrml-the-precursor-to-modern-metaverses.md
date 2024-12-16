@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses"
-date: 2024-11-18T17:41:32.368Z
-updated: 2024-11-23T19:45:43.518Z
+date: 2024-12-12T16:56:15.178Z
+updated: 2024-12-15T20:30:30.430Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ---
 
 ## Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,19 +21,11 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  In the early 1990s, futurists and corporations combined forces to create [VRML](https://en.wikipedia.org/wiki/VRML), a Virtual Reality Modeling Language that promised to bring 3D graphics and virtual worlds to the web, heralding the dawn of [the metaverse](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/). Here's what it was---and why it didn't work out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  When 3D Was the Future
 
  At a time when real-time 3D computer graphics were out of reach for the average person, [3D interfaces](https://en.wikipedia.org/wiki/Fsn%5F%28file%5Fmanager%29) seemed like the next step forward in the evolution of computers---and maybe [even humanity itself](http://hyperreal.org/~mpesce/interview.html). The primary driver of the 3D buzz at the time was [virtual reality](https://en.wikipedia.org/wiki/Virtual%5Freality) (VR), which promised bodily immersion into simulated 3D worlds.
 
 ![People demonstrating VPL virtual reality in the late 1980s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nasa_vr.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _NASA_
 
@@ -46,6 +34,10 @@ _NASA_
 Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) 
 
  In 1992, Neil Stephenson [coined the term "metaverse"](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) in his sci-fi novel Snow Crash. It crystallized ideas about the alternate realities in worldwide computer networks that originated from various sources, including William Gibson's [Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465/?tag=htg-v2-1o0vieq-20&ascsubtag=UUhtgUeUpU207342&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778554%2Fremembering-vrml-the-metaverse-of-1995%2F&asc%5Fcampaign=Short-Term) (1984), another influential cyberpunk novel. Without much delay or hesitation, computer engineers who read these books [set out](http://hyperreal.org/~mpesce/interview.html) to turn these dystopian cyberpunk visions into reality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enter VRML
 
@@ -59,12 +51,16 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 ![A vintage VRML logo circa 1995-96](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_logo.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After picking up support from other developers, the VRML standard debuted in November 1994\. At first, VRML only supported 3D static objects, but over time the standard grew to encompass avatars, animations, pulling in multimedia, and more. Early on, VRML [drew support](https://www.cnet.com/tech/services-and-software/vrml-support-building/) from major corporations such as Microsoft, Netscape, Silicon Graphics, and dozens of others. For a short time, its future seemed pretty solid.
 
  VRML files (which usually use the .WRL file extension), store three-dimensional geometric shapes using a text-based language that describes the geometrical properties of the objects. Much like a [2D vector graphics file](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g22-drfone-by-drfone-virtual-android/) that contains instructions on how to draw an image, VRML files include instructions needed to render a 3D scene, which makes the format relatively compact, data-wise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Applications of VRML
@@ -74,7 +70,7 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 ![A VRML Alice in Wonderland Scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_alice.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Lunatic Interactive](https://web.archive.org/web/20090226193316/http://www.x-3-x.net/vrml/worlds.htm)
@@ -82,6 +78,10 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
  In 1995, a German company called Black Sun Interactive (later changed to "Blaxxun Interactive") developed multi-user server software that utilized VRML for graphics and allowed more complex interactions to take place than simply viewing 3D objects. Blaxxun's software laid the foundation for what was one of the first 3D "metaverses" on the Internet, [CyberTown](https://en.wikipedia.org/wiki/CyberTown), launched in April 1995\. VRML also powered experiments such as a [3D site created by the Atlanta Braves](https://www.cnet.com/tech/services-and-software/short-atlanta-braves-3d-site-launched/) and a [prototype virtual clothing store from The Gap](https://www.wired.com/1997/02/the-gap-tries-on-vrml-will-it-fit/), among others. [OZ Virtual](https://www.digitalspace.com/avatars/book/fullbook/choz/choz1.htm) and several other firms did similar work in creating 3D chat worlds with VRML.
 
 ![Sony SAPARi VRML chat world graphics.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/sapari_shot.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sony
 
@@ -138,24 +138,22 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-customizing-characters-the-ae-font-guide/"><u>[New] 2024 Approved Customizing Characters The AE Font Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-front-seat-pleasures-not-so-sporty-top-ten/"><u>[New] Front Seat Pleasures Not So Sporty Top Ten</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hyper-resolution-hub-top-8k-cameras-decoded/"><u>[New] Hyper-Resolution Hub Top 8K Cameras Decoded</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>[New] In 2024, Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-choosing-best-bdr-players-on-windowsmacos/"><u>[Updated] Expert Guide Choosing Best BDR Players on Windows/macOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>2024 Approved Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-range-virtual-sphere-review/"><u>2024 Approved Full Range Virtual Sphere Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hear-the-vibe-no-cost-online-tempo-trackers/"><u>2024 Approved Hear the Vibe – No Cost Online Tempo Trackers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-stride-solutions-top-vr-treadmills-reviewed/"><u>2024 Approved Innovative Stride Solutions Top VR Treadmills Reviewed</u></a></li>
-<li><a href="https://win-news.techidaily.com/free-and-efficient-leading-sandisk-ssd-cloning-apps-for-windows-operating-systems-win11-win10-win8-win7/"><u>Free and Efficient: Leading SanDisk SSD Cloning Apps for Windows Operating Systems (Win11, Win10, Win8, Win7)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-driver-windows-1011-error/"><u>HP Printer Driver - Windows 10/11 Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/impulsive-tech-shopping-alert-why-apples-latest-earpods-at-just-17-and-with-usb-c-charging-became-my-must-have-on-prime-day-the-zdnet-guide/"><u>Impulsive Tech Shopping Alert! Why Apple’s Latest EarPods at Just $17 & With USB-C Charging Became My Must-Have on Prime Day | The ZDNet Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-premium-photography-without-spending/"><u>In 2024, Finding Premium Photography Without Spending</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-sound-recognition-and-instant-utilization/"><u>In 2024, Free Sound Recognition and Instant Utilization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-expert-creating-your-avatar-with-confidence/"><u>In 2024, From Novice to Expert Creating Your Avatar with Confidence</u></a></li>
-<li><a href="https://win11.techidaily.com/merging-windows-credentials-with-microsoft-identity-hub/"><u>Merging Windows Credentials with Microsoft Identity Hub</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-ts/"><u>Movavi: 원활한 영구 TS 음성 파일 무료 번역 - 인터넷 기술</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-increasing-utorrents-download-velocity-and-overcoming-slowness-issues/"><u>Quick Fixes for Increasing uTorrent's Download Velocity and Overcoming Slowness Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-solutions-for-fixing-issues-on-any-iphone-model/"><u>Ultimate Guide: Top 15 Solutions for Fixing Issues on Any iPhone Model</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-gallery-archive-websites/"><u>[New] Best Gallery Archive Websites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-the-thrill-essential-recording-tips-for-overwatch-for-2024/"><u>[New] Capture the Thrill Essential Recording Tips for Overwatch for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filming-your-journey-essentials-checklist/"><u>[New] Filming Your Journey – Essentials Checklist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaiety-media-download-review/"><u>[New] Gaiety Media Download Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-glacial-glory-celebrating-olympic-champions-and-their-epic-slopesideshow-22/"><u>[Updated] Glacial Glory Celebrating Olympic Champions & Their Epic Slopesideshow '22</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-real-time-broadcast-frameworks/"><u>[Updated] High-Quality Real-Time Broadcast Frameworks</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/earn-a-free-lifetime-license-by-referring-imdesktop-yl-computings-ultimate-offer/"><u>Earn a Free Lifetime License by Referring ImDesktop - YL Computing's Ultimate Offer!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hook-creating-headline-helper-for-2024/"><u>Hook-Creating Headline Helper for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-magic-5-lite-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor Magic 5 Lite Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-ingenuity-optimal-apps-and-platforms-for-frames-to-photos-for-2024/"><u>Image Ingenuity Optimal Apps and Platforms for Frames to Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-audiences-integrating-sound-effectively-in-canva-films-for-2024/"><u>Immerse Audiences Integrating Sound Effectively in Canva Films for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-home-cinema-top-10-blu-ray-choices/"><u>In 2024, Immersive Home Cinema Top 10 Blu-Ray Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-pristine-sources-for-high-quality-tamil-ringtone-files/"><u>In 2024, Unveiling Pristine Sources for High-Quality Tamil Ringtone Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-10-best-free-avi-concatenators-for-seamless-video-editing-for-2024/"><u>New The 10 Best Free AVI Concatenators for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/overcoming-keyboard-issues-on-your-ios-device-a-guide-for-iphone-and-ipad-users/"><u>Overcoming Keyboard Issues on Your iOS Device: A Guide for iPhone & iPad Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-startup-errors-how-to-get-your-computer-running-smoothly-again/"><u>Resolving 'Startup Errors': How to Get Your Computer Running Smoothly Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speeding-up-your-lethargic-iphone-identifying-problems-and-implementing-quick-fixes/"><u>Speeding Up Your Lethargic iPhone: Identifying Problems & Implementing Quick Fixes</u></a></li>
 </ul></div>
 

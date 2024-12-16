@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Identifying Tech Giants  IPhone X & Samsung's Face Recognition\""
-date: 2024-10-27T17:08:40.688Z
-updated: 2024-10-29T16:45:24.220Z
+date: 2024-12-11T21:58:57.140Z
+updated: 2024-12-15T22:16:11.799Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -48,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Which one is more Accuracy?
 
@@ -73,23 +70,11 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
@@ -102,22 +87,23 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -134,24 +120,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-best-ai-photo-editor-software/"><u>[Updated] Best AI Photo Editor Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>[Updated] For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevate-communication-a-comprehensive-guide-to-using-gifs-on-discord/"><u>[Updated] In 2024, Elevate Communication A Comprehensive Guide to Using GIFs on Discord</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-uncover-vanished-watch-video-preview/"><u>[Updated] In 2024, Uncover Vanished Watch Video Preview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-indoors-adopting-the-vibe-of-a-brighter-world/"><u>[Updated] Indoors Adopting the Vibe of a Brighter World</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-superior-style-for-text-mobility/"><u>[Updated] Superior Style for Text Mobility</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fading-sound-tracks-with-logic-pro/"><u>2024 Approved Fading Sound Tracks with Logic Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-rate-text-animation-setups/"><u>2024 Approved First-Rate Text Animation Setups</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-goal-games-capturing-kicks-without-costs/"><u>2024 Approved Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mp4top10torrent/"><u>人気アニメの直接Mp4ダウンロードできる！放送中・TOP10安全なアニメtorrentサイトベストヒット!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gag-generator-for-the-web-for-2024/"><u>Gag Generator for the Web for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-multiple-windows-learn-pip-in-microsoft-edge-for-2024/"><u>Harnessing Multiple Windows Learn PIP in Microsoft Edge for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-influencer-integration-amplifying-engagement-through-collaborations/"><u>In 2024, Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-audio-dramatic-writing-for-2024/"><u>Innovative Audio Dramatic Writing for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-your-online-workflow-the-ultimate-list-of-8-chromium-ai-assisted-tools/"><u>Maximize Your Online Workflow: The Ultimate List of 8 Chromium AI-Assisted Tools</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quick-guide-top-techniques-for-capturing-a-quicktime-screen-shot/"><u>Quick Guide: Top Techniques for Capturing a QuickTime Screen Shot</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-deciding-elements-in-choosing-your-next-virtual-reality-headset/"><u>The Deciding Elements in Choosing Your Next Virtual Reality Headset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-le-tue-immagini-in-gif-o-png-con-due-clic-usando-il-convertitore-multimediali-rapido-di-movavi/"><u>Trasforma Le Tue Immagini in GIF O PNG Con Due Clic Usando Il Convertitore Multimediali Rapido Di Movavi</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-multimedia-educational-show-key-insights-demystified/"><u>Updated In 2024, Multimedia Educational Show Key Insights Demystified</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-simplify-information-storage-via-mematic/"><u>[New] In 2024, Simplify Information Storage via Mematic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-mobile-multimedia-tools-to-transform-photos/"><u>[New] Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-time-filmmakers-camera-essentials-and-picks/"><u>[Updated] First-Time Filmmaker’s Camera Essentials & Picks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210256652-9780578884820-alchemy-of-becoming/"><u>Alchemy of Becoming | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giroptics-virtual-sphere-breakdown-for-2024/"><u>Giroptic's Virtual Sphere Breakdown for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr-in-2024/"><u>Highlighted Visions Is Intensified Lighting the Future of HD in HDR, In 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 12 mini</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bring-your-ideas-to-life-best-stop-motion-apps-for-ios-and-android-for-2024/"><u>New Bring Your Ideas to Life Best Stop Motion Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unlock-the-power-of-seamless-movement-with-these-7-trendy-transition-audio-files-no-cost-for-2024/"><u>New Unlock the Power of Seamless Movement with These 7 Trendy Transition Audio Files (No Cost) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-understanding-windows-reserved-memory/"><u>The Essentials of Understanding Windows' Reserved Memory</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-efficient-ways-to-extract-and-save-audio-tracks-from-video-files-across-multiple-devices/"><u>Updated Efficient Ways to Extract and Save Audio Tracks From Video Files Across Multiple Devices</u></a></li>
 </ul></div>
 

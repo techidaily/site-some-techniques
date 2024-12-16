@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-12-04T22:11:18.328Z
-updated: 2024-12-09T21:35:55.462Z
+date: 2024-12-11T17:01:50.187Z
+updated: 2024-12-16T00:31:01.722Z
 tags:
   - desktop
 categories:
@@ -15,10 +15,6 @@ Chances are that part of the reason you broke away from Microsoft and switched t
 
  If you’re still looking to make the jump, check out our selection of the [best Linux laptops](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Encrypt Your Hard Drive 
 
  One of the most important steps you can take to secure your Linux laptop is also one of the easiest, namely to encrypt your hard drive. With most distros, while setting up your OS you will be prompted to encrypt your hard drive and set a password.
@@ -26,7 +22,7 @@ Chances are that part of the reason you broke away from Microsoft and switched t
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/penguins.jpg)](https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/) Related 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### [How to Install Linux](https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
@@ -40,7 +36,7 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Set a System Password 
@@ -48,6 +44,10 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  In a similar vein, you should also always set a system password, which you enter to unlock the laptop on startup or when unlocking the screen—which we talk about in our next entry. This is a good idea on any device, as it prevents anybody from accessing your data. It’s particularly vital for any portable device as it can prevent unauthorized access should it get lost or stolen.
 
  You’ll be prompted to set a system password during setup, usually right after encrypting your hard drive. Make sure to create a [strong, memorable password](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) that’s different from the hard disk password. Using the same password twice makes life far too easy for would-be thieves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Set Up Screen Lock 
 
@@ -67,6 +67,10 @@ Jerome Thomas / How-To Geek
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
 VPNs are great privacy tools, but they're not perfect. They can't protect you from everything.
@@ -81,10 +85,6 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6  Disable Root Login Over SSH 
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
@@ -96,7 +96,7 @@ Hannah Stryker / How-To Geek
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
@@ -126,21 +126,18 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cartoonkingdom-comprehensive-24-guide/"><u>[New] In 2024, CartoonKingdom Comprehensive '24 Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>[New] In 2024, The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715860571244-updated-activating-built-in-screen-recorders-mate-1020-and-p-series-devices-p20-p10/"><u>[Updated] Activating Built-In Screen Recorders Mate 10/20 & P-Series Devices (P20, P10).</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>[Updated] In 2024, Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-timers-cameras-guide-best-of-24/"><u>2024 Approved First-Timer's Cameras Guide - Best of '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-follower-drones-reviewed-best-of-the-best/"><u>2024 Approved Follower Drones Reviewed Best of the Best</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-improve-resilience-against-photos-app-issues-in-windows-11/"><u>2024 Approved How to Improve Resilience Against Photos App Issues in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/chatgpt-revolutionized-conversational-ai-unbound-by-history/"><u>ChatGPT - Revolutionized Conversational AI Unbound by History</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-google-pixel-fold-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Google Pixel Fold FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/getting-hooked-on-telegram-advertising-a-starters-guide-for-2024/"><u>Getting Hooked on Telegram Advertising A Starter's Guide for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-canon-camcorder-video-editing-software-how-to-edit-canon-videos/"><u>In 2024, Canon Camcorder Video Editing Software How to Edit Canon Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-facebook-launching-your-first-phenomenal-giving-post/"><u>In 2024, Facebook Launching Your First Phenomenal Giving Post</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-and-graphics-iphone-edition/"><u>In 2024, Giggles & Graphics IPhone Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-on-camera-techniques-key-shots-for-aspiring-directors/"><u>In 2024, In-Depth on Camera Techniques Key Shots for Aspiring Directors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionize-your-fitness-journey-using-this-simple-iphone-app-based-tracker-for-weight-management/"><u>Revolutionize Your Fitness Journey Using This Simple iPhone App-Based Tracker for Weight Management</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1728506925869-robocopy/"><u>バイパスと呼ばれる二つのフォルダー間でRobocopyを使った同時実行法解説</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-your-journey-with-hdr-in-ps/"><u>[New] From Novice to Pro Your Journey with HDR in PS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-tips-for-superior-sound-recordings-without-a-microphone/"><u>[New] In 2024, Tips for Superior Sound Recordings Without a Microphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-for-premiere-pro-full-screen-viewing/"><u>[New] The Ultimate Guide for Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-stunning-photos-on-iphones/"><u>[Updated] Expert Tips for Stunning Photos on iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-photo-manipulation-software-top-picks/"><u>[Updated] Free Photo Manipulation Software Top Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-freesync-and-fs-unleashed-revealing-samsung-ue590-gaming-tv/"><u>[Updated] FreeSync & FS Unleashed Revealing Samsung UE590 Gaming TV</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-the-art-of-teamsnap-photos-for-business-success-for-2024/"><u>[Updated] Perfect the Art of TeamSnap Photos for Business Success for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cutting-clutter-effective-usage-of-photoshops-eraser-tool-for-2024/"><u>Cutting Clutter Effective Usage of Photoshop’s Eraser Tool for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c02-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C02 FRP Bypass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmmakers-guide-to-the-top-10-essential-camera-brands/"><u>In 2024, Filmmaker's Guide to the Top 10 Essential Camera Brands</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/procure-no-cost-visual-aids-from-prominent-4-youtube-feeds-for-2024/"><u>Procure No-Cost Visual Aids From Prominent 4 Youtube Feeds for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-server-rack-systems-and-cabinets/"><u>Top-Rated Server Rack Systems & Cabinets</u></a></li>
 </ul></div>
 

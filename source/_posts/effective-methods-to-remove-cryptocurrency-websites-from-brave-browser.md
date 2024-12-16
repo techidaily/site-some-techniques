@@ -1,7 +1,7 @@
 ---
 title: Effective Methods to Remove Cryptocurrency Websites From Brave Browser
-date: 2024-10-26T16:01:13.229Z
-updated: 2024-10-29T17:38:26.318Z
+date: 2024-12-13T19:43:35.631Z
+updated: 2024-12-15T22:01:53.782Z
 tags:
   - cutting-edge
 categories:
@@ -39,28 +39,26 @@ brave://settings
 ![Click the hamburger menu followed by "Settings"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the left-hand menu of the Settings page, click "Brave Rewards."
 
 ![Click the hamburger menu followed by "Settings"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see a list of various Rewards-related settings with toggle buttons. Toggle them all off. However, if you have remaining BAT, you may want to leave the "Auto-Contribute" settings turned on to make sure it gets distributed.
 
 ![Toggle off all of the Brave Rewards settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-settings.png) 
 
- With them all turned off, you'll cease to see any ads, earn any BAT, or see any tip buttons on the websites you visit.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ With them all turned off, you'll cease to see any ads, earn any BAT, or see any tip buttons on the websites you visit.
 
 ###  Hide the Brave Rewards Button From the Address Bar
 
@@ -73,6 +71,10 @@ brave://settings
  Find the toggle button for "Hide Brave Rewards Button" and click it.
 
 ![Scroll until you see the "Hide Brave Rewards Icon" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-icon-setting.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Banish the Crypto Wallet From the Toolbar
 
@@ -98,16 +100,13 @@ Related: [What Is a Crypto Wallet?](https://fox-that.techidaily.com/iphone-users
 
 ![Toggle off the "Show Sponsored Images" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/new-tab-toggle-sponsored-images.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don't want any photography or artwork at all on the New Tabe page, toggle off "Show Background Images" as well.
 
  Click the "X" button in the top-right corner of the Customization dialog to save your settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Disable the Crypto Widgets on the New Tab Page
 
@@ -116,28 +115,12 @@ Related: [What Is a Crypto Wallet?](https://fox-that.techidaily.com/iphone-users
 ![Click the "Edit Cards" button on the New Tab page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-new-tab-edit-cards-button.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Several optional cards will appear. Find the ones you don't want and click the "Hide" button beneath them.
 
 ![Click "Hide" on every card you want to disable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-new-tab-card-disable.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the "X" button on the Cards dialog, and you're good to go!
 
@@ -153,16 +136,13 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Click the three vertical dots in the Brave browser bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/settings-button-brave-mobile.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Brave Rewards" from the menu that appears.
 
 ![Toggle off all of the Brave Rewards settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If enabled, toggle off the "Ads" option in the Brave Rewards settings so that you no longer see Brave ads in your notification tray.
 
@@ -205,10 +185,7 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 ![Tap the three-dot icon on the new page widget on Brave.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-widget-three-dots.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to don't want the widget at all, simply select "Remove Widget." But if you want to keep your Privacy Stats or Top Sites on the New Tab page, tap "Edit Stack" instead.
@@ -216,10 +193,7 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 ![Edit the stack or remove the entire widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-widget-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you chose to edit the stack, a "Widget Stack" menu will appear. Tap and hold the three horizontal lines next to "Binance" (or any other card you want to remove). In the lower half of the menu, an "Available" area will appear where you can drag and drop the card.
@@ -229,6 +203,10 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
  Drop the Binance card in the Available area.
 
 ![The Binance card removed from the widget stack in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/binance-card-removed2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should now find the Binance card hidden from the stack on your New Tab page.
 
@@ -251,15 +229,17 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-webcam-applications-in-windows-our-choices/"><u>[New] In 2024, Essential Webcam Applications in Windows Our Choices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-limiting-bitrate-overshoot-in-obs/"><u>[Updated] 2024 Approved Limiting Bitrate Overshoot in OBS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-focused-freedom-advanced-mounting-solutions-for-phonescams/"><u>2024 Approved Focused Freedom Advanced Mounting Solutions for Phones/Cams</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprerant-users-resourceful-approach-to-processes-and-themes-in-windows-11/"><u>A Compreran't User's Resourceful Approach to Processes and Themes in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-featured-icloud-drive-in-sierra-comprehensive-exploration-for-2024/"><u>Full-Featured iCloud Drive in Sierra – Comprehensive Exploration for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/imageclarity-converter-high-res-for-all-systems/"><u>ImageClarity Converter - High Res for All Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-actionable-tips-on-how-to-post-on-reddit-step-by-step-guide/"><u>In 2024, Actionable Tips On How to Post on Reddit - Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-legacy-os-to-innovative-windows-11/"><u>In 2024, From Legacy OS to Innovative Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-10-photorecovery-apps-ultimate-guide-for-windows-and-mac-users/"><u>Top 10 Photorecovery Apps: Ultimate Guide for Windows & Mac Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-perfect-balance-mastering-iphone-photo-blurring/"><u>[New] Finding the Perfect Balance Mastering iPhone Photo Blurring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immediate-color-correction-with-canons-paired-luts/"><u>[New] Immediate Color Correction with Canon's Paired LUTs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubes-earnings-strategy-explored-for-2024/"><u>[New] YouTube's Earnings Strategy Explored for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-from-still-shots-to-movies-mastering-logitech-webcam-videos/"><u>[Updated] In 2024, From Still Shots to Movies Mastering Logitech Webcam Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-hd-video-the-best-android-players/"><u>[Updated] Mastering HD Video The Best Android Players</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stepwise-approach-affordable-creation-of-engaging-youtube-intros/"><u>[Updated] Stepwise Approach Affordable Creation of Engaging YouTube Intros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/book-trailers-reviewed-top-5-picks-revealed-for-2024/"><u>Book Trailers Reviewed Top 5 Picks Revealed for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/484685-9780307556035-extraordinary-guidance/"><u>Extraordinary Guidance | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigglegif-builder-for-2024/"><u>GiggleGif Builder for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-pathways-through-mixed-realitys-domain/"><u>In 2024, Illuminating Pathways Through Mixed Reality's Domain</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-finest-unboxing-content-15-top-ranked-youtube-vids-for-2024/"><u>The Finest Unboxing Content 15 Top-Ranked YouTube Vids for 2024</u></a></li>
 </ul></div>
 

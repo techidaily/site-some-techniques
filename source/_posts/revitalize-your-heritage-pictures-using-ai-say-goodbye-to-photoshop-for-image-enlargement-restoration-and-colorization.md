@@ -1,7 +1,7 @@
 ---
 title: "Revitalize Your Heritage Pictures Using AI: Say Goodbye to Photoshop for Image Enlargement, Restoration, and Colorization"
-date: 2024-10-28T16:08:01.319Z
-updated: 2024-10-29T17:46:38.503Z
+date: 2024-12-09T16:01:38.954Z
+updated: 2024-12-15T21:32:23.742Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
  Photoshop has a built-in neural filter for restoring old scratched photos. But you don’t need to spend 20 bucks a month just to use that feature. Microsoft has developed a more robust AI for the job and it’s completely free. Here’s the only guide you need to bring your old photos back to life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microsoft's AI that Brings Old Photos Back to Life
 
  There was a time when it took Photoshop gurus hours of painstaking labor to [fix up old degraded photos](https://some-tips.techidaily.com/updated-top-tunes-where-to-secure-soundscapes/). Today, AI can do most of the heavy lifting. So much so that you can restore a photo with just one click!
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 [Bringing Old Photos Back to Life](https://www.microsoft.com/en-us/research/publication/bringing-old-photos-back-to-life/) is the official Microsoft project for AI-powered photo restoration. The project samples show some stunning restoration jobs on a few degraded photos. I tested it with some photos of my own too, and it worked like a charm.
 
 ![Sample photos showcasing Microsoft's photo restoration AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0001.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, Microsoft has yet to offer an official app to use this AI. If you have a powerful PC and you possess the technical know-how, you can run the AI on your own hardware.
 
@@ -46,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
  To get started with Replicate, all we need is a GitHub account. If you already have a GitHub, skip this step, otherwise, head over to [GitHub](https://github.com/join/). You need a valid email to join GitHub and the sign-up only takes a few minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Restoring Old Photos
 
  After [logging into Replicate](https://replicate.com/), we’re ready for the first step. In the search bar, enter **Bringing Old Photos Back to Life**, or you can [go directly to the page](https://www.replicate.com/microsoft/bringing-old-photos-back-to-life).
@@ -55,20 +67,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 ![Clicking the upload button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -81,13 +83,6 @@ Close
  As you can see, the AI has done a great job of cleaning up the photo. ​​​​Click “Download” to get your restored image in full resolution. Or click “Tweak” to run the AI again with different settings.
 
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Colorizing Restored Photos
 
@@ -106,10 +101,7 @@ Close
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
@@ -117,10 +109,7 @@ Close
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Upscaling Old Photos
@@ -148,10 +137,7 @@ Close
 ![Before and after preview of the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/comparison.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Including these three AI models, Replicate has a whole [collection of image restoration models](https://replicate.com/collections/image-restoration). There’s also a catalog dedicated to image [upscaling and refining models](https://replicate.com/collections/super-resolution).
@@ -177,24 +163,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-pioneering-profit-navigating-the-path-to-money-making-on-vimeo/"><u>[New] 2024 Approved Pioneering Profit Navigating the Path to Money-Making on Vimeo</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-expert-crafting-top-tier-reddit-posts/"><u>[New] From Novice to Expert Crafting Top-Tier Reddit Posts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gif-magic-transformations-without-extra-files-downloaded/"><u>[New] GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-highest-rated-slow-mo-camera-applications-iphonesandroid/"><u>[New] Highest Rated Slow Mo Camera Applications, iPhones/Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-periscope-the-complete-guide/"><u>[New] How to Use Periscope The Complete Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ranked-high-8-web-based-image-fusion-service/"><u>[New] Ranked High 8 Web-Based Image Fusion Service</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-securing-perfect-images-on-pc-check-out-these-top-5-tools-in-2024/"><u>[New] Securing Perfect Images on PC? Check Out These Top 5 Tools, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-utilizing-snapchat-highlights-effectively/"><u>[Updated] Expert Tips for Utilizing Snapchat Highlights Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-unlocked-converting-text-formats-to-voice-ready-srt/"><u>[Updated] Expertise Unlocked Converting Text Formats to Voice-Ready SRT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-crafted-drama-hub/"><u>[Updated] Expertly Crafted Drama Hub</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-powerhouses-unveiling-distinctions-between-gpt-4-gpt-4-turbo-and-gpt-n/"><u>Comparing Powerhouses: Unveiling Distinctions Between GPT-4, GPT-4 Turbo, and GPT-N</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cr2-a-jpeg-in-un-battito-di-ciglia-guida-facile-con-movavi/"><u>CR2 a JPEG in Un Battito Di Ciglia - Guida Facile Con Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-selective-image-editing-in-photo-software-for-2024/"><u>Expert Tips for Selective Image Editing in Photo Software for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-episodic-unveiling-schedule-for-2024/"><u>Ideal Episodic Unveiling Schedule for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-mobile-sound-selector/"><u>In 2024, High Fidelity Mobile Sound Selector</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-arabic-anywhere-anytime-6-motivating-factors-for-mondly-enrollment/"><u>Learn Arabic Anywhere, Anytime: 6 Motivating Factors for Mondly Enrollment</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ating-ad-blocking-in-chrome-firefox-android-and-ios-for-youtube/"><u>Navigating Ad-Blocking in Chrome, Firefox, Android, & iOS for YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-comprehensive-guide-to-bings-ai-integration-with-the-cutting-edge-gpt-4-model/"><u>The Comprehensive Guide to Bing's AI Integration with the Cutting-Edge GPT-4 Model</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-auto-correct-snafus-on-your-iphone-6-proven-techniques-for-accurate-typing/"><u>Troubleshoot Auto-Correct Snafus on Your iPhone: 6 Proven Techniques for Accurate Typing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-start-setting-up-and-using-obs-on-a-mac-computer/"><u>[New] 2024 Approved Quick Start Setting Up and Using OBS on a Mac Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expedition-tools-for-storytelling-through-lenses/"><u>[New] Expedition Tools for Storytelling Through Lenses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[New] From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hdr-tech-review-auroras-place-among-leaders/"><u>[New] HDR Tech Review Aurora's Place Among Leaders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hidden-treasures-the-undisclosed-window-11-tricks-youve-overlooked/"><u>[New] Hidden Treasures The Undisclosed WINDOW 11 Tricks You've Overlooked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-hacks-create-memes-free-and-easy/"><u>[Updated] Humor Hacks Create Memes Free and Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hyperfast-picture-explorer-on-windows-11/"><u>[Updated] Hyperfast Picture Explorer on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[Updated] Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/10-most-popular-beauty-gurus-on-youtube/"><u>10 Most Popular Beauty Gurus on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gif-to-sticker-guide-mastering-conversion-on-discord-whatsapp-telegram-for-2024/"><u>GIF to Sticker Guide Mastering Conversion on Discord, WhatsApp, Telegram for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-m14-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy M14 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-the-best-prices-on-vr-headsets-from-china/"><u>In 2024, Finding the Best Prices on VR Headsets From China</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revitalized-interview-selections-for-podcasters/"><u>In 2024, Revitalized Interview Selections for Podcasters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-convenient-way-to-mute-youtube-channels-on-pcmobile/"><u>In 2024, The Convenient Way to Mute Youtube Channels on PC/Mobile</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-performance-with-the-garmin-forerunner-745-top-tier-fitness-tracker-unleashed/"><u>Mastering Performance with the Garmin Forerunner ^745: Top-Tier Fitness Tracker Unleashed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-macvideo-editor/"><u>New 2024 Approved MacVideo Editor</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-10-essential-public-domain-image-resources-for-designers-for-2024/"><u>Updated 10 Essential Public Domain Image Resources for Designers for 2024</u></a></li>
 </ul></div>
 

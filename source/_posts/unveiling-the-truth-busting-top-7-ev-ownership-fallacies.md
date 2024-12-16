@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Busting Top 7 EV Ownership Fallacies"
-date: 2024-10-22T16:29:58.410Z
-updated: 2024-10-29T17:04:19.952Z
+date: 2024-12-14T19:57:11.157Z
+updated: 2024-12-15T23:53:59.344Z
 tags:
   - cutting-edge
 categories:
@@ -27,6 +27,10 @@ There's no denying that EVs are now a mainstream option among drivers around the
 
  In the US in 2023, just 20 percent of energy is sourced from renewable resources, with 68 percent being from petroleum and natural gas, and 11 percent being from coal (according to [USA Facts](https://tech-hub.techidaily.com/transforming-daily-life-the-ultimate-guide-to-enhancing-your-lifestyle-with-chatgpt/)). Evidently, there is still a huge reliance on non-renewable resources.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. All EVs Are Expensive
 
  While EVs are generally pricier than ICEs, they're not all expensive. It's commonly thought that EVs are pricey because Tesla, a highly popular EV brand, sells its vehicles at a pretty high price point. Even the cheapest Tesla on the market, the Model 3, comes in at just under $40,000, [which is way out of the price range](https://on-screen-recording.techidaily.com/updated-2024-approved-silence-issue-fixing-audio-absence-in-obs/) of many prospective buyers.
@@ -39,21 +43,16 @@ There's no denying that EVs are now a mainstream option among drivers around the
 
  What's more, the US government provides tax credits for those who buy used EVs for personal use. Credit of up to $4,000 can be gained by those buying a used EV or FCEV, which is worth keeping in mind.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. EVs Can't Travel Far
 
 ![Tesla Model X motion shot driving down a freeway.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/model-x-in-motion.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Tesla](https://www.tesla.com/modelx)
@@ -78,29 +77,19 @@ There's no denying that EVs are now a mainstream option among drivers around the
 
  As you can see, the majority of popular EVs have a mileage that exceeds 200 miles, though there are some exceptions.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. EVs Batteries Need Regular Replacement
 
  Unlike your alarm clock or TV remote, your EV battery doesn't need to be regularly replaced. Depending on your EV model, the lifespan of the battery will vary, but your average [EV battery lasts between 10 and 20 years](https://tech-hub.techidaily.com/transforming-daily-life-the-ultimate-guide-to-enhancing-your-lifestyle-with-chatgpt/).
 
  It was reported by [Recurrent Auto](https://www.recurrentauto.com/research/how-long-do-ev-batteries-last) that, within its community of over 15,000 cars, just 1.5 percent had gone through battery replacements (not including large EV recalls). However, it's important to remember that the vast majority of EVs on the road today aren't even a decade old yet, so it'll take another few years to truly determine how long EV batteries can last on average.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. All EV Batteries End Up In Landfill
 
 ![Mechanic repairing an EV battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/4f1be97e.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Roman Zaiets/Shutterstock.com](https://www.shutterstock.com/image-photo/charging-batteries-elecric-motor-disassembling-battery-739515940)_
 
@@ -113,10 +102,7 @@ _[Roman Zaiets/Shutterstock.com](https://www.shutterstock.com/image-photo/chargi
  This isn't to say that no EV batteries end up in a landfill. There are bound to be some batteries that slip through the cracks, especially if a car is dismantled by a lone mechanic who isn't under as much regulatory pressure as large garages. However, the overall goal is to minimize the number of EV batteries that are put in a landfill as much as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. There Aren't Many Charging Stations Available
@@ -154,22 +140,22 @@ _[Roman Zaiets/Shutterstock.com](https://www.shutterstock.com/image-photo/chargi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highlight-the-next-chapter-of-our-podcast-series/"><u>[New] Highlight the Next Chapter of Our Podcast Series</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-review-mastering-facetunes-complete-features/"><u>[New] In-Depth Review Mastering Facetune's Complete Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-android-screen-captures/"><u>[Updated] 2024 Approved Mastering Android Screen Captures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-find-your-perfect-game-recorder-top-10-free-apps/"><u>[Updated] Find Your Perfect Game Recorder Top 10 Free Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-2d-to-spatial-the-evolution-of-cinematic-videos/"><u>[Updated] From 2D to Spatial The Evolution of Cinematic Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-components-to-creativity-building-a-professional-4k-pc/"><u>[Updated] From Components to Creativity Building a Professional 4K PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-horizon-developer/"><u>[Updated] Humor Horizon Developer</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-twitch-live-recordings-today/"><u>[Updated] Streamline Your Twitch Live Recordings Today</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-windows-11s-internal-power-failure-problems/"><u>Fixing Windows 11'S Internal Power Failure Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-maximize-instagrams-potential-with-podcasts-for-2024/"><u>How to Maximize Instagram's Potential with Podcasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/import-audio-tracks-in-premiere-pro-for-2024/"><u>Import Audio Tracks in Premiere Pro for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-action-footage-enhanced-top-mic-picks/"><u>In 2024, Action Footage Enhanced Top Mic Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-performance-hardware-for-live-video-feeds/"><u>In 2024, High-Performance Hardware for Live Video Feeds</u></a></li>
-<li><a href="https://fox-info.techidaily.com/inclusive-dynamic-movement-examination-for-2024/"><u>Inclusive Dynamic Movement Examination for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-10plus-best-free-online-video-trimmers-to-edit-videos-quickly/"><u>New In 2024, 10+ Best Free Online Video Trimmers to Edit Videos Quickly</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-power-of-pages-top-10-social-media-optimization-tactics-for-2024/"><u>Unlocking the Power of Pages Top 10 Social Media Optimization Tactics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-staking-haven-evalutations/"><u>[New] HIGH-STAKING HAVEN EVALUTATIONS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prevent-unwanted-recordings-quit-time-tricks/"><u>[New] In 2024, Prevent Unwanted Recordings Quit Time Tricks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-cost-youtube-audio-tools-for-seamless-mp3-downloads-for-2024/"><u>[New] No-Cost YouTube Audio Tools for Seamless MP3 Downloads for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-video-performance-vlc-versus-mx/"><u>[Updated] Evaluating Video Performance VLC Versus MX</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space-for-2024/"><u>[Updated] From Playtime to Peak Time Top Gaming Women in the Digital Space for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopros-top-tier-face-off-hero5-b-and-sessions/"><u>[Updated] GoPro's Top Tier Face-Off Hero5 B & Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-tech-showdown-sns-vs-alternatives/"><u>[Updated] HDR Tech Showdown SNS vs Alternatives</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/efficient-oplage-bestaan-uit-wegwerp-fotos-van-windows-10/"><u>Efficiënt Oplage Bestaan Uit Wegwerp Fotos Van Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-mastery-learn-the-top-40-keyboard-shortcuts/"><u>FCPX Mastery Learn the Top 40 Keyboard Shortcuts</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/gratuito-conversor-de-imagens-do-formato-ppm-para-jpeg-online-ferramenta-moviavi/"><u>Gratuito Conversor De Imagens Do Formato PPM Para JPEG Online - Ferramenta Moviávi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frame-finesse-selecting-superior-video-cams-for-slow-motion/"><u>In 2024, Frame Finesse Selecting Superior Video Cams for Slow Motion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-3d-text-psd-goldmine-top-selections/"><u>In 2024, Free 3D Text PSD Goldmine - Top Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-advanced-your-guide-to-system-advancements/"><u>In 2024, From Basic to Advanced Your Guide to System Advancements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-action-captured-by-the-ion-pro-3-camera/"><u>In 2024, High-Quality Action Captured by the ION Pro 3 Camera</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/quick-tips-for-trending-topic-inquiry-on-instagram-stories-for-2024/"><u>Quick Tips for Trending Topic Inquiry on Instagram Stories for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/uncovering-hidden-gems-for-windows-desktop-icons-share-our-expert-guide-to-6-essential-fixes/"><u>Uncovering Hidden Gems for Windows Desktop Icons: Share Our Expert Guide to 6 Essential Fixes!</u></a></li>
 </ul></div>
 

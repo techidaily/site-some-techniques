@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2024-11-25T07:14:21.665Z
-updated: 2024-12-01T16:31:32.052Z
+date: 2024-12-11T18:47:31.085Z
+updated: 2024-12-15T17:24:23.512Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -38,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _AMD_
@@ -61,6 +61,10 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -69,15 +73,15 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -88,10 +92,6 @@ Intel
  The thing that’s interesting to me is Qualcomm’s focus on gaming, with the company [claiming](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games) at this year’s Game Developers Conference that many games “should just work” on devices equipped with the Snapdragon X Elite SoC. This is great news that shows Qualcomm is serious about the gaming prowess of the upcoming ARM-based Windows laptops. Qualcomm has also shown its reference design laptops [running](https://www.pcworld.com/article/2284554/qualcomm-says-snapdragon-x-elite-kicks-intel-core-ultras-butt-too.html)[_Control_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)[and _Baldur’s Gate 3_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers) at playable frame rates, another proof that they are taking this seriously.
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Qualcomm 
 
@@ -124,19 +124,20 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rom-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[New] From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>[Updated] Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-key-pages-to-acquire-text-styling-assets/"><u>[Updated] Key Pages to Acquire Text Styling Assets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-master-video-cutting-with-vivacut-detailed-review-and-guidebook-24/"><u>[Updated] Master Video Cutting with VivaCut Detailed Review & Guidebook '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fixing-windows-11-photo-app-glitches-quickly/"><u>2024 Approved Fixing Windows 11 Photo App Glitches Quickly</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/5yid5pyf5yyw5lin5yplusv6io944gr44ki44kl44oh44kj44k544kv44kk44oh44o844k444gu5b6p5ywd5oml6acg6kej6kqs/"><u>初期化不可能によるディスクイメージの復元手順解説</u></a></li>
-<li><a href="https://blog-min.techidaily.com/f4v-flv-movavi/"><u>網路直接免費 F4V 到FLV 轉換：Movavi 電影編解碼器</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-impressions-engaging-podcast-intros-for-2024/"><u>First Impressions Engaging Podcast Intros for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hone-your-image-by-removing-surroundings-for-2024/"><u>Hone Your Image by Removing Surroundings for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023s-social-media-video-extractor-for-all-platforms/"><u>In 2024, 2023'S Social Media Video Extractor for All Platforms</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-xr21-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hub-swapping-your-soundtrack-selection/"><u>In 2024, Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-reno-10-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Reno 10 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-trusted-guide/"><u>Unveiling the Latest Gadgets with Tom - Your Trusted Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>[Updated] 2024 Approved Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-inside-the-dji-phantom-3-pro-advantages/"><u>[Updated] In 2024, Inside the DJI Phantom 3 Pro Advantages</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-umfrage-zeigt-erfolgreiche-anwendung-automatisierender-technologien-in-94-deutscher-unternehmen/"><u>ABBYY Umfrage Zeigt: Erfolgreiche Anwendung Automatisierender Technologien in 94% Deutscher Unternehmen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/accelerate-payments-at-metro-ag-firms-with-wholesale-clients-up-to-90-faster/"><u>Accelerate Payments at Metro AG Firms with Wholesale Clients - Up to 90% Faster</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerating-visual-flow-in-microsoft-slides-for-2024/"><u>Accelerating Visual Flow in Microsoft Slides for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/advancing-your-website-with-powerful-cookiebot-tools/"><u>Advancing Your Website with Powerful Cookiebot Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/automatyzacja-processow-przezwazajac-zadania-w-projektach-oceniaj-wyniki-process-mining/"><u>Automatyzacja Processów: Przezważając Zadania W Projektach - Oceniaj Wyniki Process Mining</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-sites-performance-using-the-cutting-edge-technology-of-cookiebot/"><u>Boost Your Site's Performance Using the Cutting-Edge Technology of Cookiebot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-traffic-with-our-cutting-edge-cookiebot-technology/"><u>Boost Your Traffic with Our Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-lenovo-x220-drivers-made-simple-with-this-handy-how-to-guide/"><u>Download Lenovo X220 Drivers Made Simple with This Handy How-To Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-connecting-successfully-to-a-remote-server-common-fixes/"><u>Expert Tips: Connecting Successfully to a Remote Server - Common Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kidizooms-innovative-camera-fun/"><u>Kidizoom's Innovative Camera Fun</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-store-issues-addressing-server-stumble-failures/"><u>Unblocking Windows Store Issues: Addressing Server Stumble Failures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/aiocr-abbyy/"><u>モバイル用AIによるOCR領収書管理製品 - ABBYYモバイルキャプチャ</u></a></li>
 </ul></div>
 

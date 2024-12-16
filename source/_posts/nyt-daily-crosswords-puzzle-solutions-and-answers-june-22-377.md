@@ -1,7 +1,7 @@
 ---
 title: "NYT Daily Crosswords: Puzzle Solutions & Answers - June 22, #377"
-date: 2024-12-06T20:33:02.572Z
-updated: 2024-12-09T21:17:48.718Z
+date: 2024-12-13T00:58:05.424Z
+updated: 2024-12-15T19:25:23.519Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ---
 
 ## NYT Daily Crosswords: Puzzle Solutions & Answers - June 22, #377
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ![June 19th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-19th-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -57,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 * **Blue:** Horror Movies, with "The."
 * **Purple:** Words for Sausage
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![June 22nd Connections groups and words](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-22nd-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **One Thing After Another (Yellow):** 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 **Words for Sausage (Purple):** 
 
  Brat, Dog, Frank, Link
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
 
@@ -127,24 +127,19 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-guide-to-upgrade-your-shorts-into-premium-mp4-files/"><u>[New] 2024 Approved Essential Guide to Upgrade Your Shorts Into Premium Mp4 Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-find-your-dream-free-vfx-alternative-top-30-sites-explored-deeply/"><u>[Updated] Find Your Dream Free VFX Alternative - Top 30 Sites Explored Deeply</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>[Updated] Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-def-camera-the-top-audio-mics-guide/"><u>[Updated] High-Def Camera The Top Audio Mics Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-online-meetings-tips-for-chromebook-users/"><u>[Updated] In 2024, Mastering Online Meetings Tips for Chromebook Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-process-for-photo-backdrop-erasure/"><u>[Updated] Step-by-Step Process for Photo Backdrop Erasure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-unlimited-access-to-fcp/"><u>2024 Approved Explore Unlimited Access to FCP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-the-user-interface-aesthetics-of-huawei-p10-for-2024/"><u>Evaluating the User Interface Aesthetics of Huawei P10 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-tips-to-disable-youtube-video-preview-immediately/"><u>Expert Tips to Disable YouTube Video Preview Immediately</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/glowing-with-hd-does-it-serve-the-scope-of-hdr-well-for-2024/"><u>Glowing with HD Does It Serve the Scope of HDR Well for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-make-and-convert-slow-motion-videos-on-iphone-for-2024/"><u>How to Make and Convert Slow Motion Videos on iPhone for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a54-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A54 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/how-to-use-handbrake-for-transforming-your-dvd-files-compatible-with-windows-media-player/"><u>How to Use Handbrake for Transforming Your DVD Files Compatible with Windows Media Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>In 2024, Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-the-efficacy-of-magix-picture-tool/"><u>In 2024, Evaluating the Efficacy of MAGIX Picture Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform-for-2024/"><u>Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2622877-9781936740994-toasts/"><u>Toasts | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-best-no-cost-language-education-sites-uncovered/"><u>Top 9 Best No-Cost Language Education Sites Uncovered</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-make-the-change-discover-5-compelling-reasons-to-go-for-a-google-phone-and-android/"><u>Why Make the Change? Discover 5 Compelling Reasons to Go for a Google Phone and Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dreaming-in-color-the-revolutionary-hp-monitor-z32x-for-2024/"><u>[Updated] Dreaming in Color The Revolutionary HP Monitor, Z32X for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-video-edits-is-inshot-top-choice/"><u>[Updated] Exploring Video Edits Is InShot Top Choice?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-shoot-to-spectacle-editing-techniques-for-drones/"><u>[Updated] From Shoot to Spectacle Editing Techniques for Drones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-iconic-scripts-that-reshaped-cinemas-landscape/"><u>[Updated] Iconic Scripts That Reshaped Cinema's Landscape</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-4k-capture-selecting-top-gimbals/"><u>[Updated] Professional 4K Capture Selecting Top Gimbals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-choice-7-premium-videos-on-mac/"><u>2024 Approved Excellent Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fixing-skewed-views-in-internet-based-videos/"><u>2024 Approved Fixing Skewed Views in Internet-Based Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-6-social-sites-for-corporate-relationships/"><u>In 2024, Foremost 6 Social Sites for Corporate Relationships</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jumpstart-your-latvian-language-learning-today/"><u>Jumpstart Your Latvian Language Learning Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-a-non-functional-google-hangouts-mic-issue/"><u>Quick Solutions for a Non-Functional Google Hangouts Mic Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-apple-mac-mini-m2-versus-mac-studio-is-there-a-true-winner-over-m1/"><u>The Ultimate Showdown: Apple Mac Mini (M2) Versus Mac Studio - Is There a True Winner Over M1?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-civi-3-disney-100th-anniversary-edition-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Civi 3 Disney 100th Anniversary Edition Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac-for-2024/"><u>Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-for-overcoming-iphones-error-4013-during-system-restoration/"><u>Troubleshooting Guide for Overcoming iPhone's Error #4013 During System Restoration</u></a></li>
 </ul></div>
 

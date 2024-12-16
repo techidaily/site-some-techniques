@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows"
-date: 2024-11-29T17:14:09.129Z
-updated: 2024-12-02T04:51:53.674Z
+date: 2024-12-12T20:25:48.892Z
+updated: 2024-12-15T19:07:59.374Z
 tags:
   - deals
 categories:
@@ -12,13 +12,17 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 ## Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [The Most Common Reason Your Disk Is Missing](https://fox-links.techidaily.com/new-2024-approved-essential-steps-to-prep-your-oculus-rift-zone/)
 * [How to Bring Your Missing Drive Online](https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-by-drfone-ios/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * After you initialize the drive, you must format it before you can store anything on it. Use NTFS if the drive will only be used in a Windows PC.
 
  You installed a new hard drive in your computer and, to your dismay, it's nowhere to be found. Don't panic, you just need to give Windows a little nudge to bring it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Most Common Reason Your Disk Is Missing
 
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
  As such, when you put the drive in your system, Windows simply waits for you to decide what to do with the drive instead of automatically formatting and adding it to the drive list. If you've never added a hard drive to your computer before, however, it can be pretty disconcerting when it appears like the drive is missing (or, worse, dead). Have no fear, though! It's easy to bring your hard drive out of hiding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Bring Your Missing Drive Online
 
  Assuming that the hard drive is installed properly, and is not, (by some horrible dumb luck) defective out of the gate, bringing it online is a very simple process. To do so, you first need to pull up the Windows Disk Management tool.
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
  Press Windows+R on your keyboard to launch the Run dialog box. Type **diskmgmt.msc** into the box and press Enter.
 
 ![img_57c452aa264cd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c452aa264cd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before we proceed, we want to appropriately warn you: Do not play around in Disk Management. Although the task we're about to perform is very straightforward and simple to do, if you muck around with this tool you will have a very bad time. Double check every step. Make sure you're selecting the correct disk, or you can lose lots of data.
 
@@ -64,19 +64,23 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
  Right click on the name portion of the disk entry, where it says "Disk \[#\]", and select "Initialize Disk" from the right-click context menu.
 
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "OK" and you'll be returned to the main Disk Management window. There you'll find that your disk is now labeled "Basic" and "Online" on the left, but the contents are still "unallocated". Right click on the striped box presenting the unallocated drive space. Select "New Simple Volume".
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45e2278bff](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45e2278bff.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can now use the disk like any other on your system for media storage, games, and other purposes.
 
 <ins class="adsbygoogle"
@@ -119,18 +119,21 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-garageband-guide-gently-dissolve-decibels/"><u>[New] Garageband Guide Gently Dissolve Decibels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-the-art-of-movie-making-xp-edition/"><u>[New] Initiate the Art of Movie Making Xp Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[Updated] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fluxvideoart-compile-and-display-on-macos-sierra/"><u>[Updated] FluxVideoArt Compile & Display on macOS Sierra</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-considerations-for-enhancing-your-4k-cinematic-quality/"><u>[Updated] Top Considerations for Enhancing Your 4K Cinematic Quality</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-guide-using-top-rated-windows-1011-dvd-decode-software-to-watch-any-movie/"><u>Best Guide: Using Top-Rated Windows 10/11 DVD Decode Software to Watch Any Movie</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-ultimate-journeys-on-twitter-with-top-66-influencers-offers-guidance-and-epic-travel-stories/"><u>Discover Ultimate Journeys on Twitter with Top 66 Influencers - Offers, Guidance & Epic Travel Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-color-correction-with-canons-paired-luts/"><u>In 2024, Immediate Color Correction with Canon's Paired LUTs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-lenovo-screen-recording-a-quick-guide/"><u>In 2024, Lenovo Screen Recording A Quick Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/quick-and-simple-guide-adding-captions-to-your-reels-videos/"><u>Quick and Simple Guide: Adding Captions to Your Reels Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/start-streaming-sports-creating-your-own-mac-based-channel-for-2024/"><u>Start Streaming Sports Creating Your Own Mac-Based Channel for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-computing-experience-with-windows-new-standard-ram/"><u>Transforming Computing Experience with Windows' New Standard RAM</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-the-secrets-of-iphones-dfu-mode-and-its-usage/"><u>Unveiling the Secrets of iPhone's DFU Mode and Its Usage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-window-snapshots-in-windows-3-methods-for-2024/"><u>[New] Unlocking Window Snapshots in Windows (3 Methods) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>[Updated] 2024 Approved Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>2024 Approved Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixels-melodic-matches-and-personalization/"><u>2024 Approved Pixel's Melodic Matches and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/50-der-deutschen-bevolkerung-bevorzugen-es-unbeliebte-arbeiten-an-roboter-zu-delegieren/"><u>50% Der Deutschen Bevölkerung Bevorzugen Es, Unbeliebte Arbeiten an Roboter Zu Delegieren</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-and-amedia-unite-to-develop-innovative-ocr-reader-app-tailored-for-vision-challenged-users/"><u>ABBYY and Amedia Unite to Develop Innovative OCR Reader App Tailored for Vision-Challenged Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-online-platform-use-policy-binding-legal-framework-with-integrated-gdpr-provisions-for-user-privacy-and-data-security/"><u>ABBYY Online Platform Use Policy - Binding Legal Framework with Integrated GDPR Provisions for User Privacy and Data Security</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-ensure-optimal-performance-updating-samsung-phones-usb-drivers/"><u>How to Ensure Optimal Performance: Updating Samsung Phone's USB Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-ghost-runner-crashes-effective-fixes-for-windows-11-users/"><u>Overcoming 'Ghost Runner' Crashes: Effective Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photographic-precision-optimal-websites-and-tools-for-frame-upgrades/"><u>Photographic Precision Optimal Websites and Tools for Frame Upgrades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/raycon-everyday-professional-headphones-evaluation-excellent-battery-duration-lacks-additional-features/"><u>Raycon Everyday Professional Headphones Evaluation: Excellent Battery Duration Lacks Additional Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-the-cfos-desk-costain-enhances-financial-operations-with-abbyys-advanced-analytics/"><u>Revolutionizing the CFO's Desk: Costain Enhances Financial Operations with ABBYY's Advanced Analytics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/serbia-welcomes-abbyys-cutting-edge-development-hub-advancing-intelligent-automation-solutions/"><u>Serbia Welcomes ABBYY's Cutting-Edge Development Hub, Advancing Intelligent Automation Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/streamlining-cancer-tracking-at-usc-automated-record-systems-meet-precision-with-abbyy-compliance-tools/"><u>Streamlining Cancer Tracking at USC: Automated Record Systems Meet Precision with ABBYY Compliance Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/switch-wincalc-visuals-to-darker-tones/"><u>Switch WinCalc Visuals To Darker Tones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-executive-move-adrian-jones-takes-on-the-role-of-abbyys-chief-revenue-officer/"><u>Top Executive Move: Adrian Jones Takes on the Role of ABBYY's Chief Revenue Officer</u></a></li>
 </ul></div>
 

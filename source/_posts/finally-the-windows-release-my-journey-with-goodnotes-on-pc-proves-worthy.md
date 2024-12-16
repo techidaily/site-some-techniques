@@ -1,7 +1,7 @@
 ---
 title: "Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy"
-date: 2024-12-02T19:06:25.503Z
-updated: 2024-12-09T21:08:02.491Z
+date: 2024-12-14T00:18:19.118Z
+updated: 2024-12-15T16:01:03.900Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ## Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  Goodnotes gained popularity among the younger generation of iPad users because it makes note-taking fun and keeps files organized. The only downside was that the app was only compatible with iOS devices. Luckily, Goodnotes finally released a Windows version, and here are the things you need to know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Signing Up for Goodnotes
 
  You can sign up or log in to the Goodnotes app on Windows with Google, Microsoft, or Apple. So, if you've signed up to Goodnotes in the past, you can use the same account on your Windows PC. Additionally, you can sign in to multiple accounts and easily switch between profiles, making your note-taking experience smoother than ever.
 
 ![The sign-in options for Goodnotes on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sign-in-goodnotes.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It comes as no surprise that to enjoy all the features on Goodnotes for Windows, you’ll need to subscribe to the premium version. For example, the free version has a notebook limit of three, meaning you can only get three documents or notes. So, if you need more notes, you’ll have to upgrade to one of the paid subscriptions.
 
@@ -39,13 +39,17 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ![The 'Goodnotes for Windows' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-for-windows-option.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As of June 2024, Goodnotes for Windows is priced at $6.99 a year, while Goodnotes Pro is a bit more expensive and costs $9.99 a year. A GoodNote Pro subscription lets you use Goodnotes on iOS, Android, Windows devices, or the web.
 
 ![Tap or click 'Goodnotes Pro.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-pro-option.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Goodnotes on Windows Has Incredible Note-Taking Features
 
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
  If you use Goodnotes to take notes in class or a meeting and prefer writing in a straight line, there is a ruled paper option. And if you love to bullet journal, you can now do so digitally with the dotted page options. There are also blank pages for drawing or jotting down ideas freely. The best part is customizing your own templates to make your notes exactly how you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Offline Access
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ###  Lasso Tool
 
 ![Selecting the heart diagram in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-diagram.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you are a student and deal with many charts and diagrams while studying and taking notes, the lasso tool in Goodnotes is like having a rope for your diagrams and charts. If you are unfamiliar with it, the lasso tool, represented by lines forming a rope, lets you select and move multiple elements simultaneously. This makes it easy to copy and paste elements onto your notes or rearrange notes.
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
@@ -132,22 +132,24 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humorous-horizons-in-the-virtual-realm-your-meme-making-map/"><u>[New] Humorous Horizons in the Virtual Realm - Your Meme-Making Map</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-potential-with-free-premiere-pro-plans/"><u>[New] Unlock Potential with Free Premiere Pro Plans</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-strategies-for-altering-pubg-speech/"><u>[Updated] Innovative Strategies for Altering PUBG Speech</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-method-for-recording-youtube-videos-on-any-device-for-2024/"><u>[Updated] The Ultimate Method for Recording YouTube Videos on Any Device for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-optimizing-large-videos-tips-and-techniques-for-smaller-sizes-on-facebook/"><u>1. Optimizing Large Videos: Tips & Techniques for Smaller Sizes on Facebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>2024 Approved From Camera Lens to Screen Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-generator-for-imgur/"><u>2024 Approved Giggle Generator for Imgur</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-hero4-black-vs-drift-ghost-s-which-one-is-better/"><u>2024 Approved GoPro Hero4 Black VS Drift Ghost-S Which One Is Better?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-iphones-shutter-speed-for-movement/"><u>2024 Approved Harnessing the Power of iPhone's Shutter Speed for Movement</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-psychonauts-2-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Psychonauts 2 PC Game Crash Issues</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oneplus-nord-n30-se-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Nord N30 SE in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-10-proplus-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 10 Pro+ 5G PC | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-microphones-for-precision-in-4k-video-and-sound-recording/"><u>In 2024, Ideal Microphones for Precision in 4K Video & Sound Recording</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-unseen-facts-instagram-reels-demystified-ten-points/"><u>In 2024, The Unseen Facts Instagram Reels Demystified (Ten Points)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infusing-identity-tips-for-iconic-podcast-graphics-for-2024/"><u>Infusing Identity Tips for Iconic Podcast Graphics for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-new-safety-alerts-on-your-iphone-discover-how-ios-18-enhances-emergency-communications-without-ai/"><u>Unlocking New Safety Alerts on Your iPhone - Discover How iOS 18 Enhances Emergency Communications Without AI!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-humor-hacks-create-memes-free-and-easy/"><u>[New] 2024 Approved Humor Hacks Create Memes Free and Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-ultimate-selection-of-transition-apps/"><u>[New] Explore the Ultimate Selection of Transition Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-glimpses-innovation-highlights/"><u>[New] Ghostly Glimpses Innovation Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>[New] Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-visual-identity-with-ae-titles/"><u>[New] Innovating Visual Identity with AE Titles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-2023-ranking-top-6-apps-for-fb-lite-video-downloads/"><u>[Updated] 2024 Approved 2023 Ranking Top 6 Apps for FB Lite Video Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exemplar-storyboard-creators-circle/"><u>[Updated] Exemplar Storyboard Creator's Circle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-video-playback-acceleration/"><u>[Updated] Harnessing the Power of Video Playback Acceleration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-windows-11-for-high-impact-visually-striking-videos/"><u>[Updated] Harnessing Windows 11 for High-Impact, Visually Striking Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-data-protection-proven-drives-and-techniques-for-seagate-backup-plus-users/"><u>Boost Your Data Protection : Proven Drives and Techniques for Seagate Backup Plus Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/gamble-for-peace-10-chill-out-choices/"><u>Gamble for Peace 10 Chill-Out Choices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-apex-productions-audit-studio-25-breakdown-2023/"><u>In 2024, Apex Productions Audit Studio 25 Breakdown, 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>In 2024, Expert Guide to Video Editing Leveraging Power of Movies Maker on Windows 8</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-next-gen-vr-engines-the-2023-rundown/"><u>In 2024, Next-Gen VR Engines The 2023 Rundown</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-your-iphones-selfie-quality-the-10-best-free-apps-for-2024/"><u>Innovate Your iPhone's Selfie Quality The 10 Best Free Apps for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-the-latest-on-the-samsung-galaxy-z-fold-6-when-can-you-buy-it/"><u>Inside Look: The Latest on the Samsung Galaxy Z Fold 6 - When Can You Buy It?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ming-services-face-off-facebook-youtube-and-spaces/"><u>Streaming Services Face-Off FACEbook, YOUTube, & Spaces</u></a></li>
 </ul></div>
 

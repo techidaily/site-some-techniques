@@ -1,7 +1,7 @@
 ---
 title: "Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?"
-date: 2024-11-19T20:47:02.771Z
-updated: 2024-11-24T02:36:40.871Z
+date: 2024-12-14T22:23:01.237Z
+updated: 2024-12-15T16:08:25.752Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 ---
 
 ## Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 * [R1S Price and Availability](https://youtube-stream.techidaily.com/in-2024-the-artful-swap-from-cold-scenes-to-cozy-vlogs/)
 * [Should You Buy the Rivian R1S or R1T?](https://screen-video-capture.techidaily.com/updated-in-2024-achieving-auditory-perfection-zooming-up-your-sound-quality/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The Rivian R1S is a versatile all-electric SUV that is ready for any adventure, with features like quad-motor AWD, a range of up to 321 miles, and a towing capacity of up to 7,700lbs.
@@ -42,14 +34,10 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #####  Rivian R1S
 
@@ -102,17 +90,21 @@ Expand
 
 [See at Rivian](https://rivian.com/reserve/r1s) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  R1S Price and Availability
 
  The Rivian R1S starts at $78,000 and includes a 260-mile range, being able to seat seven passengers. The quad-motor AWD trim I tested had a top range of 303 miles because it added a large battery pack, which was slightly offset by its 22-inch sport wheels. The review unit had a retail price of $95,500.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  R1S External Design and Features
 
 ![Rivian R1S in silver facing away from view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ab2d9268-0aa3-4b68-bddb-7db4d3473049.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -144,6 +136,10 @@ Tyler Hayes / How-To Geek
 
 ![Rivian R1S third-row seats have storage and a USB-C charging port in the armrests](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/cc261bbe-af7e-4a91-96d2-048dd116d765.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
 Storage and USB-C charging port in the armrests for the third-row
@@ -151,6 +147,10 @@ Storage and USB-C charging port in the armrests for the third-row
  Like most vehicles with third-row seats, the two in the far back were compromised. The rear seats were comfortable to sit on and included armrests with storage and USB-C ports, but the legroom could be nonexistent, depending on how the middle-row seats were positioned. It will take a bit of negotiation between all rows to make sure riders in the way back can survive a several-hour trip, if need be. Mostly, it will be times carrying seven adults where things could get tricky. Carrying five adults shouldn't be a problem. I also didn't hear any complaints when my kids rode in the far back seats.
 
 ![Looking at the third-row seats in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/53657a5d-252e-469a-b9f3-401f2ab3a0e1.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -165,6 +165,10 @@ Tyler Hayes / How-To Geek
 Power and seat-release buttons are on the top control panel while the air compressor is underneath.
 
  Packed into the trunk area is an air compressor and a 120V power outlet. Each one is protected by a sliding cover which also hides it away. Under the false trunk floorboard, where several extra inches of storage reside, also housed the hose for the compressor. I didn’t have a chance to use the compressor this time around. But when I did in the truck, I found it incredibly helpful to pump up the tires of bikes that I also carried in the bed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Driving: A Quick and Nimble 7-Seater
 
@@ -214,10 +218,6 @@ Tyler Hayes / How-To Geek
 
 ![Screenshots from the Rivian App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rivian-app-shots.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Rivian
 
  I had to use a keyfob for this review because of an issue gaining access to the Rivian app—available for [iPhone](https://apps.apple.com/us/app/rivian/id1570215232) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000533/https://play.google.com/store/apps/details?id=com.rivian.android.consumer&hl=en%5FUS&gl=US). I did use the app as my vehicle key for my previous review, and it worked great. The app allows for most of the interactions you'd want for your car remotely, like setting a charging schedule, setting a charging limit, unlocking it, opening the hood, controlling the climate, and so on. This is a modern vehicle app, similar to Tesla's, unlike the myVW one offered for the ID.4.
@@ -237,7 +237,7 @@ Tyler Hayes / How-To Geek
 ![The charging screen on the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/2e2365f9-e5be-4335-8a3a-c8142ba0633b.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -268,6 +268,10 @@ Tyler Hayes / How-To Geek
 * Storage space: 104cu-ft \[more\]
 * Outlets: Two 120V outlets \[fewer\]
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  R1S Price and Availability
 
  The R1S is currently available to order through [Rivian’s website](http://rivian.com). New builds currently have about a four-month wait, while new inventory vehicles are available within one to six weeks.
@@ -286,14 +290,10 @@ Tyler Hayes / How-To Geek
 
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Rivian R1S
@@ -319,22 +319,22 @@ From city streets to far-off trails, explore all types of terrain through all ki
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-compilation-of-leading-9-mobile-meeting-services-ios-android/"><u>[New] 2024 Approved Ultimate Compilation of Leading 9 Mobile Meeting Services (iOS, Android)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>[New] Epic Playground The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fading-out-sound-fl-studio-guide/"><u>[New] Fading Out Sound FL Studio Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-rising-above-vimeo-10-next-level-editing-applications/"><u>[New] In 2024, Rising Above Vimeo 10 Next-Level Editing Applications</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-10-ubuntu-screen-recorders-for-2024/"><u>[New] Top 10 Ubuntu Screen Recorders for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-meme-masterpieces-iphones-here/"><u>[Updated] 2024 Approved Meme Masterpieces, iPhones Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-with-kinemaster-essentials-techniques-and-top-digital-counterparts/"><u>[Updated] From Novice to Pro with KineMaster Essentials, Techniques & Top Digital Counterparts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fusing-music-and-photos-online/"><u>[Updated] Fusing Music and Photos Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-google-photos-and-your-creativity-quick-collages-made-simple/"><u>[Updated] Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-a-path-to-profit-calculating-video-view-requirements/"><u>[Updated] In 2024, Charting a Path to Profit Calculating Video View Requirements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freescape-extraction-revisited-a-look-at-the-latest-update/"><u>2024 Approved Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-sound-to-web-crafting-a-standout-podcast-rss-feed-for-2024/"><u>From Sound to Web Crafting a Standout Podcast RSS Feed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grasping-the-nuances-in-youtube-viewer-reactions-for-2024/"><u>Grasping the Nuances in YouTube Viewer Reactions for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-a59-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo A59 5G Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-power-of-intova-x/"><u>In 2024, Exploring The Power of Intova X</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-a54-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy A54 5G Is Unlocked</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-nokia-105-classic-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nokia 105 Classic Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-srt-translation-leaders-a-select-8-guide/"><u>[New] Free SRT Translation Leaders A Select 8 Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-silver-meets-sjcam-sj7/"><u>[New] GoPro Hero5 Silver Meets SJCAM SJ7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-picking-best-free-online-srt-translation-providers/"><u>[New] Guide to Picking Best Free Online SRT Translation Providers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-turn-up-your-pexels-photo-game/"><u>[New] How to Turn Up Your Pexels Photo Game</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-the-future-of-mobile-gaming-iphone-vr-leaderboard/"><u>[Updated] Experience the Future of Mobile Gaming IPhone VR Leaderboard</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>[Updated] Horizon Haven The Leading 5 Cloud Platforms to Consider</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-practices-for-efficient-slide-capture/"><u>[Updated] In 2024, Best Practices for Efficient Slide Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-your-android-footage-with-astonishing-time-lapses-2024/"><u>[Updated] Innovate Your Android Footage with Astonishing Time-Lapses 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-optimizing-image-storage-advanced-techniques-in-image-compression-by-movavi/"><u>1. Optimizing Image Storage: Advanced Techniques in Image Compression by Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-financial-report-gaming-industry-decline-at-59-while-data-centers-experience-a-skyrocketing-boost-of-115/"><u>AMD's Financial Report: Gaming Industry Decline at 59%, While Data Centers Experience a Skyrocketing Boost of 115%</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fusing-images-online-and-desktop-harmoniously/"><u>Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/htc-vive-redefining-virtual-playtime-with-unmatched-immersion-for-2024/"><u>HTC Vive Redefining Virtual Playtime with Unmatched Immersion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-personalized-installing-unique-ringtones-and-sounds-on-android/"><u>In 2024, From Standard to Personalized Installing Unique Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/restore-factory-settings-wie-sie-ihr-windows-7-vollstandig-zurucksetzen-und-alle-daten-entfernen/"><u>Restore Factory Settings: Wie Sie Ihr Windows 7 Vollständig Zurücksetzen Und Alle Daten Entfernen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-9000-dl-catastrophe-exposed-zen-5-manufacturing-defects-with-damaged-wafers-and-solder-leftovers/"><u>Ryzen 9000 DL Catastrophe: Exposed Zen 5 Manufacturing Defects with Damaged Wafers and Solder Leftovers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/understanding-instagrams-tunes-and-their-legal-boundaries-for-2024/"><u>Understanding Instagram’s Tunes and Their Legal Boundaries for 2024</u></a></li>
 </ul></div>
 

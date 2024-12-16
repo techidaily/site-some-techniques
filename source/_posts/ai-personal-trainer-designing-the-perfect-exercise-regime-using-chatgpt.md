@@ -1,7 +1,7 @@
 ---
 title: "AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT"
-date: 2024-11-27T00:23:27.456Z
-updated: 2024-12-01T19:12:25.464Z
+date: 2024-12-12T20:10:22.269Z
+updated: 2024-12-15T18:06:41.860Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ## AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  Have you been meaning to start exercising regularly but aren't sure where to get started? You can easily use ChatGPT to create a workout routine. While its suggestions may not be tailored perfectly to everyone’s needs, they serve as a good starting point for anyone wanting to improve their fitness.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ChatGPT Can Create Workout Routines. They Just Need Some Work Themselves
 
  Before you ask ChatGPT to create a workout routine or exercise regimen, you first need to form a clear idea of what kind of activity you want to do and what you want to achieve. That’s because entering a general command such as "create a workout regime for me" is only going to result in ChatGPT asking you something like the following:
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![Asking ChatGPT to create a workout routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/asking-chatgpt-to-create-a-workout-routine.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can therefore either reply to the above questions, or you can go ahead from the outset and specify the kind of workout regime you’d like. For example, you can write something along the lines of, "Create a gym workout routine intended to build upper body strength. I'm a beginner and am able to work out three times a week."
@@ -44,10 +40,14 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![ChatGPT creates a workout routine for strength.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chatgpt-creates-a-workout-routine-for-strength.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It also needs to be stressed that you should make sure to state how experienced and fit you are, while providing your age, height and weight is also a good idea. If the routine ChatGPT produces seems a little too hard (or maybe easy), you should probably start again and make it clear that you want something slightly different.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Always Ask a Personal Trainer First
@@ -60,15 +60,15 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![Changing jogging times with ChatGPT routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/changing-jogging-times-with-chatgpt-routine.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Secondly, and more generally, they should also ask trainers whether the routines provided by ChatGPT are actually suitable for their needs. In my case, I created a workout routine for myself centered around upper body strength, and the member of staff I spoke to at my gym pointed out how it could potentially benefit from at least one more exercise focused on the chest.
 
  More importantly, while ChatGPT did nothing wrong in itself in terms of outlining a helpful routine for improving upper body strength, it often lacks the context and bigger picture that could provide people with more useful advice. This became clear when the same trainer I spoke to also suggested that I shouldn’t focus only on upper body strength, and that I should also be looking at improving my core and leg strength.
 
  So while ChatGPT did create a decent enough upper body workout, if it were comparable to a qualified professional it would have also recommended a more holistic approach. This becomes particularly important if you’re entering the gym because you’re recovering from a health condition or injury, with experienced trainers likely to ask about such factors and advise accordingly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Hybrid Approach Works Best
 
@@ -95,22 +95,22 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-financial-overview-total-investment-for-music-clip-shootings/"><u>[Updated] Financial Overview Total Investment for Music Clip Shootings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-timer-solutions-for-your-special-day-on-androidios/"><u>[Updated] Ideal Timer Solutions for Your Special Day on Android/iOS</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-easy-steps-for-exporting-videos-from-youtube-to-dailymotion/"><u>2024 Approved Easy Steps for Exporting Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-tips-for-recording-fb-messenger-calls/"><u>2024 Approved Essential Tips for Recording FB Messenger Calls</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-tailor-made-templates-for-concluding-audio/"><u>2024 Approved Free, Tailor-Made Templates for Concluding Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs/"><u>2024 Approved From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-stop-motion-animations-15-best-ever/"><u>2024 Approved Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-poco-x6-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco X6 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2003-step-by-step-guide-stellar-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2003 | Step-by-Step Guide | Stellar</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-camon-20-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Camon 20 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-to-enhanced-gopro-experience/"><u>In 2024, First Steps to Enhanced GoPro Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highlighting-heroics-at-the-x-olympics-2022/"><u>In 2024, Highlighting Heroics at the X-Olympics 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/increasing-onscreen-detail-in-virtual-spaces-for-2024/"><u>Increasing Onscreen Detail in Virtual Spaces for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210580447-9781954047273-sacred-medicine/"><u>Sacred Medicine | Free Book</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-science-of-perfectly-timed-episodes-for-2024/"><u>The Science of Perfectly Timed Episodes for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-quantum-hdr/"><u>Unlocking the Potential of Quantum HDR</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-tech-5-must-have-streaming-webcams-for-gamers-for-2024/"><u>[New] Essential Tech 5 Must-Have Streaming Webcams for Gamers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-micro-photography-and-film-production/"><u>[New] Expert Insights Into Micro Photography and Film Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extraordinary-assessment-and-alternative-choices/"><u>[New] Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pages-to-production-creating-a-movie-blueprint/"><u>[New] From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hues-harmony-crafting-colorful-artistry/"><u>[New] Hues Harmony Crafting Colorful Artistry</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-innovative-practices-for-instagram-video-narratives-and-captioning/"><u>[New] In 2024, Innovative Practices for Instagram Video Narratives and Captioning</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pro-level-text-templates-for-adobe-ae/"><u>[New] In 2024, Pro-Level Text Templates for Adobe AE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-windows-tunes-hub/"><u>[Updated] Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ice-warriors-top-performances-at-2022-olympics/"><u>[Updated] Ice Warriors Top Performances at 2022 Olympics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-influencing-your-drones-performance-choosing-right-propellers/"><u>[Updated] Influencing Your Drone's Performance Choosing Right Propellers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-latency-in-key-presses-a-guide-for-windows-11-users/"><u>Fixing Latency in Key Presses: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hasten-haste-in-videos-with-top-apps-android-for-2024/"><u>Hasten Haste in Videos with Top Apps, Android for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-intel-optane-memory-drivers-on-windows-computers-without-a-hitch/"><u>How to Get the Newest Intel Optane Memory Drivers on Windows Computers Without a Hitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/msi-afterburner-troubleshooting-successfully-detecting-your-graphics-card-in-modern-windows-os/"><u>MSI Afterburner Troubleshooting: Successfully Detecting Your Graphics Card in Modern Windows OS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/evel-video-translation-top-online-text-converters-for-2024/"><u>Pro-Level Video Translation Top Online Text Converters for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-play-7t-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Play 7T Device</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-pinnacle-studio-for-mac-explore-these-excellent-alternative-options-for-2024/"><u>Updated Pinnacle Studio for Mac Explore These Excellent Alternative Options for 2024</u></a></li>
 </ul></div>
 

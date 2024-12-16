@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2024-12-08T22:06:51.813Z
-updated: 2024-12-09T20:18:43.899Z
+date: 2024-12-11T19:41:21.692Z
+updated: 2024-12-15T21:44:39.791Z
 tags:
   - deals
 categories:
@@ -32,10 +32,14 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![On Windows 11, click the File Explorer icon in the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_file_explorer_taskbar.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have File Explorer open, you can proceed with the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Show Hidden Files on Windows 11 the Easy Way
 
@@ -44,14 +48,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![show hidden files on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/Screenshot-2022-12-22-at-2.06.44-PM.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Show Hidden Files on Windows 11 Using Options
 
@@ -63,13 +63,13 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Click the "View" tab, then select "Show Hidden Files and folders."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/go-to-view-tba.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hidden files and folders will instantly become visible in File Explorer and on your desktop. When you see them, their icons will have a slightly translucent or faded appearance.
 
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
 
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Unhide protected system files on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hide-protected-files.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As soon as you click the check box, a new dialog window will open that warns you about the dangers of revealing protected operating system files.
 
  You are about to reveal sensitive operating system files. If you move or delete hidden system files, it could break your Windows 11 installation or potentially cause data loss. So proceed with extreme caution.
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  If you know what you're doing and are willing to accept the risks, click "Yes."
 
 ![Click "Yes" to confirm that you want to reveal protected files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-yes.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then close the Folder Options window by pressing "OK." As with the hidden files revealed in the section above, protected operating system files will appear translucent on your desktop and in File Explorer.
 
@@ -112,24 +112,21 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-every-angle-of-vitas-video-editor-full-review-and-tutorial-2024/"><u>[New] Explore Every Angle of Vita’s Video Editor Full Review & Tutorial, 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fast-track-uncovering-erased-reddit-conversations/"><u>[New] Fast Track Uncovering Erased Reddit Conversations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-idea-to-action-creating-engaging-gifs/"><u>[New] From Idea to Action Creating Engaging GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-camera-insights-the-best-of-2024-unpacked/"><u>[New] Innovative Camera Insights – The Best of 2024 Unpacked</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-vital-top-6-business-focused-social-networking-places/"><u>[New] Vital Top 6 Business-Focused Social Networking Places</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>[Updated] Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-navigating-through-gopros-time-lapse-potential/"><u>[Updated] Navigating Through GoPro's Time-Lapse Potential</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-to-refined-the-essential-guide-to-podcast-editing-with-garageband/"><u>2024 Approved From Raw to Refined The Essential Guide to Podcast Editing with GarageBand</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maximize-your-photos-with-samsungs-image-enhancers/"><u>2024 Approved How to Maximize Your Photos with Samsung's Image Enhancers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-tactics-unveiling-7-methods-used-in-romance-fraud-schemes/"><u>AI-Driven Tactics: Unveiling 7 Methods Used in Romance Fraud Schemes</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/aomei-backupper-how-to-use-aomei-backupper-for-hard-drive-staging/"><u>AOMEI Backupper資料夾階段式卷包存程序入門指南 - How to Use AOMEI Backupper for Hard Drive Staging</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/boost-your-internet-coverage-with-the-netgear-ex3700-wi-fi-expander-ac750-user-reviewed/"><u>Boost Your Internet Coverage with the Netgear EX3700 Wi-Fi Expander (AC750) - User Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976511329-download-and-update-free-wi-fi-drivers-compatible-with-windows-7-simple-steps/"><u>Download & Update: Free Wi-Fi Drivers Compatible with Windows 7 - Simple Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-top-6-apps-that-make-storing-linkedin-videos-simple-for-2024/"><u>Expert Tips Top 6 Apps That Make Storing LinkedIn Videos Simple for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-premium-podcasting-top-mic-picks-for-2024/"><u>Guide to Premium Podcasting Top Mic Picks for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-honor-100-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Honor 100</u></a></li>
-<li><a href="https://facebook.techidaily.com/set-up-alternative-light-for-facebook-appearance/"><u>Set Up Alternative Light for Facebook Appearance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-gpu-integration-on-new-win11-laptop/"><u>Successful GPU Integration on New Win11 Laptop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-process-of-batched-tiktok-content-extraction-for-2024/"><u>Unveiling the Process of Batched TikTok Content Extraction for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-japan-initiates-multilingual-text-recognition-services-with-sales-distributor-contract-combining-handwriting-ocr-and-traditional-character-ocr-for-enh15/"><u>ABBYY Japan Initiates Multilingual Text Recognition Services with Sales Distributor Contract: Combining Handwriting OCR & Traditional Character OCR for Enhanced Value</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-ocrcmd/"><u>ABBYY OCRソリューションによるCMDの拡張性:建設プロジェクト文書の効率的な管理と自動化</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-und-bosch-vorreiter-der-intelligenten-automatisierungstechnologie/"><u>ABBYY Und Bosch: Vorreiter Der Intelligenten Automatisierungstechnologie</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-unveils-innovations-of-the-future-at-ces-2019/"><u>ABBYY Unveils Innovations of the Future at CES 2019</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyys-comprehensive-cloud-platform-terms-of-use/"><u>ABBYY's Comprehensive Cloud Platform Terms of Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/accelerez-levolution-digitale-grace-a-la-revolutionnaire-technologie-de-reconnaissance-en-temps-reel-du-texte-par-abbyy/"><u>Accélérez L'évolution Digitale Grâce À La Révolutionnaire Technologie De Reconnaissance en Temps Réel Du Texte Par ABBYY</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ai-driven-invoice-handling-ensuring-promise-keeping-efficiency-in-accounts-payable/"><u>AI-Driven Invoice Handling: Ensuring Promise-Keeping Efficiency in Accounts Payable</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-wipe-your-iphone-clean-with-simple-steps/"><u>Complete Guide: Wipe Your iPhone Clean with Simple Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-future-foresight-versus-astrology-wonders/"><u>GPT’s Future Foresight Versus Astrology Wonders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-7-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 7 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-generative-tech-with-parenthood/"><u>Navigating Generative Tech with Parenthood</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-on-windows-11-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rethinking-ai-assessment-beyond-the-turing-trials/"><u>Rethinking AI Assessment Beyond the Turing Trials</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/set-up-your-windows-xp-professional-videography-tool/"><u>Set Up Your Windows XP Professional Videography Tool</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insider-guide-to-regular-broadcast-etiquette-for-2024/"><u>The Insider Guide to Regular Broadcast Etiquette for 2024</u></a></li>
 </ul></div>
 

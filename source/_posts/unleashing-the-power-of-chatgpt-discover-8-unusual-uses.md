@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of ChatGPT: Discover 8 Unusual Uses"
-date: 2024-10-22T17:04:51.543Z
-updated: 2024-10-29T16:57:32.194Z
+date: 2024-12-08T20:37:02.318Z
+updated: 2024-12-16T00:31:31.808Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
  If you've heard about ChatGPT and think it's just a fancy chatbot, you might be underestimating the range of what it can do. Here are some surprising things you can do with ChatGPT, whether you want to write a resume or have it dungeon-master an epic role-playing adventure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is ChatGPT?
 
  Not super familiar with [ChatGPT](https://openai.com/blog/chatgpt/)? No worries. It, and similar AI engines, are still quite new. You can take [a deep dive into ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/), and we can even [help you learn how to use ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/), but here's a quick summary before we look at some of the more novel ways you can use the AI chat service.
@@ -43,10 +47,7 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
  That warning out of the way, let's look at the interesting things ChatGPT can do, starting with the mundane but useful and moving onto some of the more novel uses.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Write a Cover Letter
@@ -57,13 +58,14 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![A ChatGPT AI response showing a cover letter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot6.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What it produced was a great template to start from, tweaking it slightly to reflect your accomplishments, of course, and not the theoretical ones it filled in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Write a Resume
@@ -75,13 +77,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
  Like the cover letter, you'll need to review the text and edit anything that is a bit too generous in describing your job responsibilities, but overall it's a fast way to generate a template you can easily adapt. It even leaves fill-in-the-blank sections for job titles, company names, and dates worked.
 
  As an aside, I thought it was particularly appropriate and quite funny that when I asked it to write me a resume for a network engineer, the request failed because of a network error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Generate Product and Company Name Suggestions
 
@@ -103,25 +98,11 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techidaily.com/-comprehensible-explanation-of-youtubes-viewership-puzzle/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Plan a Party or Event
 
  Need some inspiration for a party? We asked ChatGPT to help us come up with a list of activities for a 10-year-old's Minecraft-themed birthday party, and it delivered a solid list.
 
 ![A ChatGPT AI response showing ideas for a Minecraft themed birthday party.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot7a.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a long-time [Minecraft](https://extra-support.techidaily.com/is-picku-the-ultimate-answer-to-enhancing-your-android-photos-in-2024/) fan and kid at heart, I'm fairly confident I could have come up with these ideas on my own but imagine for a moment I knew my child loved Minecraft but was drawing a blank on party activity ideas.
 
@@ -137,15 +118,16 @@ Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techid
 
 ![A ChatGPT AI response showing a suggested AI prompt for the Dall-E AI art program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We plugged that prompt into Dall-E, and it created the following image set:
 
 ![A series of images showing the world of Legend of Zelda, rendered like a Picasso painting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/2023-02-08_131443.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dall-E
@@ -153,6 +135,10 @@ Dall-E
  We're calling it now. The character in image #2 will appear in a future Zelda game. If you're playing around with Dall-E more and want to hone your skills without ChatGPT helping with your prompts, [check out our Dall-E tips to get better results](https://facebook-video-footage.techidaily.com/unveiling-distinctions-a-look-at-youtube-and-dailymention-for-2024/). Maybe you'll even end up [hanging some AI art in your home](https://desktop-recording.techidaily.com/1715859646802-new-obs-full-screen-no-more-problem/).
 
 Related: [Can ChatGPT Create Images?](https://some-skills.techidaily.com/updated-unleash-your-potential-with-outstanding-android-time-lapse-videos/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Play a Text-Based Role Playing Game
 
@@ -171,13 +157,6 @@ Related: [Can ChatGPT Create Images?](https://some-skills.techidaily.com/updated
  Here is an example of one of the interactions in the game. My character encountered a town run by a gang of bulldogs. Not only did ChatGPT give me multiple options to interact with the gang to continue the story, but I could amend the options they gave me and the game would adapt on the fly.
 
 ![A ChatGPT AI response showing an interactive role playing game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot4.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Because I suggested they give me a weapon to help with the quest, ChatGPT modified the story to match that. Later on, I didn't like options A or B, so I suggested C with a completely different solution to a problem the game had presented, and ChatGPT used that instead.
 
@@ -231,18 +210,22 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-maximizing-vscos-potential/"><u>[New] Expert Tips for Maximizing VSCO's Potential</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-deciding-the-optimal-social-media-platform-tiktok-vs-youtube-shorts/"><u>[Updated] 2024 Approved Deciding the Optimal Social Media Platform TikTok Vs. YouTube Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-to-elevate-dslrmirrorless-footage/"><u>2024 Approved Gimbal Guide to Elevate DSLR/Mirrorless Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-no-cost-text-animation-methods/"><u>2024 Approved Innovating with No-Cost Text Animation Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-solutions-for-troubleshooting-logitech-c615-control-panel-problems/"><u>Easy Solutions for Troubleshooting Logitech C615 Control Panel Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-tips-for-turning-on-excel-macros-a-comprehensive-walkthrough/"><u>Expert Tips for Turning On Excel Macros: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-the-value-of-the-beantech-bitwatch-s1-plus-your-guide-to-an-affordable-and-compelling-wearable-tech-experience/"><u>Explore the Value of the Beantech Bitwatch S1 Plus: Your Guide to an Affordable and Compelling Wearable Tech Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-opportunity-snag-an-alienware-m18-r2-laptop-powered-by-rtx-4090-for-700-less/"><u>Huge Savings Opportunity: Snag an Alienware M18 R2 Laptop Powered by RTX 4090 for $700 Less!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>In 2024, How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-perfect-your-phones-chat-signal-how-to-download-and-personalize-whatsapp-ringtone/"><u>In 2024, Perfect Your Phone's Chat Signal How to Download & Personalize WhatsApp Ringtone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-top-10-iphone-and-android-apps-to-add-stickers-on-your-photos/"><u>In 2024, Top 10 iPhone and Android Apps to Add Stickers on Your Photos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/outshine-others-expert-tips-on-making-youtube-shorts-pop-for-2024/"><u>Outshine Others Expert Tips on Making YouTube Shorts Pop for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-truthgpt-elons-ambition-exposed/"><u>Unmasking TruthGPT: Elon's Ambition Exposed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-reinstating-normalcy-regain-your-fb-account/"><u>[New] 2024 Approved Reinstating Normalcy Regain Your FB Account</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-dj-tools-for-windows/"><u>[New] Expert DJ Tools for Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-explore-artistic-possibilities-premier-android-graphics-app-selection-for-2024/"><u>[New] Explore Artistic Possibilities Premier Android Graphics App Selection for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-horizons-video-tech-update/"><u>[New] Ghostly Horizons Video Tech Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-broadcasted-theatrical-skits/"><u>[Updated] Excellence in Broadcasted Theatrical Skits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[Updated] Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-retrieve-flawless-copyright-free-images/"><u>[Updated] How to Retrieve Flawless, Copyright-Free Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-cloud-services-with-infinite-capacity/"><u>[Updated] Ideal Cloud Services with Infinite Capacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-inexpensive-mirrorless-and-dslr-options/"><u>[Updated] Inexpensive Mirrorless & DSLR Options</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-the-field-in-remotely-recorded-content-creation-for-2024/"><u>[Updated] Leading the Field in Remotely Recorded Content Creation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-video-file-limits-in-64128gb/"><u>2024 Approved Exploring Video File Limits in 64/128GB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-luxury-equivalent-value-to-a-vision-pro-in-top-tier-gadgets-iphone-ipad-watch-and-more-tech-insights-on-zdnet/"><u>Affordable Luxury! Equivalent Value to a Vision Pro in Top-Tier Gadgets: IPhone, iPad, Watch and More | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 14 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-10-best-video-calling-software-on-phone-and-pc/"><u>In 2024, 10 Best Video Calling Software on Phone and PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-your-audio-foothold-podcasts-or-youtube-to-lean-on/"><u>In 2024, Finding Your Audio Foothold Podcasts or YouTube to Lean On?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-the-power-of-movie-maker-in-windows-8-for-professional-results-for-2024/"><u>Leveraging the Power of Movie Maker in Windows 8 for Professional Results for 2024</u></a></li>
 </ul></div>
 

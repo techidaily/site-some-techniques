@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-12-08T20:07:50.447Z
-updated: 2024-12-09T22:00:08.244Z
+date: 2024-12-09T20:57:15.189Z
+updated: 2024-12-15T22:06:01.226Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,18 +90,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-find-your-perfect-livestream-service-match/"><u>[New] How to Find Your Perfect Livestream Service Match</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-captivatescreen-scrutiny-platform/"><u>[Updated] In 2024, CaptivateScreen Scrutiny Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>2024 Approved Harmonizing Movement with Music Instagram's Reel Synergy Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-finest-gaming-experiences-google-play-pass-edition/"><u>Discover the Finest Gaming Experiences: Google Play Pass Edition</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guia-facil-para-restaurar-todos-tus-archivos-con-diskpart-limpiador/"><u>Guía Fácil Para Restaurar Todos Tus Archivos Con Diskpart Limpiador</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-fisheye-photography/"><u>In 2024, Harnessing the Power of Fisheye Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-video-voiceover-integration-for-2024/"><u>Innovative Approaches to Video Voiceover Integration for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-editing-canon-videos-like-a-pro-top-software-and-techniques-for-2024/"><u>New Editing Canon Videos Like a Pro Top Software and Techniques for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/seamless-idevice-screen-saving-tricks-for-2024/"><u>Seamless iDevice Screen Saving Tricks for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sifting-through-centuries-online-unlicensed-treasures/"><u>Sifting Through Centuries Online Unlicensed Treasures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-timer-power-with-zero-cost-for-2024/"><u>Unlocking Timer Power with Zero Cost for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-depths-of-firefox-pip-feature/"><u>[New] Exploring the Depths of Firefox PIP Feature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-filming-top-15-video-cameras-to-watch/"><u>[New] Future Filming – Top 15 Video Cameras to Watch</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultimate-list-groundbreayer-vr-gloves-reviewed-for-2024/"><u>[New] Ultimate List Groundbreayer VR Gloves Reviewed for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-professional-video-file-preservation-six-essential-steps-for-windows-11/"><u>[Updated] 2024 Approved Professional Video File Preservation Six Essential Steps for Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illustrator-tips-achieving-natural-motion-blur/"><u>[Updated] Illustrator Tips Achieving Natural Motion Blur</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-checklist-finding-videos-on-fb-today/"><u>[Updated] In 2024, The Ultimate Checklist Finding Videos on FB Today</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kobo-converter/"><u>Epubor Kobo Converter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expert-tips-for-instagram-green-screen-shoots-for-2024/"><u>Expert Tips for Instagram Green Screen Shoots for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-endorsed-8-tripods-for-flawless-4k-footage/"><u>In 2024, Expert-Endorsed 8 Tripods for Flawless 4K Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-unique-audio-selections-for-video-conclusions/"><u>In 2024, Free, Unique Audio Selections for Video Conclusions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-vs-yi-4k-the-ultimate-battle-of-action-cam-innovation-in-23/"><u>In 2024, GoPro Vs. Yi 4K The Ultimate Battle of Action Cam Innovation in '23</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/invisible-motion-capture-instruction/"><u>Invisible Motion Capture Instruction</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/optimize-your-presence-mastering-snapchat-business-use-for-2024/"><u>Optimize Your Presence Mastering Snapchat Business Use for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-pre-buy-reflection-with-ps5/"><u>The Ultimate Guide for Pre-Buy Reflection with PS5</u></a></li>
 </ul></div>
 

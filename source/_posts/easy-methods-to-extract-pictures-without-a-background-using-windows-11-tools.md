@@ -1,7 +1,7 @@
 ---
 title: Easy Methods to Extract Pictures Without a Background Using Windows 11 Tools
-date: 2024-12-02T20:29:17.638Z
-updated: 2024-12-09T21:32:38.808Z
+date: 2024-12-13T21:16:13.801Z
+updated: 2024-12-15T21:34:17.118Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Easy Methods to Extract Pictures Without a Background Using Windows 11 Tools
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Remove the Entire Background of an Image](https://screen-video-capture.techidaily.com/efficient-tactics-for-recording-vimeo-media/)
@@ -18,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Replace an Image's Background With a Solid Color](https://youtube-data.techidaily.com/024-approved-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you want to remove an image’s background or replace it with a solid color, look no further than your Windows 11 PC’s Paint and Photos app. These apps have built-in background removal and replacement features, and we’ll show you how to use them.
 
  After removing the background, if you wish to keep transparency in your image, make sure to save your image as a PNG file. This is because other formats like JPG don’t support transparent images.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove the Entire Background of an Image
 
@@ -49,16 +57,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A background-less image in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-background-removed-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To save this background-less image select File > Save from Paint’s menu bar, or press Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-save-photo-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that’s it.
@@ -75,10 +79,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The 'Rectangle' selection tool highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-rectangle-selection-tool-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Use the rectangle tool to select the part of the image where you want to delete the background. After making the selection, from the "Image" section at the top, choose Remove Background (the icon of a person and multiple lines behind them).
 
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
@@ -88,11 +88,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Replace an Image's Background With a Solid Color
@@ -103,13 +99,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open With > Photos highlighted in image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-open-image-with-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When the app opens, select Edit Image (or press Ctrl+E) in the top bar. 
 
 !['Edit Image' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-edit-image-photos.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the following screen, from the options at the top, select the icon of a person with lines behind them. This is the background removal and replacement tool.
 
@@ -123,19 +119,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The color palette highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-choose-color-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you make your color selection, you’ll find Photos showing you a demo of the end result. If you’re happy with it, at the bottom of the right pane, click "Apply." To reset your preferences, choose "Reset Background."
 
 !['Apply' and 'Reset Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-apply-color-photos.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your image is now ready to be saved.
 
  To save the image, click "Save Options" in the top-right corner. If you want to save the edited image as a copy of the original image, click "Save as Copy." To rewrite the original image with the edited image, just choose "Save." If you want copy the edited image to your clipboard so you can paste it in other apps, choose "Copy to Clipboard" instead. 
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-save-edited-image-photos.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And Photos will perform your chosen action.
 
@@ -172,20 +172,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sifting-through-social-media-stars-targeting-your-specific-interests/"><u>[New] 2024 Approved Sifting Through Social Media Stars Targeting Your Specific Interests</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigating-netizens-youtubes-footprint-in-facebook/"><u>[New] In 2024, Navigating Netizens YouTube’s Footprint in Facebook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>[New] In 2024, Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-a-deep-dive-into-previewed-fb-interactions-necessity-or-risk/"><u>[Updated] A Deep Dive Into Previewed FB Interactions Necessity or Risk?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>[Updated] Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-advanced-features-of-zoom-on-windows-11-systems/"><u>[Updated] Exploring Advanced Features of Zoom on Windows 11 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-essentials-for-the-avid-gamer/"><u>[Updated] Funimate Essentials for the Avid Gamer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-send-large-video-files-from-iphone-to-iphonepcmac/"><u>[Updated] How to Send Large Video Files From iPhone to iPhone/PC/Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-mb-to-seconds-a-20-video-study/"><u>2024 Approved From MB to Seconds A 20-Video Study</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-art-of-perfecting-vocal-recordings-for-video-projects/"><u>2024 Approved The Art of Perfecting Vocal Recordings for Video Projects</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-online-conversion-of-tod-files-to-mpeg-format-movavi/"><u>Free Online Conversion of TOD Files to MPEG Format - Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-sm-bus-controller-driver-for-windows-systems-download-for-win11win10win8win7/"><u>Get Your SM Bus Controller Driver for Windows Systems: Download for Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-cinema-boosted-list-of-the-best-15-luts-for-2024/"><u>GoPro Cinema Boosted List of the Best 15 LUTs for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-resolve-onedrive-sync-issues-on-windows-10-and-11-a-comprehensive-guide/"><u>How to Resolve OneDrive Sync Issues on Windows 10 and 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-strategies-for-video-enhancement-vce-22-deep-dive/"><u>In 2024, Expert Strategies for Video Enhancement - VCE 2.2 Deep Dive</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-full-screen-in-obs-no-more-worry/"><u>[Updated] 2024 Approved Full Screen in Obs, No More Worry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>2024 Approved Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funniest-memes-born-select-the-best-generators/"><u>2024 Approved Funniest Memes Born Select the Best Generators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-legally-downloading-and-watching-c-span-videos/"><u>2024 Approved Guide to Legally Downloading and Watching C-Span Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-resolution-revelations-comparing-ultrawide-and-uhd-4k-screens/"><u>2024 Approved High-Resolution Revelations Comparing UltraWide and UHD 4K Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hue-mastery-interface/"><u>2024 Approved Hue Mastery Interface</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-circles-capture-systems/"><u>2024 Approved Total Circles Capture Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-tips-for-easing-4-common-chatgpt-holds/"><u>Comprehensive Tips for Easing 4 Common ChatGPT Holds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-peak-tv-service-providers-comparative-insights-for-2024/"><u>Explore the Peak TV Service Providers Comparative Insights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions-for-2024/"><u>From Low to High A Beginner's Guide to Video Frame Rates & Resolutions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-newbie-to-zoom-whiz-in-no-time-for-2024/"><u>From Newbie to Zoom Whiz in No Time for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-90-gt-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor 90 GT Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rearranging-your-onedrive-storage-path-on-windows-10/"><u>Rearranging Your OneDrive Storage Path on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-win11-terminal-back-to-basics/"><u>Reverting Win11 Terminal Back to Basics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamlined-method-to-track-down-your-voice-in-youtube-threads-for-2024/"><u>Streamlined Method to Track Down Your Voice in YouTube Threads for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/transform-slide-show-into-video-format/"><u>Transform Slide Show Into Video Format</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-does-black-desert-online-keep-crashing-expert-tips-for-pc-users/"><u>Why Does Black Desert Online Keep Crashing? Expert Tips for PC Users</u></a></li>
 </ul></div>
 

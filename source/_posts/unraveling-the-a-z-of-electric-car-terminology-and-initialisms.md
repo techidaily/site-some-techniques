@@ -1,7 +1,7 @@
 ---
 title: Unraveling the A-Z of Electric Car Terminology and Initialisms
-date: 2024-10-27T16:39:46.320Z
-updated: 2024-10-29T16:12:18.640Z
+date: 2024-12-12T16:05:02.906Z
+updated: 2024-12-15T21:40:07.535Z
 tags:
   - cutting-edge
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 Cars and all their parts, terms, or repair jargon can be confusing, even if you're mechanically inclined. As electric vehicles continue to gain popularity, we now have a world full of entirely new sayings, acronyms, and more that you'll want to know and understand.
 
  Sure, cars come with an owner's manual, but if you're looking for a quick definition for some common terms, an EV glossary, we have you covered. I'm not talking about horsepower, torque, or even watts, as those are all pretty standard. Instead, read on to find out what classifies a vehicle as a PHEV, what EVSP or MPGe means, and what the heck a CHAdeMO is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Common EV Terms
 
@@ -35,10 +39,7 @@ Tyler Hayes / How-To Geek
 * **MPGe** (Miles Per Gallon Equivalent): A measurement of how far an EV can travel on battery compared to one gallon of gasoline. For example, 1 MPGe = 1 mi / 33.7 kWh battery. This helps consumers compare efficiency. Many Tesla models get upwards of 130 MPGe.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Electric Vehicle Charging Terms
@@ -46,10 +47,7 @@ Tyler Hayes / How-To Geek
 ![VW ID.4 plugged into a charging station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/4752ae2a-4c00-468a-9e6c-20857fe14e90.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -72,10 +70,7 @@ Tyler Hayes / How-To Geek
 * **kWh** (Kilowatt hours): A measurement of an EV's energy and how many kW it can supply overall or in hours.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other EV Terms and Acronyms
@@ -83,16 +78,7 @@ Tyler Hayes / How-To Geek
 ![A Tesla Model 3 from the side in a parking lot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/tesla-model-3-side-profile.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -124,20 +110,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-swift-moments-visual-and-auditory-sniped/"><u>[Updated] 2024 Approved Swift Moments Visual & Auditory Sniped</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ignite-interest-a-list-of-30-video-themes/"><u>[Updated] Ignite Interest A List of 30 Video Themes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-for-effective-image-pairing/"><u>[Updated] Innovative Methods for Effective Image Pairing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2204426-9780007513253-20-minutes-to-master-meditation/"><u>20 MINUTES TO MASTER … MEDITATION | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>2024 Approved Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-def-camera-the-top-audio-mics-guide/"><u>2024 Approved High-Def Camera The Top Audio Mics Guide</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/comment-sauver-vos-informations-apres-une-erreur-de-formatage-de-votre-cle-usb/"><u>Comment Sauver Vos Informations Après Une Erreur De Formatage De Votre Clé USB</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/led-steps-to-supercharge-your-youtube-audio-content/"><u>Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-resolving-issues-with-non-ejectable-dvd-bd-and-cd-drives/"><u>Expert Advice: Resolving Issues with Non-Ejectable DVD, BD & CD Drives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-picsarts-latest-features-a-complete-guide-and-review-of-its-revamp-for-2024/"><u>Exploring PicsArt's Latest Features – A Complete Guide & Review of Its Revamp for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-dactualisation-totale-pour-onedrive-les-etapes-simples-a-suivre/"><u>Guide D’actualisation Totale Pour OneDrive : Les Étapes Simples À Suivre</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonious-hush-managing-music-on-pc-mac-for-2024/"><u>Harmonious Hush Managing Music on PC, Mac for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>In 2024, Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-customized-text-editing-techniques-for-2024/"><u>The Ultimate Guide to Customized Text Editing Techniques for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-insider-look-at-youtube-revenue-policies/"><u>[New] In 2024, Insider Look at YouTube Revenue Policies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-costless-methods-for-superior-photo-quality/"><u>[Updated] Explore Costless Methods for Superior Photo Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-completion-a-windows-10-video-editors-journey/"><u>[Updated] From Concept to Completion A Windows 10 Video Editor’s Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusionflix-your-all-inclusive-tv-streaming-companion/"><u>[Updated] FusionFlix Your All-Inclusive TV Streaming Companion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illuminate-your-graphics-instinct-for-adobe-motion-blur/"><u>[Updated] Illuminate Your Graphics Instinct for Adobe Motion Blur</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>2024 Approved Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138571063-9781440193125-divine-inspiration-divine-understanding/"><u>Divine Inspiration, Divine Understanding | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-screenplays-in-8-movie-categories-for-2024/"><u>Groundbreaking Screenplays in 8 Movie Categories for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloading-of-wacom-intuos-pro-driver-compatible-with-windows-ebytes/"><u>Hassle-Free Downloading of Wacom Intuos Pro Driver Compatible with Windows Ebytes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-our-1-10-list-of-camera-lenses-for-the-best-shots/"><u>In 2024, Expert Picks Our #1-10 List of Camera Lenses for the Best Shots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-unveil-full-length-videos-in-yt/"><u>In 2024, How to Unveil Full-Length Videos in YT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/slow-it-down-a-comprehen-for-2024/"><u>Slow It Down A Comprehen for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-alteration-of-yt-vids-for-mac-screens/"><u>Speedy Alteration of YT Vids for Mac Screens</u></a></li>
 </ul></div>
 

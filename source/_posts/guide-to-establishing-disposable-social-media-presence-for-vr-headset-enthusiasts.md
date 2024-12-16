@@ -1,7 +1,7 @@
 ---
 title: Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts
-date: 2024-11-19T21:20:12.518Z
-updated: 2024-11-24T02:01:18.779Z
+date: 2024-12-12T19:30:11.366Z
+updated: 2024-12-15T18:54:34.166Z
 tags:
   - cutting-edge
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 * [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why Make a Throwaway Account?](https://mondly-stories.techidaily.com/making-languid-latin-lessons-a-blast/)
@@ -25,17 +29,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  The [Oculus Quest 2](https://www.amazon.com/dp/B099VMT8VZ/?tag=htg-v2-3lqek2p-20&ascsubtag=UUhtgUeUpU208100&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F765034%2Fhow-to-create-a-throwaway-facebook-account-for-oculus-quest%2F&asc%5Fcampaign=Short-Term) is the [best all-around VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) you can buy, but that recommendation comes with a huge asterisk. In order to use a Quest 2, you need a Facebook account! Luckily, you can minimize that hassle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  UPDATE: 8/24/22
 
 [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Make a Throwaway Account?
 
@@ -61,10 +57,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  The safest option is to choose "only me" for all types of activity. This means that although your activity will be on your timeline, no one besides you can see or interact with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  If You Have to Create an Account
 
  If you need to create a Facebook account to use your Oculus Quest 2, then you can at least lock it down. Start out by [creating a Facebook account on Facebook's website](https://www.facebook.com/) as usual. Be sure to use your real name, a real profile picture (or no profile picture), and to fill out the required minimum private information in your profile.
@@ -77,12 +69,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Facebook Privacy Checkup Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup-Option.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, choose "Who can see what you share."
 
 ![Facebook Privacy Checkup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the next screen, change every setting to "Only Me" and then select "Next."
@@ -93,12 +89,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Posts and Stories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Posts-and-Stories.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The final step involves blocking specific users, but for this account that's irrelevant, so just complete the wizard. Now you should have an account that's Facebook policy-compliant but is locked down as much as possible.
 
 ![Account Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Account-Quest-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Modding Your Quest 2
@@ -120,18 +120,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-sound-dynamics-in-ableton/"><u>[New] Harmonizing Sound Dynamics in Ableton</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-virtual-reality-tours/"><u>[New] How to Use Virtual Reality Tours</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-leading-brands-offering-the-best-steadicams-for-dslr-users-for-2024/"><u>[New] Leading Brands Offering the Best Steadicams for DSLR Users for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-minecraft-geometries-circular-and-spherical-designs-for-2024/"><u>[New] Mastering Minecraft Geometries Circular & Spherical Designs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-create-and-earn-a-startup-guide-for-youtube-channels/"><u>[Updated] 2024 Approved Elevate, Create & Earn A Startup Guide for YouTube Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flying-vs-capturing-dji-action-gopro-max-instax360/"><u>2024 Approved Flying Vs. Capturing DJi Action, GoPro Max, InstaX360</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-font-fusion-merging-style-and-content-in-after-effects/"><u>2024 Approved Font Fusion Merging Style & Content in After Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-heartstrings-plucked-essential-vocal-masterpieces-for-a-kiss/"><u>2024 Approved Heartstrings Plucked Essential Vocal Masterpieces for a Kiss</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-drafts-to-masterpieces-top-10-essential-graphic-design-tools-for-2024/"><u>From Drafts to Masterpieces Top 10 Essential Graphic Design Tools for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-7-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 7 Lock Screen</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-asrock-z790i-lightning-wi-fi-motherboard-compact-performance-meets-reliable-connectivity/"><u>Unboxing and Testing the ASRock Z790I Lightning Wi-Fi Motherboard: Compact Performance Meets Reliable Connectivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-single-shots-to-unified-visions-a-mosaic-story/"><u>[New] From Single Shots to Unified Visions A Mosaic Story</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unintended-tiktok-reset-regain-lost-posts/"><u>[New] In 2024, Unintended TikTok Reset – Regain Lost Posts?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-unique-audio-selections-for-video-conclusions/"><u>[Updated] Free, Unique Audio Selections for Video Conclusions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-google-powered-success-in-podcast-submissions/"><u>[Updated] Google-Powered Success in Podcast Submissions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compreh/"><u>Compreh</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-razr-40-ultra-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Razr 40 Ultra via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-6s-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 6s Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imovie-cropping-mystery-unveiled/"><u>In 2024, IMovie Cropping Mystery Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 5G Phone FRP Lock</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/income-patterns-in-the-podcast-industry-for-2024/"><u>Income Patterns in the Podcast Industry for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
 </ul></div>
 

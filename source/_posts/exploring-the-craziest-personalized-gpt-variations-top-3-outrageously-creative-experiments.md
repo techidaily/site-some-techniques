@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments"
-date: 2024-11-21T00:53:03.761Z
-updated: 2024-11-23T17:43:21.912Z
+date: 2024-12-13T17:49:26.194Z
+updated: 2024-12-15T23:17:01.153Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ## Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 * Deep Game, an AI fiction writer, excels in creating engaging stories, offering various genres, and even allows users to direct the plot development.
 
  If you browse the "Explore GPTs" section of ChatGPT, you'll find a near-endless selection of custom GPTs for everything you can think of and at least a few things you'd never think of!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Astrology Birth Chart GPT
 
@@ -50,14 +46,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![A screenshot of the response including Sun sign and moon sign explanations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225219_chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a detailed birth chart! However, it doesn't take AI to do a birth chart, just an extensive database. A real test would be to prompt the GPT to apply this chart to a specific scenario.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Prompt: What Would Be a Good Career for Me Based on This Info?
@@ -76,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
  Overall, I thought this AI was knowledgeable about astrology and good fun for someone with a casual interest. A serious student of astrology probably doesn't need this AI, and may find minor inaccuracies, like with any AI. However, it was fun and interesting for this skeptic to get a little extra insight.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Rizz GPT
 
  My kids have been telling me to write about the Rizz GPT for a while. They keep saying, "It's hilarious!" I'd ask for an example, but they'd inevitably just tell me, "It boosts your Rizz!" In hindsight, I think they thought it was hilarious because they'd seen examples of its use on TikTok and YouTube. Now I know why the videos are funny, because anyone actually using anything out of this AI in real life would, indeed, be hilarious.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Prompt: What is Rizz?
 
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
  Despite this red flag, I pressed on. I described my work, hobbies, kids, and preferences, and asked it to write me a dating profile. The resulting response was poorly written, formulaic, cheesy, and exactly what one would expect from the author of those pickup lines. It later occurred to me that using that profile as an obvious joke on a dating site might actually generate interest. I didn't test it out, but it made me wonder if I was taking the AI too seriously. Is this AI supposed to be a caricature of Gen Z? Perhaps I'm too old to get the joke. However, not meeting the basic standards of AI we've come to expect from GPTs means the joke is poorly executed, in my opinion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Deep Game
 
  For a writer, this AI was fun! Deep Game is an AI fiction writer that I tested with a variety of prompts, and it nailed them all. At first, I started with the prompt, "New Game." Deep Game responded by offering several genres of fiction. I chose "war."
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Without missing a beat, Deep Game continued the story, "The sun blazes high in the sky, its relentless heat beating down on the small, desolate island. Palm trees sway gently in the breeze, their fronds rustling softly. The sand beneath your feet is hot, almost unbearable. You've managed to set up a small camp using the few supplies you had, but with no rain in days, your collected water is dangerously low."
 
 ![Screenshot of prompt and the first part of the GPT response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225031_chatgpt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The writing is verbose and the story lines are archaic. However, that's typical of AI writing, in my experience. This AI is as good as ChatGPT gets. Of the three GPTs I tried, this is the only one I can see myself using again. I'm thoroughly a non-fiction writer. However, if I did start writing fiction and inevitably got stuck, I think I could enter the plot I had so far to see what it suggested. It could be fun to do with kids. It might also be useful for fantasy tabletop role-playing games like _Dungeons & Dragons_, because the user can direct the story while Deep Game paints the scenes both with words and art. For those with [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) accounts, it can generate an image of the scene just described. Just use the command "/visualize".
 
@@ -143,19 +143,24 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-financials-of-youtube-marketing/"><u>[New] Exploring the Financials of YouTube Marketing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flipping-fun-facts-into-memes-with-kinemaster/"><u>[New] Flipping Fun Facts Into Memes with KineMaster</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-smart-way-to-save-youtube-sections/"><u>[New] The Smart Way to Save YouTube Sections</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-extract-and-save-video-previews-free-and-easy/"><u>[Updated] In 2024, Extract and Save Video Previews, Free & Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-top-6-microphone-options-for-clear-crisp-streams/"><u>2024 Approved Explore The Top 6 Microphone Options for Clear, Crisp Streams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-mobile-overlay-tools-top-10-innovative-photo-enhancers/"><u>2024 Approved Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-down-on-expenses-how-to-maintain-affordable-online-entertainment-budgets/"><u>Cutting Down on Expenses: How to Maintain Affordable Online Entertainment Budgets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/everything-you-need-to-know-about-openai/"><u>Everything You Need to Know About OpenAI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-quality-ai-voice-to-text-software-for-2024/"><u>Highest Quality AI Voice to Text Software for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elite-converter-mp4-to-instant-fb-access-2023/"><u>In 2024, Elite Converter MP4 to Instant FB Access 2023</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-using-fbx-for-gamers/"><u>In 2024, The Ultimate Guide to Using FBX for Gamers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210773223-9781649699299-married-but-single-wives-without-husbands/"><u>Married, But Single; Wives Without Husbands | Free Book</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-save-big-on-final-cut-pro-education-bundle-deals-inside/"><u>New In 2024, Save Big on Final Cut Pro Education Bundle Deals Inside</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-roundup-of-best-game-casting-apps/"><u>[New] Expert Roundup of Best Game Casting Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-ai-driven-shooting-modes-in-todays-cameras/"><u>[New] Exploring the AI-Driven Shooting Modes in Today's Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infinite-jest-10-ultimate-meme-layouts/"><u>[New] Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-navigating-the-world-of-vivacut-video-editing-insights/"><u>[Updated] 2024 Approved Navigating the World of VivaCut Video Editing - Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-collaboration-with-snap-camera-techniques-for-2024/"><u>[Updated] Enhancing Collaboration with Snap Camera Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-gopro-max-and-hero-11-pursuit-of-perfect-footage/"><u>[Updated] Examining GoPro Max & Hero 11 Pursuit of Perfect Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flipping-filmmaking-on-your-android-device/"><u>[Updated] Flipping Filmmaking on Your Android Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-seamlessly-add-and-edit-audio-to-canvas-clips-for-2024/"><u>How to Seamlessly Add and Edit Audio to Canvas Clips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-easy-the-best-websites-for-jpg-to-gif-transformation/"><u>In 2024, Free & Easy The Best Websites for JPG to GIF Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-masters-guide-to-4k-monitors/"><u>In 2024, Game Masters' Guide to 4K Monitors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-res-360-views-gear-vs-lgcam-showdown/"><u>In 2024, High-Res 360 Views Gear vs LGCam Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-snapchats-spotlight-feature/"><u>In 2024, The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-computer-new-adventures-starting-with-the-basics-first-five-actions/"><u>New Computer, New Adventures: Starting with the Basics (First Five Actions)</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-triggered-meme-for-2024/"><u>New How to Make a Triggered Meme for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-infinix-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Infinix</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-12-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 12 Activation Lock</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
 </ul></div>
 

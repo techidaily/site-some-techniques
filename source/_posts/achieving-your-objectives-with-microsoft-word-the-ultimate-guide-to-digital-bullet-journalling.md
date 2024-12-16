@@ -1,7 +1,7 @@
 ---
 title: "Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling"
-date: 2024-12-04T17:48:48.687Z
-updated: 2024-12-09T20:56:21.819Z
+date: 2024-12-14T19:56:44.184Z
+updated: 2024-12-15T18:12:08.226Z
 tags:
   - deals
 categories:
@@ -36,10 +36,6 @@ Bulletjournal.com
 1. Unlike other preset planners, you’re supposed to add a new page every day for the daily log. Even if you miss a day, there are no gaps in a bullet journal. The next blank space on the page is always where the next entry goes. So you can always just add a new page on your Word document to continue journaling. No friction or hopping around pages whatsoever.
 2. Secondly, a physical bullet journal will eventually run out of space. You can technically keep the Word bullet journal forever.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Create a Bullet Journal in Microsoft Word
 
  Your bullet journal inside Word can be as complex or as simple as you’d like it to be. You’ve probably seen some amazingly creative bullet journals on Pinterest or Instagram with all those flourishes, color, doodles, and artwork. But every bullet journal needs at least four pages (it’s kind of the default template), and so does our Word bullet journal.
@@ -55,6 +51,10 @@ Bulletjournal.com
 
 * Microsoft Word.
 * Dot pattern image file (optional).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Create the Spread
 
@@ -72,10 +72,6 @@ Close
 
  If the pattern doesn’t look right. Try changing its size using the drop-down menu or unchecking the “Washout” button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Create the Index
 
  We’re ready to create our first bullet journal page. Click “Blank Page” on the “Insert” tab. The “Index” page is your directory to find everything in the bullet journal. That’s why we numbered the pages. You can always use the very next page on your journal for anything you want, and later, locate its page or page range in the index.
@@ -83,11 +79,7 @@ Close
 ![Creating the index page in a bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-202543.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Create the Future Log
@@ -96,6 +88,10 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Create the Monthly Log
 
  The monthly log captures and shows you an overview of what you need to get done or remember in that month. It's supposed to be a bird's eye view of your month. Mine is just a list of the month's dates with the notes or tasks. You can add weekdays to the list if you want.
@@ -103,7 +99,7 @@ Close
 ![ksnip_20240801-203144](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203144.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Create the Daily Log
@@ -112,7 +108,15 @@ Close
 
 ![ksnip_20240801-203451](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203451.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use the Bullet Journal
 
@@ -143,10 +147,6 @@ Close
 
 ![Signifiers for my digital bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-204346.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can use any symbols to create your system as long as it’s consistent. Click the bullet button on the Home menu and select “Define Bullet.” Press “Symbol” and choose a symbol you want to use. Repeat these steps to create the whole library of symbols that you’ll be using.
 
 ---
@@ -168,24 +168,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-chromebooks-and-zoom/"><u>[New] Expert Advice on Chromebooks and Zoom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-eye-catching-coverage-laptop-wallpapers-online/"><u>[New] Eye-Catching Coverage Laptop Wallpapers Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-film-fanatics-unite-ioss-best-free-and-paid-filmmaking-tools/"><u>[New] Film-Fanatics Unite! IOS's Best Free & Paid Filmmaking Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-theory-to-canvas-color-essentials/"><u>[New] From Theory to Canvas Color Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-collage-for-facebook-instantly/"><u>[New] How to Make Collage for Facebook Instantly</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-celebrity-fleeting-frame-revisit/"><u>[New] In 2024, Celebrity Fleeting Frame Revisit</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-reducing-excessive-encoding-obs-for-2024/"><u>[New] Reducing Excessive Encoding (OBS) for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[Updated] 2024 Approved Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-produce-high-impact-low-cost-youtube-ads/"><u>[Updated] 2024 Approved How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-and-exploration-adobe-storage-vs-competitors-options/"><u>[Updated] In-Depth Analysis & Exploration Adobe Storage Vs. Competitors' Options</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>[Updated] Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-frame-one-15-key-shot-types-for-film-beginners/"><u>2024 Approved From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/discover-the-best-no-cost-dvd-reading-software-for-windows-10-your-ultimate-guide-to-enjoying-every-dvd/"><u>Discover the Best No-Cost DVD Reading Software for Windows 10 - Your Ultimate Guide to Enjoying Every DVD</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-ways-to-refresh-dell-docking-station-driver-software/"><u>Easy Ways to Refresh DELL Docking Station Driver Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/face-to-face-video-glitch-9-quick-fixes-for-fir-chrome-safari-users-for-2024/"><u>Face-to-Face Video Glitch 9 Quick Fixes for Fir, Chrome, Safari Users for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-high-dynamic-range-image-creation-with-lightroom/"><u>In 2024, Expert Techniques for High Dynamic Range Image Creation with Lightroom</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-insta-lives-guide-to-downloads-and-creative-techniques/"><u>In 2024, Mastering Insta Lives Guide to Downloads & Creative Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-13t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi 13T Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tango-communication-app-reviewed-enjoy-voicevideo-plus-text-messaging-for-free/"><u>Tango Communication App Reviewed: Enjoy Voice/Video + Text Messaging for Free!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-insights-how-to-use-it-for-beginners-easily/"><u>[Updated] Facebook Insights How to Use It for Beginners Easily</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/customized-marketing-automation-with-leading-ai-technology/"><u>Customized Marketing Automation with Leading AI Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effortless-conversion-of-pdfs-and-images-to-searchable-files-using-docscan-x-top-tier-mobile-ocr-technology/"><u>Effortless Conversion of PDFs & Images to Searchable Files Using DocScan X: Top-Tier Mobile OCR Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-customized-advertising-through-cookiebot-technology/"><u>Enhanced User Experience with Customized Advertising Through Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-website-analytics-smart-data-collection-via-cookiebot-integration/"><u>Enhanced Website Analytics: Smart Data Collection via Cookiebot Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-website-traffic-with-cookiebot-technology/"><u>Enhanced Website Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-efficiency-at-manchester-university-nhs-foundation-trust-with-total-automated-billing-systems-and-secured-financial-operations/"><u>Enhancing Efficiency at Manchester University NHS Foundation Trust with Total Automated Billing Systems and Secured Financial Operations</u></a></li>
+<li><a href="https://solve-help.techidaily.com/free-methods-converting-webm-files-to-mp3-format-on-pc-and-online-platforms/"><u>Free Methods: Converting WebM Files to MP3 Format on PC and Online Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a05s-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A05s to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unearth-unique-youtube-chats/"><u>In 2024, Unearth Unique YouTube Chats</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overturn-pc-monitoring-in-win7/"><u>Overturn PC Monitoring in Win7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-guide-to-effective-twitter-de-following-for-2024/"><u>The Ultimate Guide to Effective Twitter De-Following for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-12-08T19:16:45.777Z
-updated: 2024-12-09T19:46:43.688Z
+date: 2024-12-11T22:58:42.920Z
+updated: 2024-12-16T00:11:09.750Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 While I am a Linux daily driver, and I do sprinkle the terminal with commands now and then, I'm by no means a hacker. That didn't stop me from looking the part, though, since it turns out several simple commands (and a whole app) exist to make you look like a star in a florid cyberthriller. Here they are and how to run them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  neofetch 
@@ -22,7 +22,7 @@ While I am a Linux daily driver, and I do sprinkle the terminal with commands no
 ![neofetch command output on an Ubuntu operating system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-14_16h38_17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Starting simple, neofetch is perfect for when you want to send your friends a screenshot of your sweet new Linux desktop with a terminal open to make it look like you know how to use it. You simply run the command and some stats about your system will be printed next to a big [ASCII art](https://en.wikipedia.org/wiki/ASCII%5Fart) version of your distro's logo. If you've ever checked out r/UnixPorn, you'll recognize it as one of the more popular outputs to have printed in an open terminal.
@@ -42,7 +42,7 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -70,7 +70,7 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -88,10 +88,6 @@ snap install genact
 ./genact-1.4.2-x86_64-unknown-linux-gnu
 
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4  hollywood 
 
@@ -112,6 +108,10 @@ dnf install hollywood
 sudo pacman -S hollywood
 
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
 
@@ -140,22 +140,16 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-on-maximizing-adobes-cloud-storage-capabilities-and-top-contenders/"><u>[New] Expert Tips on Maximizing Adobe's Cloud Storage Capabilities and Top Contenders</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-hubs-for-downloading-popular-youtube-tone-selections/"><u>[New] Ideal Hubs for Downloading Popular YouTube Tone Selections</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-gear-warriors-test-who-wins-gopro-hero5-black-vs-virb-ultra/"><u>[Updated] 2024 Approved Gear Warriors Test Who Wins? GoPro Hero5 Black Vs. VIRB Ultra</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-art-of-storytelling-integrating-captions-into-your-instagram-videos/"><u>[Updated] In 2024, The Art of Storytelling Integrating Captions Into Your Instagram Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-archive-to-annotation-turning-zip-into-srt/"><u>2024 Approved From Archive to Annotation Turning ZIP Into SRT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-increasing-interior-vibrancy-suns-role-inside/"><u>2024 Approved Increasing Interior Vibrancy Sun's Role Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-transforming-flv-files-into-mp4-with-vlc/"><u>Effortless Conversion: Transforming FLV Files Into MP4 with VLC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-video-opening-line-template-packs-for-2024/"><u>Free Video Opening Line Template Packs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-pace-165hz-game-screens/"><u>High-Pace 165Hz Game Screens</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-channels-make-it-easier-to-connect-in-facebook-groups/"><u>How Channels Make It Easier to Connect in Facebook Groups</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-legally-access-game-music-without-spending-money-for-2024/"><u>How to Legally Access Game Music Without Spending Money for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-upgrade-your-mac-with-macos-sierra-simplified-for-2024/"><u>How to Upgrade Your Mac with macOS Sierra Simplified for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ffmpeg-review-upholding-authentic-audio-formats/"><u>In 2024, FFmpeg Review Upholding Authentic Audio Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frolicsome-videoland-assessor/"><u>In 2024, Frolicsome Videoland Assessor</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>In 2024, Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-future-with-apple-key-highlights-from-the-iphone-16-launch-glowtime-enhanced-apple-watch-series-10-revolutionary-airpods-and-beyond-tech-insig179/"><u>Unveiling the Future with Apple: Key Highlights From the iPhone 16 Launch - Glowtime, Enhanced Apple Watch Series 10, Revolutionary AirPods, and Beyond | Tech Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-speeding-up-live-instagram-broadcasts-on-desktop/"><u>[New] 2024 Approved Speeding Up Live Instagram Broadcasts on Desktop</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-free-youtube-video-editing-apps-for-iphone-and-ipad-and-how-tos-for-2024/"><u>[New] Best Free YouTube Video Editing Apps for iPhone & iPad & How-Tos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-snapshot-to-success-an-in-depth-video-guide-for-youtube-photos/"><u>2024 Approved From Snapshot to Success An In-Depth Video Guide for YouTube Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-of-crafting-engaging-stories/"><u>2024 Approved Fundamentals of Crafting Engaging Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highpoint-artist-toolkit-review/"><u>2024 Approved Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/5-crucial-considerations-for-smartwatch-level-fitness-trackers-buyers-guide/"><u>5 Crucial Considerations for Smartwatch-Level Fitness Trackers - Buyer’s Guide</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/build-a-bootstrap-recovery-drive-in-windows-10-without-spending-a-penny-easy-tutorials/"><u>Build a Bootstrap Recovery Drive in Windows 10 Without Spending a Penny | Easy Tutorials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-offline-audio-to-text-solutions-for-2024/"><u>Expert Offline Audio to Text Solutions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-20plus-funny-memes-of-virtual-universes-for-2024/"><u>Exploring 20+ Funny Memes of Virtual Universes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-x-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone X Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-12-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi 12 online without jailbreak</u></a></li>
 </ul></div>
 

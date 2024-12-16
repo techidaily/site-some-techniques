@@ -1,7 +1,7 @@
 ---
 title: Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-date: 2024-12-06T16:51:11.530Z
-updated: 2024-12-09T19:38:39.582Z
+date: 2024-12-15T01:02:40.561Z
+updated: 2024-12-15T23:55:31.449Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,17 +27,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Samsung Neo QLED 8K TV at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53452202263_a60ecb519a_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  Smart appliances like smart TVs often have an operating system derived from Linux, but there's a good chance there's some form of Linux in appliances like smart fridges or internet-connected microwaves. Since the Linux kernel is free and open-source, there's plenty of incentive to simply adapt it to run on appliances that need this level of software to do their jobs, instead of writing software from scratch. There's even a chance that your Wi-Fi router could be running Linux. Even your [coffee maker at work](https://www.reddit.com/r/LinuxActionShow/comments/594b7m/the%5Fnew%5Fcoffee%5Fmachine%5Fat%5Fmy%5Fworkplace%5Fruns%5Flinux/) could be running Linux.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Supercomputers 
 
@@ -55,25 +43,29 @@ _ORNL_
 
 ![Waze running on a car infotainment screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/909ecb91.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[Waze](https://www.waze.com/press)_
 
  Most modern cars come with slick infotainment systems from the factory these days, and there's a good chance that behind the pretty icons and colors there beats the digital heart of the Linux kernel. I actually realized this recently when I was thinking about updating my KIA's system, and ran across a fix for bricked infotainment systems where you just plug a USB keyboard into your car, and spam Linux keyboard shortcuts to escape the boot loop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4  Smartphones 
 
 ![Front and rear view of some flagship smartphones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/front-and-rear-view-of-some-flagship-smartphones.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | Best Buy
 
  This is technically cheating a little but, but most smartphones in the world run Android, and Android is based on Linux. However, it's heavily modified and doesn't contain the same set of libraries as standard Linux distros meant for desktop use. However, there _are_ [proper Linux smartphones](https://driver-install.techidaily.com/startech-windows-drives-mended-across-xp-to-11/) such as the [Librem 5](https://puri.sm/products/librem-5/), which runs [PureOS](https://pureos.net/), a distro of Linux.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Medical Devices 
 
@@ -87,9 +79,17 @@ _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical
 
 ![iot devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/05/241daf9c.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shutterstock/Panchenko Vladimir
 
  The [Internet of Things](https://extra-skills.techidaily.com/in-2024-optimizing-display-youtubes-zoom-mastery/) is the description we've given to a loose collection of devices that mainly talk to each other over networks. So this could be anything from your IP security cameras, to your thermostat, to remote solar-powered weather sensors. A good portion of these devices run Linux, rather than proprietary firmware. When you access your IP cameras, for example, you're essentially logging into a Linux server running on your local network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  Emulator Handhelds 
 
@@ -114,24 +114,24 @@ Anbernic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-full-review-exploring-hero4-black-functions/"><u>[New] Full Review Exploring Hero4 Black Functions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-stunning-hdr-photography/"><u>[New] Innovative Techniques for Stunning HDR Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-trending-stock-images-and-behind-the-scenes-stories/"><u>[New] Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-budget-friendly-online-face-offs-for-2024/"><u>[New] Ultimate Budget-Friendly Online Face-Offs for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>[Updated] 2024 Approved The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capture-all-hulu-streaming-on-different-os-and-devices/"><u>[Updated] In 2024, Capture All Hulu Streaming on Different OS and Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-inshot-against-other-apps/"><u>[Updated] In-Depth Comparison InShot Against Other Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-top-tools-for-dynamic-image-background-alterations-for-2024/"><u>10 Top Tools for Dynamic Image Background Alterations for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-going-back-with-android-video-editing/"><u>2024 Approved Going Back with Android Video Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guideline-on-budgeting-for-music-video-filming/"><u>2024 Approved Guideline on Budgeting for Music Video Filming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-and-convert-your-videos-faster-discover-how-free-apple-video-converter-now-works-with-ipod-nano/"><u>Download and Convert Your Videos Faster: Discover How Free Apple Video Converter Now Works with iPod Nano!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-14-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 14 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hues-in-harmony-the-process-of-film-coloring-for-2024/"><u>Hues in Harmony The Process of Film Coloring for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x50-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-video-intro-templates-you-need-to-download/"><u>In 2024, Free Video Intro Templates You Need to Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-achieve-lightning-fast-periscope-transmission/"><u>In 2024, How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-episodic-unveiling-schedule/"><u>In 2024, Ideal Episodic Unveiling Schedule</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-tips-for-srt-file-production-mastery/"><u>In 2024, In-Depth Tips for SRT File Production Mastery</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/king-youtubes-monetization-potential/"><u>Unlocking YouTube's Monetization Potential</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-thumbnail-tactics-for-top-views-on-youtube-videos/"><u>[New] 2024 Approved Thumbnail Tactics for Top Views on YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-free-text-animations-both-ways/"><u>[New] Seamless Integration Free Text Animations Both Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming/"><u>2024 Approved Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-review-of-vivacuts-latest-edits-and-enhancements/"><u>2024 Approved Expert Review of VivaCut's Latest Edits and Enhancements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-yuneec-typhoon-h-expert-drone-review/"><u>2024 Approved Exploring the Yuneec Typhoon H Expert Drone Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-memery-masters-explore-and-share-joy/"><u>2024 Approved Free Memery Masters Explore & Share Joy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-mastery-the-2023-review-of-kinemaster-for-android/"><u>2024 Approved Game On with Mastery The 2023 Review of KineMaster for Android</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/diagnosing-hardware-woes-why-wont-my-system-acknowledge-its-hard-disk-tips-by-yl-software-experts/"><u>Diagnosing Hardware Woes: Why Won't My System Acknowledge Its Hard Disk? - Tips by YL Software Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-choice-8-best-converters-from-sub-to-srt-for-2024/"><u>Expert Choice 8 Best Converters From Sub to Srt for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focus-on-you-iphone-and-android-photo-trimmers-for-2024/"><u>Focus On You IPhone & Android Photo Trimmers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/formulating-intriguing-podcast-openers-for-2024/"><u>Formulating Intriguing Podcast Openers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-isolated-snaps-to-awe-inspiring-mosaic-symphony-for-2024/"><u>From Isolated Snaps to Awe-Inspiring Mosaic Symphony for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-tech-uncovered-projecting-googles-next-watch-pricing-launch-date-and-possible-features-explored/"><u>Future Tech Uncovered: Projecting Google's Next Watch – Pricing, Launch Date & Possible Features Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-xiaomi-redmi-13c-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-your-pc-with-the-advanced-uninstallation-tool-revo-uninstaller-pro-version/"><u>Master Your PC with the Advanced Uninstallation Tool: Revo Uninstaller Pro Version 지</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-titles-in-final-cut-pro-x-2023-edition/"><u>New The Ultimate Guide to Titles in Final Cut Pro X 2023 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-6-strategies-for-mc-village-housebuilding/"><u>Top 6 Strategies for MC Village Housebuilding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-with-these-5-insider-tips-for-writing-superior-prompts-on-chatgpt/"><u>Unlock the Power of AI with These 5 Insider Tips for Writing Superior Prompts on ChatGPT</u></a></li>
 </ul></div>
 

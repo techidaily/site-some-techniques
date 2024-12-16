@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2024-12-06T18:32:53.199Z
-updated: 2024-12-09T22:23:24.373Z
+date: 2024-12-09T19:15:43.521Z
+updated: 2024-12-15T22:38:31.674Z
 tags:
   - web
 categories:
@@ -38,22 +38,22 @@ Authy is one of the best authentication services out there, as well as one of th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-edition-motorcyclings-top-action-cameras-of-2023-review/"><u>[New] Exclusive Edition Motorcycling’s Top Action Cameras of 2023 Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hue-alignment-assistant/"><u>[Updated] Hue Alignment Assistant</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hues-photographic-pieces-of-lifes-palette/"><u>2024 Approved Harmonious Hues Photographic Pieces of Life's Palette</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-and-interpreting-twitter-archives/"><u>2024 Approved Navigating and Interpreting Twitter Archives</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-civilization-vi-install-from-freezing-up-proven-fixes-inside/"><u>How To Stop Your Civilization VI Install From Freezing Up - Proven Fixes Inside!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-narratives-distributed-among-8-movie-segments-for-2024/"><u>Ideal Narratives Distributed Among 8 Movie Segments for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-20-freepaid-luts-for-dji-mini-2air-2smavic-2/"><u>In 2024, 20 Free/Paid LUTS for DJI Mini 2/Air 2S/Mavic 2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-express-yourself-accessibility-available-for-free/"><u>In 2024, Express Yourself, Accessibility Available for Free</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-mobile-multimedia-tools-to-transform-photos/"><u>In 2024, Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-grammarly-a-dead-service-on-your-desktop/"><u>Reactivating Grammarly, a Dead Service on Your Desktop</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-tips-for-dealing-with-iphone-display-flickering-and-lag/"><u>Simple Troubleshooting Tips for Dealing with iPhone Display Flickering & Lag</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/windowseis-herstel-oplossing-voor-verloren-partities-en-bestanden/"><u>Windowseis Herstel: Oplossing Voor Verloren Partities en Bestanden</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-procure-no-cost-media-content-from-prime-4-youtube-vids/"><u>[New] 2024 Approved Procure No-Cost Media Content From Prime 4 YouTube Vids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-list-12-great-sources-for-no-cost-image-shots/"><u>[New] 2024 Approved Ultimate List 12 Great Sources for No-Cost Image Shots</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[Updated] 2024 Approved Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-change-the-netflix-video-playback-speed-on-computer-and-mobile/"><u>[Updated] How to Change the Netflix Video Playback Speed on Computer and Mobile?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-essential-web-portals-delivering-impeccable-text-effects/"><u>2024 Approved Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-express-faster-window-photo-sorter/"><u>2024 Approved Express Faster Window Photo Sorter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gamings-new-leaders-1-ranked-4k-laptops/"><u>2024 Approved Gaming's New Leaders #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fb-snapcast-converter/"><u>FB Snapcast Converter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple-for-2024/"><u>From Novice to Pro Transforming Zoom Into a YouTube Live Staple for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-delete-memory-dump-files-windows-10/"><u>How to Delete Memory Dump Files Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-swiftly-find-and-access-lost-reddit-discussions-for-2024/"><u>How to Swiftly Find and Access Lost Reddit Discussions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-clever-circumventions-for-edgenuity-video-course-skipping/"><u>In 2024, Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 6 Plus Passcode without a Computer</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

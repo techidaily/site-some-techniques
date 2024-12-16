@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-12-04T16:00:17.364Z
-updated: 2024-12-09T21:01:06.038Z
+date: 2024-12-10T18:04:00.091Z
+updated: 2024-12-15T20:37:00.375Z
 tags:
   - deals
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 I switched to Windows 11 recently, and it has been an interesting experience. Besides from the [wildly-unpopular Recall update](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/), there are a few things already in the operating system that have made me unhappy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Upgrading to Windows 11 Was Painless
@@ -27,13 +27,13 @@ Lucas Gouveia / How-To Geek
 
  I will say that the upgrade was completely painless. It was quite different from my previous installation scenarios, although I figure if I ever had to reinstall the operating system, the from-scratch installation is probably more complicated than the upgrade. After about twenty minutes of downloading and updating files, the machine rebooted, and I was immediately into Windows 11\. And that's where things started to go downhill.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Enabling TPM 2.0
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -47,10 +47,6 @@ Benj Edwards / How-To Geek
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
  It wasn't so bad, since all one had to do to fix the "problem" was right-click on the taskbar and [change the setting from center aligned to left aligned](https://twitter-videos.techidaily.com/updated-in-2024-twitters-new-era-of-videography-aspect-ratios-mandatory/). It was a cosmetic change, although I'm not sure why Microsoft decided to default the Start button to center-aligned when all the previous iterations of Windows were left-aligned. But I digress—this one annoyed me, but it wasn't a functional issue.
@@ -59,12 +55,16 @@ Benj Edwards / How-To Geek
 
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Truncated Context Menus Hurt Usability
 
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
@@ -76,10 +76,6 @@ Benj Edwards / How-To Geek
 ##  The Sorting Options Are All Wonky
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As a power user, I like sorting my stuff in a particular way. Sometimes, I like seeing thumbnails (if it's images), sometimes I like seeing details if I want to determine which file is the largest and needs to be deleted. Back in Windows 10, it was such an easy thing to arrange your icons by date, or size. Now, Windows 11 has made it more unintuitive for users to sort their files.
 
@@ -94,6 +90,10 @@ Benj Edwards / How-To Geek
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It's Not A Bad Operating System But...
 
@@ -120,24 +120,21 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-boost-for-editors-leveraging-story-remix-within-windows-photos/"><u>[New] Expertise Boost for Editors Leveraging Story Remix Within Windows Photos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovation-unveiled-5-cutting-edge-webcams-with-sound-tech-for-2024/"><u>[New] Innovation Unveiled 5 Cutting-Edge Webcams With Sound Tech for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>[New] JestJamboree Discover a Sea of Memes at Your Feet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-implementing-exact-timestamp-features-for-youtube/"><u>[Updated] Implementing Exact Timestamp Features for YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-10and112024dvd/"><u>【Windows 10&11支援】2024上市的免費強力DVD播放器軟件選擇列表</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>2024 Approved FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
-<li><a href="https://article-posts.techidaily.com/boosting-engagement-the-key-to-successful-tiktok-unpack-videos/"><u>Boosting Engagement The Key to Successful TikTok Unpack Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-access-to-best-ae-templates-for-2024/"><u>Exclusive Access to Best AE Templates for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap-for-2024/"><u>Fiscal Football Footage How To Capture and Edit for Dirt-Cheap for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero5-black-mastery-techniques-to-take-photos-and-videos-from-great-for-2024/"><u>Hero5 Black Mastery Techniques to Take Photos & Videos From Great for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-design-a-post-that-sparks-wide-scale-interest-in-fb-giving-for-2024/"><u>How to Design a Post That Sparks Wide-Scale Interest in FB Giving for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-top-20-open-source-pubg-slideshows/"><u>In 2024, Exclusive List Top 20 Open-Source PUBG Slideshows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-new-horizons-mobile-videography-beyond-periscope/"><u>In 2024, Explore New Horizons Mobile Videography Beyond Periscope</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-nokia-c12-plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C12 Plus working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-s-top-rated-free-home-security-camera-apps-for-2024/"><u>New S Top-Rated Free Home Security Camera Apps for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-best-video-cameras-of-2024/"><u>The Best Video Cameras of 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unleashing-content-extract-vimeo-videos-as-mp4-for-2024/"><u>Unleashing Content Extract Vimeo Videos as MP4 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-art-of-instagram-video-filming-for-2024/"><u>Unveiling the Art of Instagram Video Filming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-leading-transformation-software-spectrashift-series/"><u>[New] Leading Transformation Software SpectraShift Series</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators-for-2024/"><u>[New] PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecurely-steering-towards-the-one-million-view-mark-on-youtube-for-2024/"><u>[New] Securely Steering Towards the One-Million View Mark on YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-win10-gaming-sessions-best-recording-approaches/"><u>[Updated] In 2024, Win10 Gaming Sessions Best Recording Approaches</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-experience-the-ultimate-personalization-tool/"><u>Cookiebot-Enhanced Experience: The Ultimate Personalization Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebots-effective-consent-solutions-for-seamless-online-tracking-and-analytics/"><u>Cookiebot's Effective Consent Solutions for Seamless Online Tracking and Analytics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/driving-growth-through-cookiebot-integration-boost-your-sites-performance-and-seo/"><u>Driving Growth Through Cookiebot Integration - Boost Your Site's Performance and SEO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-digital-footprint-the-evolution-of-tracking-through-cookiebot/"><u>Enhance Digital Footprint: The Evolution of Tracking Through Cookiebot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-hiring-processes-with-abbyy-ocr-technology-for-advanced-candidate-management-systems/"><u>Enhance Hiring Processes with ABBYY OCR Technology for Advanced Candidate Management Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-user-experience-and-conversions-using-cookiebot-solutions/"><u>Enhance User Experience and Conversions Using Cookiebot Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-your-website-with-personalization-features-via-cookiebot/"><u>Enhance Your Website with Personalization Features via Cookiebot</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-quick-and-simple-guide-to-installing-easycap-driver/"><u>Free Download: Quick & Simple Guide to Installing EasyCap Driver</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lava-blaze-2-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-smooth-conversion-from-m4a-to-aac-audio-files/"><u>Quick Guide: Smooth Conversion From M4A to AAC Audio Files</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revamped-graphics-in-the-ultimate-demons-souls-experience-a-true-classic-reimagined/"><u>Revamped Graphics in the Ultimate Demon's Souls Experience - A True Classic Reimagined</u></a></li>
 </ul></div>
 

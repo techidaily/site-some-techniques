@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2024-12-05T21:24:58.181Z
-updated: 2024-12-09T16:31:02.065Z
+date: 2024-12-09T20:23:55.720Z
+updated: 2024-12-15T21:46:21.112Z
 tags:
   - deals
 categories:
@@ -40,28 +40,25 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>[New] From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-humorous-gifry-on-giphy-network/"><u>[New] Innovate Humorous Gifry on Giphy Network</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>[New] The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-windows-guide-free-tools-for-capturing-live-tv-for-2024/"><u>[New] Windows Guide Free Tools for Capturing Live TV for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exhaustive-overview-insights-into-googles-podcast-application/"><u>[Updated] Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-iphone-images-jpeg-png-guided-conversion-to-pdfs/"><u>[Updated] From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorous-hits-lifetime-access-to-memes/"><u>[Updated] Humorous Hits Lifetime Access to Memes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-steps-for-logging-virtual-exchanges/"><u>[Updated] In 2024, Essential Steps for Logging Virtual Exchanges</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-windows-color-rich-video-landscape/"><u>[Updated] Navigating Windows' Color-Rich Video Landscape</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-10-excellent-web-based-screen-capture-solutions/"><u>2024 Approved 10 Excellent Web-Based Screen Capture Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-no-cost-premiere-pro-resource-pack/"><u>2024 Approved Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-capture-to-clarity-the-complete-guide-for-garageband-editors/"><u>2024 Approved From Capture to Clarity The Complete Guide for GarageBand Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-get-a-handful-of-personalized-endings-at-zip/"><u>2024 Approved Get a Handful of Personalized Endings, at Zip</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-mac-mini-to-mac-studio-how-apple-reimagines-its-legacy-computer-lineup-for-modern-demands/"><u>From Mac Mini to Mac Studio: How Apple Reimagines Its Legacy Computer Lineup for Modern Demands</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>In 2024, High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-instant-transcription-absolutely-complimentary/"><u>In 2024, Instant Transcription, Absolutely Complimentary</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ranking-video-chat-winning-windows-tools-6-1-for-2024/"><u>Ranking Video Chat Winning Windows Tools #6-#1 for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-12-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 12 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-silent-sound-capture-in-obs-tips-and-tricks-for-win-11/"><u>Unblock Silent Sound Capture in OBS - Tips & Tricks for Win 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-monetizing-popularity-pay-per-million-views/"><u>[New] 2024 Approved Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-of-premium-3d-blu-ray-players-reviewed/"><u>[New] Exclusive List of Premium 3D Blu-Ray Players Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro/"><u>[New] From Novice to Professional A Comprehensive Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-front-seat-recreation-10-non-athletic-delights/"><u>[New] Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-channel-success-strategy-standard-studio-or-beta-edge/"><u>[Updated] 2024 Approved Channel Success Strategy Standard Studio or Beta Edge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-diverse-backdrops-for-tiktok-videos/"><u>[Updated] Explore Diverse Backdrops for TikTok Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-your-device-importing-to-inshot-app/"><u>[Updated] Harmonizing Your Device Importing to InShot App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4/"><u>[Updated] In 2024, Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-proven-methods-to-supercharge-your-spotify-ad-results/"><u>[Updated] Proven Methods to Supercharge Your Spotify Ad Results</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-brightening-up-your-youtube-pixels/"><u>2024 Approved Brightening Up Your YouTube Pixels</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/audio-review-of-bose-wave-soundtouch-iv-great-sounds-unimpressive-form/"><u>Audio Review of Bose Wave SoundTouch IV: Great Sounds, Unimpressive Form</u></a></li>
+<li><a href="https://win11.techidaily.com/best-password-managers-for-windows-11-unleashing-your-digital-fortresses/"><u>Best Password Managers for Windows 11: Unleashing Your Digital Fortresses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-global-photo-perfection-suite-for-2024/"><u>Gratis Global Photo Perfection Suite for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-divergent-paths-in-video-sharing-comparing-igtv-and-youtube/"><u>In 2024, Divergent Paths in Video Sharing Comparing IGTV & YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>In 2024, Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-intel-graphic-specification-hurdles-for-pc-upgrades/"><u>Overcoming Intel Graphic Specification Hurdles for PC Upgrades</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

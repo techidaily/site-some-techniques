@@ -1,7 +1,7 @@
 ---
 title: "Guide: Converting Text Into Various Structures Using ChatGPT"
-date: 2024-11-20T16:07:04.815Z
-updated: 2024-11-23T17:11:00.874Z
+date: 2024-12-09T00:34:39.484Z
+updated: 2024-12-15T19:14:41.506Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ---
 
 ## Guide: Converting Text Into Various Structures Using ChatGPT
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  While most people think of ChatGPT as a way to generate new text, one of its most powerful abilities is to transform existing text into another format. Whether this is text that you have written, or text from another source.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Getting Your Text Into ChatGPT
 
  The first step in transforming your written content with [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/) is to input your original text. This process is straightforward. When prompted, you simply copy and paste your text into the text field.
@@ -41,7 +33,7 @@ Related: [What Is ChatGPT Plus?](https://android-location.techidaily.com/in-2024
  That being said, I have copied some pretty broken text into ChatGPT and the results were great. For example, copying the entire auto-transcribed [chat history of a Microsoft Teams Meeting](https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/) into ChatGPT and having it write a concise meeting report works surprisingly well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Working in Chunks and Prompting ChatGPT
@@ -65,7 +57,7 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 ![ChatGPT YouTube script prompt with original text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now submit the prompt.
@@ -96,6 +88,10 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
 ![ChatGPT EINSTEIN output](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The resulting output should be a reader-friendly article that conveys the essence of the technical document in simpler terms. Remember that you can prompt ChatGPT to write text at a particular level, such as a specific grade level in school.
 
 ##  Example 3: Turning a Short Story Into a Movie Script
@@ -114,10 +110,14 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
 ![ChatGPT Emperor's New Suit Script](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/9-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While ChatGPT is unlikely to produce something of final usable quality right off the bat, it's much easier to edit a script than format and write one from scratch. It's a great way to extract the parts of the story relevant to the script, such as separating dialogue from inner thoughts, or descriptions of locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What to Watch Out For
@@ -145,15 +145,16 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-videography/"><u>[New] High Definition Videography</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[Updated] 2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-logo-blueprints-to-refine-and-personalize-your-symbol/"><u>[Updated] Free Logo Blueprints to Refine and Personalize Your Symbol</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-many-movies-fit-in-128gb-memory/"><u>2024 Approved How Many Movies Fit in 128GB Memory</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-modern-warfare-game-crashes-and-lagging-on-your-pc/"><u>How to Fix Modern Warfare Game Crashes and Lagging on Your PC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/immersive-tech-the-best-vr-gadgets-rated/"><u>Immersive Tech The Best VR Gadgets Rated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-impact-setting-techniques-for-live-media/"><u>In 2024, High-Impact Setting Techniques for Live Media</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-pro-level-mac-photo-tips-unveiling-five-expert-techniques/"><u>In 2024, Pro-Level Mac Photo Tips Unveiling Five Expert Techniques</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-s18-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo S18 Pro FRP Bypass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initiating-voice-transformations-with-minimal-effort-in-pubg/"><u>[New] Initiating Voice Transformations with Minimal Effort in PUBG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>[Updated] 2024 Approved Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-illumination-to-inky-tones-pro-fades/"><u>[Updated] From Illumination To Inky Tones Pro Fades</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-edit-your-imagery-with-top-androidios-montage-apps/"><u>In 2024, Expertly Edit Your Imagery with Top Android/iOS Montage Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-inspection-immersing-in-virtual-reality-with-gear-360/"><u>In 2024, Full Inspection Immersing in Virtual Reality with Gear 360</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-14-examples-of-moving-text-art/"><u>In 2024, Innovative 14 Examples of Moving Text Art</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/remeld-pro-for-2024/"><u>PictureMeld Pro for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-adjusting-your-pcs-control-panel-preferences-tips-from-yl-software-experts/"><u>Step-by-Step Guide: Adjusting Your PC's Control Panel Preferences - Tips From YL Software Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-zero-5g-2023-turbo-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Zero 5G 2023 Turbo to Gmail | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-visuals-creating-a-cinematic-look-with-fcpx/"><u>Updated Elevate Your Visuals Creating a Cinematic Look with FCPX</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?"
-date: 2024-10-22T16:13:59.597Z
-updated: 2024-10-29T16:38:13.506Z
+date: 2024-12-14T21:19:48.233Z
+updated: 2024-12-15T23:14:01.158Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 ---
 
 ## Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
  While faulty prompts can give way to AI hallucinations, things also go a little deeper than this.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  The Technical Side of AI Hallucinations
 
  Your typical AI chatbot functions using artificial neural networks. While these neural networks are nowhere near as advanced as those in the human brain, they're still fairly complex.
@@ -72,9 +63,17 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
  Chatbots like ChatGPT, Google Bard, and Claude can tell you if they've detected that a given prompt doesn't make sense or needs refining. But the detection of faulty prompts isn't 100 percent (as we'll discuss further later), and it's the existing margins of error that give way to hallucinations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Which AI Chatbots Hallucinate?
 
 ![The ChatGPT website open on a phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52927154347_a9c038a466_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -87,16 +86,7 @@ Jason Montoya / How-To Geek
  The creator of Claude, Anthropic, has publicly stated that its chatbot can hallucinate. In an [Anthropic notice](https://docs.anthropic.com/claude/docs/claude-is-hallucinating), titled "Claude is hallucinating", it was stated that, despite Anthropic's efforts to minimize occurrences of hallucinations, they still happen. Specifically, Anthropic stated that the issue of hallucinations in Claude's responses "is not fully solved yet."
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Observing AI Hallucinations
@@ -106,16 +96,7 @@ Jason Montoya / How-To Geek
 ![Screenshot of ChatGPT response to prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-hallucinate-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT caught out the person's height inconsistency in the problem, but not that of the building. So, ChatGPT provided a confident response, without realizing it was hallucinating. The response was also quite nonsensical overall, with its conclusion being that the man on top of the building is "already on the ground", and that he is only "slightly shorter" than the 100-200ft building.
@@ -131,13 +112,6 @@ Jason Montoya / How-To Geek
 ![Screenshot of Google Bard's response to a nonsensical prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bard-answer-ai.jpg) 
 
  In this instance, all three of the popular AI chatbots tested failed, either partially or entirely, to spot the errors in the prompt, giving way to hallucinatory responses.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How AI Chatbots Are Improving
 
@@ -184,24 +158,18 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fashion-meets-makeup-brilliance/"><u>[New] Fashion Meets Makeup Brilliance</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-master-the-art-of-social-media-success-with-these-10-facebook-tips/"><u>[New] Master the Art of Social Media Success with These 10 Facebook Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>[Updated] 2024 Approved From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-focused-insights-the-best-camera-gimbals-for-iphones-androids-and-dslrs-1-10/"><u>[Updated] Focused Insights The Best Camera Gimbals for iPhones, Androids, and DSLRs #1-#10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero-series-clash-with-polaroid-cube-which-wins/"><u>[Updated] GoPro Hero Series Clash with Polaroid Cube Which Wins?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-boundless-savings-for-your-captured-moments/"><u>[Updated] In 2024, Boundless Savings for Your Captured Moments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incorporating-time-features-into-youtube-video-formats/"><u>[Updated] Incorporating Time Features Into YouTube Video Formats</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-switch-on-windows-11s-hdr-functionality/"><u>2024 Approved How to Switch On Windows 11'S HDR Functionality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-no-cost-solutions-for-modern-photography-enhancements/"><u>2024 Approved Innovative No-Cost Solutions for Modern Photography Enhancements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-download-c-span-videos-for-free-for-2024/"><u>How to Download C-Span Videos for Free for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-screencast-wisdom-key-facts-and-strategies/"><u>In 2024, Expert Screencast Wisdom Key Facts and Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>In 2024, GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-trim-video-in-windows-11-photos-easily/"><u>In 2024, How to Trim Video in Windows 11 Photos Easily</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mac-video-editing-software-top-vsdc-alternatives/"><u>In 2024, Mac Video Editing Software Top VSDC Alternatives</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inferno-captures-best-slow-motion-cameras-for-2024/"><u>Inferno Captures Best Slow-Motion Cameras for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-music-to-a-video-online-for-free/"><u>New In 2024, How to Add Music to a Video Online for Free</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-future-of-audio-fabrication-creating-convincing-ai-voices-through-advanced-techniques-for-2024/"><u>New The Future of Audio Fabrication Creating Convincing AI Voices Through Advanced Techniques for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/top-20-liniovy-bezplaten-software-pro-optimalni-konfiguraci-videove-hardware-bez-obrovskych-cen/"><u>Top 20 Liniový Bezplaten Software Pro Optimalní Konfiguraci Videové Hardware, Bez Obrovských Cen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-step-guide-to-professional-vlogging/"><u>[New] First-Step Guide to Professional Vlogging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-innovation-insights-into-vr-gear-designs/"><u>[New] In 2024, The Innovation Insights Into VR Gear Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hololens-unveiled-microsofts-leap-to-3d-reality/"><u>[Updated] HoloLens Unveiled – Microsoft's Leap to 3D Reality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-from-raw-footage-to-high-quality-improving-ps4-screen-recordings/"><u>[Updated] In 2024, From Raw Footage to High-Quality Improving PS4 Screen Recordings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722856404755-d3dx940dll-errors-discover-how-to-restore-or-locate-missing-files/"><u>D3dx9_40.dll Errors? Discover How to Restore or Locate Missing Files!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-drivers-error-22/"><u>Fixed Graphics Drivers Error #22</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humorous-file-downloader-examination-for-2024/"><u>Humorous File Downloader Examination for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-inspection-gopro-silver-hero4-detailed-review/"><u>In 2024, Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-effective-look-up-table-lut-applications-in-adobe-photoshop-cc/"><u>In 2024, Innovative Techniques for Effective Look-Up Table (LUT) Applications in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-lost-ark-no-audio-effective-fixes-and-tips/"><u>Overcome Lost Ark No Audio: Effective Fixes and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-game-stability-solved-the-ultimate-guide-to-stop-v-rising-from-crashing-down/"><u>PC Game Stability Solved: The Ultimate Guide to Stop 'V-Rising' From Crashing Down</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1641788-9781606525708-the-best-life-stories/"><u>The Best Life Stories | Free Book</u></a></li>
+<li><a href="https://techidaily.com/unlock-greater-engagement-and-roi-through-advanced-cookiebot-integrated-solutions/"><u>Unlock Greater Engagement & ROI Through Advanced Cookiebot-Integrated Solutions!</u></a></li>
 </ul></div>
 

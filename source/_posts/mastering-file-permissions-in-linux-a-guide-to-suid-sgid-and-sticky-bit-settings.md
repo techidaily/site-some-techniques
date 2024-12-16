@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings"
-date: 2024-12-07T20:32:49.651Z
-updated: 2024-12-09T20:47:47.050Z
+date: 2024-12-13T17:00:53.059Z
+updated: 2024-12-15T17:41:32.394Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  On Linux, stored passwords are protected in two ways: they're encrypted, and only someone with `root` privileges can access the file that contains the passwords. That might sound fine, but it presents a quandary: If only people with `root` privileges can access stored passwords, how do those who don't have that access change their passwords?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Elevating Your Status
 
  Usually, Linux commands and programs run with the same set of permissions as the person who launches the program. When `root` runs the passwd command [to change a password](http://man7.org/linux/man-pages/man1/passwd.1.html), it runs with `root`’s permissions. That means the passwd command can freely access the stored passwords in the /etc/shadow file.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  What would be ideal is a scheme in which anyone on the system could launch the passwd program, but have the passwd program retain `root`’s elevated privileges. This would empower anyone to change her own password.
 
  The above scenario is precisely what the Set User ID bit (`SUID`) does. It runs programs and commands with the permissions of the file owner, rather than the permissions of the person who launches the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You're Elevating the Program's Status
 
@@ -52,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0a.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The following is an example in which that's taken into account. Because `root` can change any password, the program doesn't have to bother with the checks it usually performs to see which passwords the person has permission change. So, for `root`, it [skips those checks and exits the checking function](https://github.com/shadow-maint/shadow/blob/master/src/passwd.c#L0397).
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0b.png) 
@@ -59,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  With the core Linux commands and utilities, you can be confident they've got security baked into them and that the code has been reviewed many times. Of course, there's always the threat of as-yet-unknown exploits. However, patches or updates are quick to appear to counter any newly identified vulnerabilities.
 
  It's third-party software—especially any that isn't open-source—you need to be extremely careful about using `SUID` with. We're not saying don't do it, but, if you do, you want to make sure it won't expose your system to risk. You don't want to elevate the privileges of a program that isn't going to correctly self-govern itself and the person running it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Linux Commands That Use SUID
 
@@ -94,10 +102,6 @@ passwd
 
 ![passwd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The `passwd` command prompts `dave` for his new password. We can use the `ps` command [to see the details of running processes](http://man7.org/linux/man-pages/man1/ps.1.html).
 
  We'll use `ps` with `grep` [in a different terminal window](http://man7.org/linux/man-pages/man1/grep.1.html) and look for the `passwd` process. We'll also use the -e (every process) and -f (full-format) options with `ps`.
@@ -108,17 +112,9 @@ ps -e -f | grep passwd
 
 ![ps -e -f | grep passwd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Two lines are reported, the second of which is the `grep` process looking for commands with the string "passwd" in them. It's the first line that interests us, though, because that's the one for the `passwd` process `dave` launched.
 
  We can see the `passwd` process runs the same as it would if `root` had launched it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Setting the SUID Bit
 
@@ -156,6 +152,10 @@ htg
 
 ![The htg program running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even though `dave` launched the program, the effective ID is set to the `root` user. So, if `mary` launches the program, the same thing happens, as shown below:
 
 htg
@@ -163,7 +163,7 @@ htg
 ![htg launched by user mary in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The real ID is `mary`, and the effective ID is `root`. The program runs with the permissions of the root user.
@@ -184,10 +184,6 @@ ls -lh /usr/local/bin/htg
 
 ![sudo chown root:mary /usr/local/bin/htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can see the `SGID` bit denoted by the "s" in the group permissions. Also, note the group is set to `mary` and the file name is now highlighted in yellow.
 
  Before we run the program, let's establish which groups `dave` and `mary` belong to. We'll use the `id` command with the -G (groups) option, [to print all group IDs](http://man7.org/linux/man-pages/man1/id.1.html). Then, we'll run the `htg` program as `dave`.
@@ -203,7 +199,7 @@ htg
 ![id -G dave in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ID of the default group for `mary` is 1001, and the effective group of the `htg` program is 1001\. So, although it was launched by `dave`, it's running with the permissions of the members in the `mary` group. It's the same as if `dave` had joined the `mary` group.
@@ -225,7 +221,7 @@ ls -lh -d work
 ![sudo mkdir work in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The `SGID` bit and "geek" group are set. These will affect any items created within the `work` directory.
@@ -251,6 +247,10 @@ ls -lh useful.sh
 ![touch useful.sh in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-3.png) 
 
  The group of the new file is automatically set to "geek."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Sticky Bit
 
@@ -308,24 +308,20 @@ ls -lh -d /var/tmp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-tale-of-two-approaches-polite-vs-aggressive-asking/"><u>[New] 2024 Approved A Tale of Two Approaches Polite vs Aggressive Asking</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>[New] 2024 Approved Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-getting-started-easy-video-intros-available/"><u>[New] Getting Started Easy Video Intros Available</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-photography-the-art-of-crafting-effective-gopro-time-lapse/"><u>[New] Innovating Photography The Art of Crafting Effective GoPro Time-Lapse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-sierras-cloud-documentation-and-drive-integration/"><u>[Updated] Expert Guide to Sierra's Cloud Documentation & Drive Integration</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-fps-fanatics-compendium-selecting-superior-extensions/"><u>[Updated] FPS Fanatics' Compendium Selecting Superior Extensions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-lut-strategies-for-enhancing-ar-experiences/"><u>[Updated] Free LUT Strategies for Enhancing AR Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-captivate-audiences-in-youtube-live-with-tiny-subscriber-counts/"><u>[Updated] How to Captivate Audiences in YouTube Live with Tiny Subscriber Counts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-soundscapes-spectrum-music-finder-service-for-2024/"><u>[Updated] Soundscapes Spectrum Music Finder Service for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-power-of-personal-storytelling-in-video-content-for-2024/"><u>[Updated] The Power of Personal Storytelling in Video Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturemaster-x-overview-evaluation/"><u>2024 Approved CaptureMaster X Overview Evaluation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-facial-forgetting-strategies-for-image-anonymity/"><u>2024 Approved Facial Forgetting Strategies for Image Anonymity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-sites-to-propel-youtube-content-reach/"><u>2024 Approved Prime Sites to Propel YouTube Content Reach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-to-download-star-performances-release-for-2024/"><u>Free-to-Download Star Performances Release for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hdr-camera-mastery-essential-buying-tips-for-2024/"><u>HDR Camera Mastery Essential Buying Tips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-vocal-alteration-top-choices-above-all/"><u>In 2024, Excellence in Vocal Alteration Top Choices Above All</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel-for-2024/"><u>New Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-converting-photographs-into-cinematic-videography-with-pixiz-for-2024/"><u>The Art of Converting Photographs Into Cinematic Videography with Pixiz for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-use-the-instagram-question-sticker/"><u>[New] 2024 Approved How to Use the Instagram Question Sticker?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ccelerate-channels-youtubes-top-collaborative-growth-tips-for-2024/"><u>[New] Accelerate Channels YouTube's Top Collaborative Growth Tips for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[Updated] 2024 Approved Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expert-techniques-for-effective-social-sharing-via-pins-for-2024/"><u>[Updated] Expert Techniques for Effective Social Sharing via Pins for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>2024 Approved Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-choice-peak-business-space/"><u>2024 Approved Expert's Choice Peak Business Space</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-track-converting-your-srt-files-to-text-format-today/"><u>2024 Approved Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-globalscreen-top-ranked-local-and-live-tv-streams/"><u>2024 Approved GlobalScreen Top-Ranked Local & Live TV Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmony-in-transition-crafting-crossfade-effects/"><u>2024 Approved Harmony in Transition Crafting Crossfade Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/7-tips-to-make-your-tasty-cooking-videos-for-2024/"><u>7 Tips to Make Your Tasty Cooking Videos for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-the-olympic-spectacle-with-peacock-live-streaming-of-all-four-games-simultaneously/"><u>Enjoy the Olympic Spectacle with Peacock: Live Streaming of All Four Games Simultaneously!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-the-magic-of-free-voice-change-for-valorant-gaming-for-2024/"><u>Experience the Magic of Free Voice Change for Valorant Gaming for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/improve-instagram-video-loading-times-effectively-for-2024/"><u>Improve Instagram Video Loading Times Effectively for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-visual-narratives-instagram-carousel/"><u>In 2024, Visual Narratives Instagram Carousel</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-taleshifters-academy-top-8-picks-for-2024/"><u>Top Taleshifters Academy - Top 8 Picks for 2024</u></a></li>
 </ul></div>
 

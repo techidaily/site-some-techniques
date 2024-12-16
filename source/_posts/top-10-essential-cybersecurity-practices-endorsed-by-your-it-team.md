@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-12-08T22:01:35.333Z
-updated: 2024-12-09T16:21:20.267Z
+date: 2024-12-10T23:40:03.847Z
+updated: 2024-12-15T16:31:37.113Z
 tags:
   - desktop
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Learn How to use Windows and Your Other Software And Devices](https://digital-screen-recording.techidaily.com/new-in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/)
 * [Don't Panic!](https://ios-unlock.techidaily.com/resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To keep your accounts and devices secure, do not open links in suspicious emails and pay attention to security warnings.
@@ -36,15 +32,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
 
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
@@ -54,17 +62,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
@@ -75,10 +75,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  You don't want your employer to know all the details about your personal life, and your employer doesn't want you to be accidentally leaking company information through your social media profiles. Keep your work and private lives separate by using different email accounts and profiles for each. This helps prevent information from leaking, for example, by making it more difficult for you to accidentally put your dating schedule in the work calendar, or email a sensitive financial report to your yoga class.
 
  The most effective way to do this is to create [separate user accounts](https://remote-screen-capture.techidaily.com/updated-screen-recording-mastery-with-lenovo-gear-for-2024/) on your computer. You can also use [Firefox Containers](https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/) or Safari Profiles, or isolate different activities by using a different browser for each.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Set a Passcode On All Of Your Devices
 
@@ -94,6 +90,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  The best way to do this is to contact them via another communication method. If you receive a suspicious email from a known address, give that person a call directly to confirm that they've asked. If you receive an odd phone call claiming to be from someone you know, hang up and drop them a WhatsApp to check if they made the call before calling them back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Download Strange Software or Attachments, and never Run Macros
 
  Viruses masquerading as legitimate downloads are everywhere on the Internet, just waiting for someone to click on them. Avoid unknown sources of apps and stick to Apple, Android, and Windows App stores whenever you can.
@@ -101,16 +101,12 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
@@ -121,6 +117,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  Your life will be easier if you know how to use your phone, tablet, and laptop properly. It might take a bit of a time investment, but it'll pay off: you'll be able to do things faster, make less mistakes, and you'll know when something isn't working properly. When you can tell that something isn't quite working as it should, you can investigate by running a virus scan, or seek expert help to resolve the problem.
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don't Panic!
 
@@ -147,20 +147,21 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-expert-strategies-for-home-based-podcast-recordings-for-2024/"><u>[New] Expert Strategies for Home-Based Podcast Recordings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-grateful-choices-comprehensive-otu-guide/"><u>[New] Grateful Choices Comprehensive OTU Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-affordable-yet-high-quality-cameras-list/"><u>[New] In 2024, Affordable Yet High-Quality Cameras List</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-effective-zoom-sharing-for-2024/"><u>[Updated] Expert Strategies for Effective Zoom Sharing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>[Updated] Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-playbook-strategies-for-success/"><u>[Updated] Funimate Playbook Strategies for Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-profit-beginners-guide-on-periscope-earning/"><u>2024 Approved From Zero to Profit Beginner’s Guide on Periscope Earning</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ace-your-playtime-with-2024s-must-have-console-picks/"><u>Ace Your Playtime with 2024'S Must-Have Console Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-insights-into-attaining-stock-artwork-for-2024/"><u>Expert Insights Into Attaining Stock Artwork for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-15-plus-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 15 Plus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-face-hiding-masterclass-tools-and-techniques-reviewed/"><u>In 2024, Face Hiding Masterclass Tools and Techniques Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-top-8-accessories-for-vr-games/"><u>In 2024, Innovative Top 8 Accessories for VR Games</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-master-the-art-of-time-stamp-addition-for-better-viewership/"><u>In 2024, Master the Art of Time Stamp Addition for Better Viewership</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-problems-with-an-unresponsive-msi-dragon-centre/"><u>Resolve Problems with an Unresponsive MSI Dragon Centre</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-gap-in-self-review-systems/"><u>The Gap in Self-Review Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-deciphering-sharex-comparisons-and-replacements/"><u>[New] 2024 Approved Deciphering ShareX Comparisons & Replacements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-mobile-funimate-apk-setup-simplified/"><u>[New] Game On Mobile Funimate APK Setup Simplified</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-implementing-soft-decline-in-logic-pro-audio/"><u>[New] Implementing Soft Decline in Logic Pro Audio</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>[Updated] 2024 Approved Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-discover-top-rated-xbox-extra-gb-drives/"><u>[Updated] Discover Top-Rated Xbox Extra GB Drives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>[Updated] Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-premium-cameras-a-2024-guide/"><u>[Updated] Exploring Premium Cameras A 2024 Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-iphones-persistent-out-of-focus-photos/"><u>[Updated] Fixing iPhone's Persistent Out-of-Focus Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improving-professional-collaboration-with-strategic-office-planning/"><u>[Updated] Improving Professional Collaboration with Strategic Office Planning</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-graphics-relic-package/"><u>[Updated] In 2024, Graphics Relic Package</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles-for-2024/"><u>From Invisible to Iconic Top Strategies for Standout Facebook Profiles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hands-on-test-drive-unboxing-and-exploring-the-samsung-galaxy-budsplus/"><u>Hands-On Test Drive: Unboxing and Exploring the Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-xs-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone XS Passcode not Working?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-non-vid-based-self-education-success/"><u>In 2024, Tips for Non-Vid Based Self-Education Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ters-launchpad-7-funny-video-frameworks-for-comedians-for-2024/"><u>Laughter's Launchpad 7 Funny Video Frameworks for Comedians for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-bargains-on-high-performance-laptops-this-fall-season-october-2-cuyote-exclusives/"><u>Ultimate Guide: Bargains on High-Performance Laptops This Fall Season (October 2 Cuyote) Exclusives</u></a></li>
 </ul></div>
 

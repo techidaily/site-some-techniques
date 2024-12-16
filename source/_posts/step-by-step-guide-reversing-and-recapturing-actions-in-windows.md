@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reversing and Recapturing Actions in Windows"
-date: 2024-12-08T17:28:19.315Z
-updated: 2024-12-09T18:07:08.604Z
+date: 2024-12-14T22:42:12.822Z
+updated: 2024-12-15T17:30:51.113Z
 tags:
   - deals
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
  If you've made a mistake on your Windows 10 or Windows 11 PC and would like to go back a step, it's easy to use the built-in "Undo" command. Similarly, you can sometimes also perform a "Redo" action to restore what you just undid. Here's how to perform both actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Undo and (Sometimes) Redo Using Your Keyboard
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 ![Click Edit > Undo to perform an undo in some Windows programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/windows_notepad_undo.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Likewise, some apps place a "Redo" option just below "Undo" in the "Edit" menu ([as you'll often see on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/)). But the classic File / Edit menu bar is getting harder to find in Windows. Instead, some apps such as Microsoft Word (and other Office apps) include special Undo and Redo toolbar buttons.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
@@ -93,16 +93,17 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-luts-for-precision-controlled-image-editing/"><u>[New] Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[Updated] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-holistic-locomotion-scrutiny-report/"><u>[Updated] Holistic Locomotion Scrutiny Report</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-prime-psd-visual-enhancements/"><u>[Updated] Prime PSD Visual Enhancements</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/controversial-microsoft-feature-sparks-discussion-leaving-key-privacy-queries-unresolved-insights-from-zdnet/"><u>Controversial Microsoft Feature Sparks Discussion, Leaving Key Privacy Queries Unresolved | Insights From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-convert-subtitles-to-srt-our-picks-for-the-best-8-tools-on-windowsmac-for-2024/"><u>Expertly Convert Subtitles to SRT - Our Picks for the Best 8 Tools on Windows/Mac for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-motorola-moto-g-stylus-5g-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Moto G Stylus 5G (2023) Phone Screen?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hues-in-action-implementing-color-schemes-properly/"><u>In 2024, Hues in Action Implementing Color Schemes Properly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-audio-settings-in-windows-10-how-to-utilize-equalizer-features-effectively/"><u>Mastering Audio Settings in Windows 10: How to Utilize Equalizer Features Effectively</u></a></li>
-<li><a href="https://win-data.techidaily.com/speedy-tips-to-pinpoint-your-computers-speed-problems-backed-by-yl-software-mastery/"><u>Speedy Tips to Pinpoint Your Computer's Speed Problems, Backed by YL Software Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-perfect-your-posts-instagram-video-edits-with-borders/"><u>[Updated] 2024 Approved Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-complete-guide-to-iphone-speech-recordings/"><u>[Updated] 2024 Approved The Complete Guide to iPhone Speech Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality-for-2024/"><u>[Updated] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/dhl-deutsche-post-boosts-productivity-by-70-through-implementing-rpa-and-abbyy-intelligent-document-processor/"><u>DHL Deutsche Post Boosts Productivity by 70% Through Implementing RPA & ABBYY Intelligent Document Processor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effective-navigation-and-multitasking-master-phone-usage-while-driving-with-geolocation-features-and-task-organization-insights-from-the-abbyy-blog/"><u>Effective Navigation & Multitasking: Master Phone Usage While Driving with Geolocation Features & Task Organization - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/empowering-machine-learning-abybs-approach-to-advanced-robotics-with-smart-content-analysis-at-new-york-ai-summit/"><u>Empowering Machine Learning: ABYB's Approach to Advanced Robotics with Smart Content Analysis at New York AI Summit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-dynamic-content-personalization-via-cookiebot/"><u>Enhanced User Experience with Dynamic Content Personalization via Cookiebot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-with-advanced-cookie-tracking-technology/"><u>Enhanced with Advanced Cookie Tracking Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-tuning-scalability-of-youtube-media-for-2024/"><u>Fine-Tuning Scalability of YouTube Media for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-errors-and-game-crashes-on-pc-during-age-of-wonders-planetfall-adventure/"><u>Resolving Persistent Errors & Game Crashes on PC During Age of Wonders: Planetfall Adventure</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/to-make-it-bootable-use-an-external-tool-like-rufus-or-bootice/"><u>To Make It Bootable, Use an External Tool Like Rufus or Bootice.</u></a></li>
 </ul></div>
 

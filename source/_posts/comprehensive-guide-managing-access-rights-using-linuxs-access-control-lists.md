@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2024-12-04T18:55:01.809Z
-updated: 2024-12-09T16:19:12.013Z
+date: 2024-12-12T21:35:04.015Z
+updated: 2024-12-15T17:59:45.596Z
 tags:
   - desktop
 categories:
@@ -20,16 +20,12 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
  Are you in charge of a shared file server between multiple groups of people, who all need varying access? In this tutorial we'll go over the basics of ACLs and employ them in a fictional office scenario.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Are ACLs?
 
  Access Control Lists (ACLs) supplement the [standard file system permissions model on Linux and Unix](https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/). In a nutshell, they allow you to go beyond the "user/group/other" concept to create additional sets of permissions for files and directories. They also do neat things like automatically applying permissions to new files and directories. But first, let's cover some basic Linux file system permissions concepts in which ACLs work alongside.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Standard File System Permissions
 
@@ -84,7 +80,7 @@ ls -l report.pdf
 ![A terminal window showing file listing output on Debian.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What to do? Well, you _could_ just take an early lunch break. However, let's instead employ ACLs!
@@ -101,6 +97,10 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 
  For reference, here's a [list of different file system support for ACLs, grouped by platform, written by IBM](https://www.ibm.com/docs/en/storage-protect/8.1.21?topic=linux-file-system-acl-support).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The getfacl Command
 
  The getfacl command displays (gets) file access control lists for files and directories. If you run getfacl on our report file from above, you'll see:
@@ -108,6 +108,10 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 getfacl report.pdf
 
 ![A terminal window showing getfacl command and its output on a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right now the output shows the _minimum ACL_ of the file. The minimum ACL comprises the standard permissions for the owner, owning group and all other users.
 
@@ -117,10 +121,6 @@ getfacl report.pdf
 
 ![A terminal window showing getfacl command and its output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In addition to the minimum ACLs, we now have an extended ACL entry for user michael (read+write permissions). If you list the file again with extended ACLs, you'll notice a plus (+) sign to the right of the "other users" permissions, indicating that extended ACL entries exist:
 
 ls -l report.pdf
@@ -128,11 +128,7 @@ ls -l report.pdf
 ![A terminal window showing ls command output with ACL entry flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The setfacl Command
@@ -169,6 +165,10 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 ![A terminal window showing setfacl command to set permissions, then getfacl to show them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An upper-case **X** applies the execute permission only against new subdirectories; not files.
 
  Access control lists are great for when you want to take your file system permissions to the next level. You can get away with a lot with standard user/group/other permissions, but there will likely be a point in your journeys where using ACLs makes much more sense.
@@ -188,20 +188,24 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-global-leaders-in-real-time-gaming-streams/"><u>[New] Global Leaders in Real-Time Gaming Streams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guidelines-for-reducing-shake-in-mobile-videos/"><u>[New] Guidelines for Reducing Shake in Mobile Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-vision-and-voice-the-ultimate-guide/"><u>[New] Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-comprehensive-list-of-premium-windows-edits-apps/"><u>[Updated] 2024 Approved Comprehensive List of Premium Windows Edits Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>[Updated] From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-see-groups-shared-photos-and-movies-on-messenger/"><u>[Updated] How to See Group's Shared Photos and Movies on Messenger</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-social-shackles-hilarious-fb-incarceration-moments-for-cheer/"><u>2024 Approved Top Social Shackles Hilarious FB Incarceration Moments for Cheer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/flv3/"><u>FLVファイルからのオーディオ抽出手順：3つの効果的なアプローチ</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-sources-of-high-quality-insta-soundtracks-and-crafting-noteworthy-chimes/"><u>In 2024, Exploring Sources of High-Quality Insta Soundtracks and Crafting Noteworthy Chimes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gps-companions-top-10-drones-that-stay-close/"><u>In 2024, GPS Companions Top 10 Drones That Stay Close</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y100a-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y100A Phone Screen?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>In 2024, How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-steps-for-performing-a-hard-reset-on-iphoneipad/"><u>Ultimate Guide: Steps for Performing a Hard Reset on iPhone/iPad</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-game-potch-player-insights/"><u>VIDEO GAME POTCH Player Insights</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-harness-facebook-videos-on-devices-with-new-tool/"><u>[New] 2024 Approved Harness Facebook Videos on Devices with New Tool</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-android-and-iphones-leading-tools-for-enhanced-fb-likes/"><u>[New] Android & iPhone's Leading Tools for Enhanced FB Likes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-explore-the-best-instagram-video-editors-for-android-devices-for-2024/"><u>[New] Explore the Best Instagram Video Editors for Android Devices for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>2024 Approved Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-insight-into-budget-friendly-design-portals/"><u>2024 Approved Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-choice-top-10-video-subtitles-editors-online/"><u>2024 Approved Expert Choice Top 10 Video Subtitles Editors Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fighting-vibration-in-iphone-videos-a-threefold-approach/"><u>2024 Approved Fighting Vibration in iPhone Videos A Threefold Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-exploration-of-theta-s-capabilities/"><u>2024 Approved In-Depth Exploration of Theta S Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-preservation-pathway-digitizing-and-safeguarding-old-family-photos/"><u>2024 Approved The Preservation Pathway Digitizing & Safeguarding Old Family Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-hub-free-images-galore-across-the-web-for-2024/"><u>Exclusive Hub Free Images Galore Across the Web for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-roundup-10-essential-cost-free-iphone-selfie-editors-for-2024/"><u>Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-audio-smoothness-for-2024/"><u>Expert Strategies for Audio Smoothness for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-forwarding-fundamentals-a-novices-guide-to-snapchat-for-2024/"><u>Fast Forwarding Fundamentals A Novice's Guide to Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-insights-how-much-does-pewdopeep-make-for-2024/"><u>Financial Insights How Much Does PewDoPeep Make for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-problem-code-43-resolved-now/"><u>GPU Problem Code 43 Resolved Now</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokiawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokiawith/without a PC</u></a></li>
+<li><a href="https://win-help.techidaily.com/legacy-installation-von-windows-11-ohne-secure-boot-und-tpm-20-schritt-fur-schritt-anleitung/"><u>Legacy Installation Von Windows 11 Ohne Secure Boot Und TPM 2.0 – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-wlpapdll-error-a-comprehensive-guide/"><u>Resolving the wlpap.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme GT Neo 5 | Dr.fone</u></a></li>
 </ul></div>
 

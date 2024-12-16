@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
-date: 2024-12-08T21:33:34.553Z
-updated: 2024-12-09T18:00:53.657Z
+date: 2024-12-11T23:53:52.145Z
+updated: 2024-12-15T21:22:16.338Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -49,7 +49,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -66,6 +66,10 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -77,16 +81,12 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
@@ -111,21 +111,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-chuckle-chasers-your-ultimate-list-of-funny-tools/"><u>[New] 2024 Approved Chuckle Chasers Your Ultimate List of Funny Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expansive-movement-assessment-2023/"><u>[New] Expansive Movement Assessment 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-convert-and-share-optimal-tools-for-youtube-to-avi-transfers/"><u>[New] In 2024, Convert & Share Optimal Tools for YouTube-to-AVI Transfers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-integrate-and-interact-the-basics-of-zoom-for-android/"><u>[New] Initiate, Integrate, and Interact The Basics of Zoom for Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-premier-filmmaking-software-on-iphones-for-2024/"><u>[New] Premier Filmmaking Software on iPhones for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-debunking-photoshake-is-it-essential-or-excessive-for-2024/"><u>[Updated] Debunking PhotoShake Is It Essential or Excessive for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-evaluation-gopro-slr4-silver-hero4-model/"><u>[Updated] In-Depth Evaluation GoPro SLR4 Silver HERO4 Model</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-tracking-fb-content-efficiency-strategies-explored/"><u>2024 Approved Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-tesos-launch-error-effective-troubleshooting-steps-inside/"><u>Beat TESO's Launch Error – Effective Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-503-server-errors-identification-reasons-and-remedies/"><u>Decoding 503 Server Errors - Identification, Reasons, and Remedies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-choices-best-mics-enhancing-4k-video-quality-for-2024/"><u>Expert Choices Best Mics Enhancing 4K Video Quality for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exposing-effective-promotions-for-2024/"><u>Exposing Effective Promotions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-8-titans-of-4k-blu-ray-technology/"><u>In 2024, Foremost 8 Titans of 4K Blu-Ray Technology</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y200e-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y200e 5G Device</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/pinnacle-platforms-alternatives-to-the-oldest-birdcalls/"><u>Pinnacle Platforms Alternatives to the Oldest Birdcalls</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/wiedererlangen-verlorener-daten-auf-seagate-barracuda-festplatten-mit-den-effizientesten-methoden-von-myrecover/"><u>Wiedererlangen Verlorener Daten Auf Seagate Barracuda Festplatten Mit Den Effizientesten Methoden Von MyRecover</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-comparative-analysis-androids-finest-video-downloaders/"><u>[New] 2024 Approved A Comparative Analysis Android's Finest Video Downloaders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>[New] In 2024, Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-novices-selection-guide-to-ideal-filming-cameras/"><u>[New] In 2024, Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-direct-conversion-of-spotify-music-5-tools-for-youtube-streaming/"><u>[Updated] 2024 Approved Direct Conversion of Spotify Music 5 Tools for YouTube Streaming</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-10-most-popular-tiktok-food-trends/"><u>[Updated] In 2024, 10 Most Popular Tiktok Food Trends</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-conversion-guide-top-8-picks-for-avi-enthusiasts/"><u>[Updated] In 2024, YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-live-techniques-lowering-volume-gradually/"><u>[Updated] Live Techniques Lowering Volume Gradually</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-2023s-standout-professional-360cameras/"><u>2024 Approved Exploring 2023'S Standout Professional 360°Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglemaker-step-by-step-to-fun-videos/"><u>2024 Approved GiggleMaker Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evolution-of-action-cameras-from-gopro-hero4-to-hero5-for-2024/"><u>Evolution of Action Cameras From GoPro (Hero4 to Hero5) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-excitement-of-high-speed-photography-with-iphone-for-2024/"><u>Explore the Excitement of High-Speed Photography with iPhone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-high-resolution-with-lgs-digital-cinema-31mu97-b-for-2024/"><u>Exploring High-Resolution with LG's Digital Cinema 31MU97-B for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-shift-turning-srt-into-subc/"><u>In 2024, Navigating the Shift Turning SRT Into SUBC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-superior-google-pixel-fold-cases-in-2e-what-you-need-to-know-before-buying/"><u>Ultimate Guide to Choosing Superior Google Pixel Fold Cases in 2E: What You Need to Know Before Buying</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-12-03T19:31:56.330Z
-updated: 2024-12-09T17:31:17.320Z
+date: 2024-12-12T20:57:02.390Z
+updated: 2024-12-15T20:54:55.469Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ## The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is a Slabtop?
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  In the context of a slabtop, headless simply means that the built-in monitor (and the lid that houses the monitor) has been removed. This results in a slab computer that houses all the components in the base. This isn't a million miles away from the home computers of the 80s (like the Commodore 64) where the keyboard _was_ the computer.
 
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
 
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  CalDigit USB-C Gen2 Dock
@@ -66,7 +62,7 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Your Own Display
@@ -82,6 +78,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Getting started with a headless laptop isn't always a smooth process. MacBooks may detect your display device as a secondary display, at which point you will need to hit Command+F1 to switch to Mirroring Mode instead. This will mirror the missing display to whatever it is you've got connected.
 
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Make Your Own Slabtop
 
@@ -122,22 +122,22 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-reactivate-video-playback-in-sony-a6400/"><u>[New] How to Reactivate Video Playback in Sony A6400</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-maiden-shoot-revelations-and-critique/"><u>[New] Maiden Shoot Revelations and Critique</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-this-costless-voice-changer-to-boost-valorant-skills/"><u>[Updated] Explore This Costless Voice Changer to Boost Valorant Skills</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-future-proof-videography-leading-cameras-of-2024/"><u>[Updated] Future-Proof Videography Leading Cameras of 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevating-social-media-presence-adding-linktree-to-tiktok-bios/"><u>[Updated] In 2024, Elevating Social Media Presence Adding Linktree to TikTok Bios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-dramatization-structure/"><u>2024 Approved Flash Dramatization Structure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infuse-kinetic-smear-into-photos-in-photoshop/"><u>2024 Approved Infuse Kinetic Smear Into Photos in Photoshop</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/oggmp3-movavi-mp3ogg/"><u>直接網路 Ogg格式無成本導入MP3 - Movavi MP3到Ogg變更工具</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-android-photo-editor-is-pickup-top-in-2024/"><u>Best Android Photo Editor Is PickUp Top, In 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-compelling-content-essential-youtube-short-video-edits/"><u>Craft Compelling Content Essential Youtube Short Video Edits</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-device-event-code-219-wudfrd-failure-load/"><u>Device Device Event Code 219: WudfRd Failure Load</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fastest-iphoneandroid-apps-for-enhanced-music-for-2024/"><u>Fastest iPhone/Android Apps for Enhanced Music for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-power-of-luts-for-advanced-obs-studio-output-for-2024/"><u>Harnessing Power of LUTs for Advanced OBS Studio Output for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initiating-immediate-creation-of-captivating-facebook-panoramas-for-2024/"><u>Initiating Immediate Creation of Captivating Facebook Panoramas for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/reviving-your-dead-laptop-battery-or-charger-expert-advice-from-yl-computing/"><u>Reviving Your Dead Laptop Battery or Charger: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-excellent-online-screen-recorders-ranked-1plus/"><u>[New] 2024 Approved Excellent Online Screen Recorders Ranked #1+</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-and-engage-ifunny-meme-downloads/"><u>[New] Explore & Engage IFunny Meme Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-horizon-hurdlers-celebrating-the-most-staying-power-drones/"><u>[New] Horizon Hurdlers Celebrating the Most Staying Power Drones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-potential-with-top-choices-in-android-editing-software/"><u>[New] Unlock Potential with Top Choices in Android Editing Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktoks-new-wave-popular-rap-songs-to-sync-with/"><u>[Updated] 2024 Approved TikTok's New Wave Popular Rap Songs to Sync With</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-edits-for-an-uncluttered-tiktok-archive/"><u>[Updated] Expert Edits for an Uncluttered TikTok Archive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-photos-with-musical-scores/"><u>[Updated] Harmonizing Photos With Musical Scores</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>[Updated] Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-engineers-secure-operating-system-for-advanced-ai-data-center-management-inside-the-latest-developments/"><u>Apple Engineers Secure Operating System for Advanced AI Data Center Management – Inside the Latest Developments</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-6s-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 6s Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>In 2024, Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4/"><u>In 2024, FPV Fantasy A Closer Look at the Hubsan H501X4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-fusion-unlocking-mac-with-smartwatches/"><u>In 2024, Future Fusion Unlocking Mac With Smartwatches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-mastery-techniques-to-take-photos-and-videos-from-great/"><u>In 2024, Hero5 Black Mastery Techniques to Take Photos & Videos From Great</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-tap-trouble-on-win11s-elan-pad/"><u>Overcoming the Tap Trouble on Win11's Elan Pad</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-10-key-steps-for-optimal-stream-service-picks/"><u>The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
 </ul></div>
 

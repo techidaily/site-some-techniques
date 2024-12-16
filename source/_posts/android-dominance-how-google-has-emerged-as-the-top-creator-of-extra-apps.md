@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2024-12-06T16:32:39.902Z
-updated: 2024-12-09T16:14:51.674Z
+date: 2024-12-12T23:55:51.332Z
+updated: 2024-12-15T16:55:08.710Z
 tags:
   - mobile
 categories:
@@ -19,20 +19,12 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Google controls the most popular store for distributing Android apps and requires Android phone makers to ship a suite of Google software in order to have access.
 * Some OEM apps are better than Google's, but fewer phone companies are going through the effort of making their own software.
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
 
@@ -43,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  After Android Became Popular, Google Wanted More Control
@@ -51,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -65,12 +57,16 @@ Jerome Thomas / How-To Geek
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  I Don't Want to Give All of My Data to Google
 
@@ -95,6 +91,10 @@ Close
 Close 
 
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Apps Make Android Phones All Feel the Same
 
@@ -129,24 +129,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-leveraging-vr-to-shape-modern-business-practices/"><u>[New] 2024 Approved Leveraging VR to Shape Modern Business Practices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>[New] Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-create-a-sports-highlight-video-a-simple-guide-for-2024/"><u>[New] How to Create a Sports Highlight Video - a Simple Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-getting-rid-of-stickers-on-videos/"><u>[Updated] Expert Advice Getting Rid of Stickers on Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-vector-graphics-top-10-sources/"><u>[Updated] High-Quality Vector Graphics Top 10 Sources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-class-video-production-smooth-editing-skills/"><u>[Updated] In-Class Video Production Smooth Editing Skills</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-income-statement-pewdiepie-the-youtube-guru/"><u>[Updated] Income Statement PewDiePie, The YouTube Guru</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-se-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone SE is off? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/data-driven-mastery-unlock-4-steps-for-accessing-disk-management-in-win11/"><u>Data-Driven Mastery: Unlock 4 Steps for Accessing Disk Management in Win11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/enhance-instagram-content-with-background-tracks/"><u>Enhance Instagram Content with Background Tracks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-your-footage-a-color-grading-roadmap-for-2024/"><u>Harmonizing Your Footage A Color Grading Roadmap for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-12plus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 12+ 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam-for-2024/"><u>Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-realm-of-video-production-obs-and-free-luts/"><u>In 2024, Exploring the Realm of Video Production OBS & Free LUTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-historical-gems-art-unshackled-by-laws/"><u>In 2024, Historical Gems Art Unshackled by Laws</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-panzoid-framework-assemblage-for-2024/"><u>Ultimate Panzoid Framework Assemblage for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/video-movie-maker-for-windows-8-for-2024/"><u>Video Movie Maker for Windows 8 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-revenue-revolution-joining-elite-at-500-subs-level/"><u>[New] In 2024, Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-bcm20702a0-driver-is-unavailable-error/"><u>[SOLVED] BCM20702A0 Driver Is Unavailable Error</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-choose-your-view-facebook-video-aspect-ratio/"><u>[Updated] Choose Your View Facebook Video Aspect Ratio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-reality-polarr-photo-editor-simplified/"><u>[Updated] From Concept to Reality Polarr Photo Editor Simplified</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-free-rotate-and-merge-videos-on-android/"><u>[Updated] How to Free Rotate and Merge Videos on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-photo-cropping-apps-how-to-crop-photos-on-iphone/"><u>[Updated] Photo Cropping Apps How to Crop Photos on iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiled-top-5-visual-treats-on-social-medias-giant-for-2024/"><u>[Updated] Unveiled Top 5 Visual Treats on Social Media's Giant for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eye-catching-narrative-starter-gadget/"><u>2024 Approved Eye-Catching Narrative Starter Gadget</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-techniques-to-improve-mp4-soundtracks-using-srt-2024s-best-practices/"><u>Comprehensive Techniques to Improve MP4 Soundtracks Using SRT (2024'S Best Practices)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects-for-2024/"><u>Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frozen-frontier-showcasing-2022s-olympic-peaks-and-precision-riders-for-2024/"><u>Frozen Frontier Showcasing 2022'S Olympic Peaks and Precision Riders for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-analysis-navigating-the-depths-of-adobes-data-safekeeping-and-competitor-highlights-for-2024/"><u>Full Analysis Navigating the Depths of Adobe's Data Safekeeping and Competitor Highlights for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-the-latest-no-cost-video-maker-for-quick-conversions-to-mp4-and-mp3-available-now/"><u>Get the Latest No-Cost Video Maker for Quick Conversions to MP4 and MP3, Available Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/hot-finds-secure-your-free-sports-movies-and-film-torrents-today-perfect-compatibility-with-pcmac-devices/"><u>Hot Finds! Secure Your Free Sports Movies & Film Torrents Today - Perfect Compatibility with PC/Mac Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-realme-10t-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Realme 10T 5G?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-next-gen-apple-m4-chip-explore-release-timeline-features-and-performance-insights/"><u>The Next-Gen Apple M4 Chip: Explore Release Timeline, Features, and Performance Insights</u></a></li>
 </ul></div>
 

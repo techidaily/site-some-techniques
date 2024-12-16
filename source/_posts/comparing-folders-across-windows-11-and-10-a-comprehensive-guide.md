@@ -1,7 +1,7 @@
 ---
 title: Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
-date: 2024-12-08T18:13:03.715Z
-updated: 2024-12-09T20:09:55.232Z
+date: 2024-12-11T16:41:33.248Z
+updated: 2024-12-15T20:38:37.912Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Do you want to compare the number of files or folders or simply visualize the difference between two folders? If so, you have two graphical and one command line method to do that. We’ll show you how to perform the folder comparison task on your Windows 11 or Windows 10 PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Compare Folders From Properties
@@ -42,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Properties' highlighted for a folder in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-folder-properties.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep the first folder’s "Properties" window open. Then, find the second folder, right-click it, and select "Properties."
@@ -52,7 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Properties' windows for two folders in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-compare-folder-properties.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That gives you a general overview of the differences between your folders.
@@ -97,13 +93,13 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 !['Browse' highlighted for the '1st File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-add-first-folder-winmerge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For the "2nd File or Folder" field, click the "Browse" button and choose the second folder to compare.
 
 !['Browse' highlighted for the '2nd File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-add-second-folder-winmerge.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In both fields, enable the "Read-Only" option. Click the "Folder: Filter" field and type **\*.\*** if it isn’t already there. This ensures the app compares all the files in both the specified folders. Then, at the bottom, click "Compare."
 
@@ -112,6 +108,10 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
  On the following screen, you’ll see the comparison of the specified folders. You’ll see information like identical files in both folders, files missing from one folder, and so on.
 
 ![The comparison of two folders in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-folder-comparison-winmerge.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that's how you know what one folder has that another doesn't. This can be really useful if you're trying to quickly compare different versions of the same folder, like you'd have when you[create a backup](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/).
 
@@ -130,20 +130,18 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-a-beginners-guide-to-use-snapseed-photo-editing-features/"><u>[New] A Beginner's Guide to Use Snapseed Photo Editing Features</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-dissection-of-goofy-quest-the-videotape-perspective/"><u>[New] Dissection of 'Goofy Quest' – The Videotape Perspective</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illuminating-the-art-of-iphone-long-exposure/"><u>[New] Illuminating the Art of iPhone Long Exposure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiating-immediate-creation-of-captivating-facebook-panoramas/"><u>[New] Initiating Immediate Creation of Captivating Facebook Panoramas</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-everything-you-need-to-know-about-youtube-shorts/"><u>[Updated] 2024 Approved Everything You Need to Know About YouTube Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-metaverses-humorous-realms-together/"><u>[Updated] Exploring the Metaverse's Humorous Realms Together</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-newbie-to-zoom-whiz-in-no-time/"><u>[Updated] From Newbie to Zoom Whiz in No Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-sights-with-itunes-acoustics/"><u>[Updated] Harmonizing Sights with iTunes Acoustics</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/apertenca-a-cultura-portuguesa-greves-tipicas/"><u>Apertença À Cultura Portuguesa: Greves Tipicas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-mastering-windows-movie-maker-in-w11-for-beginners-for-2024/"><u>Guide to Mastering Windows Movie Maker in W11 for Beginners for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s23-tactical-edition-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S23 Tactical Edition Safely | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illumination-innovations-advanced-lighting-in-video-making/"><u>In 2024, Illumination Innovations Advanced Lighting in Video Making</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-modern-photographys-dynamic-range-capabilities/"><u>In 2024, Mastering Modern Photography's Dynamic Range Capabilities</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-melodies-meet-movements-creating-tiktok-videos-with-music/"><u>In 2024, Melodies Meet Movements Creating TikTok Videos with Music</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-t-series-profit-generation-methods-on-youtube/"><u>In 2024, Unveiling T-Series' Profit Generation Methods on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-user-experience-with-personalized-youtube-card-implementation/"><u>[Updated] In 2024, Elevating User Experience with Personalized YouTube Card Implementation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-savvy-top-5-methods-for-building-a-thriving-influencer-profile-for-2024/"><u>[Updated] Instagram Savvy Top 5 Methods for Building a Thriving Influencer Profile for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-nord-3-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus Nord 3 5G Phone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-be-a-social-media-wizard-best-tweeter-video-tools/"><u>In 2024, Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/next-gen-health-revenue-strategies-unleashed-explore-the-power-of-abbyys-digital-transformation-techniques-in-managing-patient-payments/"><u>Next-Gen Health Revenue Strategies Unleashed - Explore the Power of ABBYY's Digital Transformation Techniques in Managing Patient Payments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimiser-la-gestion-de-documents-avec-labbyy-flexicapture-dans-les-ateliers-bretagne-pour-une-meilleure-efficacite-client/"><u>Optimiser La Gestion De Documents Avec L'ABBYY FlexiCapture Dans Les Ateliers Bretagne Pour Une Meilleure Efficacité Client</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimize-your-site-with-cookiebot-technology-advanced-personalization-and-tracking/"><u>Optimize Your Site with Cookiebot Technology - Advanced Personalization and Tracking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-conversion-tracking-using-the-powerful-features-of-cookiebot-technology/"><u>Optimized Conversion Tracking Using the Powerful Features of Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revealing-hidden-insights-into-effective-digital-evolution-tactics/"><u>Revealing Hidden Insights Into Effective Digital Evolution Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-data-insights-and-personalization-with-state-of-the-art-cookiebot-solutions/"><u>Revolutionizing Data Insights and Personalization with State-of-the-Art Cookiebot Solutions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-how-to-mirror-your-online-sql-server-databases-onto-your-personal-computers-storage/"><u>Step-by-Step Guide: How to Mirror Your Online SQL Server Databases Onto Your Personal Computer's Storage</u></a></li>
 </ul></div>
 

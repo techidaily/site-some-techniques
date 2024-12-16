@@ -1,7 +1,7 @@
 ---
 title: Guide to Hiding Your File Activity From Others Using Windows N 11 Settings
-date: 2024-11-25T20:44:35.914Z
-updated: 2024-12-02T00:41:15.280Z
+date: 2024-12-14T00:04:22.022Z
+updated: 2024-12-16T01:16:32.871Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,19 +29,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Manually Remove Recently Accessed Items
 
  To selectively remove recently accessed files and folders, [open File Explorer](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) by clicking on the folder icon in the taskbar. Then, navigate to the "Home" tab on the left. Check the box(es) next to the files you want to remove from the history, right-click on the selected files, and select "Remove From Recent."
 
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
 
 ![Removing a recently accessed folder from the File Explorer's Jump List.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-removing-a-recently-accessed-folder-from-the-file-explorer-s-jump-list.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's important to note that removing items in this way only removes them from the Recent section in File Explorer and the jump list; they will remain intact in the Recent Items folder, where the record is stored. If you want to ensure others don't know what files and folders you've accessed, remove them from there as well.
 
@@ -50,7 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
@@ -65,13 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Disabling privacy features in the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-privacy-features-in-the-folder-options-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While the above process stops Windows from displaying recently accessed items in the Recent section of File Explorer, it will still record them in the Recent Items folder. This means that anyone using your PC can still view those records. So, what's the best way to maintain the privacy of this data?
 
  The best way is to [clear your File Explorer history](https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/) after using your PC. Doing so will erase the entire history, ensuring no traces are left for anyone to see.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clear the Entire History of Recent Items
 
@@ -86,10 +90,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
 ![Clearing File Explorer history from the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-clearing-file-explorer-history-from-the-folder-options-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By doing so, you will erase all the information, and File Explorer will start recording new actions from scratch, ensuring your privacy. Besides clearing your history, you can [customize many other settings](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) in Windows 11 to protect your privacy.
 
@@ -108,22 +108,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extensive-overview-hero4-black-dynamics/"><u>[New] Extensive Overview Hero4 Black Dynamics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-on-demand-samsungs-ue590-monitor-revisited/"><u>[New] High Definition on Demand Samsung's UE590 Monitor Revisited</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-much-does-pewdiepie-make-yearly-financial-report/"><u>[New] How Much Does PewDiePie Make - Yearly Financial Report</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-maximizing-ram-for-enhanced-minecraft-experience/"><u>[New] In 2024, Maximizing RAM for Enhanced Minecraft Experience</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-free-tools-for-converting-youtube-videos-for-2024/"><u>[Updated] Best Free Tools for Converting YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-instagrams-unpredictable-video-playback/"><u>[Updated] Exploring Instagram's Unpredictable Video Playback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-pixels-to-blockchain-gold-choosing-the-right-nft-engines/"><u>[Updated] From Pixels to Blockchain Gold Choosing the Right NFT Engines</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-getting-to-grips-with-apple-podcasts-installation/"><u>[Updated] Getting to Grips with Apple Podcasts Installation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtubers-essential-camera-guidebook/"><u>[Updated] YouTubers' Essential Camera Guidebook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-enthusiastic-presentation-appraisal-version-08/"><u>2024 Approved Enthusiastic Presentation Appraisal, Version 08</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-finest-8-high-quality-3d-and-shimmering-texts-online/"><u>2024 Approved Explore the Finest 8 High-Quality 3D & Shimmering Texts Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sdr-to-hdri-pioneers-expert-tips-and-techniques/"><u>2024 Approved SDR to HDRI Pioneers Expert Tips and Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/header-tags-and-content-structure-break-content-into-sections-using-header-tags-from-h1-to-h6-the-main-title-should-include-your-primary-keyword-while-subhe72/"><u>Header Tags and Content Structure: Break Content Into Sections Using Header Tags From H1 to H6. The Main Title Should Include Your Primary Keyword, While Subheadings Can Incorporate Secondary Keywords or Long Tail Terms.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-camon-30-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Camon 30 Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ffmpeg-and-the-art-of-audio-preservation/"><u>In 2024, FFmpeg and the Art of Audio Preservation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-igniting-interest-from-day-one-with-impactful-audio-starts/"><u>In 2024, Igniting Interest From Day One with Impactful Audio Starts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-oculus-odyssey-a-journey-through-best-vr-headsets/"><u>[New] Oculus Odyssey A Journey Through Best VR Headsets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picshot-uncomplicated-path-to-stunning-collages/"><u>[New] Picshot Uncomplicated Path to Stunning Collages</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder/"><u>[Updated] 2024 Approved Empower Yourself Learning the Ins and Outs of IO Screen Recorder</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-zippy-zenith-the-quickest-youtube-playlist-share/"><u>[Updated] Zippy Zenith The Quickest Youtube Playlist Share</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-tiktok-issues-effective-solutions-for-a-smooth-experience/"><u>Dealing with TikTok Issues: Effective Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-generative-ai-search-industry-adopters-explained/"><u>Deciphering Generative AI Search: Industry Adopters Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-solutions-to-fix-launch-failures-in-call-of-dutys-newest-warzone-20-update-for-pc/"><u>Essential Solutions to Fix Launch Failures in Call of Duty's Newest: Warzone 2.0 Update for PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-projects-with-voice-over-integration/"><u>In 2024, Streamlining Your Projects with Voice Over Integration</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/iphone-music-management-simplified-adding-mp3s-without-using-itunes/"><u>IPhone Music Management Simplified: Adding MP3s Without Using iTunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-cookiebot-technology-for-tailored-content-delivery/"><u>Leveraging Cookiebot Technology for Tailored Content Delivery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/nonprofit-charity-partners-with-abbyy-for-ai-oversight-system-development/"><u>Nonprofit Charity Partners with ABBYY for AI Oversight System Development</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimierungsmoglichkeiten-in-der-bestandsverwaltung-erkennen-fuhren-sie-unsere-expertenliste-herunter/"><u>Optimierungsmöglichkeiten in Der Bestandsverwaltung Erkennen - Führen Sie Unsere Expertenliste Herunter!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimize-site-traffic-with-cookiebots-cutting-edge-tracking-solutions/"><u>Optimize Site Traffic with Cookiebot's Cutting-Edge Tracking Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimize-with-cookiebot-enhance-site-traffic-and-engagement/"><u>Optimize with Cookiebot: Enhance Site Traffic and Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-conversions-with-cutting-edge-cookiebot-technology/"><u>Optimized Conversions with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-with-advanced-cookie-based-tracking-technology/"><u>Optimized with Advanced Cookie-Based Tracking Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-with-cookiebot-technology-enhancing-user-experience-and-personalization/"><u>Optimized with Cookiebot Technology: Enhancing User Experience and Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-with-cookiebot-enhancing-website-traffic-and-user-engagement/"><u>Optimized with Cookiebot: Enhancing Website Traffic & User Engagement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/repairing-a-stand-alone-headphone-for-2024/"><u>Repairing a Stand-Alone Headphone for 2024</u></a></li>
 </ul></div>
 

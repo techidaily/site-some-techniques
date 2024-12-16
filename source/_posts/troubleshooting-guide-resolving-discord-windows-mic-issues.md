@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-12-07T16:23:17.524Z
-updated: 2024-12-09T22:02:49.424Z
+date: 2024-12-09T16:46:09.488Z
+updated: 2024-12-15T19:49:13.880Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run Discord as an Admin
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
  Select "Yes" in the User Account Control prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
@@ -53,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Microphone Access' and 'Let Apps Access Your Microphone' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-enable-mic-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 10, navigate to Settings > Privacy > Microphone. On the right pane, select "Change" and turn on the toggle. On the same page, enable both "Allow Apps to Access Your Microphone" and "Allow Desktop Apps to Access Your Microphone" options.
 
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
 
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Disable QoS High Packet Priority in Discord
 
  Discord’s [QoS](https://digital-screen-recording.techidaily.com/updated-in-2024-nine-powerful-microphone-capture-options-decoded/) High Packet Priority feature tells your router the app’s internet packets are high priority. This feature sometimes clashes with the app configuration. Turn it off and see if that resolves your mic problem.
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
@@ -122,22 +122,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-chronology-on-camera-best-practices-for-date-insertion/"><u>[New] 2024 Approved Chronology on Camera Best Practices for Date Insertion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-formulating-fascinating-film-moments/"><u>[New] Formulating Fascinating Film Moments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-inspection-gopro-silver-hero4-detailed-review/"><u>[New] Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-review-showdown-max-360-vs-hero-11-edition/"><u>[New] GoPro Review Showdown Max 360 VS Hero 11 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-nba-game-broadcasting/"><u>[Updated] Innovative Approaches to NBA Game Broadcasting</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-snap-into-the-loop-mastering-boomerangs-for-max-impact-for-2024/"><u>[Updated] Snap Into the Loop Mastering Boomerangs for Max Impact for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-reels-on-instagram/"><u>2024 Approved How to Make Reels on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-vsco-photo-craftsmanship/"><u>2024 Approved In-Depth Look at VSCO Photo Craftsmanship</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-online-portals-for-text-artistry/"><u>2024 Approved Ultimate Guide to Online Portals for Text Artistry</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-techniques-for-photo-based-tileworks-for-2024/"><u>Exploring Techniques for Photo-Based Tileworks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/forge-viral-content-adobe-memes-for-2024/"><u>Forge Viral Content Adobe Memes for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-5-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 5 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-fixes-what-to-do-when-your-game-of-fortnite-wont-load/"><u>Mastering Fixes: What to Do When Your Game of Fortnite Won’t Load</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-down-the-gif-to-emphasize-details-better-to-do-so-read-this-guide-and-learn-to-use-the-best-platforms-for-slow-motion-gifs/"><u>New In 2024, Slow Down the GIF to Emphasize Details Better. To Do so, Read This Guide and Learn to Use the Best Platforms for Slow-Motion GIFs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pacing-and-plot-twists-enhanced-with-gpts-9-tips/"><u>Pacing & Plot Twists Enhanced with GPT's 9 Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-libgdk-win32-20-0dll-errors-on-windows/"><u>Troubleshooting Missing libgdk-win32-2.0-0.dll Errors on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-picks-optimal-vr-for-drone-pilots/"><u>[New] Expert Picks Optimal VR for Drone Pilots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-forming-inspiring-collage-photos/"><u>[New] Expertise in Forming Inspiring Collage Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hilarityhatcher-create-comedy-with-a-click/"><u>[New] HilarityHatcher Create Comedy with a Click</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-list-of-video-recording-apps-for-iphone-for-2024/"><u>[New] Top List of Video Recording Apps for iPhone for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-inviolable-tactic-to-eliminate-youtube-shorts/"><u>[Updated] 2024 Approved Inviolable Tactic to Eliminate YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-proof-your-data-with-top-30-free-unlimited-1tbplus-options/"><u>[Updated] Future-Proof Your Data with Top 30 Free, Unlimited (1TB+) Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry/"><u>[Updated] GIF Genius Unleashed The Best Tools and Methods of Memetic Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hasty-steps-ios-photos-and-videos-on-windows/"><u>[Updated] Hasty Steps IOS Photos & Videos on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-improve-gopro-battery-life-for-2024/"><u>How to Improve GoPro Battery Life for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grading-and-correcting-with-ease-top-11-video-editing-tips/"><u>In 2024, Grading and Correcting with Ease Top 11 Video Editing Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unveiling-8-affordable-video-communication-apps-for-pc-and-mac/"><u>In 2024, Unveiling 8 Affordable Video Communication Apps for PC and MAC</u></a></li>
+<li><a href="https://games-able.techidaily.com/incisive-guide-evaluating-your-gaming-hours-on-series-s/"><u>Incisive Guide: Evaluating Your Gaming Hours on Series S</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-restore-functionality-of-corsair-icue-interface-on-windows-11/"><u>Solved: How to Restore Functionality of Corsair iCUE Interface on Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-5-easy-steps-for-altering-game-voices-in-pubg/"><u>The 5 Easy Steps for Altering Game Voices in PUBG</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-macwindows-video-fixedness-assistant/"><u>Ultimate Mac/Windows Video Fixedness Assistant</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/web-based-gratuitous-wmv-3g2/"><u>Web-Based Gratuitous WMV 3G2 콜리즈 - 무료 변환 프로그램</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wma-to-mp32024/"><u>WMA to MP3変換簡単方法：2024年リリースの最適ソフトウェア選びと使い方</u></a></li>
 </ul></div>
 

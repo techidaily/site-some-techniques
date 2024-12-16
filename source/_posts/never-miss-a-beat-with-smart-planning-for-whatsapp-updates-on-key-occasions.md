@@ -1,7 +1,7 @@
 ---
 title: Never Miss a Beat with Smart Planning for WhatsApp Updates on Key Occasions
-date: 2024-12-05T19:50:13.766Z
-updated: 2024-12-09T22:05:20.085Z
+date: 2024-12-10T22:41:38.335Z
+updated: 2024-12-15T16:06:59.360Z
 tags:
   - mobile
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![WhatsApp option in the SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/whatsapp-option-in-the-skedit-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Recipients option in the SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/recipients-option-in-the-skedit-app.jpg) 
 
 Close 
@@ -35,10 +39,14 @@ Close
 
 ![SKEDit app message field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/skedit-app-message-field.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Check icon in SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/check-icon-on-skedit-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close 
@@ -53,10 +61,6 @@ Close
 
 ![Time of Day option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/time-of-day-option-in-the-shortcuts-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close 
 
  Next, select the date and time for which you want to schedule the WhatsApp message, choose the "Run Immediately" option, and tap "Next." Then, choose the "New Blank Automation" box.
@@ -64,14 +68,10 @@ Close
 ![Run Immediately option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/run-immediately-option-in-the-shortcuts-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![New Blank Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-blank-automation-option-in-the-shortcuts-app.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close 
 
@@ -82,7 +82,7 @@ Close
 ![Done option in the Shortcut app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/done-option-in-the-shortcut-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close 
@@ -94,10 +94,6 @@ Close
  Similar to your iPhone and Android smartphone, you can also schedule WhatsApp messages on [WhatsApp Web](https://fox-that.techidaily.com/dealing-with-iphone-x-troubles-heres-how-you-can-resolve-the-7-biggest-nuisances/). All you need to do is get the Blueticks extension from the Chrome Web Store. To begin, open Google Chrome and visit the [Chrome Web Store](https://chromewebstore.google.com/). Then, select the "Extensions" option in the top bar, type "Blueticks" in the search bar, and hit Enter.
 
 ![Extensions tab in Chrome Web Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-tab-in-chrome-web-store.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, click the "Add to Chrome" button on the Blueticks page.
 
@@ -111,17 +107,21 @@ Close
 
 ![Extensions icon in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-icon-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, open [WhatsApp Web on Chrome](https://web.whatsapp.com/) and launch the conversation of the person you want to schedule a message for, type the message in the message field, then click the clock icon next to it.
 
 ![Clock icon in WhatsApp Web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clock-icon-in-whatsapp-web-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Blueticks window that opens, select the date and time for your scheduled message. You can also configure other options that Blueticks offers, like adding files, sending recurring messages, and more. Finally, click the "Schedule Send" option, and your message will be sent at the scheduled time.
 
 ![Schedule Send optoin in WhatsApp Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/schedule-send-optoin-in-whatsapp-web.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -142,24 +142,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-finding-the-right-sound-for-movie-previews/"><u>[New] Finding the Right Sound for Movie Previews</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-clearing-clutter-background-removal/"><u>[New] In 2024, Clearing Clutter Background Removal</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-free-pc-screen-capture-tools-a-comprehensively-assessed-list/"><u>[New] In 2024, Free PC Screen Capture Tools - A Comprehensively Assessed List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smilesphere-explore-limitless-meme-landscapes/"><u>[New] SmileSphere Explore Limitless Meme Landscapes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>[Updated] Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-appraisal-the-essence-of-hero4-black/"><u>[Updated] Extensive Appraisal The Essence of Hero4 Black</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-navigating-links-between-instagram-and-tiktok/"><u>[Updated] In 2024, Navigating Links Between Instagram and TikTok</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-quick-tips-eliminate-signature-bg-in-minutes-for-2024/"><u>[Updated] Quick Tips Eliminate Signature Bg in Minutes for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-potential-innovative-strategies-for-better-insta-content-for-2024/"><u>[Updated] Unlocking Potential Innovative Strategies for Better Insta Content for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-row-fun-beyond-the-game-top-alternatives/"><u>2024 Approved First Row Fun Beyond the Game Top Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imaginary-giggles-generate-with-kapwings-maker/"><u>2024 Approved Imaginary Giggles Generate with Kapwing's Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-our-selection-of-premium-21-hdmi-tvs/"><u>2024 Approved In-Depth Analysis Our Selection of Premium 2.1 HDMI TVs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-srt-to-xml-ssa-and-ttml-transformations-for-2024/"><u>Expert Tips for SRT-to-XML, SSA, and TTML Transformations for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-enhanced-capabilities-the-13-inch-apple-macbook-air-m1-202n-unveiled/"><u>Exploring the Enhanced Capabilities: The 13-Inch Apple MacBook Air (M1, 202N) Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/freepaid-luminar-the-ultimate-lightroom-substitute-for-2024/"><u>Free/Paid Luminar The Ultimate Lightroom Substitute for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-editing-expertise-exchange/"><u>In 2024, Film Editing Expertise Exchange</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-kitchen-with-chatgpt-top-7-strategies-for-aspiring-chefs/"><u>Transform Your Kitchen with ChatGPT - Top 7 Strategies for Aspiring Chefs</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-split-wmv-files-for-free-top-5-tools/"><u>Updated Split WMV Files for Free Top 5 Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-review-insights-acevideo-editor-2023-edition/"><u>[New] Full Review Insights AceVideo Editor, 2023 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-book-video-examples/"><u>2024 Approved Exceptional Book Video Examples</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-depths-of-photo-manipulation/"><u>2024 Approved Exploring the Depths of Photo Manipulation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-convert-pinterest-video-to-mp3-files-and-download-them/"><u>2024 Approved How to Convert Pinterest Video to MP3 Files and Download Them</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-harness-googles-potential-for-your-podcasts/"><u>2024 Approved How to Harness Google’s Potential for Your Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-hub-iphones-galore/"><u>2024 Approved Humor Hub IPhones Galore</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-chronological-disruption-in-acting/"><u>2024 Approved Innovative Methods for Chronological Disruption in Acting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-cutting-edge-features-of-apple-iphone-15-pro-a-look-at-its-sleek-titanium-design-and-advanced-usb-c-connectivity/"><u>Exploring the Cutting-Edge Features of Apple iPhone 15 Pro - A Look at Its Sleek Titanium Design and Advanced USB-C Connectivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-video-player-face-off-vlc-against-mpc-for-2024/"><u>Free Video Player Face-Off VLC Against MPC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection-for-2024/"><u>From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-enhancing-images-on-smartphones-for-creatives/"><u>In 2024, Enhancing Images on Smartphones for Creatives</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-explore-the-world-in-high-definition-on-youtube/"><u>In 2024, Explore the World in High Definition on YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a58-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A58 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/squared-success-creating-compelling-video-posts-on-facebook-for-2024/"><u>Squared Success Creating Compelling Video Posts on Facebook for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-data-revival-a-free-lifesaver/"><u>Stellar Data Revival - A Free Lifesaver</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138585305-9781475940237-the-acts-of-creation/"><u>The Acts of Creation | Free Book</u></a></li>
 </ul></div>
 

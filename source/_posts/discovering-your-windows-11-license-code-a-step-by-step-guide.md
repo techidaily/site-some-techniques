@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 License Code: A Step-by-Step Guide"
-date: 2024-12-06T20:36:36.770Z
-updated: 2024-12-09T16:39:19.647Z
+date: 2024-12-09T19:04:55.940Z
+updated: 2024-12-15T16:25:49.354Z
 tags:
   - deals
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ## Discovering Your Windows 11 License Code: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is a Windows Product Key?](https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-n3-pattern-lock-screen-by-drfone-android/)
 * [Find an OEM Product Key With Command Prompt](https://facebook-videos.techidaily.com/2024-approved-beam-your-best-achieving-hd-quality-with-fb-live/)
 * [Show a Retail Product Key Using ShowKeyPlus](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 * OEM keys are tied to your PC's specific hardware, but retail licenses are transferrable between devices.
 
  Windows 11 uses a product key to ensure your OS is genuine—in other words, not pirated. You can find the product key in use on your PC, which is particularly useful if you bought Windows yourself and need to reinstall it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Is a Windows Product Key?
 
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Alternatively, there are retail licenses available for enthusiasts who build their own PCs or purchase different versions of Windows 11.
 
  Regardless of what kind of key you have, product keys are 25 characters long and composed of a mixture of capital letters and numbers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Find an OEM Product Key With Command Prompt
 
@@ -64,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![Command prompt displaying key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Right_Size_Console-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Show a Retail Product Key Using ShowKeyPlus
@@ -78,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  To download it, click the Start button, type **Microsoft Store** in the search bar, then hit "Open."
 
 ![In start menu, type "Microsoft Store", then click open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-09_12h19_00.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the Microsoft Store is open, go to the top of the page and enter **ShowKeyPlus** into the search bar, and hit enter.
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  ShowKeyPlus displays the currently installed key and the OEM key.
 
 ![ShowKeyPlus Image1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ShowKeyPlus-Image1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're using an OEM copy of Windows 11, both the green and blue boxes display your product key. If you installed a version of Windows 11 you purchased yourself, the green box is the key currently in use.
 
@@ -112,20 +112,22 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fast-tracking-social-media-visuals-a-deep-look/"><u>[New] Fast-Tracking Social Media Visuals A Deep Look</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-becoming-an-expert-in-video-capturing-streamlabs-obs-guide/"><u>[New] In 2024, Becoming an Expert in Video Capturing Streamlabs OBS Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-to-enhance-images-through-cropping/"><u>[New] Innovative Methods to Enhance Images Through Cropping</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-endless-viewing-loop-your-iphone-videos-today-for-2024/"><u>[Updated] Endless Viewing Loop Your iPhone Videos Today for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-10-cost-effective-video-players-on-linuxwindowsmac/"><u>[Updated] Explore 10 Cost-Effective Video Players on Linux/Windows/Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-windows-screen-capture-top-5-applications-reviewed/"><u>[Updated] Free Windows Screen Capture Top 5 Applications Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-quintessential-7-first-person-shooters/"><u>[Updated] In 2024, Quintessential 7 First-Person Shooters</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hidden-harmonics-discreetly-lowering-garageband-tones-for-2024/"><u>Hidden Harmonics Discreetly Lowering Garageband Tones for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) Without Passcode?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-audio-techniques-for-your-podcasts/"><u>In 2024, Innovative Audio Techniques for Your Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-search-of-alternatives-to-vlc-media-player-for-2024/"><u>In Search of Alternatives to VLC Media Player for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138577132-9781452501260-no-reason-for-goodbyes/"><u>No Reason for Goodbyes | Free Book</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y27-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y27 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-electric-vehicles-bev-phev-fcev-and-hybrids-compared/"><u>Understanding Electric Vehicles: BEV, PHEV, FCEV & Hybrids Compared</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-capture-to-screen-advanced-editing-strategies-for-full-spherical-video-content-in-adobe-premiere-pro/"><u>[New] From Capture to Screen Advanced Editing Strategies for Full Spherical Video Content in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k/"><u>[New] From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-in-note-taking-with-mematic-platform/"><u>[New] Innovate in Note-Taking with Mematic Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-face-off-frenzy-legendary-sj6-vs-xiaomis-four-k-creators/"><u>[Updated] Face-Off Frenzy Legendary SJ6 Vs. Xiaomi's Four-K Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-tailor-made-templates-for-concluding-audio/"><u>[Updated] Free, Tailor-Made Templates for Concluding Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giggle-genesis-creepy-clones-with-a-smile/"><u>[Updated] Giggle Genesis Creepy Clones with a Smile</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frame-rate-in-fallout-76-top-strategies/"><u>Boost Your Frame Rate in Fallout 76 - Top Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-scripts-not-active-top-4-fixes-to-powershell-load-issue/"><u>Bypassing 'Scripts Not Active': Top 4 Fixes to PowerShell Load Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humor-and-memes-galore-iphones-for-2024/"><u>Humor & Memes Galore, iPhones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-framing-essentials-top-apps-and-websites-creators-for-2024/"><u>Image Framing Essentials Top Apps & Websites Creators for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-v27-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo V27 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-c53-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme C53 on Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>Take Control with KineMaster A Compreayer Guide to Android Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-reading-is-here-dive-into-the-best-5-artifice-intelligence-powered-book-suggestion-applications/"><u>The Future of Reading Is Here: Dive Into the Best 5 Artifice Intelligence-Powered Book Suggestion Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-hidden-gems-adding-new-titles-to-your-nes-classic-console/"><u>Unlock Hidden Gems: Adding New Titles to Your NES Classic Console</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone X | Dr.fone</u></a></li>
 </ul></div>
 

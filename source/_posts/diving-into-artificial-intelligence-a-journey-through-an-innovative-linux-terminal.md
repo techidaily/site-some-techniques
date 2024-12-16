@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal"
-date: 2024-12-02T22:33:10.586Z
-updated: 2024-12-09T21:00:48.192Z
+date: 2024-12-12T20:26:00.178Z
+updated: 2024-12-16T01:00:04.232Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ## Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ![The Downloads directory being displayed with the context menu open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-download-directory-in-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To install Warp on Linux Mint (and other Debian-based distros) using the DEB package, run this command:
@@ -75,7 +75,7 @@ warp-terminal
 ![A prompt on the browser to open a link in the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-link-in-the-warp-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll be returned to the Warp terminal window with a thanks message. Now, Warp will ask a few questions about your terminal usage. You can feel free to skip them by pressing the "Remind me later" option. For your convenience, I'll go through the survey and answer the questions.
@@ -86,7 +86,15 @@ Close
 
 ![Warp Terminal window opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-window.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Looks cool to me. But how will it stand as a Linux terminal? Let's find out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It's a Powerful Editor
 
@@ -106,10 +114,6 @@ Close
 
 ![Warp command history panel opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-command-history.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Warp AI Can Save You Tons of Googling
 
  Even as an experienced Linux user, I often rely on Google to solve problems and [AI tools to enhance my Linux experience](https://digital-screen-recording.techidaily.com/new-the-7-best-total-war-games-for-2024/) further. So having an AI assistant built into the terminal is extremely useful.
@@ -118,15 +122,15 @@ Close
 
 ![Asking Warp AI how to do a specific task](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asking-warp-ai-how-to-do-a-specific-task.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If I don't understand a command, I can ask Warp AI to explain it. If there's an output I don't understand, I can ask for clarification.
 
  Debugging errors and writing Bash scripts are also useful. You could do any of these using any other AI tools on the web. However, that means you have to open a browser, go to that website, type in your problem, copy-paste the solution to your terminal, then go back to the AI tool for more questions, and so on. Having an integrated AI saves you from that. Other than that, you can also type "#" into the terminal prompt to get AI command suggestions.
 
 ![An instance of Warp AI command suggestions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-ai-command-suggestions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Warp Drive Is Your Personal Workflow Bank
 
@@ -140,15 +144,15 @@ Close
 
 ![Warp Terminal workflow about killing a process running on a certain port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-workflow-about-killing-a-process-running-on-a-certain-port.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can add as many arguments as needed. Another great thing I found is that you can search for your workflows by name. Again, no need to remember the syntax or even the command names.
 
  Notebooks are interactive blocks of text created in the Markdown format. Notebooks can contain text, code blocks, lists, shell snippets, and more. Think of it as a mix of [Notion](https://extra-approaches.techidaily.com/updated-prime-focus-the-top-10-high-res-shoulder-rigs/) and Jupyter Notebook. You can export your notebooks in Markdown format and also import existing ones into Warp from your system.
 
 ![An example of a Warp notebook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Being a Notion user myself, I really enjoyed this feature. Having a notebook feature built into the terminal where I can keep important documentation and notes means I don't need to go back and forth between various resources.
 
@@ -157,7 +161,7 @@ Close
 ![An instance of using split windows in Warp terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks-feature.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Can Collaborate in the Terminal
@@ -167,10 +171,6 @@ Close
 ![Creating a team on the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/creating-a-team-on-the-warp-terminal.png) 
 
  Once created, you can invite others via email or a custom link. Your team members can access workflows and notebooks you share with the team. On the free plan, you can have up to three members, and share up to three notebooks and 10 workflows. Moreover, you can share sessions, command-line controls, and terminal input-output blocks with members.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  There Are Some Catches
 
@@ -185,7 +185,7 @@ Close
  This might be nitpicking. By default, the prompt panel is stuck to the bottom of the terminal, which, in my opinion, is a bad position. When you're accustomed to regular terminals, you need to look down a lot when typing the commands on Warp. Of course, you can change this easily from the settings and make it stick to the top.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rocking Linux With a Powerful Terminal
@@ -207,24 +207,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-cost-free-webm-viewing-a-list-of-industry-standouts/"><u>[New] Cost-Free WebM Viewing A List of Industry Standouts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-focal-flares-amplifying-your-footage-visually/"><u>[New] Focal Flares Amplifying Your Footage Visually</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frontier-gadgets-galore-top-10-vr-accessories/"><u>[New] Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-practices-for-enhancing-vhs-photos-via-pcs/"><u>[New] Innovative Practices for Enhancing VHS Photos via PCs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-kitchens-to-cameras-7-essentials-for-flavorful-filmmaking/"><u>[Updated] From Kitchens to Cameras 7 Essentials for Flavorful Filmmaking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>[Updated] Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-gear-for-next-level-virtual-reality/"><u>2024 Approved Groundbreaking Gear for Next-Level Virtual Reality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-and-yi-4k-battle-royale-of-high-resolution-cams-in-23-for-2024/"><u>GoPro and Yi 4K Battle Royale of High-Resolution Cams in '23 for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-effortlessly-convert-aax-audio-to-mp3-faq-and-ultimate-techniques-unveiled/"><u>How to Effortlessly Convert AAX Audio to MP3 - FAQ and Ultimate Techniques Unveiled!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>In 2024, Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-enhancing-video-subtitles-through-web-apps/"><u>In 2024, Expert Guide to Enhancing Video Subtitles Through Web Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-ultimate-selection-of-transition-apps/"><u>In 2024, Explore the Ultimate Selection of Transition Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>In 2024, Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-note-13-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi Note 13 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-videos-into-compatible-formats-for-your-kindle-fire/"><u>Step-by-Step Guide: Transforming Videos Into Compatible Formats for Your Kindle Fire</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tips-for-speeding-up-your-tiktok-videos-for-2024/"><u>Tips for Speeding Up Your TikTok Videos for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6s-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 6s Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wifi-wmv-f4v/"><u>무료 앱 사용 WiFi로 WMV 및 F4V 파일 구조 교체 - 모데비비</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>[New] Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>[New] Guide to Optimal VR Headset Selection Freedom or Connection?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-performance-mac-editors-ranked-1-to-5/"><u>[New] High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-fun-in-feeds-animating-instagram-text-on-stories/"><u>[New] Infusing Fun in Feeds Animating Instagram Text on Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-efficient-video-editing-with-gopro-studio/"><u>[Updated] Expert Strategies for Efficient Video Editing with GoPro Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22/"><u>[Updated] From Blurry to Crystal Clear The Ultimate Guide to VCE 2.2</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-money-via-online-video-platforms/"><u>2024 Approved Maximizing Money via Online Video Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-vcplusplus-distribution-essence/"><u>Decoding VC++ Distribution Essence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-subtitles-to-windows-media-player-for-2024/"><u>How to Add Subtitles to Windows Media Player for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevating-your-facebook-presence-dji-drone-streaming-tips/"><u>In 2024, Elevating Your Facebook Presence DJI Drone Streaming Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-sub-to-srt-tools-top-8-guide-reviewed/"><u>In 2024, Expert Recommended Sub to SRT Tools Top 8 Guide Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-hot-30-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Hot 30 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-maximizing-creativity-with-picsart/"><u>In 2024, In-Depth Guide to Maximizing Creativity with PicsArt</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photographys-new-era-smartphones-spearheading-change-for-2024/"><u>Photography's New Era Smartphones Spearheading Change for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professionals-guide-to-photo-watermarking-solutions/"><u>Professional's Guide to Photo Watermarking Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782501-9781591437666-psychic-communication-with-animals-for-health-and-healing/"><u>Psychic Communication with Animals for Health and Healing | Free Book</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/retro-wallpapers-and-desktop-backgrounds-celebrating-cr7-at-man-utd-premium-digital-artwork-collection-by-yl-software/"><u>Retro Wallpapers & Desktop Backgrounds Celebrating CR7 at Man Utd – Premium Digital Artwork Collection by YL Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-quik-review-and-roundup-top-pc-video-editing-software-for-2024/"><u>Updated Quik Review and Roundup Top PC Video Editing Software for 2024</u></a></li>
 </ul></div>
 

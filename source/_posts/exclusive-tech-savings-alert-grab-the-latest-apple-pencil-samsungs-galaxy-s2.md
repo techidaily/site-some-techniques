@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Tech Savings Alert: Grab the Latest Apple Pencil, Samsung's Galaxy S2"
-date: 2024-12-08T19:17:33.432Z
-updated: 2024-12-09T22:09:07.561Z
+date: 2024-12-10T01:03:55.878Z
+updated: 2024-12-15T22:52:32.922Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ While we're expecting some big Labor Day deals to start surfacing soon, you can 
 
 ![apple pencil 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/apple-pencil-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Apple Pencil 1
 
 The original Apple Pencil converts an iPad into a notepad or canvas with its unique stylus design using sensitive pressure and tilt sensors to draw on your screen.
@@ -24,6 +28,10 @@ The original Apple Pencil converts an iPad into a notepad or canvas with its uni
 [Buy on Amazon](https://www.amazon.com/Apple-MK0C2AM-A-Apple-Pencil/dp/B016NY7784?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
  Just in time for kids returning to school and summer vacations to end, get everyone in the family an Apple Pencil and enjoy pixel-perfect precision in all your favorite apps. It works with most iPad models, as long as they're not brand new. Get an [Apple Pencil today for only $69](https://www.amazon.com/dp/B0BJLG69QR?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Samsung Galaxy S24 (128 GB) AI Smartphone for $720 ($80 Off)](http://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDRCZBJ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
@@ -37,16 +45,12 @@ The Samsung Galaxy S24 may be the smallest in the line, but it has big-time proc
 
  Samsung's latest and greatest Galaxy S24 has a lot to offer in a small package. Plus, it's loaded with fun [new Galaxy AI features](https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-content-game-with-these-instagram-story-tips/). If you're not looking for a huge Pro or Ultra phone with a massive screen, the base Galaxy S24 is $80 right now and can be yours for only [$720 from Amazon](https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDRCZBJ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Blink Outdoor 4 Floodlight Security Camera for $80 ($50 Off)](https://www.amazon.com/All-New-Blink-Outdoor-Floodlight-Camera/dp/B0BBX45V5B?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![blink outdoor 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/blink-outdoor-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Blink Outdoor 4 Floodlight Camera (Wireless)
@@ -58,10 +62,6 @@ Keep an eye on the outside of your home with the dual-action Blink Outdoor flood
 [Buy on Amazon](https://www.amazon.com/All-New-Blink-Outdoor-Floodlight-Camera/dp/B0BBX45V5B?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
  Blink security cameras go on sale all the time, and if you already own several of these excellent little wire-free battery-powered cameras, you'll love this deal. Blink's Outdoor 4 Floodlight camera combo is [down to only $80](https://www.amazon.com/All-New-Blink-Outdoor-Floodlight-Camera/dp/B0BBX45V5B?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term). Light up the yard and keep tabs on your home simultaneously.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Apple iPad (9th Gen) 10.2-inch for $199 ($130 Off)](https://www.amazon.com/2021-Apple-10-2-inch-iPad-Wi-Fi/dp/B09G9FPHY6?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
@@ -78,7 +78,7 @@ Save some money and get the same great iPad experience with Apple's cheapest, en
  You don't need the latest and greatest iPad to be more productive, read ebooks, or get work done. That's why buying the slightly older 9th-generation iPad at a 40% discount is an excellent idea. It's perfect for students, so [get one today on Amazon](https://www.amazon.com/2021-Apple-10-2-inch-iPad-Wi-Fi/dp/B09G9FPHY6?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Sony WH-1000XM5 Wireless ANC Headphones for $298 ($102 Off)](https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
@@ -95,13 +95,13 @@ Dive into unparalleled audio bliss with the Sony WH-1000XM5 Wireless Noise Cance
 
  Sony still makes some of the absolute best wireless headphones and earbuds, and that's as true as ever with the WH-1000XM5\. They consistently rank as one of the best headphones on the market. Right now, you can [get a pair for under $300.](https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Tech Deals
 
 ![hand holding a fire TV remote with a TV in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hand-holding-the-fire-tv-controller-and-an-alert-icon-on-the-screen-in-the-background-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [RightFramePhotoVideo](https://www.shutterstock.com/image-photo/male-hand-holding-tv-remote-control-1730110726) / Shutterstock
 
@@ -129,21 +129,19 @@ Lucas Gouveia / How-To Geek | [RightFramePhotoVideo](https://www.shutterstock.co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-zoom-mastering-virtual-meeting-planning/"><u>[New] 2024 Approved Zoom Mastering Virtual Meeting Planning</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/oosting-your-channels-income-the-optimal-view-count-quotient/"><u>[New] Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-selective-image-sharpening-and-smoothing/"><u>[New] Expert Tips for Selective Image Sharpening & Smoothing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review/"><u>[New] Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-castrecorder-analysis/"><u>[New] In 2024, CastRecorder Analysis</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-4k-lg-display-assessment-the-ultimate-31mu97-b/"><u>[Updated] 4K LG Display Assessment The Ultimate 31MU97-B</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freeze-the-frame-overcoming-shake-phenomena/"><u>[Updated] Freeze the Frame Overcoming Shake Phenomena</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-premium-vr-showrooms/"><u>[Updated] Guide to Premium VR Showrooms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>[Updated] Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-essence-of-luts-mastering-photo-color-dynamics-for-2024/"><u>[Updated] The Essence of LUTs Mastering Photo Color Dynamics for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-ready-for-unprecedented-conversations-with-ai/"><u>Get Ready for Unprecedented Conversations with AI</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-12-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your OnePlus 12</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-software-roundup-selecting-ideal-watermark-tools/"><u>In 2024, Expert iPhone Software Roundup Selecting Ideal Watermark Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-futuristic-vr-tech-for-remote-pilots/"><u>In 2024, Futuristic VR Tech for Remote Pilots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>In 2024, How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-illuminated-imagery-photographic-collages-that-shine/"><u>In 2024, Illuminated Imagery Photographic Collages That Shine</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/5-steps-forward-in-youtube-mastery-and-recognition/"><u>[New] 25 Steps Forward in YouTube Mastery and Recognition</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-shareable-tiktoks-with-50plus-influential-phrases-for-2024/"><u>[New] Crafting Shareable TikToks with 50+ Influential Phrases for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/oes-the-sub4sub-strategy-improve-content-consumption-for-2024/"><u>[New] Does the Sub4Sub Strategy Improve Content Consumption for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-editing-workshop-portal/"><u>[Updated] Editing Workshop Portal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>[Updated] Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-10-most-powerful-drawing-tools-on-chrome-os/"><u>[Updated] Explore the 10 Most Powerful Drawing Tools on Chrome OS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlight-prime-iphone-gif-apps-to-try-for-2024/"><u>Highlight Prime iPhone GIF Apps to Try for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-create-time-travel-teleportation-effects-in-2024/"><u>How to Create Time Travel Teleportation Effects, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-viewing-ranked-10-best-mac-compatible-screens-for-2024/"><u>Immersive Viewing Ranked #10, Best Mac-Compatible Screens for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic-6-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic 6 Pro? Try These Fixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/make-the-most-of-your-workspace-with-dual-displays-on-your-m3-macbook-pro-inspired-by-successful-setups-on-the-m3-macbook-air/"><u>Make The Most Of Your Workspace With Dual Displays on Your M3 MacBook Pro, Inspired By Successful Setups On the M3 MacBook Air</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-windows-device-manager-error-code-28/"><u>Step-by-Step Guide: Correcting Windows Device Manager Error - Code 28</u></a></li>
 </ul></div>
 

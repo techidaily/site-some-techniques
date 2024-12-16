@@ -1,7 +1,7 @@
 ---
 title: "Decoding Virtual Currencies: A Comprehensive Guide on the Essence of Cryptocurrency."
-date: 2024-11-21T02:12:01.035Z
-updated: 2024-11-23T18:07:41.444Z
+date: 2024-12-11T21:44:47.665Z
+updated: 2024-12-16T01:11:54.122Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 ---
 
 ## Decoding Virtual Currencies: A Comprehensive Guide on the Essence of Cryptocurrency.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 
  Chances are you've heard of cryptocurrency: Bitcoin, Ethereum and Dogecoin have all become words we hear on the news or read online. But what is cryptocurrency exactly, and how does it work?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Cryptocurrency vs. Regular Currency
 
  Right now, you hopefully have some money in your pocket in the form of dollars, euros, or rupees, depending on what your country gives out as currency. This money is given value by a delicate system operated in part by governments, as well as certain market mechanisms that are too involved to get into here. [This article from The Balance](http://www.thebalance.com/value-of-money-3306108) serves as a solid primer, though.
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
  Cryptocurrency is different from this, and radically. Instead of having a physical presence---the notes and coins in your pocket---it exists entirely digitally, without the power of a government to back it. Rather, it relies on free-market mechanisms to determine its value: what people are willing to pay for it determines what it's worth.
 
  Of course, without a central issuing authority inflation could become a real issue: anybody could just claim at any time that they have a thousand or a million cryptobucks, and there's nothing anybody could do to stop them. If you create your own U.S. dollars, you'll get arrested for counterfeiting. If you create cryptocurrency out of thin air, nothing will happen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Cryptocurrency Blockchain
 
@@ -47,13 +43,13 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 ![An example of a Bitcoin ledger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/blockchain-example.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The ledger keeps track of how much of any given cryptocurrency is spent (Bitcoin in the above example), when it's spent, and also who spent it. Though your identity is protected by a pseudonym---random numbers and letters called a hash---when using most cryptocurrencies, none except for a few exceptions are truly anonymous. Even [Bitcoin isn't "anonymous" in the way many people think it is](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/).
 
 Related: [How Anonymous Is Bitcoin?](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Putting the Crypto in Cryptocurrency
 
@@ -66,7 +62,7 @@ Related: [How Anonymous Is Bitcoin?](https://activate-lock.techidaily.com/how-to
  There are [several examples](https://www.nytimes.com/2021/01/12/technology/bitcoin-passwords-wallets-fortunes.html) of people forgetting their passwords and locking themselves out of their cryptofortune.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Buying and Mining Cryptocurrencies
@@ -79,6 +75,10 @@ Related: [How to Buy Bitcoin the Easy Way](https://fake-location.techidaily.com/
 
  However, considering the insane amount of computing power that's needed to process the data necessary for verifying the new blocks, there's a chance your custom-built gaming rig will have smoke billowing out of it before you mine even the equivalent of a few bucks. There's so much processing power needed, in fact, that mining is no longer the field of enthusiasts, but rather of whole companies. Even [criminal gangs](https://www.reuters.com/article/mexico-bitcoin-insight-idUSKBN28I1KD) are getting in on the action---and making millions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Storing and Spending Bitcoin
 
  Assuming you just bought your cryptocurrency of choice, you still need a place to store it: unlike cash money, Bitcoin and Ethereum can't be sewn into your mattress. For this, you'll need a wallet. These come in software and hardware form and can store your particular blockchain information for you.
@@ -90,7 +90,7 @@ Related: [How to Buy Bitcoin the Easy Way](https://fake-location.techidaily.com/
 ![Ledger wallet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ledger-wallet.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Ledger](https://shop.ledger.com/products/ledger-nano-s)_
@@ -112,19 +112,24 @@ _[Ledger](https://shop.ledger.com/products/ledger-nano-s)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-choose-your-winner-dji-gopro-max-instax-x3/"><u>[New] Choose Your Winner DJi, GoPro Max, Instax X3</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experts-recommendations-for-image-watermarking/"><u>[New] Expert's Recommendations for Image Watermarking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>[New] How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-cameo-review/"><u>[New] In 2024, Vimeo Cameo Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop-for-2024/"><u>[New] Perfect Your Profile Easy Guide for Instagram Videos From Desktop for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-online-editors-the-essential-guide/"><u>[Updated] 2024 Approved Free Online Editors The Essential Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fantasy-in-full-view-vr-cinemascape/"><u>[Updated] Fantasy in Full View VR Cinemascape</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-feathered-salsa-dancer/"><u>2024 Approved Feathered Salsa Dancer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-groove-gatherers-try-our-cost-free-beats-scanners/"><u>2024 Approved Groove Gatherers Try Our Cost-Free Beats Scanners</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-settings-visuals-that-stick-with-viewers/"><u>2024 Approved Superior Settings Visuals that Stick With Viewers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversao-online-de-filmes-wmv-em-formato-vob-gratuita-movavi/"><u>Conversão Online De Filmes WMV Em Formato VOB Gratuita - Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-back-in-synch-7-essential-steps-to-fix-icloud-photo-sync-problems-on-iphone/"><u>Get Back in Synch: 7 Essential Steps to Fix iCloud Photo Sync Problems on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illustrate-instantly-image-to-illustration-on-any-device-for-2024/"><u>Illustrate Instantly Image to Illustration on Any Device for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-efficiently-for-2024/"><u>New Cutting Large Videos on Mac? Heres How to Do It Quickly and Efficiently for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-connected-platforms-sharing-videos-between-twitter-and-tumblr-for-2024/"><u>[New] Connected Platforms Sharing Videos Between Twitter & Tumblr for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-simple-designs-to-compelling-animated-graphics/"><u>[New] From Simple Designs to Compelling Animated Graphics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-vidtap-chatcam-sniper-app/"><u>[New] In 2024, VidTap - ChatCam Sniper App</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-windowsmac-srt-sound-management-for-2024/"><u>[New] Windows/Mac SRT Sound Management for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-excellence-index-photoplustune-recording-software/"><u>[Updated] 2024 Approved Excellence Index Photo+Tune Recording Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-separation-to-symbiosis-logic-pro-x-audio-blending/"><u>[Updated] From Separation To Symbiosis Logic Pro X Audio Blending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-front-runners-graphic-cards-for-4k-games/"><u>[Updated] Front-Runners Graphic Cards for 4K Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giving-life-a-curtain-call-blackout-in-pro/"><u>[Updated] Giving Life a Curtain Call Blackout in Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-activate-auto-hdr-setting-in-windows-11/"><u>[Updated] How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-iconic-nintendo-switch-fighting-game-series-max-156-for-2024/"><u>[Updated] Iconic Nintendo Switch Fighting Game Series (Max 156) for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-immersive-worlds-shaping-future-cinematic-experiences/"><u>[Updated] Immersive Worlds Shaping Future Cinematic Experiences</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>2024 Approved Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-bright-ideas-for-android-video-mastery/"><u>2024 Approved Bright Ideas for Android Video Mastery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818203494-gpu-glitch-spotlight-now-resolved/"><u>GPU Glitch Spotlight - Now Resolved!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-music-archives-copyright-free-gaming-tunes/"><u>In 2024, Free Online Music Archives (Copyright-Free Gaming Tunes)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funds-flowchart-from-sung-rhythms-to-visual-harmony/"><u>In 2024, Funds Flowchart From Sung Rhythms To Visual Harmony</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-selection-7-best-mac-video-apps/"><u>In 2024, Ideal Selection 7 Best Mac Video Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-m34-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy M34 5G Phone Network-Ready</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023-for-2024/"><u>In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023 for 2024</u></a></li>
 </ul></div>
 

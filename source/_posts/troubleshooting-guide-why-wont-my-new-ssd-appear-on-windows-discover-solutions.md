@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions"
-date: 2024-12-07T19:01:36.883Z
-updated: 2024-12-09T21:18:27.569Z
+date: 2024-12-14T19:48:57.182Z
+updated: 2024-12-16T01:01:52.890Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  You installed a new hard drive in your computer and, to your dismay, it's nowhere to be found. Don't panic, you just need to give Windows a little nudge to bring it online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Most Common Reason Your Disk Is Missing
 
  You grabbed a nice big hard disk on sale, you cracked open your computer case, plugged the drive into the motherboard and power supply with the appropriate cables (no? better double check that before you keep reading), and when you booted your computer back up the new hard drive was nowhere to be found.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
  Unlike the hard drive that ships with an off-the-shelf computer or external drive, extra hard drives you purchase aren't always shipped formatted and ready to use. Instead, they're in a totally blank state—the idea is that the end user will do what they wish with the drive, so there is no benefit to preformatting or otherwise changing the drive at the factory.
 
  As such, when you put the drive in your system, Windows simply waits for you to decide what to do with the drive instead of automatically formatting and adding it to the drive list. If you've never added a hard drive to your computer before, however, it can be pretty disconcerting when it appears like the drive is missing (or, worse, dead). Have no fear, though! It's easy to bring your hard drive out of hiding.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Bring Your Missing Drive Online
 
@@ -53,12 +53,16 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ![Select 'GPT (GUID Partition Table),' then click 'OK.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-hdd-auto-detected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it doesn't show up, you just need to initialize it manually. In Disk Management, scroll down through the list of disks in the bottom pane. These disks will be labeled "Disk 1" through however many disks you have. Windows assigns a number to all hard disks, solid state disks, USB drives, and card readers, so don't be surprised if you have to scroll down a bit—in our case the new drive was "Disk 10" as seen below.
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
@@ -86,21 +90,17 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![img_57c45d02176de](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d02176de.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, format the volume. If you're using the volume for routine computing tasks (storing photos, video games, etc.) there's no real need to deviate from the default NTFS file system and settings. Curious about the differences between file systems and why you might use the different options? We've [got you covered](https://extra-approaches.techidaily.com/seamless-multi-screen-browsing-in-chrome-using-pip-for-2024/). Give your volume a name, click "Next", and wait for the format process to finish.
 
 ![img_57c45d3ae14d7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d3ae14d7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the process is complete, you'll see your new drive--allocated, formatted, and ready for action--in the Disk Management disk list.
 
 ![img_57c45e2278bff](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45e2278bff.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now use the disk like any other on your system for media storage, games, and other purposes.
 
@@ -119,19 +119,24 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humorhub-easy-login-easy-signup/"><u>[New] HumorHub Easy Login, Easy Signup</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>[New] Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rime-opening-strategies-top-16-youtube-vids-that-thrive/"><u>[New] Prime Opening Strategies Top 16 YouTube Vids That Thrive</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-convert-fb-videos-to-mp4-no-cost-high-definition-available/"><u>[Updated] 2024 Approved Convert FB Videos to MP4 - No Cost, High Definition Available</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-5-secrets-to-successful-and-memorable-titles/"><u>[Updated] 5 Secrets to Successful and Memorable Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-find-and-buy-premium-youtube-ringtone-videos-easily/"><u>2024 Approved Find & Buy Premium YouTube Ringtone Videos Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guffaw-guild-robotic-raiders/"><u>2024 Approved Guffaw Guild Robotic Raiders</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y36-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y36</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/decreasing-bitrate-in-high-quality-obs-for-2024/"><u>Decreasing Bitrate in High-Quality OBS for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2000-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2000 | Stellar</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grading-inshot-does-it-reign-supreme-for-2024/"><u>Grading InShot Does It Reign Supreme for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-in-iphone-filmmaking-virtual-worlds/"><u>In 2024, Innovation in iPhone Filmmaking Virtual Worlds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freeing-up-your-screen-time-which-video-player-prevails-vlc-or-mpc/"><u>[New] Freeing Up Your Screen Time Which Video Player Prevails, VLC or MPC?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-plex-vs-streaming-titanique/"><u>[New] Plex vs Streaming Titanique</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-5-engaging-book-promo-videos/"><u>[Updated] Exploring 5 Engaging Book Promo Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-text-techniques-in-videos/"><u>[Updated] Innovative Text Techniques in Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-demystifying-twitter-archives-for-users-and-analysts/"><u>2024 Approved Demystifying Twitter Archives for Users & Analysts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-blueprint-for-successful-valorant-thumbnails-on-social-media-platforms/"><u>2024 Approved The Blueprint for Successful Valorant Thumbnails on Social Media Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-dvd-to-ios-device-transfers-with-macx-for-mac-users-convert-and-rip-dvds-compatible-with-xs-xr-x-and-8-models/"><u>Effortless DVD to iOS Device Transfers with MacX for Mac Users – Convert and Rip DVDs Compatible With XS, XR, X, and 8 Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-counteract-dxgi-errors-after-device-loss/"><u>How to Counteract DXGI Errors After Device Loss</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-coding-warfare-comparing-the-superiority-of-av1-and-vp9/"><u>In 2024, Coding Warfare Comparing the Superiority of AV1 and VP9</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolved-windows-editor-programs-for-films/"><u>In 2024, Evolved Windows Editor Programs for Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-to-legal-gaming-music-without-price-tag/"><u>In 2024, Exclusive Guide to Legal Gaming Music Without Price Tag</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-roundup-videonix-editors-capabilities/"><u>In 2024, Expert Roundup Videonix Editor's Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-footage-to-fortune-unveiling-the-secrets-of-sj-cam-s6/"><u>In 2024, From Footage to Fortune Unveiling the Secrets of SJ-CAM S6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-sound-to-sight-choosing-between-audio-and-video-media/"><u>In 2024, From Sound to Sight Choosing Between Audio and Video Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improving-zoom-video-fidelity-easy-steps/"><u>In 2024, Improving Zoom Video Fidelity Easy Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrated-video-workflows-on-ios/"><u>Integrated Video Workflows on iOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-how-to-remove-filmora-watermark-after-exporting-read-this-article-to-find-out-the-details-of-removing-the-filmora-watermark-even-without-p/"><u>New 2024 Approved How to Remove Filmora Watermark After Exporting? Read This Article to Find Out the Details of Removing the Filmora Watermark Even without Paying</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-ability-whats-it-mean-for-users/"><u>Windows 11 Taskbar Chat Ability: What's It Mean for Users?</u></a></li>
 </ul></div>
 

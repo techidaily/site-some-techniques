@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-12-07T22:11:21.099Z
-updated: 2024-12-09T20:05:25.316Z
+date: 2024-12-12T20:13:07.581Z
+updated: 2024-12-15T19:31:35.297Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,19 +27,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Startup Apps' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-startup-apps-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the right pane, review each app. If you find an unwanted app on the list, prevent it from running automatically on your PC’s boot by right-clicking it and choosing "Disable."
 
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open the App as an Admin
 
@@ -53,11 +49,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
- In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
 ##  Use App Compatibility Troubleshooter
 
@@ -67,12 +63,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Activate Developer Mode
@@ -83,13 +83,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-for-developers-windows-11-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Activate the "Developer Mode" option, then choose "Yes" in the prompt.
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Quit Settings and launch your app.
 
@@ -134,21 +134,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-apex-creators-video-giants-in-the-making/"><u>[New] Apex Creators Video Giants in the Making</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-freescape-extraction-revisited-a-look-at-the-latest-update/"><u>[New] Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>[Updated] A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-edits-encapsulating-powerpoint-talks/"><u>[Updated] Efficient Edits Encapsulating PowerPoint Talks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonious-hits-free-download-zones-for-skype-tunes/"><u>[Updated] Harmonious Hits Free Download Zones for Skype Tunes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-21-vegas-pro-insights-an-expert-breakdown/"><u>[Updated] In 2024, '21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-the-narrative-ios-video-playback-upside-down/"><u>2024 Approved Flip the Narrative IOS Video Playback Upside-Down</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>2024 Approved From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/avoiding-common-driver-incompatibilities-a-guide-to-optimize-your-rainbow-six-extraction-play/"><u>Avoiding Common Driver Incompatibilities: A Guide to Optimize Your Rainbow Six Extraction Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0xc1900208-on-windows-11-updates-heres-how-you-can-fix-it/"><u>Error 0xC1900208 on Windows 11 Updates? Here’s How You Can Fix It</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-moto-g-5g-2023-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Moto G 5G (2023) on Mac?</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-successfully-archive-webex-meetings-using-the-movavi-tool/"><u>How to Successfully Archive Webex Meetings Using the Movavi Tool</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humorous-hits-lifetime-access-to-memes/"><u>In 2024, Humorous Hits Lifetime Access to Memes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-iphones-pano-tech-guide-to-360-degree-content/"><u>In 2024, IPhone's Pano-Tech Guide to 360-Degree Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infinite-storage-pathways-select-services-showcase-for-2024/"><u>Infinite Storage Pathways Select Services Showcase for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-explore-the-10-finest-iphone-photo-editors-and-filters/"><u>[New] 2024 Approved Explore the 10 Finest iPhone Photo Editors & Filters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>[New] 2024 Approved Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-gopro-hero5-black-showdown-with-hero4-silver/"><u>[Updated] In 2024, GoPro Hero5 Black Showdown with Hero4 Silver</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-visionary-6-eco-friendly-minecraft-mansions/"><u>[Updated] Visionary 6 Eco-Friendly Minecraft Mansions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-streamers-choice-of-live-broadcasting-apps/"><u>2024 Approved Exclusive Streamer's Choice of Live Broadcasting Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expeditious-steps-for-reclaiming-deleted-reddit-content/"><u>2024 Approved Expeditious Steps for Reclaiming Deleted Reddit Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gear-360-vs-lgcam-determining-best-in-3d-capture/"><u>2024 Approved Gear 360 vs LGCam Determining Best in 3D Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegraphics-suite/"><u>2024 Approved GiggleGraphics Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guiding-audio-dimming-in-fl-studio/"><u>2024 Approved Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-upside-down-visuals-investigating-insta-video-anomalies/"><u>2024 Approved Upside Down Visuals Investigating Insta Video Anomalies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/film-length-conversion-hours-to-storage-gb-for-2024/"><u>Film Length Conversion Hours to Storage (GB) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-your-favorites-ranking-of-8-preferred-mp3-extractors-android-for-2024/"><u>Find Your Favorites Ranking of 8 Preferred MP3 Extractors (Android) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-components-to-creativity-designing-your-own-4k-editor-pc-for-2024/"><u>From Components to Creativity Designing Your Own 4K Editor PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders-for-2024/"><u>From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-offline-voice-processor/"><u>In 2024, Ultimate Offline Voice Processor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-setup-tips-from-toms-hardware-resource/"><u>Mastering Your Setup: Tips From Tom's Hardware Resource</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-recognition-of-sham-chatgpt-sites/"><u>Quick Recognition of Sham ChatGPT Sites</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>Updated 2024 Approved Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
 </ul></div>
 

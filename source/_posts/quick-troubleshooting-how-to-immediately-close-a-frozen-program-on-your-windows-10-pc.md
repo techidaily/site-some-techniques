@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2024-12-02T20:58:36.014Z
-updated: 2024-12-09T21:10:52.926Z
+date: 2024-12-10T20:28:15.856Z
+updated: 2024-12-15T16:48:46.571Z
 tags:
   - desktop
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * [Force Quit an App Using Command Prompt](https://fox-links.techidaily.com/expertly-crafted-images-with-lut-techniques-in-photoshop-cs6-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * Run "tasklist" in Command Prompt find tasks, and then use "taskkill /im <program>.exe" to force quit the app.
 
  It’s not uncommon for an application to stop responding on Windows 10\. When it happens, you can force the app to shut down, effectively unfreezing said application. Here’s how to force quit an app on Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Try a Keyboard Shortcut
 
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Right-click the taskbar and select 'Task Manager.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-open-task-manager.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With Task Manager open, select the task you want to force quit and then select “End Task.”
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  The frozen program will now close.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Force Quit an App Using Command Prompt
@@ -74,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
 
@@ -112,20 +112,20 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>[New] Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-inspire-listenership-with-a-great-soundbite-teaser/"><u>[New] How to Inspire Listenership with a Great Soundbite Teaser</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-experts-picks-top-5-webcams-revolutionizing-game-streaming/"><u>[Updated] 2024 Approved Expert's Picks Top 5 Webcams Revolutionizing Game Streaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-macos-11-big-sur-upgrade/"><u>[Updated] Getting Started with macOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-the-top-10-lesser-known-memeliters/"><u>[Updated] In 2024, Unveiling the Top 10 Lesser-Known Memeliters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-creators-of-screenplay-world/"><u>2024 Approved Prime Creators of Screenplay World</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/embracing-change-adaptability-as-the-new-normal-in-business-for-2024/"><u>Embracing Change Adaptability as the New Normal in Business for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fun-at-no-cost-top-quality-gratuitous-meme-templates-for-2024/"><u>Fun at No Cost Top Quality, Gratuitous Meme Templates for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-pastimes-pairing-with-your-favorite-audio-shows-for-2024/"><u>Ideal Pastimes Pairing with Your Favorite Audio Shows for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-awesome-online-destinations-for-advanced-text-customization/"><u>In 2024, Awesome Online Destinations for Advanced Text Customization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-htcs-masterpiece-in-vr-the-immersive-experience/"><u>In 2024, HTC's Masterpiece in VR The Immersive Experience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-media-marketing-essential-ig-video-editors-for-2024/"><u>Mastering Media Marketing Essential IG Video Editors for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-ps4s-noise-issue-causes-and-repair-techniques/"><u>Solving the PS4's Noise Issue: Causes and Repair Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transforming-your-story-game-with-animation-techniques-for-text/"><u>Transforming Your Story Game with Animation Techniques for Text</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-behind-the-scenes-insights-for-instagram-story-audience-for-2024/"><u>[New] Behind the Scenes Insights for Instagram Story Audience for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[New] In 2024, From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-picking-prime-stream-services/"><u>[New] The Ultimate Guide to Picking Prime Stream Services</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-whos-at-the-apex-youtube-subscribers-ranking/"><u>[New] Who's at the Apex? YouTube Subscribers Ranking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-four-pillars-of-mobile-video-acquisition-igtv-edition/"><u>[Updated] Four Pillars of Mobile Video Acquisition IGTV Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-a-seamless-google-podcast-upload-experience/"><u>2024 Approved Expert Tips for a Seamless Google Podcast Upload Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-magix-music-creators-capabilities/"><u>2024 Approved Exploring Magix Music Creator's Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-magix-vpxs-innovative-editing-capabilities/"><u>2024 Approved Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-notable-launching-a-trending-solo-show/"><u>2024 Approved From Novice to Notable Launching a Trending Solo Show</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-modeling-software-for-animation-professionals/"><u>2024 Approved Ideal Modeling Software for Animation Professionals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/comprehensive-list-of-vimeo-downloader-utilities-for-2024/"><u>Comprehensive List of Vimeo Downloader Utilities for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-stunning-photos-on-iphones-for-2024/"><u>Expert Tips for Stunning Photos on iPhones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders-for-2024/"><u>Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-record-internal-audio-on-android-video-or-gameplay/"><u>How to Record Internal Audio on Android [Video or Gameplay]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A78 5G Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

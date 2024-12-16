@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-12-02T19:39:40.726Z
-updated: 2024-12-09T20:02:32.873Z
+date: 2024-12-11T17:38:21.357Z
+updated: 2024-12-15T22:31:42.279Z
 tags:
   - desktop
 categories:
@@ -44,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Ubuntu adds its own cache to the mix. By default, the [systemd](https://facebook-clips.techidaily.com/2024-approved-restore-order-fixing-compromised-fb-profile/)\-resolved service is enabled. This caches DNS requests and responses. If a single cache entry (or the whole cache for that matter) becomes corrupted, you can experience connectivity issues with remote servers, web resources, and local devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Does Flushing the DNS Cache Do?
@@ -52,6 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Flushing the DNS cache tells your computer to forget all the stored name and IP address pairs it has collected. That means any connection request that requires resolving from a name to an IP address requires your computer to query an outside source such as your local router or an external DNS service. The response will be cached.
 
  Over time, your DNS cache will be populated by new entries, some of which are likely to be updated versions of older, stale cache entries. It’s an easy and safe operation. If you ever experience networking or internet flakiness, flushing your DNS cache is a good first step in troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flushing the DNS Cache on Ubuntu
 
@@ -64,7 +68,7 @@ systemctl is-active systemd-resolved
 ![Checking whether the resolved daemon is running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-14.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The response will either be “active” or “inactive.”
@@ -75,6 +79,10 @@ resolvectl statistics
 
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
 
 resolvectl flush-caches
@@ -82,7 +90,7 @@ resolvectl flush-caches
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
@@ -92,7 +100,7 @@ resolvectl statistics
 ![Verifying the DNS cache is empty on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Our cache size is zero, just as we predicted.
@@ -113,17 +121,9 @@ about:networking
 
 ![The Clear DNS Cache button on Firefox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Firefox shows you the most recent entries added to the DNS cache. To clear the cache, click the “Clear DNS Cache” button. I had to refresh the page to see the change, but the cache was definitely purged.
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Google Chrome
 
@@ -156,20 +156,14 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flawless-blend-incorporating-linktree-into-your-tiktok-about-section/"><u>[New] Flawless Blend Incorporating Linktree Into Your TikTok About Section</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-smartphones-for-excellent-video-recording/"><u>[New] Ideal Smartphones for Excellent Video Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-value-in-cheap-gopro-sales-online/"><u>[Updated] Finding Value in Cheap GoPro Sales Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>[Updated] YouTube Creator Studio Unleashing the Power of Your Channel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-seamless-transition-strategies-mastering-the-move-to-your-new-iphone-insights-from-zdnet/"><u>1. Seamless Transition Strategies: Mastering the Move to Your New iPhone - Insights From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems/"><u>2024 Approved From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-video-clarity-the-first-lessons-on-hd/"><u>2024 Approved Grasping Video Clarity The First Lessons on HD</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-methodical-decrescendo-techniques-for-logic-pro-mixers/"><u>2024 Approved Methodical Decrescendo Techniques for Logic Pro Mixers</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/copiar-disco-de-gratis-con-aomei-la-herramienta-sin-coste-para-clonar-unidades-guiadas/"><u>Copiar Disco De Gratis Con AOMEI - La Herramienta Sin Coste Para Clonar Unidades Guiadas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero5-black-vs-hero5-the-duel-for-durability-for-2024/"><u>Hero5 Black vs Hero5, The Duel for Durability for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-escapes-delving-into-jaunt-vr-for-2024/"><u>Immersive Escapes Delving Into Jaunt VR for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-creating-a-channel-focused-on-reviewing-marketplace-items/"><u>In 2024, Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maintain-privacy-how-to-block-chatgpt-from-saving-interactions/"><u>Maintain Privacy: How to Block ChatGPT From Saving Interactions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/say-goodbye-to-itunes-explore-the-best-ways-to-synchronize-your-ios-devices-on-catalina/"><u>Say Goodbye to iTunes: Explore the Best Ways to Synchronize Your iOS Devices on Catalina</u></a></li>
-<li><a href="https://win-able.techidaily.com/xcom-2-and-windows-compatibility-guide-overcoming-unexpected-shutdowns/"><u>XCOM 2 and Windows Compatibility Guide: Overcoming Unexpected Shutdowns</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-the-course-a-comprehensive-guide-to-youtube-teaser-vids/"><u>[New] In 2024, Charting the Course A Comprehensive Guide to YouTube Teaser Vids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-11-video-cameras-under-500-a-frugal-filmmakers-list/"><u>[Updated] 2024 Approved Top 11 Video Cameras Under $500 A Frugal Filmmaker's List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exciting-joint-ventures-in-the-virtual-metaverse/"><u>2024 Approved Exciting Joint Ventures in the Virtual Metaverse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-to-refined-a-complete-guide-to-polarr-photo-tools/"><u>2024 Approved From Raw to Refined A Complete Guide to Polarr Photo Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-guide-to-best-4k-laptop-models/"><u>2024 Approved Gamer's Guide to Best 4K Laptop Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-video-tools-working-across-systems-seamlessly-for-2024/"><u>Free VIDEO Tools Working Across Systems Seamlessly for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1726029811365-mpeg-4/"><u>MPEG-4変換手順ガイド - 動画に最適化</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/no-budget-no-problem-here-are-the-best-vfx-pages-for-2024/"><u>No Budget? No Problem! Here Are the Best VFX Pages for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-pros-and-cons-of-samsung-photo-editor/"><u>Unveiling the Pros & Cons of Samsung PHOTO EDITOR</u></a></li>
 </ul></div>
 

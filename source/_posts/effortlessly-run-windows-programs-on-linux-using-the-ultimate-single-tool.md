@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Run Windows Programs on Linux Using the Ultimate Single Tool
-date: 2024-12-02T21:14:15.779Z
-updated: 2024-12-09T20:33:05.875Z
+date: 2024-12-12T01:14:43.759Z
+updated: 2024-12-15T19:10:20.570Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You may already know that, thanks to the Wine project, you can run Windows applications on Linux. Wine is great, but it can be difficult for a beginner. Meet Bottles, an application that makes Wine much more manageable, accessible, and secure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Bottles?
 
  That’s a good question, but let’s take a step back. What is Wine? [Wine](http://www.winehq.org/) is a Linux application that makes Windows programs think they’re running in Microsoft Windows. It translates the calls the program would make to Windows, into Linux-compatible calls. It processes those requests and sends the responses back to the Windows program as though it was Windows that was replying. That’s an incredible achievement from an impressive project that’s [been around for a long time](https://some-guidance.techidaily.com/updated-ultimate-list-best-no-cost-lut-downloads/).
@@ -30,10 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 [Bottles is a visual wrapper for Wine](https://usebottles.com/). It still uses Wine as the technology to run the Windows applications, but it gives you an intuitive graphical interface so you don’t need to wrestle with Wine’s flexible but sometimes overwhelming configuration. After all, if you go to a store and buy wine, you don’t carry it home in your cupped hands. They give you a convenient glass container for that very purpose.
 
  Windows is the most commonly targeted platform for viruses and other malware, so there are risks to running Windows applications. Wine gives Windows applications access to your home drive with the same permissions and authority as you. Any malware you pick up has the same permissions. Bottles helps by sandboxing each Windows application, effectively acting as a container to confine the activities of applications and malware alike.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Install Bottles
 
@@ -45,17 +45,9 @@ flatpak install flathub com.usebottles.bottles
 
 ![Installing the Bottles flatpak on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scrolling output will pause for you to confirm you wish to perform the installation.
 
 ![The Bottles flatpak installation requesting confirmation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Type “Y” and hit “Enter.”
 
@@ -69,21 +61,29 @@ flatpak run com.usebottles.bottles
 
 ![The output from Bottles the first time it is launched](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Soon, Bottles launches, displaying the Welcome to Bottles introduction screens.
 
 ![The Bottles welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the arrow button to move through the screens. On the Almost Done page, click the blue "Continue" button.
 
 ![Bottles' "Almost Done" welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Bottles performs some further setup and configuration, then tells you it’s ready.
 
 ![Bottles' final welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the blue “Start using Bottles” button to start using Bottles.
 
@@ -111,17 +111,21 @@ flatpak run com.usebottles.bottles
 
 ![The Preferences option in the Bottles hamburger menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "Preferences" dialog appears.
 
 ![The "Bottles Directory" option in the General tab of the Prefrences dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The bottom option on the “General” tab is “Bottles Directory.” Click the button at the end of that line to open a file browser dialog.
 
 ![The file dialog that allows you to browse to a location and set it as the location for the bottles you create](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Browse to the location you wish to use, then click the orange “Select” button.
 
@@ -134,7 +138,7 @@ flatpak run com.usebottles.bottles
  We’re going to use the template for applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Creating Your First Bottle
@@ -143,17 +147,21 @@ flatpak run com.usebottles.bottles
 
 ![The empty Bottles page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We’re going to [install Notepad++](https://instagram-video-files.techidaily.com/updated-2024-approved-top-10-best-apps-for-editing-igtv-vertical-videos/), a Windows-only editor. We named our bottle “Notepad++”, and selected the “Application” radio button.
 
 ![Selecting the Application bottle type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the blue “Create” button to create your bottle.
 
 ![The output while Bottles creates a new bottle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/15-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bottles configures your bottle and Wine, then tells you the process is complete.
 
@@ -162,10 +170,6 @@ flatpak run com.usebottles.bottles
  Click the blue “Close” button to close the dialog. You can see the details of your new bottle.
 
 ![The details of the new bottle, and the options that can be used to fine tune and use it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/17.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Running Our Windows Application
 
@@ -181,17 +185,9 @@ flatpak run com.usebottles.bottles
 
 ![The Notepad++ installation dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Work your way through the installation screens.
 
 ![The Notepad++ installation  dialog welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Soon, you’ll see the final screen.
 
@@ -200,6 +196,10 @@ flatpak run com.usebottles.bottles
  Leave the tick in the “Run Notepad++ v8.6.2” checkbox and click the “Finish” button. Notepad++ launches on your desktop.
 
 ![The Windows application, Notepad++ running on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/22.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Back in Bottles, you’ll see Notepad++ is listed as an installed program.
 
@@ -230,21 +230,19 @@ flatpak run com.usebottles.bottles
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-practices-for-4k-screen-recording/"><u>[New] Best Practices for 4K Screen Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-advanced-the-hand-trackers-playbook/"><u>[New] From Basics to Advanced The Hand Tracker's Playbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-forge-memes-that-captivate-audiences/"><u>[New] How to Forge Memes that Captivate Audiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-range-locomotion-appraisal/"><u>[Updated] Full Range Locomotion Appraisal</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-get-snapchat-on-mac-easy-guide-for-2024/"><u>[Updated] How to Get Snapchat on Mac? [Easy Guide] for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-visual-storytelling-through-photo-mosaics/"><u>[Updated] Innovating Visual Storytelling Through Photo Mosaics</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhanced-yakuza-the-third-pc-fix-now-runs-smoothly-without-any-hitches/"><u>Enhanced Yakuza The Third Pc Fix Now Runs Smoothly Without Any Hitches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-utilizing-funimate-downloader-for-2024/"><u>Expert Tips for Utilizing Funimate Downloader for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-forward-altering-instagram-stories-tempo-for-2024/"><u>Fast-Forward Altering Instagram Stories' Tempo for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foremost-6-networks-fostering-profitable-partnerships-for-2024/"><u>Foremost 6 Networks Fostering Profitable Partnerships for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/guia-paso-a-paso-como-subir-un-video-creado-con-adobe-after-effects-al-internet/"><u>Guía Paso a Paso: Cómo Subir Un Video Creado Con Adobe After Effects Al Internet</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quick-guide-to-saving-switch-gameplay-videos/"><u>In 2024, Quick Guide to Saving Switch Gameplay Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/pinpoint-and-eliminate-android-video-glitches-for-2024/"><u>Pinpoint & Eliminate Android Video Glitches for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-googles-ar-stickers-an-overview-with-comparison-to-rival-products/"><u>[New] Google's AR Stickers An Overview with Comparison to Rival Products</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[Updated] From Novice to Master The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[Updated] In 2024, Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://driver-error.techidaily.com/access-denial-to-graphics-hardware-on-win11/"><u>Access Denial to Graphics Hardware on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-connection-techniques-for-controllers-on-phones/"><u>Bluetooth Connection Techniques for Controllers on Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-text-plugin-compendium/"><u>In 2024, Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-to-the-best-10-vector-images-online/"><u>In 2024, Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-finest-free-luts-of-the-year/"><u>In 2024, Explore the Finest FREE LUTs of the Year</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-razr-40-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Razr 40 Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-groups-shaping-future-of-vr-worlds-for-2024/"><u>Innovative Groups Shaping Future of VR Worlds for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-checklist-for-virtual-vigilance-safeguarding-during-online-interactions-for-2024/"><u>New The Ultimate Checklist for Virtual Vigilance Safeguarding During Online Interactions for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-experience-fix-high-ping-issues-on-pc-with-bless-unleashed/"><u>Optimize Your Experience: Fix High Ping Issues on PC with Bless Unleashed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-strategy-to-locate-ideal-placement-for-your-ps4-webcam/"><u>The Definitive Strategy to Locate Ideal Placement for Your PS4 Webcam</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-makeup-craft-color-correction-essentials-for-2024/"><u>The YouTube Makeup Craft Color Correction Essentials for 2024</u></a></li>
 </ul></div>
 

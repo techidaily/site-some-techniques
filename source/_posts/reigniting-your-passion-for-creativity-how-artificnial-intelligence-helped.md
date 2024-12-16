@@ -1,7 +1,7 @@
 ---
 title: "Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped"
-date: 2024-11-20T18:05:17.420Z
-updated: 2024-11-23T23:44:14.641Z
+date: 2024-12-12T16:36:45.164Z
+updated: 2024-12-15T16:04:43.094Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
 ---
 
 ## Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
  Many fear that AI might stifle human creativity. However, my personal journey with creative hobbies and AI tools tells a different story. Let me share my story of using generative AI tools and how it helped me reconnect with my creative side.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Always Fancied Myself a Creative
@@ -39,21 +43,17 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![A person typing on a laptop, surrounded by creative writing materials.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-a-person-typing-on-a-laptop-surrounded-by-creative-writing-materials.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dibakar Ghosh / How-To Geek | Midjourney
 
  But here’s the twist—words were never my biggest passion. I always felt a stronger affinity towards music and art. So why didn’t I prioritize those over writing? Simple answer: I couldn’t!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Creative Hobbies Have a Barrier To Entry
 
 ![People caught behind a gate, barrier to entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-people-caught-behind-a-gate-barrier-to-entry.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -93,6 +93,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![Midjourney web app image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-midjourney-web-app-image.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I quickly revisited my old notebook (yes, I have a notebook with my earlier ideas because digitizing them was a lot of work) and started _playing_ with Midjourney.
 
  Then, about a year later, [Suno v3](https://extra-skills.techidaily.com/updated-select-15-professional-luts-to-boost-gopro-cinematography/) dropped, followed by [Udio](https://extra-lessons.techidaily.com/cutting-to-perfection-the-science-of-online-photo-trimming/). I have been using these AI text-to-song generators for three-four months now and have already [generated over 1000 songs](https://fox-friendly.techidaily.com/new-in-2024-top-10-compact-dvd-viewers-on-a-go/) with them. It’s extremely fun and addictive.
@@ -102,10 +106,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Now, all these tools—Midjourney, Suno, Udio—start at $10 a month, making them extremely affordable. Also, each tool has an intuitive interface with excellent documentation, so I don’t need to invest hours of training or a fancy course.
 
  I could finally give my creative desires an easy outlet that didn’t hamper my normal routine—or demand significant financial or temporal investment. Each day, after work, I’d sit with these tools, spin up some ideas, hit generate, and share them with family and friends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Now I Want to Learn
 
@@ -120,7 +120,7 @@ a cat in space.
 ![A cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-a-cat-in-space.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -141,7 +141,7 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ![a cartoon cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/12-a-cartoon-cat-in-space.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -193,20 +193,19 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-heritage-on-display-post-copyright-masterpieces/"><u>[New] Heritage on Display Post-Copyright Masterpieces</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-free-youtube-channel-art-templates-find-them-here/"><u>[Updated] Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglemaker-step-by-step-to-fun-videos/"><u>[Updated] GiggleMaker Step-by-Step to Fun Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-correcting-and-confirming-your-age-information-on-tiktok/"><u>[Updated] Guide to Correcting & Confirming Your Age Information on TikTok</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-keeping-the-flow-alive-2023-guide-to-live-video-repairs-on-fb-for-2024/"><u>[Updated] Keeping the Flow Alive 2023 Guide to Live Video Repairs on FB for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-10-faceshifting-mobile-apps-for-iphonesandroid/"><u>Elite 10 Faceshifting Mobile Apps for iPhones/Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-recommendations-on-asmr-and-restful-nights-for-2024/"><u>Expert Recommendations on ASMR & Restful Nights for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-pixels-to-spirit-nurturing-memories-through-live-photo-to-video-conversion-for-2024/"><u>From Pixels to Spirit Nurturing Memories Through Live Photo to Video Conversion for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-liberate-your-ebooks-unlocking-drm-from-various-formats/"><u>How to Liberate Your Ebooks - Unlocking DRM From Various Formats</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-12-proplus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme 12 Pro+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-change-song-speed-on-spotify/"><u>In 2024, Innovative Approaches to Change Song Speed on Spotify</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-navigate-to-success-the-insiders-guide-to-adding-times/"><u>In 2024, Navigate to Success The Insider's Guide to Adding Times</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-12-techniques-for-storing-web-based-songs-for-2024/"><u>In-Depth Look at 12 Techniques for Storing Web-Based Songs for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/simplify-your-upgrade-safely-installing-windows-11-2022-update/"><u>Simplify Your Upgrade: Safely Installing Windows 11 2022 Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-essential-earning-calculators-a-tiktok-creators-toolkit/"><u>[New] 2024 Approved Essential Earning Calculators A TikTok Creator's Toolkit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>[New] Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacky-podcast-transmission-tactic/"><u>[Updated] Hacky Podcast Transmission Tactic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-effortlessly-track-beats-with-our-speedy-free-analysis-software/"><u>[Updated] In 2024, Effortlessly Track Beats with Our Speedy, Free Analysis Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-winning-at-gaming-memory-capture-essentials-on-windows-10/"><u>[Updated] Winning at Gaming Memory Capture Essentials on Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mize-video-speed-to-match-your-desired-watch-time-for-2024/"><u>Customize Video Speed to Match Your Desired Watch Time for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-issues-when-call-of-duty-warzone-wont-start/"><u>How to Fix Issues When Call of Duty Warzone Won't Start</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-hosts-elevating-youtube-video-audiences-for-2024/"><u>Ideal Hosts Elevating YouTube Video Audiences for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-plot-crafting-platform-for-2024/"><u>Ideal Plot Crafting Platform for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-cheapest-deals-on-top-tier-gopros/"><u>In 2024, Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-lego-stop-motion-artists-to-watch-for-2024/"><u>New Lego Stop Motion Artists to Watch for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/sony-xperia-1-v-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 1 V Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-lowdown-on-apple-watch-series-n-release-schedule-revealed-in-depth-spec-review-pricing-info-and-news-headlines/"><u>The Lowdown on Apple Watch Series N: Release Schedule Revealed, In-Depth Spec Review, Pricing Info, and News Headlines</u></a></li>
 </ul></div>
 

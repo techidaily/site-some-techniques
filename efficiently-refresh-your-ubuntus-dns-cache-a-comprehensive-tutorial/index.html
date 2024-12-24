@@ -34,8 +34,8 @@
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-10.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png">
-<meta property="article:published_time" content="2024-12-11T09:38:21.357Z">
-<meta property="article:modified_time" content="2024-12-15T14:31:42.279Z">
+<meta property="article:published_time" content="2024-12-22T13:11:47.548Z">
+<meta property="article:modified_time" content="2024-12-24T09:17:35.881Z">
 <meta property="article:author" content="Frank">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-11 17:38:21</span>
-        <span class="mobile">2024-12-11 17:38:21</span>
+        <span class="desktop">2024-12-22 21:11:47</span>
+        <span class="mobile">2024-12-22 21:11:47</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-15 22:31:42</span>
-            <span class="mobile">2024-12-15 22:31:42</span>
+            <span class="desktop">2024-12-24 17:17:35</span>
+            <span class="mobile">2024-12-24 17:17:35</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -798,16 +798,8 @@
 <p> If the answer to a DNS request is found in the precursor server’s cache, no further servers need to be contacted. The answer is sent back from the cache. Similarly, if you try to connect to a local network device using its network device name, your router provides the IP address.</p>
 <p> Using cached data might be faster than a full DNS lookup, but it is predicated on the assumption that the stored values are still valid. If the IP address of the website or local network device has changed, your computer won’t be able to talk to it.</p>
 <p> Ubuntu adds its own cache to the mix. By default, the <a class="link"   target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/2024-approved-restore-order-fixing-compromised-fb-profile/" >systemd <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>-resolved service is enabled. This caches DNS requests and responses. If a single cache entry (or the whole cache for that matter) becomes corrupted, you can experience connectivity issues with remote servers, web resources, and local devices.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-Does-Flushing-the-DNS-Cache-Do"><a href="#What-Does-Flushing-the-DNS-Cache-Do" class="headerlink" title="What Does Flushing the DNS Cache Do?"></a>What Does Flushing the DNS Cache Do?</h2><p> Flushing the DNS cache tells your computer to forget all the stored name and IP address pairs it has collected. That means any connection request that requires resolving from a name to an IP address requires your computer to query an outside source such as your local router or an external DNS service. The response will be cached.</p>
 <p> Over time, your DNS cache will be populated by new entries, some of which are likely to be updated versions of older, stale cache entries. It’s an easy and safe operation. If you ever experience networking or internet flakiness, flushing your DNS cache is a good first step in troubleshooting.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Flushing-the-DNS-Cache-on-Ubuntu"><a href="#Flushing-the-DNS-Cache-on-Ubuntu" class="headerlink" title="Flushing the DNS Cache on Ubuntu"></a>Flushing the DNS Cache on Ubuntu</h2><p> On Ubuntu, the DNS service is on by default. If it’s your computer, and you know you haven’t turned the resolved daemon off, then DNS will be on. It’s easy to check, which is handy if you need to work on someone else’s computer, and they can’t tell you whether DNS is on or off.</p>
 <p> The command to use is straightforward. We’re using the systemctl command because we need to check on a part of the systemd collection of utilities, namely systemd-resolved. This is the systemd name resolving daemon.</p>
 <p>systemctl is-active systemd-resolved</p>
@@ -818,7 +810,7 @@
                       alt="Checking whether the resolved daemon is running on Ubuntu"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> The response will either be “active” or “inactive.”</p>
@@ -831,7 +823,7 @@
                       alt="Checking the size of the DNS cache on Ubuntu"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.</p>
@@ -842,10 +834,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png"
                       alt="Flushing the DNS cache on Ubuntu"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.</p>
 <p>resolvectl statistics</p>
 <p><img  
@@ -854,12 +842,16 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png"
                       alt="Verifying the DNS cache is empty on Ubuntu"
                 > </p>
+<p> Our cache size is zero, just as we predicted.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<p> Our cache size is zero, just as we predicted.</p>
 <h2 id="Don’t-Forget-Your-Browser’s-Cache"><a href="#Don’t-Forget-Your-Browser’s-Cache" class="headerlink" title="Don’t Forget Your Browser’s Cache"></a>Don’t Forget Your Browser’s Cache</h2><p> Your internet browsers have their own caches. If you’re flushing your DNS buffers to try to remove a problem, make a point of doing the same for your browsers.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="Flushing-the-DNS-Cache-in-Firefox"><a href="#Flushing-the-DNS-Cache-in-Firefox" class="headerlink" title="Flushing the DNS Cache in Firefox"></a>Flushing the DNS Cache in Firefox</h3><p> Open a new tab in Firefox, enter this text in the URL address bar, and hit Enter:</p>
 <p>about:networking</p>
 <p><img  
@@ -890,7 +882,15 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png"
                       alt="The Firefox DNS page with no entries, showing the cache has been purged"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Remember-to-Flush-Your-DNS-Cache"><a href="#Remember-to-Flush-Your-DNS-Cache" class="headerlink" title="Remember to Flush Your DNS Cache"></a>Remember to Flush Your DNS Cache</h2><p> Corrupt or wrong DNS entries can be the root cause of many unwanted networking behaviors. If you’re trying to isolate the issue, flushing your DNS buffers will remove them from the list of possibilities.</p>
 <p> It’s easy to do, so it makes sense to do it as a first step. And with a bit of luck, your issue might be solved.</p>
 <p><ins class="adsbygoogle"
@@ -906,15 +906,25 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-the-course-a-comprehensive-guide-to-youtube-teaser-vids/"><u>[New] In 2024, Charting the Course A Comprehensive Guide to YouTube Teaser Vids</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/ed-2024-approved-top-11-video-cameras-under-500-a-frugal-filmmakers-list/"><u>[Updated] 2024 Approved Top 11 Video Cameras Under $500 A Frugal Filmmaker's List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exciting-joint-ventures-in-the-virtual-metaverse/"><u>2024 Approved Exciting Joint Ventures in the Virtual Metaverse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-to-refined-a-complete-guide-to-polarr-photo-tools/"><u>2024 Approved From Raw to Refined A Complete Guide to Polarr Photo Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-guide-to-best-4k-laptop-models/"><u>2024 Approved Gamer's Guide to Best 4K Laptop Models</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-video-tools-working-across-systems-seamlessly-for-2024/"><u>Free VIDEO Tools Working Across Systems Seamlessly for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-exclusive.techidaily.com/1726029811365-mpeg-4/"><u>MPEG-4変換手順ガイド - 動画に最適化</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/no-budget-no-problem-here-are-the-best-vfx-pages-for-2024/"><u>No Budget? No Problem! Here Are the Best VFX Pages for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-tips.techidaily.com/unveiling-the-pros-and-cons-of-samsung-photo-editor/"><u>Unveiling the Pros & Cons of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-find-the-best-online-subtitle-converters-for-no-cost/"><u>[New] Find the Best Online Subtitle Converters for No Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-ai-to-generate-prime-video-titles/"><u>[New] Harness AI to Generate Prime Video Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hide-your-identity-share-your-life-instagram-live-secrets/"><u>[New] Hide Your Identity, Share Your Life - Instagram Live Secrets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-timekeeping-tools-without-a-price/"><u>[Updated] Expert Timekeeping Tools Without a Price</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglegallery-log-in-and-make-magic-videos/"><u>[Updated] GiggleGallery Log In and Make Magic Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-harness-iphones-full-potential-for-landscapes/"><u>[Updated] How to Harness iPhone's Full Potential for Landscapes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-world-heritage-through-vr/"><u>[Updated] Immerse in World Heritage Through VR</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-solutions.techidaily.com/clogs-and-backups/"><u>Clogs And Backups:</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://games-able.techidaily.com/discovering-the-power-of-game-mode-in-apples-macos-sonoma-platform/"><u>Discovering the Power of Game Mode in Apple's macOS Sonoma Platform</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discover-dash.techidaily.com/easy-diy-method-for-uploading-your-old-vhs-videos-onto-a-dvd-using-your-computer/"><u>Easy DIY Method for Uploading Your Old VHS Videos Onto a DVD Using Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-jocular-images-share-via-giphy/"><u>In 2024, Fabricate Jocular Images, Share via Giphy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-rate-6-software-for-visual-text-conversion/"><u>In 2024, First-Rate 6 Software for Visual Text Conversion</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/in-2024-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>In 2024, Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-microsoft-surface-pro-7-enhanced-efficiency-and-familiar-features/"><u>In-Depth Look at the Microsoft Surface Pro 7: Enhanced Efficiency and Familiar Features</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-savvy.techidaily.com/theoretical-exploration-rethinking-the-analogy-between-the-internet-and-traditional-libraries/"><u>Theoretical Exploration: Rethinking the Analogy Between the Internet and Traditional Libraries</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/transform-messy-scripts-microsoft-onenotes-new-handwriting-smoothing-feature/"><u>Transform Messy Scripts: Microsoft OneNote's New Handwriting Smoothing Feature</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/transform-your-interactions-top-9-incentives-that-make-chatgpt-plus-a-must-have-upgrade/"><u>Transform Your Interactions: Top 9 Incentives That Make ChatGPT Plus a Must-Have Upgrade!</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://solve-luxury.techidaily.com/ultimate-walkthrough-bring-back-life-to-iphone-models-15141312-with-a-simple-icloud-backup-recovery/"><u>Ultimate Walkthrough: Bring Back Life to iPhone Models (15/14/13/12) with a Simple iCloud Backup Recovery</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/44k344kn44ki5qmf6io95aplusplus5bplusc44gu54sh5paz44km44kn44ow44kr44ov44ks57ch5y2y44gr44kq44oz44op44kk44oz44gn5asj5oplusb44gz44klic0g44oi44o044kh44ot/"><u>シェア機能対応の無料ウェブカフを簡単にオンラインで変換する - モヴァビ</u></a></li>
 </ul></div>
 
 
@@ -927,11 +937,11 @@
         <li><strong>Title:</strong> Efficiently Refresh Your Ubuntu&#39;s DNS Cache - A Comprehensive Tutorial</li>
         <li><strong>Author:</strong> Frank</li>
         <li><strong>Created at
-                :</strong> 2024-12-11 17:38:21</li>
+                :</strong> 2024-12-22 21:11:47</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-15 22:31:42
+                    :</strong> 2024-12-24 17:17:35
             </li>
         
         <li>
@@ -971,13 +981,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/in-2024-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet/"
+                        href="/new-ideal-plot-crafting-platform/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">In 2024, Go Live on YouTube From a Phone, No Need for Huge Fans Yet</span>
+                                <span class="post-nav-title-item">[New] Ideal Plot Crafting Platform</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -987,10 +997,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/fine-tune-viewing-the-ultimate-zoom-journey-for-2024/"
+                        href="/new-explaining-unpredictable-playback-in-instagram-videos/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Fine-Tune Viewing The Ultimate Zoom Journey for 2024</span>
+                                <span class="post-nav-title-item">[New] Explaining Unpredictable Playback in Instagram Videos</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

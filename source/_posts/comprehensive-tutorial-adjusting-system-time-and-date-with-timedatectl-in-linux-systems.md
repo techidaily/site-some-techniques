@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2024-12-09T23:14:32.637Z
-updated: 2024-12-15T21:46:09.625Z
+date: 2024-12-21T17:49:31.692Z
+updated: 2024-12-24T18:31:12.214Z
 tags:
   - desktop
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
  The Linux `timedatectl` command lets you set your time, date, and timezone for your system clock and your real-time clock. Spare a moment, and we'll show you how it all works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It's All Relative
@@ -61,7 +61,7 @@ timedatectl
 ![The output from the timedatectl command with no operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/2-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both sets of output show:
@@ -80,22 +80,22 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
 
 ![Filtering out American time zones with grep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/4-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
 
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting the Time Zone
@@ -122,6 +122,10 @@ timedatectl set-time 10:30:00
 
 ![You can't set the time if time synchronization is in force](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/7-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Use this command to turn off the time synchronization service:
 
 sudo systemctl stop systemd-timesyncd.service
@@ -146,10 +150,6 @@ timedatectl
 
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  RTC: UTC or LTZ?
 
  It's possible to have your real-time clock set to your local time zone time instead of to UTC—possible, but inadvisable. If you make the change, you'll see a warning about the dire effects this may have on your system in the future.
@@ -166,15 +166,15 @@ timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I think they've made their feelings clear.
 
  To restore the real-time clock to UTC, use this command:
 
 timedatectl set-local-rtc 0
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set It and Forget It
 
@@ -199,24 +199,22 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-add-captions-to-instagram-videos/"><u>[New] 2024 Approved How to Add Captions to Instagram Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[New] Transformative File Conversion Your Quick SRT to Text (TXT) Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-free-high-quality-youtube-banner-samples-inside/"><u>[Updated] Free High-Quality YouTube Banner Samples Inside</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-high-quality-video-transfer-from-fb-to-mp4-no-cost-online-method-for-2024/"><u>[Updated] High-Quality Video Transfer From FB to MP4 – No Cost Online Method for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-how-to-create-vintage-videos-a-comprehensive-tutorial-for-2024/"><u>[Updated] How to Create Vintage Videos A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>2024 Approved Excellence in Audio on Windows Best 8 Podcast Apps Compiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-firefox-pip-simplified-for-the-everyday-user/"><u>2024 Approved Firefox PIP Simplified for the Everyday User</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-step-in-telegram-mastery-marketing-basics-unveiled/"><u>2024 Approved First Step in Telegram Mastery Marketing Basics Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-get-sweating-to-top-exercromise-anthems-and-rhythms/"><u>2024 Approved Get Sweating to Top Exercromise Anthems and Rhythms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-insights-for-importer-mastery-on-windows-10/"><u>2024 Approved Hidden Insights for Importer Mastery on Windows 10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-add-link-to-facebook-story-for-free/"><u>2024 Approved How to Add Link to Facebook Story for Free?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-indispensable-top-vr-movie-adventures/"><u>2024 Approved Indispensable Top VR Movie Adventures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-through-virtual-experiences/"><u>2024 Approved Innovating Through Virtual Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-healthcare-marketing-on-facebook/"><u>2024 Approved Innovative Approaches to Healthcare Marketing on Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-brands-instagram-presence-with-these-hacks-for-2024/"><u>Elevate Your Brand's Instagram Presence with These Hacks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/elevate-your-broadcast-quality-with-manycam-the-ultimate-guide-to-virtual-webcams-and-live-streaming-tools/"><u>Elevate Your Broadcast Quality with ManyCam - The Ultimate Guide to Virtual Webcams and Live Streaming Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-android-your-companion-for-vr-and-360-videos-for-2024/"><u>Explore Android Your Companion for VR & 360 Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-lensbisection-inspection/"><u>In 2024, LensBisection Inspection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-launching-issues-successful-strategies-and-tips-to-play-without-glitches/"><u>Outriders Launching Issues? Successful Strategies and Tips to Play Without Glitches</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-effortless-course-skipping-techniques-for-bypassing-edgenuity-videos/"><u>[New] 2024 Approved Effortless Course Skipping Techniques for Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-smooth-and-quick-download-4-websites-for-tones/"><u>[New] In 2024, Smooth and Quick Download 4 Websites for Tones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-webcam-selections-for-dynamic-twitch-sessions/"><u>[New] Premier Webcam Selections for Dynamic Twitch Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-online-subtitle-converters-our-recommended-10/"><u>[Updated] Free Online Subtitle Converters Our Recommended 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-produce-fb-profile-visuals/"><u>[Updated] In 2024, Produce FB Profile Visuals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-zoom-to-elevate-your-facebook-lives-for-2024/"><u>[Updated] Navigating Zoom to Elevate Your Facebook Lives for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat/"><u>2024 Approved Beam Brighter Adopting the Playful Cartoon Lens on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-iphone-image-arrangement/"><u>2024 Approved Innovative Methods for iPhone Image Arrangement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spectra-adjustment-suite/"><u>2024 Approved Spectra Adjustment Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero-4-vs-hero-5-performance-face-off-for-2024/"><u>Hero 4 VS Hero 5 Performance Face-Off for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>In 2024, Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-action-recording-tech/"><u>In 2024, Excellence in Action Recording Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-increase-photographic-imagery-keeping-details-intact/"><u>In 2024, Increase Photographic Imagery, Keeping Details Intact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-video-content-for-budding-vloggers/"><u>In 2024, Innovative Video Content for Budding Vloggers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-vibrancy-in-presentations-via-audio-for-2024/"><u>Infuse Vibrancy in Presentations via Audio for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/should-you-treat-artificial-intelligence-agents-chatgpt-alexa-siri-with-respect-similar-to-humans/"><u>Should You Treat Artificial Intelligence Agents (ChatGPT, Alexa, Siri) with Respect Similar to Humans?</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oneplus-nord-ce-3-lite-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive OnePlus Nord CE 3 Lite 5G Screen | Dr.fone</u></a></li>
 </ul></div>
 

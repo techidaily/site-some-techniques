@@ -1,7 +1,7 @@
 ---
 title: "Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling"
-date: 2024-12-14T19:56:44.184Z
-updated: 2024-12-15T18:12:08.226Z
+date: 2024-12-18T16:03:57.021Z
+updated: 2024-12-24T19:24:10.499Z
 tags:
   - deals
 categories:
@@ -36,6 +36,10 @@ Bulletjournal.com
 1. Unlike other preset planners, you’re supposed to add a new page every day for the daily log. Even if you miss a day, there are no gaps in a bullet journal. The next blank space on the page is always where the next entry goes. So you can always just add a new page on your Word document to continue journaling. No friction or hopping around pages whatsoever.
 2. Secondly, a physical bullet journal will eventually run out of space. You can technically keep the Word bullet journal forever.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Create a Bullet Journal in Microsoft Word
 
  Your bullet journal inside Word can be as complex or as simple as you’d like it to be. You’ve probably seen some amazingly creative bullet journals on Pinterest or Instagram with all those flourishes, color, doodles, and artwork. But every bullet journal needs at least four pages (it’s kind of the default template), and so does our Word bullet journal.
@@ -51,10 +55,6 @@ Bulletjournal.com
 
 * Microsoft Word.
 * Dot pattern image file (optional).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Create the Spread
 
@@ -78,10 +78,6 @@ Close
 
 ![Creating the index page in a bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-202543.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Create the Future Log
 
  The future log is where you make long-term plans. Tasks, events, or notes that’ll be relevant in the next six months show up here. The future log doesn’t have to start from January. It should start from your current month. [Create a table](https://fox-http.techidaily.com/in-2024-unlocking-your-iphones-audio-library-with-top-podcast-strategies/) for the future log using the "Table" button in the "Insert" tab.
@@ -89,7 +85,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Create the Monthly Log
@@ -98,10 +94,6 @@ Close
 
 ![ksnip_20240801-203144](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203144.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Create the Daily Log
 
  The daily log always goes on the very next blank space of your bullet journal. Just jot down the day and date and start logging. The daily log can have your to-do list, reminders, notes, events, highlights, all marked by their respective indicators. Once again, you can log the next item in the daily log into the very next line, regardless of its content.
@@ -109,18 +101,18 @@ Close
 ![ksnip_20240801-203451](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203451.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Use the Bullet Journal
 
  Every bullet journal has a daily log. It’s a space where you can quickly capture any ideas, notes, reminders, and tasks one after another. There are no premade layouts, no boxes, or dotted lines. Cross items that are done or cancel them. At the end of the day, review your daily log and “migrate” leftover tasks. It keeps you mindful of what truly needs your attention and your tasks from slipping through the cracks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  It's Much More Than a Simple To-Do List
 
@@ -141,11 +133,19 @@ Close
 * Keeps items from getting lost. It makes sure you never forget to do a task just because it didn’t make it to a future to-do list.
 * Keeps you mindful of what you’re carrying on to the next day or any future date. Actually, typing the tasks manually every day allows you to regularly reassess their priority.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Use the Right Symbols
 
  Technically, the entire [Bullet Library](https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/) in Microsoft Word is available to you. You can use any of these symbols to represent an item. In my system, circles are notes, triangles are events, dots are tasks. Strikethrough is for canceling tasks. Checkmarking a task marks it done. I represent a migrated task using arrows.
 
 ![Signifiers for my digital bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-204346.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use any symbols to create your system as long as it’s consistent. Click the bullet button on the Home menu and select “Define Bullet.” Press “Symbol” and choose a symbol you want to use. Repeat these steps to create the whole library of symbols that you’ll be using.
 
@@ -168,18 +168,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-insights-how-to-use-it-for-beginners-easily/"><u>[Updated] Facebook Insights How to Use It for Beginners Easily</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/customized-marketing-automation-with-leading-ai-technology/"><u>Customized Marketing Automation with Leading AI Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/effortless-conversion-of-pdfs-and-images-to-searchable-files-using-docscan-x-top-tier-mobile-ocr-technology/"><u>Effortless Conversion of PDFs & Images to Searchable Files Using DocScan X: Top-Tier Mobile OCR Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-customized-advertising-through-cookiebot-technology/"><u>Enhanced User Experience with Customized Advertising Through Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-website-analytics-smart-data-collection-via-cookiebot-integration/"><u>Enhanced Website Analytics: Smart Data Collection via Cookiebot Integration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-website-traffic-with-cookiebot-technology/"><u>Enhanced Website Traffic with Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-efficiency-at-manchester-university-nhs-foundation-trust-with-total-automated-billing-systems-and-secured-financial-operations/"><u>Enhancing Efficiency at Manchester University NHS Foundation Trust with Total Automated Billing Systems and Secured Financial Operations</u></a></li>
-<li><a href="https://solve-help.techidaily.com/free-methods-converting-webm-files-to-mp3-format-on-pc-and-online-platforms/"><u>Free Methods: Converting WebM Files to MP3 Format on PC and Online Platforms</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a05s-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A05s to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unearth-unique-youtube-chats/"><u>In 2024, Unearth Unique YouTube Chats</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overturn-pc-monitoring-in-win7/"><u>Overturn PC Monitoring in Win7</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-ultimate-guide-to-effective-twitter-de-following-for-2024/"><u>The Ultimate Guide to Effective Twitter De-Following for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-documenting-the-fun-video-your-nintendo-switch-games/"><u>[New] 2024 Approved Documenting the Fun Video Your Nintendo Switch Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-latest-in-art-software-comprehensive-picsart-review-and-guide-2024-edition/"><u>[New] Exploring the Latest in Art Software - Comprehensive PicsArt Review and Guide 2024 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-leading-10-macwindows-srt-enhancers/"><u>[New] Exploring the Leading 10 Mac/Windows SRT Enhancers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filmoras-route-to-convert-avi-to-eye-catching-gifs/"><u>[New] Filmora’s Route to Convert AVI to Eye-Catching GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-going-back-in-time-your-android-movie-method/"><u>[New] Going Back in Time Your Android Movie Method</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>[New] Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-essential-tutorial-for-creating-a-biz-focused-instagram-for-2024/"><u>[Updated] The Essential Tutorial for Creating a Biz-Focused Instagram for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-notch-tricks-to-nail-every-green-screen-shot/"><u>[Updated] Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fotowiz-pro-step-by-step-guide/"><u>2024 Approved FotoWiz Pro Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/exploring-hardware-universe-through-toms-eyes/"><u>Exploring Hardware Universe Through Tom's Eyes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fostering-fun-with-metaverse-satirical-artifacts-for-2024/"><u>Fostering Fun with Metaverse Satirical Artifacts for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g04-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G04 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen-for-2024/"><u>Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-iphone-voice-notes-and-message-recording/"><u>Mastering the Art of iPhone Voice Notes & Message Recording</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-downloading-and-installing-broadcom-bluetooth-driver-on-win1187/"><u>Step-by-Step Guide for Downloading and Installing Broadcom Bluetooth Driver on Win11/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fix-resolving-a-code-28-issue-on-windows-device-manager/"><u>Troubleshooting the Fix: Resolving a 'Code 28' Issue on Windows Device Manager</u></a></li>
 </ul></div>
 

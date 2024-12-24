@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2024-12-08T18:42:13.356Z
-updated: 2024-12-15T20:50:44.585Z
+date: 2024-12-19T22:15:16.612Z
+updated: 2024-12-24T16:08:25.169Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,14 +23,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
 Hannah Stryker / How-To Geek  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
     
  To copy a file or folder's path, open File Explorer, find the file or folder, right-click it, and select "Copy as Path."
@@ -38,6 +38,10 @@ Hannah Stryker / How-To Geek
 * To copy an app's path whose shortcut is on the desktop, right-click the shortcut, select "Properties," access the "Shortcut" tab, and you'll see the path in the Target field.
 
  Copying a file or folder’s path on Windows 11 is as easy as selecting an option in the right-click menu or pressing a keyboard shortcut. We’ll show you how to do it in various ways on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From the Right-Click Menu
 
@@ -50,10 +54,6 @@ Hannah Stryker / How-To Geek
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
  Windows has copied the full absolute path to your selected item(s).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using a Keyboard Shortcut
 
@@ -69,10 +69,6 @@ Hannah Stryker / How-To Geek
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  From a File Explorer Toolbar Option
 
  Windows 11’s File Explorer utility has a button on its toolbar to let you copy your file or folder’s path. To use it, open File Explorer, and locate your file or folder and highlight the folder or file.
@@ -85,6 +81,10 @@ Hannah Stryker / How-To Geek
 
  And that’s it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Copy the Path of an App
 
  If you have an app’s shortcut, and you want to copy that app’s full path, right-click the shortcut and select "Properties." In the Shortcut tab, you’ll see the full app path in the "Target" field. You can copy this field directly by selecting it and pressing Ctrl+C. 
@@ -92,7 +92,7 @@ Hannah Stryker / How-To Geek
 ![The 'Target' field highlighted on the 'Properties' window of an app shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-copy-path-app-shortcut-target-field.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
@@ -132,20 +132,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-heroic-hurdles-the-ultimate-10-role-playing-journeys/"><u>[New] 2024 Approved Heroic Hurdles The Ultimate 10 Role-Playing Journeys</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-precise-plot-points-in-a-snapshot/"><u>[Updated] Precise Plot Points in a Snapshot</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/boost-your-fluency-effective-strategies-for-learning-languages-using-chatgpts-dialogue-features/"><u>Boost Your Fluency: Effective Strategies for Learning Languages Using ChatGPT’s Dialogue Features</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-apply-windows-drivers-offline-comprehensive-instructions/"><u>Download and Apply Windows Drivers Offline – Comprehensive Instructions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/efficiently-managing-core-records-pwcs-use-of-abbyy-advanced-ocr-technologies/"><u>Efficiently Managing Core Records: PwC's Use of ABBYY Advanced OCR Technologies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/elevating-business-efficiency-with-abbyys-hyperautomation-combining-advanced-computer-vision-llm-technology-and-seamless-idp-connectivity/"><u>Elevating Business Efficiency with ABBYY's Hyperautomation: Combining Advanced Computer Vision, LLM Technology, and Seamless IDP Connectivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/empower-your-site-with-cookiebots-advanced-conversion-optimization-features/"><u>Empower Your Site with Cookiebot's Advanced Conversion Optimization Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/empowering-multitaskers-song-lyrics-capture-extended-screen-real-estate-and-smartphone-revival-insights-from-abbyy-experts/"><u>Empowering Multitaskers: Song Lyrics Capture, Extended Screen Real Estate & Smartphone Revival | Insights From ABBYY Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-analytics-with-our-cookiebot-technology-solutions/"><u>Enhance Analytics with Our Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-digital-marketing-efforts-through-smart-analytics-discover-the-benefits-of-cookiebot-technology/"><u>Enhance Digital Marketing Efforts Through Smart Analytics - Discover the Benefits of Cookiebot Technology</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-new-tp-link-80211ac-wireless-adapter-driver-on-windows/"><u>How to Install New TP-Link 802.11Ac Wireless Adapter Driver on Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-90-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor 90 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-photography-meets-canva-exclusive-editing-secrets/"><u>In 2024, Pro Photography Meets Canva Exclusive Editing Secrets</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-11r-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For OnePlus 11R</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>[New] 2024 Approved Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook-for-2024/"><u>[New] Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fabricate-funny-images-on-giphy/"><u>[Updated] Fabricate Funny Images on Giphy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-of-writing-captivating-videography-scripts/"><u>2024 Approved Fundamentals of Writing Captivating Videography Scripts</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-magic5-ultimate-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor Magic5 Ultimate? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-quintet-of-cutting-edge-photo-tech-for-2024/"><u>Foremost Quintet of Cutting-Edge Photo Tech for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hand-tracking-explained-types-and-applications-for-2024/"><u>Hand Tracking Explained Types and Applications for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-format-switching-srt-to-advanced-standards/"><u>In 2024, Expertise in Format Switching SRT to Advanced Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-firefoxs-multitasking-toolkit-the-pip-mode/"><u>In 2024, Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/investigating-unmodified-audio-from-ffmpeg-output/"><u>Investigating Unmodified Audio From FFmpeg Output</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-sync-settings-how-to-disable-auto-ring-feature-on-ipad/"><u>IPhone & iPad Sync Settings: How To Disable Auto-Ring Feature on iPad</u></a></li>
+<li><a href="https://win-community.techidaily.com/tech-giant-microsoft-boosts-employee-collaboration-through-enhanced-teams-features-unveiled-on-zdnet/"><u>Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y78t-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y78t Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

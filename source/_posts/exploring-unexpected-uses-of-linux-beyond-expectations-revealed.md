@@ -1,7 +1,7 @@
 ---
 title: Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-date: 2024-12-15T01:02:40.561Z
-updated: 2024-12-15T23:55:31.449Z
+date: 2024-12-19T19:33:04.878Z
+updated: 2024-12-24T18:06:32.844Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Hannah Stryker / How-To Geek
 
 ![The Cray XK7 Titan Supercomputer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/cray_titan_supercomputer.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _ORNL_
 
  The 500 most powerful computers in the world [all run Linux](http://www.stackscale.com/blog/most-powerful-supercomputers-linux/)[.](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/) So if you have millions on the line, running mission-critical work on the most expensive computers known to man, Linux seems to be the way to go. Of course, these mega computers don't run the same Linux distros our beloved Linux readership love to argue about in the comments. One of the main reasons Linux dominates the high-performance computing world is that it's completely open and customizable. Computer scientists and engineers can trim absolutely all the fat from the operating system, and modify it to get the absolute most our of the hardware and electrical power they have.
@@ -43,16 +47,12 @@ _ORNL_
 
 ![Waze running on a car infotainment screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/909ecb91.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[Waze](https://www.waze.com/press)_
 
  Most modern cars come with slick infotainment systems from the factory these days, and there's a good chance that behind the pretty icons and colors there beats the digital heart of the Linux kernel. I actually realized this recently when I was thinking about updating my KIA's system, and ran across a fix for bricked infotainment systems where you just plug a USB keyboard into your car, and spam Linux keyboard shortcuts to escape the boot loop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Smartphones 
@@ -60,7 +60,7 @@ _[Waze](https://www.waze.com/press)_
 ![Front and rear view of some flagship smartphones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/front-and-rear-view-of-some-flagship-smartphones.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | Best Buy
@@ -71,6 +71,10 @@ Lucas Gouveia / How-To Geek | Best Buy
 
 ![A scientist in a lab looks through a microscope.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/scientist-lap-looking-in-microscope.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical-research-scientists-looking-samples-under-691545829)_
 
  Medical devices such as MRI machines or the machines that monitor vital signs more often than not run Linux. There are many reasons why Linux is a popular choice for embedded software in medical devices, but patient data security, real-time OS (RTOS) capabilities, flexibility, and reliability are at the top of the list. The next time you need to get a scan, or if you're ever operated on by a surgical robot, chances are both of those devices are running some flavor of Linux.
@@ -79,16 +83,12 @@ _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical
 
 ![iot devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/05/241daf9c.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shutterstock/Panchenko Vladimir
 
  The [Internet of Things](https://extra-skills.techidaily.com/in-2024-optimizing-display-youtubes-zoom-mastery/) is the description we've given to a loose collection of devices that mainly talk to each other over networks. So this could be anything from your IP security cameras, to your thermostat, to remote solar-powered weather sensors. A good portion of these devices run Linux, rather than proprietary firmware. When you access your IP cameras, for example, you're essentially logging into a Linux server running on your local network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Emulator Handhelds 
@@ -114,24 +114,17 @@ Anbernic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-thumbnail-tactics-for-top-views-on-youtube-videos/"><u>[New] 2024 Approved Thumbnail Tactics for Top Views on YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-free-text-animations-both-ways/"><u>[New] Seamless Integration Free Text Animations Both Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming/"><u>2024 Approved Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-review-of-vivacuts-latest-edits-and-enhancements/"><u>2024 Approved Expert Review of VivaCut's Latest Edits and Enhancements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-yuneec-typhoon-h-expert-drone-review/"><u>2024 Approved Exploring the Yuneec Typhoon H Expert Drone Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-memery-masters-explore-and-share-joy/"><u>2024 Approved Free Memery Masters Explore & Share Joy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-mastery-the-2023-review-of-kinemaster-for-android/"><u>2024 Approved Game On with Mastery The 2023 Review of KineMaster for Android</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/diagnosing-hardware-woes-why-wont-my-system-acknowledge-its-hard-disk-tips-by-yl-software-experts/"><u>Diagnosing Hardware Woes: Why Won't My System Acknowledge Its Hard Disk? - Tips by YL Software Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-choice-8-best-converters-from-sub-to-srt-for-2024/"><u>Expert Choice 8 Best Converters From Sub to Srt for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/focus-on-you-iphone-and-android-photo-trimmers-for-2024/"><u>Focus On You IPhone & Android Photo Trimmers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/formulating-intriguing-podcast-openers-for-2024/"><u>Formulating Intriguing Podcast Openers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-isolated-snaps-to-awe-inspiring-mosaic-symphony-for-2024/"><u>From Isolated Snaps to Awe-Inspiring Mosaic Symphony for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/future-tech-uncovered-projecting-googles-next-watch-pricing-launch-date-and-possible-features-explored/"><u>Future Tech Uncovered: Projecting Google's Next Watch – Pricing, Launch Date & Possible Features Explored</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-xiaomi-redmi-13c-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-your-pc-with-the-advanced-uninstallation-tool-revo-uninstaller-pro-version/"><u>Master Your PC with the Advanced Uninstallation Tool: Revo Uninstaller Pro Version 지</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-titles-in-final-cut-pro-x-2023-edition/"><u>New The Ultimate Guide to Titles in Final Cut Pro X 2023 Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-6-strategies-for-mc-village-housebuilding/"><u>Top 6 Strategies for MC Village Housebuilding</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-with-these-5-insider-tips-for-writing-superior-prompts-on-chatgpt/"><u>Unlock the Power of AI with These 5 Insider Tips for Writing Superior Prompts on ChatGPT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-hitchhikers-guide-to-youtube-playlists/"><u>[New] The Ultimate Hitchhiker's Guide to YouTube Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-find-your-favorite-screen-an-in-depth-review-of-top-6-hdmi-tvs/"><u>[Updated] Find Your Favorite Screen An In-Depth Review of Top 6 HDMI TVs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-live-streams-to-recorded-content-navigating-aiseesofts-features/"><u>[Updated] From Live Streams to Recorded Content Navigating Aiseesoft's Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garmins-pioneering-ultra-30-camera-a-critical-assessment/"><u>[Updated] Garmin's Pioneering Ultra 30 Camera - A Critical Assessment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-iphone-downloads-top-podcast-strategies/"><u>[Updated] Harnessing iPhone Downloads Top Podcast Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfect-video-gear-starting-with-beginner-cameras/"><u>[Updated] Perfect Video Gear Starting with Beginner Cameras</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-evaluating-earnings-the-effective-3-step-process-for-youtube-financial-analysis/"><u>2024 Approved Evaluating Earnings The Effective 3-Step Process for YouTube Financial Analysis</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-14-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 14 Pro Max without App | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-disconnected-chapters-to-cohesive-narratives-with-kinemaster-for-2024/"><u>From Disconnected Chapters to Cohesive Narratives with Kinemaster for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/high-ranking-12-cameras-onboard-gps-for-motion-capture/"><u>High-Ranking 12 Cameras Onboard GPS for Motion Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-boundaries-64128gb-for-vids/"><u>In 2024, Exploring the Boundaries 64/128GB for Vids</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-mute-audio-in-windows-movie-maker-for-2024/"><u>Updated How to Mute Audio in Windows Movie Maker for 2024</u></a></li>
 </ul></div>
 

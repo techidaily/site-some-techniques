@@ -1,7 +1,7 @@
 ---
 title: "NYT Daily Crosswords: Puzzle Solutions & Answers - June 22, #377"
-date: 2024-12-13T00:58:05.424Z
-updated: 2024-12-15T19:25:23.519Z
+date: 2024-12-23T19:33:13.967Z
+updated: 2024-12-24T21:36:15.104Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ## NYT Daily Crosswords: Puzzle Solutions & Answers - June 22, #377
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 * **Purple:** Processed meat.
 
 ![June 19th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-19th-connections.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ![June 22nd Connections groups and words](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-22nd-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **One Thing After Another (Yellow):** 
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Brat, Dog, Frank, Link
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Eventually, after about 200 shuffles, Birds, Fog, Omen, and Ring wound up next to each other and I realized that they were all words in horror movie titles, specifically movies with titles of the form "The Ring," "The Omen," and so on. Blue was "Horror Movies, with The." 
 
  That left driver, iron, wedge, and wood—words I couldn't connect no matter how much I tried. They were actually in the Green group, "Kinds of Golf Clubs." Turns out I just need to up my golf game. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,19 +127,22 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-dreaming-in-color-the-revolutionary-hp-monitor-z32x-for-2024/"><u>[Updated] Dreaming in Color The Revolutionary HP Monitor, Z32X for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-video-edits-is-inshot-top-choice/"><u>[Updated] Exploring Video Edits Is InShot Top Choice?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-shoot-to-spectacle-editing-techniques-for-drones/"><u>[Updated] From Shoot to Spectacle Editing Techniques for Drones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-iconic-scripts-that-reshaped-cinemas-landscape/"><u>[Updated] Iconic Scripts That Reshaped Cinema's Landscape</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-4k-capture-selecting-top-gimbals/"><u>[Updated] Professional 4K Capture Selecting Top Gimbals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-choice-7-premium-videos-on-mac/"><u>2024 Approved Excellent Choice 7 Premium Videos on Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fixing-skewed-views-in-internet-based-videos/"><u>2024 Approved Fixing Skewed Views in Internet-Based Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-6-social-sites-for-corporate-relationships/"><u>In 2024, Foremost 6 Social Sites for Corporate Relationships</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/jumpstart-your-latvian-language-learning-today/"><u>Jumpstart Your Latvian Language Learning Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-a-non-functional-google-hangouts-mic-issue/"><u>Quick Solutions for a Non-Functional Google Hangouts Mic Issue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-apple-mac-mini-m2-versus-mac-studio-is-there-a-true-winner-over-m1/"><u>The Ultimate Showdown: Apple Mac Mini (M2) Versus Mac Studio - Is There a True Winner Over M1?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-civi-3-disney-100th-anniversary-edition-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Civi 3 Disney 100th Anniversary Edition Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac-for-2024/"><u>Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-for-overcoming-iphones-error-4013-during-system-restoration/"><u>Troubleshooting Guide for Overcoming iPhone's Error #4013 During System Restoration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-funfactory-enjoy-video-making-with-ease/"><u>[New] FunFactory Enjoy Video Making with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-film-production-with-augmented-realms/"><u>[New] Innovating Film Production with Augmented Realms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/raps-in-the-web-avoiding-the-snare-of-buying-non-existent-supporters/"><u>[New] Traps in the Web Avoiding the Snare of Buying Non-Existent Supporters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-vr-horizons-the-premier-pc-headsets-of-today-for-2024/"><u>[New] VR Horizons The Premier PC Headsets of Today for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-framework-for-crafting-facebook-collage/"><u>[Updated] Fast-Track Framework for Crafting Facebook Collage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-how-to-record-internet-radio-a-simple-guide-for-2024/"><u>[Updated] How To Record Internet Radio - A Simple Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-influencing-cultures-through-memetic-expression/"><u>[Updated] Influencing Cultures Through Memetic Expression</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-quiet-guide-to-livestreaming-yourself-on-instagram-for-2024/"><u>[Updated] The Quiet Guide to Livestreaming Yourself on Instagram for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-disable-auto-recommended-podcast-features-in-spotify/"><u>2024 Approved How to Disable Auto-Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-streaming-platforms-for-authors/"><u>2024 Approved Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cutting-through-the-clutter-mastering-social-media-videos-on-facebook-for-2024/"><u>Cutting Through the Clutter Mastering Social Media Videos on Facebook for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/het-allerbeste-giftige-programmas-voor-gratis-video-versterking-in-nederland/"><u>Het Allerbeste Giftige Programma's Voor Gratis Video-Versterking in Nederland</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-xs-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone XS with iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guiding-principles-for-hiring-high-caliber-film-makers/"><u>In 2024, Guiding Principles for Hiring High-Caliber Film Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-recording-verbal-notes/"><u>In 2024, Innovative Approaches to Recording Verbal Notes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-your-art-with-captivating-collage-vistas-for-2024/"><u>Infusing Your Art with Captivating Collage Vistas for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Phone</u></a></li>
 </ul></div>
 

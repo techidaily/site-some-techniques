@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11"
-date: 2024-12-14T18:54:21.250Z
-updated: 2024-12-15T18:58:28.224Z
+date: 2024-12-20T18:58:26.510Z
+updated: 2024-12-24T21:00:35.956Z
 tags:
   - deals
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ## Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Install PowerToys and Enable Color Picker](https://fox-that.techidaily.com/troubleshooting-gps-issues-how-to-restore-location-services-on-an-iphone/)
 * [Activate Color Picker With a Keyboard Shortcut](https://win-amazing.techidaily.com/download-the-newest-magicard-rio-pro-driver-universal-compatibility-windows-1011-81-and-7-supported/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
  Need to figure out a color quickly? Using [Microsoft's free PowerToys utility for Windows 10](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/), you can instantly bring up a color picker with a keyboard shortcut and use your mouse cursor to identify any color on screen in hex, RGB, or HSL format. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Install PowerToys and Enable Color Picker
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
 
 ![Ensure the PowerToys color picker is enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/power-toy-color-picker.png) 
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
  Next, close PowerToys and get ready to grab some colors. The PowerToys Settings app does not need to be running for Color Picker to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Activate Color Picker With a Keyboard Shortcut
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
@@ -75,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, you can adjust the color value you just selected within Color Picker by clicking the center of the large color bar near the top of the window.
 
@@ -111,19 +111,22 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-youtube-viewing-with-faster-or-slower-video-pace/"><u>[New] 2024 Approved Enhancing YouTube Viewing with Faster or Slower Video Pace</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flight-finesse-crafting-the-top-10-endurance-drone-lineup/"><u>[New] Flight Finesse Crafting the Top 10 Endurance Drone Lineup</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-import-photos-and-videos-in-windows-11-deepest-secret/"><u>[New] How to Import Photos and Videos in Windows 11 (Deepest Secret)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-realms-history-of-vr/"><u>[New] Innovating Realms History of VR</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs/"><u>[New] Secrets Unveiled Complete Guide to Live TV Recording via Windows PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhancing-engagement-30-outstanding-video-concepts/"><u>[Updated] In 2024, Enhancing Engagement 30 Outstanding Video Concepts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-record-panel-wide-digital-view-for-2024/"><u>[Updated] Record Panel-Wide Digital View for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-notorious-top-20-vlogging-ideas/"><u>In 2024, From Novice to Notorious Top 20 Vlogging Ideas</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-from-zero-to-hero-in-advertising-top-strategies-unveiled-by-experts/"><u>In 2024, From Zero to Hero in Advertising Top Strategies Unveiled by Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-lg-bp350s-visual-clarity-and-color-range-for-2024/"><u>In-Depth Analysis LG BP350's Visual Clarity and Color Range for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trasforma-le-tue-foto-in-arti-con-il-powerful-editor-fotografico-di-movavi-photo-su-internet/"><u>Trasforma Le Tue Foto in Arti Con Il Powerful Editor Fotografico Di Movavi Photo Su Internet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/trouver-et-visualiser-les-photos-supprimees-de-reddit-un-guide-eclairant-pour-tous/"><u>Trouver Et Visualiser Les Photos Supprimées De Reddit - Un Guide Éclairant Pour Tous</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-adobe-premiere-elements-substitutes/"><u>Updated In 2024, The Ultimate List of Adobe Premiere Elements Substitutes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-dynamic-text-top-motion-tracking-software/"><u>Updated Unleash Dynamic Text Top Motion Tracking Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-canva-skills-purging-images-of-their-surroundings-for-2024/"><u>[New] Canva Skills Purging Images of Their Surroundings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-browser-screen-recorders-2023/"><u>[New] Top 5 Browser Screen Recorders 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unconventional-text-presentation-methods/"><u>[New] Unconventional Text Presentation Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-smooth-cross-sounding-with-audacity/"><u>[Updated] Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[Updated] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-perfect-pitch-discover-no-cost-voice-alteration-apps/"><u>2024 Approved Finding the Perfect Pitch Discover No-Cost Voice Alteration Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-chipset-selection-for-uhd-rendering/"><u>2024 Approved Ideal Chipset Selection for UHD Rendering</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-improving-frame-rate-in-warped-web-videos/"><u>2024 Approved Improving Frame Rate in Warped Web Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>2024 Approved Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creating-custom-lines-within-your-microsoft-word-file/"><u>Creating Custom Lines Within Your Microsoft Word File</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-video-playback-acceleration-for-2024/"><u>Harnessing the Power of Video Playback Acceleration for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-visibility-features-mastering-snapchats-star-for-2024/"><u>High-Visibility Features Mastering Snapchat's Star for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>In 2024, From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-m14-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy M14 5G Without PUK Codes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-metaverse-advertising-techniques/"><u>Mastering Metaverse Advertising Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-zoom-email-integration-tips-for-efficient-meetings-for-2024/"><u>Mastering Zoom Email Integration Tips for Efficient Meetings for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-free-top-mpeg-video-splitter-programs/"><u>The Best of Free Top MPEG Video Splitter Programs</u></a></li>
 </ul></div>
 

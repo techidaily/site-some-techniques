@@ -1,7 +1,7 @@
 ---
 title: Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
-date: 2024-12-10T17:57:24.951Z
-updated: 2024-12-15T21:24:15.773Z
+date: 2024-12-22T19:40:12.631Z
+updated: 2024-12-24T17:26:52.027Z
 tags:
   - desktop
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -34,13 +30,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
@@ -61,6 +57,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Rename Files in a Folder With an Increasing Number
 
  If you want to add an increasing number, such as 1, 2, 3, and so on, to your files in a specific folder, follow these steps.
@@ -72,7 +72,11 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -92,10 +96,6 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -118,15 +118,18 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-to-effective-video-capturing-with-vsdc-and-others/"><u>[New] In 2024, Unveiling the Secrets to Effective Video Capturing with VSDC & Others</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-two-effective-ways-how-can-i-share-youtube-videos-on-facebook/"><u>[Updated] 2024 Approved Two Effective Ways! How Can I Share YouTube Videos on Facebook?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-7-best-zero-cost-web-based-film-makers/"><u>[Updated] In 2024, 7 Best Zero-Cost Web-Based Film Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-required-for-mastery-of-ios-11s-camera/"><u>2024 Approved Expertise Required for Mastery of iOS 11'S Camera</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-laggard-to-lightning-pick-8-apps-now/"><u>2024 Approved From Laggard to Lightning Pick 8 Apps Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pre-windows-era-to-modern-windows-11-today/"><u>2024 Approved From Pre-Windows Era To Modern Windows 11 Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-music-tools-for-pcs-for-2024/"><u>Exclusive Music Tools for PCs for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-nokia-c300-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Nokia C300 Phone? | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/ultimate-collection-of-sporty-hd-walls-and-car-photographs-for-dynamic-background-imagery-yl-software-visuals/"><u>Ultimate Collection of Sporty HD Walls and Car Photographs for Dynamic Background Imagery - YL Software Visuals</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-videos-the-secrets-to-great-lower-thirds-in-fcpx/"><u>Updated In 2024, Elevate Your Videos The Secrets to Great Lower Thirds in FCPX</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069570698-updated-2024-approved-immerse-in-pc-game-moments-capture-perfectly/"><u>[Updated] 2024 Approved Immerse in PC Game Moments - Capture Perfectly!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-link-downloader-bundle-access-to-8-free-online-solutions/"><u>[Updated] FB Link Downloader Bundle Access to 8 Free, Online Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-windows-10-sound-recording/"><u>[Updated] Getting Started with Windows 10 Sound Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-capture-slow-motion-videos-with-gopro-hero-10/"><u>[Updated] How to Capture Slow Motion Videos with GoPro Hero 10?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-list-best-video-making-for-ios-android-users/"><u>[Updated] The Ultimate List Best Video-Making For iOS, Android Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-simple-curvature-alteration-in-pics/"><u>2024 Approved Guide to Simple Curvature Alteration in Pics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/confusion-may-result-from-metabolic-disturbances-infections-toxic-ingestions-or-increased-intracranial-pressure/"><u>Confusion May Result From Metabolic Disturbances, Infections, Toxic Ingestions, or Increased Intracranial Pressure</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/faithful-melodies-how-to-install-christian-chimes-for-2024/"><u>Faithful Melodies How to Install Christian Chimes for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204209796-haitian/"><u>Haitian:</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-vortex-constructor-set/"><u>In 2024, Vortex Constructor Set</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-issues-a-comprehensive-guide-to-pairing-your-airpods-with-windows-11-updated/"><u>Resolving Connection Issues: A Comprehensive Guide to Pairing Your AirPods with Windows 11 (Updated )</u></a></li>
+<li><a href="https://discover-able.techidaily.com/setting-up-your-standard-account-preferences-a-guide-through-windows-control-panel-powered-by-yl-computing/"><u>Setting Up Your Standard Account Preferences: A Guide Through Windows Control Panel - Powered by YL Computing</u></a></li>
 </ul></div>
 

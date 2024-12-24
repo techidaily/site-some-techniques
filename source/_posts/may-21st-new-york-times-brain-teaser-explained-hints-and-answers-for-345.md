@@ -1,7 +1,7 @@
 ---
 title: "May 21St New York Times Brain Teaser Explained: Hints and Answers for #345"
-date: 2024-12-08T17:50:39.696Z
-updated: 2024-12-16T00:59:34.769Z
+date: 2024-12-22T19:16:39.720Z
+updated: 2024-12-24T18:20:34.472Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 ## May 21St New York Times Brain Teaser Explained: Hints and Answers for #345
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,15 +26,15 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Green:** The best price to buy.
 * **Blue:** Equipment for a game you often play in a bar.
 * **Purple:** A social media company and a laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Are Today's Connections Groups?
 
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 ![May 21st Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Smidgen (Yellow):** 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Face, Mac, Match, Pocket
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 21st was pretty straightforward. 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  That left buy, deal, steal, and value in the Green group, which was "Bargain." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -128,24 +128,17 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-discovering-androids-premier-mobas-ranked/"><u>[New] In 2024, Discovering Android's Premier MOBAs Ranked</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-quantum-hdr-explained-the-ultimate-resource/"><u>[Updated] 2024 Approved Quantum HDR Explained The Ultimate Resource</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-7-platforms-for-transforming-art-into-nfts/"><u>[Updated] Explore the Best 7 Platforms for Transforming Art Into NFTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-testimonials-for-genuine-brand-connection/"><u>[Updated] Harnessing Testimonials for Genuine Brand Connection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illustration-insights-elevating-text-in-three-dimensions/"><u>[Updated] Illustration Insights Elevating Text in Three Dimensions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-excellence-in-tiktok-making-leveraging-templates-to-stand-out/"><u>[Updated] In 2024, Excellence in TikTok Making Leveraging Templates to Stand Out</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-clash-livestream-prodigies/"><u>[Updated] OBS Clash - LiveStream Prodigies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-10-gratuitous-online-transformers-for-srt-files/"><u>2024 Approved Best 10 Gratuitous Online Transformers for Srt Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-fiction-directorial-map/"><u>2024 Approved Flash Fiction Directorial Map</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-future-proof-file-storage-essential-cloud-services-revealed/"><u>2024 Approved Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mp3202415/"><u>無料MP3音楽が集結!2024年推奨ダウンロードサイトベスト15ピックアップ</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-advanced-features-in-intova-edge-x-for-2024/"><u>Exploring Advanced Features in Intova Edge X for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funnyframe-factory-quick-meme-crafters-for-2024/"><u>FunnyFrame Factory Quick Meme Crafters for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-echelon-writers-club-for-2024/"><u>Highest Echelon Writers Club for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x8b-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X8b to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ghostly-movie-editing-hacks/"><u>In 2024, Ghostly Movie Editing Hacks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-htc-vive-headset-review/"><u>In 2024, HTC Vive Headset Review</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-display-quality-on-windows-systems/"><u>Maximizing Display Quality on Windows Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ly-earnings-from-youtube-as-a-content-creator/"><u>Monthly Earnings From YouTube as a Content Creator</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-ez-grabbers-potential-with-this-user-friendly-tutorial/"><u>[New] In 2024, Unlocking EZ Grabber's Potential with This User-Friendly Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-angle-alchemists-guide-to-transforming-your-videos-youtube-edition/"><u>[New] The Angle Alchemist's Guide to Transforming Your Videos (YouTube Edition)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-eyecapture-facebook-content-saves/"><u>[Updated] 2024 Approved EyeCapture Facebook Content Saves</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-deciphering-highlighted-discussion-threads-for-2024/"><u>[Updated] Deciphering Highlighted Discussion Threads for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-picshots-magic-for-quick-photo-cohesion/"><u>[Updated] Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-long-is-a-video-at-20-megabits/"><u>[Updated] How Long Is a Video at 20 Megabits?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-mini-how-to-unlock-a-disabled-iphone-12-mini-drfone-by-drfone-ios/"><u>Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-safaris-picture-and-window-sharing-feature-for-2024/"><u>Expert Tips for Safari's Picture and Window Sharing Feature for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-your-vision-leading-lines-for-dynamic-iphone-photos-for-2024/"><u>Frame Your Vision Leading Lines for Dynamic iPhone Photos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-craftsmits-and-cinematography-precision-in-aspect-ratios/"><u>In 2024, Craftsmits and Cinematography Precision in Aspect Ratios</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-venues-expanding-youtube-visibility/"><u>In 2024, Foremost Venues Expanding YouTube Visibility</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-8t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 8T Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
 

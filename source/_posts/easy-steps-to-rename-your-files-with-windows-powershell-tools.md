@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2024-12-08T17:31:44.757Z
-updated: 2024-12-15T22:19:13.900Z
+date: 2024-12-21T20:40:13.115Z
+updated: 2024-12-24T18:23:09.096Z
 tags:
   - deals
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -29,10 +33,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
@@ -51,14 +59,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -70,10 +74,6 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter = 1 } -Process { Rename-Item $_.FullName -NewName ("{0}_{1}" -f $Counter, $_.Name) ; $Counter++ }
 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
 
@@ -94,7 +94,7 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
@@ -118,15 +118,22 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-4-ways-to-record-facebook-live-stream/"><u>[Updated] 2024 Approved 4 Ways to Record Facebook Live Stream</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-cutting-edge-recording-best-camcorders-reviewed/"><u>[Updated] Cutting-Edge Recording Best Camcorders Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-your-website-traffic-with-lead-generation-introducing-cookiebot-powered-solutions/"><u>Boost Your Website Traffic with Lead Generation: Introducing Cookiebot-Powered Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comment-nickel-utilise-abbyy-pour-stimuler-sa-developpement-au-marche-francais/"><u>Comment Nickel Utilise ABBYY Pour Stimuler Sa Développement Au Marché Français</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-site-optimization-enhance-your-websites-traffic-and-conversions/"><u>Cookiebot-Driven Site Optimization: Enhance Your Website's Traffic and Conversions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-success-boosting-your-websites-performance/"><u>Cookiebot-Driven Success: Boosting Your Website's Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-to-repair-dciman32dll-not-detected-issues-on-your-pc/"><u>Easy Methods to Repair 'dciman32.dll' Not Detected Issues on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-pairing-how-to-connect-your-amazon-fire-stick-remote/"><u>Effortless Pairing: How to Connect Your Amazon Fire Stick Remote</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/nvidia-shadowplay-issues-fixing-guide-troubleshoot-non-recording-problems/"><u>Nvidia Shadowplay Issues Fixing Guide - Troubleshoot Non-Recording Problems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/windowwatcher-reviews-guide/"><u>WindowWatcher Reviews Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foundational-methods-to-improve-color-balance/"><u>[Updated] Foundational Methods to Improve Color Balance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>[Updated] Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-your-content-creation-with-these-top-12-cameras/"><u>[Updated] In 2024, Enhance Your Content Creation with These Top 12 Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exciting-ios-applications-for-playing-psp-titles-1-5/"><u>[Updated] In 2024, Exciting iOS Applications for Playing PSP Titles #1-5</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pulse-picking-playlists-hot-tracks-for-viral-youtube-shorts/"><u>[Updated] Pulse-Picking Playlists Hot Tracks for Viral YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-next-gen-notetaking-with-mematic-for-2024/"><u>Experience Next-Gen Notetaking with Mematic for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-started-with-digital-image-detailing-for-2024/"><u>Getting Started with Digital Image Detailing for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/halovision-highlights-critique-for-2024/"><u>HaloVision Highlights Critique for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-videos-our-selection-of-the-three-finest-phones-for-2024/"><u>High Fidelity Videos Our Selection of the Three Finest Phones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ignite-your-creative-journey-blending-photography-and-videos-through-pixiz-for-2024/"><u>Ignite Your Creative Journey Blending Photography & Videos Through Pixiz for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminate-canon-cameras-combining-freebies-and-paid-lut-sets-for-2024/"><u>Illuminate Canon Cameras Combining Freebies and Paid LUT Sets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-easy-online-downloader-for-your-pin-videos/"><u>In 2024, Free, Easy Online Downloader for Your Pin Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/innovative-browsing-strategies-with-picture-in-picture-mode/"><u>Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-easycap-support-premium-driver-files-available-to-download/"><u>Update Your EasyCAP Support: Premium Driver Files Available to Download</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-elites-creator-conclave/"><u>YouTube Elites Creator Conclave</u></a></li>
 </ul></div>
 

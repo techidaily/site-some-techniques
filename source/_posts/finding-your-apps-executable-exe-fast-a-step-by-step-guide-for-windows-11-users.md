@@ -1,7 +1,7 @@
 ---
 title: "Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-12-14T23:28:24.415Z
-updated: 2024-12-15T20:18:58.046Z
+date: 2024-12-20T21:44:17.874Z
+updated: 2024-12-24T19:15:00.828Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ## Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,15 +29,15 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  If you're doing advanced troubleshooting or configuration of a Windows 10 application and need to locate the program's EXE file in [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/), there's a quick way to do it if you have access to a shortcut. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Find an EXE from a Shortcut
 
  First, locate a shortcut that points to the application whose EXE you need to find, because you will need to open its properties window. If the shortcut is on your desktop, right-click it and select "Properties."
 
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
  No matter how you located the shortcut, a properties window will appear. Make sure you're on the "Shortcut" tab, then click "Open File Location."
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll be taken directly to the EXE's location in File Explorer.
 
@@ -68,14 +72,10 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
@@ -104,24 +104,15 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-export-troubleshooting-saving-your-premieres-srt-data/"><u>[New] Export Troubleshooting Saving Your Premiere's SRT Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-framing-frontiers-cutting-edge-app-innovations-24/"><u>[New] Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-text-to-screen-srt-to-subc-transformation-tips/"><u>[New] From Text to Screen SRT-to-SUBC Transformation Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-visual-virtuosity-the-best-sites-and-apps-for-frames-on-photos/"><u>[New] In 2024, Visual Virtuosity The Best Sites & Apps for Frames on Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expanding-horizons-with-vr-filmmaking/"><u>[Updated] Expanding Horizons with VR Filmmaking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-inshot-film-splits/"><u>[Updated] Expert Tips on Inshot Film Splits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-emoji-mastery-for-engaging-youtube-discussions/"><u>[Updated] In 2024, Emoji Mastery for Engaging YouTube Discussions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/11-tricks-for-facebook-video-marketing-to-drive-more-traffic-for-2024/"><u>11 Tricks for Facebook Video Marketing to Drive More Traffic for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-novice-film-capture-scrutiny-report/"><u>2024 Approved Novice Film Capture Scrutiny Report</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-your-video-complement-the-process-of-collaborative-pairing/"><u>Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/fuhrende-12-kostenlose-software-fur-dvd-extraktion-auf-dem-mac-die-aktuellsten-modelle-2023/"><u>Führende 12 Kostenlose Software Für DVD-Extraktion Auf Dem Mac, Die Aktuellsten Modelle 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-add-titlestext-to-video-on-photos-app-in-windows-10-for-2024/"><u>How to Add Titles/Text to Video on Photos App in Windows 10 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-studio-walkthrough-xstudio-reviewed/"><u>In 2024, Expert Studio Walkthrough XStudio Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-infuse-your-iphone-pics-with-movement/"><u>In 2024, How to Infuse Your iPhone Pics with Movement</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-a1x-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo A1x 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-clarity-combatting-unwanted-motion/"><u>In 2024, Image Clarity Combatting Unwanted Motion</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-webinar-recording-techniques-for-2024/"><u>Mastering Webinar Recording Techniques for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-ripping-your-dvds-using-any-version-of-vlc-media-player/"><u>Ultimate Guide: Ripping Your DVDs Using Any Version of VLC Media Player</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-drama-to-film-shaping-realistic-dialogue/"><u>[New] From Drama to Film Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-dynamic-world-of-digital-gifts-a-complete-guide-to-snapchat-gifs/"><u>[Updated] 2024 Approved The Dynamic World of Digital Gifts A Complete Guide to Snapchat Gifs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-controlling-netflix-playback-speeds/"><u>[Updated] Fast Track - Controlling Netflix Playback Speeds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-non-inshot-video-software-for-pcs/"><u>[Updated] Finding Non-Inshot Video Software for PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-x100-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo X100 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>2024 Approved Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asus-unveils-revolutionary-rog-nuc-with-advanced-core-ultra-9-processors-and-impressive-rtx-nvidia-graphics-starting-at-just-1629/"><u>Asus Unveils Revolutionary ROG NUC with Advanced Core Ultra 9 Processors and Impressive RTX nVidia Graphics Starting at Just $1,629!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-creating-stunning-iphone-hdr-photos/"><u>In 2024, The Insider's Guide to Creating Stunning iPhone HDR Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-gps-signal-loss-tips-for-reinstating-location-functionality-on-iphones/"><u>Overcoming GPS Signal Loss: Tips for Reinstating Location Functionality on iPhones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2024-12-11T18:20:28.164Z
-updated: 2024-12-16T01:19:49.909Z
+date: 2024-12-23T19:30:01.634Z
+updated: 2024-12-24T18:43:34.064Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ## Mastering File Renaming: A Comprehensive Guide Using PowerShell
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -59,14 +55,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -89,6 +81,10 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -96,6 +92,10 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -118,20 +118,17 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-lineup-top-10-sources-for-vector-imagery/"><u>[Updated] Exclusive Lineup Top 10 Sources for Vector Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-financial-plan-for-crafting-a-song-to-screen/"><u>[Updated] Financial Plan for Crafting a Song to Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-iconic-locales-for-stream-video-quality/"><u>[Updated] Iconic Locales for Stream Video Quality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] In 2024, 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[Updated] In 2024, Growth Hacking for YouTube Stars Maximizing Fans</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-the-spotlight-top-viewers-choice-for-2024/"><u>[Updated] In the Spotlight Top Viewers' Choice for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-featured-best-10-music-clips-today/"><u>Facebook Featured Best 10 Music Clips Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-quality-real-time-broadcast-frameworks-for-2024/"><u>High-Quality Real-Time Broadcast Frameworks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>In 2024, From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-featured-sierra-drives-files-and-more/"><u>In 2024, Full-Featured Sierra Drives, Files, and More</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-immersive-traits-in-filmoras-editing-software/"><u>In 2024, Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-comparison-can-inshot-outshine-competitors-for-2024/"><u>In-Depth Comparison Can InShot Outshine Competitors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-filmora-for-free-no-cost-no-virus-no-hassle/"><u>New In 2024, Get Filmora for Free No Cost, No Virus, No Hassle</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-best-hash-tracking-apps-a-comprehensive-review-fbtwitterinsta-for-2024/"><u>The Best Hash Tracking Apps A Comprehensive Review (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-11-best-practices-for-capturing-online-conferences-for-free-for-2024/"><u>[New] 11 Best Practices for Capturing Online Conferences for Free for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-forward-finesse-in-presentation-media/"><u>[Updated] Fast-Forward Finesse in Presentation Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-still-to-story-the-art-of-adding-text-to-photos-os-style/"><u>[Updated] From Still to Story The Art of Adding Text to Photos, OS Style</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-simplicity-in-story-construction-for-2024/"><u>[Updated] Simplicity in Story Construction for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-olympic-speed-skating-snapshot-the-short-track-edition/"><u>2024 Approved Olympic Speed Skating Snapshot The Short-Track Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-problems-and-solutions-for-whatsapp-icloud-backup-failures/"><u>Common Problems & Solutions for WhatsApp iCloud Backup Failures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/at-chronicles-the-science-of-satire/"><u>Copycat Chronicles The Science of Satire</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/find-the-perfect-personalized-boxed-gift-at-these-online-retailers/"><u>Find the Perfect Personalized Boxed Gift at These Online Retailers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-idea-to-icon-making-the-list-of-top-fb-videos/"><u>In 2024, From Idea to Icon Making the List of Top FB Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-photo-cropping-apps-how-to-crop-photos-on-iphone/"><u>In 2024, Photo Cropping Apps How to Crop Photos on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/inexpensive-chinese-virtual-reality-helmets-for-2024/"><u>Inexpensive Chinese Virtual Reality Helmets for 2024</u></a></li>
 </ul></div>
 

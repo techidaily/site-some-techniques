@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer"
-date: 2024-12-11T20:38:02.269Z
-updated: 2024-12-15T22:23:20.202Z
+date: 2024-12-21T18:50:43.073Z
+updated: 2024-12-24T17:42:57.805Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ## Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Use the Copilot Web App](https://some-guidance.techidaily.com/2024-approved-ultimate-guide-best-zero-cost-image-editors-online/)
@@ -18,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 * [Use Copilot on Windows for the Full Experience](https://extra-lessons.techidaily.com/vlc-player-tips-10-hidden-features/)
 
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Copilot Web App
 
@@ -31,16 +31,12 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
 
  Click the three-dot menu button in the top right and select "Show All Tones" to change the conversation style. You can choose from Creative, Balanced, and Precise. You can access your chat history here, too.
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -98,24 +98,24 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-harnessing-the-power-of-luts-for-high-quality-video-output-for-2024/"><u>[New] Harnessing the Power of LUTs for High-Quality Video Output for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-pixelperfect-tools-overview-series-for-2024/"><u>[New] PixelPerfect Tools Overview Series for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pioneering-digital-realms-comparing-metaverse-and-omniverse-for-2024/"><u>[Updated] Pioneering Digital Realms Comparing Metaverse & Omniverse for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>[Updated] Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-social-media-sensation-making-your-vids-pop-for-2024/"><u>[Updated] Social Media Sensation Making Your Vids Pop for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extensive-review-gopro-hero4-silver/"><u>2024 Approved Extensive Review GoPro HERO4 Silver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor/"><u>2024 Approved Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>2024 Approved From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-virtuoso-your-guide-to-windows-8-movie-maker/"><u>2024 Approved From Novice to Virtuoso Your Guide to Windows 8 Movie Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gradual-diminishment-of-sound-tips-from-logic-pro-experts/"><u>2024 Approved Gradual Diminishment of Sound Tips From Logic Pro Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highest-quality-live-tv-and-community-broadcasting-guide-2esecurity/"><u>2024 Approved Highest-Quality Live TV & Community Broadcasting Guide, 2Esecurity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-improving-hues-a-beginners-approach-to-ps-grading/"><u>2024 Approved Improving Hues A Beginner's Approach to PS Grading</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-system-failures-blue-screen-aftermath-in-windows/"><u>Delving Into System Failures: Blue Screen Aftermath in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold-for-2024/"><u>Evaluating High-Capacity Drives How Many Vids Can a 64/128GB Hold for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-2023s-standout-professional-360cameras-for-2024/"><u>Exploring 2023'S Standout Professional 360°Cameras for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-unblock-your-chatgpt-access-in-under-156-characters/"><u>How to Unblock Your ChatGPT Access in Under 156 Characters</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-se-2020-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone SE (2020) using find my iphone</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 | Stellar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-tips-for-easy-video-capture-of-youtube-content/"><u>[New] 2024 Approved Tips for Easy Video Capture of YouTube Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-undead-uprising-a-comprehensive-list-of-favorites/"><u>[New] 2024 Approved Undead Uprising A Comprehensive List of Favorites</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-apex-elite-comprehensive-4k-touch-desktops/"><u>[Updated] 2024 Approved Apex Elite Comprehensive 4K Touch Desktops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-speedy-steps-screenshot-simplification-on-dell/"><u>[Updated] 2024 Approved Speedy Steps Screenshot Simplification on Dell</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insights-into-prime-10-streamers/"><u>[Updated] Exclusive Insights Into Prime 10 Streamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark/"><u>[Updated] From Selfies to Skies Uncovering The Intricacies with the DJI Spark</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-live-broadcast-with-periscope/"><u>[Updated] Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-logo-blueprints-to-refine-and-personalize-your-symbol/"><u>2024 Approved Free Logo Blueprints to Refine and Personalize Your Symbol</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-dialogue-architect-forum/"><u>2024 Approved Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-improve-zoo-audio-integrity-in-online-communication/"><u>2024 Approved Improve Zoo Audio Integrity in Online Communication</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-virtual-reality-use-in-healthcare/"><u>2024 Approved Virtual Reality Use in Healthcare</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-note-30-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Note 30 FRP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-webcasts-without-payment-fees/"><u>In 2024, Capturing Webcasts Without Payment Fees</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tactics-for-effortless-collage-making/"><u>In 2024, Expert Tactics for Effortless Collage Making</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review/"><u>In 2024, Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-feeds-to-filters-connecting-instagram-and-tiktok/"><u>In 2024, From Feeds to Filters Connecting Instagram and TikTok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-audio-equipment-comprehensive-test-results-by-experts-on-zdnet/"><u>Top-Ranking Gaming Audio Equipment - Comprehensive Test Results by Experts on ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-your-network-adapters-with-expert-insights-from-yl-computing/"><u>Troubleshooting Your Network Adapters with Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

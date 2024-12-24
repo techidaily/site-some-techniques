@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-12-11T19:21:45.459Z
-updated: 2024-12-15T21:16:14.016Z
+date: 2024-12-20T16:37:59.340Z
+updated: 2024-12-24T21:26:24.929Z
 tags:
   - deals
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ## Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -44,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Installing Ubuntu
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  In the search box, type "Ubuntu." Upon entering "Ubuntu," the Microsoft Store will display various versions of the Ubuntu app. Select "Ubuntu 22.04.3 LTS" using the mouse.
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
@@ -117,11 +117,7 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -145,6 +141,10 @@ nohup program_name & disown
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
  Alternatively, applications can be started from the Windows 11 start menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Integration with Windows 11
 
@@ -179,22 +179,22 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-premier-fishing-cameras-the-essentials-of-5/"><u>[New] 2024 Approved Premier Fishing Cameras - The Essentials of 5</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-new-frontiers-with-vr-game-engines/"><u>[New] Exploring New Frontiers with VR Game Engines</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonize-with-inshots-music-load-functionality/"><u>[New] Harmonize with InShot's Music Load Functionality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms/"><u>[New] In 2024, Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-lut-creation/"><u>[Updated] Innovative Approaches to LUT Creation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-thumbnails/"><u>2024 Approved The Ultimate Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-soldering-irons-and-workstations-reviewed/"><u>2024'S Most Effective Soldering Irons and Workstations Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gaming-at-its-peak-platform-9-insights-for-2024/"><u>Gaming at Its Peak Platform #9 Insights for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds-for-2024/"><u>How to Find Elite Instagram Tones and Craft Unique Alarm Sounds for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-followers-on-xtwitter/"><u>How to Get Followers on X/Twitter</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-apple-iphone-13-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On Apple iPhone 13 - 4 Easy Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-upgraded-gopro-sessions/"><u>In 2024, Exploring the Upgraded GoPro Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-holographic-horizons-reimagined-movies/"><u>In 2024, Holographic Horizons Reimagined Movies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-a-faster-live-streaming-on-periscope/"><u>In 2024, How to Get a Faster Live Streaming on Periscope</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-blend-sound-and-visuals-editing-tips-for-canva-videos/"><u>In 2024, Seamlessly Blend Sound & Visuals Editing Tips for Canva Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-viewer-discussions-on-youtube-for-2024/"><u>Mastering Viewer Discussions on YouTube for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-vertical-video-editing-on-mobile-devices/"><u>Updated In 2024, The Ultimate Guide to Vertical Video Editing on Mobile Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-echoes-of-music-in-video-landscapes/"><u>[New] Echoes of Music in Video Landscapes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elegant-architecture-top-6-sleek-mc-houses/"><u>[New] Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frontier-of-film-virtual-realities-in-theaters/"><u>[New] Frontier of Film Virtual Realities in Theaters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gadgets-that-shine-in-travel-videography/"><u>[New] Gadgets That Shine in Travel Videography</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-gopro-camera-showdown-for-2024/"><u>[Updated] The Ultimate GoPro Camera Showdown for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-finest-18-wireless-camcorders-today/"><u>2024 Approved Explore the Finest 18 Wireless Camcorders Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-look-up-tables-luts-for-professionals/"><u>2024 Approved Harness the Power of Look-Up Tables (LUTs) for Professionals</u></a></li>
+<li><a href="https://fox-info.techidaily.com/effortlessly-track-beats-with-our-speedy-free-analysis-software/"><u>Effortlessly Track Beats with Our Speedy, Free Analysis Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>In 2024, Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-comparison-the-finest-streaming-tv-platforms/"><u>In 2024, In-Depth Comparison The Finest Streaming TV Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you/"><u>In 2024, Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-concealed-aspects-understanding-the-unique-stories-of-followers/"><u>In 2024, The Concealed Aspects Understanding the Unique Stories of Followers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-y02t-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Y02T Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-strategies-for-altering-pubg-speech-for-2024/"><u>Innovative Strategies for Altering PUBG Speech for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/soaring-strengths-top-10-industrial-drones/"><u>Soaring Strengths Top 10 Industrial Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-mystery-writing-hooks-for-vlogger-scripts/"><u>Unveiling the Mystery Writing Hooks for Vlogger Scripts</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
 </ul></div>
 

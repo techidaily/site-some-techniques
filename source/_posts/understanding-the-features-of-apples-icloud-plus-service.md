@@ -1,7 +1,7 @@
 ---
 title: Understanding the Features of Apple's iCloud Plus Service
-date: 2024-12-08T23:21:29.635Z
-updated: 2024-12-15T18:48:53.632Z
+date: 2024-12-20T16:31:37.240Z
+updated: 2024-12-24T17:19:29.712Z
 tags:
   - mobile
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![iCloud+ storage tiers as of August 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-05-at-13-26-32.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -36,7 +36,7 @@ Apple
  If you cancel your iCloud subscription (and revert to the free 5GB tier), you'll lose your iCloud+ benefits too..
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  iCloud Private Relay is Apple's Take on a VPN
@@ -48,10 +48,6 @@ Apple
  Like a VPN, all traffic is encrypted. This means that if someone were to intercept traffic, for example, by using a [man-in-the-middle attack](https://vp-tips.techidaily.com/new-preserving-sound-integrity-with-ffmpeg-extract-for-2024/) on a public wireless network, they would still need to decrypt the data to see what you're doing.
 
 ![iCloud Private Relay dual-hop architecture diagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-05-at-13-25-04.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Apple
 
@@ -70,7 +66,7 @@ Apple
 ![iCloud Private Relay toggle on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-05-at-13-29-13.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apple still has to comply with requests from authorities to provide court-ordered information about users, but keep in mind that iCloud Private Relay uses encryption that not even Apple can circumvent.
@@ -95,6 +91,10 @@ Apple
 
 ![Adding a custom email domain to iCloud Mail.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-05-at-13-32-33.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can set this up by visiting the [iCloud+ Custom Domain](https://www.icloud.com/icloudplus/customdomain) setup page on the iCloud website.
 
 ##  Unlimited HomeKit Secure Video Recording
@@ -109,15 +109,15 @@ Arlo
 
  For this to work, your chosen cameras will need to be compatible with HomeKit Secure Video. Check [our best outdoor home security camera roundup](https://screen-video-capture.techidaily.com/new-in-2024-pixels-and-players-advanced-tactics-for-recording-gaming/) for some ideas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Included in Your iCloud Subscription
 
  Cloud storage is expensive, particularly when you consider it is an ongoing subscription. You can [try to free up iCloud storage space](https://video-screen-grab.techidaily.com/new-in-2024-optimized-zoom-audio-settings-for-exceptional-listening/) by doing things like [reducing the size of your device backups](https://facebook-videos.techidaily.com/updated-fundamentals-of-copywriting-for-engaging-fb-campaigns/), but eventually you're probably going to have to [upgrade your iCloud storage plan](https://win-amazing.techidaily.com/download-and-improve-display-quality-latest-vga-driver-update-available/).
 
 ![Managing a 2TB iCloud+ plan on the iCloud website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-05-at-13-32-02.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At least iCloud+ improves the value proposition by adding a few useful and worthwhile features that you can take advantage of.
 
@@ -136,20 +136,21 @@ Arlo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-look-at-zooms-prime-transcription-software-choices/"><u>[New] In 2024, Exclusive Look at Zoom's Prime Transcription Software Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-podcasting-made-simple-easy-steps-to-capture-live-streams/"><u>[New] Podcasting Made Simple Easy Steps to Capture Live Streams</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-circle-of-connectivity-spotlighting-instas-top-25-influencers-for-2024/"><u>[New] The Circle of Connectivity Spotlighting Insta's Top 25 Influencers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-understanding-google-podcasts/"><u>[Updated] Comprehensive Guide Understanding Google Podcasts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-digital-typography-in-after-effects-a-guide/"><u>[Updated] Digital Typography in After Effects A Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>2024 Approved Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>2024 Approved From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-funny-image-for-giphy/"><u>2024 Approved Generate Funny Image for Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-many-videos-fit-in-64128gb-data-insight/"><u>2024 Approved How Many Videos Fit In 64/128GB? Data Insight</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>2024 Approved The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-guide-to-enhancing-video-subtitles-through-web-apps-for-2024/"><u>Expert Guide to Enhancing Video Subtitles Through Web Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explaining-the-freeze-photo-booth-film-flow-for-2024/"><u>Explaining the Freeze Photo Booth Film Flow for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor-for-2024/"><u>Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-fix-a-non-responsive-printer-expert-advice-by-yl-software/"><u>How to Fix a Non-Responsive Printer: Expert Advice by YL Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/selecting-gear-for-youtube-a-filmmakers-essentials-for-2024/"><u>Selecting Gear for YouTube A Filmmaker's Essentials for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-action-footage-enhanced-top-mic-picks/"><u>[New] Action Footage Enhanced Top Mic Picks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-efficiently-tackling-twitter-archive-data-analysis/"><u>[New] Efficiently Tackling Twitter Archive Data Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-screen-writing-a-winning-docu-script/"><u>[New] From Concept to Screen Writing a Winning Docu-Script</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-velocity-ventures-discover-the-freshest-5-virtual-race-titles/"><u>[Updated] In 2024, Velocity Ventures Discover the Freshest 5 Virtual Race Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-workstations-your-tech-dreams-realized/"><u>[Updated] Ultimate Workstations - Your Tech Dreams Realized</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-culinary-cinema-secrets-the-best-tips-to-make-your-kitchen-films-pop/"><u>2024 Approved Culinary Cinema Secrets - The Best Tips to Make Your Kitchen Films Pop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-selections-free-vs-paid-hd-playback-software-for-2024/"><u>Exclusive Selections Free vs Paid HD Playback Software for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-snagging-superior-pixels-without-spending/"><u>In 2024, Expert Tips for Snagging Superior Pixels Without Spending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finns-fiscal-flow-income-insights-from-youtube-icon/"><u>In 2024, Finn's Fiscal Flow Income Insights From YouTube Icon</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-creative-effortlessly-top-10-sticker-enhancing-apps-for-smartphones/"><u>In 2024, Get Creative, Effortlessly Top 10 Sticker-Enhancing Apps for Smartphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-into-film-editing-made-easy/"><u>In 2024, Getting Into Film Editing Made Easy</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-collab-videos-to-expand-viewership/"><u>In 2024, Mastering Collab Videos to Expand Viewership</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10-for-2024/"><u>In-Depth Insight on Effortless Photo & Video Importers in Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlining-sound-systems-uploads-for-your-youtube-hub/"><u>Streamlining Sound Systems Uploads for Your Youtube Hub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-30-affordable-and-robust-cloud-services-with-up-to-1tb-space/"><u>Top 30 Affordable & Robust Cloud Services with Up to 1TB Space</u></a></li>
 </ul></div>
 

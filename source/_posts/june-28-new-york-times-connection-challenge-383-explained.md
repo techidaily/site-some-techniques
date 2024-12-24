@@ -1,7 +1,7 @@
 ---
 title: June 28 - New York Times Connection Challenge #383 Explained
-date: 2024-12-11T22:13:44.356Z
-updated: 2024-12-15T17:16:54.511Z
+date: 2024-12-19T18:05:35.692Z
+updated: 2024-12-24T16:20:56.084Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## June 28 - New York Times Connection Challenge #383 Explained
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -57,13 +57,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Indication to Proceed
 * **Purple:** Underwear in the Singular
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![June 28th Connections words sorted into groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-28th-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Types of Bags (Yellow):** 
 
@@ -81,10 +81,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Boxer, Brief, Drawer, Short
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  June 28th wasn't too bad. 
@@ -96,6 +92,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A satchel is a type of bag, so I started with that for my next group. Freedom, latitude, slack, and license make absolutely no sense in the context of "bag," so I just opted to pick every other remaining word instead of puzzling it out. Clutch, messenger, satchel, and tote belonged to the Yellow group, "Types of Bags." 
 
  That left freedom, latitude, license, and slack. The terms seem vaguely related to the ideas of margin for error, or freedom of movement. Green was "Wiggle Room"—close enough. I count that as a win still. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -125,15 +125,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>[Updated] From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-full-potential-innovative-techniques-for-youtube-end-screen-designs/"><u>[Updated] Unlocking the Full Potential Innovative Techniques for Youtube End Screen Designs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ffmpegs-capabilities-for-unaltered-audio-extraction/"><u>2024 Approved FFmpeg's Capabilities for Unaltered Audio Extraction</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-dynamics-of-canon-timelapse-imagery-for-2024/"><u>Exploring the Dynamics of Canon Timelapse Imagery for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-integration-of-bing-chat-in-win-11-search-field/"><u>Fast-Track Integration of Bing Chat in Win 11 Search Field</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-15-plus-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 15 Plus The Right Way</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-realme-c67-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme C67 4G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-the-ultimate-tutorial-on-how-to-openedit-srt-on-mac/"><u>In 2024, The Ultimate Tutorial on How to Open/Edit SRT on Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-classroom-strategies-using-video-for-immersive-learning-for-2024/"><u>Innovative Classroom Strategies Using Video for Immersive Learning for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-motion-tracking-apps-on-mobile/"><u>Updated 2024 Approved The Ultimate Guide to Motion Tracking Apps on Mobile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exemplar-storyboard-creators-circle/"><u>[New] Exemplar Storyboard Creator's Circle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-fixing-iphone-lens-blur-effectively/"><u>[New] Expert Advice Fixing iPhone Lens Blur Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-apex-of-mobile-photography-with-ios-11/"><u>[New] Exploring the Apex of Mobile Photography with iOS 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-parts-to-project-designing-your-own-4k-pc-workstation/"><u>[New] From Parts to Project Designing Your Own 4K PC Workstation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-the-single-channel-headset/"><u>[Updated] Fixing the Single-Channel Headset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flash-frame-filmmakers-plan/"><u>[Updated] Flash Frame Filmmaker's Plan</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>[Updated] Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[Updated] Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-obs-revived-camera-back-to-life/"><u>[Updated] OBS Revived Camera Back to Life</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-proven-ways-to-enhance-your-fb-presence-and-boost-engagement-for-2024/"><u>[Updated] Proven Ways to Enhance Your FB Presence and Boost Engagement for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infuse-illustration-with-life-techniques-for-motion-in-ai-images/"><u>2024 Approved Infuse Illustration with Life Techniques for Motion in AI Images</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customize-ai-like-never-before-discover-how-to-create-personalized-gpt-models-via-chatgpts-latest-innovation/"><u>Customize AI Like Never Before – Discover How to Create Personalized GPT Models via ChatGPT's Latest Innovation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-s18e-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo S18e Easily?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-effective-ways-to-prevent-war-thunder-from-crashing/"><u>Mastering Stability: Effective Ways to Prevent War Thunder From Crashing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-safari-in-a-few-simple-steps-for-an-improved-ios-browsing/"><u>Speed Up Your Safari in a Few Simple Steps for an Improved iOS Browsing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-fintie-macbook-pro-13-laptop-sleeve-a-comprehensive-durability-and-value-analysis/"><u>The Ultimate Guide to the Fintie MacBook Pro 13 Laptop Sleeve - A Comprehensive Durability & Value Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-chromebooks-a-comprehensive-review-of-hp-lenovo-and-competitors/"><u>Top-Ranking Chromebooks : A Comprehensive Review of HP, Lenovo & Competitors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-s23-fe-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy S23 FE Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-links.techidaily.com/winning-over-brands-in-the-world-of-youtube-sponsorships/"><u>Winning Over Brands in the World of YouTube Sponsorships</u></a></li>
 </ul></div>
 

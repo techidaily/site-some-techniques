@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-12-10T18:23:56.549Z
-updated: 2024-12-15T21:26:03.320Z
+date: 2024-12-21T21:56:35.182Z
+updated: 2024-12-24T20:05:02.968Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How This Particular Problem Foxes People](https://vimeo-videos.techidaily.com/2024-approved-discovering-vimeo-home-for-high-quality-films/)
@@ -18,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [It’s Not Exactly Slash’s Fault](https://mondly-stories.techidaily.com/film-and-television-as-educational-resources/)
 
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How This Particular Problem Foxes People
 
@@ -45,12 +45,16 @@ ls ~/Downloads/src
     
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
 
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
@@ -60,7 +64,7 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
@@ -73,10 +77,6 @@ ls ~/Documents/backup/
     
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The original and target directories are both empty. Where did the file go?
 
  Bash tries to find a directory called backpu, but can't find one. It concludes you want to rename your moved file to backpu. You’ll find a file called backpu one directory level higher than your target directory.
@@ -84,6 +84,10 @@ ls ~/Documents/backup/
 ls -l ~/Documents
 
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
 
@@ -104,10 +108,6 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
  This is a better outcome for failures. You’re alerted to the error, and the original file remains touched.
 
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  It’s Not Exactly Slash’s Fault
 
@@ -130,18 +130,14 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flashy-flights-prime-pc-and-mobile-game-hits/"><u>[New] Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-eden-record-without-paying-in-24/"><u>[New] Gamers' Eden Record Without Paying in '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-set-up-zoom-video-meeting/"><u>[New] How to Set up Zoom Video Meeting</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-picarts-quick-shield-for-facial-features/"><u>[New] PicArt's Quick Shield for Facial Features</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-chuckle-cache-the-best-humor-tweets-on-twitch/"><u>[Updated] In 2024, Chuckle Cache The Best Humor Tweets on Twitch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovation-meets-opportunity-the-leading-7-nft-generation-tools/"><u>[Updated] Innovation Meets Opportunity The Leading 7 NFT Generation Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-demystifying-igtv-for-a-comprehensive-social-media-experience/"><u>2024 Approved Demystifying IGTV For a Comprehensive Social Media Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-supplemental-film-footage-for-2024/"><u>Harnessing the Power of Supplemental Film Footage for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-bass-brilliance-new-device-overview/"><u>In 2024, Bass Brilliance New Device Overview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-handle-previewed-activities-on-facebook/"><u>In 2024, How to Handle Previewed Activities on Facebook</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>New In 2024, The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ponder-this-what-makes-a-good-investment-for-you-when-it-comes-to-dvrs/"><u>Ponder This: What Makes a Good Investment for You, When It Comes to DVR's?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/por-que-tu-ubicacion-no-se-muestra-en-windows/"><u>¿Por Qué Tu Ubicación No Se Muestra en Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-aspect-ratios-for-stunning-video-outputs/"><u>[New] Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-clarity-to-excellence-benqs-bl2711u-professional-4k-monitor-assessment/"><u>[New] From Clarity to Excellence BenQ’s BL2711U Professional 4K Monitor Assessment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-global-knowquiz-leaders-top-11-gk-channels-2024/"><u>[Updated] Global KNOWQuiz Leaders - Top 11 GK Channels, 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-two-in-one-device-review-unpacking-the-lenovo-chromebook-duet/"><u>Budget-Friendly Two-in-One Device Review: Unpacking the Lenovo Chromebook Duet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finns-fiscal-flow-income-insights-from-youtube-icon-for-2024/"><u>Finn's Fiscal Flow Income Insights From YouTube Icon for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-audio-treasures-for-video-crafting/"><u>In 2024, Ultimate Audio Treasures for Video Crafting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>In 2024, Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/tecnicas-expertas-para-la-copia-de-seguridad-del-disco-y-transicion-a-un-ssd-con-uefi-en-windows-7810/"><u>Técnicas Expertas Para La Copia De Seguridad Del Disco Y Transición a Un SSD Con UEFI en Windows 7/8/10</u></a></li>
 </ul></div>
 

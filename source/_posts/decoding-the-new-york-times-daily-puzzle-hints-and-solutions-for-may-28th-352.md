@@ -1,7 +1,7 @@
 ---
 title: Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
-date: 2024-12-09T00:34:50.844Z
-updated: 2024-12-15T17:42:24.281Z
+date: 2024-12-20T19:03:40.655Z
+updated: 2024-12-24T18:38:58.089Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,15 +25,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -57,13 +57,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Spelling Bee Ranks.
 * **Purple:** Adjectives for a Candle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![May 28th Connections words sorted into four groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Amenable (Yellow):** 
 
@@ -82,7 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Lit, Scented, Waxy, Wicked
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -127,22 +127,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[New] 2024 Approved [Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unleashing-the-potential-of-4k-a-review-of-asuss-proart-pa-329q-monitor/"><u>[New] 2024 Approved Unleashing the Potential of 4K A Review of Asus's ProArt PA 329Q Monitor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flexible-cam-balancer-toolkit/"><u>[Updated] Flexible Cam Balancer Toolkit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-invert-colors-in-digital-photos/"><u>[Updated] How to Invert Colors in Digital Photos?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-win11-elite-screen-recording-software/"><u>[Updated] In 2024, Win11 Elite Screen Recording Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-do-live-streaming-with-periscope/"><u>2024 Approved How to Do Live Streaming with Periscope</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discover-the-ultimate-audio-experience-with-the-top-rated-speakers/"><u>Beyond Bose & Sonos: Discover the Ultimate Audio Experience with the Top-Rated Speakers!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/cost-vs-benefit-of-replacing-apple-device-batteries/"><u>Cost Vs. Benefit of Replacing Apple Device Batteries</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-motorola-moto-g73-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Motorola Moto G73 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-surface-book-driver-installation-learn-how-to-stay-updated/"><u>Hassle-Free Surface Book Driver Installation: Learn How to Stay Updated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hot-topic-in-photos-memes-and-their-origin-tales-for-2024/"><u>Hot Topic in Photos Memes & Their Origin Tales for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminating-your-space-naturally-interior-wise-for-2024/"><u>Illuminating Your Space Naturally, Interior-Wise for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-a-thrilling-film-outtakes-package/"><u>In 2024, Formulating a Thrilling Film Outtakes Package</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ice-acceleration-showdown-at-the-olympics-2022/"><u>In 2024, Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen/"><u>In 2024, Illuminating Insight The Ultimate Guide to Choosing a Stunning 4K Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/precision-in-film-craft-advanced-kinemaster-strategies/"><u>Precision in Film Craft Advanced Kinemaster Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-applications-for-viewing-and-analyzing-your-iphones-backup-data/"><u>Top Rated Applications for Viewing and Analyzing Your iPhone's Backup Data</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-ai-naming-software-for-podcasters/"><u>[New] Explore the Best AI Naming Software for Podcasters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hp-envy-27-4k-usb-c-monitor-review/"><u>[New] HP Envy 27 4K USB-C Monitor Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-masterclass-in-merging-movies-with-modern-education/"><u>[Updated] 2024 Approved Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-crafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms-for-2024/"><u>[Updated] Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-the-finest-streaming-tv-platforms/"><u>[Updated] In-Depth Comparison The Finest Streaming TV Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-insider-writers-on-popular-tiktok-wallpapers/"><u>[Updated] Insider' Writers on Popular TikTok Wallpapers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-picks-the-best-10-photography-lenses/"><u>2024 Approved Expert's Picks The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grids-that-wow-discover-the-top-apps-for-pics/"><u>2024 Approved Grids That Wow Discover the Top Apps for Pics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cease-drawing-parallels-between-siri-and-chatgpt-unveiling-their-distinct-features/"><u>Cease Drawing Parallels Between Siri and ChatGPT: Unveiling Their Distinct Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-footage-finishing-integrating-filters-in-viewing-devices-for-2024/"><u>Flawless Footage Finishing Integrating Filters in Viewing Devices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-wi-fi-access-on-your-apple-device-top-8-solutions-for-iphones-and-ipads/"><u>How to Restore Wi-Fi Access on Your Apple Device: Top 8 Solutions for iPhones & iPads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-faqs-of-using-vlc-player-on-mac/"><u>In 2024, FAQs of Using VLC Player on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-harvest-huge-volumes-of-content-from-tiktok-effortlessly/"><u>In 2024, How to Harvest Huge Volumes of Content From TikTok Effortlessly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/netflixs-allure-5-reasons-that-justify-subscription-cost/"><u>Netflix's Allure: 5 Reasons That Justify Subscription Cost</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-ntfssys-bsod-issues-effective-solutions-for-windows-10-users/"><u>Overcoming NTFS.sys BSOD Issues: Effective Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://fox-where.techidaily.com/transferieren-sie-ihr-system-mit-mbr-einfache-ubertragung-vom-festplattenlaufwerk-zu-ssdusb-zur-wiederherstellung-des-bootvorgangs/"><u>Transferieren Sie Ihr System Mit MBR: Einfache Übertragung Vom Festplattenlaufwerk Zu SSD/USB Zur Wiederherstellung Des Bootvorgangs.</u></a></li>
 </ul></div>
 

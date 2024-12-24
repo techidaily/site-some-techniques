@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-12-14T17:17:56.775Z
-updated: 2024-12-15T22:17:49.560Z
+date: 2024-12-17T19:47:37.408Z
+updated: 2024-12-24T22:19:07.293Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ## Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,6 +48,10 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -55,10 +59,6 @@ color 2
 color
 
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
 
@@ -88,11 +88,7 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -111,6 +107,10 @@ Your browser does not support the video tag.
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -124,10 +124,6 @@ cmatrix
 Your browser does not support the video tag. 
 
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
@@ -158,6 +154,10 @@ genact -m _module-name_
 genact -m cryptomining
 
 Your browser does not support the video tag. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
@@ -196,19 +196,22 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-hear-divine-voices-downloading-and-altering-ringtone-audio-for-2024/"><u>[Updated] Hear Divine Voices Downloading & Altering Ringtone Audio for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>2024 Approved Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-explore-the-art-of-vocal-transformation-with-these-cost-free-alternatives/"><u>2024 Approved Explore the Art of Vocal Transformation with These Cost-Free Alternatives</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-in-depth-look-at-sonys-x1000v-hd-recorder/"><u>2024 Approved In-Depth Look at Sony's X1000V HD Recorder</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-master-the-art-of-attraction-8-proven-techniques-for-reel-success/"><u>2024 Approved Master the Art of Attraction 8 Proven Techniques for Reel Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-secrets-to-superior-soundscape-top-tunes-for-unboxing-vids/"><u>2024 Approved Secrets to Superior Soundscape Top Tunes for Unboxing Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-selections-unveiling-the-top-5-professional-drones-for-2024/"><u>Expert Selections Unveiling the Top 5 Professional Drones for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-overflowed-drafters-to-ordered-files-learn-to-edit-hefty-tiktok-content-for-2024/"><u>From Overflowed Drafters to Ordered Files Learn to Edit Hefty TikTok Content for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frontiers-in-3d-visualization-tech-for-2024/"><u>Frontiers in 3D Visualization Tech for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fundamentals-unveiling-internet-storys-essence-for-2024/"><u>Fundamentals Unveiling Internet Story's Essence for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funny-faces-for-iphone-users-for-2024/"><u>Funny Faces for iPhone Users for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hevc-playback-issues-on-a-computer-effective-strategies-to-resolve-hevc-media-files-in-various-windows-versions/"><u>HEVC Playback Issues on a Computer - Effective Strategies to Resolve HEVC Media Files in Various Windows Versions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-p40plus-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Itel P40+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quick-start-utilizing-zoom-in-windows-10-environment/"><u>Quick Start Utilizing Zoom in Windows 10 Environment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-screen-captures-in-firefox-land/"><u>[New] 2024 Approved Top Screen Captures in Firefox Land</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-detailed-analysis-vlc-for-video-capture-for-2024/"><u>[New] Detailed Analysis VLC for Video Capture for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fixing-curved-video-gopros-fisheye-issue/"><u>[New] Fixing Curved Video GoPro's Fisheye Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-stock-photographs-meme-lives-and-histories/"><u>[New] Iconic Stock Photographs Meme Lives and Histories</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-best-5-chrome-extensions-to-download-facebook-videos/"><u>[Updated] 2024 Approved Best 5 Chrome Extensions to Download Facebook Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-overcoming-unseen-thumbnails-in-youtube-shorts/"><u>[Updated] 2024 Approved Overcoming Unseen Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-3d-text-psd-goldmine-top-selections/"><u>[Updated] Free 3D Text PSD Goldmine - Top Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hues-harmony-an-editors-guide-to-perfect-grading/"><u>[Updated] Hues Harmony An Editor's Guide to Perfect Grading</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-the-secrets-of-instagrams-trending-reels/"><u>[Updated] In 2024, Unlocking the Secrets of Instagram's Trending Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-premium-photo-quality-without-charges/"><u>2024 Approved Finding Premium Photo Quality Without Charges</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-efficiently-retrieve-youtubes-srt-files/"><u>2024 Approved Guide to Efficiently Retrieve YouTube's SRT Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-complexities-of-photo-hdr-in-photoshop/"><u>2024 Approved Navigating the Complexities of Photo-HDR in Photoshop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462341435-airpod-woes-try-these-6-fixes-for-auto-connect-issues-between-apple-gadgets/"><u>AirPod Woes? Try These 6 Fixes for Auto-Connect Issues Between Apple Gadgets</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/bypassing-copyright-protection-a-guide-to-accessing-amazons-drm-encrypted-media/"><u>Bypassing Copyright Protection: A Guide to Accessing Amazon's DRM-Encrypted Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/final-30-free-and-paid-blu-ray-solutions-for-pcmac-users-for-2024/"><u>Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-animated-art-to-fun-factors-transforming-gifs-into-stickers-anywhere/"><u>In 2024, From Animated Art to Fun Factors Transforming GIFs Into Stickers Anywhere</u></a></li>
 </ul></div>
 

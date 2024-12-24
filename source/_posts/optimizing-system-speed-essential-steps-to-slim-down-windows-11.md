@@ -1,7 +1,7 @@
 ---
 title: "Optimizing System Speed: Essential Steps to Slim Down Windows 11"
-date: 2024-12-10T23:24:43.190Z
-updated: 2024-12-15T20:53:34.283Z
+date: 2024-12-18T18:17:19.669Z
+updated: 2024-12-24T20:30:07.208Z
 tags:
   - desktop
 categories:
@@ -21,25 +21,21 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  Windows 11 comes with a lot of extra 'stuff' installed that slows it down: instant messaging apps, music and streaming services, software trials, bad games and clunky third-party antivirus, and worst still, it tends to come back when your computer updates. Here's how to clear it all out. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Bloatware Slows Down Your Windows 11 PC
 
  "Bloatware" is software on your computer that can make it run slowly by taking up disk space, running in the background and taking up resources, or just getting in your way. The added visual clutter from unwanted apps is also an issue: you'll perform tasks slower if you have to wade through icons to find the app you want, or are constantly interrupted by pop-ups and ads.
 
  Apps that are considered bloatware often include software that came with your computer or was installed automatically that you didn't decide to install for yourself, like default Windows tools (for example, Photos and Weather apps), free trials for productivity and antivirus apps, and subscription services that bug you continuously to sign up to continue using them. Basically, if you don't want or use an app, you could consider it bloat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Not Use Automated Tools to Debloat?
 
  While there are third party tools that offer to clean up Windows for you, they aren't recommended for regular users: their trustworthiness can be questionable, and they may perform actions that you don't anticipate and can't reverse (like [editing registry entries](https://screen-sharing-recording.techidaily.com/2024-approved-essential-tips-for-gameplay-screen-shotting-on-playstation-4/) or system files).
 
  However, if you want to check out some of these tools (at your own risk), [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil "https://github.com/ChrisTitusTech/winutil") and [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) both offer the ability to add and remove both pre-installed apps and Windows components, as well as make other Windows 11 tweaks. If you're using these kinds of system tweaking tools, you should [back up your data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) before you make any changes, just in case they break something.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Uninstalling BloatWare From the Settings App
 
@@ -52,7 +48,7 @@ Brad Morton / How-To Geek
  Scroll through the list of installed apps and decide whether you wish to keep each one. If you decide an app is "bloat", uninstall it by clicking on the dots to reveal the button to uninstall.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disabling Startup Apps
@@ -61,10 +57,14 @@ Brad Morton / How-To Geek
 
 ![debloat2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debloat2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disabling Optional Windows Features
@@ -82,13 +82,13 @@ Brad Morton / How-To Geek
 
  You can also remove Copilot in Windows (Microsoft's new, intrusive AI companion) and disable the Widgets menu from the task bar inSettings > Personalization > Taskbar. You can also disable content suggestions and other cloud search features in Settings > Privacy & security > Search Permissions to improve search responsiveness.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Clearing Out Temporary Files
 
  If you are running low on disk space, you can adjust the settings to automatically remove temporary files. From Settings > System > Storage, you can enable Storage Sense which will automatically clear temporary files as needed, and view Windows' cleanup recommendations for large unused apps or files you could potentially remove. You can also [manually delete your cached/temporary files](https://facebook-videos.techidaily.com/in-2024-the-path-to-success-integrating-past-recordings-in-real-time-on-social-media/) if you want to make sure it has been done recently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What About Removing Preinstalled Antivirus Software?
 
@@ -115,22 +115,22 @@ Brad Morton / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-brighten-up-your-gaming-setup-eliminate-black-screens-with-obs/"><u>[New] 2024 Approved Brighten Up Your Gaming Setup Eliminate Black Screens with OBS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-deciphering-digital-self-identity-the-insta-selfie-guide/"><u>[New] Deciphering Digital Self-Identity The Insta Selfie Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-stream-and-record-gamers-ultimate-guide-for-2024/"><u>[Updated] Stream and Record Gamers' Ultimate Guide for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-netflixs-secrets-6-proven-techniques-for-streamers-on-macos/"><u>2024 Approved Unlocking Netflix's Secrets 6 Proven Techniques for Streamers on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/accelerer-votre-entreprise-grace-a-une-collaboration-strategique-avec-winxdvd/"><u>Accélérer Votre Entreprise Grâce À Une Collaboration Stratégique Avec WinXDVD</u></a></li>
-<li><a href="https://windows11.techidaily.com/apples-next-gen-marvel-iphone-15-pro-vs-pro-max-showdown/"><u>Apple's Next-Gen Marvel: IPhone 15 Pro Vs. Pro Max Showdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts-for-2024/"><u>From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fuel-ambition-with-these-10-movie-masterpieces-for-2024/"><u>Fuel Ambition with These 10 Movie Masterpieces for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fundamentals-of-crafting-engaging-stories-for-2024/"><u>Fundamentals of Crafting Engaging Stories for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fundamentals-of-managing-volume-increase-in-projects-for-2024/"><u>Fundamentals of Managing Volume Increase in Projects for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fusing-youtube-beats-into-film-scenes-for-2024/"><u>Fusing YouTube Beats Into Film Scenes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gag-galore-a-treasury-of-no-cost-memes-for-2024/"><u>Gag Galore A Treasury of No-Cost Memes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-on-mastery-a-critical-review-of-kinemaster-for-android-gamers-2023-for-2024/"><u>Game On Mastery A Critical Review of KineMaster for Android Gamers 2023 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1720600542848-lost-files-found-now-expedited-stellar-data-provision/"><u>Lost Files Found Now - Expedited Stellar Data Provision</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/recover-lost-watch-visual-preview/"><u>Recover Lost Watch Visual Preview</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-deactivating-sticky-keys-in-windows-os/"><u>Step-by-Step Instructions for Deactivating Sticky Keys in Windows OS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-6-destinations-for-purchasing-quality-laptops/"><u>Top 6 Destinations for Purchasing Quality Laptops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-tech-savvy-ways-to-record-mac-lectures/"><u>[New] 2024 Approved Tech-Savvy Ways to Record Mac Lectures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-picks-the-best-10-photography-lenses/"><u>[New] Expert's Picks The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-stills-to-movement-mastery-with-polaroids-latest-tech/"><u>[New] From Stills to Movement Mastery with Polaroid's Latest Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-experiences-the-metaverse-explored-through-6-models/"><u>[New] Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-tactics-for-youtube-success-in-25-ways/"><u>[New] In 2024, Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-revenue-sharing-on-youtubes-trending-content/"><u>[New] Navigating Revenue Sharing on YouTube's Trending Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-art-of-cinematic-dying-in-pro-for-2024/"><u>[New] The Art of Cinematic Dying in Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exciting-vr-technologies-shaping-gaming/"><u>[Updated] Exciting VR Technologies Shaping Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-lut-sets-unlocked-dji-mini-air-2-in-the-spotlight/"><u>[Updated] Free LUT Sets Unlocked - DJI Mini, Air 2 in the Spotlight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-editing-with-blend-mode-innovations/"><u>[Updated] In 2024, Elevate Your Editing with Blend Mode Innovations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s/"><u>2024 Approved How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiast-revamps-faulty-lenovo-laptop-elevates-experience-with-premium-titanium-shell-and-clickity-click-mechanical-keys/"><u>Enthusiast Revamps Faulty Lenovo Laptop, Elevates Experience with Premium Titanium Shell & Clickity-Click Mechanical Keys</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-14-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 14 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>In 2024, Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-garmin-virb-ultra-30-your-companion-for-outdoor-capture/"><u>In 2024, Garmin VIRB Ultra 30 – Your Companion for Outdoor Capture</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-low-res-videos-into-stunning-hd-with-these-software/"><u>Updated Transform Low-Res Videos Into Stunning HD with These Software</u></a></li>
 </ul></div>
 

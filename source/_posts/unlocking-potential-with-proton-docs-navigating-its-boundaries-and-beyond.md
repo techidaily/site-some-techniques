@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond"
-date: 2024-12-12T17:40:13.912Z
-updated: 2024-12-15T19:40:10.911Z
+date: 2024-12-22T17:30:03.873Z
+updated: 2024-12-24T17:55:25.527Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ## Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![The document editor interface in Proton Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072812.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In my experience, generative text features are only useful if what you're writing needs to be predictable in content and sterile in tone. That's a rare need in my workflow and daily life, so I don't feel I'm missing much by using Proton Docs. Those menu options other apps have with the little "stars" icon that, for some reason, signifies generative AI have become an eyesore to me; there's nothing celestial about those tools.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
  Aside from that, I'm generally optimistic about the direction of the Proton suite. For about five years, [Proton's email](https://extra-guidance.techidaily.com/updated-maximizing-impact-with-googles-podcast-platform/) and VPN services have been mainstays for me. In that time I've had to stick to Google Docs when I needed a collaborative, cloud-based word processor. So I'm looking forward to using Proton Docs as an alternative, and without any pop-ups begging me to let a machine write for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Edit Documents With Proton
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![Screenshot of the Proton Drive menu with annotations pointing to the 'New' button and 'New Document' menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072723.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're then in the document edit mode and can start writing. You can also upload documents made in another editor and click "Open in Docs." There's no support for ODT documents yet, but again, there's still more to come with Proton Docs—just hopefully not involving generative AI.
@@ -68,15 +68,19 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-your-farming-game-to-immortal-status-with-these-7-14-mods-for-2024/"><u>[New] Elevate Your Farming Game to Immortal Status with These #7-14 Mods for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-enjoy-every-goal-the-free-football-broadcast-guide/"><u>[New] How to Enjoy Every Goal The FREE Football Broadcast Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-etiology-of-fetal-alcohol-syndrome/"><u>[New] In 2024, Etiology of Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmmaking-bliss-top-10-aspects-of-filmora-editing/"><u>[Updated] Filmmaking Bliss Top 10 Aspects of Filmora Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-to-make-a-mark-with-your-gopro-studio-edits/"><u>[Updated] Innovative Techniques to Make a Mark with Your GoPro Studio Edits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-selection-of-10-a-list-camera-lenses/"><u>Elite Selection of 10 A-List Camera Lenses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-harnessing-inshot-for-editing-for-2024/"><u>From Novice to Pro Harnessing Inshot for Editing for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g23-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G23 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/televising-digital-media-integrating-fb-video-for-2024/"><u>Televising Digital Media Integrating FB Video for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-htc-u23-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to HTC U23 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-optimizing-your-video-capture-with-screencastify/"><u>[New] 2024 Approved Optimizing Your Video Capture with Screencastify</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-selecting-your-digital-stage-the-comparative-analysis-of-igtv-and-youtube/"><u>[New] In 2024, Selecting Your Digital Stage The Comparative Analysis of IGTV & YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-10-online-tools-to-retrieve-youtube-graphics/"><u>[Updated] 2024 Approved 10 Online Tools to Retrieve YouTube Graphics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-asus-mg28uq-4k-monitor-review/"><u>[Updated] ASUS MG28UQ 4K Monitor Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-final-cut-pro-for-free/"><u>[Updated] How to Get Final Cut Pro for Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-capturing-minute-details-on-video/"><u>2024 Approved Expert Techniques for Capturing Minute Details on Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-heart-of-srt-in-depth/"><u>2024 Approved Exploring the Heart of SRT in Depth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-performance-mac-editors-ranked-1-to-5/"><u>2024 Approved High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-the-full-picture-of-facetunes-new-features/"><u>2024 Approved In-Depth Review The Full Picture of Facetune's New Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-detailed-look-at-successful-valheim-sowing/"><u>A Detailed Look at Successful Valheim Sowing</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c210-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C210? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-separation-to-symbiosis-logic-pro-x-audio-blending/"><u>In 2024, From Separation To Symbiosis Logic Pro X Audio Blending</u></a></li>
+<li><a href="https://extra-information.techidaily.com/one-airpod-not-working-how-to-fix-it/"><u>One Airpod Not Working How to Fix It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-intricacies-of-bass-management-systems-and-how-they-enhance-your-sound-experience/"><u>The Intricacies of Bass Management Systems and How They Enhance Your Sound Experience</u></a></li>
 </ul></div>
 

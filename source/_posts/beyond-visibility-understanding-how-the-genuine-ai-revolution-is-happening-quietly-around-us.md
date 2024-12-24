@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-12-12T21:19:54.172Z
-updated: 2024-12-15T18:20:59.347Z
+date: 2024-12-20T17:11:43.239Z
+updated: 2024-12-24T17:30:10.078Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ## Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -54,7 +54,7 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -82,20 +82,18 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>[New] In 2024, Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-tutorial-on-youtube-data-analysis-for-2024/"><u>[New] The Ultimate Tutorial on YouTube Data Analysis for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-perfect-green-screen-cinematography/"><u>2024 Approved Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-tools-for-efficient-screen-recording-on-windows-os/"><u>2024 Approved Free Tools for Efficient Screen Recording on Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>2024 Approved Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-the-powerhouse-that-is-dji-phantom-3/"><u>2024 Approved In-Depth Analysis The Powerhouse That Is DJI Phantom 3</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infuse-humor-in-content-simple-text-meme-creation/"><u>2024 Approved Infuse Humor in Content Simple Text Meme Creation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1724766835619-macx/"><u>公式 MacX ビデオコンバータプロ:入出力フォーマット・サポート及び動作環境詳細 - 技術ガイド</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-review-of-advanced-parrot-ar-drone-for-2024/"><u>Expert Review of Advanced Parrot AR Drone for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-frontier-top-360-cameras-for-industry-pros-2023-for-2024/"><u>Exploring the Frontier Top 360° Cameras for Industry Pros, 2023 for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>From Obscurity to Prominence How to Thrive in Youtube Streaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>In 2024, Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-vr-beyond-boundaries-top-tech-and-accessories-unveiled/"><u>In 2024, VR Beyond Boundaries Top Tech and Accessories Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-your-lenovos-malfunctioning-biometric-scanner/"><u>Step-by-Step Guide to Repair Your Lenovo's Malfunctioning Biometric Scanner</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/yuneecs-game-changer-typhoon-q500-for-2024/"><u>Yuneec's Game-Changer Typhoon Q500 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tep-by-step-process-for-free-youtube-video-texting/"><u>[New] Step-by-Step Process for FREE YouTube Video Texting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>[Updated] From Zero to Meme Hero Crafting Engaging GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-in-micro-cinematography/"><u>[Updated] Innovative Approaches in Micro Cinematography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>[Updated] Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-nord-n30-se-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Nord N30 SE FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmmaking-revolution-15-essential-gopro-luts-revealed-for-2024/"><u>Filmmaking Revolution 15 Essential GoPro LUTs Revealed for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2013-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2013 files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-10-best-sites-to-download-free-slideshow-templates-filmora/"><u>In 2024, 10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hunt-for-best-ringtone-deals-on-pixel-phones/"><u>In 2024, Hunt for Best Ringtone Deals on Pixel Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-increasing-interior-vibrancy-suns-role-inside/"><u>In 2024, Increasing Interior Vibrancy Sun's Role Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-for-fixing-discord-stream-interruptions/"><u>Resolved: Troubleshooting Steps for Fixing Discord Stream Interruptions</u></a></li>
 </ul></div>
 

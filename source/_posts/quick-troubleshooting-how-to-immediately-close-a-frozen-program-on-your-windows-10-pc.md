@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2024-12-10T20:28:15.856Z
-updated: 2024-12-15T16:48:46.571Z
+date: 2024-12-21T22:18:52.932Z
+updated: 2024-12-24T17:34:46.219Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ## Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Try a Keyboard Shortcut](https://instagram-clips.techidaily.com/the-key-to-viral-instagram-posts/)
@@ -18,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * [Force Quit an App Using Command Prompt](https://fox-links.techidaily.com/expertly-crafted-images-with-lut-techniques-in-photoshop-cs6-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Right-click the taskbar and select 'Task Manager.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-open-task-manager.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With Task Manager open, select the task you want to force quit and then select “End Task.”
@@ -59,26 +63,18 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
  The frozen program will now close.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Force Quit an App Using Command Prompt
 
  You can find and force quit tasks from the Command Prompt. [Open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing **cmd** in the Windows search bar, and then selecting the “Command Prompt” app from the search results.
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
@@ -90,6 +86,10 @@ taskkill /im <program>.exe
 taskkill /im notepad.exe
 
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
 
@@ -112,20 +112,18 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-behind-the-scenes-insights-for-instagram-story-audience-for-2024/"><u>[New] Behind the Scenes Insights for Instagram Story Audience for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[New] In 2024, From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-picking-prime-stream-services/"><u>[New] The Ultimate Guide to Picking Prime Stream Services</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-whos-at-the-apex-youtube-subscribers-ranking/"><u>[New] Who's at the Apex? YouTube Subscribers Ranking</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-four-pillars-of-mobile-video-acquisition-igtv-edition/"><u>[Updated] Four Pillars of Mobile Video Acquisition IGTV Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-a-seamless-google-podcast-upload-experience/"><u>2024 Approved Expert Tips for a Seamless Google Podcast Upload Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-magix-music-creators-capabilities/"><u>2024 Approved Exploring Magix Music Creator's Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-magix-vpxs-innovative-editing-capabilities/"><u>2024 Approved Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-notable-launching-a-trending-solo-show/"><u>2024 Approved From Novice to Notable Launching a Trending Solo Show</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-modeling-software-for-animation-professionals/"><u>2024 Approved Ideal Modeling Software for Animation Professionals</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/comprehensive-list-of-vimeo-downloader-utilities-for-2024/"><u>Comprehensive List of Vimeo Downloader Utilities for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-stunning-photos-on-iphones-for-2024/"><u>Expert Tips for Stunning Photos on iPhones for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders-for-2024/"><u>Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-record-internal-audio-on-android-video-or-gameplay/"><u>How to Record Internal Audio on Android [Video or Gameplay]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A78 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-end-handheld-video-gear-tops-list/"><u>[New] High-End Handheld Video Gear Tops List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-cards-for-ultra-hd-content-creation/"><u>[New] Ideal Cards for Ultra-HD Content Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>[New] Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>[Updated] How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-uncovering-elite-instagram-ringtones-and-crafting-an-astute-alarm-for-2024/"><u>[Updated] Uncovering Elite Instagram Ringtones and Crafting an Astute Alarm for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-methods-for-transferring-songs-from-an-ipod-to-a-personal-computer-pc/"><u>Effortless Methods for Transferring Songs From an iPod to a Personal Computer (PC)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-6-advanced-strategies-for-gif-artistry-for-2024/"><u>Expert Tips 6 Advanced Strategies for GIF Artistry for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-forward-frames-discover-the-top-smart-glasses-of-202/"><u>Future-Forward Frames: Discover the Top Smart Glasses of 202</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-wiring-your-laptop-to-display-on-television-using-an-hdmi-cable/"><u>Guide: Wiring Your Laptop to Display on Television Using an HDMI Cable</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/r2-pada-sistem-seriusan-yang-terbaru/"><u>R2 Pada Sistem Seriusan Yang Terbaru</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-giants-overview-understanding-facebook-twitter-instagram-and-youtube-impact/"><u>Social Giants Overview: Understanding Facebook, Twitter, Instagram & YouTube Impact</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/form-your-content-3-effective-techniques-for-youtube-reaction-magic-for-2024/"><u>Transform Your Content 3 Effective Techniques for YouTube Reaction Magic for 2024</u></a></li>
 </ul></div>
 

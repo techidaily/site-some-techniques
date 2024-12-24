@@ -1,7 +1,7 @@
 ---
 title: "Understanding Smart App Control in Windows 11: Activation Steps Explained"
-date: 2024-12-13T21:03:20.732Z
-updated: 2024-12-15T16:01:45.699Z
+date: 2024-12-19T20:19:16.659Z
+updated: 2024-12-24T16:43:34.972Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 ## Understanding Smart App Control in Windows 11: Activation Steps Explained
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  Let's explore how Smart App Control works, why it's turned off on some systems, and how to enable it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Smart App Control and How Does It Work?
 
  Smart App Control is a feature within Windows Security that provides protection against untrustworthy apps. When you try to run an app, SAC analyzes its credibility using Microsoft’s Intelligent Security Graph, a cloud-based security service. If the service is unable to make a confident prediction, it then checks the app for a valid signature (which identifies where the file originates from and if it's a trusted source).
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  Apps from known publishers or with valid signatures will run as expected. If not, the program is blocked. There’s no manual override option, nor can you add an app to an exemption list.
 
 !['Smart App Control has blocked this app' notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-app-blocking-notification.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft intends that SAC is only useable on a clean Windows installation. By doing so, Windows can ensure that all the apps installed on your computer are vetted by SAC, thus ensuring the devices' safety. If you received SAC as a part of a Windows 11 update, you'll need to [perform a factory reset](https://facebook-video-footage.techidaily.com/new-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels-for-2024/) or [clean install Windows 11](https://instagram-video-files.techidaily.com/new-2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/) before you can use it (unless you perform a registry tweak, explained below).
 
@@ -55,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ![Windows 11 Privacy & security settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-privay-security-screen.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Open Windows Security" to launch the Windows Security app.
 
 ![Windows 11 Settings app showing Open Windows Security option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-open-windows-security-option.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Windows Security, select the "App & Browser Control" tab. Then, beneath "Smart App Control", click "Smart App Control Settings".
 
@@ -94,7 +94,7 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 ![Windows 11 Registry Editor showing the 'VerifiedAndReputablePolicyState' value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-registry-editor-showing-smart-app-control-policy.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the "Value Data" field, type 1 to enable Smart App Control and click "OK" to save the changes. Alternatively, type 2 to put SAC in Evaluation mode, or 0 to turn it off. You need to relaunch the Windows Security app to apply the changes.
@@ -102,7 +102,7 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 ![Changing VerifiedAndReputablePolicyState value in Registry Editor to 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/changing-verifiedandreputablepolicystate-value-in-registry-editor-to-1-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Turn Off Smart App Control
@@ -117,13 +117,13 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 ![Windows Smart App Control settings to enable or disable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-security-smart-app-control-off-option-showing.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Read the confirmation prompt, then click "Yes, I'm Sure" to disable Smart App Control.
 
 ![Smart App Control confirmation screen when turning off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-off-confirmation-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -144,17 +144,21 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-insiders-guide-to-youtube-tv-features-and-functions/"><u>[Updated] In 2024, The Insider's Guide to YouTube TV Features & Functions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-realms-unchained-guide-to-the-best-of-no-cost-mmos/"><u>[Updated] Realms Unchained Guide to the Best of No-Cost MMOs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-digital-workforce-evolution-the-driving-force-behind-corporate-change/"><u>1. Digital Workforce Evolution: The Driving Force Behind Corporate Change</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbau-von-zahlungsverzogerungen-bei-metro-ag-schnellerer-transaktionsfluss-fur-grosshandler-bis-zu-90/"><u>Abbau Von Zahlungsverzögerungen Bei Metro AG: Schnellerer Transaktionsfluss Für Großhändler Bis Zu 90%</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-enhances-alliance-networks-for-advanced-public-sector-transformation/"><u>ABBYY Enhances Alliance Networks for Advanced Public Sector Transformation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-flexicapture-integration-tool-for-pegasystems-enterprise-solutions/"><u>ABBYY FlexiCapture Integration Tool for Pegasystems' Enterprise Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/budgetary-skynetting-massively-saving-cloud-data-costs/"><u>Budgetary SkyNetting Massively Saving Cloud Data Costs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-hp-scanning-software-compatible-with-windows/"><u>Download & Setup Guide: HP Scanning Software Compatible with Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-gionee-f3-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Gionee F3 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-thoroughly-wipe-iphone-data-securely-via-stellar-for-windows-and-mac-users/"><u>How to Thoroughly Wipe iPhone Data Securely via Stellar - For Windows & Mac Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-troubleshoot-avidemux-audio-problems-step-by-step-guide-2023/"><u>Updated In 2024, Troubleshoot Avidemux Audio Problems Step-by-Step Guide 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1724312721327-abbyy/"><u>ヘルスケア業界での効果的なプロセスマイニング技術 - ABBYYブログ</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficiently-shortening-youtube-content/"><u>[New] 2024 Approved Efficiently Shortening YouTube Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-proven-techniques-for-swiftly-locating-your-desired-discord-server/"><u>[New] 2024 Approved Proven Techniques for Swiftly Locating Your Desired Discord Server</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-your-imagination-a-look-at-the-leading-6-nft-makers/"><u>[New] Ignite Your Imagination - A Look at the Leading 6 NFT Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-cameras-for-high-stakes-athletics/"><u>[New] Innovative Cameras for High-Stakes Athletics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aster-the-art-of-yt-channel-creation-right-from-your-smartphone/"><u>[New] Master the Art of YT Channel Creation, Right From Your Smartphone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-most-acclaimed-cloud-services-on-android-platform-for-2024/"><u>[New] The Most Acclaimed Cloud Services on Android Platform for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-suggestions-prime-frame-addition-software-2023-update/"><u>[Updated] Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fcp-downloading-what-you-need/"><u>[Updated] Free FCP Downloading - What You Need</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-amateur-to-pro-elevating-your-hdr-portrait-skills/"><u>[Updated] From Amateur to Pro Elevating Your HDR Portrait Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gentle-fading-audio-paths-in-live/"><u>[Updated] Gentle Fading Audio Paths in Live</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-artistic-zoomers-handbook-a-filters-journey/"><u>[Updated] The Artistic Zoomer's Handbook A Filters Journey</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-visual-impact-insta-video-tips/"><u>[Updated] Unlocking Visual Impact Insta Video Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-adobe-photoshop-shake-reduction-is-it-really-useful/"><u>2024 Approved Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extreme-sports-face-off-comparing-hero5-black-to-session-for-2024/"><u>Extreme Sports Face-Off Comparing Hero5 Black to Session for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/generate-your-own-qr-codes-without-cost-a-step-by-step-guide/"><u>Generate Your Own QR Codes Without Cost: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Communication: Facebook, Twitter, Instagram, and YouTube</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot"
-date: 2024-12-14T19:15:29.705Z
-updated: 2024-12-15T16:00:28.270Z
+date: 2024-12-20T17:43:38.797Z
+updated: 2024-12-24T17:58:01.584Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 ## Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Rufus, the AI shopping assistant, is available on Android and iPhone mobile Amazon Shopping apps and provides product search suggestions.
@@ -19,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
  Amazon Prime Day is July 16-17th! I learn all about Rufus as the AI takes me Amazon shopping for toys, a Chromebook, and a fancy power station. If you want to grab the best deals, you'll want to get familiar with this helpful bot too!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Who Is Rufus?
 
  The original [Rufus (1994-2009)](https://www.amazon.com/gp/help/customer/display.html?nodeId=3711811&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) was a beloved Welsh Corgi who seems to have morphed into a bit of a legend at Amazon and is credited with starting Amazon's dog-friendly workplace culture. Released in February, Amazon's new AI shopping assistant is named in his honor. Rufus, the AI, is trained in Amazon's product catalog, customer reviews, and product Q & As.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Where Is Rufus?
 
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![A screenshot of the above prompt and Rufus' response. Only the suggestion of a large outdoor basketball hoop is shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_200000_amazon-shopping.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Follow-up Questions
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specific Product Searches
 
  Next, I wanted Rufus to help me make a power station wishlist for Prime Day. I've learned that [solar panels are cheap](https://technical-tips.techidaily.com/enjoy-roku-channels-anywhere-even-without-owning-a-roku-player-heres-how/) and plentiful. I have several. However, finding a [portable power station](https://some-approaches.techidaily.com/updated-the-pros-guide-to-conquering-photovideo-importers-in-win11/) that can collect and store a useful amount of solar power has been a challenge!
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
  My next prompt was "What is the most powerful portable power station for under $1000?" Rufus came through again. It made good suggestions about what to look for when shopping for power stations and suggested five products. Two of them have been on my wish list for some time.
 
 ![A screenshot of the prompt "What is the most powerful portable power station for under $1000" and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204656_amazon-shopping.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
 
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![A side-by-side screenshot of the Chrome book prompt and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204847_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Data Privacy and Security
@@ -86,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![Three screenshots that highlight the steps of tapping the three dots, tapping "Manage chat", and "Clear chat history".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_225642_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other Rufus Notes
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
  Rufus is advertised as an Amazon search assistant, and I found that to be accurate. It answers questions with product search suggestions instead of products, and will not give pricing information. When I asked Rufus for a price while looking at the product price on the product information screen, it still said it did not have access to real-time product data.
 
  Rufus access from a product information page will suggest questions you can ask about that product, not including the price. At this point, I think we're all familiar enough with Amazon's product pages to scroll to the Q & A's and product specifications quicker than we can access Rufus. However, as Rufus develops, this ability may progress into something more useful.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ![A screenshot of Rufus responding to a prompt with](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_213130_amazon-shopping-2.jpg) Prime Day Ready?
 
@@ -122,18 +122,22 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-harnessing-hashtag-magic-for-more-followers/"><u>[New] Harnessing Hashtag Magic for More Followers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-extracting-image-files-from-youtube-browser-based-os-techniques/"><u>[New] In 2024, Extracting Image Files From Youtube Browser-Based, OS Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-find-your-perfect-match-the-top-10-online-converters-list/"><u>[Updated] Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hidden-harmonics-discreetly-lowering-garageband-tones/"><u>[Updated] Hidden Harmonics Discreetly Lowering Garageband Tones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>[Updated] How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-insta-success-when-to-share-your-content-for-2024/"><u>[Updated] Unlocking Insta Success When to Share Your Content for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unveiling-effective-techniques-for-setting-up-and-gauging-fbs-instream-ads/"><u>2024 Approved Unveiling Effective Techniques for Setting Up and Gauging FB's Instream Ads</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-x-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone X Stuck On Activation Lock?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-cluttered-to-clear-a-canva-guide-for-borders-removal/"><u>In 2024, From Cluttered to Clear A Canva Guide for Borders Removal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>In 2024, Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-google-pixel-7a-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Google Pixel 7a? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avs-video-editor-a-detailed-look-at-its-features-and-performance/"><u>New In 2024, AVS Video Editor A Detailed Look at Its Features and Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-gzw-game-crashes-for-pc-users-tips-and-solutions/"><u>Troubleshooting GZW Game Crashes for PC Users - Tips & Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-every-frame-a-deep-dive-into-polaroids-xs-action-camera-for-2024/"><u>[New] Exploring Every Frame A Deep Dive Into Polaroid's XS Action Camera for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-10-free-high-quality-live-stream-apps-for-iphones-and-androids/"><u>[New] In 2024, Discover 10 Free, High-Quality Live Stream Apps for iPhones and Androids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimbal-mastery-7-drone-pros-recommended/"><u>[Updated] Gimbal Mastery 7 Drone Pros Recommended</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unmatched-3d-viewing-excellence-with-elite-decks-reviewed/"><u>[Updated] In 2024, Unmatched 3D Viewing Excellence with Elite Decks Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>[Updated] Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-design-your-own-logos-using-template-assets-free/"><u>2024 Approved Unleash Creativity Design Your Own Logos Using Template Assets (Free)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-windows-screen-capture-top-5-applications-reviewed-for-2024/"><u>Free Windows Screen Capture Top 5 Applications Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gif-to-png-online-konvertor-professioneel-werkvormige-opschreven-movavi/"><u>Gratuit GIF-to-PNG Online Konvertor: Professioneel Werkvormige Opschreven - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-quickly-modify-your-voice-for-gameplay-advantage-for-2024/"><u>How to Quickly Modify Your Voice for Gameplay Advantage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ifunny-meme-seamless-download-and-enjoyment-for-2024/"><u>IFunny Meme Seamless Download and Enjoyment for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-macro-photography-tips-and-tricks/"><u>In 2024, Expert iPhone Macro Photography Tips and Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-itel-p55plus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Itel P55+</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-scripts-for-audio-performances/"><u>In 2024, Ideal Scripts for Audio Performances</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-comparison-can-inshot-outshine-competitors-in-2024/"><u>In-Depth Comparison Can InShot Outshine Competitors, In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-media-with-extraearsound/"><u>Mastering Media with ExtraEarSound</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-audacitys-volume-dissipation-features/"><u>Navigating Audacity's Volume Dissipation Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/undo-youtubes-timeline-with-our-4-key-methods-for-2024/"><u>Undo YouTube's Timeline with Our 4 Key Methods for 2024</u></a></li>
 </ul></div>
 

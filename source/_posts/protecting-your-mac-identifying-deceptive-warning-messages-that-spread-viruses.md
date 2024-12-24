@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2024-12-10T00:07:04.406Z
-updated: 2024-12-15T18:14:02.330Z
+date: 2024-12-21T17:25:30.810Z
+updated: 2024-12-24T18:33:00.270Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ---
 
 ## Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Going On?
@@ -40,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Avoid This Happening Again
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  If you’ve turned the notifications feature off in your browser, you won’t see this problem again. Otherwise, make sure you are careful when allowing a website to send you notifications.
 
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
 
@@ -90,18 +90,18 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-cut-to-connect-advanced-editing-with-kinemaster/"><u>[New] From Cut to Connect Advanced Editing with Kinemaster</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-amplify-aesthetics-with-customized-canva-video-music/"><u>[New] In 2024, Amplify Aesthetics with Customized Canva Video Music</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-geniusedit-ai-precision-in-photo-mastery/"><u>[Updated] GeniusEdit AI Precision in Photo Mastery</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y27-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y27 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-guide-to-overcome-kernelbasedll-system-failures-now/"><u>Effortless Guide to Overcome KernelBase.dll System Failures - Now!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>In 2024, From Ordinary to Outstanding Making Effortless Slow-Motion Videos in Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gimp-ultimate-editing-course-review/"><u>In 2024, GIMP Ultimate Editing Course Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imaginary-giggles-generate-with-kapwings-maker/"><u>In 2024, Imaginary Giggles Generate with Kapwing's Maker</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>In 2024, Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/seamless-visuals-on-screen-zooming-into-clarity-for-2024/"><u>Seamless Visuals on Screen Zooming Into Clarity for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-financial-frontier-youtubes-pay-structure-at-the-1m-mark-for-2024/"><u>The Financial Frontier Youtube's Pay Structure at the 1M Mark for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-ipad-comparison-chart/"><u>The Ultimate iPad Comparison Chart</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-reality-more-than-meets-the-eye/"><u>Virtual Reality More than Meets the Eye</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elemental-concepts-in-kinetic-design-workflow/"><u>[New] 2024 Approved Elemental Concepts in Kinetic Design Workflow</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploration-of-distinct-video-camera-kinds/"><u>[New] Exploration of Distinct Video Camera Kinds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initial-steps-to-professional-motion-graphics/"><u>[New] Initial Steps to Professional Motion Graphics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-rated-3d-tools-for-youtube-video-startups/"><u>[Updated] Top-Rated 3D Tools for YouTube Video Startups</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-building-connections-through-collaborative-playlists/"><u>2024 Approved Building Connections Through Collaborative Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hands-of-honour-versus-followers-faith/"><u>2024 Approved Hands of Honour Versus Followers’ Faith</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-free-christian-ringtone-sources-for-2024/"><u>Finding Free Christian Ringtone Sources for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-5-v-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 5 V Phone without Google Account?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-where-to-download-christian-ringtones-and-how-to-customize-a-christian/"><u>In 2024, Where To Download Christian Ringtones And How To Customize A Christian</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-iphone-scaling-images-quickly/"><u>Mastering iPhone Scaling Images Quickly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-adobe-premiere-rush-vs-the-competition-top-4-alternatives/"><u>New In 2024, Adobe Premiere Rush Vs. The Competition Top 4 Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/wintvrecorder-effortless-free-live-tv-saving-software-for-2024/"><u>WinTVRecorder Effortless, FREE Live TV Saving Software for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2024-12-12T18:01:55.591Z
-updated: 2024-12-15T20:35:19.879Z
+date: 2024-12-17T16:58:18.689Z
+updated: 2024-12-24T16:59:22.782Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ## Guide: Implementing Windows 11 on Non-Certified Hardware with Ease
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 * [Registry Hack for Unsupported CPUs and/or Only TPM 1.2](https://mondly-stories.techidaily.com/linguistic-tools-portuguese-shortcuts-in-brazil-and-europe/)
 * [PCs With No TPM at All, No UEFI, or Other Major Problems](https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  To install Windows 11 on an unsupported PC, try making the PC supported by enabling TPM 2.0, Secure Boot, and switching to GPT. If those features cannot be enabled on your PC, you must use a few registry hacks to force Windows 11 to install.
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Should You Upgrade an Unsupported PC?
 
@@ -62,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benj Edwards / How-To Geek
 
 ##  How to Enable Secure Boot
@@ -99,6 +87,10 @@ Benj Edwards / How-To Geek
 
 Benj Edwards / How-To Geek
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Fix No UEFI (MBR Instead of GPT)
 
  Windows 11 requires UEFI. Some older computers offer both modes: UEFI firmware or a traditional legacy BIOS. If you are currently using a "traditional" MBR partitioning setup but your PC does offer UEFI as an option, you will have to switch to [a GPT partition table](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/) to use UEFI.
@@ -108,7 +100,7 @@ Benj Edwards / How-To Geek
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
@@ -139,6 +131,10 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Enter &quot;1&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/set-registry-value.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Want to skip the registry-editing process? Download our [Enable Unsupported Upgrades registry hack](https://driver-error.techidaily.com/device-seeks-additional-resources-for-operation/) to perform the change in just a few clicks.
 
  This downloadable ZIP file contains two [REG files](https://tech-revival.techidaily.com/diagnosing-and-resolving-interface-issues-chatgpts-trouble-with-plugin-connectivity/): One that enables upgrades on unsupported PCs (Enable Unsupported Upgrades.reg) and one that reverts the change (Undo Enable Unsupported Upgrades.reg). Just double-click the "Enable Unsupported Upgrades.reg" file and agree to add the information to your registry. If you want to undo your change, double-click the Undo file.
@@ -146,6 +142,10 @@ AllowUpgradesWithUnsupportedTPMOrCPU
  These files work in the same way as the above registry hack — they just set the "AllowUpgradesWithUnsupportedTPMOrCPU" value to "1" (to enable unsupported upgrades) or "0" (to revert to the default setting).
 
 ![Double-click the REG file and click &quot;Yes&quot; to agree.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/reg-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To ensure the change takes effect, reboot your PC before continuing.
 
@@ -180,16 +180,18 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-slides-to-cinematic-content/"><u>[Updated] Streamline Slides to Cinematic Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>2024 Approved Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-website-engagement-with-powerful-cookiebot-technology/"><u>Enhancing Website Engagement with Powerful Cookiebot Technology</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-the-most-recent-drivers-for-your-brother-laser-printer-model-hl-l2350dw/"><u>Find & Install the Most Recent Drivers for Your Brother Laser Printer Model HL-L2350DW</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fortschritt-und-innovation-in-der-zukunft-von-handelskredit-herausforderungen-and-strategien/"><u>Fortschritt Und Innovation in Der Zukunft Von Handelskredit - Herausforderungen & Strategien</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-cookiebot-for-streamlined-advertising-campaigns/"><u>Harnessing the Power of Cookiebot for Streamlined Advertising Campaigns</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-expertly-curated-green-screen-gear-list/"><u>In 2024, Expertly Curated Green Screen Gear List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-automatisierung-von-dokumentenverarbeitung-in-berlins-stadtreinigungseinrichtungen/"><u>Innovative Automatisierung Von Dokumentenverarbeitung in Berlin's Stadtreinigungseinrichtungen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leveraging-ai-abbyys-educational-presentation-at-the-2018-aiim-convention/"><u>Leveraging AI: ABBYY's Educational Presentation at the 2018 AIIM Convention</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/mlined-process-adding-youtube-videos-into-slate-decks-for-2024/"><u>Streamlined Process Adding YouTube Videos Into Slate Decks for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformation-facile-et-gratuite-des-fichiers-mod-aux-formats-mov-sur-le-web-guide-videos-convertisseurs/"><u>Transformation Facile Et Gratuite Des Fichiers MOD Aux Formats MOV Sur Le Web - Guide Vidéos Convertisseurs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-temporal-displacement-effects/"><u>[New] Innovating Temporal Displacement Effects</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-approaches-to-documenting-facetime-talks-for-2024/"><u>[New] Innovative Approaches to Documenting FaceTime Talks for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-noble-mic-necessities-for-youtube-newbies-on-the-cheap/"><u>[New] Noble Mic Necessities for YouTube Newbies on the Cheap</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-pace-essential-strategies-to-create-engaging-slow-motion-videos-and-images-for-instagram-audiences/"><u>[New] Perfect Pace Essential Strategies to Create Engaging Slow Motion Videos and Images for Instagram Audiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-best-5-gif-to-video-converter-online-no-need-to-download/"><u>[Updated] Best 5 GIF to Video Converter Online [No Need to Download]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-insights-the-ultimate-10-secret-canva-tricks/"><u>[Updated] Inside Insights The Ultimate 10 Secret Canva Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-escapade-experiences-the-finest-action-adventure-gems-for-2024/"><u>Elite Escapade Experiences The Finest Action-Adventure Gems for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g24-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G24 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oneplus-11r-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From OnePlus 11R to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovations-in-motion-capture-for-enhanced-ux-for-2024/"><u>Innovations in Motion Capture for Enhanced UX for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-ai-tools-to-spark-your-podcast-written-name-for-2024/"><u>Innovative AI Tools to Spark Your Podcast' Written Name for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-boot-your-windows-11-to-fix-anydesk/"><u>Re-Boot Your Windows 11 to Fix AnyDesk</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-slovak-speech-one-quick-session-at-a-time/"><u>Unlock Slovak Speech, One Quick Session at a Time!</u></a></li>
 </ul></div>
 

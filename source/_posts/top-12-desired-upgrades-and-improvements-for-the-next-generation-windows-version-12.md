@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-12-11T22:16:32.630Z
-updated: 2024-12-15T18:10:00.504Z
+date: 2024-12-18T22:19:28.759Z
+updated: 2024-12-24T20:19:33.541Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ---
 
 ## Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
  It feels like Windows 11 was just released yesterday, but there is good reason to believe Windows 12 will be released in 2024 or 2025\. Here are some things we'd love to see included in Windows 12.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Finish the Settings App and Remove Control Panel
 
  The modern Settings app has been present in Windows since the days of Windows 8, but it still doesn’t contain everything that Control Panel does.
@@ -37,11 +45,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Expand Phone Link's Usefulness
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
  We’re not likely to ever see that ease of use and depth of integration. However, while we’re wishing, we’d like to see all the features Phone Link supports (like screen mirroring) available on all Android devices, not just a select few Samsung phones.
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
 
@@ -63,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
@@ -96,6 +104,10 @@ Andrew Heinzman / How-To Geek
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -104,23 +116,19 @@ Andrew Heinzman / How-To Geek
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Better Control Over the Start Menu
 
  The Windows 11 Start menu has proven to be as divisive as it is different. We don’t expect a complete reversal in Windows 12, but more control would be a very welcome change.
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Xbox App Needs a Rework
 
@@ -130,10 +138,6 @@ Andrew Heinzman / How-To Geek
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Better Device Backup Options in Windows Backup
 
  Windows has a few different backup features these days, the most prominent of which is Windows Backup. There is also [File History](https://win-able.techidaily.com/cyberpunk-2077-on-pc-solved-crashing-problems-and-how-to-prevent-them-in-the-future/) and the legacy Backup and Restore Tool, which you may remember from older versions of Windows.
@@ -142,10 +146,6 @@ Andrew Heinzman / How-To Geek
 
 1. It needs to have a local backup option, with support for local “Restore from Backup” functionality. Currently, you're limited by how much OneDrive storage you have.
 2. Users need more control over which files and folders are included in the backup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Improve Windows Start Search
 
@@ -182,19 +182,18 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ranking-macs-best-rated-sniping-programs/"><u>[New] In 2024, Ranking Mac's Best-Rated Sniping Programs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-20-most-memorable-anime-series-intros/"><u>[Updated] In 2024, 20 Most Memorable Anime Series Intros</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/como-resolver-el-problema-del-no-encuentro-del-elemento-historial-en-windows-10-actualizado/"><u>Cómo Resolver El Problema Del No Encuentro Del Elemento Historial en Windows 10 Actualizado</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-instructions-to-upgrade-your-surface-dock-driver-today/"><u>Effortless Instructions to Upgrade Your Surface Dock Driver Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-learning-to-utilize-burst-mode-for-high-speed-photography/"><u>In 2024, Learning to Utilize Burst Mode for High-Speed Photography</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-11-audio-devices-for-professionals/"><u>Innovative 11 Audio Devices for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/kluft-zwischen-executives-und-managern-bedroht-erfolgreiche-digitale-umstrukturierung-ergebnisse-von-abbey-studien/"><u>Kluft Zwischen Executives Und Managern Bedroht Erfolgreiche Digitale Umstrukturierung: Ergebnisse Von ABBEY-Studien</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/limpact-de-la-technologie-abbyy-sur-la-strategie-de-c-croissance-rapide-de-nickel-en-france/"><u>L'Impact De La Technologie ABBYY Sur La Stratégie De C Croissance Rapide De Nickel en France</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-abbyys-artificial-intelligence-a-comprehensive-tutorial-on-merging-computer-vision-with-llms/"><u>Mastering ABBYY's Artificial Intelligence: A Comprehensive Tutorial on Merging Computer Vision with LLMs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-cloud-defense-strategies-critical-protocols-for-businesses-as-recommended-by-experts-at-abbyy/"><u>Navigating Cloud Defense Strategies: Critical Protocols for Businesses as Recommended by Experts at ABBYY</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-the-web-discovering-your-perfect-page/"><u>Navigating the Web - Discovering Your Perfect Page</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-asus-monitor-drivers-start-here/"><u>Seamless Installation of ASUS Monitor Drivers - Start Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-slack-alerts-directly-on-your-apple-watch-a-step-by-step-guide/"><u>Setting Up Slack Alerts Directly on Your Apple Watch - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-cod-vanguard-error-code-0x00001338-on-windows-detailed-instructions/"><u>Ultimate Fix for CoD Vanguard Error Code 0X00001338 on Windows - Detailed Instructions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-professional-camera-spin-360-edition-2023/"><u>[New] 2024 Approved Mastering Professional Camera Spin 360° Edition, 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-20plus-funny-memes-of-virtual-universes/"><u>[New] Exploring 20+ Funny Memes of Virtual Universes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[New] From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>[New] From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-players-picks-unveiling-our-top-10-adventure-classics-for-2024/"><u>[New] Players' Picks Unveiling Our Top 10 Adventure Classics for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rivia-trek-exploring-yts-fascinating-figures-and-infographics/"><u>[New] Trivia Trek Exploring YT's Fascinating Figures and Infographics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-examining-updates-the-2023-samsung-bd-j5900/"><u>[Updated] Examining Updates The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>[Updated] From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-res-videos-2024s-finest-camcorders-ranked/"><u>[Updated] High-Res Videos 2024'S Finest Camcorders Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-most-effective-web-subtitle-editors/"><u>[Updated] Unveiling the Most Effective Web Subtitle Editors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-elevating-your-smartphone-photography-with-an-apple-tabletphone/"><u>Expert Tips: Elevating Your Smartphone Photography with an Apple Tablet/Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-av1-coders/"><u>In 2024, First Steps in AV1 Coders</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-facebook-papers-arent-as-damning-as-they-seem-heres-why/"><u>The Facebook Papers Aren't as Damning as They Seem. Here's Why</u></a></li>
 </ul></div>
 

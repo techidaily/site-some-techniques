@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows"
-date: 2024-12-12T20:25:48.892Z
-updated: 2024-12-15T19:07:59.374Z
+date: 2024-12-20T16:35:34.070Z
+updated: 2024-12-24T17:05:03.035Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 ## Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * [How to Bring Your Missing Drive Online](https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-by-drfone-ios/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c452aa264cd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c452aa264cd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before we proceed, we want to appropriately warn you: Do not play around in Disk Management. Although the task we're about to perform is very straightforward and simple to do, if you muck around with this tool you will have a very bad time. Double check every step. Make sure you're selecting the correct disk, or you can lose lots of data.
 
  Disk Management will likely detect that you have a new drive and prompt you to initialize it. You should pick GPT if this option appears, then click "OK." 
@@ -64,23 +60,19 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
  Right click on the name portion of the disk entry, where it says "Disk \[#\]", and select "Initialize Disk" from the right-click context menu.
 
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click "OK" and you'll be returned to the main Disk Management window. There you'll find that your disk is now labeled "Basic" and "Online" on the left, but the contents are still "unallocated". Right click on the striped box presenting the unallocated drive space. Select "New Simple Volume".
 
@@ -90,9 +82,17 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45c8fc3c3e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c8fc3c3e.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the second step, assign a drive letter. The default is probably fine.
 
 ![img_57c45d02176de](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d02176de.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, format the volume. If you're using the volume for routine computing tasks (storing photos, video games, etc.) there's no real need to deviate from the default NTFS file system and settings. Curious about the differences between file systems and why you might use the different options? We've [got you covered](https://extra-approaches.techidaily.com/seamless-multi-screen-browsing-in-chrome-using-pip-for-2024/). Give your volume a name, click "Next", and wait for the format process to finish.
 
@@ -119,21 +119,16 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-window-snapshots-in-windows-3-methods-for-2024/"><u>[New] Unlocking Window Snapshots in Windows (3 Methods) for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>[Updated] 2024 Approved Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>2024 Approved Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixels-melodic-matches-and-personalization/"><u>2024 Approved Pixel's Melodic Matches and Personalization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/50-der-deutschen-bevolkerung-bevorzugen-es-unbeliebte-arbeiten-an-roboter-zu-delegieren/"><u>50% Der Deutschen Bevölkerung Bevorzugen Es, Unbeliebte Arbeiten an Roboter Zu Delegieren</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-and-amedia-unite-to-develop-innovative-ocr-reader-app-tailored-for-vision-challenged-users/"><u>ABBYY and Amedia Unite to Develop Innovative OCR Reader App Tailored for Vision-Challenged Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-online-platform-use-policy-binding-legal-framework-with-integrated-gdpr-provisions-for-user-privacy-and-data-security/"><u>ABBYY Online Platform Use Policy - Binding Legal Framework with Integrated GDPR Provisions for User Privacy and Data Security</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-ensure-optimal-performance-updating-samsung-phones-usb-drivers/"><u>How to Ensure Optimal Performance: Updating Samsung Phone's USB Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-ghost-runner-crashes-effective-fixes-for-windows-11-users/"><u>Overcoming 'Ghost Runner' Crashes: Effective Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photographic-precision-optimal-websites-and-tools-for-frame-upgrades/"><u>Photographic Precision Optimal Websites and Tools for Frame Upgrades</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/raycon-everyday-professional-headphones-evaluation-excellent-battery-duration-lacks-additional-features/"><u>Raycon Everyday Professional Headphones Evaluation: Excellent Battery Duration Lacks Additional Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/revolutionizing-the-cfos-desk-costain-enhances-financial-operations-with-abbyys-advanced-analytics/"><u>Revolutionizing the CFO's Desk: Costain Enhances Financial Operations with ABBYY's Advanced Analytics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/serbia-welcomes-abbyys-cutting-edge-development-hub-advancing-intelligent-automation-solutions/"><u>Serbia Welcomes ABBYY's Cutting-Edge Development Hub, Advancing Intelligent Automation Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/streamlining-cancer-tracking-at-usc-automated-record-systems-meet-precision-with-abbyy-compliance-tools/"><u>Streamlining Cancer Tracking at USC: Automated Record Systems Meet Precision with ABBYY Compliance Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/switch-wincalc-visuals-to-darker-tones/"><u>Switch WinCalc Visuals To Darker Tones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-executive-move-adrian-jones-takes-on-the-role-of-abbyys-chief-revenue-officer/"><u>Top Executive Move: Adrian Jones Takes on the Role of ABBYY's Chief Revenue Officer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-when-worlds-crumble-premium-guide-to-top-zombie-games/"><u>[New] 2024 Approved When Worlds Crumble Premium Guide to Top Zombie Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-4k-monitors-1-10-rankings/"><u>[New] Finding the Best 4K Monitors #1-10 Rankings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focus-sharpening-a-selective-approach-to-photos/"><u>[Updated] Focus Sharpening A Selective Approach to Photos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-food-frenzy-on-tiktok-15-recipe-hits-worth-a-try/"><u>[Updated] Food Frenzy on TikTok 15 Recipe Hits Worth a Try</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-premiere-pro-full-screen-magic/"><u>[Updated] Unlocking Premiere Pro Full-Screen Magic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computer-components-by-toms-gear-guides/"><u>Expert Insights on Computer Components by Tom's Gear Guides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-dynamics-review-2023-for-2024/"><u>Full Dynamics Review 2023 for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-asmrists-praised-by-insomniacs/"><u>In 2024, Expert ASMRists Praised by Insomniacs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scour-these-10-vectors-websites-for-exceptional-quality-for-2024/"><u>Scour These 10 Vectors Websites for Exceptional Quality for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/skype-learning-logs-for-2024/"><u>Skype Learning Logs for 2024</u></a></li>
 </ul></div>
 

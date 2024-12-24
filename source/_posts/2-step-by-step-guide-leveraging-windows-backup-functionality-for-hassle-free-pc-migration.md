@@ -1,7 +1,7 @@
 ---
 title: "2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration"
-date: 2024-12-13T23:28:51.148Z
-updated: 2024-12-15T20:58:35.437Z
+date: 2024-12-18T20:05:09.354Z
+updated: 2024-12-24T20:02:57.561Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 ## 2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 * [Step 2: Manage Your Backup Settings](https://facebook-video-recording.techidaily.com/new-2024-approved-step-into-the-rhythm-of-social-video-editing-with-music/)
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
 
@@ -72,11 +64,19 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
@@ -89,11 +89,11 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
- Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
 ##  Step 4: Restore to Your New PC
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
@@ -128,20 +128,14 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-essential-apps-for-professional-video-editing-on-androidpc/"><u>[Updated] 2024 Approved Essential Apps for Professional Video Editing on Android/PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovators-defining-the-future-of-virtual-realms/"><u>[Updated] 2024 Approved Innovators Defining the Future of Virtual Realms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-beginners-blueprint-for-youtube-gear/"><u>[Updated] In 2024, The Beginner's Blueprint for YouTube Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-instructions-setting-up-wm6/"><u>2024 Approved Expert Instructions Setting Up WM6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-psd-overhaul-techniques/"><u>2024 Approved Expert PSD Overhaul Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-on-sharing-colossal-video-content-ios-to-mac-connection/"><u>2024 Approved Expert Tips on Sharing Colossal Video Content IOS to Mac Connection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-upside-down-world-of-instagram-videos/"><u>2024 Approved Exploring the Upside-Down World of Instagram Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrators-dream-top-8-ipados-drawers/"><u>2024 Approved Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/feast-filming-101-essential-food-videography-skills-for-2024/"><u>Feast Filming 101 Essential Food Videography Skills for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flip-through-twitch-feeds-without-pause-for-2024/"><u>Flip Through Twitch Feeds Without Pause for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-secrets-selective-story-watching/"><u>In 2024, Instagram's Secrets - Selective Story Watching</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpts-character-threshold-for-extended-conversations/"><u>Overcoming ChatGPT's Character Threshold for Extended Conversations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-science-of-space-how-layout-affects-professional-effectiveness-for-2024/"><u>The Science of Space How Layout Affects Professional Effectiveness for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlock-instagrams-hidden-features-voice-modification/"><u>Unlock Instagram's Hidden Features Voice Modification</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-behind-the-scenes-look-at-creating-dynamic-facebook-reels/"><u>[New] Behind-the-Scenes Look at Creating Dynamic Facebook Reels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-download-screen-recorder-pro-for-windows-10/"><u>[Updated] In 2024, Download Screen Recorder Pro for Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-of-best-5-sd-cards-for-gopro-hero-cameras/"><u>2024 Approved Exclusive Listing of Best 5 SD Cards for GoPro HERO Cameras</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-the-thrill-essential-recording-tips-for-overwatch-for-2024/"><u>Capture the Thrill Essential Recording Tips for Overwatch for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-gaming-with-an-updated-asus-radeon-rx-970-pro/"><u>Enhance Your Gaming with an Updated Asus Radeon RX 970 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-and-easy-explore-the-top-webm-video-tools-for-2024/"><u>Free and Easy Explore the Top WebM Video Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-maximize-ios-podcast-features-for-2024/"><u>How to Maximize iOS Podcast Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>In 2024, Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-15-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 15 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
 </ul></div>
 

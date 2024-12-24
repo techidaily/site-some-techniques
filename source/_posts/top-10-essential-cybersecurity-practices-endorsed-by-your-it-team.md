@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2024-12-10T23:40:03.847Z
-updated: 2024-12-15T16:31:37.113Z
+date: 2024-12-22T18:46:50.734Z
+updated: 2024-12-24T17:20:23.804Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Learn How to use Windows and Your Other Software And Devices](https://digital-screen-recording.techidaily.com/new-in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/)
 * [Don't Panic!](https://ios-unlock.techidaily.com/resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To keep your accounts and devices secure, do not open links in suspicious emails and pay attention to security warnings.
@@ -32,27 +36,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
 
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
@@ -69,6 +61,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep Your Work and Private Life Separate
 
@@ -90,10 +86,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  The best way to do this is to contact them via another communication method. If you receive a suspicious email from a known address, give that person a call directly to confirm that they've asked. If you receive an odd phone call claiming to be from someone you know, hang up and drop them a WhatsApp to check if they made the call before calling them back.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Don't Download Strange Software or Attachments, and never Run Macros
 
  Viruses masquerading as legitimate downloads are everywhere on the Internet, just waiting for someone to click on them. Avoid unknown sources of apps and stick to Apple, Android, and Windows App stores whenever you can.
@@ -101,12 +93,16 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
@@ -119,12 +115,16 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
 
@@ -147,21 +147,22 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-deciphering-sharex-comparisons-and-replacements/"><u>[New] 2024 Approved Deciphering ShareX Comparisons & Replacements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-game-on-mobile-funimate-apk-setup-simplified/"><u>[New] Game On Mobile Funimate APK Setup Simplified</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-implementing-soft-decline-in-logic-pro-audio/"><u>[New] Implementing Soft Decline in Logic Pro Audio</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>[Updated] 2024 Approved Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-discover-top-rated-xbox-extra-gb-drives/"><u>[Updated] Discover Top-Rated Xbox Extra GB Drives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>[Updated] Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-premium-cameras-a-2024-guide/"><u>[Updated] Exploring Premium Cameras A 2024 Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fixing-iphones-persistent-out-of-focus-photos/"><u>[Updated] Fixing iPhone's Persistent Out-of-Focus Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improving-professional-collaboration-with-strategic-office-planning/"><u>[Updated] Improving Professional Collaboration with Strategic Office Planning</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-graphics-relic-package/"><u>[Updated] In 2024, Graphics Relic Package</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles-for-2024/"><u>From Invisible to Iconic Top Strategies for Standout Facebook Profiles for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hands-on-test-drive-unboxing-and-exploring-the-samsung-galaxy-budsplus/"><u>Hands-On Test Drive: Unboxing and Exploring the Samsung Galaxy Buds+</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-xs-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone XS Passcode not Working?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-non-vid-based-self-education-success/"><u>In 2024, Tips for Non-Vid Based Self-Education Success</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ters-launchpad-7-funny-video-frameworks-for-comedians-for-2024/"><u>Laughter's Launchpad 7 Funny Video Frameworks for Comedians for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-bargains-on-high-performance-laptops-this-fall-season-october-2-cuyote-exclusives/"><u>Ultimate Guide: Bargains on High-Performance Laptops This Fall Season (October 2 Cuyote) Exclusives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-create-edges-of-images-with-rotational-softness-blend-psx/"><u>[New] In 2024, Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-most-reliable-zero-price-online-photo-editors-guide/"><u>[New] In 2024, The Most Reliable Zero-Price Online Photo Editors Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixed-how-do-i-convert-zip-file-into-srt-file/"><u>[Updated] [Fixed!] How Do I Convert Zip File Into Srt File?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-storage-space-for-bulk-movie-files-64128gb/"><u>2024 Approved Examining Storage Space for Bulk Movie Files, 64/128Gb</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-14-examples-of-moving-text-art/"><u>2024 Approved Innovative 14 Examples of Moving Text Art</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932756-9781906999704-anthroposophy/"><u>Anthroposophy | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-no-more-freezes-game-performance-improved/"><u>Cyberpunk 2077 No More Freezes - Game Performance Improved</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-ordinary-to-stunning-a-guide-to-hdr-portraits-for-2024/"><u>From Ordinary to Stunning A Guide to HDR Portraits for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hear-the-game-of-thrones-in-your-phone-top-sites-listed-for-2024/"><u>Hear the Game of Thrones in Your Phone - Top Sites Listed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-groundbreaking-films-in-the-vr-world/"><u>In 2024, Groundbreaking Films in the VR World</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-13-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 13 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-import-music-to-inshot-app/"><u>In 2024, How to Import Music to Inshot App?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>In 2024, Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/intova-x-visionary-action-camera-unveiled-today-for-2024/"><u>Intova X Visionary Action Camera Unveiled Today for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-13-pro-5-ways-to-get-into-a-locked-iphone-13-pro-by-drfone-ios/"><u>Locked Out of iPhone 13 Pro? 5 Ways to get into a Locked iPhone 13 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-actual-fix-for-exporting-srt-from-premiere-not-working-for-2024/"><u>The Actual Fix for Exporting SRT From Premiere Not Working for 2024</u></a></li>
 </ul></div>
 

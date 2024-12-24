@@ -1,7 +1,7 @@
 ---
 title: "\"[New] GoPro Karma Demystified  A Comprehensive Look\""
-date: 2024-07-26T15:53:08.932Z
-updated: 2024-07-27T15:53:08.932Z
+date: 2024-12-23T17:48:45.765Z
+updated: 2024-12-24T20:25:59.177Z
 tags: 
   - screen-recording
   - ai video
@@ -28,194 +28,6 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
-
- The rerelease of the Karma drone has fixed the battery removal issue by adding in auxiliary latches which secure the battery in the future. This was the only major change that GoPro made originally but the newest version includes a number of additional features as well.
-
- Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
-
-## Pros and cons of GoPro Karma
-
-**Pros**
-
-* Good image quality thanks to GoPro Hero5 4k action camera: With a drone that was designed around an already excellent camera, this is definitely a product that is created with the imaging in mind first.
-* Stabilization: The stabilization package has definitely improved not only the silent running of the drone but the way that it controls in the air.
-* Tight controls: The controls on this device are extremely tight and this means it's quite easy to get around in small places or even keep full control on the drone as it's flying in indoor spaces.
-* Portable: The GoPro Karma also has a fold up design which keeps it extremely portable and perfect for fitting in any type of backpack or for taking with you for travel. Just as you would pack along any type of GoPro camera, this is a drone that fits well into luggage or for any type of vacation.
- **Cons:**
-* Lacks if collision detection: The GoPro Karma did not come with any type of collision detection, autonomous flight control, auto landing function or helpful features that can make flying easier.
-* Short battery life: The other negative aspect of the drone is that even with the improvements to secure the battery the drone comes with a relatively short battery life. If you are looking to get a lot of images from this drone it features just a very short flight time. With zero collision detection or extra features with the computer there are more intelligent drones available on the market that can also boast a [longer battery life](https://tools.techidaily.com/wondershare/filmora/download/)
-**Verdict**
-
- The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Detailed review for GoPro Karma
-
-#### 1\.  Price
-
- Karma without a GoPro Camera: $799
-
- Karma with a GoPro Hero5 Session Camera: $999
-
- Karma with a GoPro Hero5 Balck Camera: $1099
-
-#### 2\.  Design
-
- The GoPro Karma drone design is really built to house the camera rather than produce a drone that is simple and intuitive to fly. Although the flight performance is fairly good for its automatic shooting modes, it can be pretty tough to pilot the drone without a bit of practise. The design is quite resilient and lightened which keeps this drone extremely portable.
-
-#### 3\.  Battery and flight time
-
- The battery life of the GoPro Karma is one of the weakest points of this drone there are many other drones in a similar price point including the DJI mavic that can stay in the sky for over 25 min. with a wealth of other intelligent controls and a similar shooting quality. With a flight time estimated at 20 min. from the 5100 mAH battery, most test flights last around 17 minutes. The drone takes at least an hour to recharge and the controller and grip also need to be regularly charged in order to maintain connection with the device.
-
-#### 4\.  Flight performance
-
- The flight performance of this drone is basically added best when the drone is placed in one of 4 of the automatic shooting modes. The GoPro doesn't have that many when compared to some of the competition and they are really just the option to shoot ahead, shoot on fixed point with the drone moving, shooting on a point of reveal as well as shooting in an orbit around a subject.
-
-**Four modes**
-
- Orbit: In this mode, the drone will orbit around a fixed subject.
-
- Dronie: In this mode, you can take a selfie while the drone zooms out and away from you.
-
- Reveal: In this mode, Karma will fly towards a subject and slowly rotate the camera gimbal up to the horizon.
-
- Cable Cam: In this mode, you can set two points in the sky and then make the drone fly back and forth between those points over and over again.
-
-#### 5\.  Controller
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
-
- One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
-
-#### Conclusion
-
-Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
-
-![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
-
- The rerelease of the Karma drone has fixed the battery removal issue by adding in auxiliary latches which secure the battery in the future. This was the only major change that GoPro made originally but the newest version includes a number of additional features as well.
-
- Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Pros and cons of GoPro Karma
-
-**Pros**
-
-* Good image quality thanks to GoPro Hero5 4k action camera: With a drone that was designed around an already excellent camera, this is definitely a product that is created with the imaging in mind first.
-* Stabilization: The stabilization package has definitely improved not only the silent running of the drone but the way that it controls in the air.
-* Tight controls: The controls on this device are extremely tight and this means it's quite easy to get around in small places or even keep full control on the drone as it's flying in indoor spaces.
-* Portable: The GoPro Karma also has a fold up design which keeps it extremely portable and perfect for fitting in any type of backpack or for taking with you for travel. Just as you would pack along any type of GoPro camera, this is a drone that fits well into luggage or for any type of vacation.
- **Cons:**
-* Lacks if collision detection: The GoPro Karma did not come with any type of collision detection, autonomous flight control, auto landing function or helpful features that can make flying easier.
-* Short battery life: The other negative aspect of the drone is that even with the improvements to secure the battery the drone comes with a relatively short battery life. If you are looking to get a lot of images from this drone it features just a very short flight time. With zero collision detection or extra features with the computer there are more intelligent drones available on the market that can also boast a [longer battery life](https://tools.techidaily.com/wondershare/filmora/download/)
-**Verdict**
-
- The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-## Detailed review for GoPro Karma
-
-#### 1\.  Price
-
- Karma without a GoPro Camera: $799
-
- Karma with a GoPro Hero5 Session Camera: $999
-
- Karma with a GoPro Hero5 Balck Camera: $1099
-
-#### 2\.  Design
-
- The GoPro Karma drone design is really built to house the camera rather than produce a drone that is simple and intuitive to fly. Although the flight performance is fairly good for its automatic shooting modes, it can be pretty tough to pilot the drone without a bit of practise. The design is quite resilient and lightened which keeps this drone extremely portable.
-
-#### 3\.  Battery and flight time
-
- The battery life of the GoPro Karma is one of the weakest points of this drone there are many other drones in a similar price point including the DJI mavic that can stay in the sky for over 25 min. with a wealth of other intelligent controls and a similar shooting quality. With a flight time estimated at 20 min. from the 5100 mAH battery, most test flights last around 17 minutes. The drone takes at least an hour to recharge and the controller and grip also need to be regularly charged in order to maintain connection with the device.
-
-#### 4\.  Flight performance
-
- The flight performance of this drone is basically added best when the drone is placed in one of 4 of the automatic shooting modes. The GoPro doesn't have that many when compared to some of the competition and they are really just the option to shoot ahead, shoot on fixed point with the drone moving, shooting on a point of reveal as well as shooting in an orbit around a subject.
-
-**Four modes**
-
- Orbit: In this mode, the drone will orbit around a fixed subject.
-
- Dronie: In this mode, you can take a selfie while the drone zooms out and away from you.
-
- Reveal: In this mode, Karma will fly towards a subject and slowly rotate the camera gimbal up to the horizon.
-
- Cable Cam: In this mode, you can set two points in the sky and then make the drone fly back and forth between those points over and over again.
-
-#### 5\.  Controller
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
-
- One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
-
-#### Conclusion
-
-Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
-
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -275,15 +87,103 @@ Follow @Max Wales
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
+
+![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
+
+ The rerelease of the Karma drone has fixed the battery removal issue by adding in auxiliary latches which secure the battery in the future. This was the only major change that GoPro made originally but the newest version includes a number of additional features as well.
+
+ Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
+
+## Pros and cons of GoPro Karma
+
+**Pros**
+
+* Good image quality thanks to GoPro Hero5 4k action camera: With a drone that was designed around an already excellent camera, this is definitely a product that is created with the imaging in mind first.
+* Stabilization: The stabilization package has definitely improved not only the silent running of the drone but the way that it controls in the air.
+* Tight controls: The controls on this device are extremely tight and this means it's quite easy to get around in small places or even keep full control on the drone as it's flying in indoor spaces.
+* Portable: The GoPro Karma also has a fold up design which keeps it extremely portable and perfect for fitting in any type of backpack or for taking with you for travel. Just as you would pack along any type of GoPro camera, this is a drone that fits well into luggage or for any type of vacation.
+ **Cons:**
+* Lacks if collision detection: The GoPro Karma did not come with any type of collision detection, autonomous flight control, auto landing function or helpful features that can make flying easier.
+* Short battery life: The other negative aspect of the drone is that even with the improvements to secure the battery the drone comes with a relatively short battery life. If you are looking to get a lot of images from this drone it features just a very short flight time. With zero collision detection or extra features with the computer there are more intelligent drones available on the market that can also boast a [longer battery life](https://tools.techidaily.com/wondershare/filmora/download/)
+**Verdict**
+
+ The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Detailed review for GoPro Karma
+
+#### 1\.  Price
+
+ Karma without a GoPro Camera: $799
+
+ Karma with a GoPro Hero5 Session Camera: $999
+
+ Karma with a GoPro Hero5 Balck Camera: $1099
+
+#### 2\.  Design
+
+ The GoPro Karma drone design is really built to house the camera rather than produce a drone that is simple and intuitive to fly. Although the flight performance is fairly good for its automatic shooting modes, it can be pretty tough to pilot the drone without a bit of practise. The design is quite resilient and lightened which keeps this drone extremely portable.
+
+#### 3\.  Battery and flight time
+
+ The battery life of the GoPro Karma is one of the weakest points of this drone there are many other drones in a similar price point including the DJI mavic that can stay in the sky for over 25 min. with a wealth of other intelligent controls and a similar shooting quality. With a flight time estimated at 20 min. from the 5100 mAH battery, most test flights last around 17 minutes. The drone takes at least an hour to recharge and the controller and grip also need to be regularly charged in order to maintain connection with the device.
+
+#### 4\.  Flight performance
+
+ The flight performance of this drone is basically added best when the drone is placed in one of 4 of the automatic shooting modes. The GoPro doesn't have that many when compared to some of the competition and they are really just the option to shoot ahead, shoot on fixed point with the drone moving, shooting on a point of reveal as well as shooting in an orbit around a subject.
+
+**Four modes**
+
+ Orbit: In this mode, the drone will orbit around a fixed subject.
+
+ Dronie: In this mode, you can take a selfie while the drone zooms out and away from you.
+
+ Reveal: In this mode, Karma will fly towards a subject and slowly rotate the camera gimbal up to the horizon.
+
+ Cable Cam: In this mode, you can set two points in the sky and then make the drone fly back and forth between those points over and over again.
+
+#### 5\.  Controller
+
+![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
+
+ One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
+
+#### Conclusion
+
+Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -307,8 +207,96 @@ Follow @Max Wales
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Pros and cons of GoPro Karma
+
+**Pros**
+
+* Good image quality thanks to GoPro Hero5 4k action camera: With a drone that was designed around an already excellent camera, this is definitely a product that is created with the imaging in mind first.
+* Stabilization: The stabilization package has definitely improved not only the silent running of the drone but the way that it controls in the air.
+* Tight controls: The controls on this device are extremely tight and this means it's quite easy to get around in small places or even keep full control on the drone as it's flying in indoor spaces.
+* Portable: The GoPro Karma also has a fold up design which keeps it extremely portable and perfect for fitting in any type of backpack or for taking with you for travel. Just as you would pack along any type of GoPro camera, this is a drone that fits well into luggage or for any type of vacation.
+ **Cons:**
+* Lacks if collision detection: The GoPro Karma did not come with any type of collision detection, autonomous flight control, auto landing function or helpful features that can make flying easier.
+* Short battery life: The other negative aspect of the drone is that even with the improvements to secure the battery the drone comes with a relatively short battery life. If you are looking to get a lot of images from this drone it features just a very short flight time. With zero collision detection or extra features with the computer there are more intelligent drones available on the market that can also boast a [longer battery life](https://tools.techidaily.com/wondershare/filmora/download/)
+**Verdict**
+
+ The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
+
+## Detailed review for GoPro Karma
+
+#### 1\.  Price
+
+ Karma without a GoPro Camera: $799
+
+ Karma with a GoPro Hero5 Session Camera: $999
+
+ Karma with a GoPro Hero5 Balck Camera: $1099
+
+#### 2\.  Design
+
+ The GoPro Karma drone design is really built to house the camera rather than produce a drone that is simple and intuitive to fly. Although the flight performance is fairly good for its automatic shooting modes, it can be pretty tough to pilot the drone without a bit of practise. The design is quite resilient and lightened which keeps this drone extremely portable.
+
+#### 3\.  Battery and flight time
+
+ The battery life of the GoPro Karma is one of the weakest points of this drone there are many other drones in a similar price point including the DJI mavic that can stay in the sky for over 25 min. with a wealth of other intelligent controls and a similar shooting quality. With a flight time estimated at 20 min. from the 5100 mAH battery, most test flights last around 17 minutes. The drone takes at least an hour to recharge and the controller and grip also need to be regularly charged in order to maintain connection with the device.
+
+#### 4\.  Flight performance
+
+ The flight performance of this drone is basically added best when the drone is placed in one of 4 of the automatic shooting modes. The GoPro doesn't have that many when compared to some of the competition and they are really just the option to shoot ahead, shoot on fixed point with the drone moving, shooting on a point of reveal as well as shooting in an orbit around a subject.
+
+**Four modes**
+
+ Orbit: In this mode, the drone will orbit around a fixed subject.
+
+ Dronie: In this mode, you can take a selfie while the drone zooms out and away from you.
+
+ Reveal: In this mode, Karma will fly towards a subject and slowly rotate the camera gimbal up to the horizon.
+
+ Cable Cam: In this mode, you can set two points in the sky and then make the drone fly back and forth between those points over and over again.
+
+#### 5\.  Controller
+
+![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
+
+ One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
+
+#### Conclusion
+
+Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
+
+![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
+
+ The rerelease of the Karma drone has fixed the battery removal issue by adding in auxiliary latches which secure the battery in the future. This was the only major change that GoPro made originally but the newest version includes a number of additional features as well.
+
+ Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -325,8 +313,9 @@ Follow @Max Wales
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -399,7 +388,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-conquering-challenges-advanced-hdr-workflows-in-ps/"><u>[New] Conquering Challenges Advanced HDR Workflows in PS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-sharing-videos-the-ultimate-youtube-photo-poster/"><u>[New] Expert Tips for Sharing Videos The Ultimate YouTube Photo Poster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-funimate-playbook-strategies-for-success/"><u>[New] Funimate Playbook Strategies for Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-gamers-manual-to-top-frame-rate-enhancers-for-2024/"><u>[Updated] A Gamer's Manual to Top Frame Rate Enhancers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hot-hands-on-10-must-have-vr-peripherals/"><u>[Updated] Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-elevate-your-live-experience-top-10-choices/"><u>[Updated] How to Elevate Your Live Experience Top 10 Choices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comprehensive-guide-to-downloading-standardized-youtube-images/"><u>[Updated] In 2024, Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-on-screen-the-top-15-in-stop-motion-cinema/"><u>2024 Approved Excellence on Screen The Top 15 in Stop Motion Cinema</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-new-era-a-detailed-max-360-vs-hero-11-analysis/"><u>2024 Approved GoPro's New Era A Detailed Max 360 vs Hero 11 Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-industrys-airborenas-titans-10-lifters-reviewed/"><u>2024 Approved Industry's Airborenas Titans 10 Lifters Reviewed</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/expert-tips-on-restoring-files-from-a-faulty-clicking-storage-device/"><u>Expert Tips on Restoring Files From a Faulty Clicking Storage Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-15-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 15 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-lgs-new-tech-horizon-in-bp550/"><u>In 2024, Exploring LG's New Tech Horizon in BP550</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-overflowed-drafters-to-ordered-files-learn-to-edit-hefty-tiktok-content/"><u>In 2024, From Overflowed Drafters to Ordered Files Learn to Edit Hefty TikTok Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximize-your-content-creation-top-rated-mac-mp4-slicers/"><u>In 2024, Maximize Your Content Creation Top-Rated Mac MP4 Slicers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-there-a-difference-between-retweeting-and-retweeting-on-twitter/"><u>Is There a Difference Between ReTweeting and Retweeting on Twitter?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/navigating-through-new-driver-updates-optimizing-your-corsair-audio-experience-on-windows-systems/"><u>Navigating Through New Driver Updates: Optimizing Your Corsair Audio Experience on Windows Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-distort-degrade-and-disrupt-the-best-free-online-glitch-tools/"><u>New Distort, Degrade, and Disrupt The Best Free Online Glitch Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-bluestacks-from-crashing-with-these-5-straightforward-solutions/"><u>Stop BlueStacks From Crashing with These 5 Straightforward Solutions</u></a></li>
+</ul></div>
 

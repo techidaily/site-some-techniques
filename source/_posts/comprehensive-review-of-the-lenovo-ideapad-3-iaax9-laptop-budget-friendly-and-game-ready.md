@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!
-date: 2024-12-13T20:11:42.503Z
-updated: 2024-12-15T23:22:00.365Z
+date: 2024-12-21T21:57:54.855Z
+updated: 2024-12-24T16:00:31.225Z
 tags:
   - deals
 categories:
@@ -104,12 +104,16 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Hardware: Conservative and Heavy** 
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -123,7 +127,7 @@ Jerome Thomas / How-To Geek
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
@@ -144,10 +148,6 @@ Jerome Thomas / How-To Geek
 
 ![Overhead view of the keyboard area of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/top-view-of-the-keyboard-on-the-lenovo-loq-15iax9i_53589683999_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  For gaming purposes, particularly with the use of the classic W, A, S, and D keys for movement, I found the keyboard only OK. It was a little sluggish. It's definitely not a deal-breaker when gaming, but you likely won't be setting any eSports records with the key response times. The touchpad is relatively small and not as smooth as on some other laptops, but it's still perfectly usable and supports touch gestures.
@@ -159,7 +159,7 @@ Jerome Thomas / How-To Geek
 ![Direct view of the Lenovo LOQ 15IAX9I display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-homescreen-of-the-lenovo-loq-15iax9i-2_53589365651_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -173,6 +173,10 @@ Jerome Thomas / How-To Geek
  The built-in [Nahimic](https://steelseries.com/nahimic)\-driven speakers sound OK with reasonable clarity, fair separation, and minimal distortion even at 100% volume, but the default audio profile lacks fullness and bass. They get the job done, especially for laptop speakers, but you'll want to connect to external speakers or headphones for better sound for most entertainment use cases.
 
  The built-in FHD webcam and microphone both do serviceable jobs in terms of clarity. Windows Hello facial recognition is not supported, and there's no fingerprint reader either, so for login and general security purposes, you're left typing in a PIN code.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Games, Benchmarks, and Overall Performance: Full HD or Bust** 
 
@@ -193,10 +197,6 @@ Jerome Thomas / How-To Geek
  The built-in RealTek Wi-Fi 6 (2x2) performed well for me and was roughly in line with other wireless devices on my network. I was able to average a 21ms ping and 460Mbps download from my Eero Pro 6E network, which maxes out at 1.49Gbps. I had a similarly excellent performance with a wired connection from the Gigabit Ethernet port. Likewise, I had no issues with the LOQ 15IAX9I's Bluetooth 5.1 performance, effortlessly connecting to controllers, headphones, and speakers with no noticeable bandwidth issues.
 
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
 
@@ -229,22 +229,16 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-websites-for-3d-metallic-type-imagery/"><u>[New] Excellent Websites for 3D Metallic Type Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>[New] Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>[New] Gaming on the Green Comprehenive Review of Vegas Pro 2021</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>[New] In 2024, Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professionals-picks-the-top-5-drones-to-invest-in/"><u>[New] Professional's Picks The Top 5 Drones to Invest In</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-analyzing-splitcams-place-among-best-recorders/"><u>[Updated] 2024 Approved Analyzing SplitCam's Place Among Best Recorders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-drivers-for-epson-ds-530-compatible-with-windows-10-64-bit/"><u>Essential Drivers for Epson DS-^530 - Compatible With Windows 10 (64-Bit)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-selected-top-ergonomic-keyboards-for-optimal-comfort/"><u>Expertly Selected Top Ergonomic Keyboards for Optimal Comfort</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-live-lite-minute-videos-for-you-for-2024/"><u>FB Live Lite Minute Videos for You for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 14 Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-detecting-instagram-disconnections-fast/"><u>In 2024, Detecting Instagram Disconnections Fast</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-power-of-luts-color-grading-made-easy-in-pro/"><u>In 2024, Exploring the Power of LUTs Color Grading Made Easy in Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-fantastic-the-top-10-lut-sources/"><u>In 2024, Free & Fantastic The Top 10 LUT Sources</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hilarious-hits-for-iphones/"><u>In 2024, Hilarious Hits for iPhones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infuse-rhythms-into-your-whatsapp-story-for-2024/"><u>Infuse Rhythms Into Your WhatsApp Story for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-dialer-in-windows-11-os/"><u>Mastering the Dialer in Windows 11 OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-top-11-supplements-for-dji-phantom-4-users/"><u>[New] 2024 Approved The Top 11 Supplements for DJI Phantom 4 Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-blurred-to-clean-picsarts-background-elimination/"><u>[New] From Blurred to Clean Picsart's Background Elimination</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-revamping-imagery-leading-insta-edits-explored-for-2024/"><u>[New] Revamping Imagery Leading Insta Edits Explored for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-the-finest-7-wet-proof-recorders/"><u>[Updated] Expert Tips The Finest 7 Wet-Proof Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foundations-in-digital-visual-narratives/"><u>[Updated] Foundations in Digital Visual Narratives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-freelance-filmmaker-to-full-time-financier-snapchat-storytelling-for-2024/"><u>From Freelance Filmmaker to Full-Time Financier Snapchat Storytelling for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-14-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 14</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-best-face-pixeling-tools-for-privacy/"><u>In 2024, Exploring the Best Face-Pixeling Tools for Privacy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-examination-samsung-gear-360-virtual-reality-lens-for-2024/"><u>In-Depth Examination Samsung Gear 360 Virtual Reality Lens for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-distracting-sounds-in-airpods-by-deactivating-head-tracking-technology/"><u>Stop Distracting Sounds in AirPods by Deactivating Head-Tracking Technology</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-latest-google-nest-doorbell-with-batteries-our-detailed-insights/"><u>Unboxing and Testing the Latest Google Nest Doorbell with Batteries - Our Detailed Insights</u></a></li>
 </ul></div>
 

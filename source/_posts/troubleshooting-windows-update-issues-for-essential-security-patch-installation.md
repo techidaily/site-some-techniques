@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Issues for Essential Security Patch Installation
-date: 2024-12-12T01:06:32.548Z
-updated: 2024-12-15T22:12:36.370Z
+date: 2024-12-19T21:34:31.299Z
+updated: 2024-12-24T17:29:36.282Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting Windows Update Issues for Essential Security Patch Installation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,12 +31,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Update Now' highlighted on the Windows Update Assistant site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-download-windows-update-assistant.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the downloaded tool file, install the updates displayed in the tool, and [restart your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/).
 
  In the future, you can update your system from Settings > Update & Security > Windows Update as usual without encountering the above error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Clear Your Windows Update Cache
 
@@ -49,7 +57,7 @@ services.msc
 !['Stop' highlighted for the 'Windows Update' service on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-stop-windows-update-service.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, open the Run dialog box again, enter the following in the field, and press Enter:
@@ -65,7 +73,7 @@ C:\Windows\SoftwareDistribution\
  To now update your PC, head into Settings > Update & Security > Windows Update and find and install the available updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Use the Windows Update Troubleshooter
@@ -86,10 +94,6 @@ C:\Windows\SoftwareDistribution\
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the "User Account Control" prompt, choose "Yes".
 
  On the Command Prompt window, type the following command and press Enter. This will download the files needed to fix your corrupted files.
@@ -97,10 +101,6 @@ C:\Windows\SoftwareDistribution\
 DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![The DISM command on a Command Prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-run-dism-command-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next up, run the following command to begin finding and fixing your system’s damaged files:
 
@@ -127,22 +127,19 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-ranking-the-leading-15-affordable-online-image-editors/"><u>[New] 2024 Approved Ultimate Ranking The Leading 15 Affordable Online Image Editors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos-for-2024/"><u>[Updated] Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-uncover-hidden-facebook-vids-updated-guide-for-2024/"><u>[Updated] How to Uncover Hidden Facebook Vids (Updated Guide) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-precision-visuals-mastering-close-ups-in-msteams/"><u>[Updated] Precision Visuals Mastering Close-Ups in MSTEAMS</u></a></li>
-<li><a href="https://win11.techidaily.com/blending-worlds-kali-installation-guide-for-windows-users/"><u>Blending Worlds: Kali Installation Guide for Windows Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explorez-clairement-tous-les-bienfaits-de-lutilisation-dabbyy-recognition-server-avec-rewalk/"><u>Explorez Clairement Tous Les Bienfaits De L'utilisation D’ABBYY Recognition Server Avec Rewalk</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-x50iplus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor X50i+ Phone Now with These Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/integration-of-abbyy-flexicapture-with-paperstream-nx-manager-maximizing-efficiency-for-pfu-applications/"><u>Integration of ABBYY FlexiCapture with PaperStream NX Manager: Maximizing Efficiency for PFU Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Analytics and Personalization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leveraging-advanced-analytics-via-cookiebot-integration/"><u>Leveraging Advanced Analytics via Cookiebot Integration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/masterclass-by-abbyy-enhancing-user-engagement-through-innovative-onboarding-techniques/"><u>Masterclass by ABBYY: Enhancing User Engagement Through Innovative Onboarding Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-e-invoice-management-in-ap-comprehensive-strategies-using-abbyy-software/"><u>Mastering E-Invoice Management in AP: Comprehensive Strategies Using ABBYY Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/mastering-financial-exposure-a-comprehensive-guide-on-reducing-libor-contract-vulnerabilities/"><u>Mastering Financial Exposure: A Comprehensive Guide on Reducing LIBOR Contract Vulnerabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-media-streaming-the-complete-walkthrough-for-installing-kodi-on-xbox-one-updated/"><u>Mastering Media Streaming: The Complete Walkthrough for Installing Kodi on Xbox One (Updated )</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/neueste-entwicklungen-im-handelskredit-bereich-bewaltigen-sie-die-zukunftigen-hindernisse-mit-kreativitat/"><u>Neueste Entwicklungen Im Handelskredit Bereich: Bewältigen Sie Die Zukünftigen Hindernisse Mit Kreativität</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-implementing-visual-learning-strategies-in-classrooms/"><u>[New] Implementing Visual Learning Strategies in Classrooms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-keywords-for-seo/"><u>[New] Incorporating Keywords for SEO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improving-frame-rate-in-warped-web-videos/"><u>[Updated] Improving Frame Rate in Warped Web Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-understanding-googles-ar-sticker-innovation/"><u>[Updated] In 2024, Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-video-edits-leveraging-kinemasters-techniques/"><u>[Updated] Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-boosting-facebook-video-performance/"><u>2024 Approved Boosting Facebook Video Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>2024 Approved Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-advantages-of-mechanical-switches-in-pcs/"><u>Exploring the Advantages of Mechanical Switches in PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-everything-you-need-to-know-about-3d-lut-creator/"><u>In 2024, Everything You Need to Know About 3D LUT Creator</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-c55-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme C55 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pick-the-finest-format-converter-for-audio-files-in-wv-compare-mp3-flac-wav-and-more/"><u>Pick the Finest Format Converter for Audio Files in WV: Compare MP3, FLAC, WAV & More!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/tutorial-how-to-stream-movies-and-show-via-usb-on-hisense-smart-tvs/"><u>Tutorial: How to Stream Movies and Show via USB on Hisense Smart TVs</u></a></li>
 </ul></div>
 
